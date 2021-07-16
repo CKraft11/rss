@@ -3,9 +3,77 @@
 		<title>Main stream | FreshRSS</title>
 		<link>http://radon</link>
 		<description>RSS feed of Main stream | FreshRSS</description>
-		<pubDate>Fri, 16 Jul 2021 16:29:07 +0100</pubDate>
-		<lastBuildDate>Fri, 16 Jul 2021 15:29:07 GMT</lastBuildDate>
+		<pubDate>Fri, 16 Jul 2021 16:59:06 +0100</pubDate>
+		<lastBuildDate>Fri, 16 Jul 2021 15:59:06 GMT</lastBuildDate>
 		<atom:link href="http://radon/i/?a=rss" rel="self" type="application/rss+xml" />
+		<item>
+			<title>We’re Hiring A Data Editor</title>
+			<link>https://fivethirtyeight.com/features/were-hiring-a-data-editor/</link>
+						<dc:creator>Jennifer Mason</dc:creator>
+			<dc:creator>Jennifer Mason</dc:creator>
+			<category>FiveThirtyEight Jobs</category>
+			<category>Housekeeping</category>
+			<description><![CDATA[
+<p data-paragraph="main">FiveThirtyEight is seeking an organized, process-savvy and detail-oriented Data Editor to empower some of our newsroom’s most ambitious work. This full-time role is an opportunity to apply your analytical and creative powers to all stages of a story’s evolution, from conception to publication. In particular, the Data Editor will be responsible for reviewing the methodological and statistical choices made in our stories, checking the accuracy of statistical and empirical claims made across all areas of coverage (including politics, sports and science), publishing datasets we’ve created, maintaining internal reference databases (including our one-of-a-kind database of public-opinion polling) and supervising the work of two research assistants.</p>
+
+
+
+<p data-paragraph="main">The Data Editor will report to the Copy Chief and work closely with the Interactives Editor to support our polling and data infrastructure. This full-time role with benefits is a U.S.-based position, and remote work may be considered. To apply, please submit a cover letter and résumé through the <a href="https://jobs.disneycareers.com/job/new-york/data-editor-fivethirtyeight/391/19594582" target="_blank" rel="noopener">Disney Careers portal</a>. Due to the number of applications we receive, individual emails to the hiring manager cannot be answered.</p>
+
+
+
+<h2>Responsibilities:</h2>
+
+
+
+<ul><li>Function as the quantitative editor on daily and feature stories — i.e., vet the methodological choices underlying the data analysis by FiveThirtyEight reporters and freelancers, audit the code in that analysis, and double-check the statistical and empirical claims being made.</li><li>Collaborate with the Copy Desk to manage daily and weekly editorial workflow, ensuring that quantitative edits are completed in a timely manner.</li><li>Maintain our proprietary polls database with the help of two part-time research assistants, whom you will supervise, plus support from the Interactives Team.</li><li>Publish datasets to our public-data repository and work with the Interactives Team to maintain and improve those pages.</li><li>Collaborate with reporters and the Interactives Team on data-intensive projects — especially those involving polls — from conception to publication.</li></ul><h2>Basic Qualifications:</h2>
+
+
+
+<ul><li>Experience conducting original data analysis and/or critically evaluating others’ work.</li><li>Demonstrated success collaborating with kindness and generosity on large, multi-stakeholder projects and completing complex work under deadline pressure.</li><li>A deep understanding of statistics (particularly causal inference), survey methodologies, and the uses of public-opinion polling.</li><li>Fluency in spreadsheets, conceptual understanding of relational databases, and facility with at least one programming language (ideally R) plus an enthusiasm for learning new technologies as needed.</li><li>The ability to derive satisfaction from patiently and incrementally improving and documenting evergreen data resources.</li></ul><h2>Preferred Qualifications:</h2>
+
+
+
+<ul><li>Journalism experience or a robust understanding of the editorial process. If your experience was as a copy editor or fact-checker, that’s even better, as having meticulous attention to detail is key.</li><li>Experience reviewing and evaluating academic papers to identify and correct methodological flaws.</li><li>Experience supervising the work of others.</li><li>A solid understanding of U.S. politics, particularly electoral politics.</li><li>An enthusiasm for U.S. sports and sports statistics.</li><li>Fluency in Ruby and experience with Ruby on Rails.</li><li>A robust understanding of statistical models, such as those used to forecast sports or election results.</li></ul>]]></description>
+			<pubDate>Fri, 16 Jul 2021 15:21:00 +0100</pubDate>
+			<guid isPermaLink="false">1626449401572390</guid>
+		</item>
+		<item>
+			<title>We’re Hiring A Senior Politics Reporter</title>
+			<link>https://fivethirtyeight.com/features/were-hiring-a-senior-politics-reporter/</link>
+						<dc:creator>Sarah Frostenson</dc:creator>
+			<dc:creator>Sarah Frostenson</dc:creator>
+			<category>FiveThirtyEight Jobs</category>
+			<category>Politics</category>
+			<description><![CDATA[
+<p data-paragraph="main">FiveThirtyEight is seeking a senior reporter to write in-depth pieces on U.S. politics and elections with a particular focus on the intersection of politics and culture — how culture increasingly influences political identity and what that means for our politics, but also what that means for our society. We are at a critical juncture in American history, and we need an experienced reporter to work both independently and in collaboration with colleagues across the newsroom to help us tell authoritative stories about American democracy, the electorate and the larger trends changing each.</p>
+
+
+
+<p data-paragraph="main">A successful candidate will have produced longer, ambitious features and shorter, day-to-day stories. In other words, we’re looking for someone with experience successfully defining and covering a particular beat — pushing that beat forward week to week but also taking a step back to write stories with scope and sweep. We’re also looking for someone with a demonstrated track record of combining reporting and empirical evidence in their stories, but that work can take many forms — seeking academic expertise or using census information, polls or other statistics in your reporting, for example. Statistical skills would be a plus but are by no means required. What is most important to us is that you have experience combining data with more traditional reporting to tell big, important and <em>original </em>stories about this moment in our nation’s history and what might come next. How is the electorate changing — its makeup, its opinions? How are the parties changing? And what does all that mean for our democracy and our society?</p>
+
+
+
+<p data-paragraph="main">The Senior Politics Reporter will report to the Politics Editor, but we’re looking for someone eager to collaborate with colleagues across the newsroom (our video, podcast and visual journalists, most especially). The Senior Politics Reporter is a U.S.-based position and remote work may be considered. The position is full-time with benefits. Apply with a cover letter and resume <a href="https://jobs.disneycareers.com/job/new-york/senior-politics-reporter-fivethirtyeight/391/19594574" target="_blank" rel="noreferrer noopener">at the Disney jobs portal</a>.</p>
+
+
+
+<h2>Responsibilities:</h2>
+
+
+
+<ul><li>Write a mix of short and longer features each month that explore how culture and politics intersect.</li><li>Contribute to FiveThirtyEight’s podcasts and videos.</li><li>Work with the editing and graphics teams to occasionally develop and execute major projects.</li><li>Work with the Politics Editor and other colleagues to help guide FiveThirtyEight’s political coverage in general.</li></ul><h2>Basic Qualifications:</h2>
+
+
+
+<ul><li>Experience as a reporter covering U.S. politics either at the local or national level.</li><li>A track record of coming up with and executing original story ideas that involve in-depth reporting and analysis.</li><li>Experience using data in your reporting.</li></ul><h2>Preferred Qualifications:</h2>
+
+
+
+<ul><li>Experience working with academic and scientific research on politics, race and ethnicity.</li><li>Familiarity with spreadsheet software and analyzing data.</li></ul>]]></description>
+			<pubDate>Fri, 16 Jul 2021 15:21:00 +0100</pubDate>
+			<guid isPermaLink="false">1626449401572389</guid>
+		</item>
 		<item>
 			<title>How Long Can Texas Democrats Hold Out?</title>
 			<link>https://fivethirtyeight.com/features/how-long-can-texas-democrats-hold-out/</link>
@@ -1906,272 +1974,6 @@
 <p>Watch: https://abcnews.go.com/fivethirtyeight/video/democrats-election-reform-dont-votes-78431465</p>]]></description>
 			<pubDate>Fri, 02 Jul 2021 11:00:00 +0100</pubDate>
 			<guid isPermaLink="false">1626126815167280</guid>
-		</item>
-		<item>
-			<title>The Supreme Court Just Made It Harder To Overturn Voting Restrictions</title>
-			<link>https://fivethirtyeight.com/features/the-supreme-court-just-made-it-harder-to-fight-voting-restrictions/</link>
-						<dc:creator>Nathaniel Rakich</dc:creator>
-			<dc:creator>Nathaniel Rakich</dc:creator>
-			<category>Arizona</category>
-			<category>John Roberts</category>
-			<category>SCOTUS</category>
-			<category>Supreme Court</category>
-			<category>Voting Restrictions</category>
-			<category>Voting Rights</category>
-			<category>Voting Rights Act</category>
-			<description><![CDATA[
-<p data-paragraph="main">In a <a href="https://www.supremecourt.gov/opinions/20pdf/19-1257_g204.pdf" target="_blank" rel="noopener">6-3 decision</a> that broke down along ideological lines, the U.S. Supreme Court on Thursday overturned a lower court’s ruling that two election laws in Arizona were racially discriminatory. But the case has implications far beyond Arizona: The ruling also seriously limits the power of the Voting Rights Act of 1965 to block voting restrictions like those <a href="https://fivethirtyeight.com/features/republicans-have-made-it-harder-to-vote-in-11-states-so-far/" target="_blank" rel="noopener">currently being passed in Republican-led states</a> — and that could make it harder for voting-rights advocates to win similar lawsuits in the future.</p>
-
-
-
-<p data-paragraph="main">The case, Brnovich v. Democratic National Committee, dealt with two Arizona voting restrictions: one that made it a felony (with a few exceptions, like for family) to deliver another person’s absentee ballot, and one that threw out provisional ballots cast by voters who showed up at the wrong precinct. In early 2020, the 9th U.S. Circuit Court of Appeals sided with the Democratic plaintiffs and <a href="https://www.azcentral.com/story/news/politics/elections/2020/01/27/arizona-ballot-harvesting-law-discriminates-minority-voters-ninth-circuit/4589610002/" target="_blank" rel="noopener">invalidated both restrictions</a> on the grounds that they disproportionately harmed nonwhite voters, <a href="https://www.scotusblog.com/2021/02/justices-to-consider-whether-arizonas-voting-rules-discriminate-against-minorities/" target="_blank" rel="noopener">noting</a> that only 18 percent of Native American voters in Arizona have access to regular mail service and that African American, Hispanic and Native American Arizonans were twice as likely as white Arizonans to vote at the wrong precinct. However, on Thursday, the Supreme Court ruled that these two voting restrictions do not violate Section 2 of the Voting Rights Act, which prohibits racial discrimination in voting, and reinstated them. </p>
-
-
-
-<p data-paragraph="main">Crucially, the court also identified “guideposts” for interpreting Section 2 that it used to arrive at its decision. While the court made a point of saying it was not establishing a test to govern all Voting Rights Act Section 2 cases, these guideposts are essentially a template for future courts to follow when ruling in voting-rights cases. And that template is a decidedly conservative one. For example, “courts must consider the opportunities provided by a State’s entire system of voting when assessing the burden imposed by a challenged provision,” the court wrote — claiming that Arizona, on the whole, “makes it very easy to vote.” (It’s worth noting, however, that Arizona got a below-average grade in the <a href="https://www.liebertpub.com/doi/10.1089/elj.2020.0666" target="_blank" rel="noopener">2020 Cost of Voting Index</a>, a metric in political science used to measure the ease of voting in and across states.) The Supreme Court also suggested another factor should be “the size of the burden imposed by a challenged voting rule” — specifically, the court asserted that making it inconvenient to vote does not rise to the level of taking away a person’s right to vote. </p>
-
-
-
-<p data-paragraph="main">In addition, the court noted that the “the size of any disparities in a rule’s impact on members of different racial or ethnic groups is an important factor to consider.” But the burden of proof the court requires for racial discrimination to have occurred is high. “Even neutral regulations may well result in disparities in rates of voting and noncompliance with voting rules. The mere fact that there is some disparity in impact does not necessarily mean that a system is not equally open or that it does not give everyone an equal opportunity to vote.”</p>
-
-
-<p>Watch: https://abcnews.go.com/ThisWeek/video/reason-gop-make-harder-people-vote-silver-76734563</p>
-
-
-<p data-paragraph="main">Thanks to these guideposts, this ruling has implications for not only the two Arizona regulations, but for laws like them around the country. So far in 2021, Republican-controlled state governments have enacted at least 33 new voting restrictions, from <a href="https://fivethirtyeight.com/features/republicans-have-made-it-harder-to-vote-in-11-states-so-far/" target="_blank" rel="noopener">limits on absentee voting to tighter voter-ID laws</a> to <a href="https://fivethirtyeight.com/features/the-states-where-efforts-to-restrict-voting-are-escalating/" target="_blank" rel="noopener">drop-box restrictions to early-voting cuts</a>. And up until now, Section 2 of the Voting Rights Act was a key tool for liberals who had failed to block these laws in the legislature to keep fighting them in court. Voting-rights advocates have already used Section 2 to <a href="https://www.democracydocket.com/wp-content/uploads/sites/45/2021/04/show_temp-7.pdf" target="_blank" rel="noopener">file suit</a> against <a href="https://www.justice.gov/opa/pr/justice-department-files-lawsuit-against-state-georgia-stop-racially-discriminatory" target="_blank" rel="noopener">these new restrictions</a>, including a <a href="https://fivethirtyeight.com/features/why-georgias-new-voting-law-is-such-a-big-deal/" target="_blank" rel="noopener">controversial Georgia law</a> that required proof of identity to vote absentee and prohibited giving food or water to voters waiting in line. But now those lawsuits will likely need to clear higher bars in order to be successful, even in courts that might otherwise be sympathetic (and, of course, the decision in Brnovich v. DNC strongly hints at how such lawsuits may be decided if one eventually winds up in front of the Supreme Court). </p>
-
-
-
-<p data-paragraph="main">Brnovich v. DNC marks the second major blow the Supreme Court has dealt to the Voting Rights Act under Chief Justice John Roberts, who has <a href="https://www.vox.com/21211880/supreme-court-chief-justice-john-roberts-voting-rights-act-election-2020" target="_blank" rel="noopener">worked against the act</a> since his days as a <a href="https://www.politico.com/magazine/story/2015/08/john-roberts-voting-rights-act-121222/" target="_blank" rel="noopener">young staffer in Ronald Reagan’s Department of Justice</a>. In 2013, the case <a href="https://www.scotusblog.com/case-files/cases/shelby-county-v-holder/" target="_blank" rel="noopener">Shelby County v. Holder</a> neutered Section 5 of the act, which requires jurisdictions with a history of racial discrimination to preclear new voting rules with the federal Department of Justice. The court called the formula for determining those jurisdictions — outlined in Section 4(b) — outdated and <a href="https://abcnews.go.com/Politics/supreme-court-strikes-portion-voting-rights-act/story?id=19459258" target="_blank" rel="noopener">struck it down</a>, with the result that Section 5 no longer covers any jurisdictions at all until Congress passes a new formula (which it has not yet done).<a data-footnote-id="16" href="https://fivethirtyeight.com/wp-json/wp/v2/espn_verticals/398#fn-16" data-footnote-content='&lt;p&gt;&lt;p&gt;However, the proposed &lt;a href="https://nymag.com/intelligencer/2021/06/what-would-the-john-lewis-voting-rights-act-actually-do.html" target="_blank" rel="noopener"&gt;John Lewis Voting Rights Act&lt;/a&gt; would change that.&lt;/p&gt;
-&lt;/p&gt;'><sup>16</sup></a> The impact of that ruling was significant: According to an <a href="https://www.motherjones.com/politics/2021/06/eight-years-ago-the-supreme-court-gutted-the-voting-rights-act-widespread-voter-suppression-resulted/" target="_blank" rel="noopener">analysis by Mother Jones</a>, 26 states passed new voting restrictions once the preclearance requirement was struck down — <a href="https://www.brennancenter.org/sites/default/files/2019-11/New%20Voting%20Restrictions.pdf" target="_blank" rel="noopener">including one of the Arizona laws</a> at issue in Brnovich v. DNC. </p>
-
-
-
-<p data-paragraph="main">Indeed, this ruling is just the latest indication that one of the Roberts-led court’s main legacies will be curbing the federal government’s say in states’ voting laws (and instead, deferring more to states, which, in Republican-controlled states, has meant more restrictions in recent years). From 2009 to 2019, there were <a href="http://scdb.wustl.edu/analysisOverview.php?sid=2001-LONGJOHN-1969" target="_blank" rel="noopener">five 5-4 Supreme Court decisions on voting-rights cases</a>, and the conservative bloc was in the majority in all five of them. In addition to its decisions in Brnovich v. DNC and Shelby County v. Holder, the court has made it easier for states to purge voters from the rolls (<a href="https://www.scotusblog.com/case-files/cases/husted-v-philip-randolph-institute/" target="_blank" rel="noopener">Husted v. A. Philip Randolph Institute</a>) and repeatedly declined to get involved in fixing gerrymandering (<a href="https://www.scotusblog.com/case-files/cases/abbott-v-perez-2/" target="_blank" rel="noopener">Abbott v. Perez</a>, <a href="https://www.scotusblog.com/case-files/cases/rucho-v-common-cause-2/" target="_blank" rel="noopener">Rucho v. Common Cause</a>). With its new 6-3 conservative majority, it’s early yet to know how rightward the Roberts-led court will push the country, but there is no denying it has already had a deeply conservative impact on election law.</p>
-
-
-<p>Watch: https://abcnews.go.com/fivethirtyeight/video/voting-restrictions-states-76759234</p>
-
-<p>Watch: https://abcnews.go.com/fivethirtyeight/video/republicans-starting-make-climate-agenda-fivethirtyeight-politics-podcast-78546775</p>]]></description>
-			<pubDate>Thu, 01 Jul 2021 17:54:00 +0100</pubDate>
-			<guid isPermaLink="false">1626126815167279</guid>
-		</item>
-		<item>
-			<title>More People Are Buying Guns. Fewer People Are Getting Background Checks.</title>
-			<link>https://fivethirtyeight.com/features/more-people-are-buying-guns-fewer-people-are-getting-background-checks/</link>
-						<dc:creator>Joshua Eaton</dc:creator>
-			<dc:creator>Joshua Eaton</dc:creator>
-			<category>Background Checks</category>
-			<category>FBI</category>
-			<category>Gun Control</category>
-			<category>Gun Sales</category>
-			<category>Gun Violence</category>
-			<category>Guns</category>
-			<description><![CDATA[
-<p data-paragraph="main">America’s gun background check system, designed to keep weapons out of the hands of people who might use them in crimes, has struggled to <a href="https://www.nytimes.com/2021/06/01/us/shootings-in-us.html" target="_blank" rel="noopener">keep up with record firearms sales over the past year</a> — <a href="https://www.nytimes.com/2021/06/01/us/shootings-in-us.html" target="_blank" rel="noopener">even as violent crime has risen dramatically in many U.S. cities</a>.</p>
-
-
-
-<p data-paragraph="main">In recent years, the FBI — which manages the system that vets gun buyers — processed an average of 8.6 million gun background checks annually, according to historical data analyzed by FiveThirtyEight.<a data-footnote-id="17" href="https://fivethirtyeight.com/wp-json/wp/v2/espn_verticals/398#fn-17" data-footnote-content="&lt;p&gt;&lt;p&gt;Data goes back to 2014.&lt;/p&gt;
-&lt;/p&gt;"><sup>17</sup></a> But last year, the bureau processed 12,761,328 background checks, according to FBI data obtained by FiveThirtyEight through a public records request.</p>
-
-
-
-<p data-paragraph="main">Perhaps most alarming, the FBI never finished over 316,000 background checks in the first nine months of 2020 alone — far more than in any other year on record. And that number doesn’t include October, November and December — usually the <a href="https://www.documentcloud.org/documents/6444698-Roof-FBI-report-PACER#document/p21/a573849" target="_blank" rel="noopener">busiest months</a> for gun sales, when 3.4 million background checks were opened last year.</p>
-
-
-
-<p data-paragraph="main">In other words, it’s impossible to know how many guns were sold to people in 2020 who couldn’t legally own them because those background checks were never completed.</p>
-
-
-<p>Watch: https://abcnews.go.com/fivethirtyeight/video/support-gun-control-led-legislation-77033996</p>
-
-
-<p data-paragraph="main">Asked why it didn’t finish so many background checks in 2020, the FBI said in a statement that it “depends on the availability of relevant information and records provided by federal, state, local, and tribal agencies.” The bureau also said that it has “reallocated resources to help ensure that it can continue processing background checks efficiently.”</p>
-
-
-
-<p data-paragraph="main">Gun sales have <a href="https://fivethirtyeight.com/features/gun-sales-are-surging-but-background-checks-arent-keeping-up/" target="_blank" rel="noopener">surged since April 2020</a>, thanks, at least in part, to the pandemic, protests last summer for racial justice and the election of President Biden in November. The FBI data shows how the background check system has struggled to keep up. And, at this point, it’s unclear when the problem is going to get better.</p>
-
-
-
-<h2><strong>A growing problem</strong></h2>
-
-
-
-<p data-paragraph="main">The share of background checks the FBI never completes has ticked up slowly since 2014, the first year on record, when it processed 8,256,688 checks and didn’t complete 172,879, or just under 2.1 percent. </p>
-
-
-
-<p data-paragraph="main">But by 2019, the bureau was failing to complete about 2.5 percent of the background checks it processed, and it didn’t finish almost 3.4 percent in the first nine months of 2020.</p>
-
-
-
-<p data-paragraph="main">Those numbers only include gun background checks run by the FBI, so they don’t count the 20 states that <a href="https://www.fbi.gov/file-repository/nics-participation-map.pdf/view" target="_blank" rel="noopener">process some or all background checks themselves</a>. It’s also important to remember that the number of background checks isn’t the same as the number of guns sold — many <a href="https://www.documentcloud.org/documents/7008276-2019-Nics-Operations-Report.html#document/p8/a573798" target="_blank" rel="noopener">are also run</a> when people apply for gun permits, for example, or when states check on the status of gun permit holders. A single background check can also <a href="https://www.nraila.org/articles/20200210/2020-starts-with-another-nics-record" target="_blank" rel="noopener">represent multiple gun sales</a>.</p>
-
-
-
-<p data-paragraph="main">Still, the background check numbers for 2020 are staggering. </p>
-
-
-<div>
-	<p>
-		<a href="https://fivethirtyeight.com/features/militias-pose-a-serious-threat-so-why-is-it-so-hard-to-stop-them/?cid=_inlinerelated"><img alt="A militia member shot from behind gesturing out at a blue sky and green field. The patch on his hat says “Three Percenter”" width="153" height="115" data-sizes="(min-width: 440px) 153px, 100vw" data-srcset="https://fivethirtyeight.com/wp-content/uploads/2021/05/RTS1A17S-4x3-1.jpg?w=153&amp;quality=100&amp;strip=all 153w, https://fivethirtyeight.com/wp-content/uploads/2021/05/RTS1A17S-4x3-1.jpg?w=306&amp;quality=100&amp;strip=all 306w, https://fivethirtyeight.com/wp-content/uploads/2021/05/RTS1A17S-4x3-1.jpg?w=405&amp;quality=100&amp;strip=all 405w, https://fivethirtyeight.com/wp-content/uploads/2021/05/RTS1A17S-4x3-1.jpg?w=810&amp;quality=100&amp;strip=all 810w"></a>
-	</p>
-	<p>
-				<strong>related:</strong>
-				Why Militias Are So Hard To Stop <a href="https://fivethirtyeight.com/features/militias-pose-a-serious-threat-so-why-is-it-so-hard-to-stop-them/?cid=_inlinerelated">Read more. »</a>
-	</p>
-</div>
-
-
-
-<p data-paragraph="main">The consulting firm Small Arms Analytics &amp; Forecasting uses the total number of federal and state background checks to estimate how many represent actual gun sales, rather than concealed-carry permits or other processes that go through the background check system.</p>
-
-
-
-<p data-paragraph="main">There were a total of more than 39.3 million federal and state background checks in 2020, <a href="https://www.fbi.gov/file-repository/nics_firearm_checks_-_year_by_state_type.pdf/view" target="_blank" rel="noopener">according to the FBI</a>. From that, the firm estimates that <a href="http://smallarmsanalytics.com/v1/pr/2021-01-05.pdf" target="_blank" rel="noopener">almost 23 million</a> guns were sold last year, compared to <a href="http://smallarmsanalytics.com/v1/pr/2020-01-06.pdf" target="_blank" rel="noopener">just 13.9 million</a> in 2019.</p>
-
-
-
-<p data-paragraph="main">The firm’s chief economist, Jurgen Brauer, said he hasn’t seen anything like it in his 15 years working with the background check data.</p>
-
-
-
-<p data-paragraph="main">“Nobody has,” Brauer said. “Everyone you talk with in the industry is perplexed.”</p>
-
-
-
-<p data-paragraph="main">In fact, before the pandemic, <a href="https://www.nytimes.com/2020/02/23/business/media/guns-sales-advertising-strategy.html" target="_blank" rel="noopener">gun sales were so low</a> observers called it the “Trump slump.” But they then spiked dramatically in March 2020, and have remained high over the last year, overwhelming the background check system.</p>
-
-
-
-<h2><strong>From bad to worse</strong></h2>
-
-
-
-<p data-paragraph="main">Three numbers highlight the size of the problem we’re dealing with: (1) how many background checks take longer than three business days; (2) how many checks the FBI never completes; and (3) how many people who can’t legally own a gun are able to buy one anyway because of those delays.</p>
-
-
-
-<p data-paragraph="main">The FBI responds to most gun background checks with an immediate “yes” or “no.” But sometimes, it has to delay the check to do more research because its records are incomplete. After three business days, the dealer can sell the gun anyway. Many, including large chains like Walmart, choose not to. But ones that do don’t have to tell the FBI about it.</p>
-
-
-
-<p data-paragraph="main">In an average year, almost 275,000 background checks take longer than three business days. In 2020, there were 535,786 such checks, according to FBI data. That number doesn’t include background checks for things like concealed-carry permits or explosives licenses, which aren’t subject to the three-business-day rule.</p>
-
-
-
-<p data-paragraph="main">Meanwhile, the FBI keeps researching. But after 90 days, the bureau’s regulations require it to stop work and delete the background check from its computers. To make sure it doesn’t violate that policy, the bureau actually deletes unfinished background checks on day 88 just to be safe.</p>
-
-
-
-<p data-paragraph="main">In the first nine months of 2020, the FBI deleted 316,912 unfinished background checks — 3.4 percent of all the checks it processed. In an average year, it deletes about 202,000. Again, this only includes background checks that are subject to the three-business-day rule.</p>
-
-
-
-<p data-paragraph="main">If the FBI discovers that the potential buyer can’t own a gun in between day three and day 88, it contacts the dealer to see if the sale went through anyway. If it did, the FBI asks the Bureau of Alcohol, Tobacco, Firearms and Explosives (the ATF) to retrieve the weapon.</p>
-
-
-
-<p data-paragraph="main">Between 2014 and 2019, there were on average at least 3,800 of these so-called “delayed denial” sales annually, <a href="https://everytownresearch.org/documents/2021/02/2021-0075-final-response-packet-_atf_everytown_redacted.pdf/" target="_blank" rel="noopener">according to ATF data</a> obtained by the gun-control advocacy group Everytown for Gun Safety. But there were at least 5,807 in all of 2020, according to the ATF data — the most since 2006, the first complete year on record.</p>
-
-
-
-<p data-paragraph="main">There’s no evidence that delayed denial sales are a major driver of crime, and some point to the relatively small number that ATF records each year as proof that the law doesn’t need to change.</p>
-
-
-<p>Watch: https://abcnews.go.com/US/video/remembering-george-floyd-year-protest-77890592</p>
-
-
-<p data-paragraph="main">But the ATF data is just the part of the iceberg that’s above the water. The FBI does not finish most gun background checks that take longer than three business days. Because it deletes those unfinished background checks, it’s impossible to know how many would have been denied — and how many of those people were able to buy a gun anyway.</p>
-
-
-
-<p data-paragraph="main">And even if the numbers are relatively small, they can have tragic consequences. In April 2015, Dylann Roof <a href="https://archive.thinkprogress.org/exclusive-the-fbi-allowed-over-300-000-gun-purchases-last-year-before-completing-a-background-9d380d53aa1d/" target="_blank" rel="noopener">bought a .45-caliber Glock handgun</a> a few days after the FBI delayed his background check because of incomplete records about his prior drug arrest. Two months later, Roof used the gun to kill nine people during a Bible study at a historically Black church in Charleston, South Carolina.</p>
-
-
-
-<p data-paragraph="main">The three-business-day deadline is <a href="https://www.thetrace.org/2015/07/brady-bill-amendment-default-proceed-loophole-amendment-nra/" target="_blank" rel="noopener">written into federal law</a>. But deleting unfinished background checks after 88 days is a matter of FBI regulations and policy, according to Rob Wilcox, federal legal director for Everytown.</p>
-
-
-
-<p data-paragraph="main">“There’s no law that requires the FBI to delete delayed background checks,” Wilcox said. “The regulation sets the deletion date at 90 days, and that regulation could be changed through the administrative process.”</p>
-
-
-
-<h2><strong>Few answers and fewer solutions</strong></h2>
-
-
-
-<p data-paragraph="main">The question of why so many background checks go unfinished, and why the numbers haven’t improved over time, doesn’t have a clear answer.</p>
-
-
-
-<p data-paragraph="main">The FBI poured millions into upgrading and automating parts of the gun background check system from 2012 to 2016, and Congress passed new legislation aimed at fixing the system in 2018. But every year, the delays keep piling up.</p>
-
-
-
-<p data-paragraph="main">The 2015 FBI report on Roof’s background check <a href="https://www.rollcall.com/2019/10/10/charleston-mass-murderer-got-his-gun-because-of-background-check-gaps-internal-report-shows/" target="_blank" rel="noopener">found that</a> slow responses and incomplete records were the biggest cause of delays. It also singled out FBI policies that limited how inspectors from the National Instant Criminal Background Check System (NICS) could do research on a background check and how the system prioritized keeping the immediate response rate at 90 percent rather than clearing the relatively small number of open cases.</p>
-
-
-
-<p data-paragraph="main">The report <a href="https://www.documentcloud.org/documents/6444698-Roof-FBI-report-PACER#document/p21/a573849" target="_blank" rel="noopener">also found</a> that NICS had trouble handling the normal volume of background checks without resorting to an “escalation plan” that involved surging all available staff to handle background check requests.</p>
-
-
-
-<p data-paragraph="main">FiveThirtyEight asked the FBI whether it has enough staff to process the current volume of background checks. In response, the bureau pointed to two-year supplemental funding it received in the fiscal year 2021 budget that it said will help pay for additional staff, IT resources and other productivity enhancements. </p>
-
-
-
-<p data-paragraph="main">“The ongoing system improvements being performed with the supplemental funding enhance the efficiency of processing gun background checks,” the bureau said in a statement.</p>
-
-
-
-<p data-paragraph="main">The National Shooting Sports Foundation, which represents the firearms industry, has worked to get more state and local records — especially ones related to mental health — into the background check system in order to cut down on delays. It’s also working with appropriations committees on the Hill to get more resources for NICS and the ATF, according to Lawrence Keane, the organization’s senior vice president for government and public affairs.</p>
-
-
-
-<p data-paragraph="main">“They have told us they need more resources,” Keane said. “They need more bodies as well as technology, to meet the growing demands.”</p>
-
-
-
-<p data-paragraph="main">“The industry wants NICS to function properly,” he added.</p>
-
-
-
-<p data-paragraph="main">But others, like Connecticut Sen. Richard Blumenthal, think Congress needs to change the law so dealers can’t sell a gun without a completed background check. </p>
-
-
-
-<p data-paragraph="main">The Democratic congressman has sponsored a bill, <a href="https://www.congress.gov/bill/117th-congress/senate-bill/591" target="_blank" rel="noopener">S. 591</a>, that would require a completed background check for a gun sale. The bill, which the National Shooting Sports Foundation opposes, is currently pending in the Senate Judiciary Committee. </p>
-
-
-
-<p data-paragraph="main">Another bill, <a href="https://www.congress.gov/bill/117th-congress/house-bill/1446" target="_blank" rel="noopener">H.R. 1446</a>, which passed the House earlier this year, would replace the three-business-day window with a 10-day window after which the potential buyer would have to certify that they’re not prohibited from owning a gun. It’s also pending in the Senate.</p>
-
-
-
-<p data-paragraph="main">But as long as the filibuster stands, the hope for any new gun legislation is thin. A <a href="https://www.congress.gov/bill/116th-congress/house-bill/1112/all-actions" target="_blank" rel="noopener">similar bill</a> that passed the House during the last Congress died in the Senate. And a <a href="https://www.rollcall.com/2020/02/21/lawmakers-seek-to-tighten-gun-background-checks/" target="_blank" rel="noopener">third bill</a> that would have kept the FBI from deleting unfinished background checks died in the House.</p>
-
-
-
-<p data-paragraph="main">Ultimately, it’s not clear what the solution is. Gun-control advocates would like to see the law changed so dealers can’t sell guns until a background check is complete. Opponents say that even with all the time in the world, the FBI can’t complete background checks if it doesn’t get the right records from state and local officials.</p>
-
-
-
-<p data-paragraph="main">What is clear is that even if the current surge in gun sales wanes, as some in the industry predict, the long-term trajectory is pointing up. The question is how to build a system that can handle an ever-growing number of guns.</p>
-
-
-
-<p data-paragraph="main">“One uncompleted check is a problem,” Blumenthal said in a statement, “but 316,000 uncompleted checks is a systemic failure of an already overburdened system.”</p>
-
-
-<p>Watch: https://abcnews.go.com/fivethirtyeight/video/politics-podcast-summer-mailbag-edition-fivethirtyeight-78499147</p>
-
-<p>Watch: https://abcnews.go.com/fivethirtyeight/video/republicans-starting-make-climate-agenda-fivethirtyeight-politics-podcast-78546775</p>]]></description>
-			<pubDate>Thu, 01 Jul 2021 11:00:00 +0100</pubDate>
-			<guid isPermaLink="false">1626126815167278</guid>
 		</item>
 
 	</channel>
