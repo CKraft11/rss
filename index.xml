@@ -3,9 +3,49 @@
 		<title>Main stream | FreshRSS</title>
 		<link>http://radon</link>
 		<description>RSS feed of Main stream | FreshRSS</description>
-		<pubDate>Thu, 22 Jul 2021 22:29:06 +0100</pubDate>
-		<lastBuildDate>Thu, 22 Jul 2021 21:29:06 GMT</lastBuildDate>
+		<pubDate>Thu, 22 Jul 2021 22:59:07 +0100</pubDate>
+		<lastBuildDate>Thu, 22 Jul 2021 21:59:07 GMT</lastBuildDate>
 		<atom:link href="http://radon/i/?a=rss" rel="self" type="application/rss+xml" />
+		<item>
+			<title>We’re Looking For A Politics Intern</title>
+			<link>https://fivethirtyeight.com/features/were-looking-for-a-politics-intern/</link>
+						<dc:creator>Sarah Frostenson</dc:creator>
+			<dc:creator>Sarah Frostenson</dc:creator>
+			<category>FiveThirtyEight Jobs</category>
+			<category>Job Openings</category>
+			<description><![CDATA[
+<p data-paragraph="main">FiveThirtyEight is seeking an intern to join our politics team during the fall of 2021. We’re looking for a current student or recent graduate who has experience using data to tell stories about politics — ranging from how Americans feel about an important political issue to unpacking big political and electoral trends.</p>
+
+
+
+<p data-paragraph="main">The intern’s main role will be to report and write his or her own stories, but the internship will also involve working closely with the politics team and other parts of the newsroom on a number of collaborative projects. See FiveThirtyEight’s <a href="https://fivethirtyeight.com/audio-features/when-women-run/" target="_blank" rel="noopener">“When Women Run” project</a> or our <a href="https://fivethirtyeight.com/features/police-misconduct-costs-cities-millions-every-year-but-thats-where-the-accountability-ends/" target="_blank" rel="noopener">deep dive into police misconduct and settlements</a> for examples of big, cross-newsroom projects that interns have contributed to previously.</p>
+
+
+
+<p data-paragraph="main">An ideal candidate will have journalism experience and a background in data analysis in addition to some experience covering or analyzing American politics (whether from a journalism class, school paper, job or internship). But “politics” doesn’t just mean electoral politics. It could mean you have experience reporting on policy issues, social movements, polarization in your community or something else. Interpret it broadly, because we will too!</p>
+
+
+
+<p data-paragraph="main">The politics intern will report to the Politics Editor, but as a small newsroom, we’re looking for someone eager to collaborate with colleagues across the newsroom. The politics intern is a U.S.-based remote position. Applicants should be able to commit to a full-time schedule from mid-September until December and must be a current student or have graduated in the past 18 months. Apply with a cover letter and resume <a href="https://xjobs.brassring.com/TGnewUI/Search/home/HomeWithPreLoad?PageType=JobDetails&amp;partnerid=25348&amp;siteid=5039&amp;Areq=831600BR#jobDetails=835332_5039" target="_blank" rel="noopener">at the Disney jobs portal</a> by Aug. 2.</p>
+
+
+
+<p data-paragraph="main"><strong>Responsibilities</strong></p>
+
+
+
+<ul><li>Pitch, report and write stories on American politics.</li><li>Conduct original data analysis for stories and bigger features and projects.</li><li>Collaborate with other reporters and teams across the newsroom, including our visual journalists, video journalists and copy desk.</li></ul><p data-paragraph="main"><strong>Basic Qualifications</strong></p>
+
+
+
+<ul><li>Journalism experience, whether from a class, working at a student publication or through a job or internship.</li><li>Experience analyzing data — again, from either a class, student publication or previous job or internship is absolutely fine!</li><li>Some experience reporting on politics.</li><li>Knowledge of FiveThirtyEight and the kinds of journalism we create.</li></ul><p data-paragraph="main"><strong>Preferred Qualifications</strong></p>
+
+
+
+<ul><li>A background in statistics or experience working with R.</li></ul>]]></description>
+			<pubDate>Thu, 22 Jul 2021 21:22:00 +0100</pubDate>
+			<guid isPermaLink="false">1626989401766004</guid>
+		</item>
 		<item>
 			<title>Politics Podcast: The Great Inflation Debate</title>
 			<link>https://fivethirtyeight.com/features/politics-podcast-the-great-inflation-debate/</link>
@@ -45,7 +85,7 @@
 		<span><a data-android-url="" href="http://m.espn.com/general/cast?id=14554755">ESPN App</a> |</span>
 		<a href="https://www.espn.com/espnradio/feeds/rss/podcast.xml?id=14554755">RSS</a>
 			</div>
-	</aside><p data-paragraph="main">Recent <a href="https://www.bls.gov/news.release/cpi.nr0.htm" target="_blank" rel="noopener">data from the Department of Labor</a> showed that consumer prices rose 5.4 percent between June 2020 and June 2021, exceeding the 2 percent inflation target rate set by the Federal Reserve. It is the highest level of inflation since 2008 and, according to a <a href="http://maristpoll.marist.edu/npr-pbs-newshour-marist-poll-the-economy/#sthash.5B3QhHUp.dpbs" target="_blank" rel="noopener">recent Marist poll</a>, inflation is now Americans’ leading economic concern. Many economists, including the head of the Federal Reserve Jerome Powell, <a href="https://apnews.com/article/inflation-health-coronavirus-pandemic-business-6e7c813472a3eb706e0cdafe305c1477#:~:text=WASHINGTON%20(AP)%20%E2%80%94%20Federal%20Reserve,increases%20will%20likely%20prove%20temporary." target="_blank" rel="noopener">say that the increase in prices is only temporary</a> as the country comes out of a pandemic-induced recession. Republicans have argued that high inflation is a result of Democrats’ stimulus packages. In this installment of the FiveThirtyEight Politics podcast, Economics Professor at George Washington University, Tara Sinclair, joins to explain what is going on with the economy and the potential consequences of a spike in prices.</p>
+	</aside><p data-paragraph="main">According to <a href="https://www.bls.gov/news.release/cpi.nr0.htm" target="_blank" rel="noopener">data from the U.S. Bureau of Labor Statistics</a>, consumer prices rose 5.4 percent between June 2020 and June 2021, exceeding the 2 percent target rate of inflation set by the Federal Reserve. It is the largest 12-month increase since August 2008, and according to a <a href="http://maristpoll.marist.edu/npr-pbs-newshour-marist-poll-the-economy/#sthash.5B3QhHUp.dpbs" target="_blank" rel="noopener">recent NPR/PBS NewsHour/Marist poll</a>, inflation is now Americans’ leading economic concern. Many economists, including Fed chair Jerome Powell, <a href="https://apnews.com/article/inflation-health-coronavirus-pandemic-business-6e7c813472a3eb706e0cdafe305c1477#:~:text=WASHINGTON%20(AP)%20%E2%80%94%20Federal%20Reserve,increases%20will%20likely%20prove%20temporary." target="_blank" rel="noopener">say that the increase in prices is only temporary</a> as the country comes out of a pandemic-induced recession. Republicans have argued that high inflation is a result of Democrats’ stimulus packages. In this installment of the <a href="https://fivethirtyeight.com/tag/politics-podcast/" target="_blank" rel="noopener">FiveThirtyEight Politics podcast</a>, George Washington University economics professor Tara Sinclair joins to explain what is going on with the economy and what could happen as a result of a spike in prices.</p>
 
 
 
@@ -2251,21 +2291,6 @@
 <p data-paragraph="main"><strong>CORRECTION (July 7, 2021, 10:38 a.m.):</strong> A previous version of this article stated that the Uniformed and Overseas Citizens Absentee Voting Act mandated the electronic return of ballots from overseas and military voters. While some states allow electronic return, the federal act requires only the option to electronically transmit blank ballots to voters.</p>]]></description>
 			<pubDate>Wed, 07 Jul 2021 11:00:00 +0100</pubDate>
 			<guid isPermaLink="false">1626126815167287</guid>
-		</item>
-		<item>
-			<title>We Have A Lot Of Data From The 2020 Election. Here’s What It Means For Democratic And Republican Strategies.</title>
-			<link>https://fivethirtyeight.com/videos/we-have-a-lot-of-data-from-the-2020-election-it-points-to-more-highly-competitive-elections/</link>
-						<dc:creator>Galen Druke</dc:creator>
-			<dc:creator>Galen Druke， Sarah Frostenson， Alex Samuels and Nathaniel Rakich</dc:creator>
-			<category>Politics Podcast</category>
-			<category>Video</category>
-			<description><![CDATA[
-<p>In this installment of the <a href="https://fivethirtyeight.com/tag/politics-podcast/" target="_blank" rel="noopener noreferrer" data-stringify-link="https://fivethirtyeight.com/tag/politics-podcast/" data-sk="tooltip_parent">FiveThirtyEight Politics podcast</a>, the crew discusses the most notable data points from a <a href="https://www.pewresearch.org/politics/2021/06/30/behind-bidens-2020-victory/" target="_blank" rel="noopener noreferrer" data-stringify-link="https://www.pewresearch.org/politics/2021/06/30/behind-bidens-2020-victory/" data-sk="tooltip_parent">verified voter survey</a> by the Pew Research Center and what it means for Democratic and Republican strategies going forward. They also talk about ranked-choice voting and why the final vote count in New York City’s Democratic mayoral primary has been delayed.</p>
-<p><a href="https://fivethirtyeight.com/features/new-yorks-mayoral-primary-has-put-ranked-choice-voting-under-the-microscope/?cid=_inlinerelated">[Related: What Did New York’s Mayoral Primary Tell Us About Ranked-Choice Voting?]</a></p>
-<p>Watch: https://abcnews.go.com/fivethirtyeight/video/conservative-majority-shaped-supreme-court-term-fivethirtyeight-78655673</p>
-<p>Watch: https://abcnews.go.com/fivethirtyeight/video/pandemic-changed-sex-work-industry-fivethirtyeight-78621101</p>]]></description>
-			<pubDate>Wed, 07 Jul 2021 03:16:00 +0100</pubDate>
-			<guid isPermaLink="false">1626126815167286</guid>
 		</item>
 
 	</channel>
