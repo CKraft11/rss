@@ -3,9 +3,269 @@
 		<title>Main stream | FreshRSS</title>
 		<link>http://radon</link>
 		<description>RSS feed of Main stream | FreshRSS</description>
-		<pubDate>Wed, 28 Jul 2021 11:29:07 +0100</pubDate>
-		<lastBuildDate>Wed, 28 Jul 2021 10:29:07 GMT</lastBuildDate>
+		<pubDate>Wed, 28 Jul 2021 11:59:06 +0100</pubDate>
+		<lastBuildDate>Wed, 28 Jul 2021 10:59:06 GMT</lastBuildDate>
 		<atom:link href="http://radon/i/?a=rss" rel="self" type="application/rss+xml" />
+		<item>
+			<title>Will A Pro-Vaccination Push By GOP Leaders Change The Minds Of Unvaccinated Americans?</title>
+			<link>https://fivethirtyeight.com/features/will-a-pro-vaccination-push-by-gop-leaders-change-the-minds-of-unvaccinated-americans/</link>
+						<dc:creator>Sarah Frostenson</dc:creator>
+			<dc:creator>A FiveThirtyEight Chat</dc:creator>
+			<category>COVID-19</category>
+			<category>COVID-19 Vaccine</category>
+			<category>Democrats</category>
+			<category>Donald Trump</category>
+			<category>Mitch McConnell</category>
+			<category>Republicans</category>
+			<category>Ron DeSantis</category>
+			<category>Slack Chat</category>
+			<category>Vaccination</category>
+			<description><![CDATA[
+<p data-paragraph="main">Welcome to FiveThirtyEight’s <a href="https://fivethirtyeight.com/tag/slack-chat/" target="_blank" rel="noopener">politics chat</a>. The transcript below has been lightly edited.</p>
+
+
+
+<div><hr><span></span></div>
+
+
+
+
+<p data-paragraph="main"><strong>sarah </strong>(<a href="https://fivethirtyeight.com/contributors/sarah-frostenson/" target="_blank" rel="noopener">Sarah Frostenson</a>, politics editor): With <a href="https://abcnews.go.com/Health/live-updates/covid-delta-variant-surge/?id=79058271" target="_blank" rel="noopener">the delta variant of the coronavirus surging</a> in the U.S. and COVID-19 cases and hospitalizations once again on the rise, there is <a href="https://www.al.com/news/2021/07/im-sorry-but-its-too-late-alabama-doctor-on-treating-unvaccinated-dying-covid-patients.html" target="_blank" rel="noopener">a renewed sense of urgency</a> that people get vaccinated — as the rate of vaccination <a href="https://www.nytimes.com/interactive/2020/us/covid-19-vaccine-doses.html" target="_blank" rel="noopener">has steadily ticked down since April</a>.</p>
+
+
+
+<p data-paragraph="main">Those who aren’t vaccinated <a href="https://apnews.com/article/coronavirus-pandemic-health-941fcf43d9731c76c16e7354f5d5e187" target="_blank" rel="noopener">are bearing the brunt of this latest COVID-19 surge</a>, as states with low vaccination rates, like Arkansas, Louisiana and Florida, have been <a href="https://www.nytimes.com/interactive/2021/us/covid-cases.html" target="_blank" rel="noopener">some of the worst hit areas</a>. Given that states with low vaccination rates often skew Republican, it has meant that some Republican leaders in those states have undertaken a sudden reversal <a href="https://www.axios.com/republicans-coronavirus-vaccines-resistance-trump-a02544f7-c3ee-443a-a2f7-ab9c83e86c98.html" target="_blank" rel="noopener">in how they talk about vaccination</a>. Former White House press secretary and Arkansas gubernatorial candidate Sarah Huckabee Sanders had previously kept a low profile on her vaccination status, but on Sunday she penned an editorial <a href="https://www.arkansasonline.com/news/2021/jul/25/the-reasoning-behind-getting-vaccinated/" target="_blank" rel="noopener">urging fellow Arkansans to join her in getting vaccinated</a>. House Minority Whip Steve Scalise of Louisiana <a href="https://www.nola.com/news/coronavirus/article_f569bf58-e970-11eb-8456-7ba1aef698cd.html" target="_blank" rel="noopener">received his first shot of the vaccine</a> earlier this month. Even the biggest on-air talents at Fox News, a network whose coverage of the vaccine has often been critical, have <a href="https://www.nytimes.com/2021/07/20/business/media/fox-news-covid-vaccines.html" target="_blank" rel="noopener">pushed for vaccination</a> in recent weeks.</p>
+
+
+
+<p data-paragraph="main">The question is: Is any of this enough to stop yet another deadly spike in the pandemic? To unpack this, let’s talk about what we know about people who are still unvaccinated, what the science says about vaccination and whether stronger messaging can make a difference.</p>
+
+
+
+<p data-paragraph="main">First, what do we know about people who are not yet vaccinated?</p>
+
+
+
+<p data-paragraph="main"><strong>alex </strong>(<a href="https://fivethirtyeight.com/contributors/alex-samuels/" target="_blank" rel="noopener">Alex Samuels</a>, politics reporter): A poll conducted in mid-May by the <a href="https://www.kff.org/coronavirus-covid-19/poll-finding/kff-covid-19-vaccine-monitor-profile-of-the-unvaccinated/" target="_blank" rel="noopener">Kaiser Family Foundation</a> found the most common demographic profiles of unvaccinated Americans. Forty-one percent of this group was 30-to-49 years old, 49 percent identified as Republican (compared to 29 percent who identified as Democrats), 56 percent were white, 80 percent were without a college degree,<strong> </strong>56 percent were based in the suburbs and, surprisingly, 76 percent were insured. The study also found that unvaccinated Americans were more likely to be low-income than high-income.</p>
+
+
+
+<p data-paragraph="main">But of the unvaccinated group, there was a stark contrast between people who said they would “definitely not” get the vaccine versus those who plan to “wait and see”: The former group was mostly white (70 percent) and Republican (67 percent), and a plurality (48 percent) was 30-to-49 years old. The latter group, meanwhile, was a bit more diverse; 39 percent of the “wait and see” contingent were Democrats, and 41 percent were Republicans, Further, 22 percent of the hesitant group were Black adults, and 20 percent were Hispanic adults. Seventy-two percent of respondents in this group were between the ages of 18 and 49. </p>
+
+
+
+<p data-paragraph="main"><strong>maggie.koerth </strong>(<a href="https://fivethirtyeight.com/contributors/maggie-koerth/" target="_blank" rel="noopener">Maggie Koerth</a>, senior science writer):<strong> </strong>We also know that most people made their decisions months before the vaccine was available and have stuck to those choices. That same KFF polling found that only <a href="https://www.kff.org/coronavirus-covid-19/dashboard/kff-covid-19-vaccine-monitor-dashboard/concerns/concerns/messages/information#intentions" target="_blank" rel="noopener">one in five people</a> said they were hesitant or definitely not going to get the vaccine back in January and have now gotten vaccinated.</p>
+
+
+
+<p data-paragraph="main"><strong>alex: </strong>There is also a geographic element to this.<strong> </strong>For example, researchers have found that vaccination rates are lagging in Southern states. An analysis by <a href="http://www.vaccinetracking.us/analysis.html" target="_blank" rel="noopener">researchers at Georgetown University</a> identified 30 clusters of counties nationwide with low vaccination rates and larger populations. The <a href="https://www.cbsnews.com/news/covid-vaccine-delta-variant-risk-areas/" target="_blank" rel="noopener">five most significant</a> of these clusters were in the South and Midwest and included portions of Florida, Georgia, Alabama, Mississippi, Louisiana, Arkansas, Missouri, Illinois, Oklahoma, Tennessee, Texas and New Mexico. </p>
+
+
+
+<p data-paragraph="main"><strong>geoffrey.skelley </strong>(<a href="https://fivethirtyeight.com/contributors/geoffrey-skelley/" target="_blank" rel="noopener">Geoffrey Skelley</a>, elections analyst):<strong> </strong>To Alex’s point about the “won’t get vaccinated” group being particularly likely to be Republican, <a href="https://docs.cdn.yougov.com/1aaz80mjhy/econTabReport.pdf" target="_blank" rel="noopener">the Economist/YouGov’s weekly poll</a> has found that since April, the share of adult Republicans who say they won’t get vaccinated hasn’t really budged — roughly 25 percent to 33 percent say each week that they “will not get vaccinated.”</p>
+
+
+
+<p data-paragraph="main">This is in line with polls from Democratic-aligned firms <a href="https://projects.fivethirtyeight.com/pollster-ratings/global-strategy-group-gbao-navigator-research/" target="_blank" rel="noopener">Global Strategy Group/GBAO (Navigator Research)</a> that have repeatedly found since January that the share of Republican registered voters who said they’re very unlikely to get the vaccine <a href="https://navigatorresearch.org/wp-content/uploads/2021/07/Navigator-Toplines-07.20.2021.pdf" target="_blank" rel="noopener">is about 30 percent</a>.</p>
+
+
+
+<p data-paragraph="main"><strong>alex: </strong>In June, <a href="https://morningconsult.com/2021/07/01/unvaccinated-americans-reasons/" target="_blank" rel="noopener">Morning Consult</a> conducted a poll asking unvaccinated Americans <em>why </em>they weren’t getting the vaccine. They found that the biggest reason was a lack of trust in the vaccine development process (26 percent of respondents), followed by concern over its safety/side effects (23 percent) and conspiracies theories and/or mistrust of drug companies and the government (10 percent).</p>
+
+
+
+<p data-paragraph="main"><strong>geoffrey.skelley: </strong>There have been a <a href="https://time.com/5957222/covid-vaccine-side-effects/" target="_blank" rel="noopener">lot of stories</a> about <a href="https://www.wired.com/story/they-claimed-the-covid-vaccine-made-them-sick-and-went-viral/" target="_blank" rel="noopener">people having negative reactions</a> to the vaccine, so I can see why concern about potential side effects might have dampened interest in getting vaccinated. And perhaps that is partly why younger age groups have been slow to catch up when it comes to the vaccine — if you’re worried about making ends meet, getting sick and missing work might put you off from seeking out the vaccine. After all, those making less money are also <a href="https://docs.cdn.yougov.com/vjfvegistz/20210715_yahoo_vaccine_tabs.pdf" target="_blank" rel="noopener">less likely to have gotten the vaccine</a>.</p>
+
+
+
+<p data-paragraph="main"><strong>maggie.koerth: </strong>Another thing that really stood out to me in the KFF polling, and that I haven’t seen discussed a lot, is that of the people who have yet to get vaccinated … a lot of them don’t really know HOW. </p>
+
+
+
+<p data-paragraph="main">A full 42 percent of unvaccinated Hispanic adults said <a href="https://www.kff.org/coronavirus-covid-19/dashboard/kff-covid-19-vaccine-monitor-dashboard/concerns/concerns/messages/messages/messages/messages/information" target="_blank" rel="noopener">they didn’t know whether they were eligible</a> — and 29 percent didn’t know where to go if they did want a vaccine. </p>
+
+
+
+<p data-paragraph="main"><strong>sarah: </strong>I was going to say, Maggie, vaccine access is still a really big issue. A <a href="http://unvaccinated/" target="_blank" rel="noopener">Public Religion Research Institute survey</a> conducted in June found that younger Americans and Black and Hispanic Americans are disproportionately likely to face barriers to vaccine access — like having the time to get vaccinated or reliable transportation to a vaccination site.</p>
+
+
+
+<p data-paragraph="main">It seems as if when discussing the unvaccinated there are two groups: 1) Those who refuse to even consider getting vaccinated; and 2) those who just aren’t sure or have concerns about getting vaccinated. Does that seem right? </p>
+
+
+
+<p data-paragraph="main"><strong>alex: </strong>I think so, Sarah. Among that second group, there is polling that shows that financial incentives, along with employers encouraging employees to get vaccinated, can increase people’s willingness to get vaccinated.</p>
+
+
+
+<p data-paragraph="main">Per Morning Consult, <a href="https://morningconsult.com/2021/05/13/covid-19-vaccine-incentives-penalties-poll/" target="_blank" rel="noopener">43 percent of unvaccinated U.S. adults</a> would “definitely” or “probably” get a COVID-19 shot if they received a small financial incentive, such as a $50 savings bond. And if the government offered a $1,000 savings bond, 57 percent of unvaccinated adults said they would be more likely to get inoculated.</p>
+
+
+
+<p data-paragraph="main">Meanwhile, the KFF poll found that <a href="https://www.kff.org/coronavirus-covid-19/press-release/workers-are-more-likely-to-get-a-covid-19-vaccine-when-their-employers-encourage-it-and-provide-paid-sick-leave-though-most-workers-dont-want-their-employers-to-require-it/" target="_blank" rel="noopener">73 percent of workers</a> whose employers encouraged a vaccine and 75 percent whose employers offered paid time off to do so have received at least one dose.</p>
+
+
+
+<p data-paragraph="main"><strong>maggie.koerth: </strong>Honestly, <a href="https://www.kff.org/coronavirus-covid-19/dashboard/kff-covid-19-vaccine-monitor-dashboard/" target="_blank" rel="noopener">I think the breakdown might be even more fragmented than that.</a> First, you have the people who absolutely won’t consider vaccination (some of whom have political reasons, some of whom have medical reasons, some both) and then you have the people who would consider vaccination but just haven’t gotten the shot yet. Those people’s reasons fall into multiple buckets though, too — medical concerns, access concerns and then concerns that are largely about power and trust in institutions, such as the government or pharmaceutical companies.</p>
+
+
+
+<p data-paragraph="main">It also looks like most people who are unvaccinated still have more than one reason for why they aren’t. It’s a lot of overlapping circles. </p>
+
+
+
+<p data-paragraph="main">And that doesn’t even address the (very small) group of people who are still like, “Oh I mean to do that ASAP,” but just haven’t. It’s like 3 percent. But they’re out there. </p>
+
+
+
+<p data-paragraph="main"><strong>sarah: </strong>There really are a lot of different reasons for why Americans are unvaccinated. But as we mentioned at the outset, the biggest distinction might still be between those who say they are hesitant about getting vaccinated and those who refuse to even consider getting vaccinated. </p>
+
+
+
+<p data-paragraph="main">According to PRRI’s June survey, vaccine holdouts are a pretty small portion of the population — 13 percent, although it’s important to reiterate that is a fairly steadfast group; that number is essentially unchanged from what PRRI found in March (14 percent).</p>
+
+
+
+<p data-paragraph="main">The good news here, though, is that the group of holdouts isn’t really growing. As more Americans get vaccinated, the share of Americans who are hesitant about getting vaccinated ticks down. Just 15 percent of Americans are hesitant versus 28 percent in March.</p>
+
+
+
+<p data-paragraph="main"><strong>maggie.koerth: </strong>That’s important because what we’re learning is that you can take the “wait and see” people at their word. If you’re tempted to write that off as a euphemism for “I don’t wanna but I don’t want to say that,” well, some of those people are really coming back and getting vaccinated after they waited and saw.</p>
+
+
+
+<p data-paragraph="main"><strong>sarah: </strong>Exactly, Maggie. The reasons <a href="https://www.nytimes.com/2021/07/24/us/covid-vaccine-hesitant.html" target="_blank" rel="noopener">people aren’t vaccinated, or just now getting vaccinated</a>, is really, really complicated.</p>
+
+
+
+<p data-paragraph="main">But OK, let’s talk about vaccination. The science isn’t really changing — <a href="https://www.cdc.gov/coronavirus/2019-ncov/vaccines/vaccine-benefits.html" target="_blank" rel="noopener">vaccines are effective in preventing severe cases of COVID-19</a>. But vaccination rates have still largely dropped off since April, and many parts of the county are nowhere near hitting <a href="https://www.npr.org/sections/health-shots/2021/07/05/1013080128/as-covid-vaccinations-slow-parts-of-the-u-s-remain-far-behind-70-goal" target="_blank" rel="noopener">Biden’s goal of having 70 percent of the population receive at least one dose</a> by the Fourth of July. Why?</p>
+
+
+
+<p data-paragraph="main"><strong>maggie.koerth: </strong>Well, I think one of the important things that all that polling data is telling us is that the WHY is not (or at least not purely) <a href="https://www.theatlantic.com/health/archive/2021/07/america-covid-19-vaccine-decline/619474/" target="_blank" rel="noopener">a political thing</a>. I’m seeing a tendency to make these very political assumptions about people who aren’t yet vaccinated. But if you look at what they are telling us about themselves … politics is part of the motivation for some — but not all.</p>
+
+
+
+<p data-paragraph="main">So there’s the actual polarization and anti-establishment sentiment driving vaccine refusal.</p>
+
+
+
+<p data-paragraph="main">But then there is the polarization of assumptions about what is driving vaccine refusal.</p>
+
+
+
+<p data-paragraph="main">And both are happening simultaneously.</p>
+
+
+
+<p data-paragraph="main"><strong>alex: </strong>The New York Times had a really interesting article looking at how <a href="https://www.nytimes.com/2021/06/28/us/covid-vaccine-immunity.html" target="_blank" rel="noopener">young adults were one of the biggest barriers to herd immunity</a>. There wasn’t a clear-cut reason as to why, though things like difficulty in convincing young people they should be vaccinated or even misinformation surrounding the shot’s effect on fertility among that generation were floated as two potential culprits.</p>
+
+
+
+<p data-paragraph="main"><strong>geoffrey.skelley: </strong>Looking over the polling and <a href="https://covid.cdc.gov/covid-data-tracker/#vaccinations" target="_blank" rel="noopener">the actual vaccination data</a>, it’s clear that the share of older adults who are vaccinated is much higher, which makes sense. They are the ones most immediately in danger of dying from COVID-19, and as such <a href="https://fivethirtyeight.com/features/how-do-we-get-back-to-normal-fastest-prioritize-access-to-the-vaccine/" target="_blank" rel="noopener">were prioritized in the vaccine rollout process</a>. </p>
+
+
+
+<p data-paragraph="main">The problem for younger Americans is that as the country reopens, there may be less of an incentive for them to get the vaccine, especially given some of the barriers to access we discussed. Unfortunately, it might take another wave to spur some of those fence-sitters to get the vaccine.</p>
+
+
+
+<p data-paragraph="main"><strong>maggie.koerth: </strong>That’s a really good point, Geoffrey. One of the things that’s come up with the testing on kids younger than 12 is that <a href="https://www.clinicaltrialsarena.com/news/pfizer-lower-vaccine-children/" target="_blank" rel="noopener">you have to adjust the dosage</a>. Not just because smaller people need a different dosage than adults, but also since <a href="https://www.nytimes.com/2021/07/26/us/politics/covid-vaccine-trials-children.html" target="_blank" rel="noopener">their risks are much lower, their side-effect tolerance is different</a>. You’re working with a different risk/benefit calculation here.</p>
+
+
+
+<p data-paragraph="main">I mean, there have been <a href="https://www.nature.com/articles/d41586-021-01898-9" target="_blank" rel="noopener">debates among scientists</a> about <a href="https://www.webmd.com/vaccines/covid-19-vaccine/news/20210506/should-covid-shots-for-teens-go-to-developing-nations" target="_blank" rel="noopener">whether it even makes sense</a> to get vaccines to little kids in the U.S., given the risk/benefit calculation, vs. getting those vaccines to unvaccinated adults in countries where vaccine access has been more limited. </p>
+
+
+
+<p data-paragraph="main">Which is a long way around to saying that, yeah, younger people who are eligible for the vaccine are doing a different calculation in their heads than the elderly.</p>
+
+
+
+<p data-paragraph="main"><strong>sarah: </strong>As we’ve discussed, people’s decision to not get vaccinated is not purely political. How, though, did vaccination become so political? I want us to unpack this a little, as it seems especially important for understanding the vaccine holdouts, who, as we’ve discussed, overwhelmingly skew Republican and white. </p>
+
+
+
+<p data-paragraph="main"><strong>alex: </strong>COVID-19 was a partisan issue even before the vaccine rollout. Even during the beginning stages of the pandemic, Republicans were less likely than Democrats <a href="https://www.nytimes.com/2020/06/02/health/coronavirus-face-masks-surveys.html" target="_blank" rel="noopener">to want to wear masks</a> or <a href="https://www.vox.com/2020/7/29/21345228/liability-shield-mitch-mcconnell-republican-safe-to-work-act-gross-negligence" target="_blank" rel="noopener">impose business restrictions</a>.</p>
+
+
+
+<p data-paragraph="main"><strong>geoffrey.skelley: </strong>That’s right. From the very start, Republicans <a href="https://www.pewresearch.org/fact-tank/2020/07/22/republicans-remain-far-less-likely-than-democrats-to-view-covid-19-as-a-major-threat-to-public-health/" target="_blank" rel="noopener">have been less worried about COVID-19</a> than Democrats. That may have been related to a combination of messaging and opposition to government actions to combat the virus (like closing businesses and churches), but they have consistently been less likely <a href="https://morningconsult.com/views-on-the-pandemic/#section-10" target="_blank" rel="noopener">to view it as a severe health risk</a>. </p>
+
+
+
+<p data-paragraph="main">Religion also plays a factor in this. White evangelical Protestants, who <a href="https://www.pewresearch.org/politics/2021/06/30/behind-bidens-2020-victory/" target="_blank" rel="noopener">make up a sizable part of the GOP</a>, were the most likely to say they wouldn’t get the vaccine out of the religious and racial/ethnic groups PRRI’s survey examined — 24 percent of them said they would refuse to get vaccinated, essentially unchanged since PRRI’s March survey. <a href="https://religionnews.com/2021/05/14/survey-white-evangelicals-trust-fox-news-black-protestants-look-to-mainstream-networks/" target="_blank" rel="noopener">Distrust of mainstream media</a> and <a href="https://www.cnn.com/2021/04/14/us/covid-vaccine-evangelicals/index.html" target="_blank" rel="noopener">governing institutions</a>, which is also high among this group, likely plays into this as well. </p>
+
+
+
+<p data-paragraph="main"><strong>maggie.koerth: </strong>I’m curious about something that I wonder if you more-politics people have insight on: How much of the politicization of COVID-19 is a Democratic/Republican thing — that is, former President Donald Trump doesn’t think it’s a big deal, there’s a Democratic backlash to that, a Republican backlash to THAT — and how much is creeping anti-establishment sentiments in the U.S.? To be sure, that still takes on a political character that is heavily tied to the Republican Party, but I do think it exists in a sort of parallel track to Republicans and Democrats fighting against each other.</p>
+
+
+
+<p data-paragraph="main">I’ve struggled with what to call the sorta “Joe Rogan demographic” of COVID-19/vaccine/mask skeptics. Some are Republicans, but not all. Their shit is political. But not necessarily <em>party</em> political. I haven’t found a lot of polls that ask questions that get at this well.</p>
+
+
+
+<p data-paragraph="main"><strong>geoffrey.skelley: </strong>Part of this, Maggie, might have to do with trust in science generally — right after the pandemic started, the Pew Research Center found that Democrats were notably more likely than Republicans to <a href="https://www.pewresearch.org/science/2020/05/21/trust-in-medical-scientists-has-grown-in-u-s-but-mainly-among-democrats/" target="_blank" rel="noopener">trust medical scientists</a> — and scientists more generally — to act in the best interests of the public. It’s another partisan component, yes, but it also isn’t wrapped up entirely in Trump-this or that. Here, again, is a question about trust in institutions that have been major players in combating the virus — Republicans <a href="https://www.kff.org/coronavirus-covid-19/report/kff-health-tracking-poll-september-2020/" target="_blank" rel="noopener">have tended to have less trust</a> in the Centers for Disease and Control and Dr. Anthony Fauci, the director of the National Institute of Allergy and Infectious Diseases, who has played a key role in advising both the Trump and Biden administrations on how to handle the pandemic.</p>
+
+
+
+<p data-paragraph="main"><strong>sarah: </strong>It’s an interesting question, Maggie. I think you’re onto something. Natalie Jackson of PRRI wrote an article for us earlier this month that found that <a href="https://fivethirtyeight.com/features/the-extremes-of-the-gop-have-moved-beyond-fox-news/" target="_blank" rel="noopener">whether Republicans believed in QAnon or getting vaccinated</a> varied significantly based on their media diets. Republicans who watched Fox News were far more likely to have received at least one dose of the vaccine or would get the vaccine as soon as possible (54 percent) than those who turned to OANN or Newsmax (32 percent). </p>
+
+
+
+<p data-paragraph="main">It does seem as if we’re talking about a very extreme but small-ish slice of the Republican Party that falls into this hardcore anti-COVID-19 stance. Part of the problem, though, is that there haven’t really been many Republican leaders/elites pushing a pro-vaccination message from the outset. </p>
+
+
+
+<p data-paragraph="main">Imagine had Trump decided to get vaccinated in public. Instead, <a href="https://www.forbes.com/sites/roberthart/2020/12/18/trump-absent-as-vice-president-mike-pence-receives-covid-19-vaccine-live-on-camera/?sh=58b4665149bc" target="_blank" rel="noopener">it was then-Vice President Mike Pence who did it</a>, while Trump refused to say whether he’d get vaccinated. (He <a href="https://www.cnn.com/2021/03/01/politics/trump-melania-vaccinated-white-house/index.html" target="_blank" rel="noopener">since has, but off camera</a>.) We are now seeing some Republicans step forward and urge people to get vaccinated, but it still seems largely confined to more establishment Republicans like Senate Minority Leader Mitch McConnell.</p>
+
+
+
+<p data-paragraph="main"><strong>alex: </strong>Other, more Trumpy Republicans, <a href="https://apnews.com/article/joe-biden-health-government-and-politics-coronavirus-pandemic-03e6b17b205b18067c05e07b77dc2e04" target="_blank" rel="noopener">like Florida Gov. Ron DeSantis</a>, have done so, too. And he’s not the only Republican governor encouraging vaccinations: Alabama Gov. Kay Ivey <a href="https://www.nytimes.com/video/us/politics/100000007884087/alabama-governor-coronavirus-unvaccinated.html" target="_blank" rel="noopener">had strong words</a> for unvaccinated people. </p>
+
+
+
+<p data-paragraph="main"><strong>geoffrey.skelley: </strong>I think the jury is still out on whether Republican leaders will continue their highly public encouragements to get vaccinated. Politicians also respond to their bases, and there’s a significant chunk of the GOP base that is pretty anti-COVID-19 vaccine right now.</p>
+
+
+
+<p data-paragraph="main">Elites <a href="https://www.cambridge.org/core/journals/american-political-science-review/article/abs/elite-influence-on-public-opinion-in-an-informed-electorate/7A5185F2D31929DC547F735F8F3F9DB5" target="_blank" rel="noopener">can lead on public opinion</a>, but recently it’s felt, at times, like the GOP is <a href="https://fivethirtyeight.com/features/why-the-republican-party-isnt-rebranding-after-2020/" target="_blank" rel="noopener">more inclined to follow the party base</a>.</p>
+
+
+
+<p data-paragraph="main"><strong>alex: </strong>I agree with you there, Geoff. It might be too early to say definitively whether various GOP officials’ push for vaccines will <a href="https://www.washingtonpost.com/opinions/2021/07/25/republicans-unleashed-deadly-vaccine-skepticism-can-they-now-contain-it/" target="_blank" rel="noopener">have any impact on Americans</a> who are hesitant to get vaccinated. I mean, even Trump couldn’t do much. </p>
+
+
+
+<p data-paragraph="main">The CBS News team <a href="https://www.cbsnews.com/news/covid-vaccine-hesitancy-presidential-encouragement/" target="_blank" rel="noopener">ran an experiment in March</a> testing whether Trump or Biden could influence people’s willingness to get vaccinated. And one big takeaway on the Republican side was that Trump’s encouragement didn’t persuade Republicans who outright said “no,” although he did seem to move some Republicans who were on the fence.</p>
+
+
+
+<p data-paragraph="main"><strong>sarah: </strong>Not to mention, it seems as if there might be yet another backlash brewing, which could complicate this nascent GOP vaccination push. And that is, <a href="https://www.cnbc.com/2021/07/21/covid-local-officials-across-us-are-starting-to-reimpose-mask-rules-as-delta-variant-takes-hold.html" target="_blank" rel="noopener">states are considering reinstating mask mandates</a> given the spread of the delta variant. In fact, the CDC recommended on Tuesday that <a href="https://www.nytimes.com/2021/07/27/health/cdc-masks-indoors-delta-variant.html" target="_blank" rel="noopener">some vaccinated people wear masks indoors</a>. This will likely renew efforts among Republican lawmakers to <a href="https://www.pewtrusts.org/en/research-and-analysis/blogs/stateline/2021/06/17/more-states-rein-in-governors-emergency-powers" target="_blank" rel="noopener">limit the emergency powers of governors</a> and/or to limit vaccination mandates that companies and various government agencies have implemented. (Gov. Mike DeWine of Ohio is an example of a Republican whose own party <a href="https://www.nbcnews.com/politics/elections/ohio-republicans-defy-their-governor-limiting-his-power-manage-pandemic-n1261989" target="_blank" rel="noopener">voted to limit his power to issue public health orders</a> earlier this year.) </p>
+
+
+
+<p data-paragraph="main"><strong>maggie.koerth: </strong>I’m working on a story about this, and I’m waiting for the newest data, but at least 15 state legislatures <a href="https://www.networkforphl.org/resources/proposed-limits-on-public-health-authority-dangerous-for-public-health/" target="_blank" rel="noopener">have proposed such laws</a> as of May. It’s probably even more now, and several states have passed these measures. </p>
+
+
+
+<p data-paragraph="main">What’s interesting about these laws is that they’re both specific — meant to address things people didn’t like about the particular ways the COVID-19 response played out — and often broad. Some could affect emergency powers even in non-pandemic disasters like wildfires and tornadoes, for instance.</p>
+
+
+
+<p data-paragraph="main">And some of these laws are ALREADY getting in the way of emergency responses. In Arkansas, where <a href="https://www.nytimes.com/interactive/2021/us/arkansas-covid-cases.html" target="_blank" rel="noopener">only 36 percent of people are fully vaccinated</a>, cases, hospitalizations and deaths are rapidly rising. But both the governor and local city governments are now <a href="https://apnews.com/article/business-science-health-arkansas-coronavirus-pandemic-db3b9d141319c5a828d79a44196fe891" target="_blank" rel="noopener">prevented from instituting masking requirements</a> of any kind. School boards have petitioned the governor and legislator to change the law so that they can require masks in schools. And on Monday, the governor said he’d be meeting with GOP legislators this week to discuss changes like that.</p>
+
+
+
+<p data-paragraph="main"><strong>geoffrey.skelley: </strong>I am just not confident Americans will be inclined to go back to staying inside again — even if there’s a major uptick in COVID-19 cases due to the delta variant. We’ve talked a lot about those who are hesitant or vaccine holdouts, but a majority of adults got the vaccine in the U.S. and are ready to get back to normal. An Axios/Ipsos poll from June, for instance, <a href="https://www.axios.com/axios-ipsos-poll-vaccine-july-4-eb4c37de-bac5-4141-a994-bf8ce6322185.html" target="_blank" rel="noopener">suggested that far fewer people were willing to self-quarantine or stay inside</a> than last year, even though people were concerned about the delta variant. </p>
+
+
+
+<p data-paragraph="main"><strong>sarah:</strong> It certainly does seem as if this isn’t the last chapter, by any means, in how the pandemic will play out in the U.S.</p>]]></description>
+			<pubDate>Wed, 28 Jul 2021 11:00:00 +0100</pubDate>
+			<guid isPermaLink="false">1627469101836051</guid>
+		</item>
 		<item>
 			<title>How A Special Election In Texas’s 6th District Will Test Trump’s Influence On The GOP</title>
 			<link>https://fivethirtyeight.com/features/how-a-special-election-in-texass-6th-district-will-test-trumps-influence-on-the-gop/</link>
@@ -1863,116 +2123,6 @@
 <p data-paragraph="main">It’s too early to say where the Republican Party will go from here, but at least for now, it’s clear that Trump and the 2020 election are still very resonant in voters’ minds. And that makes perfect sense considering Trump himself has a foot in both the past and <a href="https://www.washingtonpost.com/politics/trump-endorsements-republicans/2021/06/26/86228924-d465-11eb-ae54-515e2f63d37d_story.html" target="_blank" rel="noopener">the future</a>. </p>]]></description>
 			<pubDate>Mon, 12 Jul 2021 20:33:00 +0100</pubDate>
 			<guid isPermaLink="false">1626126815167294</guid>
-		</item>
-		<item>
-			<title>First It Was Sex Ed. Now It’s Critical Race Theory.</title>
-			<link>https://fivethirtyeight.com/features/first-it-was-sex-ed-now-its-critical-race-theory/</link>
-						<dc:creator>Alex Samuels</dc:creator>
-			<dc:creator>Alex Samuels and Kaleigh Rogers</dc:creator>
-			<category>Critical Race Theory</category>
-			<category>Education</category>
-			<category>High School</category>
-			<category>Public Schools</category>
-			<category>The Republican Party</category>
-			<description><![CDATA[
-<p data-paragraph="main">In the 1960s and 70s, conservatives were waging a war against what they considered an existential threat infiltrating America’s public schools. Pamphlets were circulated by the John Birch Society, a right-wing extremist group, declaring it a “<a href="https://pdxscholar.library.pdx.edu/cgi/viewcontent.cgi?article=2613&amp;context=open_access_etds" target="_blank" rel="noopener">filthy Communist plot</a>.” And then-Governor Ronald Reagan of California decried it as a “moral crisis” that needed to be eradicated. What was poisoning the minds of America’s youth? Sex education.  </p>
-
-
-
-<p data-paragraph="main">These days, sex ed is <a href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5495344/" target="_blank" rel="noopener">more widely accepted</a>, especially <a href="https://time.com/3578597/aids-sex-ed-history/" target="_blank" rel="noopener">following the HIV/AIDS epidemic</a> (though conservatives have still managed <a href="https://abcnews.go.com/Politics/wireStory/conservatives-propose-revised-sex-ed-rules-lgbtq-pushback-77073959" target="_blank" rel="noopener">to beat back more progressive school curricula</a> when it comes to sexual health), but the Republican Party’s habit of identifying a bogeyman in America’s education system hasn’t wavered. </p>
-
-
-
-<p data-paragraph="main">Then it was sex ed. Now, it’s critical race theory.  </p>
-
-
-
-<p data-paragraph="main">Critical race theory is <a href="https://www.edweek.org/leadership/what-is-critical-race-theory-and-why-is-it-under-attack/2021/05" target="_blank" rel="noopener">a legal scholarship framework</a> that has been around in academia for four decades and asserts that racism is systemic and embedded in many American institutions. But over the past few months, the term has been co-opted by Republicans as a catch-all buzzword to signify <a href="https://www.al.com/news/2021/06/what-is-critical-race-theory-is-it-really-taught-in-schools.html" target="_blank" rel="noopener">the perceived threat</a> of anti-white indoctrination in American schools. This has motivated a slate of proposed legislation outlawing a wide range of teachings. Since the start of this year, at least six states have enacted bans on the teaching of critical race theory or discussions of racism in the classrooms, according to a <a href="https://www.brookings.edu/blog/fixgov/2021/07/02/why-are-states-banning-critical-race-theory/" target="_blank" rel="noopener">Brookings Institute</a> analysis, while almost 20 other states have introduced similar bills. Moreover, <a href="https://nonprofitquarterly.org/republicans-in-5-states-seek-to-keep-1619-project-curriculum-out-of-schools/" target="_blank" rel="noopener">a handful of states</a>, like <a href="https://apnews.com/article/florida-race-and-ethnicity-government-and-politics-education-74d0af6c52c0009ec3fa3ee9955b0a8d" target="_blank" rel="noopener">Florida</a> and <a href="https://www.texastribune.org/2021/06/15/abbott-critical-race-theory-law/" target="_blank" rel="noopener">Texas</a>, have also successfully banned the teaching of the <a href="https://pulitzercenter.org/lesson-plan-grouping/1619-project-curriculum" target="_blank" rel="noopener">New York Times’s 1619 Project</a> curriculum, which explores the central role of slavery in the development of the U.S. The project <a href="https://www.theatlantic.com/ideas/archive/2021/05/why-conservatives-want-cancel-1619-project/618952/" target="_blank" rel="noopener">has been harshly criticized</a> by conservatives who have accused its writers of recasting history through a racial lens. To be sure, the bills vary. Some bills mention critical race theory directly, while others only reference bans on “<a href="http://webserver.rilin.state.ri.us/BillText/BillText21/HouseText21/H6070.pdf" target="_blank" rel="noopener">divisive concepts</a>” or any teachings that imply “<a href="http://webserver1.lsb.state.ok.us/cf_pdf/2021-22%20ENR/hB/HB1775%20ENR.PDF" target="_blank" rel="noopener">one race or sex is inherently superior</a>.” But this concerted effort to limit what can be taught in our schools isn’t new — it’s the latest chapter in the GOP’s long-standing push to target curricula that goes against its political ideology. </p>
-
-
-
-<p data-paragraph="main">Republican attacks on cultural issues within America’s public schools follow a familiar pattern. First, they’re usually in response to a vague idea of what <em>might </em>happen — that is, teaching sexual health <a href="https://www.kqed.org/education/534518/sex-education-in-america-the-good-the-bad-the-ugly" target="_blank" rel="noopener"><em>might</em> lead to more school-aged teenagers having sex</a> (although there’s actually <a href="https://ifstudies.org/blog/fewer-american-high-schoolers-having-sex-than-ever-before" target="_blank" rel="noopener">been a decline</a> in the percentage of American high schoolers having sex since the early 1990s). Second, when there is a debate over teaching often taboo, complex social issues, like <a href="https://apnews.com/article/race-and-ethnicity-racial-injustice-business-education-government-and-politics-905c354a805cec1785160cf21f04c7ec" target="_blank" rel="noopener">racism</a>, <a href="https://www.pewforum.org/essay/darwin-in-america/" target="_blank" rel="noopener">evolution</a> and <a href="https://www.nytimes.com/roomfordebate/2015/04/28/whats-the-best-way-to-teach-sex-ed-today" target="_blank" rel="noopener">sex</a>, elected school board members can exert an outsized amount of control. Considering school board members are <a href="https://www.edweek.org/leadership/why-school-board-diversity-matters/2020/11" target="_blank" rel="noopener">more likely to be white and are often partisan</a>, Republicans’ political agenda <a href="https://journals.sagepub.com/doi/full/10.1177/2332858418818074" target="_blank" rel="noopener">can get a disproportionate amount of weight</a> in school board decisions. And if the contemporary Republican Party has taught us anything as of late, it’s that “anti-wokeness” is political <a href="https://fivethirtyeight.com/features/why-attacking-cancel-culture-and-woke-people-is-becoming-the-gops-new-political-strategy/" target="_blank" rel="noopener">catnip for its base</a>, so it’s unlikely that this crusade goes away any time soon. In fact, because critical race theory deals so explicitly with racism and discrimination, it has arguably <a href="https://www.theatlantic.com/politics/archive/2021/05/gops-critical-race-theory-fixation-explained/618828/" target="_blank" rel="noopener">animated the GOP base</a> in a way that previous education battles haven’t. </p>
-
-
-<p>Watch: https://abcnews.go.com/fivethirtyeight/video/racial-justice-protests-started-contemporary-culture-war-77883986</p>
-
-
-<p data-paragraph="main">One of the oldest education battles revolves around the teaching of evolution. It’s one that until recently didn’t have clearly drawn partisan lines. After all, the most famous example of a legislative attempt to prohibit teaching evolution in schools was actually introduced by a Democrat: a 1925 Tennessee state law to ban teaching evolution in schools. That <a href="https://www.npr.org/2005/07/05/4723956/timeline-remembering-the-scopes-monkey-trial" target="_blank" rel="noopener">law was later challenged in a showy court case</a> (complete with chimpanzees) that same year, where it was upheld, and ultimately not repealed until 1967. (It was also a Democrat who introduced a <a href="https://www.washingtonpost.com/archive/politics/1986/12/10/creationism-case-raises-issues-of-faith-freedom/ce2bf87f-513d-4ea3-95f8-dab73dfc93a8/" target="_blank" rel="noopener">1981 bill in Louisiana’s state legislature</a> that mandated the teaching of “creation science” — which presents religious beliefs as alternative scientific theories — whenever evolution was taught. The Supreme Court has since banned states from <a href="https://www.latimes.com/archives/la-xpm-1987-06-20-mn-8487-story.html" target="_blank" rel="noopener">requiring creation science</a> to be taught, but it has remained <a href="https://www.theguardian.com/us-news/2015/jun/24/bobby-jindal-republican-creationism-2016-election" target="_blank" rel="noopener">a popular conservative cultural flashpoint</a>.)</p>
-
-
-
-<p data-paragraph="main">In the last two decades, Republicans at the state level have introduced <a href="https://onlinelibrary.wiley.com/doi/abs/10.1111/ssqu.12267" target="_blank" rel="noopener">over 100 bills</a> aimed at undermining evolution, through tactics such as <a href="https://thehill.com/homenews/state-watch/316487-new-wave-of-anti-evolution-bills-hit-states?rl=1" target="_blank" rel="noopener">allowing teachers to “question” established scientific concepts</a>. Most of these bills never go anywhere — a <a href="https://onlinelibrary.wiley.com/doi/abs/10.1111/ssqu.12267" target="_blank" rel="noopener">2016 study</a> found just six anti-evolution bills out of 110 introduced between 2000 and 2012 were enacted into law — but the fact that legislatures keep proposing them means one of the U.S. public education system’s oldest bogeyman is still alive and well.</p>
-
-
-<div>
-	<p>
-		<a href="https://fivethirtyeight.com/features/how-trump-has-redefined-conservatism/?cid=_inlinerelated"><img alt="An illustration of a red elephant that on the side reads “Make America Great Again”" width="153" height="115" data-sizes="(min-width: 440px) 153px, 100vw" data-srcset="https://fivethirtyeight.com/wp-content/uploads/2021/06/CONSERVATISM-REDEFINED-4x3-1.png?w=153&amp;quality=100&amp;strip=all 153w, https://fivethirtyeight.com/wp-content/uploads/2021/06/CONSERVATISM-REDEFINED-4x3-1.png?w=306&amp;quality=100&amp;strip=all 306w, https://fivethirtyeight.com/wp-content/uploads/2021/06/CONSERVATISM-REDEFINED-4x3-1.png?w=405&amp;quality=100&amp;strip=all 405w, https://fivethirtyeight.com/wp-content/uploads/2021/06/CONSERVATISM-REDEFINED-4x3-1.png?w=810&amp;quality=100&amp;strip=all 810w"></a>
-	</p>
-	<p>
-				<strong>related:</strong>
-				How Trump Has Redefined Conservatism <a href="https://fivethirtyeight.com/features/how-trump-has-redefined-conservatism/?cid=_inlinerelated">Read more. »</a>
-	</p>
-</div>
-
-
-
-<p data-paragraph="main">Similarly, sex education in public schools has long been a target of Republicans, although once it became clear that sex education programs actually help <a href="https://www.cdc.gov/healthyyouth/whatworks/what-works-sexual-health-education.htm" target="_blank" rel="noopener">reduce the risk of teen pregnancy and STIs and delay the age</a> when teens become sexually active, sex ed became more socially accepted. This means that Republicans opposed to sex ed have had to change their strategy to curtailing what’s taught. Sixteen states, for instance, <a href="https://www.guttmacher.org/state-policy/explore/sex-and-hiv-education" target="_blank" rel="noopener">require educators to “stress” abstinence education</a> and do not require anything be taught about contraception, according to the Guttmacher Institute, a research organization that advances sexual and reproductive health and rights.<a data-footnote-id="8" href="https://fivethirtyeight.com/wp-json/wp/v2/espn_verticals/398#fn-8" data-footnote-content="&lt;p&gt;&lt;p&gt;Not every bill was introduced by Republican lawmakers, but the majority were.&lt;/p&gt;
-&lt;/p&gt;"><sup>8</sup></a> Another popular strategy is giving <a href="https://www.wfla.com/news/education/florida-parents-can-opt-their-students-out-of-sex-education-with-newly-signed-law/" target="_blank" rel="noopener">parents the right</a> to opt their child out of sex ed, or making <a href="https://azednews.com/senate-hears-bill-that-would-require-parents-to-opt-in-not-opt-out-for-sex-education/" target="_blank" rel="noopener">sex ed opt-in</a> to begin with. </p>
-
-
-
-<p data-paragraph="main">And more recently, <a href="https://www.vox.com/2014/10/7/18088680/common-core" target="_blank" rel="noopener">beginning in the late 2000s</a>, a culture war clash emerged following the adoption of the <a href="https://www.cbsnews.com/news/the-debate-over-common-core/" target="_blank" rel="noopener">Common Core State Standards Initiative</a> — a set of K-12 academic standards that was aggressively pushed by the federal government. While the initiative was designed to promote a good education by giving students specific guidelines about what they should know, grade by grade, in subjects like math and English language arts, it <a href="https://www.motherjones.com/politics/2014/09/common-core-education-reform-backlash-obamacare/" target="_blank" rel="noopener">faced fierce opposition from Republicans</a> and Democrats alike. </p>
-
-
-
-<p data-paragraph="main">But around 2015, the Core standards became especially politicized by <a href="https://slate.com/human-interest/2015/08/gop-education-summit-six-candidates-meet-with-campbell-brown-in-new-hampshire.html" target="_blank" rel="noopener">politicians on the right</a> who thought curriculum standards should be left to local officials. For instance, when Donald Trump <a href="https://www.npr.org/sections/ed/2016/09/25/494740056/donald-trumps-plan-for-americas-schools" target="_blank" rel="noopener">ran for the White House in 2016</a>, his early ads argued that “education has to be at a local level.” And in 2018, Trump’s former Secretary of Education Betsy DeVos falsely declared the Common Core was “<a href="https://www.ed.gov/news/speeches/prepared-remarks-us-education-secretary-betsy-devos-american-enterprise-institute" target="_blank" rel="noopener">dead</a>” — even though it’s up to individual states, and not the federal government, whether to ditch the Core standards.<a data-footnote-id="9" href="https://fivethirtyeight.com/wp-json/wp/v2/espn_verticals/398#fn-9" data-footnote-content='&lt;p&gt;&lt;p&gt;Originally, more than 40 states passed laws adopting the Common Core standards in their schools. But &lt;a href="https://www.achieve.org/files/StrongStandards_032919.pdf" target="_blank" rel="noopener"&gt;more than 20 states&lt;/a&gt; have now revised, repealed or rolled back parts of the program.&lt;/p&gt;
-&lt;/p&gt;'><sup>9</sup></a></p>
-
-
-
-<p data-paragraph="main">It’s clear culture war issues have always had a place in how Republicans think about education, but as Terry Moe, a senior fellow at the Hoover Institution, a conservative think tank, told us, Republicans also used to advocate for more policy-focused solutions. He pointed to Republican-led initiatives like the <a href="https://www.npr.org/sections/ed/2015/10/27/443110755/no-child-left-behind-what-worked-what-didnt" target="_blank" rel="noopener">No Child Left Behind Act</a>, which, in part, sought to use standardized testing to help improve student achievement. These kinds of initiatives have since <a href="https://www.washingtonpost.com/opinions/no-child-has-failed/2015/02/13/8d619026-b2f8-11e4-827f-93f454140e2b_story.html" target="_blank" rel="noopener">received their own criticism</a>, but they represent a very different strategy than the one that currently dominates the Republican Party. </p>
-
-
-
-<p data-paragraph="main">“The Republican Party has really gotten further and further away from being a party of ideas about how to solve social problems — one of them being an education system that does not perform very well — and becoming a party of anger and resentment. That’s what they specialize in now,” Moe said. “They are, for the most part, fighting a culture war against the Democrats and trying to pander to their base.”</p>
-
-
-<div>
-	<p>
-		<a href="https://fivethirtyeight.com/features/how-cancel-culture-became-an-issue-for-young-republicans/?cid=_inlinerelated"><img alt="A poster that says “Culture War, feat. Charlie Kirk” surrounded by fake political buttons that say “Socialism Sucks” and “Culture War.”" width="153" height="115" data-sizes="(min-width: 440px) 153px, 100vw" data-srcset="https://fivethirtyeight.com/wp-content/uploads/2021/03/GettyImages-1179231895-4x3-1.jpg?w=153&amp;quality=100&amp;strip=all 153w, https://fivethirtyeight.com/wp-content/uploads/2021/03/GettyImages-1179231895-4x3-1.jpg?w=306&amp;quality=100&amp;strip=all 306w, https://fivethirtyeight.com/wp-content/uploads/2021/03/GettyImages-1179231895-4x3-1.jpg?w=405&amp;quality=100&amp;strip=all 405w, https://fivethirtyeight.com/wp-content/uploads/2021/03/GettyImages-1179231895-4x3-1.jpg?w=810&amp;quality=100&amp;strip=all 810w"></a>
-	</p>
-	<p>
-				<strong>related:</strong>
-				How ‘Cancel Culture’ Became An Issue For Young Republicans <a href="https://fivethirtyeight.com/features/how-cancel-culture-became-an-issue-for-young-republicans/?cid=_inlinerelated">Read more. »</a>
-	</p>
-</div>
-
-
-
-<p data-paragraph="main">In that sense, critical race theory fits perfectly into the Republicans’ agenda, as it’s a cultural bugbear that conservatives have co-opted to encompass a range of trends they think are unpopular with Americans. (One of the lead architects pushing the anti-critical race theory backlash, Christopher Rufo, a senior fellow at the Manhattan Institute, a conservative think tank, <a href="https://web.archive.org/web/20210609235759/https://twitter.com/realchrisrufo/status/1371541044592996352" target="_blank" rel="noopener">has said as much</a>.) This is particularly true for topics centered specifically around race. </p>
-
-
-
-<p data-paragraph="main">“They’re worried about what happens when a reckoning takes hold in their kids’ schools where their kids might learn some things about American history — or about themselves or people like them — that are uncomfortable truths,” said Hakeem Jefferson, a FiveThirtyEight contributor and professor of political science at Stanford University. “This is merely another example of white Americans using schools as sites of their racial political projects, which set out to maintain dominance and do so by way of not telling the full truth of American history.”</p>
-
-
-
-<p data-paragraph="main">Many Americans still don’t know what the debate over critical race theory is really about at this point. Just 24 percent have heard “a lot” about it, 25 percent know “some” and 51 percent know little or nothing at all, according to a June <a href="https://www.politico.com/f/?id=0000017a-36ee-d33b-a37f-3eee757a0000&amp;nname=playbook&amp;nid=0000014f-1646-d88f-a1cf-5f46b7bd0000&amp;nrid=2fabe135-eaca-4acf-a36a-a0e8fde3c741&amp;nlid=630318" target="_blank" rel="noopener">Morning Consult/Politico</a> poll. But tellingly, Republicans were more likely than Democrats to have seen, heard or read a lot about critical race theory, 30 percent versus 21 percent. What’s more, those Republicans familiar with critical race theory overwhelmingly dislike it — 78 percent have a negative opinion of it compared to 7 percent of Democrats. When asked to <a href="https://morningconsult.com/2021/06/23/critical-race-theory-polling/" target="_blank" rel="noopener">describe</a> critical race theory in that same survey, one Republican respondent called critical race theory “a farce,” while another said it was a “Marxist proposal.”</p>
-
-
-
-<p data-paragraph="main">Considering how much more exposure Republicans have had to it — a <a href="https://www.mediamatters.org/fox-news/fox-has-mentioned-critical-race-theory-nearly-1300-times-past-35-months" target="_blank" rel="noopener">Media Matters analysis</a> shows Fox News has mentioned critical race theory 1,300 times in less than four months, and a query of data on the social media tool CrowdTangle <a href="https://twitter.com/KevinReuning/status/1401166962575749123" target="_blank" rel="noopener">from researchers</a> at Miami University and Wright State University found that the share of posts that mention critical race theory on the Facebook pages of local Republican parties has risen exponentially — the blowback among members of the GOP is not entirely surprising. It’s also not just the volume of coverage: The <a href="https://www.foxnews.com/media/msnbc-joy-reid-conflates-opposing-critical-race-theory-supporting-qanon-radicalized-parent-activists" target="_blank" rel="noopener">conservative media’s coverage</a> <a href="https://www.foxnews.com/opinion/tucker-carlson-critical-race-theory-crazed-ideologues-attack-hurt-children" target="_blank" rel="noopener">of critical race theory is</a> <a href="https://www.foxnews.com/media/cnn-critical-race-theory" target="_blank" rel="noopener">overwhelmingly negative</a>, too, as it’s <a href="https://www.forbes.com/sites/janicegassam/2021/05/09/the-war-on-critical-race-theory-continues-as-some-call-it-anti-white/?sh=6c0fba1373a7" target="_blank" rel="noopener">decried by some on the right</a> as anti-white.</p>
-
-
-
-<p data-paragraph="main">Republicans have long fought specters within education that they claim threaten the American way of life. The current blowback against critical race theory follows in that tradition, but it also represents a broader transformation of the GOP into a populist party focused on waging culture wars. Though it may seem like a misguided crusade-du-jour, the tumult around critical race theory is both a reflection of the Republican Party’s past — and a glimpse at its future. </p>
-
-
-<p>Watch: https://abcnews.go.com/fivethirtyeight/video/republicans-happy-stoke-culture-wars-fivethirtyeight-politics-podcast-76546643</p>
-
-<p>Watch: https://abcnews.go.com/fivethirtyeight/video/republicans-starting-make-climate-agenda-fivethirtyeight-politics-podcast-78546775</p>]]></description>
-			<pubDate>Mon, 12 Jul 2021 11:00:00 +0100</pubDate>
-			<guid isPermaLink="false">1626126815167292</guid>
 		</item>
 
 	</channel>
