@@ -3,8 +3,8 @@
 		<title>Main stream | FreshRSS</title>
 		<link>http://radon</link>
 		<description>RSS feed of Main stream | FreshRSS</description>
-		<pubDate>Fri, 30 Jul 2021 12:29:07 +0100</pubDate>
-		<lastBuildDate>Fri, 30 Jul 2021 11:29:07 GMT</lastBuildDate>
+		<pubDate>Fri, 30 Jul 2021 12:59:07 +0100</pubDate>
+		<lastBuildDate>Fri, 30 Jul 2021 11:59:07 GMT</lastBuildDate>
 		<atom:link href="http://radon/i/?a=rss" rel="self" type="application/rss+xml" />
 		<item>
 			<title>Partisanship Isn’t The Only Reason Why So Many Americans Remain Unvaccinated</title>
@@ -87,10 +87,10 @@
 			<guid isPermaLink="false">1627640101899602</guid>
 		</item>
 		<item>
-			<title>Politics Podcast: What Americans Think About Vaccines, Masks And Shutdowns As Covid Cases Spike</title>
+			<title>Politics Podcast: What Americans Think About Vaccines, Mask Mandates And Shutdowns As COVID-19 Cases Spike</title>
 			<link>https://fivethirtyeight.com/features/politics-podcast-what-americans-think-about-vaccines-masks-and-shutdowns-as-covid-cases-spike/</link>
 						<dc:creator>Galen Druke</dc:creator>
-			<dc:creator>Galen Druke， Maggie Koerth， Alex Samuels and Geoffrey Skelley</dc:creator>
+			<dc:creator>FiveThirtyEight</dc:creator>
 			<category>COVID-19</category>
 			<category>FiveThirtyEight Podcasts</category>
 			<category>Pandemic</category>
@@ -98,9 +98,9 @@
 			<category>Vaccination</category>
 			<description><![CDATA[
 <div data-href="https://fivethirtyeight.com/features/politics-podcast-what-americans-think-about-vaccines-masks-and-shutdowns-as-covid-cases-spike/">
-	<div data-podcast-id="313672" data-podcast-duration="0" data-podcast-title="Politics Podcast: What Americans Think About Vaccines, Masks And Shutdowns As Covid Cases Spike">
+	<div data-podcast-id="313672" data-podcast-duration="0" data-podcast-title="Politics Podcast: What Americans Think About Vaccines, Mask Mandates And Shutdowns As COVID-19 Cases Spike">
 
-					<span>By <a href="https://fivethirtyeight.com/contributors/galen-druke/" title="" rel="author">Galen Druke, Maggie Koerth, Alex Samuels and Geoffrey Skelley</a>, <a href="https://fivethirtyeight.com/contributors/maggie-koerth/" title="" rel="author">Galen Druke, Maggie Koerth, Alex Samuels and Geoffrey Skelley</a>, <a href="https://fivethirtyeight.com/contributors/alex-samuels/" title="" rel="author">Galen Druke, Maggie Koerth, Alex Samuels and Geoffrey Skelley</a> and <a href="https://fivethirtyeight.com/contributors/geoffrey-skelley/" title="" rel="author">Galen Druke, Maggie Koerth, Alex Samuels and Geoffrey Skelley</a></span>
+					<span><span>FiveThirtyEight</span></span>
 			
 		
 		<button aria-label="Play"></button>
@@ -126,7 +126,7 @@
 		<span><a data-android-url="" href="http://m.espn.com/general/cast?id=14554755">ESPN App</a> |</span>
 		<a href="https://www.espn.com/espnradio/feeds/rss/podcast.xml?id=14554755">RSS</a>
 			</div>
-	</aside><p data-paragraph="main">The number of covid cases in the U.S. is surging, largely due to the Delta variant. Earlier this summer there were 10-15,000 reported cases per day, but that number is now up to 60,000 and rising. The federal government and some states have started taking measures to try to increase vaccination rates, particularly among public employees and health care workers. A <a rel="noreferrer noopener" target="_blank" href="https://thehill.com/hilltv/what-americas-thinking/563893-poll-74-percent-support-reinstating-mask-mandates-if-their-area">recent Hill-Harris poll</a> showed that a majority of voters would support the reinstatement of mask mandates if there were a local spike in cases, but overall Americans are split on what to do about the rise in Covid cases. In this installment of the <a rel="noreferrer noopener" target="_blank" href="https://fivethirtyeight.com/tag/politics-podcast/">FiveThirtyEight Politics podcast</a>, the crew talks about where Americans stand on mitigation efforts, how politicians are responding, and what public health experts are saying about the current state of the pandemic.</p>
+	</aside><p data-paragraph="main">Cases of COVID-19 are surging in the U.S., largely due to the spread of the delta variant. Earlier this summer, an average of <a href="https://covid.cdc.gov/covid-data-tracker/#trends_dailytrendscases" data-type="URL" data-id="https://covid.cdc.gov/covid-data-tracker/#trends_dailytrendscases" target="_blank" rel="noopener">11,000-15,000 cases per day</a> were reported to the Centers for Disease Control and Prevention, but that average is now surpassing 60,000 per day. The federal government and some states have started taking measures to try to increase vaccination rates, particularly among public employees and health care workers. A <a rel="noreferrer noopener" target="_blank" href="https://thehill.com/hilltv/what-americas-thinking/563893-poll-74-percent-support-reinstating-mask-mandates-if-their-area">recent Hill-HarrisX poll</a> showed that a solid majority of voters would support the reinstatement of mask mandates in their area if COVID-19 cases started to spike, but overall, Americans are split on what to do about the rise in cases. In this installment of the <a rel="noreferrer noopener" target="_blank" href="https://fivethirtyeight.com/tag/politics-podcast/">FiveThirtyEight Politics podcast</a>, the crew talks about where Americans stand on mitigation efforts, how politicians are responding and what public health experts are saying about the current state of the pandemic.</p>
 
 
 
