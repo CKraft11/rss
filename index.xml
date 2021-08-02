@@ -3,9 +3,65 @@
 		<title>Main stream | FreshRSS</title>
 		<link>http://radon</link>
 		<description>RSS feed of Main stream | FreshRSS</description>
-		<pubDate>Mon, 02 Aug 2021 23:59:06 +0100</pubDate>
-		<lastBuildDate>Mon, 02 Aug 2021 22:59:06 GMT</lastBuildDate>
+		<pubDate>Tue, 03 Aug 2021 00:29:07 +0100</pubDate>
+		<lastBuildDate>Mon, 02 Aug 2021 23:29:07 GMT</lastBuildDate>
 		<atom:link href="http://radon/i/?a=rss" rel="self" type="application/rss+xml" />
+		<item>
+			<title>Politics Podcast: Why The California Recall Has Grown More Competitive</title>
+			<link>https://fivethirtyeight.com/features/politics-podcast-why-the-california-recall-has-grown-more-competitive/</link>
+						<dc:creator>Galen Druke</dc:creator>
+			<dc:creator>FiveThirtyEight</dc:creator>
+			<category>American Community Survey</category>
+			<category>California</category>
+			<category>California Governor Recall</category>
+			<category>Democrats</category>
+			<category>FiveThirtyEight Podcasts</category>
+			<category>Ohio</category>
+			<category>Ohio Primary</category>
+			<category>Politics Podcast</category>
+			<category>Republicans</category>
+			<description><![CDATA[
+<div data-href="https://fivethirtyeight.com/features/politics-podcast-why-the-california-recall-has-grown-more-competitive/">
+	<div data-podcast-id="313809" data-podcast-duration="0" data-podcast-title="Politics Podcast: Why The California Recall Has Grown More Competitive">
+
+					<span><span>FiveThirtyEight</span></span>
+			
+		
+		<button aria-label="Play"></button>
+
+					<div>
+		
+		
+							<div>
+					<div>
+						<div></div>
+					</div>
+
+					<div> </div>
+
+					<audio preload="none" controls="controls"><source src="https://www.podtrac.com/pts/redirect.mp3/traffic.megaphone.fm/ESP8994738729.mp3?updated=1627942867"></source></audio></div>
+			
+					</div>
+		
+	</div>
+</div>
+<aside><div>
+		More: <a href="https://itunes.apple.com/us/podcast/fivethirtyeight-elections/id1077418457">Apple Podcasts</a> |
+		<span><a data-android-url="" href="http://m.espn.com/general/cast?id=14554755">ESPN App</a> |</span>
+		<a href="https://www.espn.com/espnradio/feeds/rss/podcast.xml?id=14554755">RSS</a>
+			</div>
+	</aside><p data-paragraph="main">There are two special primary elections happening in Ohio this week, each with implications for Democrats’ and Republicans’ debates about how tightly to embrace establishment politicians in their parties. On this week’s episode, the FiveThirtyEight politics crew talks about what these races might mean for 2022 midterm races. They also talk about how the California recall election is shaping up after a <a rel="noreferrer noopener" target="_blank" href="https://escholarship.org/uc/item/27x9k5qt">recent poll</a> showed increased support for recalling current Governor Gavin Newsom and the <a rel="noreferrer noopener" target="_blank" href="https://www.census.gov/newsroom/press-releases/2021/changes-2020-acs-1-year.html">decision from the U.S. Census Bureau</a> to not release estimates from the 2020 American Community Survey.</p>
+
+
+
+<p data-paragraph="main"><em>You can listen to the episode by clicking the “play” button in the audio player above or by </em><a href="https://itunes.apple.com/us/podcast/fivethirtyeight-elections/id1077418457?mt=2" target="_blank" rel="noopener"><em>downloading it in iTunes</em></a><em>, the </em><a href="http://www.espn.com/espn/mobile/products/products/_/id/6857590" target="_blank" rel="noopener"><em>ESPN App</em></a><em> or your favorite podcast platform. If you are new to podcasts, </em><a href="https://fivethirtyeight.com/how-to-listen-to-fivethirtyeight-podcasts/" target="_blank" rel="noopener"><em>learn how to listen</em></a><em>.</em></p>
+
+
+
+<p data-paragraph="main"><em>The FiveThirtyEight Politics podcast is recorded Mondays and Thursdays. Help new listeners discover the show by </em><a href="https://itunes.apple.com/us/podcast/fivethirtyeight-elections/id1077418457?mt=2" target="_blank" rel="noopener"><em>leaving us a rating and review on iTunes</em></a><em>. Have a comment, question or suggestion for “good polling vs. bad polling”? Get in touch by email, </em><a href="https://twitter.com/FiveThirtyEight" target="_blank" rel="noopener"><em>on Twitter</em></a><em> or in the comments.</em></p>]]></description>
+			<pubDate>Mon, 02 Aug 2021 23:17:00 +0100</pubDate>
+			<guid isPermaLink="false">1627946102011485</guid>
+		</item>
 		<item>
 			<title>The Response To The Jan. 6 Select Committee Paints A Worrying Picture Of Our Democracy</title>
 			<link>https://fivethirtyeight.com/features/the-response-to-the-jan-6-select-committee-paints-a-worrying-picture-of-our-democracy/</link>
@@ -1951,42 +2007,6 @@
 <ul><li>Journalism experience or a robust understanding of the editorial process. If your experience was as a copy editor or fact-checker, that’s even better, as having meticulous attention to detail is key.</li><li>Experience reviewing and evaluating academic papers to identify and correct methodological flaws.</li><li>Experience supervising the work of others.</li><li>A solid understanding of U.S. politics, particularly electoral politics.</li><li>An enthusiasm for U.S. sports and sports statistics.</li><li>Fluency in Ruby and experience with Ruby on Rails.</li><li>A robust understanding of statistical models, such as those used to forecast sports or election results.</li></ul>]]></description>
 			<pubDate>Fri, 16 Jul 2021 15:21:00 +0100</pubDate>
 			<guid isPermaLink="false">1626449401572390</guid>
-		</item>
-		<item>
-			<title>We’re Hiring A Senior Politics Reporter</title>
-			<link>https://fivethirtyeight.com/features/were-hiring-a-senior-politics-reporter/</link>
-						<dc:creator>Sarah Frostenson</dc:creator>
-			<dc:creator>Sarah Frostenson</dc:creator>
-			<category>FiveThirtyEight Jobs</category>
-			<category>Politics</category>
-			<description><![CDATA[
-<p data-paragraph="main">FiveThirtyEight is seeking a senior reporter to write in-depth pieces on U.S. politics and elections with a particular focus on the intersection of politics and culture — how culture increasingly influences political identity and what that means for our politics, but also what that means for our society. We are at a critical juncture in American history, and we need an experienced reporter to work both independently and in collaboration with colleagues across the newsroom to help us tell authoritative stories about American democracy, the electorate and the larger trends changing each.</p>
-
-
-
-<p data-paragraph="main">A successful candidate will have produced longer, ambitious features and shorter, day-to-day stories. In other words, we’re looking for someone with experience successfully defining and covering a particular beat — pushing that beat forward week to week but also taking a step back to write stories with scope and sweep. We’re also looking for someone with a demonstrated track record of combining reporting and empirical evidence in their stories, but that work can take many forms — seeking academic expertise or using census information, polls or other statistics in your reporting, for example. Statistical skills would be a plus but are by no means required. What is most important to us is that you have experience combining data with more traditional reporting to tell big, important and <em>original </em>stories about this moment in our nation’s history and what might come next. How is the electorate changing — its makeup, its opinions? How are the parties changing? And what does all that mean for our democracy and our society?</p>
-
-
-
-<p data-paragraph="main">The Senior Politics Reporter will report to the Politics Editor, but we’re looking for someone eager to collaborate with colleagues across the newsroom (our video, podcast and visual journalists, most especially). The Senior Politics Reporter is a U.S.-based position and remote work may be considered. The position is full-time with benefits. Apply with a cover letter and resume <a href="https://jobs.disneycareers.com/job/new-york/senior-politics-reporter-fivethirtyeight/391/19594574" target="_blank" rel="noreferrer noopener">at the Disney jobs portal</a>.</p>
-
-
-
-<h2>Responsibilities:</h2>
-
-
-
-<ul><li>Write a mix of short and longer features each month that explore how culture and politics intersect.</li><li>Contribute to FiveThirtyEight’s podcasts and videos.</li><li>Work with the editing and graphics teams to occasionally develop and execute major projects.</li><li>Work with the Politics Editor and other colleagues to help guide FiveThirtyEight’s political coverage in general.</li></ul><h2>Basic Qualifications:</h2>
-
-
-
-<ul><li>Experience as a reporter covering U.S. politics either at the local or national level.</li><li>A track record of coming up with and executing original story ideas that involve in-depth reporting and analysis.</li><li>Experience using data in your reporting.</li></ul><h2>Preferred Qualifications:</h2>
-
-
-
-<ul><li>Experience working with academic and scientific research on politics, race and ethnicity.</li><li>Familiarity with spreadsheet software and analyzing data.</li></ul>]]></description>
-			<pubDate>Fri, 16 Jul 2021 15:21:00 +0100</pubDate>
-			<guid isPermaLink="false">1626449401572389</guid>
 		</item>
 
 	</channel>
