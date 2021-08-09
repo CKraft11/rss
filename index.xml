@@ -3,9 +3,62 @@
 		<title>Main stream | FreshRSS</title>
 		<link>http://radon</link>
 		<description>RSS feed of Main stream | FreshRSS</description>
-		<pubDate>Mon, 09 Aug 2021 23:59:07 +0100</pubDate>
-		<lastBuildDate>Mon, 09 Aug 2021 22:59:07 GMT</lastBuildDate>
+		<pubDate>Tue, 10 Aug 2021 00:29:06 +0100</pubDate>
+		<lastBuildDate>Mon, 09 Aug 2021 23:29:06 GMT</lastBuildDate>
 		<atom:link href="http://radon/i/?a=rss" rel="self" type="application/rss+xml" />
+		<item>
+			<title>Politics Podcast: What To Watch For As States Draw New Congressional Maps</title>
+			<link>https://fivethirtyeight.com/features/politics-podcast-what-to-watch-for-as-states-draw-new-congressional-maps/</link>
+						<dc:creator>Galen Druke</dc:creator>
+			<dc:creator>FiveThirtyEight</dc:creator>
+			<category>FiveThirtyEight Podcasts</category>
+			<category>Gerrymandering</category>
+			<category>Ohio</category>
+			<category>Politics Podcast</category>
+			<category>Primaries</category>
+			<category>Redistricting Tracker</category>
+			<category>The Biden Administration</category>
+			<description><![CDATA[<div data-href="https://fivethirtyeight.com/features/politics-podcast-what-to-watch-for-as-states-draw-new-congressional-maps/">
+	<div data-podcast-id="314164" data-podcast-duration="0" data-podcast-title="Politics Podcast: What To Watch For As States Draw New Congressional Maps">
+
+					<span><span>FiveThirtyEight</span></span>
+			
+		
+		<button aria-label="Play"></button>
+
+					<div>
+		
+		
+							<div>
+					<div>
+						<div></div>
+					</div>
+
+					<div> </div>
+
+					<audio preload="none" controls="controls"><source src="https://www.podtrac.com/pts/redirect.mp3/traffic.megaphone.fm/ESP9709685202.mp3?updated=1628547909"></source></audio></div>
+			
+					</div>
+		
+	</div>
+</div>
+<aside><div>
+		More: <a href="https://itunes.apple.com/us/podcast/fivethirtyeight-elections/id1077418457">Apple Podcasts</a> |
+		<span><a data-android-url="" href="http://m.espn.com/general/cast?id=14554755">ESPN App</a> |</span>
+		<a href="https://www.espn.com/espnradio/feeds/rss/podcast.xml?id=14554755">RSS</a>
+			</div>
+	</aside><p data-paragraph="main">In his first six months in office, President Biden had the most stable <a href="https://fivethirtyeight.com/features/why-bidens-approval-rating-has-barely-budged-in-his-first-6-months/" target="_blank" rel="noopener">presidential approval rating</a> in history. His approval rating is still <a href="https://projects.fivethirtyeight.com/biden-approval-rating/" target="_blank" rel="noopener">incredibly steady</a>, but in recent weeks it has begun to decline. In this installment of the <a rel="noreferrer noopener" target="_blank" href="https://fivethirtyeight.com/tag/politics-podcast/">FiveThirtyEight Politics podcast</a>, the crew discusses why Biden’s approval rating is falling and how much Democrats should worry. They also check in on the results from the two recent primary elections in Ohio. Lastly, they announce the launch of <a rel="noreferrer noopener" target="_blank" href="https://projects.fivethirtyeight.com/redistricting-2022-maps/">FiveThirtyEight’s Redistricting Tracker</a> and talk about the most important factors going into the congressional redistricting process.</p>
+
+
+
+<p data-paragraph="main"><em>You can listen to the episode by clicking the “play” button in the audio player above or by </em><a href="https://itunes.apple.com/us/podcast/fivethirtyeight-elections/id1077418457?mt=2" target="_blank" rel="noopener"><em>downloading it in iTunes</em></a><em>, the </em><a href="http://www.espn.com/espn/mobile/products/products/_/id/6857590" target="_blank" rel="noopener"><em>ESPN App</em></a><em> or your favorite podcast platform. If you are new to podcasts, </em><a href="https://fivethirtyeight.com/how-to-listen-to-fivethirtyeight-podcasts/" target="_blank" rel="noopener"><em>learn how to listen</em></a><em>.</em></p>
+
+
+
+<p data-paragraph="main"><em>The FiveThirtyEight Politics podcast is recorded Mondays and Thursdays. Help new listeners discover the show by </em><a href="https://itunes.apple.com/us/podcast/fivethirtyeight-elections/id1077418457?mt=2" target="_blank" rel="noopener"><em>leaving us a rating and review on iTunes</em></a><em>. Have a comment, question or suggestion for “good polling vs. bad polling”? Get in touch by email, </em><a href="https://twitter.com/FiveThirtyEight" target="_blank" rel="noopener"><em>on Twitter</em></a><em> or in the comments.</em></p>]]></description>
+			<pubDate>Mon, 09 Aug 2021 23:26:00 +0100</pubDate>
+			<guid isPermaLink="false">1628550001661212</guid>
+		</item>
 		<item>
 			<title>What Redistricting Looks Like In Every State</title>
 			<link>https://projects.fivethirtyeight.com/redistricting-2022-maps/</link>
@@ -1787,46 +1840,6 @@
 <p>Watch: https://abcnews.go.com/fivethirtyeight/video/watch-surfing-olympic-judge-fivethirtyeight-78973776</p>]]></description>
 			<pubDate>Fri, 23 Jul 2021 11:00:00 +0100</pubDate>
 			<guid isPermaLink="false">1627038902129863</guid>
-		</item>
-		<item>
-			<title>We’re Looking For A Politics Intern</title>
-			<link>https://fivethirtyeight.com/features/were-looking-for-a-politics-intern/</link>
-						<dc:creator>Sarah Frostenson</dc:creator>
-			<dc:creator>Sarah Frostenson</dc:creator>
-			<category>FiveThirtyEight Jobs</category>
-			<category>Job Openings</category>
-			<description><![CDATA[
-<p data-paragraph="main">FiveThirtyEight is seeking an intern to join our politics team during the fall of 2021. We’re looking for a current student or recent graduate who has experience using data to tell stories about politics — ranging from how Americans feel about an important political issue to unpacking big political and electoral trends.</p>
-
-
-
-<p data-paragraph="main">The intern’s main role will be to report and write his or her own stories, but the internship will also involve working closely with the politics team and other parts of the newsroom on a number of collaborative projects. See FiveThirtyEight’s <a href="https://fivethirtyeight.com/audio-features/when-women-run/" target="_blank" rel="noopener">“When Women Run” project</a> or our <a href="https://fivethirtyeight.com/features/police-misconduct-costs-cities-millions-every-year-but-thats-where-the-accountability-ends/" target="_blank" rel="noopener">deep dive into police misconduct and settlements</a> for examples of big, cross-newsroom projects that interns have contributed to previously.</p>
-
-
-
-<p data-paragraph="main">An ideal candidate will have journalism experience and a background in data analysis in addition to some experience covering or analyzing American politics (whether from a journalism class, school paper, job or internship). But “politics” doesn’t just mean electoral politics. It could mean you have experience reporting on policy issues, social movements, polarization in your community or something else. Interpret it broadly, because we will too!</p>
-
-
-
-<p data-paragraph="main">The politics intern will report to the Politics Editor, but as a small newsroom, we’re looking for someone eager to collaborate with colleagues across the newsroom. The politics intern is a U.S.-based remote position. Applicants should be able to commit to a full-time schedule from mid-September until December and must be a current student or have graduated in the past 18 months. Apply with a cover letter and resume <a href="https://xjobs.brassring.com/TGnewUI/Search/home/HomeWithPreLoad?PageType=JobDetails&amp;partnerid=25348&amp;siteid=5039&amp;Areq=831600BR#jobDetails=835332_5039" target="_blank" rel="noopener">at the Disney jobs portal</a> by Aug. 2.</p>
-
-
-
-<p data-paragraph="main"><strong>Responsibilities</strong></p>
-
-
-
-<ul><li>Pitch, report and write stories on American politics.</li><li>Conduct original data analysis for stories and bigger features and projects.</li><li>Collaborate with other reporters and teams across the newsroom, including our visual journalists, video journalists and copy desk.</li></ul><p data-paragraph="main"><strong>Basic Qualifications</strong></p>
-
-
-
-<ul><li>Journalism experience, whether from a class, working at a student publication or through a job or internship.</li><li>Experience analyzing data — again, from either a class, student publication or previous job or internship is absolutely fine!</li><li>Some experience reporting on politics.</li><li>Knowledge of FiveThirtyEight and the kinds of journalism we create.</li></ul><p data-paragraph="main"><strong>Preferred Qualifications</strong></p>
-
-
-
-<ul><li>A background in statistics or experience working with R.</li></ul>]]></description>
-			<pubDate>Thu, 22 Jul 2021 21:22:00 +0100</pubDate>
-			<guid isPermaLink="false">1626989401766004</guid>
 		</item>
 
 	</channel>
