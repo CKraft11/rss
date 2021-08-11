@@ -3,9 +3,125 @@
 		<title>Main stream | FreshRSS</title>
 		<link>http://radon</link>
 		<description>RSS feed of Main stream | FreshRSS</description>
-		<pubDate>Wed, 11 Aug 2021 10:59:07 +0100</pubDate>
-		<lastBuildDate>Wed, 11 Aug 2021 09:59:07 GMT</lastBuildDate>
+		<pubDate>Wed, 11 Aug 2021 11:29:07 +0100</pubDate>
+		<lastBuildDate>Wed, 11 Aug 2021 10:29:07 GMT</lastBuildDate>
 		<atom:link href="http://radon/i/?a=rss" rel="self" type="application/rss+xml" />
+		<item>
+			<title>Still Unsure About Getting The COVID-19 Vaccine? Start Here.</title>
+			<link>https://fivethirtyeight.com/features/still-unsure-about-getting-the-covid-19-vaccine-start-here/</link>
+						<dc:creator>Kaleigh Rogers</dc:creator>
+			<dc:creator>Kaleigh Rogers</dc:creator>
+			<category>COVID-19 Vaccine</category>
+			<category>FAQ</category>
+			<category>Vaccination</category>
+			<description><![CDATA[<p data-paragraph="main">In the early days of the pandemic, there was a real sense of camaraderie. We were all in this together. We stood on our balconies and stoops and leaned out windows to clap for front-line workers. We stayed home to keep each other safe. Now, that altruistic mentality has reverted to the all-too-familiar mean of tribalism. It can feel like the <a href="https://www.cbsnews.com/news/anthony-fauci-covid-19-unvaccinated-americans-delta-variant-face-the-nation/" target="_blank" rel="noopener">battle lines have been drawn</a>: on one side, those who have been vaccinated, and on the other, those who haven’t. </p>
+
+
+
+<p data-paragraph="main">But things are never that black and white. Even among those who have been vaccinated, many people <a href="https://www.theatlantic.com/health/archive/2021/07/unvaccinated-different-anti-vax/619523/" target="_blank" rel="noopener">still have concerns and questions about the vaccine</a>. And among those who haven’t, their reasons for not getting the jab vary from <a href="https://morningconsult.com/covid19-vaccine-dashboard/#section-26" target="_blank" rel="noopener">concerns over potential side effects</a>, to a <a href="https://www.bbc.com/news/newsbeat-58086377" target="_blank" rel="noopener">fear of needles</a>, to simply <a href="https://twitter.com/DeNovo_Fatima/status/1424693278469984256" target="_blank" rel="noopener">not being able</a> to take time off work. The <a href="https://covid.cdc.gov/covid-data-tracker/#vaccinations_vacc-total-admin-rate-total" target="_blank" rel="noopener">roughly 30 percent</a> of eligible Americans who have yet to be vaccinated are not all anti-vaccine conspiracy theorists, and treating them as such could make them <a href="https://www.washingtonpost.com/health/2021/07/24/how-talk-vaccine-hesitant-friends-family-about-getting-shot/" target="_blank" rel="noopener">even less likely</a> to get the shot.</p>
+
+
+
+<p data-paragraph="main">We’ve collected some of the most common concerns with vaccination mentioned by people who are vaccine hesitant, and we’ve provided evidence-based responses to each one. If you or someone you know share any of these concerns, click through to see what information is out there to help you make this important decision. </p>
+
+
+
+<ul><li>“<a href="https://fivethirtyeight.com/wp-json/wp/v2/espn_verticals/398#around-long-enough">The vaccine hasn’t been around long enough for me to know it’s safe.</a>” </li><li>“<a href="https://fivethirtyeight.com/wp-json/wp/v2/espn_verticals/398#breakthrough">I can still get COVID-19 after getting vaccinated, so there’s no point in getting the shot</a>.” </li><li>“<a href="https://fivethirtyeight.com/wp-json/wp/v2/espn_verticals/398#asymptomatic-spread">Vaccinated people can still spread the virus, so it doesn’t make a difference to public health if I’m unvaccinated</a>.” </li><li>“<a href="https://fivethirtyeight.com/wp-json/wp/v2/espn_verticals/398#FDA-approval">The vaccines haven’t been fully approved by the FDA</a>.”</li><li>“<a href="https://fivethirtyeight.com/wp-json/wp/v2/espn_verticals/398#already-had-covid">I already had COVID-19, so I’m immune and don’t need the vaccine</a>.” </li><li>“<a href="https://fivethirtyeight.com/wp-json/wp/v2/espn_verticals/398#vaccine-infertility">I heard the vaccine can cause infertility</a>.” </li></ul><hr><h2><strong>“The vaccine hasn’t been around long enough for me to know it’s safe.” </strong></h2>
+
+
+
+<p data-paragraph="main">It’s true that compared to something like a tetanus shot, which has been in use for <a href="https://www.cdc.gov/vaccines/pubs/pinkbook/tetanus.html" target="_blank" rel="noopener">nearly a century</a>, COVID-19 vaccines have a much shorter record of safety. But there are a few things to consider. One is that, due to the pandemic, <a href="https://ourworldindata.org/covid-vaccinations?country=OWID_WRL" target="_blank" rel="noopener">billions of people</a> have received these vaccines. Collecting data on how a medical intervention impacts <em>billions</em> of people would take decades in any other scenario, but we’ve been able to get it in just a few months. And because these vaccines are new, they are being carefully monitored. It’s how experts were able to identify that the AstraZeneca vaccine carries a small risk of a rare blood clot condition called thrombocytopenia syndrome. The <a href="https://www.reuters.com/business/healthcare-pharmaceuticals/rare-blood-clot-cases-not-higher-after-astrazeneca-second-dose-study-2021-07-28/" target="_blank" rel="noopener">risk is less than 10 in 1 million</a>, yet researchers were able to identify it quickly due to intensive monitoring and the sheer number of people getting their shots. </p>
+
+
+
+<p data-paragraph="main">While the Pfizer and Moderna vaccines are the first vaccines using mRNA that have been approved, research on this kind of vaccine delivery method has been <a href="https://www.statnews.com/2020/11/10/the-story-of-mrna-how-a-once-dismissed-idea-became-a-leading-technology-in-the-covid-vaccine-race/" target="_blank" rel="noopener">happening for decades</a>. <a href="https://scholar.google.com/scholar_lookup?title=Dendritic%20cell%20immunotherapy%20for%20HIV-1%20infection%20using%20autologous%20HIV-1%20RNA%3A%20a%20randomized%2C%20double-blind%2C%20placebo-controlled%20clinical%20trial&amp;journal=J.%20Acquir.%20Immune%20Def.%20Syndr.&amp;volume=72&amp;pages=31-38&amp;publication_year=2016&amp;author=Jacobson%2CJM" target="_blank" rel="noopener">Previous clinical</a> <a href="https://scholar.google.com/scholar_lookup?title=Immunization%20of%20HIV-1-infected%20persons%20with%20autologous%20dendritic%20cells%20transfected%20with%20mRNA%20encoding%20HIV-1%20Gag%20and%20Nef%3A%20results%20of%20a%20randomized%2C%20placebo-controlled%20clinical%20trial&amp;journal=J.%20Acquir.%20Immune%20Def.%20Syndr.&amp;volume=71&amp;pages=246-253&amp;publication_year=2016&amp;author=Gandhi%2CRT" target="_blank" rel="noopener">trials</a> for mRNA vaccines showed the vaccines were safe, with mild side effects like headache or soreness at the injection site. It also might be helpful to know that mRNA (or messenger ribonucleic acid) is not some new, lab-created substance, it’s a <a href="https://theconversation.com/what-is-mrna-the-messenger-molecule-thats-been-in-every-living-cell-for-billions-of-years-is-the-key-ingredient-in-some-covid-19-vaccines-158511" target="_blank" rel="noopener">naturally-occurring molecule</a> that our body produces and uses as part of its daily cellular functions. </p>
+
+
+
+<p data-paragraph="main">“We’re also building on decades of understanding of how vaccines work,” said Namandjé Bumpus, director of the Johns Hopkins University Department of Pharmacology and Molecular Sciences. Part of that understanding includes the fact that adverse side effects from vaccines almost always show up very soon after they’ve been administered — from a few minutes, as in the rare cases of anaphylaxis after the Pfizer and Modern vaccines, to a few weeks, as <a href="https://www.nature.com/articles/s41591-021-01419-1#:~:text=There%20is%20now%20compelling%20evidence,vector%20vaccine%20or%20the%20Ad26." target="_blank" rel="noopener">we saw with</a> the rare blood clot condition. The <a href="https://www.nationalgeographic.com/science/article/vaccines-are-highly-unlikely-to-cause-side-effects-long-after-getting-the-shot-" target="_blank" rel="noopener">longest time</a> before a side effect appeared for any type of vaccine has been six weeks. And because vaccines are designed to prompt our body to mount its own immune response, the actual vaccine doesn’t stay in our system — our bodies <a href="https://www.nationalgeographic.com/science/article/vaccines-are-highly-unlikely-to-cause-side-effects-long-after-getting-the-shot-" target="_blank" rel="noopener">process the ingredients</a> in the shot within a day or two. Since the vaccines have been in use for months at this point, any side effects should have emerged. </p>
+
+
+
+<p data-paragraph="main">Could there be unforeseen effects of the vaccines that haven’t yet appeared? Possibly. But as Genevieve Kanter, an economist at the University of Pennsylvania who studies the regulation of biomedical technologies, pointed out, the novel coronavirus — and its variants — also haven’t been around very long. </p>
+
+
+
+<p data-paragraph="main">“We don’t know the long-term effects of COVID-19, either,” Kanter said. But what we know so far isn’t ideal: <a href="https://www.hopkinsmedicine.org/health/conditions-and-diseases/coronavirus/covid-long-haulers-long-term-effects-of-covid19" target="_blank" rel="noopener">Some people who recover from COVID-19</a> have side effects that have lasted for months, including fatigue, breathing difficulties and cognitive impairments. </p>
+
+
+
+<hr><h2><strong>“I can still get COVID-19 after getting vaccinated, so there’s no point in getting the shot.” </strong></h2>
+
+
+
+<p data-paragraph="main">Since before the vaccines were even available, <a href="https://abcnews.go.com/US/covid-19-vaccine-dont-expect-cure-scientists/story?id=71333281" target="_blank" rel="noopener">experts have warned</a> that they wouldn’t be 100 percent effective at preventing infection. Luckily, the vaccines that we ended up with were actually much more effective than what <a href="https://abcnews.go.com/US/covid-19-vaccine-dont-expect-cure-scientists/story?id=71333281" target="_blank" rel="noopener">early predictions suggested</a> — Moderna and Pfizer are both <a href="https://www.yalemedicine.org/news/covid-19-vaccine-comparison" target="_blank" rel="noopener">better than 90 percent</a>, and Johnson &amp; Johnson is around <a href="https://www.yalemedicine.org/news/covid-19-vaccine-comparison" target="_blank" rel="noopener">72 percent effective</a> against the original strain of COVID-19 in the U.S. — but since they aren’t 100 percent, that means some vaccinated people can still get COVID-19. Early studies show the vaccines are less effective against the delta variant, with both <a href="https://www.nejm.org/doi/full/10.1056/NEJMoa2108891" target="_blank" rel="noopener">Pfizer</a> and <a href="https://www.medrxiv.org/content/10.1101/2021.06.28.21259420v1.full.pdf" target="_blank" rel="noopener">Moderna</a> around 90 percent effective against infection, and <a href="https://www.nytimes.com/2021/08/06/science/johnson-delta-vaccine-booster.html" target="_blank" rel="noopener">J&amp;J</a> up to 71 percent effective against hospitalization. And we’re seeing <a href="https://www.washingtonpost.com/health/delta-variant-most-prevalent/2021/08/08/d1017f0e-f558-11eb-9068-bf463c8c74de_story.html" target="_blank" rel="noopener">more breakthrough infections</a> as the delta variant spreads.</p>
+
+
+
+<p data-paragraph="main">Nevertheless, study after study shows that your risk of getting COVID-19 is much lower if you’re vaccinated than if you’re unvaccinated. In <a href="https://www.gov.uk/government/news/react-study-shows-fully-vaccinated-are-three-times-less-likely-to-be-infected" target="_blank" rel="noopener">a study published last week</a> that followed over 98,000 people in England from late-June to mid-July, vaccinated individuals were three times less likely to contract COVID-19 than unvaccinated individuals, even as the delta variant dominated cases. In fact, even if you do get infected after vaccination, your risks of getting seriously ill, needing to go in the hospital, needing to go in the intensive care unit or dying are reduced even further. Vaccinated Americans have accounted for less than 0.06 percent of hospitalizations, according to <a href="https://www.kff.org/policy-watch/covid-19-vaccine-breakthrough-cases-data-from-the-states/" target="_blank" rel="noopener">a review from the Kaiser Family Foundation</a>, which looked at states that report breakthrough cases. Of the more than <a href="https://covid.cdc.gov/covid-data-tracker/#vaccinations" target="_blank" rel="noopener">166 million Americans</a> who have been vaccinated, <a href="https://www.cdc.gov/vaccines/covid-19/health-departments/breakthrough-cases.html" target="_blank" rel="noopener">1,507 have died after contracting COVID-19</a> — a rate of 0.0009 percent, compared to <a href="https://www.nytimes.com/interactive/2021/us/covid-cases.html" target="_blank" rel="noopener">a death rate of roughly 1.7 percent</a> for all confirmed cases of Americans who have been infected with COVID-19. That means that, if 100,000 unvaccinated people got COVID-19, on average, 1,700 people would die. If 100,000 vaccinated people got breakthrough cases of COVID-19, on average, not even one person would die. </p>
+
+
+
+<hr><h2><strong>“Vaccinated people can still spread the virus, so it doesn’t make a difference to public health if I’m unvaccinated.”</strong></h2>
+
+
+
+<p data-paragraph="main">Our understanding about whether vaccinated individuals can spread the virus to others is still evolving, and though <a href="https://www.npr.org/sections/coronavirus-live-updates/2021/07/30/1022867219/cdc-study-provincetown-delta-vaccinated-breakthrough-mask-guidance" target="_blank" rel="noopener">there’s evidence to suggest that they can</a>, there are still important public health reasons to get a jab. For one, your chances of getting COVID-19 in the first place <a href="https://www.nbcnews.com/specials/data-shows-how-rare-severe-breakthrough-covid-infections-are/index.html" target="_blank" rel="noopener">are reduced when you’re fully vaccinated</a>, which will in turn limit your likelihood of spreading the virus to someone else — you can’t spread what you don’t have. The more people who are vaccinated, the less easily the virus is able to circulate in the population. This helps protect people who can’t yet be vaccinated, such as children under age 12, <a href="https://www.nytimes.com/2021/08/09/health/coronavirus-children-delta.html" target="_blank" rel="noopener">who are being hospitalized at much higher rates</a> than earlier in the pandemic. You may have read about herd immunity and the fact that, for this virus, <a href="https://www.bloomberg.com/news/articles/2021-08-03/delta-s-spread-seen-pushing-herd-immunity-threshold-above-80" target="_blank" rel="noopener">we would need very high levels of immunity</a> to reach that point. But Namandjé Bumpus, director of the department of pharmacology and molecular sciences at Johns Hopkins University, pointed out that regardless of whether we reach herd immunity, a more vaccinated population will lessen the spread of COVID-19 — a 70 percent vaccination rate is still better than 60 percent, which is better than 50 percent. </p>
+
+
+
+<p data-paragraph="main">“Herd immunity is not this magic number where suddenly a bell will be rung across the country,” Bumpus said. “Every person counts.”</p>
+
+
+
+<p data-paragraph="main">But perhaps even more important for public health is the fact that fewer infections provide less opportunity for the virus to mutate into new, potentially more deadly, strains. Each time the novel coronavirus infects a person, <a href="https://theconversation.com/how-the-coronavirus-mutates-and-what-this-means-for-the-future-of-covid-19-154499" target="_blank" rel="noopener">it replicates inside the body</a>. When the virus duplicates, it sometimes makes an exact copy of itself, and other times its copies have a slight mutation. Sometimes these mutations make the virus weaker, and other times, they make it stronger — such as being better able to <a href="https://www.nature.com/articles/d41586-021-02039-y" target="_blank" rel="noopener">attach to our cells</a> — according to Dr. Jonathan Li, director of the Harvard/Brigham Virology Specialty Laboratory at Harvard University.</p>
+
+
+
+<p data-paragraph="main">“Every time the virus infects a new person, there’s a chance it can find a mutation that benefits itself,” Li said.</p>
+
+
+
+<p data-paragraph="main">Those beneficial mutations are what allow the novel coronavirus to evolve into new variants, including the delta variant, which is <a href="https://www.washingtonpost.com/health/2021/07/07/delta-variant-covid/" target="_blank" rel="noopener">nearly 50 percent more contagious</a> than the original strain of the virus. New variants may be <a href="https://www.nature.com/articles/d41586-021-00121-z%E2%80%9D" target="_blank" rel="noopener">able to evade our immune responses</a>, rendering our existing vaccines less effective (<a href="https://www.cdc.gov/coronavirus/2019-ncov/variants/delta-variant.html" target="_blank" rel="noopener">as with</a> delta) or making it easier for unvaccinated people to <a href="https://www.wsj.com/articles/unvaccinated-more-than-twice-as-likely-to-get-covid-19-again-cdc-says-11628276064" target="_blank" rel="noopener">get COVID-19 a second time</a>. By getting vaccinated, you’ll reduce the likelihood that you’ll get an infection, denying the virus a new opportunity to mutate and get stronger. And even if you do get a rare breakthrough infection, the <a href="https://news.arizona.edu/story/covid-19-vaccine-reduces-severity-length-viral-load-those-who-still-get-infected" target="_blank" rel="noopener">vaccines help reduce</a> the length and severity of infection, meaning you’re still reducing the time the virus has to mutate. </p>
+
+
+
+<hr><h2><strong>“The vaccines haven’t been fully approved by the FDA.”</strong></h2>
+
+
+
+<p data-paragraph="main">It’s true, none of the vaccines currently in use have been fully approved by the Food and Drug Administration. However, they have all been granted emergency use authorization, which is <a href="https://www.fda.gov/vaccines-blood-biologics/vaccines/emergency-use-authorization-vaccines-explained" target="_blank" rel="noopener">not an easy hurdle to clear</a>, and is constantly monitored — the FDA could <a href="https://www.cdc.gov/vaccinesafety/concerns/recalls.html" target="_blank" rel="noopener">revoke this authorization</a> at any time if safety concerns arose. <a href="https://www.nytimes.com/2021/08/03/us/politics/pfizer-vaccine-approval.html" target="_blank" rel="noopener">All signs suggest the FDA will fully approve</a> these vaccines within the coming months. </p>
+
+
+
+<p data-paragraph="main">Part of the reason the process has taken so long is because <a href="https://www.fda.gov/media/139638/download" target="_blank" rel="noopener">the FDA required six months</a> of safety data to consider full approval, so we needed to wait until enough time had passed to collect the data. That means the process for granting full approval requires a “longer follow-up, [but] not necessarily more rigorous review,” said Susan S. Ellenberg, a former FDA official and a professor emeritus of biostatistics, medical ethics and health policy at the University of Pennsylvania who was on the Operation Warp Speed Data and Safety Monitoring Board. Given the urgency of a deadly pandemic, the emergency use authorization was granted to make sure we could get access to these vaccines sooner rather than later. Plus, if the FDA had rushed the full approval process, it may have eroded trust in the vaccines, rather than increased it, according to Ravina Kullar, an infectious disease expert and fellow at the Infectious Diseases Society of America.</p>
+
+
+
+<hr><h2><strong>“I already had COVID-19, so I’m immune and don’t need the vaccine.” </strong></h2>
+
+
+
+<p data-paragraph="main">Having a bout of COVID-19 does provoke an immune response, but <a href="https://www.nationalgeographic.com/science/article/people-who-already-had-covid-19-should-still-get-vaccinated-scientists-urge" target="_blank" rel="noopener">we still don’t know</a> how robust that response is or how long it lasts. It’s an unknown, whereas the vaccines are well studied and understood, so you can be assured your shot will give you a <a href="https://apnews.com/article/science-health-coronavirus-pandemic-ad52011f4ca1853fad6eee41a7310c2e" target="_blank" rel="noopener">strong immune response</a>. It also isn’t as easy to confirm that you’ve had COVID-19 as it is to confirm that you’ve been vaccinated, which could pose problems for travel or work, depending on requirements. </p>
+
+
+
+<hr><h2><strong>“I heard the vaccine can cause infertility.” </strong></h2>
+
+
+
+<p data-paragraph="main">There are a lot of rumors about potential scary side effects from the vaccine, and the ones around fertility are particularly frightening. However, there is no evidence that the vaccines cause any fertility risks — in fact, <a href="https://www.who.int/emergencies/diseases/novel-coronavirus-2019/media-resources/science-in-5/episode-24---vaccine-myths-vs-science" target="_blank" rel="noopener">no vaccine in history</a> has ever caused infertility. <a href="https://www.cdc.gov/coronavirus/2019-ncov/need-extra-precautions/pregnant-people.html" target="_blank" rel="noopener">Pregnant people are also at a higher risk</a> of more severe COVID-19 infections, so getting vaccinated is especially prudent if you might become pregnant.</p>
+
+
+
+<p data-paragraph="main">One version of this rumor <a href="https://www.reuters.com/article/uk-factcheck-syncytin-idUSKBN2A42S7" target="_blank" rel="noopener">appears to be based on a confusion</a> between two types of proteins. The novel coronavirus attaches to the cells in our body using spike proteins. The mRNA vaccines (Pfizer and Moderna) are designed to prompt our body to produce these spike proteins so that our immune system can learn how to identify them and attack them in case we come in contact with the virus. <a href="https://www.washingtonpost.com/opinions/2021/06/28/coronavirus-vaccines-dont-cause-infertility/" target="_blank" rel="noopener">Some people have confused these spike proteins</a> with a completely different kind of protein called syncytin-1, which is part of placenta formation during pregnancy. They claimed the vaccine will cause our immune system to attack syncytin-1, causing infertility or miscarriages. This is not true. Syncytin-1 and the spike protein are immunologically very different, and our body can easily distinguish between the two, according to Ravina Kullar, an infectious disease expert and member of the Infectious Diseases Society of America.</p>
+
+
+
+<p data-paragraph="main">“There is one small similarity, but the overall construction of the protein is completely different,” Kullar said. “Our immune system is way too smart to be confused by that.”</p>]]></description>
+			<pubDate>Wed, 11 Aug 2021 11:00:00 +0100</pubDate>
+			<guid isPermaLink="false">1628676002261179</guid>
+		</item>
 		<item>
 			<title>Andrew Cuomo Had Nowhere To Go But Out</title>
 			<link>https://fivethirtyeight.com/features/andrew-cuomo-had-nowhere-to-go-but-out/</link>
@@ -1708,58 +1824,6 @@
 <p data-paragraph="main">Beyond testing Trump’s endorsement power, the race is also notable because Wright’s win could be history-making. Should she prevail, Wright would push the <a href="https://www.pewresearch.org/fact-tank/2021/01/15/a-record-number-of-women-are-serving-in-the-117th-congress/" target="_blank" rel="noopener">record number</a> of <a href="https://cawp.rutgers.edu/women-us-house-representatives-2021" target="_blank" rel="noopener">Republican women in the House</a> to 32. Moreover, this could be the second time this year where a politician’s wife succeeded him following a tragedy. In Louisiana, Julia Letlow, a Republican, <a href="https://fivethirtyeight.com/features/what-to-watch-in-louisianas-two-special-elections/" target="_blank" rel="noopener">won the special election</a> to replace her late husband Luke, who won his 2020 race but <a href="https://www.cnn.com/2020/12/29/politics/luke-letlow-died-covid/index.html" target="_blank" rel="noopener">died in December</a> after being diagnosed with COVID-19. </p>]]></description>
 			<pubDate>Tue, 27 Jul 2021 11:00:00 +0100</pubDate>
 			<guid isPermaLink="false">1627383601396031</guid>
-		</item>
-		<item>
-			<title>Politics Podcast: Does Running For President Always Help Your Career?</title>
-			<link>https://fivethirtyeight.com/features/politics-podcast-does-running-for-president-always-help-your-career/</link>
-						<dc:creator>Galen Druke</dc:creator>
-			<dc:creator>FiveThirtyEight</dc:creator>
-			<category>2020 Democratic Primary</category>
-			<category>FiveThirtyEight Podcasts</category>
-			<category>Politics Podcast</category>
-			<category>Polling</category>
-			<category>Polling Accuracy</category>
-			<category>Polling Methodology</category>
-			<description><![CDATA[<div data-href="https://fivethirtyeight.com/features/politics-podcast-does-running-for-president-always-help-your-career/">
-	<div data-podcast-id="313453" data-podcast-duration="0" data-podcast-title="Politics Podcast: Does Running For President Always Help Your Career?">
-
-					<span><span>FiveThirtyEight</span></span>
-			
-		
-		<button aria-label="Play"></button>
-
-					<div>
-		
-		
-							<div>
-					<div>
-						<div></div>
-					</div>
-
-					<div> </div>
-
-					<audio preload="none" controls="controls"><source src="https://www.podtrac.com/pts/redirect.mp3/traffic.megaphone.fm/ESP3042181905.mp3?updated=1627343405"></source></audio></div>
-			
-					</div>
-		
-	</div>
-</div>
-<aside><div>
-		More: <a href="https://itunes.apple.com/us/podcast/fivethirtyeight-elections/id1077418457">Apple Podcasts</a> |
-		<span><a data-android-url="" href="http://m.espn.com/general/cast?id=14554755">ESPN App</a> |</span>
-		<a href="https://www.espn.com/espnradio/feeds/rss/podcast.xml?id=14554755">RSS</a>
-			</div>
-	</aside><p data-paragraph="main">Almost a year after the 2020 Democratic National Convention, the FiveThirtyEight Politics podcast crew looks back at the record number of Democrats who ran for president in 2020 and assesses where they are now. The team asks whether all the candidates are in a better position now than they were before they ran. They also review a new report from the American Association for Public Opinion Research on why election polls had a historically large error in 2020. </p>
-
-
-
-<p data-paragraph="main"><em>You can listen to the episode by clicking the “play” button in the audio player above or by </em><a href="https://itunes.apple.com/us/podcast/fivethirtyeight-elections/id1077418457?mt=2" target="_blank" rel="noopener"><em>downloading it in iTunes</em></a><em>, the </em><a href="http://www.espn.com/espn/mobile/products/products/_/id/6857590" target="_blank" rel="noopener"><em>ESPN App</em></a><em> or your favorite podcast platform. If you are new to podcasts, </em><a href="https://fivethirtyeight.com/how-to-listen-to-fivethirtyeight-podcasts/" target="_blank" rel="noopener"><em>learn how to listen</em></a><em>.</em></p>
-
-
-
-<p data-paragraph="main"><em>The FiveThirtyEight Politics podcast is recorded Mondays and Thursdays. Help new listeners discover the show by </em><a href="https://itunes.apple.com/us/podcast/fivethirtyeight-elections/id1077418457?mt=2" target="_blank" rel="noopener"><em>leaving us a rating and review on iTunes</em></a><em>. Have a comment, question or suggestion for “good polling vs. bad polling”? Get in touch by email, </em><a href="https://twitter.com/FiveThirtyEight" target="_blank" rel="noopener"><em>on Twitter</em></a><em> or in the comments.</em></p>]]></description>
-			<pubDate>Tue, 27 Jul 2021 00:46:00 +0100</pubDate>
-			<guid isPermaLink="false">1627370101920020</guid>
 		</item>
 
 	</channel>
