@@ -3,9 +3,910 @@
 		<title>Main stream | FreshRSS</title>
 		<link>http://radon</link>
 		<description>RSS feed of Main stream | FreshRSS</description>
-		<pubDate>Thu, 12 Aug 2021 11:59:06 +0100</pubDate>
-		<lastBuildDate>Thu, 12 Aug 2021 10:59:06 GMT</lastBuildDate>
+		<pubDate>Thu, 12 Aug 2021 12:29:06 +0100</pubDate>
+		<lastBuildDate>Thu, 12 Aug 2021 11:29:06 GMT</lastBuildDate>
 		<atom:link href="http://radon/i/?a=rss" rel="self" type="application/rss+xml" />
+		<item>
+			<title>What If The House Of Representatives Had More Than 435 Seats?</title>
+			<link>https://projects.fivethirtyeight.com/435-representatives/</link>
+						<dc:creator>Ryan Best</dc:creator>
+			<dc:creator>Ryan Best</dc:creator>
+			<category>2020 Census</category>
+			<category>Census</category>
+			<category>Congress</category>
+			<category>Gerrymandering</category>
+			<category>Politics</category>
+			<category>Reapportionment</category>
+			<category>Redistricting</category>
+			<description><![CDATA[<p>PUBLISHED AUG. 6, 2021, AT 10:25 AM</p>
+<p>What If The House Of Representatives Had More Than 435 Seats?See how adding more seats makes Congress more representative</p>
+<p>By <a href="https://fivethirtyeight.com/contributors/ryan-best/">Ryan Best</a></p>
+<p>The number of voting members in the U.S. House of Representatives has been stuck at 435 for more than 100 years1 even though the country’s population has more than tripled in that time. This has created the perfect recipe for unequal representation: Every decade, these 435 seats in the House <a href="https://www.census.gov/topics/public-sector/congressional-apportionment/about.html">must be reapportioned</a> to adjust for population changes, even though more seats aren’t added. This means representatives in some states like Delaware end up representing way more people than in other states like Montana.</p>
+<p><em>Here’s how apportionment works and which states are over- and underrepresented as a result</em></p>
+<p>We’ve now apportioned all 435 seats in the House! Notice how smaller states are much more likely to be further from the national average.</p>
+<p>Start over ↻</p>
+<p>SEATS ALLOCATED:</p>
+<p>435/435</p>
+<p>10m203040-200k-100kEVEN+100k+200kState populationAverage state district size vs. national average</p>
+<p><em>UNDER</em>REPRESENTED</p>
+<p><em>OVER</em>REPRESENTED</p>
+<p>The closer states get to the national average (EVEN), the more equal their representation is</p>
+<table><tbody><tr><th>PRIORITY</th>
+<th>STATE</th>
+<th>POP.</th>
+<th>SEATS</th>
+<th>POP. PER SEAT</th>
+</tr></tbody><tbody><tr><td data-val="6">6</td>
+<td>California</td>
+<td data-val="39576757">39.6m</td>
+<td data-val="52">52</td>
+<td data-val="761091.4807692308">761k</td>
+</tr><tr><td data-val="3">3</td>
+<td>Texas</td>
+<td data-val="29183290">29.2m</td>
+<td data-val="38">38</td>
+<td data-val="767981.3157894737">768k</td>
+</tr><tr><td data-val="4">4</td>
+<td>Florida</td>
+<td data-val="21570527">21.6m</td>
+<td data-val="28">28</td>
+<td data-val="770375.9642857143">770k</td>
+</tr><tr><td data-val="1">1</td>
+<td>New York</td>
+<td data-val="20215751">20.2m</td>
+<td data-val="26">26</td>
+<td data-val="777528.8846153846">778k</td>
+</tr><tr><td data-val="11">11</td>
+<td>Pennsylvania</td>
+<td data-val="13011844">13.0m</td>
+<td data-val="17">17</td>
+<td data-val="765402.5882352941">765k</td>
+</tr><tr><td data-val="15">15</td>
+<td>Illinois</td>
+<td data-val="12822739">12.8m</td>
+<td data-val="17">17</td>
+<td data-val="754278.7647058824">754k</td>
+</tr><tr><td data-val="2">2</td>
+<td>Ohio</td>
+<td data-val="11808848">11.8m</td>
+<td data-val="15">15</td>
+<td data-val="787256.5333333333">787k</td>
+</tr><tr><td data-val="13">13</td>
+<td>Georgia</td>
+<td data-val="10725274">10.7m</td>
+<td data-val="14">14</td>
+<td data-val="766091">766k</td>
+</tr><tr><td data-val="22">22</td>
+<td>North Carolina</td>
+<td data-val="10453948">10.5m</td>
+<td data-val="14">14</td>
+<td data-val="746710.5714285715">747k</td>
+</tr><tr><td data-val="9">9</td>
+<td>Michigan</td>
+<td data-val="10084442">10.1m</td>
+<td data-val="13">13</td>
+<td data-val="775726.3076923077">776k</td>
+</tr><tr><td data-val="10">10</td>
+<td>New Jersey</td>
+<td data-val="9294493">9.3m</td>
+<td data-val="12">12</td>
+<td data-val="774541.0833333334">775k</td>
+</tr><tr><td data-val="7">7</td>
+<td>Virginia</td>
+<td data-val="8654542">8.7m</td>
+<td data-val="11">11</td>
+<td data-val="786776.5454545454">787k</td>
+</tr><tr><td data-val="14">14</td>
+<td>Washington</td>
+<td data-val="7715946">7.7m</td>
+<td data-val="10">10</td>
+<td data-val="771594.6">772k</td>
+</tr><tr><td data-val="5">5</td>
+<td>Arizona</td>
+<td data-val="7158923">7.2m</td>
+<td data-val="9">9</td>
+<td data-val="795435.8888888889">795k</td>
+</tr><tr><td data-val="12">12</td>
+<td>Massachusetts</td>
+<td data-val="7033469">7.0m</td>
+<td data-val="9">9</td>
+<td data-val="781496.5555555555">781k</td>
+</tr><tr><td data-val="18">18</td>
+<td>Tennessee</td>
+<td data-val="6916897">6.9m</td>
+<td data-val="9">9</td>
+<td data-val="768544.1111111111">769k</td>
+</tr><tr><td data-val="24">24</td>
+<td>Indiana</td>
+<td data-val="6790280">6.8m</td>
+<td data-val="9">9</td>
+<td data-val="754475.5555555555">754k</td>
+</tr><tr><td data-val="19">19</td>
+<td>Maryland</td>
+<td data-val="6185278">6.2m</td>
+<td data-val="8">8</td>
+<td data-val="773159.75">773k</td>
+</tr><tr><td data-val="20">20</td>
+<td>Missouri</td>
+<td data-val="6160281">6.2m</td>
+<td data-val="8">8</td>
+<td data-val="770035.125">770k</td>
+</tr><tr><td data-val="29">29</td>
+<td>Wisconsin</td>
+<td data-val="5897473">5.9m</td>
+<td data-val="8">8</td>
+<td data-val="737184.125">737k</td>
+</tr><tr><td data-val="31">31</td>
+<td>Colorado</td>
+<td data-val="5782171">5.8m</td>
+<td data-val="8">8</td>
+<td data-val="722771.375">723k</td>
+</tr><tr><td data-val="33">33</td>
+<td>Minnesota</td>
+<td data-val="5709752">5.7m</td>
+<td data-val="8">8</td>
+<td data-val="713719">714k</td>
+</tr><tr><td data-val="30">30</td>
+<td>South Carolina</td>
+<td data-val="5124712">5.1m</td>
+<td data-val="7">7</td>
+<td data-val="732101.7142857143">732k</td>
+</tr><tr><td data-val="34">34</td>
+<td>Alabama</td>
+<td data-val="5030053">5.0m</td>
+<td data-val="7">7</td>
+<td data-val="718579">719k</td>
+</tr><tr><td data-val="23">23</td>
+<td>Louisiana</td>
+<td data-val="4661468">4.7m</td>
+<td data-val="6">6</td>
+<td data-val="776911.3333333334">777k</td>
+</tr><tr><td data-val="27">27</td>
+<td>Kentucky</td>
+<td data-val="4509342">4.5m</td>
+<td data-val="6">6</td>
+<td data-val="751557">752k</td>
+</tr><tr><td data-val="38">38</td>
+<td>Oregon</td>
+<td data-val="4241500">4.2m</td>
+<td data-val="6">6</td>
+<td data-val="706916.6666666666">707k</td>
+</tr><tr><td data-val="21">21</td>
+<td>Oklahoma</td>
+<td data-val="3963516">4.0m</td>
+<td data-val="5">5</td>
+<td data-val="792703.2">793k</td>
+</tr><tr><td data-val="36">36</td>
+<td>Connecticut</td>
+<td data-val="3608298">3.6m</td>
+<td data-val="5">5</td>
+<td data-val="721659.6">722k</td>
+</tr><tr><td data-val="17">17</td>
+<td>Utah</td>
+<td data-val="3275252">3.3m</td>
+<td data-val="4">4</td>
+<td data-val="818813">819k</td>
+</tr><tr><td data-val="25">25</td>
+<td>Iowa</td>
+<td data-val="3192406">3.2m</td>
+<td data-val="4">4</td>
+<td data-val="798101.5">798k</td>
+</tr><tr><td data-val="28">28</td>
+<td>Nevada</td>
+<td data-val="3108462">3.1m</td>
+<td data-val="4">4</td>
+<td data-val="777115.5">777k</td>
+</tr><tr><td data-val="32">32</td>
+<td>Arkansas</td>
+<td data-val="3013756">3.0m</td>
+<td data-val="4">4</td>
+<td data-val="753439">753k</td>
+</tr><tr><td data-val="35">35</td>
+<td>Mississippi</td>
+<td data-val="2963914">3.0m</td>
+<td data-val="4">4</td>
+<td data-val="740978.5">741k</td>
+</tr><tr><td data-val="37">37</td>
+<td>Kansas</td>
+<td data-val="2940865">2.9m</td>
+<td data-val="4">4</td>
+<td data-val="735216.25">735k</td>
+</tr><tr><td data-val="40">40</td>
+<td>New Mexico</td>
+<td data-val="2120220">2.1m</td>
+<td data-val="3">3</td>
+<td data-val="706740">707k</td>
+</tr><tr><td data-val="42">42</td>
+<td>Nebraska</td>
+<td data-val="1963333">2.0m</td>
+<td data-val="3">3</td>
+<td data-val="654444.3333333334">654k</td>
+</tr><tr><td data-val="8">8</td>
+<td>Idaho</td>
+<td data-val="1841377">1.8m</td>
+<td data-val="2">2</td>
+<td data-val="920688.5">921k</td>
+</tr><tr><td data-val="16">16</td>
+<td>West Virginia</td>
+<td data-val="1795045">1.8m</td>
+<td data-val="2">2</td>
+<td data-val="897522.5">898k</td>
+</tr><tr><td data-val="41">41</td>
+<td>Hawaii</td>
+<td data-val="1460137">1.5m</td>
+<td data-val="2">2</td>
+<td data-val="730068.5">730k</td>
+</tr><tr><td data-val="43">43</td>
+<td>New Hampshire</td>
+<td data-val="1379089">1.4m</td>
+<td data-val="2">2</td>
+<td data-val="689544.5">690k</td>
+</tr><tr><td data-val="44">44</td>
+<td>Maine</td>
+<td data-val="1363582">1.4m</td>
+<td data-val="2">2</td>
+<td data-val="681791">682k</td>
+</tr><tr><td data-val="48">48</td>
+<td>Rhode Island</td>
+<td data-val="1098163">1.1m</td>
+<td data-val="2">2</td>
+<td data-val="549081.5">549k</td>
+</tr><tr><td data-val="49">49</td>
+<td>Montana</td>
+<td data-val="1085407">1.1m</td>
+<td data-val="2">2</td>
+<td data-val="542703.5">543k</td>
+</tr><tr><td data-val="26">26</td>
+<td>Delaware</td>
+<td data-val="990837">991k</td>
+<td data-val="1">1</td>
+<td data-val="990837">991k</td>
+</tr><tr><td data-val="39">39</td>
+<td>South Dakota</td>
+<td data-val="887770">888k</td>
+<td data-val="1">1</td>
+<td data-val="887770">888k</td>
+</tr><tr><td data-val="45">45</td>
+<td>North Dakota</td>
+<td data-val="779702">780k</td>
+<td data-val="1">1</td>
+<td data-val="779702">780k</td>
+</tr><tr><td data-val="46">46</td>
+<td>Alaska</td>
+<td data-val="736081">736k</td>
+<td data-val="1">1</td>
+<td data-val="736081">736k</td>
+</tr><tr><td data-val="47">47</td>
+<td>Vermont</td>
+<td data-val="643503">644k</td>
+<td data-val="1">1</td>
+<td data-val="643503">644k</td>
+</tr><tr><td data-val="50">50</td>
+<td>Wyoming</td>
+<td data-val="577719">578k</td>
+<td data-val="1">1</td>
+<td data-val="577719">578k</td>
+</tr><tr><td data-val="0"></td>
+<td>Total</td>
+<td data-val="331108434">331.1m</td>
+<td data-val="435">435</td>
+<td data-val="761168.8137931034">761k</td>
+</tr></tbody></table><p>A scatterplot of states by state population and average district size versus the national average, where dots are sized by state population. With 435 seats in the House, the average state’s population per congressional seat is 50.2k people away from the national average.</p>
+<p>With all 435 House seats apportioned, we see significant discrepancies in district sizes across states. Montana and Rhode Island, for instance, will each have about 215,000 fewer people per district than the national average. Delaware, by contrast, will be the most underrepresented state in the union: Its 990,837 residents will have just one representative. But it’s not just the smaller — that is, less populous — states that get a raw deal. Bigger states also suffer from underrepresentation compared with some smaller states. Take California: Its population is 68.5 times as large as Wyoming’s, but based on the 2020 census, California was apportioned only 52 seats compared with Wyoming’s one. This means the average California House member will represent more than 761,000 constituents, while Wyoming’s will represent just shy of 578,000.</p>
+<p>To be sure, perfectly equal representation in the House isn’t actually attainable — the fact that each state is guaranteed at least one seat and that districts can’t cross state lines limits what’s possible. But we could get <i>much</i> closer to equal representation if we expanded the size of the House beyond our current (and rather arbitrary) cap of 435.</p>
+<p>One method we could use to add more seats to the House is the <em>small state rule</em>, where we’d divide the total U.S. population by that of the smallest state (Wyoming). Another is the <em>cube root law</em>, or the <a href="https://www.jstor.org/stable/20446639">trend observed in political science</a> that the number of seats in many countries’ lower chambers is quite close to the <a href="https://www.calculatorsoup.com/calculators/algebra/cuberoots.php">cube root</a> of that nation’s population. And in some countries that have even more representatives <a href="https://fruitsandvotes.wordpress.com/2014/01/07/economix-expand-the-us-house/">like the U.K., France and Germany</a>, political scientists have found that number is closer to the cube root of twice the country’s population (<em>2x cube root law</em>).</p>
+<p><em>Try implementing these strategies — or any House size up to 1,000 seats</em></p>
+<p>With 435 seats in the House, the average state’s population per congressional seat is 50.2k people away from the national average.</p>
+<p>seats</p>
+<p>SMALL STATE RULEDivide the total U.S. population by that of the smallest stateCUBE ROOT LAWTake the cube root of the total U.S. population2X CUBE ROOT LAWTake the cube root of <i>two times</i> the total U.S. population 10m203040-200k-100kEVEN+100k+200kState populationAverage state district size vs. national average</p>
+<p><em>UNDER</em>REPRESENTED</p>
+<p><em>OVER</em>REPRESENTED</p>
+<p>The closer states get to the national average (EVEN), the more equal their representation is</p>
+<table><tbody><tr><th>PRIORITY</th>
+<th>STATE</th>
+<th>POP.</th>
+<th>SEATS</th>
+<th>POP. PER SEAT</th>
+</tr></tbody><tbody><tr><td data-val="6">6</td>
+<td>California</td>
+<td data-val="39576757">39.6m</td>
+<td data-val="52">52</td>
+<td data-val="761091.4807692308">761k</td>
+</tr><tr><td data-val="3">3</td>
+<td>Texas</td>
+<td data-val="29183290">29.2m</td>
+<td data-val="38">38</td>
+<td data-val="767981.3157894737">768k</td>
+</tr><tr><td data-val="4">4</td>
+<td>Florida</td>
+<td data-val="21570527">21.6m</td>
+<td data-val="28">28</td>
+<td data-val="770375.9642857143">770k</td>
+</tr><tr><td data-val="1">1</td>
+<td>New York</td>
+<td data-val="20215751">20.2m</td>
+<td data-val="26">26</td>
+<td data-val="777528.8846153846">778k</td>
+</tr><tr><td data-val="11">11</td>
+<td>Pennsylvania</td>
+<td data-val="13011844">13.0m</td>
+<td data-val="17">17</td>
+<td data-val="765402.5882352941">765k</td>
+</tr><tr><td data-val="15">15</td>
+<td>Illinois</td>
+<td data-val="12822739">12.8m</td>
+<td data-val="17">17</td>
+<td data-val="754278.7647058824">754k</td>
+</tr><tr><td data-val="2">2</td>
+<td>Ohio</td>
+<td data-val="11808848">11.8m</td>
+<td data-val="15">15</td>
+<td data-val="787256.5333333333">787k</td>
+</tr><tr><td data-val="13">13</td>
+<td>Georgia</td>
+<td data-val="10725274">10.7m</td>
+<td data-val="14">14</td>
+<td data-val="766091">766k</td>
+</tr><tr><td data-val="22">22</td>
+<td>North Carolina</td>
+<td data-val="10453948">10.5m</td>
+<td data-val="14">14</td>
+<td data-val="746710.5714285715">747k</td>
+</tr><tr><td data-val="9">9</td>
+<td>Michigan</td>
+<td data-val="10084442">10.1m</td>
+<td data-val="13">13</td>
+<td data-val="775726.3076923077">776k</td>
+</tr><tr><td data-val="10">10</td>
+<td>New Jersey</td>
+<td data-val="9294493">9.3m</td>
+<td data-val="12">12</td>
+<td data-val="774541.0833333334">775k</td>
+</tr><tr><td data-val="7">7</td>
+<td>Virginia</td>
+<td data-val="8654542">8.7m</td>
+<td data-val="11">11</td>
+<td data-val="786776.5454545454">787k</td>
+</tr><tr><td data-val="14">14</td>
+<td>Washington</td>
+<td data-val="7715946">7.7m</td>
+<td data-val="10">10</td>
+<td data-val="771594.6">772k</td>
+</tr><tr><td data-val="5">5</td>
+<td>Arizona</td>
+<td data-val="7158923">7.2m</td>
+<td data-val="9">9</td>
+<td data-val="795435.8888888889">795k</td>
+</tr><tr><td data-val="12">12</td>
+<td>Massachusetts</td>
+<td data-val="7033469">7.0m</td>
+<td data-val="9">9</td>
+<td data-val="781496.5555555555">781k</td>
+</tr><tr><td data-val="18">18</td>
+<td>Tennessee</td>
+<td data-val="6916897">6.9m</td>
+<td data-val="9">9</td>
+<td data-val="768544.1111111111">769k</td>
+</tr><tr><td data-val="24">24</td>
+<td>Indiana</td>
+<td data-val="6790280">6.8m</td>
+<td data-val="9">9</td>
+<td data-val="754475.5555555555">754k</td>
+</tr><tr><td data-val="19">19</td>
+<td>Maryland</td>
+<td data-val="6185278">6.2m</td>
+<td data-val="8">8</td>
+<td data-val="773159.75">773k</td>
+</tr><tr><td data-val="20">20</td>
+<td>Missouri</td>
+<td data-val="6160281">6.2m</td>
+<td data-val="8">8</td>
+<td data-val="770035.125">770k</td>
+</tr><tr><td data-val="29">29</td>
+<td>Wisconsin</td>
+<td data-val="5897473">5.9m</td>
+<td data-val="8">8</td>
+<td data-val="737184.125">737k</td>
+</tr><tr><td data-val="31">31</td>
+<td>Colorado</td>
+<td data-val="5782171">5.8m</td>
+<td data-val="8">8</td>
+<td data-val="722771.375">723k</td>
+</tr><tr><td data-val="33">33</td>
+<td>Minnesota</td>
+<td data-val="5709752">5.7m</td>
+<td data-val="8">8</td>
+<td data-val="713719">714k</td>
+</tr><tr><td data-val="30">30</td>
+<td>South Carolina</td>
+<td data-val="5124712">5.1m</td>
+<td data-val="7">7</td>
+<td data-val="732101.7142857143">732k</td>
+</tr><tr><td data-val="34">34</td>
+<td>Alabama</td>
+<td data-val="5030053">5.0m</td>
+<td data-val="7">7</td>
+<td data-val="718579">719k</td>
+</tr><tr><td data-val="23">23</td>
+<td>Louisiana</td>
+<td data-val="4661468">4.7m</td>
+<td data-val="6">6</td>
+<td data-val="776911.3333333334">777k</td>
+</tr><tr><td data-val="27">27</td>
+<td>Kentucky</td>
+<td data-val="4509342">4.5m</td>
+<td data-val="6">6</td>
+<td data-val="751557">752k</td>
+</tr><tr><td data-val="38">38</td>
+<td>Oregon</td>
+<td data-val="4241500">4.2m</td>
+<td data-val="6">6</td>
+<td data-val="706916.6666666666">707k</td>
+</tr><tr><td data-val="21">21</td>
+<td>Oklahoma</td>
+<td data-val="3963516">4.0m</td>
+<td data-val="5">5</td>
+<td data-val="792703.2">793k</td>
+</tr><tr><td data-val="36">36</td>
+<td>Connecticut</td>
+<td data-val="3608298">3.6m</td>
+<td data-val="5">5</td>
+<td data-val="721659.6">722k</td>
+</tr><tr><td data-val="17">17</td>
+<td>Utah</td>
+<td data-val="3275252">3.3m</td>
+<td data-val="4">4</td>
+<td data-val="818813">819k</td>
+</tr><tr><td data-val="25">25</td>
+<td>Iowa</td>
+<td data-val="3192406">3.2m</td>
+<td data-val="4">4</td>
+<td data-val="798101.5">798k</td>
+</tr><tr><td data-val="28">28</td>
+<td>Nevada</td>
+<td data-val="3108462">3.1m</td>
+<td data-val="4">4</td>
+<td data-val="777115.5">777k</td>
+</tr><tr><td data-val="32">32</td>
+<td>Arkansas</td>
+<td data-val="3013756">3.0m</td>
+<td data-val="4">4</td>
+<td data-val="753439">753k</td>
+</tr><tr><td data-val="35">35</td>
+<td>Mississippi</td>
+<td data-val="2963914">3.0m</td>
+<td data-val="4">4</td>
+<td data-val="740978.5">741k</td>
+</tr><tr><td data-val="37">37</td>
+<td>Kansas</td>
+<td data-val="2940865">2.9m</td>
+<td data-val="4">4</td>
+<td data-val="735216.25">735k</td>
+</tr><tr><td data-val="40">40</td>
+<td>New Mexico</td>
+<td data-val="2120220">2.1m</td>
+<td data-val="3">3</td>
+<td data-val="706740">707k</td>
+</tr><tr><td data-val="42">42</td>
+<td>Nebraska</td>
+<td data-val="1963333">2.0m</td>
+<td data-val="3">3</td>
+<td data-val="654444.3333333334">654k</td>
+</tr><tr><td data-val="8">8</td>
+<td>Idaho</td>
+<td data-val="1841377">1.8m</td>
+<td data-val="2">2</td>
+<td data-val="920688.5">921k</td>
+</tr><tr><td data-val="16">16</td>
+<td>West Virginia</td>
+<td data-val="1795045">1.8m</td>
+<td data-val="2">2</td>
+<td data-val="897522.5">898k</td>
+</tr><tr><td data-val="41">41</td>
+<td>Hawaii</td>
+<td data-val="1460137">1.5m</td>
+<td data-val="2">2</td>
+<td data-val="730068.5">730k</td>
+</tr><tr><td data-val="43">43</td>
+<td>New Hampshire</td>
+<td data-val="1379089">1.4m</td>
+<td data-val="2">2</td>
+<td data-val="689544.5">690k</td>
+</tr><tr><td data-val="44">44</td>
+<td>Maine</td>
+<td data-val="1363582">1.4m</td>
+<td data-val="2">2</td>
+<td data-val="681791">682k</td>
+</tr><tr><td data-val="48">48</td>
+<td>Rhode Island</td>
+<td data-val="1098163">1.1m</td>
+<td data-val="2">2</td>
+<td data-val="549081.5">549k</td>
+</tr><tr><td data-val="49">49</td>
+<td>Montana</td>
+<td data-val="1085407">1.1m</td>
+<td data-val="2">2</td>
+<td data-val="542703.5">543k</td>
+</tr><tr><td data-val="26">26</td>
+<td>Delaware</td>
+<td data-val="990837">991k</td>
+<td data-val="1">1</td>
+<td data-val="990837">991k</td>
+</tr><tr><td data-val="39">39</td>
+<td>South Dakota</td>
+<td data-val="887770">888k</td>
+<td data-val="1">1</td>
+<td data-val="887770">888k</td>
+</tr><tr><td data-val="45">45</td>
+<td>North Dakota</td>
+<td data-val="779702">780k</td>
+<td data-val="1">1</td>
+<td data-val="779702">780k</td>
+</tr><tr><td data-val="46">46</td>
+<td>Alaska</td>
+<td data-val="736081">736k</td>
+<td data-val="1">1</td>
+<td data-val="736081">736k</td>
+</tr><tr><td data-val="47">47</td>
+<td>Vermont</td>
+<td data-val="643503">644k</td>
+<td data-val="1">1</td>
+<td data-val="643503">644k</td>
+</tr><tr><td data-val="50">50</td>
+<td>Wyoming</td>
+<td data-val="577719">578k</td>
+<td data-val="1">1</td>
+<td data-val="577719">578k</td>
+</tr><tr><td data-val="0"></td>
+<td>Total</td>
+<td data-val="331108434">331.1m</td>
+<td data-val="435">435</td>
+<td data-val="761168.8137931034">761k</td>
+</tr></tbody></table><p>As you’ve probably discovered, the more seats we add to the House, the more equal representation generally gets across all 50 states. That said, there are some pretty big limitations to how many seats we could realistically add to the chamber. (Can you imagine the electoral and logistical chaos that would ensue from doubling the size of the House in one fell swoop?) Bottom line: Each seat we do add to our current cap of 435 does get us just that much closer to the one-person, one-vote ethos that the House was ultimately created to fulfill.</p>]]></description>
+			<pubDate>Thu, 12 Aug 2021 11:00:00 +0100</pubDate>
+			<guid isPermaLink="false">1628766001622789</guid>
+		</item>
+		<item>
+			<title>How The House Got Stuck At 435 Seats</title>
+			<link>https://fivethirtyeight.com/features/how-the-house-got-stuck-at-435-seats/</link>
+						<dc:creator>Geoffrey Skelley</dc:creator>
+			<dc:creator>Geoffrey Skelley</dc:creator>
+			<category>435</category>
+			<category>Congress</category>
+			<category>Democracy</category>
+			<category>House of Representatives</category>
+			<category>Population</category>
+			<category>Reapportionment</category>
+			<category>Redistricting</category>
+			<category>Representation</category>
+			<category>U.S. House</category>
+			<description><![CDATA[<p data-paragraph="main">Apportionment, or the process of determining <a href="https://www.census.gov/data/tables/2020/dec/2020-apportionment-data.html" target="_blank" rel="noopener">the number of seats</a> each state has in the U.S. House of Representatives, happens like clockwork at this point. Every 10 years, the Census Bureau counts how many people each state has and then uses that number to calculate how many representatives each state gets out of the 435 seats.<a data-footnote-id="1" href="https://fivethirtyeight.com/wp-json/wp/v2/espn_verticals/398#fn-1" data-footnote-content='&lt;p&gt;&lt;p&gt;Strictly speaking, the House has &lt;a href="https://history.house.gov/Institution/Apportionment/Determining-Apportionment/#:~:text=The%20total%20membership%20of%20the,Representatives%20from%20the%2050%20states." target="_blank" rel="noopener"&gt;441 members&lt;/a&gt;: 435 are voting members from each of the 50 states, and six are nonvoting members. The District of Columbia, Guam, the U.S. Virgin Islands, the Northern Mariana Islands and American Samoa each have a delegate, while Puerto Rico has a resident commissioner.&lt;/p&gt;
+&lt;/p&gt;'><sup>1</sup></a> In April, for instance, we learned from the reapportionment process that <a href="https://fivethirtyeight.com/features/which-states-won-and-lost-seats-in-the-2020-census/" target="_blank" rel="noopener">California would lose a seat for the very first time</a> while Texas would gain two.</p>
+
+
+
+<p data-paragraph="main">But despite some states losing seats while others pick them up, the reapportionment process is itself now fairly mundane. That wasn’t always the case, though. </p>
+
+
+
+<p data-paragraph="main">“The <a href="https://www.politico.com/story/2016/04/washington-casts-first-presidential-veto-april-5-1792-221503" target="_blank" rel="noopener">first presidential veto</a> was used on the apportionment law, so it’s been a hot issue from the very, very beginning,” said <a href="https://uwm.edu/history/people/anderson-margo/" target="_blank" rel="noopener">Margo Anderson</a>, a professor emerita at University of Wisconsin-Milwaukee who studies <a href="http://yalebooks.com/book/9780300195422/american-census" target="_blank" rel="noopener">the social and political history of the census</a>.. In fact, until the House was capped at 435 seats<a data-footnote-id="2" href="https://fivethirtyeight.com/wp-json/wp/v2/espn_verticals/398#fn-2" data-footnote-content="&lt;p&gt;&lt;p&gt;This number increased to 437 in 1959 to accommodate the statehood of Alaska and Hawaii but returned to 435 in 1963, after the reapportionment process in 1960.&lt;/p&gt;
+&lt;/p&gt;"><sup>2</sup></a> by the <a href="https://history.house.gov/Historical-Highlights/1901-1950/The-Permanent-Apportionment-Act-of-1929/" target="_blank" rel="noopener">1929 Permanent Apportionment Act</a>, each apportionment period was regularly accompanied by clashes over how to best divvy up political power in Congress — including the size of the House.</p>
+
+
+
+<p data-paragraph="main">On the one hand, it’s probably a good thing that Congress is no longer debating the size of the House every 10 years. After all, the reason we have the 1929 Permanent Apportionment Act in the first place is that Congress <a href="https://datasociety.net/wp-content/uploads/2021/04/House-Arrest-Dan-Bouk.pdf" target="_blank" rel="noopener">was unable to reach an agreement</a> on how to reapportion the House for nearly a decade.</p>
+
+
+
+<p data-paragraph="main">On the other hand, the fact that the size of the House hasn’t increased in more than a century is a real problem for our democracy. For starters, there is an ever wider gulf between Americans and their representatives, as the average number of people represented in a district has more than tripled, from about 210,000 in 1910 to about 760,000 in 2020.<a data-footnote-id="3" href="https://fivethirtyeight.com/wp-json/wp/v2/espn_verticals/398#fn-3" data-footnote-content='&lt;p&gt;&lt;p&gt;Throughout this piece, we’ll often refer to census years as the time when the House was reapportioned for simplicity’s sake. But historically, Congress has &lt;a href="https://www.census.gov/history/www/reference/apportionment/apportionment_legislation_1790_-_1830.html" target="_blank" rel="noopener"&gt;usually passed apportionment acts&lt;/a&gt; in the year or two &lt;em&gt;after&lt;/em&gt; the census was released, but still in time for elections ahead of the next Congress.&lt;/p&gt;
+&lt;/p&gt;'><sup>3</sup></a> Moreover, some states are severely <a href="https://apportionment.us/Ladewig&amp;Jasinski.pdf" target="_blank" rel="noopener">over- and underrepresented</a> as a result.</p>
+
+
+
+<p data-paragraph="main">Increasing the size of the House would not resolve all the challenges facing the U.S., as any expansion would involve trade-offs. For instance, adding representatives could decrease day-to-day legislative efficiency, and it would undoubtedly increase the size of the federal government. Yet expanding the House is one of the more straightforward reforms that leaders in Washington could pursue in our era of polarized politics. The size of the House is <a href="https://www.govinfo.gov/app/details/USCODE-2006-title2/USCODE-2006-title2-chap1-sec2a" target="_blank" rel="noopener">determined by statute</a>, not the Constitution, meaning Congress could pass (and the president could sign) a law to change it. </p>
+
+
+
+<p data-paragraph="main">It’s worth exploring, then, whether 435 is still an appropriate number of House members to represent our sprawling, diverse nation. Whether Congress will take up this issue anytime soon is another question entirely, but here’s how we got stuck at 435 in the first place — and what it would mean if we increased that number.</p>
+
+
+
+<hr><h2><strong>Why 435?</strong></h2>
+
+
+
+<p data-paragraph="main">There have been 435 seats in the House for so long now that it might seem as if the Founding Fathers had foreseen it as a natural ceiling for the chamber’s size. But that isn’t the case: 435 is entirely arbitrary. The House arrived at that number because of political expediency — and it has stayed there because of it, too.</p>
+
+
+
+<p data-paragraph="main">Up until 1910, when the chamber <a href="https://www.census.gov/history/pdf/1910_Apportionment.pdf" target="_blank" rel="noopener">expanded from 391 to 435 seats,</a><a data-footnote-id="4" href="https://fivethirtyeight.com/wp-json/wp/v2/espn_verticals/398#fn-4" data-footnote-content='&lt;p&gt;&lt;p&gt;Upon statehood, Congress added two seats for New Mexico and one for Arizona in 1912 during the &lt;a href="https://history.house.gov/Congressional-Overview/Profiles/62nd/" target="_blank" rel="noopener"&gt;62nd Congress&lt;/a&gt;, which had already passed the &lt;a href="https://www.census.gov/history/pdf/1910_Apportionment.pdf" target="_blank" rel="noopener"&gt;Apportionment Act of 1911&lt;/a&gt;. This brought the total number of House seats to 394 before the House expanded to 435 seats in the 63rd Congress.&lt;/p&gt;
+&lt;/p&gt;'><sup>4</sup></a> the size of the House had experienced a mostly unchecked pattern of growth. Only once, after the 1840 census, did the number of seats in the House not increase; 1910, however, marked the last time the House grew, even though the U.S. population has more than tripled since then, from over 90 million in 1910 to over 330 million today.</p>
+
+
+
+<figure><img loading="lazy" width="2048" height="1062" src="https://fivethirtyeight.com/wp-content/uploads/2021/08/skelley.STUCK-AT-435.1-desktop-annotweak.png" alt="" data-src="https://fivethirtyeight.com/wp-content/uploads/2021/08/skelley.STUCK-AT-435.1-desktop-annotweak.png" data-srcset="https://fivethirtyeight.com/wp-content/uploads/2021/08/skelley.STUCK-AT-435.1-desktop-annotweak.png?w=700 1x, https://fivethirtyeight.com/wp-content/uploads/2021/08/skelley.STUCK-AT-435.1-desktop-annotweak.png?w=1400 2x"></figure><figure><img loading="lazy" width="620" height="2130" src="https://fivethirtyeight.com/wp-content/uploads/2021/08/skelley.STUCK-AT-435.1-mobile-annotweak.png" alt="" data-src="https://fivethirtyeight.com/wp-content/uploads/2021/08/skelley.STUCK-AT-435.1-mobile-annotweak.png" data-srcset="https://fivethirtyeight.com/wp-content/uploads/2021/08/skelley.STUCK-AT-435.1-mobile-annotweak.png?w=620 1x, https://fivethirtyeight.com/wp-content/uploads/2021/08/skelley.STUCK-AT-435.1-mobile-annotweak.png?w=1240 2x"></figure><p data-paragraph="main">The 1920 census is when things broke down. For the first time, <a href="https://www.census.gov/history/www/programs/geography/urban_and_rural_areas.html#:~:text=The%201920%20census%20marked%20the,population%20was%20defined%20as%20urban." target="_blank" rel="noopener">a majority of the population lived</a> in “urban” areas. And although the Census Bureau’s definition was broad — it included any place with at least 2,500 people — the finding reflected America’s power center was moving away from rural areas toward urban ones <a href="https://oxfordre.com/americanhistory/view/10.1093/acrefore/9780199329175.001.0001/acrefore-9780199329175-e-327" target="_blank" rel="noopener">due to industrialization</a> and high levels of <a href="https://www.migrationpolicy.org/article/european-immigrants-united-states-2016" target="_blank" rel="noopener">immigration from Southern and Eastern Europe</a>. This made the apportionment process particularly challenging, as Congress had to navigate two competing concerns: first, the worry that greater urban power would lead to rural seat loss if the House didn’t expand, and second, a <a href="https://www.politico.com/story/2018/08/08/taft-signs-bill-increasing-house-size-to-433-aug-8-1911-761943" target="_blank" rel="noopener">growing belief</a> among many members that the House was already too crowded and that an increase in seats would make it truly unwieldy.</p>
+
+
+
+<p data-paragraph="main">Nevertheless, the Republican chair of the House Census Committee <a href="https://datasociety.net/wp-content/uploads/2021/04/House-Arrest-Dan-Bouk.pdf" target="_blank" rel="noopener">put forward legislation</a> in 1921 to increase the size of the House by 48 seats — 483 in total. Once again, this would have prevented any state from losing a seat, a politically attractive option.<a data-footnote-id="5" href="https://fivethirtyeight.com/wp-json/wp/v2/espn_verticals/398#fn-5" data-footnote-content="&lt;p&gt;&lt;p&gt;Minimizing seat loss had long been a major consideration in the apportionment process, to the point that only a handful of states lost any seats in the five apportionments from 1870 to 1910.&lt;/p&gt;
+&lt;/p&gt;"><sup>5</sup></a> But this time both parties were deeply divided over expanding the House, with arguments that adding seats would be too expensive or hinder legislative functions. </p>
+
+
+
+<p data-paragraph="main">Congress tried a number of alternatives. First, the House passed <a href="https://www.nytimes.com/1921/01/20/archives/house-kills-plan-for-increase-to-483-votes-overwhelmingly-for.html" target="_blank" rel="noopener">an amended bill</a> to keep the House at 435 members. Eleven states stood to lose seats as a result, and unsurprisingly many senators from those states worked behind the scenes to keep that bill from ever getting a vote in the Senate. Next, the House tried to expand to just 460 seats instead of 483, which would have caused only two states to lose a seat, but that narrowly failed by four votes on the House floor. This left Congress at an impasse, and over the next few years, reapportionment stalled. </p>
+
+
+
+<p data-paragraph="main">Some rural legislators charged that the timing of the 1920 census presented an inaccurate picture of the country’s population, claiming for instance that many people had migrated to cities only temporarily during World War I but would soon return to rural areas. Others argued that non-citizens ought to be excluded from the counts, which would have primarily affected Northern states with large immigrant populations. Meanwhile, some Northern Republicans, upset by Democrats’ disenfranchisement of Black Americans in the South, countered that representation ought to be reduced in Southern states that suppressed voting rights. There were also arguments over which method was best for <a href="https://fas.org/sgp/crs/misc/R41382.pdf" target="_blank" rel="noopener">apportioning seats,</a> as one method tended to put <a href="https://www.washingtonpost.com/archive/politics/1991/05/27/in-battle-over-reapportionment-even-math-is-a-target/f540a781-7fda-414c-9e10-d955372556d4/" target="_blank" rel="noopener">slightly more seats in less populous states</a> and the other put more seats in more populous states.</p>
+
+
+
+<p data-paragraph="main">The lack of consensus on how to reapportion the House meant that by the late 1920s, reapportionment had dragged on for nearly a decade and had <a href="https://www.jstor.org/stable/25110586" target="_blank" rel="noopener">all the makings of a constitutional crisis</a>. “The issue began to come to a head as the 1928 election loomed,” said Anderson of the University of Wisconsin-Milwaukee. “Because the realization was, we’ve got the Electoral College apportioned on the basis of the 1910 census, and if the popular vote and the electoral vote diverge, it’s because we didn’t reapportion.”</p>
+
+
+
+<p data-paragraph="main">Fortunately for electoral legitimacy, Republican Herbert Hoover won both the popular and electoral vote <a href="https://uselectionatlas.org/RESULTS/national.php?year=1928&amp;f=0&amp;off=0&amp;elect=0" target="_blank" rel="noopener">in the 1928</a> presidential election. Having served from 1921 to 1928 as secretary of commerce, which oversees the Census Bureau, he was especially cognizant of Congress’s apportionment failure. In April 1929, Hoover called a special session of Congress, where one of the main focuses was apportionment, and by June, legislation had passed both the House and Senate and was signed by Hoover. The law, the Apportionment Act of 1929, created what we know as the “automatic” reapportionment process today. It capped the number of House seats at 435 and moved the responsibility of determining the seat count from Congress to the president — an early example of <a href="https://today.law.harvard.edu/feature/presidential-power-surges/" target="_blank" rel="noopener">Congress giving away power</a> to the executive branch.<a data-footnote-id="6" href="https://fivethirtyeight.com/wp-json/wp/v2/espn_verticals/398#fn-6" data-footnote-content='&lt;p&gt;&lt;p&gt;This is why even now the secretary of commerce &lt;a href="https://uscode.house.gov/view.xhtml?req=(title:13%20section:141%20edition:prelim)%20OR%20(granuleid:USC-prelim-title13-section141)&amp;amp;f=treesort&amp;amp;edition=prelim&amp;amp;num=0&amp;amp;jumpTo=true" target="_blank" rel="noopener"&gt;reports apportionment figures&lt;/a&gt; to the president, who then transmits that information to Congress.&lt;/p&gt;
+&lt;/p&gt;'><sup>6</sup></a></p>
+
+
+
+<p data-paragraph="main">But given the rancor surrounding reapportionment, the law didn’t come without serious consequences for representation. Specifically, it <a href="https://www.americanbar.org/groups/public_education/publications/insights-on-law-and-society/volume-20/issue-2/an-enumeration-of-the-population--a-history-of-the-census/" target="_blank" rel="noopener">cut requirements</a> that members be elected in single districts and that those districts be contiguous and compact, serving relatively equal-sized populations. This meant a state that lost seats could now draw wildly disproportionate districts to keep power in more rural parts of the state. </p>
+
+
+
+<p data-paragraph="main">“It essentially created massive malapportionment for the next 40 years,” said Anderson. But, she stressed, this was done because it made the law “politically palatable.” </p>
+
+
+
+<p data-paragraph="main">In fact, the law’s lack of a population requirement helps explain why more than half of all members from rural districts backed it, even though most of the states that lost seats were based in the rural South and Midwest.<a data-footnote-id="7" href="https://fivethirtyeight.com/wp-json/wp/v2/espn_verticals/398#fn-7" data-footnote-content="&lt;p&gt;&lt;p&gt;In total, 21 states lost seats as part of the reapportionment process, and most of them were in the South or Midwest. Meanwhile, the 11 states that gained seats were industrial states like New York and Michigan and fast-growing states mostly in the West.&lt;/p&gt;
+&lt;/p&gt;"><sup>7</sup></a> These representatives knew their states might lose seats, but they hedged that their slower-growing or shrinking districts might not end up on the chopping block now that the apportionment process didn’t require districts to have equal populations.</p>
+
+
+
+<p data-paragraph="main">Later, to uphold the tenet of “one person, one vote,” the Supreme Court <a href="https://www.oyez.org/cases/1963/22" target="_blank" rel="noopener">would rule</a> that congressional districts must be approximately equal in population, but that wouldn’t happen until 1964. And even then, unequal representation in the House has persisted, largely because the size of the chamber hasn’t budged despite massive growth in the U.S. population.</p>
+
+
+
+<hr><h2><strong>The problem with being stuck at 435</strong></h2>
+
+
+
+<p data-paragraph="main">In 1910, the largest state, New York, had about 9 million more people than the smallest — that is, least populous — state, Nevada. But today, the largest state, California, has nearly <em>39 million more people</em> than the smallest, Wyoming. </p>
+
+
+
+<p data-paragraph="main">This staggering gap makes it far more likely for states to end up with wildly unequal district populations thanks to the Constitution’s requirement that each state have at least one congressional district. The Supreme Court requires districts to have equal populations, but this applies only to the districts within a state — not between states. So even though the average House district will have just over 760,000 people after this round of reapportionment, each state’s average district will vary quite a bit, especially as states get smaller in size.</p>
+
+
+
+<p data-paragraph="main">Take the smallest and largest states with only one representative: Wyoming and Delaware, respectively. Wyoming, with just under 578,000 people, winds up overrepresented because it’s guaranteed a seat despite falling well short of that 760,000 national average. Conversely, Delaware has nearly 991,000 people, which leaves it underrepresented because it isn’t quite large enough to earn a second seat. Meanwhile, Montana has only about 95,000 more people than Delaware, but that’s enough for the apportionment formula to eke out a second seat, meaning Montana will have two districts to Delaware’s one and an average district size of just over 542,000, making its constituents the most represented in the country.</p>
+
+
+
+<p data-paragraph="main">State lines make perfectly equal districts across the country impossible, but there’s no question that increasing the size of the House would help reduce how unequal district sizes among states have become. Expanding the House could also make districts smaller, which in turn could help with representation, as the average number of people living in a congressional district has grown by about 520,000 people from 1920 to 2020 — three times more than the total shift from 1790 to 1910.</p>
+
+
+
+<figure><img loading="lazy" width="2048" height="1002" src="https://fivethirtyeight.com/wp-content/uploads/2021/08/skelley.STUCK-AT-435.2.png" alt="" data-src="https://fivethirtyeight.com/wp-content/uploads/2021/08/skelley.STUCK-AT-435.2.png" data-srcset="https://fivethirtyeight.com/wp-content/uploads/2021/08/skelley.STUCK-AT-435.2.png?w=700 1x, https://fivethirtyeight.com/wp-content/uploads/2021/08/skelley.STUCK-AT-435.2.png?w=1400 2x"></figure><figure><img loading="lazy" width="620" height="1096" src="https://fivethirtyeight.com/wp-content/uploads/2021/08/skelley.STUCK-AT-435.2-mob.png" alt="" data-src="https://fivethirtyeight.com/wp-content/uploads/2021/08/skelley.STUCK-AT-435.2-mob.png" data-srcset="https://fivethirtyeight.com/wp-content/uploads/2021/08/skelley.STUCK-AT-435.2-mob.png?w=620 1x, https://fivethirtyeight.com/wp-content/uploads/2021/08/skelley.STUCK-AT-435.2-mob.png?w=1240 2x"></figure><p data-paragraph="main">In fact, the problem of representation in the U.S. is so bad that each member of the House represents far more people on average than legislators in most other large, developed — or developing — democracies. On the one hand, this is somewhat understandable given the U.S. has the third-largest population in the world after China and India, the latter of which also happens to be the only democracy with more people per representative than the U.S. But beyond India, other large democracies with more than 100 million people, like Brazil and Japan, offer their constituents far more representation than the U.S. Moreover, their lower legislative chambers are only somewhat bigger than the U.S. House.</p>
+
+
+<div>
+<section><header><h5>The U.S. has a representation problem</h5>
+ <p>Average population per seat in the lower legislative chamber or unicameral legislature in the U.S. and 30 other democracies</p>
+ </header><table data-carpenter-slug="skelley.stuck-at-435.3"><thead><tr><th colspan="1">Country</th>
+ <th colspan="1">Population (millions)</th>
+ <th colspan="1">Seats</th>
+ <th colspan="1">Avg. population per seat</th>
+ </tr></thead><tbody><tr><td>India</td>
+ <td>1,326.1</td>
+ <td>543</td>
+ <td>2,442,161</td>
+ </tr><tr><td>United States*</td>
+ <td>331.1</td>
+ <td>435</td>
+ <td>761,169</td>
+ </tr><tr><td>Brazil</td>
+ <td>211.7</td>
+ <td>513</td>
+ <td>412,702</td>
+ </tr><tr><td>Colombia</td>
+ <td>49.1</td>
+ <td>172</td>
+ <td>285,377</td>
+ </tr><tr><td>Japan</td>
+ <td>125.5</td>
+ <td>465</td>
+ <td>269,909</td>
+ </tr><tr><td>Mexico</td>
+ <td>128.6</td>
+ <td>500</td>
+ <td>257,299</td>
+ </tr><tr><td>Argentina</td>
+ <td>45.5</td>
+ <td>257</td>
+ <td>176,962</td>
+ </tr><tr><td>South Korea</td>
+ <td>51.8</td>
+ <td>300</td>
+ <td>172,784</td>
+ </tr><tr><td>Australia</td>
+ <td>25.5</td>
+ <td>151</td>
+ <td>168,652</td>
+ </tr><tr><td>Spain</td>
+ <td>50.0</td>
+ <td>350</td>
+ <td>142,902</td>
+ </tr><tr><td>South Africa</td>
+ <td>56.5</td>
+ <td>400</td>
+ <td>141,159</td>
+ </tr><tr><td>Germany†</td>
+ <td>80.2</td>
+ <td>598</td>
+ <td>134,046</td>
+ </tr><tr><td>France</td>
+ <td>67.8</td>
+ <td>577</td>
+ <td>117,588</td>
+ </tr><tr><td>Chile</td>
+ <td>18.2</td>
+ <td>155</td>
+ <td>117,334</td>
+ </tr><tr><td>Netherlands</td>
+ <td>17.3</td>
+ <td>150</td>
+ <td>115,203</td>
+ </tr><tr><td>Canada</td>
+ <td>37.7</td>
+ <td>338</td>
+ <td>111,521</td>
+ </tr><tr><td>United Kingdom</td>
+ <td>65.8</td>
+ <td>650</td>
+ <td>101,171</td>
+ </tr><tr><td>Italy</td>
+ <td>62.4</td>
+ <td>630</td>
+ <td>99,052</td>
+ </tr><tr><td>Poland</td>
+ <td>38.3</td>
+ <td>460</td>
+ <td>83,222</td>
+ </tr><tr><td>Belgium</td>
+ <td>11.7</td>
+ <td>150</td>
+ <td>78,138</td>
+ </tr><tr><td>Israel</td>
+ <td>8.7</td>
+ <td>120</td>
+ <td>72,296</td>
+ </tr><tr><td>Czech Republic</td>
+ <td>10.7</td>
+ <td>200</td>
+ <td>53,512</td>
+ </tr><tr><td>Hungary</td>
+ <td>9.8</td>
+ <td>199</td>
+ <td>49,105</td>
+ </tr><tr><td>Austria</td>
+ <td>8.9</td>
+ <td>183</td>
+ <td>48,412</td>
+ </tr><tr><td>Portugal</td>
+ <td>10.3</td>
+ <td>230</td>
+ <td>44,794</td>
+ </tr><tr><td>Switzerland</td>
+ <td>8.4</td>
+ <td>200</td>
+ <td>42,020</td>
+ </tr><tr><td>New Zealand</td>
+ <td>4.9</td>
+ <td>120</td>
+ <td>41,046</td>
+ </tr><tr><td>Greece</td>
+ <td>10.6</td>
+ <td>300</td>
+ <td>35,357</td>
+ </tr><tr><td>Denmark</td>
+ <td>5.9</td>
+ <td>179</td>
+ <td>32,790</td>
+ </tr><tr><td>Sweden</td>
+ <td>10.2</td>
+ <td>349</td>
+ <td>29,233</td>
+ </tr><tr><td>Finland</td>
+ <td>5.6</td>
+ <td>200</td>
+ <td>27,858</td>
+ </tr></tbody></table><footer><p>Population estimates for countries other than the U.S. are all from July 2020.</p>
+ <p>*The population of the 50 U.S. states. <br>†The Bundestag, Germany’s lower legislative chamber, must have a minimum of 598 seats. Due to Germany’s electoral system, which can assign additional seats, the size of the Bundestag often fluctuates. It has 709 seats now.</p>
+ <p>Sources: CIA World Factbook; U.S. Census Bureau; “A Different Democracy,” by Steven L. Taylor et al.</p>
+ </footer></section></div>
+
+
+<p data-paragraph="main">“Our congressional districts are just massive, there’s really nothing else like it,” said Jonathan Rodden, a <a href="https://politicalscience.stanford.edu/people/jonathan-rodden" target="_blank" rel="noopener">political scientist at Stanford University</a> who studies political geography. “The scale of districts in Canada, the U.K. and Australia is so much smaller … the U.S. is really an outlier in this.” </p>
+
+
+
+<p data-paragraph="main">Brian Frederick, a <a href="https://www.bridgew.edu/department/political-science/dr-brian-frederick" target="_blank" rel="noopener">political scientist at Bridgewater State University</a>, studies apportionment issues and <a href="https://www.routledge.com/Congressional-Representation--Constituents-The-Case-for-Increasing-the/Frederick/p/book/9780415873468" target="_blank" rel="noopener">has argued</a> that the House should be expanded. He notes how the size of America’s districts hurts the quality of representation that voters receive. In fact, his research has found a <a href="https://www.researchgate.net/publication/249692020_Constituency_Population_and_Representation_in_the_US_House" target="_blank" rel="noopener">lot of upsides for smaller districts</a>. For instance, representatives who serve fewer people are more popular, more likely to have contact with their constituents and more likely to get higher marks for their constituent service. Moreover, they often better reflect the views and makeup of the people in their districts. “The reality is that it’s easier to represent fewer people than it is a larger number of citizens on a per-district basis,” said Frederick. </p>
+
+
+
+<p data-paragraph="main">Both he and Rodden noted that an expansion of the House could also increase the relative demographic diversity in the House. For instance, having districts with smaller populations could produce a plurality-Native American congressional district in Arizona or New Mexico, which is currently not possible given the size of the group’s population. However, Rodden warned that opportunities to expand representation for minority groups could vary, especially in the South, where Black voters are often <a href="https://www.washingtonpost.com/news/wonk/wp/2016/06/09/how-a-widespread-practice-to-politically-empower-african-americans-might-actually-harm-them/" target="_blank" rel="noopener">over-concentrated in districts</a> to <a href="https://www.jstor.org/stable/26600481" target="_blank" rel="noopener">ensure representation</a>.</p>
+
+
+
+<p data-paragraph="main">Adding seats to the House could have <a href="https://contentdm.washburnlaw.edu/digital/collection/wlj/id/5912/" target="_blank" rel="noopener">electoral benefits</a>, too. First, a growing House would make it less likely that states lose representation in the reapportionment process. Under current conditions, states with a shrinking population often lose seats, but this is true even of states where the population is growing.<a data-footnote-id="8" href="https://fivethirtyeight.com/wp-json/wp/v2/espn_verticals/398#fn-8" data-footnote-content="&lt;p&gt;&lt;p&gt;Michigan, Ohio and Pennsylvania all grew about 2 percent between 2010 and 2020, for instance, but all three states still lost seats in the 2020 apportionment process.&lt;/p&gt;
+&lt;/p&gt;"><sup>8</sup></a> An expansion of the House would also help reduce the Electoral College’s bias toward small states, as more populous states would pick up more representatives, and therefore electoral votes in the Electoral College.<a data-footnote-id="9" href="https://fivethirtyeight.com/wp-json/wp/v2/espn_verticals/398#fn-9" data-footnote-content="&lt;p&gt;&lt;p&gt;A state’s electoral vote count is the total number of representatives plus a state’s two senators. (The current number of electors is also what FiveThirtyEight is named after, so if this happened, we might have to consider a name change. Perhaps SixThirtyEight?)&lt;/p&gt;
+&lt;/p&gt;"><sup>9</sup></a> And finally, a larger House could theoretically <a href="https://www.fordham.edu/download/downloads/id/14402/Why_the_House_Must_Be_Expanded___Democracy_Clinic.pdf" target="_blank" rel="noopener">help reduce partisan gerrymandering</a>. As Rodden told me, when you add more and more seats, you converge on proportional representation at some point because the districts just become so small. Still, he cautioned that line drawers could get pretty creative, so more districts might not always result in more proportional representation.<a data-footnote-id="10" href="https://fivethirtyeight.com/wp-json/wp/v2/espn_verticals/398#fn-10" data-footnote-content='&lt;p&gt;&lt;p&gt;In &lt;a href="https://www.semanticscholar.org/paper/Unintentional-Gerrymandering%3A-Political-Geography-Chen-Rodden/05b1766bb58a5419d28dae07e4cbc7e27f2109ec" target="_blank" rel="noopener"&gt;a 2013 paper&lt;/a&gt; that Rodden co-authored, he found that the more districts were added to Florida’s map, the more proportional the partisan split became across those districts, although Republicans still retained an advantage given Democrats’ overconcentration in urban areas. But he didn’t find this pattern everywhere. For instance, his forthcoming study of Pennsylvania’s map didn’t find that adding more districts led to more proportional outcomes.&lt;/p&gt;
+&lt;/p&gt;'><sup>10</sup></a> </p>
+
+
+
+<p data-paragraph="main">Clearly, expanding the House has many potential upsides — many of them beneficial to democracy, too — but, of course, a lot hinges on just how many seats would be added. And on that point there is no easy answer.</p>
+
+
+
+<hr><h2><strong>How to expand the House</strong></h2>
+
+
+
+<p data-paragraph="main">A number of ideas have emerged for how best to expand the House. Some reformers have suggested a one-time, arbitrary fix, like <a href="https://www.amacad.org/ourcommonpurpose/recommendation-1-1" target="_blank" rel="noopener">adding 50 seats</a>. Others have argued for a more substantive overhaul, like resizing the House <a href="https://www.outsidethebeltway.com/representation-in-the-house-the-wyoming-rule/" target="_blank" rel="noopener">based on the population of the smallest state</a> — often called the Wyoming rule, as Wyoming has occupied this position since 1990. </p>
+
+
+
+<p data-paragraph="main">But there’s actually a fairly straightforward solution that isn’t too far off from what America used to do before — albeit unintentionally. It’s known as the <a href="https://oxford.universitypressscholarship.com/view/10.1093/acprof:oso/9780199287741.001.0001/acprof-9780199287741-chapter-12" target="_blank" rel="noopener">cube root law</a> in political science, or the fact that the size of a country’s parliament often hews to the <a href="https://www.mathsisfun.com/numbers/cube-root.html" target="_blank" rel="noopener">cube root</a> of the nation’s population.</p>
+
+
+
+<p data-paragraph="main"><a href="https://ps.ucdavis.edu/people/mshugart" target="_blank" rel="noopener">Matthew Shugart</a>, a professor emeritus at University of California, Davis, has <a href="https://books.google.com/books/about/Seats_and_Votes.html?id=DzVsQgAACAAJ" target="_blank" rel="noopener">tried to unpack why this is often the case</a>. After all, there is no law that says countries’ parliaments must be the cube root of their population, yet they often are, as the chart below shows. Of the 30 major democracies <a href="https://yalebooks.yale.edu/book/9780300198089/different-democracy" target="_blank" rel="noopener">Shugart and his co-authors looked at</a> alongside the U.S., a majority of them have legislatures very close to — or fairly near — the cube root of their populations.</p>
+
+
+
+<figure><img loading="lazy" width="2048" height="1246" src="https://fivethirtyeight.com/wp-content/uploads/2021/08/skelley.STUCK-AT-435.3.png" alt="" data-src="https://fivethirtyeight.com/wp-content/uploads/2021/08/skelley.STUCK-AT-435.3.png" data-srcset="https://fivethirtyeight.com/wp-content/uploads/2021/08/skelley.STUCK-AT-435.3.png?w=700 1x, https://fivethirtyeight.com/wp-content/uploads/2021/08/skelley.STUCK-AT-435.3.png?w=1400 2x"></figure><figure><img loading="lazy" width="620" height="1690" src="https://fivethirtyeight.com/wp-content/uploads/2021/08/skelley.STUCK-AT-435.3-mob.png" alt="" data-src="https://fivethirtyeight.com/wp-content/uploads/2021/08/skelley.STUCK-AT-435.3-mob.png" data-srcset="https://fivethirtyeight.com/wp-content/uploads/2021/08/skelley.STUCK-AT-435.3-mob.png?w=620 1x, https://fivethirtyeight.com/wp-content/uploads/2021/08/skelley.STUCK-AT-435.3-mob.png?w=1240 2x"></figure><p data-paragraph="main">Take Canada. Its lower legislative chamber, the House of Commons, has 338 seats, almost exactly in line with the cube root law’s expectation of 335 seats. This is in large part because Canada has <a href="https://redecoupage-federal-redistribution.ca/content.asp?section=info&amp;dir=his/rep&amp;document=p1&amp;lang=e" target="_blank" rel="noopener">frequently adjusted the chamber’s seat count</a> to account for population growth. But other bigger democracies like Brazil and Japan also have seat counts that fall fairly close to the cube root of their respective populations. Of course, this isn’t true of every democracy Shugart and his co-authors studied. Some countries like the U.S. fall well below the cube root of its population. And countries like Australia, India and Israel are even more underrepresented than the U.S. in their legislatures.<a data-footnote-id="11" href="https://fivethirtyeight.com/wp-json/wp/v2/espn_verticals/398#fn-11" data-footnote-content="&lt;p&gt;&lt;p&gt;The lower chambers in the case of Australia and India. Israel has a unicameral legislature.&lt;/p&gt;
+&lt;/p&gt;"><sup>11</sup></a> It’s also the case that some countries like Germany, Italy and the U.K. may actually be <em>overrepresented</em> in their lower chambers — for instance, the U.K.’s House of Commons has 650 seats, well more than the expected 404 seats.</p>
+
+
+
+<p data-paragraph="main">According to Shugart, the reason why representation in countries’ lower chambers is often so close to the cube root of their populations is that the legislators must strike a balance between communicating with one another and their constituents. “It is about finding what is the optimal size,” he said. And in many countries, that seems to be roughly the cube root of a country’s population.</p>
+
+
+
+<p data-paragraph="main">In fact, it’s a pattern the U.S. used to mostly follow until the size of the House was capped at 435 seats in 1929. But as the chart below shows, the House would have to grow to 692 seats to reflect where the cube root law expects representation in the U.S. to be now.</p>
+
+
+
+<figure><img loading="lazy" width="2048" height="1158" src="https://fivethirtyeight.com/wp-content/uploads/2021/08/skelley.STUCK-AT-435.4.png" alt="" data-src="https://fivethirtyeight.com/wp-content/uploads/2021/08/skelley.STUCK-AT-435.4.png" data-srcset="https://fivethirtyeight.com/wp-content/uploads/2021/08/skelley.STUCK-AT-435.4.png?w=700 1x, https://fivethirtyeight.com/wp-content/uploads/2021/08/skelley.STUCK-AT-435.4.png?w=1400 2x"></figure><figure><img loading="lazy" width="620" height="1502" src="https://fivethirtyeight.com/wp-content/uploads/2021/08/skelley.STUCK-AT-435.4-mob.png" alt="" data-src="https://fivethirtyeight.com/wp-content/uploads/2021/08/skelley.STUCK-AT-435.4-mob.png" data-srcset="https://fivethirtyeight.com/wp-content/uploads/2021/08/skelley.STUCK-AT-435.4-mob.png?w=620 1x, https://fivethirtyeight.com/wp-content/uploads/2021/08/skelley.STUCK-AT-435.4-mob.png?w=1240 2x"></figure><p data-paragraph="main">That would make the House almost 60 percent larger than it is now, so it’s hard to imagine a one-time increase of that scope. Shugart suggested a phased expansion over the next few decades, although he also didn’t think the House necessarily had to get all the way to 692 seats — he just stressed that, according to the cube root law, where the U.S. currently falls suggests that it is dramatically underrepresented. </p>
+
+
+
+<p data-paragraph="main">Regardless of the potential benefits of a bigger House, though, there would likely be steep opposition to expanding it because of some of the tradeoffs — and potential downsides — involved. For instance, a larger House would by necessity mean a bigger government and more spending. House members <a href="https://pressgallery.house.gov/member-data/salaries" target="_blank" rel="noopener">make $174,000 per year</a>, and after five years of service <a href="https://www.senate.gov/CRSpubs/ac0d1dd5-7316-4390-87e6-353589586a89.pdf" target="_blank" rel="noopener">they are also eligible for a pension</a>. Combine that with new staff, new construction for office space, perhaps even a roomier House chamber and you’re talking about <a href="https://www.mattglassman.com/?p=4325" target="_blank" rel="noopener">many millions or even billions of dollars</a>. </p>
+
+
+
+<p data-paragraph="main">There could also be consequences for governing, too, such as more gridlock and partisanship. “By increasing the number of players who have to be satisfied in the legislative game, you make arriving at the kind of majorities — or, in most cases, supermajorities — that you need to pass legislation more difficult,” said <a href="https://harrisburg.psu.edu/faculty-and-staff/l-marvin-overby-phd" target="_blank" rel="noopener">L. Marvin Overby</a>, a political scientist at Pennsylvania State University-Harrisburg who studies Congress and <a href="https://www.journals.uchicago.edu/doi/abs/10.2307/3235166?journalCode=pol" target="_blank" rel="noopener">has expressed skepticism</a> toward the promised benefits of House expansion. He also warned that a bigger House might produce fewer competitive seats <a href="https://fivethirtyeight.com/features/ending-gerrymandering-wont-fix-what-ails-america/" target="_blank" rel="noopener">thanks to partisan sorting</a> and fewer representatives open to compromise. “You would have even less of an incentive as an individual member of Congress to try to do things on a bipartisan basis,” said Overby, “because your district would be increasingly homogeneous — increasingly Democratic or increasingly Republican.”</p>
+
+
+
+<p data-paragraph="main">As such, even more elections may be effectively decided by primaries instead of general elections than they are today, which is <a href="https://fivethirtyeight.com/features/changing-how-primaries-work-probably-wont-make-politics-less-divisive/" target="_blank" rel="noopener">already the case</a> in the vast majority of House districts. And with more safe seats, incumbents would likely have an even easier time getting reelected than <a href="https://centerforpolitics.org/crystalball/articles/house-primaries-a-little-more-action-this-year-than-usual/" target="_blank" rel="noopener">they currently do</a>.</p>
+
+
+
+<p data-paragraph="main">In addition, there simply isn’t public support for expansion at this point. In 2018, 51 percent of Americans told the <a href="https://www.pewresearch.org/politics/2018/04/26/5-the-electoral-college-congress-and-representation/#should-the-allocation-of-senate-seats-or-the-size-of-the-house-be-changed" target="_blank" rel="noopener">Pew Research Center</a> that the size of the House should stay the same, while only 28 percent wanted to expand it (another 18 percent actually wanted to shrink it). Moreover, members of Congress aren’t wild about the idea, either. Legislation <a href="https://www.congress.gov/bill/117th-congress/house-bill/996/text?r=7&amp;s=2" target="_blank" rel="noopener">introduced in February</a> by Rep. Alcee Hastings of Florida, a Democrat <a href="https://abcnews.go.com/Politics/wireStory/us-rep-alcee-hastings-dies-84-impeached-judge-76899297" target="_blank" rel="noopener">who died in April</a>, aims to establish a bipartisan commission to examine the size of the House, among other things. But the bill has only four co-sponsors and <a href="https://www.sun-sentinel.com/news/politics/elections/fl-ne-alcee-hastings-house-size-electoral-college-20210209-ezlhpnqfq5ag3er6kzz7iwjuzq-story.html" target="_blank" rel="noopener">looks unlikely to go anywhere</a>.</p>
+
+
+
+<p data-paragraph="main">Clearly, there are pros and cons to increasing the size of the House, but at the very least, the idea should be more openly debated because, in terms of changes that could be made to our institutions, expanding the House is actually doable. For instance, <a href="https://fivethirtyeight.com/features/the-senate-has-always-favored-smaller-states-it-just-didnt-help-republicans-until-now/" target="_blank" rel="noopener">the Senate’s small-state bias often gets a lot more attention</a>, but any change to the Senate would require a constitutional amendment whereas the size of the House could be altered with a simple bill.</p>
+
+
+
+<p data-paragraph="main">“It’s going to be difficult to increase the size of the House of Representatives; I’m under no illusions,” said Frederick of Bridgewater State University. Nevertheless, it may be time for a change given how unequal districts have become between states and how underrepresented Americans are after more than 100 years of being stuck at 435 House members. Said Frederick, “There’s no doubt that a larger House with smaller constituency population size per district would improve the representational quality that citizens receive from members of Congress.”</p>]]></description>
+			<pubDate>Thu, 12 Aug 2021 11:00:00 +0100</pubDate>
+			<guid isPermaLink="false">1628766001622788</guid>
+		</item>
 		<item>
 			<title>Still Unsure About Getting The COVID-19 Vaccine? Start Here.</title>
 			<link>https://fivethirtyeight.com/features/still-unsure-about-getting-the-covid-19-vaccine-start-here/</link>
@@ -354,19 +1255,19 @@
 
 
 
-<p data-paragraph="main">It’s hard to overstate the impact that redistricting will have over American politics for the next 10 years. Republicans enter this redistricting cycle with the power to redraw <a href="https://fivethirtyeight.com/features/which-states-won-and-lost-seats-in-the-2020-census/" target="_blank" rel="noopener">187 congressional districts to Democrats’ 75</a>,<a data-footnote-id="1" href="https://fivethirtyeight.com/wp-json/wp/v2/espn_verticals/398#fn-1" data-footnote-content="&lt;p&gt;&lt;p&gt;There are also 167 districts where neither party enjoys full control of redistricting — either because of independent commissions or split partisan control. Plus, there are six at-large seats (Alaska, Delaware, North Dakota, South Dakota, Vermont and Wyoming) that won’t be redrawn at all.&lt;/p&gt;
-&lt;/p&gt;"><sup>1</sup></a> which means redistricting could hand control of the House of Representatives <a href="https://cookpolitical.com/redistrictnopaywall" target="_blank" rel="noopener">back to Republicans in 2022</a> all by itself given Democrats’ mere <a href="https://pressgallery.house.gov/member-data/party-breakdown" target="_blank" rel="noopener">eight-seat majority</a>. In fact, to understand the possible fallout of a <a href="https://fivethirtyeight.com/tag/the-gerrymandering-project/" target="_blank" rel="noopener">gerrymandered</a> congressional map, look no further than what happened after the 2011 redistricting cycle, when Republicans drew more than five times as many congressional districts as Democrats, resulting in a <a href="https://fivethirtyeight.com/features/advantage-gop/" target="_blank" rel="noopener">record-setting Republican bias</a> in U.S. House elections <a href="https://projects.fivethirtyeight.com/partisan-gerrymandering-north-carolina/" target="_blank" rel="noopener">throughout the 2010s</a>. This means what happens in the 2021-22 redistricting process could have repercussions for not only 2022, but also 2024, 2026 and throughout the rest of the decade.</p>
+<p data-paragraph="main">It’s hard to overstate the impact that redistricting will have over American politics for the next 10 years. Republicans enter this redistricting cycle with the power to redraw <a href="https://fivethirtyeight.com/features/which-states-won-and-lost-seats-in-the-2020-census/" target="_blank" rel="noopener">187 congressional districts to Democrats’ 75</a>,<a data-footnote-id="12" href="https://fivethirtyeight.com/wp-json/wp/v2/espn_verticals/398#fn-12" data-footnote-content="&lt;p&gt;&lt;p&gt;There are also 167 districts where neither party enjoys full control of redistricting — either because of independent commissions or split partisan control. Plus, there are six at-large seats (Alaska, Delaware, North Dakota, South Dakota, Vermont and Wyoming) that won’t be redrawn at all.&lt;/p&gt;
+&lt;/p&gt;"><sup>12</sup></a> which means redistricting could hand control of the House of Representatives <a href="https://cookpolitical.com/redistrictnopaywall" target="_blank" rel="noopener">back to Republicans in 2022</a> all by itself given Democrats’ mere <a href="https://pressgallery.house.gov/member-data/party-breakdown" target="_blank" rel="noopener">eight-seat majority</a>. In fact, to understand the possible fallout of a <a href="https://fivethirtyeight.com/tag/the-gerrymandering-project/" target="_blank" rel="noopener">gerrymandered</a> congressional map, look no further than what happened after the 2011 redistricting cycle, when Republicans drew more than five times as many congressional districts as Democrats, resulting in a <a href="https://fivethirtyeight.com/features/advantage-gop/" target="_blank" rel="noopener">record-setting Republican bias</a> in U.S. House elections <a href="https://projects.fivethirtyeight.com/partisan-gerrymandering-north-carolina/" target="_blank" rel="noopener">throughout the 2010s</a>. This means what happens in the 2021-22 redistricting process could have repercussions for not only 2022, but also 2024, 2026 and throughout the rest of the decade.</p>
 
 
 
-<p data-paragraph="main">In other words, it is very important to track how the partisan makeup and competitiveness of districts in the congressional maps that get drawn this fall, winter and spring change — which is exactly what we’re doing at FiveThirtyEight. Today, we launched our <a href="https://projects.fivethirtyeight.com/redistricting-2022-maps/" target="_blank" rel="noopener">2021-22 redistricting tracker</a>, your one-stop shop for following the congressional redistricting process.<a data-footnote-id="2" href="https://fivethirtyeight.com/wp-json/wp/v2/espn_verticals/398#fn-2" data-footnote-content="&lt;p&gt;&lt;p&gt;Every state will also redraw its state-legislative boundaries before 2022, but we won’t be tracking legislative redistricting.&lt;/p&gt;
-&lt;/p&gt;"><sup>2</sup></a> You can look up which party controls redistricting in each state, where the process currently stands and when to expect a new map to take effect; for states with proposed or final maps, you can also view the demographic and partisan breakdown of the new districts, see which party gained or lost ground and check if the map exhibits any signs of gerrymandering. Allow us to walk you through all the bells and whistles:</p>
+<p data-paragraph="main">In other words, it is very important to track how the partisan makeup and competitiveness of districts in the congressional maps that get drawn this fall, winter and spring change — which is exactly what we’re doing at FiveThirtyEight. Today, we launched our <a href="https://projects.fivethirtyeight.com/redistricting-2022-maps/" target="_blank" rel="noopener">2021-22 redistricting tracker</a>, your one-stop shop for following the congressional redistricting process.<a data-footnote-id="13" href="https://fivethirtyeight.com/wp-json/wp/v2/espn_verticals/398#fn-13" data-footnote-content="&lt;p&gt;&lt;p&gt;Every state will also redraw its state-legislative boundaries before 2022, but we won’t be tracking legislative redistricting.&lt;/p&gt;
+&lt;/p&gt;"><sup>13</sup></a> You can look up which party controls redistricting in each state, where the process currently stands and when to expect a new map to take effect; for states with proposed or final maps, you can also view the demographic and partisan breakdown of the new districts, see which party gained or lost ground and check if the map exhibits any signs of gerrymandering. Allow us to walk you through all the bells and whistles:</p>
 
 
 
-<figure><img loading="lazy" width="1780" height="1296" src="https://fivethirtyeight.com/wp-content/uploads/2021/08/01.National-Map.png" alt="" data-src="https://fivethirtyeight.com/wp-content/uploads/2021/08/01.National-Map.png" data-srcset="https://fivethirtyeight.com/wp-content/uploads/2021/08/01.National-Map.png?w=700 1x, https://fivethirtyeight.com/wp-content/uploads/2021/08/01.National-Map.png?w=1400 2x"></figure><p data-paragraph="main">The first thing you’ll see on the <a href="https://projects.fivethirtyeight.com/redistricting-2022-maps/" target="_blank" rel="noopener">national page of the tracker</a> is a map of all congressional districts nationwide, with each district shaded according to its <a href="https://fivethirtyeight.com/features/how-red-or-blue-is-your-state-your-congressional-district/" target="_blank" rel="noopener">FiveThirtyEight partisan lean</a>.<a data-footnote-id="3" href="https://fivethirtyeight.com/wp-json/wp/v2/espn_verticals/398#fn-3" data-footnote-content="&lt;p&gt;&lt;p&gt;Partisan lean is the average margin difference between how a state or district votes and how the country votes overall. This version of partisan lean, meant to be used for congressional and gubernatorial elections, is calculated as 50 percent the state or district’s lean relative to the nation in the most recent presidential election, 25 percent its relative lean in the second-most-recent presidential election and 25 percent a custom state-legislative lean.&lt;/p&gt;
-&lt;/p&gt;"><sup>3</sup></a> We’re considering districts with a partisan lean of D+15 or bluer as solidly Democratic; districts with a partisan lean between D+15 and D+5 as competitive but Democratic-leaning; districts with a partisan lean between D+5 and R+5 as highly competitive; districts with a partisan lean between R+5 and R+15 as competitive but Republican-leaning; and districts with a partisan lean of R+15 or redder as solidly Republican.<a data-footnote-id="4" href="https://fivethirtyeight.com/wp-json/wp/v2/espn_verticals/398#fn-4" data-footnote-content="&lt;p&gt;&lt;p&gt;These categories are based on the historical competitiveness of districts with a given partisan lean. But we were also deliberately generous with our definition of “competitive”; for instance, we think it would be wrong to consider an R+14 district as “safe” for Republicans, even though the party has historically won such districts nine times out of 10.&lt;/p&gt;
-&lt;/p&gt;"><sup>4</sup></a></p>
+<figure><img loading="lazy" width="1780" height="1296" src="https://fivethirtyeight.com/wp-content/uploads/2021/08/01.National-Map.png" alt="" data-src="https://fivethirtyeight.com/wp-content/uploads/2021/08/01.National-Map.png" data-srcset="https://fivethirtyeight.com/wp-content/uploads/2021/08/01.National-Map.png?w=700 1x, https://fivethirtyeight.com/wp-content/uploads/2021/08/01.National-Map.png?w=1400 2x"></figure><p data-paragraph="main">The first thing you’ll see on the <a href="https://projects.fivethirtyeight.com/redistricting-2022-maps/" target="_blank" rel="noopener">national page of the tracker</a> is a map of all congressional districts nationwide, with each district shaded according to its <a href="https://fivethirtyeight.com/features/how-red-or-blue-is-your-state-your-congressional-district/" target="_blank" rel="noopener">FiveThirtyEight partisan lean</a>.<a data-footnote-id="14" href="https://fivethirtyeight.com/wp-json/wp/v2/espn_verticals/398#fn-14" data-footnote-content="&lt;p&gt;&lt;p&gt;Partisan lean is the average margin difference between how a state or district votes and how the country votes overall. This version of partisan lean, meant to be used for congressional and gubernatorial elections, is calculated as 50 percent the state or district’s lean relative to the nation in the most recent presidential election, 25 percent its relative lean in the second-most-recent presidential election and 25 percent a custom state-legislative lean.&lt;/p&gt;
+&lt;/p&gt;"><sup>14</sup></a> We’re considering districts with a partisan lean of D+15 or bluer as solidly Democratic; districts with a partisan lean between D+15 and D+5 as competitive but Democratic-leaning; districts with a partisan lean between D+5 and R+5 as highly competitive; districts with a partisan lean between R+5 and R+15 as competitive but Republican-leaning; and districts with a partisan lean of R+15 or redder as solidly Republican.<a data-footnote-id="15" href="https://fivethirtyeight.com/wp-json/wp/v2/espn_verticals/398#fn-15" data-footnote-content="&lt;p&gt;&lt;p&gt;These categories are based on the historical competitiveness of districts with a given partisan lean. But we were also deliberately generous with our definition of “competitive”; for instance, we think it would be wrong to consider an R+14 district as “safe” for Republicans, even though the party has historically won such districts nine times out of 10.&lt;/p&gt;
+&lt;/p&gt;"><sup>15</sup></a></p>
 
 
 <p>Watch: https://abcnews.go.com/fivethirtyeight/video/anti-establishment-sentiment-ballot-parties-week-79248883</p>
@@ -376,8 +1277,8 @@
 
 
 
-<figure><img loading="lazy" width="1780" height="600" src="https://fivethirtyeight.com/wp-content/uploads/2021/08/02.BoP-robotext.png" alt="" data-src="https://fivethirtyeight.com/wp-content/uploads/2021/08/02.BoP-robotext.png" data-srcset="https://fivethirtyeight.com/wp-content/uploads/2021/08/02.BoP-robotext.png?w=700 1x, https://fivethirtyeight.com/wp-content/uploads/2021/08/02.BoP-robotext.png?w=1400 2x"></figure><p data-paragraph="main">We’ll also keep you up to date with the latest redistricting news, including a continually updated blurb summarizing the national big picture on redistricting; a regularly updating feed of state-specific redistricting news from our friends at <a href="https://redistricting.lls.edu/" target="_blank" rel="noopener">All About Redistricting</a>;<a data-footnote-id="5" href="https://fivethirtyeight.com/wp-json/wp/v2/espn_verticals/398#fn-5" data-footnote-content="&lt;p&gt;&lt;p&gt;All About Redistricting is a nonpartisan website founded by law professor Justin Levitt and now run by law professor Doug Spencer. We highly recommend checking it out if you’re looking for redistricting coverage that’s even wonkier than ours: Each state page features detailed explanations of redistricting law, has summaries of how redistricting played out in 2001 and 2011 and even covers state-legislative redistricting, too.&lt;/p&gt;
-&lt;/p&gt;"><sup>5</sup></a> a list of maps we’ve recently added or updated on our own tracker; and a feed that features FiveThirtyEight’s and ABC News’s latest standalone articles on redistricting.</p>
+<figure><img loading="lazy" width="1780" height="600" src="https://fivethirtyeight.com/wp-content/uploads/2021/08/02.BoP-robotext.png" alt="" data-src="https://fivethirtyeight.com/wp-content/uploads/2021/08/02.BoP-robotext.png" data-srcset="https://fivethirtyeight.com/wp-content/uploads/2021/08/02.BoP-robotext.png?w=700 1x, https://fivethirtyeight.com/wp-content/uploads/2021/08/02.BoP-robotext.png?w=1400 2x"></figure><p data-paragraph="main">We’ll also keep you up to date with the latest redistricting news, including a continually updated blurb summarizing the national big picture on redistricting; a regularly updating feed of state-specific redistricting news from our friends at <a href="https://redistricting.lls.edu/" target="_blank" rel="noopener">All About Redistricting</a>;<a data-footnote-id="16" href="https://fivethirtyeight.com/wp-json/wp/v2/espn_verticals/398#fn-16" data-footnote-content="&lt;p&gt;&lt;p&gt;All About Redistricting is a nonpartisan website founded by law professor Justin Levitt and now run by law professor Doug Spencer. We highly recommend checking it out if you’re looking for redistricting coverage that’s even wonkier than ours: Each state page features detailed explanations of redistricting law, has summaries of how redistricting played out in 2001 and 2011 and even covers state-legislative redistricting, too.&lt;/p&gt;
+&lt;/p&gt;"><sup>16</sup></a> a list of maps we’ve recently added or updated on our own tracker; and a feed that features FiveThirtyEight’s and ABC News’s latest standalone articles on redistricting.</p>
 
 
 <div>
@@ -392,8 +1293,8 @@
 
 
 
-<p data-paragraph="main">At the bottom of the national page, you’ll find a table where you can quickly look up the date by which each state is expected to finalize a new map, whether new maps have been proposed and the partisan breakdown of the old map (and, eventually, the new one). Once states begin to finalize their maps, we’ll move those states to a separate table without the deadline and status columns — but with a column indicating whether the map got better for Democrats or for Republicans.<a data-footnote-id="6" href="https://fivethirtyeight.com/wp-json/wp/v2/espn_verticals/398#fn-6" data-footnote-content="&lt;p&gt;&lt;p&gt;Based on whether the party’s chance of winning a majority of the state’s congressional districts significantly increased.&lt;/p&gt;
-&lt;/p&gt;"><sup>6</sup></a> </p>
+<p data-paragraph="main">At the bottom of the national page, you’ll find a table where you can quickly look up the date by which each state is expected to finalize a new map, whether new maps have been proposed and the partisan breakdown of the old map (and, eventually, the new one). Once states begin to finalize their maps, we’ll move those states to a separate table without the deadline and status columns — but with a column indicating whether the map got better for Democrats or for Republicans.<a data-footnote-id="17" href="https://fivethirtyeight.com/wp-json/wp/v2/espn_verticals/398#fn-17" data-footnote-content="&lt;p&gt;&lt;p&gt;Based on whether the party’s chance of winning a majority of the state’s congressional districts significantly increased.&lt;/p&gt;
+&lt;/p&gt;"><sup>17</sup></a> </p>
 
 
 
@@ -409,8 +1310,8 @@
 
 
 
-<figure><img loading="lazy" width="1780" height="2060" src="https://fivethirtyeight.com/wp-content/uploads/2021/08/06.Colorado-proposed-breakdown.png" alt="" data-src="https://fivethirtyeight.com/wp-content/uploads/2021/08/06.Colorado-proposed-breakdown.png" data-srcset="https://fivethirtyeight.com/wp-content/uploads/2021/08/06.Colorado-proposed-breakdown.png?w=700 1x, https://fivethirtyeight.com/wp-content/uploads/2021/08/06.Colorado-proposed-breakdown.png?w=1400 2x"></figure><p data-paragraph="main">Next is a section that we suspect a lot of you will care about: an attempt to quantify how fair the new map is. Gerrymandering is an <a href="https://fivethirtyeight.com/features/why-cant-we-just-burn-gerrymandering-to-the-ground/" target="_blank" rel="noopener">incredibly complex topic</a>, and <a href="https://fivethirtyeight.com/features/hating-gerrymandering-is-easy-fixing-it-is-harder/" target="_blank" rel="noopener">there is no one objectively fair way to draw a map</a>, but we’ve settled on three metrics that attempt to get at the question of whether a map is drawn in an anti-competitive fashion. (If you’re interested in checking out additional measures of a map’s fairness, we recommend those from the <a href="https://gerrymander.princeton.edu/tests" target="_blank" rel="noopener">Princeton Gerrymandering Project</a>, <a href="https://planscore.org/" target="_blank" rel="noopener">PlanScore</a> and <a href="https://davesredistricting.org/" target="_blank" rel="noopener">Dave’s Redistricting App</a>.) You can also see how a given proposed map compares with the old map or other proposed maps on each metric; the shaded row is the map you’re currently viewing.<a data-footnote-id="7" href="https://fivethirtyeight.com/wp-json/wp/v2/espn_verticals/398#fn-7" data-footnote-content="&lt;p&gt;&lt;p&gt;The maps appear in order from most biased toward Democrats to most biased toward Republicans; for the “competitiveness” measure, they appear from most to least competitive.&lt;/p&gt;
-&lt;/p&gt;"><sup>7</sup></a> </p>
+<figure><img loading="lazy" width="1780" height="2060" src="https://fivethirtyeight.com/wp-content/uploads/2021/08/06.Colorado-proposed-breakdown.png" alt="" data-src="https://fivethirtyeight.com/wp-content/uploads/2021/08/06.Colorado-proposed-breakdown.png" data-srcset="https://fivethirtyeight.com/wp-content/uploads/2021/08/06.Colorado-proposed-breakdown.png?w=700 1x, https://fivethirtyeight.com/wp-content/uploads/2021/08/06.Colorado-proposed-breakdown.png?w=1400 2x"></figure><p data-paragraph="main">Next is a section that we suspect a lot of you will care about: an attempt to quantify how fair the new map is. Gerrymandering is an <a href="https://fivethirtyeight.com/features/why-cant-we-just-burn-gerrymandering-to-the-ground/" target="_blank" rel="noopener">incredibly complex topic</a>, and <a href="https://fivethirtyeight.com/features/hating-gerrymandering-is-easy-fixing-it-is-harder/" target="_blank" rel="noopener">there is no one objectively fair way to draw a map</a>, but we’ve settled on three metrics that attempt to get at the question of whether a map is drawn in an anti-competitive fashion. (If you’re interested in checking out additional measures of a map’s fairness, we recommend those from the <a href="https://gerrymander.princeton.edu/tests" target="_blank" rel="noopener">Princeton Gerrymandering Project</a>, <a href="https://planscore.org/" target="_blank" rel="noopener">PlanScore</a> and <a href="https://davesredistricting.org/" target="_blank" rel="noopener">Dave’s Redistricting App</a>.) You can also see how a given proposed map compares with the old map or other proposed maps on each metric; the shaded row is the map you’re currently viewing.<a data-footnote-id="18" href="https://fivethirtyeight.com/wp-json/wp/v2/espn_verticals/398#fn-18" data-footnote-content="&lt;p&gt;&lt;p&gt;The maps appear in order from most biased toward Democrats to most biased toward Republicans; for the “competitiveness” measure, they appear from most to least competitive.&lt;/p&gt;
+&lt;/p&gt;"><sup>18</sup></a> </p>
 
 
 
@@ -418,11 +1319,11 @@
 
 
 
-<ul><li>The <strong>median seat</strong> metric compares the partisan lean of the median, or tipping-point, district in the state to the partisan lean of the state as a whole. The idea here is that the median seat should have roughly the same partisanship as the state, or else it’s possible that the party that wins the statewide vote will not win a majority of its congressional districts. For example, the <a href="https://github.com/fivethirtyeight/data/blob/master/partisan-lean/fivethirtyeight_partisan_lean_STATES.csv">partisan lean of Colorado</a> is D+6.4, and the partisan lean of the median district in its old congressional map (the <a href="https://github.com/fivethirtyeight/data/blob/master/partisan-lean/fivethirtyeight_partisan_lean_DISTRICTS.csv">6th District</a>) is D+11.5, so the map has a 5.2-point<a data-footnote-id="8" href="https://fivethirtyeight.com/wp-json/wp/v2/espn_verticals/398#fn-8" data-footnote-content="&lt;p&gt;&lt;p&gt;It’s not 5.1 points because of rounding.&lt;/p&gt;
-&lt;/p&gt;"><sup>8</sup></a> bias toward Democrats. In other words, if the two parties exactly tied in the Colorado popular vote, Democrats would be expected to win the 6th District by 5.2 percentage points — and Republicans would theoretically need to win the Colorado popular vote by more than 5.2 percentage points in order to capture a majority of its congressional districts.</li><li>The <strong>efficiency gap</strong> metric is based on a formula <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2457468">developed by a pair of academic researchers in 2014</a> whose goal was to set a quantifiable, legal standard for what constitutes gerrymandering.<a data-footnote-id="9" href="https://fivethirtyeight.com/wp-json/wp/v2/espn_verticals/398#fn-9" data-footnote-content='&lt;p&gt;&lt;p&gt;Their efforts failed when the Supreme Court rejected the standard in its 2018 decision in &lt;a href="https://www.scotusblog.com/case-files/cases/gill-v-whitford/"&gt;Gill v. Whitford&lt;/a&gt;.&lt;/p&gt;
-&lt;/p&gt;'><sup>9</sup></a> The efficiency gap is the difference between the two parties’ “wasted votes” divided by the total number of voters, where “wasted votes” are defined as all votes cast for the losing party in a district as well as votes for the <em>winning</em> party in excess of a majority. To take a simple example, imagine a state with three districts — two of which Republicans win 60 votes to 40 votes, and one of which Democrats win 90 votes to 10 votes. Democrats have 40 wasted votes in each of the first two districts and 39 in the third (because they won 39 more votes than 51, the district’s majority threshold), for a total of 119. Meanwhile, Republicans have nine wasted votes in each of the first two districts and 10 in the third district, for a total of 28. The map’s efficiency gap is therefore 91 (119 minus 28) divided by 300 (the total number of votes in all three districts), or 30.3 percentage points in favor of Republicans.<a data-footnote-id="10" href="https://fivethirtyeight.com/wp-json/wp/v2/espn_verticals/398#fn-10" data-footnote-content="&lt;p&gt;&lt;p&gt;Since there are no House elections under the new maps yet, we calculate the efficiency gap for all maps based on the results of the 2020 presidential election.&lt;/p&gt;
-&lt;/p&gt;"><sup>10</sup></a></li><li>Finally, the <strong>competitiveness</strong> metric is much more straightforward: It is simply the number of districts in a map that have a partisan lean between D+5 and R+5 — i.e., districts easily winnable by either party. This isn’t a measure of partisan bias, but rather of how competitive a map is and how responsive it is to changes in the political environment.</li></ul><p data-paragraph="main">If a map scores poorly on these three metrics, it might be gerrymandered. Then again, it might also just be that the state’s political geography has a <a href="https://www.nccourts.gov/assets/inline-files/LDTX154.pdf?YcdXhXVmKchq3lc8BQXQ5YK3IjOED1ZX" target="_blank" rel="noopener">built-in bias against one party</a> (for instance, if the vast majority of the state’s Democrats are packed into just one city). And if a map scores well on these metrics, it also doesn’t necessarily mean it <em>isn’t</em> gerrymandered in some other way. For instance, states can be racially gerrymandered to dilute the influence of nonwhite voters,<a data-footnote-id="11" href="https://fivethirtyeight.com/wp-json/wp/v2/espn_verticals/398#fn-11" data-footnote-content="&lt;p&gt;&lt;p&gt;Although in practice, this usually results in a partisan bias as well.&lt;/p&gt;
-&lt;/p&gt;"><sup>11</sup></a> or a map might break up <a href="https://aceproject.org/main/english/bd/bdb05c.htm" target="_blank" rel="noopener">communities of interest</a>, although these are often notoriously difficult to define (and, thus, quantify).</p>
+<ul><li>The <strong>median seat</strong> metric compares the partisan lean of the median, or tipping-point, district in the state to the partisan lean of the state as a whole. The idea here is that the median seat should have roughly the same partisanship as the state, or else it’s possible that the party that wins the statewide vote will not win a majority of its congressional districts. For example, the <a href="https://github.com/fivethirtyeight/data/blob/master/partisan-lean/fivethirtyeight_partisan_lean_STATES.csv">partisan lean of Colorado</a> is D+6.4, and the partisan lean of the median district in its old congressional map (the <a href="https://github.com/fivethirtyeight/data/blob/master/partisan-lean/fivethirtyeight_partisan_lean_DISTRICTS.csv">6th District</a>) is D+11.5, so the map has a 5.2-point<a data-footnote-id="19" href="https://fivethirtyeight.com/wp-json/wp/v2/espn_verticals/398#fn-19" data-footnote-content="&lt;p&gt;&lt;p&gt;It’s not 5.1 points because of rounding.&lt;/p&gt;
+&lt;/p&gt;"><sup>19</sup></a> bias toward Democrats. In other words, if the two parties exactly tied in the Colorado popular vote, Democrats would be expected to win the 6th District by 5.2 percentage points — and Republicans would theoretically need to win the Colorado popular vote by more than 5.2 percentage points in order to capture a majority of its congressional districts.</li><li>The <strong>efficiency gap</strong> metric is based on a formula <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2457468">developed by a pair of academic researchers in 2014</a> whose goal was to set a quantifiable, legal standard for what constitutes gerrymandering.<a data-footnote-id="20" href="https://fivethirtyeight.com/wp-json/wp/v2/espn_verticals/398#fn-20" data-footnote-content='&lt;p&gt;&lt;p&gt;Their efforts failed when the Supreme Court rejected the standard in its 2018 decision in &lt;a href="https://www.scotusblog.com/case-files/cases/gill-v-whitford/"&gt;Gill v. Whitford&lt;/a&gt;.&lt;/p&gt;
+&lt;/p&gt;'><sup>20</sup></a> The efficiency gap is the difference between the two parties’ “wasted votes” divided by the total number of voters, where “wasted votes” are defined as all votes cast for the losing party in a district as well as votes for the <em>winning</em> party in excess of a majority. To take a simple example, imagine a state with three districts — two of which Republicans win 60 votes to 40 votes, and one of which Democrats win 90 votes to 10 votes. Democrats have 40 wasted votes in each of the first two districts and 39 in the third (because they won 39 more votes than 51, the district’s majority threshold), for a total of 119. Meanwhile, Republicans have nine wasted votes in each of the first two districts and 10 in the third district, for a total of 28. The map’s efficiency gap is therefore 91 (119 minus 28) divided by 300 (the total number of votes in all three districts), or 30.3 percentage points in favor of Republicans.<a data-footnote-id="21" href="https://fivethirtyeight.com/wp-json/wp/v2/espn_verticals/398#fn-21" data-footnote-content="&lt;p&gt;&lt;p&gt;Since there are no House elections under the new maps yet, we calculate the efficiency gap for all maps based on the results of the 2020 presidential election.&lt;/p&gt;
+&lt;/p&gt;"><sup>21</sup></a></li><li>Finally, the <strong>competitiveness</strong> metric is much more straightforward: It is simply the number of districts in a map that have a partisan lean between D+5 and R+5 — i.e., districts easily winnable by either party. This isn’t a measure of partisan bias, but rather of how competitive a map is and how responsive it is to changes in the political environment.</li></ul><p data-paragraph="main">If a map scores poorly on these three metrics, it might be gerrymandered. Then again, it might also just be that the state’s political geography has a <a href="https://www.nccourts.gov/assets/inline-files/LDTX154.pdf?YcdXhXVmKchq3lc8BQXQ5YK3IjOED1ZX" target="_blank" rel="noopener">built-in bias against one party</a> (for instance, if the vast majority of the state’s Democrats are packed into just one city). And if a map scores well on these metrics, it also doesn’t necessarily mean it <em>isn’t</em> gerrymandered in some other way. For instance, states can be racially gerrymandered to dilute the influence of nonwhite voters,<a data-footnote-id="22" href="https://fivethirtyeight.com/wp-json/wp/v2/espn_verticals/398#fn-22" data-footnote-content="&lt;p&gt;&lt;p&gt;Although in practice, this usually results in a partisan bias as well.&lt;/p&gt;
+&lt;/p&gt;"><sup>22</sup></a> or a map might break up <a href="https://aceproject.org/main/english/bd/bdb05c.htm" target="_blank" rel="noopener">communities of interest</a>, although these are often notoriously difficult to define (and, thus, quantify).</p>
 
 
 <div>
@@ -476,8 +1377,8 @@
 
 
 
-<p data-paragraph="main">As cases rise nationwide due to the high number of unvaccinated Americans and the highly transmissible delta variant of the novel coronavirus, many governments and businesses have turned to vaccine mandates as a potential solution. Major corporations such as <a href="https://www.nytimes.com/2021/08/03/business/vaccine-mandate-employees-microsoft.html" target="_blank" rel="noopener">Google, Microsoft and The Walt Disney Company</a><a data-footnote-id="12" href="https://fivethirtyeight.com/wp-json/wp/v2/espn_verticals/398#fn-12" data-footnote-content="&lt;p&gt;&lt;p&gt;FiveThirtyEight is owned by Disney.&lt;/p&gt;
-&lt;/p&gt;"><sup>12</sup></a> have recently announced that they will require in-person employees to be vaccinated, and President Biden (along with <a href="https://www.usnews.com/news/best-states/articles/2021-07-29/these-governors-are-mandating-the-covid-19-vaccine-for-government-employees" target="_blank" rel="noopener">several state governors</a>) will require their workers to <a href="https://apnews.com/article/lifestyle-joe-biden-business-health-travel-a1670ffa08f1f2eab42c675d99f1d9ad" target="_blank" rel="noopener">attest that they are vaccinated</a> or else face stringent masking, testing and social-distancing requirements.</p>
+<p data-paragraph="main">As cases rise nationwide due to the high number of unvaccinated Americans and the highly transmissible delta variant of the novel coronavirus, many governments and businesses have turned to vaccine mandates as a potential solution. Major corporations such as <a href="https://www.nytimes.com/2021/08/03/business/vaccine-mandate-employees-microsoft.html" target="_blank" rel="noopener">Google, Microsoft and The Walt Disney Company</a><a data-footnote-id="23" href="https://fivethirtyeight.com/wp-json/wp/v2/espn_verticals/398#fn-23" data-footnote-content="&lt;p&gt;&lt;p&gt;FiveThirtyEight is owned by Disney.&lt;/p&gt;
+&lt;/p&gt;"><sup>23</sup></a> have recently announced that they will require in-person employees to be vaccinated, and President Biden (along with <a href="https://www.usnews.com/news/best-states/articles/2021-07-29/these-governors-are-mandating-the-covid-19-vaccine-for-government-employees" target="_blank" rel="noopener">several state governors</a>) will require their workers to <a href="https://apnews.com/article/lifestyle-joe-biden-business-health-travel-a1670ffa08f1f2eab42c675d99f1d9ad" target="_blank" rel="noopener">attest that they are vaccinated</a> or else face stringent masking, testing and social-distancing requirements.</p>
 
 
 
@@ -526,8 +1427,8 @@
 
 
 
-<figure><img loading="lazy" width="1150" height="920" src="https://fivethirtyeight.com/wp-content/uploads/2021/08/biden-approval-rating-2.png" alt="" data-src="https://fivethirtyeight.com/wp-content/uploads/2021/08/biden-approval-rating-2.png" data-srcset="https://fivethirtyeight.com/wp-content/uploads/2021/08/biden-approval-rating-2.png?w=700 1x, https://fivethirtyeight.com/wp-content/uploads/2021/08/biden-approval-rating-2.png?w=1400 2x"></figure><p data-paragraph="main">According to FiveThirtyEight’s <a href="https://projects.fivethirtyeight.com/biden-approval-rating/" target="_blank" rel="noopener">presidential approval tracker</a>,<a data-footnote-id="13" href="https://fivethirtyeight.com/wp-json/wp/v2/espn_verticals/398#fn-13" data-footnote-content="&lt;p&gt;&lt;p&gt;As of 5 p.m. Eastern on Thursday.&lt;/p&gt;
-&lt;/p&gt;"><sup>13</sup></a> 50.4 percent of Americans approve of the job Biden is doing as president, while 43.3 percent disapprove (a net approval rating of +7.0 points). At this time <a href="https://fivethirtyeight.com/features/partisanship-isnt-the-only-reason-why-so-many-americans-remain-unvaccinated/" target="_blank" rel="noopener">last week</a>, 51.4 percent approved and 43.3 percent disapproved (a net approval rating of +8.1 points). One month ago, Biden had an approval rating of 51.9 percent and a disapproval rating of 42.3 percent, for a net approval rating of +9.5 points.</p>
+<figure><img loading="lazy" width="1150" height="920" src="https://fivethirtyeight.com/wp-content/uploads/2021/08/biden-approval-rating-2.png" alt="" data-src="https://fivethirtyeight.com/wp-content/uploads/2021/08/biden-approval-rating-2.png" data-srcset="https://fivethirtyeight.com/wp-content/uploads/2021/08/biden-approval-rating-2.png?w=700 1x, https://fivethirtyeight.com/wp-content/uploads/2021/08/biden-approval-rating-2.png?w=1400 2x"></figure><p data-paragraph="main">According to FiveThirtyEight’s <a href="https://projects.fivethirtyeight.com/biden-approval-rating/" target="_blank" rel="noopener">presidential approval tracker</a>,<a data-footnote-id="24" href="https://fivethirtyeight.com/wp-json/wp/v2/espn_verticals/398#fn-24" data-footnote-content="&lt;p&gt;&lt;p&gt;As of 5 p.m. Eastern on Thursday.&lt;/p&gt;
+&lt;/p&gt;"><sup>24</sup></a> 50.4 percent of Americans approve of the job Biden is doing as president, while 43.3 percent disapprove (a net approval rating of +7.0 points). At this time <a href="https://fivethirtyeight.com/features/partisanship-isnt-the-only-reason-why-so-many-americans-remain-unvaccinated/" target="_blank" rel="noopener">last week</a>, 51.4 percent approved and 43.3 percent disapproved (a net approval rating of +8.1 points). One month ago, Biden had an approval rating of 51.9 percent and a disapproval rating of 42.3 percent, for a net approval rating of +9.5 points.</p>
 
 
 
@@ -1465,365 +2366,6 @@
 <p>Watch: https://abcnews.go.com/ThisWeek/video/buy-bidens-month-approval-rating-comfort-democrats-silver-78913246</p>]]></description>
 			<pubDate>Wed, 28 Jul 2021 16:26:00 +0100</pubDate>
 			<guid isPermaLink="false">1627487102030094</guid>
-		</item>
-		<item>
-			<title>Will A Pro-Vaccination Push By GOP Leaders Change The Minds Of Unvaccinated Americans?</title>
-			<link>https://fivethirtyeight.com/features/will-a-pro-vaccination-push-by-gop-leaders-change-the-minds-of-unvaccinated-americans/</link>
-						<dc:creator>Sarah Frostenson</dc:creator>
-			<dc:creator>A FiveThirtyEight Chat</dc:creator>
-			<category>COVID-19</category>
-			<category>COVID-19 Vaccine</category>
-			<category>Democrats</category>
-			<category>Donald Trump</category>
-			<category>Mitch McConnell</category>
-			<category>Republicans</category>
-			<category>Ron DeSantis</category>
-			<category>Slack Chat</category>
-			<category>Vaccination</category>
-			<description><![CDATA[<p data-paragraph="main">Welcome to FiveThirtyEight’s <a href="https://fivethirtyeight.com/tag/slack-chat/" target="_blank" rel="noopener">politics chat</a>. The transcript below has been lightly edited.</p>
-
-
-
-<div><hr><span></span></div>
-
-
-
-
-<p data-paragraph="main"><strong>sarah </strong>(<a href="https://fivethirtyeight.com/contributors/sarah-frostenson/" target="_blank" rel="noopener">Sarah Frostenson</a>, politics editor): With <a href="https://abcnews.go.com/Health/live-updates/covid-delta-variant-surge/?id=79058271" target="_blank" rel="noopener">the delta variant of the coronavirus surging</a> in the U.S. and COVID-19 cases and hospitalizations once again on the rise, there is <a href="https://www.al.com/news/2021/07/im-sorry-but-its-too-late-alabama-doctor-on-treating-unvaccinated-dying-covid-patients.html" target="_blank" rel="noopener">a renewed sense of urgency</a> that people get vaccinated — as the rate of vaccination <a href="https://www.nytimes.com/interactive/2020/us/covid-19-vaccine-doses.html" target="_blank" rel="noopener">has steadily ticked down since April</a>.</p>
-
-
-
-<p data-paragraph="main">Those who aren’t vaccinated <a href="https://apnews.com/article/coronavirus-pandemic-health-941fcf43d9731c76c16e7354f5d5e187" target="_blank" rel="noopener">are bearing the brunt of this latest COVID-19 surge</a>, as states with low vaccination rates, like Arkansas, Louisiana and Florida, have been <a href="https://www.nytimes.com/interactive/2021/us/covid-cases.html" target="_blank" rel="noopener">some of the worst hit areas</a>. Given that states with low vaccination rates often skew Republican, it has meant that some Republican leaders in those states have undertaken a sudden reversal <a href="https://www.axios.com/republicans-coronavirus-vaccines-resistance-trump-a02544f7-c3ee-443a-a2f7-ab9c83e86c98.html" target="_blank" rel="noopener">in how they talk about vaccination</a>. Former White House press secretary and Arkansas gubernatorial candidate Sarah Huckabee Sanders had previously kept a low profile on her vaccination status, but on Sunday she penned an editorial <a href="https://www.arkansasonline.com/news/2021/jul/25/the-reasoning-behind-getting-vaccinated/" target="_blank" rel="noopener">urging fellow Arkansans to join her in getting vaccinated</a>. House Minority Whip Steve Scalise of Louisiana <a href="https://www.nola.com/news/coronavirus/article_f569bf58-e970-11eb-8456-7ba1aef698cd.html" target="_blank" rel="noopener">received his first shot of the vaccine</a> earlier this month. Even the biggest on-air talents at Fox News, a network whose coverage of the vaccine has often been critical, have <a href="https://www.nytimes.com/2021/07/20/business/media/fox-news-covid-vaccines.html" target="_blank" rel="noopener">pushed for vaccination</a> in recent weeks.</p>
-
-
-
-<p data-paragraph="main">The question is: Is any of this enough to stop yet another deadly spike in the pandemic? To unpack this, let’s talk about what we know about people who are still unvaccinated, what the science says about vaccination and whether stronger messaging can make a difference.</p>
-
-
-
-<p data-paragraph="main">First, what do we know about people who are not yet vaccinated?</p>
-
-
-<p>Watch: https://abcnews.go.com/Health/video/people-hesitant-trust-covid-19-vaccine-74659883</p>
-
-
-<p data-paragraph="main"><strong>alex </strong>(<a href="https://fivethirtyeight.com/contributors/alex-samuels/" target="_blank" rel="noopener">Alex Samuels</a>, politics reporter): A poll conducted in mid-May by the <a href="https://www.kff.org/coronavirus-covid-19/poll-finding/kff-covid-19-vaccine-monitor-profile-of-the-unvaccinated/" target="_blank" rel="noopener">Kaiser Family Foundation</a> found the most common demographic profiles of unvaccinated Americans. Forty-one percent of this group was 30-to-49 years old, 49 percent identified as Republican (compared to 29 percent who identified as Democrats), 56 percent were white, 80 percent were without a college degree,<strong> </strong>56 percent were based in the suburbs and, surprisingly, 76 percent were insured. The study also found that unvaccinated Americans were more likely to be low-income than high-income.</p>
-
-
-
-<p data-paragraph="main">But of the unvaccinated group, there was a stark contrast between people who said they would “definitely not” get the vaccine versus those who plan to “wait and see”: The former group was mostly white (70 percent) and Republican (67 percent), and a plurality (48 percent) was 30-to-49 years old. The latter group, meanwhile, was a bit more diverse; 39 percent of the “wait and see” contingent were Democrats, and 41 percent were Republicans. Further, 22 percent of the hesitant group were Black adults, and 20 percent were Hispanic adults. Seventy-two percent of respondents in this group were between the ages of 18 and 49. </p>
-
-
-
-<p data-paragraph="main"><strong>maggie.koerth </strong>(<a href="https://fivethirtyeight.com/contributors/maggie-koerth/" target="_blank" rel="noopener">Maggie Koerth</a>, senior science writer):<strong> </strong>We also know that most people made their decisions months before the vaccine was available and have stuck to those choices. That same KFF polling found that only <a href="https://www.kff.org/coronavirus-covid-19/dashboard/kff-covid-19-vaccine-monitor-dashboard/concerns/concerns/messages/information#intentions" target="_blank" rel="noopener">one in five people</a> said they were hesitant or definitely not going to get the vaccine back in January and have now gotten vaccinated.</p>
-
-
-<div>
-	<p>
-		<a href="https://fivethirtyeight.com/features/where-marjorie-taylor-greenes-false-claim-about-covid-19-and-obesity-came-from/?cid=_inlinerelated"><img alt="Marjorie Taylor Greene sitting at a desk, gesturing and talking to someone off-camera." width="153" height="115" data-sizes="(min-width: 440px) 153px, 100vw" data-srcset="https://fivethirtyeight.com/wp-content/uploads/2021/07/GettyImages-1329768511-4x3-1.jpg?w=153&amp;quality=100&amp;strip=all 153w, https://fivethirtyeight.com/wp-content/uploads/2021/07/GettyImages-1329768511-4x3-1.jpg?w=306&amp;quality=100&amp;strip=all 306w, https://fivethirtyeight.com/wp-content/uploads/2021/07/GettyImages-1329768511-4x3-1.jpg?w=405&amp;quality=100&amp;strip=all 405w, https://fivethirtyeight.com/wp-content/uploads/2021/07/GettyImages-1329768511-4x3-1.jpg?w=810&amp;quality=100&amp;strip=all 810w"></a>
-	</p>
-	<p>
-				<strong>related:</strong>
-				Where Marjorie Taylor Greene’s False Claim About COVID-19 And Obesity Came From <a href="https://fivethirtyeight.com/features/where-marjorie-taylor-greenes-false-claim-about-covid-19-and-obesity-came-from/?cid=_inlinerelated">Read more. »</a>
-	</p>
-</div>
-
-
-
-<p data-paragraph="main"><strong>alex: </strong>There is also a geographic element to this.<strong> </strong>For example, researchers have found that vaccination rates are lagging in Southern states. An analysis by <a href="http://www.vaccinetracking.us/analysis.html" target="_blank" rel="noopener">researchers at Georgetown University</a> identified 30 clusters of counties nationwide with low vaccination rates and larger populations. The <a href="https://www.cbsnews.com/news/covid-vaccine-delta-variant-risk-areas/" target="_blank" rel="noopener">five most significant</a> of these clusters were in the South and Midwest and included portions of Florida, Georgia, Alabama, Mississippi, Louisiana, Arkansas, Missouri, Illinois, Oklahoma, Tennessee, Texas and New Mexico. </p>
-
-
-
-<p data-paragraph="main"><strong>geoffrey.skelley </strong>(<a href="https://fivethirtyeight.com/contributors/geoffrey-skelley/" target="_blank" rel="noopener">Geoffrey Skelley</a>, elections analyst):<strong> </strong>To Alex’s point about the “won’t get vaccinated” group being particularly likely to be Republican, <a href="https://docs.cdn.yougov.com/1aaz80mjhy/econTabReport.pdf" target="_blank" rel="noopener">the Economist/YouGov’s weekly poll</a> has found that since April, the share of adult Republicans who say they won’t get vaccinated hasn’t really budged — roughly 25 percent to 33 percent say each week that they “will not get vaccinated.”</p>
-
-
-
-<p data-paragraph="main">This is in line with polls from Democratic-aligned firms <a href="https://projects.fivethirtyeight.com/pollster-ratings/global-strategy-group-gbao-navigator-research/" target="_blank" rel="noopener">Global Strategy Group/GBAO (Navigator Research)</a> that have repeatedly found since January that the share of Republican registered voters who said they’re very unlikely to get the vaccine <a href="https://navigatorresearch.org/wp-content/uploads/2021/07/Navigator-Toplines-07.20.2021.pdf" target="_blank" rel="noopener">is about 30 percent</a>.</p>
-
-
-
-<p data-paragraph="main"><strong>alex: </strong>In June, <a href="https://morningconsult.com/2021/07/01/unvaccinated-americans-reasons/" target="_blank" rel="noopener">Morning Consult</a> conducted a poll asking unvaccinated Americans <em>why </em>they weren’t getting the vaccine. They found that the biggest reason was a lack of trust in the vaccine development process (26 percent of respondents), followed by concern over its safety/side effects (23 percent) and conspiracies theories and/or mistrust of drug companies and the government (10 percent).</p>
-
-
-
-<p data-paragraph="main"><strong>geoffrey.skelley: </strong>There have been a <a href="https://time.com/5957222/covid-vaccine-side-effects/" target="_blank" rel="noopener">lot of stories</a> about <a href="https://www.wired.com/story/they-claimed-the-covid-vaccine-made-them-sick-and-went-viral/" target="_blank" rel="noopener">people having negative reactions</a> to the vaccine, so I can see why concern about potential side effects might have dampened interest in getting vaccinated. And perhaps that is partly why younger age groups have been slow to catch up when it comes to the vaccine — if you’re worried about making ends meet, getting sick and missing work might put you off from seeking out the vaccine. After all, those making less money are also <a href="https://docs.cdn.yougov.com/vjfvegistz/20210715_yahoo_vaccine_tabs.pdf" target="_blank" rel="noopener">less likely to have gotten the vaccine</a>.</p>
-
-
-
-<p data-paragraph="main"><strong>maggie.koerth: </strong>Another thing that really stood out to me in the KFF polling, and that I haven’t seen discussed a lot, is that of the people who have yet to get vaccinated … a lot of them don’t really know HOW. </p>
-
-
-
-<p data-paragraph="main">A full 42 percent of unvaccinated Hispanic adults said <a href="https://www.kff.org/coronavirus-covid-19/dashboard/kff-covid-19-vaccine-monitor-dashboard/concerns/concerns/messages/messages/messages/messages/information" target="_blank" rel="noopener">they didn’t know whether they were eligible</a> — and 29 percent didn’t know where to go if they did want a vaccine. </p>
-
-
-
-<p data-paragraph="main"><strong>sarah: </strong>I was going to say, Maggie, vaccine access is still a really big issue. A <a href="http://unvaccinated/" target="_blank" rel="noopener">Public Religion Research Institute survey</a> conducted in June found that younger Americans and Black and Hispanic Americans are disproportionately likely to face barriers to vaccine access — like having the time to get vaccinated or reliable transportation to a vaccination site.</p>
-
-
-
-<p data-paragraph="main">It seems as if when discussing the unvaccinated there are two groups: 1) Those who refuse to even consider getting vaccinated; and 2) those who just aren’t sure or have concerns about getting vaccinated. Does that seem right? </p>
-
-
-
-<p data-paragraph="main"><strong>alex: </strong>I think so, Sarah. Among that second group, there is polling that shows that financial incentives, along with employers encouraging employees to get vaccinated, can increase people’s willingness to get vaccinated.</p>
-
-
-
-<p data-paragraph="main">Per Morning Consult, <a href="https://morningconsult.com/2021/05/13/covid-19-vaccine-incentives-penalties-poll/" target="_blank" rel="noopener">43 percent of unvaccinated U.S. adults</a> would “definitely” or “probably” get a COVID-19 shot if they received a small financial incentive, such as a $50 savings bond. And if the government offered a $1,000 savings bond, 57 percent of unvaccinated adults said they would be more likely to get inoculated.</p>
-
-
-
-<p data-paragraph="main">Meanwhile, the KFF poll found that <a href="https://www.kff.org/coronavirus-covid-19/press-release/workers-are-more-likely-to-get-a-covid-19-vaccine-when-their-employers-encourage-it-and-provide-paid-sick-leave-though-most-workers-dont-want-their-employers-to-require-it/" target="_blank" rel="noopener">73 percent of workers</a> whose employers encouraged a vaccine and 75 percent whose employers offered paid time off to do so have received at least one dose.</p>
-
-
-
-<p data-paragraph="main"><strong>maggie.koerth: </strong>Honestly, <a href="https://www.kff.org/coronavirus-covid-19/dashboard/kff-covid-19-vaccine-monitor-dashboard/" target="_blank" rel="noopener">I think the breakdown might be even more fragmented than that.</a> First, you have the people who absolutely won’t consider vaccination (some of whom have political reasons, some of whom have medical reasons, some both) and then you have the people who would consider vaccination but just haven’t gotten the shot yet. Those people’s reasons fall into multiple buckets though, too — medical concerns, access concerns and then concerns that are largely about power and trust in institutions, such as the government or pharmaceutical companies.</p>
-
-
-
-<p data-paragraph="main">It also looks like most people who are unvaccinated still have more than one reason for why they aren’t. It’s a lot of overlapping circles. </p>
-
-
-
-<p data-paragraph="main">And that doesn’t even address the (very small) group of people who are still like, “Oh I mean to do that ASAP,” but just haven’t. It’s like 3 percent. But they’re out there. </p>
-
-
-
-<p data-paragraph="main"><strong>sarah: </strong>There really are a lot of different reasons for why Americans are unvaccinated. But as we mentioned at the outset, the biggest distinction might still be between those who say they are hesitant about getting vaccinated and those who refuse to even consider getting vaccinated. </p>
-
-
-
-<p data-paragraph="main">According to PRRI’s June survey, vaccine holdouts are a pretty small portion of the population — 13 percent, although it’s important to reiterate that is a fairly steadfast group; that number is essentially unchanged from what PRRI found in March (14 percent).</p>
-
-
-
-<p data-paragraph="main">The good news here, though, is that the group of holdouts isn’t really growing. As more Americans get vaccinated, the share of Americans who are hesitant about getting vaccinated ticks down. Just 15 percent of Americans are hesitant versus 28 percent in March.</p>
-
-
-
-<p data-paragraph="main"><strong>maggie.koerth: </strong>That’s important because what we’re learning is that you can take the “wait and see” people at their word. If you’re tempted to write that off as a euphemism for “I don’t wanna but I don’t want to say that,” well, some of those people are really coming back and getting vaccinated after they waited and saw.</p>
-
-
-
-<p data-paragraph="main"><strong>sarah: </strong>Exactly, Maggie. The reasons <a href="https://www.nytimes.com/2021/07/24/us/covid-vaccine-hesitant.html" target="_blank" rel="noopener">people aren’t vaccinated, or just now getting vaccinated</a>, are really, really complicated.</p>
-
-
-
-<p data-paragraph="main">But OK, let’s talk about vaccination. The science isn’t really changing — <a href="https://www.cdc.gov/coronavirus/2019-ncov/vaccines/vaccine-benefits.html" target="_blank" rel="noopener">vaccines are effective in preventing severe cases of COVID-19</a>. But vaccination rates have still largely dropped off since April, and many parts of the county are nowhere near hitting <a href="https://www.npr.org/sections/health-shots/2021/07/05/1013080128/as-covid-vaccinations-slow-parts-of-the-u-s-remain-far-behind-70-goal" target="_blank" rel="noopener">Biden’s goal of having 70 percent of the population receive at least one dose</a> by the Fourth of July. Why?</p>
-
-
-
-<p data-paragraph="main"><strong>maggie.koerth: </strong>Well, I think one of the important things that all that polling data is telling us is that the WHY is not (or at least not purely) <a href="https://www.theatlantic.com/health/archive/2021/07/america-covid-19-vaccine-decline/619474/" target="_blank" rel="noopener">a political thing</a>. I’m seeing a tendency to make these very political assumptions about people who aren’t yet vaccinated. But if you look at what they are telling us about themselves … politics is part of the motivation for some — but not all.</p>
-
-
-
-<p data-paragraph="main">So there’s the actual polarization and anti-establishment sentiment driving vaccine refusal.</p>
-
-
-
-<p data-paragraph="main">But then there is the polarization of assumptions about what is driving vaccine refusal.</p>
-
-
-
-<p data-paragraph="main">And both are happening simultaneously.</p>
-
-
-<p>Watch: https://abcnews.go.com/fivethirtyeight/video/year-karaoke-fivethirtyeight-77653577</p>
-
-
-<p data-paragraph="main"><strong>alex: </strong>The New York Times had a really interesting article looking at how <a href="https://www.nytimes.com/2021/06/28/us/covid-vaccine-immunity.html" target="_blank" rel="noopener">young adults were one of the biggest barriers to herd immunity</a>. There wasn’t a clear-cut reason as to why, though things like difficulty in convincing young people they should be vaccinated or even misinformation surrounding the shot’s effect on fertility among that generation were floated as two potential culprits.</p>
-
-
-
-<p data-paragraph="main"><strong>geoffrey.skelley: </strong>Looking over the polling and <a href="https://covid.cdc.gov/covid-data-tracker/#vaccinations" target="_blank" rel="noopener">the actual vaccination data</a>, it’s clear that the share of older adults who are vaccinated is much higher, which makes sense. They are the ones most immediately in danger of dying from COVID-19, and as such <a href="https://fivethirtyeight.com/features/how-do-we-get-back-to-normal-fastest-prioritize-access-to-the-vaccine/" target="_blank" rel="noopener">were prioritized in the vaccine rollout process</a>. </p>
-
-
-
-<p data-paragraph="main">The problem for younger Americans is that as the country reopens, there may be less of an incentive for them to get the vaccine, especially given some of the barriers to access we discussed. Unfortunately, it might take another wave to spur some of those fence-sitters to get the vaccine.</p>
-
-
-
-<p data-paragraph="main"><strong>maggie.koerth: </strong>That’s a really good point, Geoffrey. One of the things that’s come up with the testing on kids younger than 12 is that <a href="https://www.clinicaltrialsarena.com/news/pfizer-lower-vaccine-children/" target="_blank" rel="noopener">you have to adjust the dosage</a>. Not just because smaller people need a different dosage than adults, but also since <a href="https://www.nytimes.com/2021/07/26/us/politics/covid-vaccine-trials-children.html" target="_blank" rel="noopener">their risks are much lower, their side-effect tolerance is different</a>. You’re working with a different risk/benefit calculation here.</p>
-
-
-
-<p data-paragraph="main">I mean, there have been <a href="https://www.nature.com/articles/d41586-021-01898-9" target="_blank" rel="noopener">debates among scientists</a> about <a href="https://www.webmd.com/vaccines/covid-19-vaccine/news/20210506/should-covid-shots-for-teens-go-to-developing-nations" target="_blank" rel="noopener">whether it even makes sense</a> to get vaccines to little kids in the U.S., given the risk/benefit calculation, vs. getting those vaccines to unvaccinated adults in countries where vaccine access has been more limited. </p>
-
-
-
-<p data-paragraph="main">Which is a long way around to saying that, yeah, younger people who are eligible for the vaccine are doing a different calculation in their heads than the elderly.</p>
-
-
-
-<p data-paragraph="main"><strong>sarah: </strong>As we’ve discussed, people’s decision to not get vaccinated is not purely political. How, though, did vaccination become so political? I want us to unpack this a little, as it seems especially important for understanding the vaccine holdouts, who, as we’ve discussed, overwhelmingly skew Republican and white. </p>
-
-
-
-<p data-paragraph="main"><strong>alex: </strong>COVID-19 was a partisan issue even before the vaccine rollout. Even during the beginning stages of the pandemic, Republicans were less likely than Democrats <a href="https://www.nytimes.com/2020/06/02/health/coronavirus-face-masks-surveys.html" target="_blank" rel="noopener">to want to wear masks</a> or <a href="https://www.vox.com/2020/7/29/21345228/liability-shield-mitch-mcconnell-republican-safe-to-work-act-gross-negligence" target="_blank" rel="noopener">impose business restrictions</a>.</p>
-
-
-
-<p data-paragraph="main"><strong>geoffrey.skelley: </strong>That’s right. From the very start, Republicans <a href="https://www.pewresearch.org/fact-tank/2020/07/22/republicans-remain-far-less-likely-than-democrats-to-view-covid-19-as-a-major-threat-to-public-health/" target="_blank" rel="noopener">have been less worried about COVID-19</a> than Democrats. That may have been related to a combination of messaging and opposition to government actions to combat the virus (like closing businesses and churches), but they have consistently been less likely <a href="https://morningconsult.com/views-on-the-pandemic/#section-10" target="_blank" rel="noopener">to view it as a severe health risk</a>. </p>
-
-
-
-<p data-paragraph="main">Religion also plays a factor in this. White evangelical Protestants, who <a href="https://www.pewresearch.org/politics/2021/06/30/behind-bidens-2020-victory/" target="_blank" rel="noopener">make up a sizable part of the GOP</a>, were the most likely to say they wouldn’t get the vaccine out of the religious and racial/ethnic groups PRRI’s survey examined — 24 percent of them said they would refuse to get vaccinated, essentially unchanged since PRRI’s March survey. <a href="https://religionnews.com/2021/05/14/survey-white-evangelicals-trust-fox-news-black-protestants-look-to-mainstream-networks/" target="_blank" rel="noopener">Distrust of mainstream media</a> and <a href="https://www.cnn.com/2021/04/14/us/covid-vaccine-evangelicals/index.html" target="_blank" rel="noopener">governing institutions</a>, which is also high among this group, likely plays into this as well. </p>
-
-
-
-<p data-paragraph="main"><strong>maggie.koerth: </strong>I’m curious about something that I wonder if you more-politics people have insight on: How much of the politicization of COVID-19 is a Democratic/Republican thing — that is, former President Donald Trump doesn’t think it’s a big deal, there’s a Democratic backlash to that, a Republican backlash to THAT — and how much is creeping anti-establishment sentiments in the U.S.? To be sure, that still takes on a political character that is heavily tied to the Republican Party, but I do think it exists in a sort of parallel track to Republicans and Democrats fighting against each other.</p>
-
-
-
-<p data-paragraph="main">I’ve struggled with what to call the sorta “Joe Rogan demographic” of COVID-19/vaccine/mask skeptics. Some are Republicans, but not all. Their shit is political. But not necessarily <em>party</em> political. I haven’t found a lot of polls that ask questions that get at this well.</p>
-
-
-
-<p data-paragraph="main"><strong>geoffrey.skelley: </strong>Part of this, Maggie, might have to do with trust in science generally — right after the pandemic started, the Pew Research Center found that Democrats were notably more likely than Republicans to <a href="https://www.pewresearch.org/science/2020/05/21/trust-in-medical-scientists-has-grown-in-u-s-but-mainly-among-democrats/" target="_blank" rel="noopener">trust medical scientists</a> — and scientists more generally — to act in the best interests of the public. It’s another partisan component, yes, but it also isn’t wrapped up entirely in Trump-this or that. Here, again, is a question about trust in institutions that have been major players in combating the virus — Republicans <a href="https://www.kff.org/coronavirus-covid-19/report/kff-health-tracking-poll-september-2020/" target="_blank" rel="noopener">have tended to have less trust</a> in the Centers for Disease and Control and Dr. Anthony Fauci, the director of the National Institute of Allergy and Infectious Diseases, who has played a key role in advising both the Trump and Biden administrations on how to handle the pandemic.</p>
-
-
-
-<p data-paragraph="main"><strong>sarah: </strong>It’s an interesting question, Maggie. I think you’re onto something. Natalie Jackson of PRRI wrote an article for us earlier this month that found that <a href="https://fivethirtyeight.com/features/the-extremes-of-the-gop-have-moved-beyond-fox-news/" target="_blank" rel="noopener">whether Republicans believed in QAnon or getting vaccinated</a> varied significantly based on their media diets. Republicans who watched Fox News were far more likely to have received at least one dose of the vaccine or would get the vaccine as soon as possible (54 percent) than those who turned to OANN or Newsmax (32 percent). </p>
-
-
-
-<p data-paragraph="main">It does seem as if we’re talking about a very extreme but small-ish slice of the Republican Party that falls into this hardcore anti-COVID-19 stance. Part of the problem, though, is that there haven’t really been many Republican leaders/elites pushing a pro-vaccination message from the outset. </p>
-
-
-
-<p data-paragraph="main">Imagine had Trump decided to get vaccinated in public. Instead, <a href="https://www.forbes.com/sites/roberthart/2020/12/18/trump-absent-as-vice-president-mike-pence-receives-covid-19-vaccine-live-on-camera/?sh=58b4665149bc" target="_blank" rel="noopener">it was then-Vice President Mike Pence who did it</a>, while Trump refused to say whether he’d get vaccinated. (He <a href="https://www.cnn.com/2021/03/01/politics/trump-melania-vaccinated-white-house/index.html" target="_blank" rel="noopener">since has, but off camera</a>.) We are now seeing some Republicans step forward and urge people to get vaccinated, but it still seems largely confined to more establishment Republicans like Senate Minority Leader Mitch McConnell.</p>
-
-
-<div>
-	<p>
-		<a href="https://fivethirtyeight.com/features/the-extremes-of-the-gop-have-moved-beyond-fox-news/?cid=_inlinerelated"><img alt="An orange CRT TV set with the logos for Fox News, NewsMax, and OANN smattered on the screen." width="153" height="115" data-sizes="(min-width: 440px) 153px, 100vw" data-srcset="https://fivethirtyeight.com/wp-content/uploads/2021/07/NEWSMAX-4x3-1.png?w=153&amp;quality=100&amp;strip=all 153w, https://fivethirtyeight.com/wp-content/uploads/2021/07/NEWSMAX-4x3-1.png?w=306&amp;quality=100&amp;strip=all 306w, https://fivethirtyeight.com/wp-content/uploads/2021/07/NEWSMAX-4x3-1.png?w=405&amp;quality=100&amp;strip=all 405w, https://fivethirtyeight.com/wp-content/uploads/2021/07/NEWSMAX-4x3-1.png?w=810&amp;quality=100&amp;strip=all 810w"></a>
-	</p>
-	<p>
-				<strong>related:</strong>
-				Whether Republicans Get Vaccinated Has A Lot To Do With If They Watch Fox News … Or OANN <a href="https://fivethirtyeight.com/features/the-extremes-of-the-gop-have-moved-beyond-fox-news/?cid=_inlinerelated">Read more. »</a>
-	</p>
-</div>
-
-
-
-<p data-paragraph="main"><strong>alex: </strong>Other, more Trumpy Republicans, <a href="https://apnews.com/article/joe-biden-health-government-and-politics-coronavirus-pandemic-03e6b17b205b18067c05e07b77dc2e04" target="_blank" rel="noopener">like Florida Gov. Ron DeSantis</a>, have done so, too. And he’s not the only Republican governor encouraging vaccinations: Alabama Gov. Kay Ivey <a href="https://www.nytimes.com/video/us/politics/100000007884087/alabama-governor-coronavirus-unvaccinated.html" target="_blank" rel="noopener">had strong words</a> for unvaccinated people. </p>
-
-
-
-<p data-paragraph="main"><strong>geoffrey.skelley: </strong>I think the jury is still out on whether Republican leaders will continue their highly public encouragements to get vaccinated. Politicians also respond to their bases, and there’s a significant chunk of the GOP base that is pretty anti-COVID-19 vaccine right now.</p>
-
-
-
-<p data-paragraph="main">Elites <a href="https://www.cambridge.org/core/journals/american-political-science-review/article/abs/elite-influence-on-public-opinion-in-an-informed-electorate/7A5185F2D31929DC547F735F8F3F9DB5" target="_blank" rel="noopener">can lead on public opinion</a>, but recently it’s felt, at times, like the GOP is <a href="https://fivethirtyeight.com/features/why-the-republican-party-isnt-rebranding-after-2020/" target="_blank" rel="noopener">more inclined to follow the party base</a>.</p>
-
-
-
-<p data-paragraph="main"><strong>alex: </strong>I agree with you there, Geoff. It might be too early to say definitively whether various GOP officials’ push for vaccines will <a href="https://www.washingtonpost.com/opinions/2021/07/25/republicans-unleashed-deadly-vaccine-skepticism-can-they-now-contain-it/" target="_blank" rel="noopener">have any impact on Americans</a> who are hesitant to get vaccinated. I mean, even Trump couldn’t do much. </p>
-
-
-
-<p data-paragraph="main">The CBS News team <a href="https://www.cbsnews.com/news/covid-vaccine-hesitancy-presidential-encouragement/" target="_blank" rel="noopener">ran an experiment in March</a> testing whether Trump or Biden could influence people’s willingness to get vaccinated. And one big takeaway on the Republican side was that Trump’s encouragement didn’t persuade Republicans who outright said “no,” although he did seem to move some Republicans who were on the fence.</p>
-
-
-
-<p data-paragraph="main"><strong>sarah: </strong>Not to mention, it seems as if there might be yet another backlash brewing, which could complicate this nascent GOP vaccination push. And that is, <a href="https://www.cnbc.com/2021/07/21/covid-local-officials-across-us-are-starting-to-reimpose-mask-rules-as-delta-variant-takes-hold.html" target="_blank" rel="noopener">states are considering reinstating mask mandates</a> given the spread of the delta variant. In fact, the CDC recommended on Tuesday that <a href="https://www.nytimes.com/2021/07/27/health/cdc-masks-indoors-delta-variant.html" target="_blank" rel="noopener">some vaccinated people wear masks indoors</a>. This will likely renew efforts among Republican lawmakers to <a href="https://www.pewtrusts.org/en/research-and-analysis/blogs/stateline/2021/06/17/more-states-rein-in-governors-emergency-powers" target="_blank" rel="noopener">limit the emergency powers of governors</a> and/or to limit vaccination mandates that companies and various government agencies have implemented. (Gov. Mike DeWine of Ohio is an example of a Republican whose own party <a href="https://www.nbcnews.com/politics/elections/ohio-republicans-defy-their-governor-limiting-his-power-manage-pandemic-n1261989" target="_blank" rel="noopener">voted to limit his power to issue public health orders</a> earlier this year.) </p>
-
-
-
-<p data-paragraph="main"><strong>maggie.koerth: </strong>I’m working on a story about this, and I’m waiting for the newest data, but at least 15 state legislatures <a href="https://www.networkforphl.org/resources/proposed-limits-on-public-health-authority-dangerous-for-public-health/" target="_blank" rel="noopener">have proposed such laws</a> as of May. It’s probably even more now, and several states have passed these measures. </p>
-
-
-
-<p data-paragraph="main">What’s interesting about these laws is that they’re both specific — meant to address things people didn’t like about the particular ways the COVID-19 response played out — and often broad. Some could affect emergency powers even in non-pandemic disasters like wildfires and tornadoes, for instance.</p>
-
-
-
-<p data-paragraph="main">And some of these laws are ALREADY getting in the way of emergency responses. In Arkansas, where <a href="https://www.nytimes.com/interactive/2021/us/arkansas-covid-cases.html" target="_blank" rel="noopener">only 36 percent of people are fully vaccinated</a>, cases, hospitalizations and deaths are rapidly rising. But both the governor and local city governments are now <a href="https://apnews.com/article/business-science-health-arkansas-coronavirus-pandemic-db3b9d141319c5a828d79a44196fe891" target="_blank" rel="noopener">prevented from instituting masking requirements</a> of any kind. School boards have petitioned the governor and legislator to change the law so that they can require masks in schools. And on Monday, the governor said he’d be meeting with GOP legislators this week to discuss changes like that.</p>
-
-
-
-<p data-paragraph="main"><strong>geoffrey.skelley: </strong>I am just not confident Americans will be inclined to go back to staying inside again — even if there’s a major uptick in COVID-19 cases due to the delta variant. We’ve talked a lot about those who are hesitant or vaccine holdouts, but a majority of adults got the vaccine in the U.S. and are ready to get back to normal. An Axios/Ipsos poll from June, for instance, <a href="https://www.axios.com/axios-ipsos-poll-vaccine-july-4-eb4c37de-bac5-4141-a994-bf8ce6322185.html" target="_blank" rel="noopener">suggested that far fewer people were willing to self-quarantine or stay inside</a> than last year, even though people were concerned about the delta variant. </p>
-
-
-
-<p data-paragraph="main"><strong>sarah:</strong> It certainly does seem as if this isn’t the last chapter, by any means, in how the pandemic will play out in the U.S.</p>
-
-
-<p>Watch: https://abcnews.go.com/Health/video/covid-19-vaccines-work-74654465</p>
-
-<p>Watch: https://abcnews.go.com/Politics/video/interview-dr-anthony-fauci-fivethirtyeight-71701388</p>]]></description>
-			<pubDate>Wed, 28 Jul 2021 11:00:00 +0100</pubDate>
-			<guid isPermaLink="false">1627469101836051</guid>
-		</item>
-		<item>
-			<title>How A Special Election In Texas’s 6th District Tested Trump’s Influence On The GOP</title>
-			<link>https://fivethirtyeight.com/features/how-a-special-election-in-texass-6th-district-will-test-trumps-influence-on-the-gop/</link>
-						<dc:creator>Alex Samuels</dc:creator>
-			<dc:creator>Alex Samuels</dc:creator>
-			<category>2021 Elections</category>
-			<category>Donald Trump</category>
-			<category>Texas Politics</category>
-			<description><![CDATA[<p data-paragraph="main"><strong>UPDATE (July 28, 2021, 7:46 a.m.): </strong>On Tuesday, Republican state Rep. Jake Ellzey handily defeated longtime GOP activist Susan Wright <a href="https://www.nytimes.com/interactive/2021/07/27/us/elections/results-texas-house-district-6-special-runoff.html" target="_blank" rel="noopener">by nearly 7 percentage points</a> in a special election runoff for control of Texas’s 6th District. With Ellzey and Wright running on nearly identical platforms, the race was largely viewed as a test of former President Donald Trump’s endorsement power — he backed Wright in April, days ahead of the initial blanket primary when Republicans closed out Democrats in the 23-way race. </p>
-
-
-
-<p data-paragraph="main">It’s hard to say what this means for Trump’s endorsement power ahead of the 2022 midterms — it’s one low-turnout special election — but it is a reminder that a Trump-backed candidate <a href="https://fivethirtyeight.com/features/almost-everyone-trump-endorses-wins-their-primary-but-is-he-padding-his-record/" target="_blank" rel="noopener">isn’t always a sure thing</a>.</p>
-
-
-
-<div><hr><span></span></div>
-
-
-
-
-<p data-paragraph="main">Ideologically, <a href="https://susanwrightforcongress.com/issues/" target="_blank" rel="noopener">Susan Wright</a> and <a href="https://www.ellzeyfortexas.com/issues" target="_blank" rel="noopener">Jake Ellzey</a> have a lot in common. For starters, the first three priorities on their respective campaign websites are identical: defending the Second Amendment, opposing abortion rights and strengthening the U.S.-Mexico border. Both also claim that President Biden and his administration are promoting immigation among undocumented migrants and, echoing former President Trump’s <a href="https://www.washingtonpost.com/politics/trump-election-voter-trust/2020/12/20/00282aa6-407a-11eb-8db8-395dedaaa036_story.html" target="_blank" rel="noopener">false claims of election fraud</a>, call for more restrictive voting laws. Overall, both candidates tout their conservative bona fides as a reason why they should represent Texas’s 6th Congressional District.</p>
-
-
-
-<p data-paragraph="main">Where the two really differ is in their respective endorsements. Ellzey, a state House representative and retired Navy fighter pilot, has the support of former <a href="https://www.facebook.com/watch/?v=1131517827366617" target="_blank" rel="noopener">Texas Gov. Rick Perry</a>, who also served as energy secretary under Trump. And Wright, a longtime GOP activist and the widow of Ron Wright, the late congressman of the district <a href="https://www.texastribune.org/2021/02/08/texas-ron-wright-dies/" target="_blank" rel="noopener">who died in February</a> after contracting COVID-19, <a href="https://www.texastribune.org/2021/04/28/donald-trump-susan-wright-texas-special-election/" target="_blank" rel="noopener">has the backing of Trump</a> himself.</p>
-
-
-
-<p data-paragraph="main">It’s not clear, though, how much that endorsement will matter to voters during Tuesday’s runoff election, when they decide which of the two candidates should represent them in Congress. That’s because Texas’s 6th District — which includes parts of Tarrant, Ellis and Navarro counties — has been trending away from Republicans in recent years. While 2012 Republican presidential candidate Mitt Romney <a href="https://www.dailykos.com/stories/2020/11/19/1163009/-Daily-Kos-Elections-presidential-results-by-congressional-district-for-2020-2016-and-2012" target="_blank" rel="noopener">carried the district by about 17 points</a>, Trump won it by roughly 12 points in 2016 and only 3 points in 2020. </p>
-
-
-
-<p data-paragraph="main">That said, most indicators lean in Wright’s favor.</p>
-
-
-
-<p data-paragraph="main">There hasn’t been a good, independent poll of the district since the initial blanket primary — <a href="https://fivethirtyeight.com/features/everything-you-need-to-know-about-the-special-election-in-texass-6th-district/" target="_blank" rel="noopener">a 23-way race</a> — took place on May 1. In early June, Wright’s campaign <a href="https://mcusercontent.com/84c8faf48625b2f334ce6f14f/files/9dc866c0-2d8b-6bfd-d259-9d8ae6961254/Susan_Wright_for_Congress_IP_Memo_June21.pdf" target="_blank" rel="noopener">released an internal poll</a> by American Viewpoint that had her leading Ellzey 49 percent to 34 percent, with 11 percent of voters undecided. <a href="https://mcusercontent.com/84c8faf48625b2f334ce6f14f/files/171856ba-1fd9-5980-1fd8-54bf66be22ee/Susan_Wright_for_Congress_IP_Memo_July21.pdf" target="_blank" rel="noopener">Another internal poll</a> by the same firm released by the Wright campaign on Thursday found a similar result: Wright led Ellzey by 10 points, with 12 percent of voters undecided. </p>
-
-
-
-<p data-paragraph="main">House races are <a href="https://fivethirtyeight.com/features/the-death-of-polling-is-greatly-exaggerated/" target="_blank" rel="noopener">notoriously hard to poll</a>, and we’d advise you take internal polls with a grain of salt, but Wright did also outperform Ellzey in the May 1 primary. Wright <a href="https://www.washingtonpost.com/elections/election-results/texas-2021/" target="_blank" rel="noopener">came in first place</a> with 19.2 percent of the vote compared to Ellzey’s 13.8 percent. And it does appear that Trump’s endorsement played a role in the results. His public statement of support <a href="https://www.texastribune.org/2021/04/26/texas-congress-special-election-donald-trump-endorsement/" target="_blank" rel="noopener">came on the second-to-last day</a> of early voting, and per the <a href="https://cookpolitical.com/analysis/house/texas-house/tx-06-runoff-can-fighter-pilot-overcome-trump-endorsement" target="_blank" rel="noopener">Cook Political Report’s analysis</a> of election day ballots versus early votes, Wright and Ellzey were essentially tied during the early voting period, but Wright had nearly double the support among voters who cast their ballots on election day — 25 percent to 11 percent.</p>
-
-
-
-<p data-paragraph="main">But if Wright has any weakness right now, it’s her paltry fundraising numbers. According to her <a href="https://docquery.fec.gov/cgi-bin/forms/C00770420/1527201/" target="_blank" rel="noopener">latest federal filing</a>, Wright raised $450,668 between April 12 and July 7 — just over one-third of <a href="https://docquery.fec.gov/cgi-bin/forms/C00770438/1527490/" target="_blank" rel="noopener">Ellzey’s $1.22 million haul</a>. Ellzey also ended the period with $484,940 cash on hand versus the $164,101 Wright had. But Wright is getting a hefty boost from outside groups, including the Club for Growth and <a href="https://docquery.fec.gov/cgi-bin/forms/C00662221/1523174/" target="_blank" rel="noopener">House Freedom Action</a>. In late June, the Club for Growth <a href="https://www.texastribune.org/theblast/2021/06/29/#club-growth-launches-tv-ads-susan-wright-tx-6-runo" target="_blank" rel="noopener">launched a $228,000 TV ad buy</a> promoting Wright’s endorsement from Trump that ran on Fox News and satellite TV. On top of that, the group said it planned to spend $150,000 on door-knocking. And in advance of Tuesday’s election, Trump’s Make America Great Action PAC <a href="https://docquery.fec.gov/cgi-bin/forms/C00771477/1530268/se" target="_blank" rel="noopener">spent another $100,000</a> on an ad campaign boost for Wright. </p>
-
-
-
-<p data-paragraph="main">In addition to Trump, though, Wright has also been bolstered by a number of high-profile Republicans, including Sen. <a href="https://www.star-telegram.com/news/politics-government/article252102983.html" target="_blank" rel="noopener">Ted Cruz</a> from Texas and Rep. <a href="https://elevate-pac.com/2021/03/26/congresswoman-elise-stefaniks-e-pac-endorses-susan-wright-tx-06-as-rising-star-candidate-for-congress/" target="_blank" rel="noopener">Elise Stefanik</a> of New York. But that might not matter as much as Trump’s backing because if recent elections and statewide efforts to restrict voting have taught us anything, it’s that <a href="https://www.washingtonpost.com/politics/2021/06/11/how-republican-party-became-party-trump/" target="_blank" rel="noopener">Trump still rules the GOP</a>.</p>
-
-
-
-<p data-paragraph="main">Ahead of the 2022 midterms, Trump has made clear his intentions to get involved in competitive primary races to help Republicans <a href="https://www.reuters.com/world/us/trump-tells-republican-donors-hell-help-win-congress-2022-2021-04-11/" target="_blank" rel="noopener">win back Congress</a> and weed out candidates who <a href="https://abcnews.go.com/Politics/trumps-influence-looms-gop-recapture-congress-2022/story?id=76348665" target="_blank" rel="noopener">are not in lockstep with his views</a>. He issued at least two recent statements of support for Wright, one last week calling her “outstanding” and reiterating she has his “complete and total endorsement,” and another on Monday saying she will “never let you down!” He also <a href="https://twitter.com/SusanWrightTX6/status/1419397692699127810" target="_blank" rel="noopener">recently participated</a> in a robocall for Wright and held a <a href="https://twitter.com/PatrickSvitek/status/1419421542740635651" target="_blank" rel="noopener">tele-rally for Wright</a> yesterday evening, according to The Texas Tribune. Meanwhile, Wright has continued <a href="https://twitter.com/PatrickSvitek/status/1405218863642558464" target="_blank" rel="noopener">to tout Trump’s support</a> on her campaign website. And with the backing of the Club for Growth, he two have painted Ellzey as being <a href="https://www.dallasnews.com/news/politics/2021/07/21/rick-perry-says-donald-trump-was-fed-a-bill-of-goods-before-backing-susan-wright-over-jake-ellzey/" target="_blank" rel="noopener">at odds with Trump</a> and soft on border security. In one mail ad, for instance, Wright’s campaign highlighted <a href="https://www.youtube.com/watch?v=QBiR2q0aH1Q" target="_blank" rel="noopener">Ellzey’s opposition</a> to a spending bill Trump signed in 2018. The former president, for his part, has also <a href="https://www.texasmonthly.com/news-politics/trump-effect-susan-wright-jake-ellzey/" target="_blank" rel="noopener">bragged</a> during a tele-town hall before the May primary that he and the Club for Growth have “never had a loss together.”</p>
-
-
-
-<p data-paragraph="main">Various Republicans, including Rep. Joe Barton, who represented the 6th District for <a href="https://www.texastribune.org/2017/11/30/joe-barton-retire-congress/" target="_blank" rel="noopener">over three decades</a>, <a href="https://www.dallasnews.com/news/politics/2021/07/19/joe-barton-backs-jake-ellzey-over-susan-wright-in-district-6-runoff-for-his-old-seat/" target="_blank" rel="noopener">have chided Wright’s team</a> for lying about Ellzey’s record. Ellzey, meanwhile, has also tried to defend himself from such attacks. He recently released a YouTube video <a href="https://www.youtube.com/watch?v=_9hmyqYJMtc&amp;feature=youtu.be" target="_blank" rel="noopener">showcasing Trump supporters</a> who were backing his campaign and earned the endorsement of Houston-area Rep. Dan Crenshaw, <a href="http://fb.watch/6q15Vcgb13/" target="_blank" rel="noopener">who commented</a> that Wright was running a “dishonest” campaign. </p>
-
-
-
-<p data-paragraph="main">Tuesday’s runoff will undoubtedly be viewed as a test for how Trump-endorsed candidates fare against fellow conservatives who have similar policy plans, but lack the former president’s backing. In the immediate future, though, whoever wins will only have a few months in office before having to start his or her next campaign since the seat is up for reelection again in 2022.<strong> </strong>(It’s not yet clear whether national Democrats will make a play for the seat after <a href="https://www.politico.com/news/2021/05/02/texas-special-election-too-close-to-call-but-gop-on-verge-of-lockout-win-485194" target="_blank" rel="noopener">sitting out the primary</a>; in May, Democrat Jana Lynne Sanchez failed to make the runoff after coming <a href="https://www.washingtonpost.com/elections/election-results/texas-2021/" target="_blank" rel="noopener">less than 400 votes</a> behind Ellzey.)</p>
-
-
-
-<p data-paragraph="main">Beyond testing Trump’s endorsement power, the race is also notable because Wright’s win could be history-making. Should she prevail, Wright would push the <a href="https://www.pewresearch.org/fact-tank/2021/01/15/a-record-number-of-women-are-serving-in-the-117th-congress/" target="_blank" rel="noopener">record number</a> of <a href="https://cawp.rutgers.edu/women-us-house-representatives-2021" target="_blank" rel="noopener">Republican women in the House</a> to 32. Moreover, this could be the second time this year where a politician’s wife succeeded him following a tragedy. In Louisiana, Julia Letlow, a Republican, <a href="https://fivethirtyeight.com/features/what-to-watch-in-louisianas-two-special-elections/" target="_blank" rel="noopener">won the special election</a> to replace her late husband Luke, who won his 2020 race but <a href="https://www.cnn.com/2020/12/29/politics/luke-letlow-died-covid/index.html" target="_blank" rel="noopener">died in December</a> after being diagnosed with COVID-19. </p>]]></description>
-			<pubDate>Tue, 27 Jul 2021 11:00:00 +0100</pubDate>
-			<guid isPermaLink="false">1627383601396031</guid>
 		</item>
 
 	</channel>
