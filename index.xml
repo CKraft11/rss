@@ -3,8 +3,8 @@
 		<title>Main stream | FreshRSS</title>
 		<link>http://radon</link>
 		<description>RSS feed of Main stream | FreshRSS</description>
-		<pubDate>Thu, 12 Aug 2021 22:59:06 +0100</pubDate>
-		<lastBuildDate>Thu, 12 Aug 2021 21:59:06 GMT</lastBuildDate>
+		<pubDate>Thu, 12 Aug 2021 23:29:06 +0100</pubDate>
+		<lastBuildDate>Thu, 12 Aug 2021 22:29:06 GMT</lastBuildDate>
 		<atom:link href="http://radon/i/?a=rss" rel="self" type="application/rss+xml" />
 		<item>
 			<title>What If The House Of Representatives Had More Than 435 Seats?</title>
@@ -585,7 +585,17 @@
 
 
 
-<p data-paragraph="main">But despite some states losing seats while others pick them up, the reapportionment process is itself now fairly mundane. That wasn’t always the case, though. </p>
+<p data-paragraph="main">But despite some states losing seats while others pick them up, the reapportionment process is itself now fairly mundane. That wasn’t always the case, though.</p>
+
+
+<div>
+	<p>
+		<a href="https://projects.fivethirtyeight.com/435-representatives/"><img alt="Photo illustration of the U.S. Capitol building" width="153" height="115" data-sizes="(min-width: 440px) 153px, 100vw" data-srcset="https://fivethirtyeight.com/wp-content/uploads/2021/08/435-16x9-1.png?w=153&amp;quality=100&amp;strip=all 153w, https://fivethirtyeight.com/wp-content/uploads/2021/08/435-16x9-1.png?w=306&amp;quality=100&amp;strip=all 306w, https://fivethirtyeight.com/wp-content/uploads/2021/08/435-16x9-1.png?w=405&amp;quality=100&amp;strip=all 405w, https://fivethirtyeight.com/wp-content/uploads/2021/08/435-16x9-1.png?w=810&amp;quality=100&amp;strip=all 810w"></a>
+	</p>
+	<p>
+				See Also: <a href="https://projects.fivethirtyeight.com/435-representatives/">What If The House Of Representatives Had More Than 435 Seats? »</a>
+	</p>
+</div>
 
 
 
@@ -596,6 +606,8 @@
 
 <p data-paragraph="main">On the one hand, it’s probably a good thing that Congress is no longer debating the size of the House every 10 years. After all, the reason we have the 1929 Permanent Apportionment Act in the first place is that Congress <a href="https://datasociety.net/wp-content/uploads/2021/04/House-Arrest-Dan-Bouk.pdf" target="_blank" rel="noopener">was unable to reach an agreement</a> on how to reapportion the House for nearly a decade.</p>
 
+
+<p>Watch: https://abcnews.go.com/fivethirtyeight/video/bidens-approval-rating-fallen-fivethirtyeight-politics-podcast-79388894</p>
 
 
 <p data-paragraph="main">On the other hand, the fact that the size of the House hasn’t increased in more than a century is a real problem for our democracy. For starters, there is an ever wider gulf between Americans and their representatives, as the average number of people represented in a district has more than tripled, from about 210,000 in 1910 to about 760,000 in 2020.<a data-footnote-id="3" href="https://fivethirtyeight.com/wp-json/wp/v2/espn_verticals/398#fn-3" data-footnote-content='&lt;p&gt;&lt;p&gt;Throughout this piece, we’ll often refer to census years as the time when the House was reapportioned for simplicity’s sake. But historically, Congress has &lt;a href="https://www.census.gov/history/www/reference/apportionment/apportionment_legislation_1790_-_1830.html" target="_blank" rel="noopener"&gt;usually passed apportionment acts&lt;/a&gt; in the year or two &lt;em&gt;after&lt;/em&gt; the census was released, but still in time for elections ahead of the next Congress.&lt;/p&gt;
@@ -644,6 +656,8 @@
 <p data-paragraph="main">The lack of consensus on how to reapportion the House meant that by the late 1920s, reapportionment had dragged on for nearly a decade and had <a href="https://www.jstor.org/stable/25110586" target="_blank" rel="noopener">all the makings of a constitutional crisis</a>. “The issue began to come to a head as the 1928 election loomed,” said Anderson of the University of Wisconsin-Milwaukee. “Because the realization was, we’ve got the Electoral College apportioned on the basis of the 1910 census, and if the popular vote and the electoral vote diverge, it’s because we didn’t reapportion.”</p>
 
 
+<p>Watch: https://abcnews.go.com/fivethirtyeight/video/cuomo-resigning-now-fivethirtyeight-politics-podcast-79389991</p>
+
 
 <p data-paragraph="main">Fortunately for electoral legitimacy, Republican Herbert Hoover won both the popular and electoral vote <a href="https://uselectionatlas.org/RESULTS/national.php?year=1928&amp;f=0&amp;off=0&amp;elect=0" target="_blank" rel="noopener">in the 1928</a> presidential election. Having served from 1921 to 1928 as secretary of commerce, which oversees the Census Bureau, he was especially cognizant of Congress’s apportionment failure. In April 1929, Hoover called a special session of Congress, where one of the main focuses was apportionment, and by June, legislation had passed both the House and Senate and was signed by Hoover. The law, the Apportionment Act of 1929, created what we know as the “automatic” reapportionment process today. It capped the number of House seats at 435 and moved the responsibility of determining the seat count from Congress to the president — an early example of <a href="https://today.law.harvard.edu/feature/presidential-power-surges/" target="_blank" rel="noopener">Congress giving away power</a> to the executive branch.<a data-footnote-id="6" href="https://fivethirtyeight.com/wp-json/wp/v2/espn_verticals/398#fn-6" data-footnote-content='&lt;p&gt;&lt;p&gt;This is why even now the secretary of commerce &lt;a href="https://uscode.house.gov/view.xhtml?req=(title:13%20section:141%20edition:prelim)%20OR%20(granuleid:USC-prelim-title13-section141)&amp;amp;f=treesort&amp;amp;edition=prelim&amp;amp;num=0&amp;amp;jumpTo=true" target="_blank" rel="noopener"&gt;reports apportionment figures&lt;/a&gt; to the president, who then transmits that information to Congress.&lt;/p&gt;
 &lt;/p&gt;'><sup>6</sup></a></p>
@@ -676,6 +690,17 @@
 
 
 <p data-paragraph="main">This staggering gap makes it far more likely for states to end up with wildly unequal district populations thanks to the Constitution’s requirement that each state have at least one congressional district. The Supreme Court requires districts to have equal populations, but this applies only to the districts within a state — not between states. So even though the average House district will have just over 760,000 people after this round of reapportionment, each state’s average district will vary quite a bit, especially as states get smaller in size.</p>
+
+
+<div>
+	<p>
+		<a href="https://fivethirtyeight.com/features/advantage-gop/?cid=_inlinerelated"><img alt="An illustration of an elephant and a donkey playing tennis on top of a leaning stack of books. The books’ spines are labeled “Supreme Court,” “State Legislature,” “Electoral College,” “Senate,” and “House of Representatives.”" width="153" height="115" data-sizes="(min-width: 440px) 153px, 100vw" data-srcset="https://fivethirtyeight.com/wp-content/uploads/2021/04/MINORITY-RULE-4x3-1.png?w=153&amp;quality=100&amp;strip=all 153w, https://fivethirtyeight.com/wp-content/uploads/2021/04/MINORITY-RULE-4x3-1.png?w=306&amp;quality=100&amp;strip=all 306w, https://fivethirtyeight.com/wp-content/uploads/2021/04/MINORITY-RULE-4x3-1.png?w=405&amp;quality=100&amp;strip=all 405w, https://fivethirtyeight.com/wp-content/uploads/2021/04/MINORITY-RULE-4x3-1.png?w=810&amp;quality=100&amp;strip=all 810w"></a>
+	</p>
+	<p>
+				<strong>related:</strong>
+				Advantage, GOP <a href="https://fivethirtyeight.com/features/advantage-gop/?cid=_inlinerelated">Read more. »</a>
+	</p>
+</div>
 
 
 
@@ -870,6 +895,17 @@
 &lt;/p&gt;"><sup>11</sup></a> It’s also the case that some countries like Germany, Italy and the U.K. may actually be <em>overrepresented</em> in their lower chambers — for instance, the U.K.’s House of Commons has 650 seats, well more than the expected 404 seats.</p>
 
 
+<div>
+	<p>
+		<a href="https://fivethirtyeight.com/features/why-the-two-party-system-is-wrecking-american-democracy/?cid=_inlinerelated"><img alt="An illustration of a wrecking ball breaking down a brick wall that looks like the American flag." width="153" height="115" data-sizes="(min-width: 440px) 153px, 100vw" data-srcset="https://fivethirtyeight.com/wp-content/uploads/2021/06/DEMOCRACY-EFFED-4x3-1.png?w=153&amp;quality=100&amp;strip=all 153w, https://fivethirtyeight.com/wp-content/uploads/2021/06/DEMOCRACY-EFFED-4x3-1.png?w=306&amp;quality=100&amp;strip=all 306w, https://fivethirtyeight.com/wp-content/uploads/2021/06/DEMOCRACY-EFFED-4x3-1.png?w=405&amp;quality=100&amp;strip=all 405w, https://fivethirtyeight.com/wp-content/uploads/2021/06/DEMOCRACY-EFFED-4x3-1.png?w=810&amp;quality=100&amp;strip=all 810w"></a>
+	</p>
+	<p>
+				<strong>related:</strong>
+				Why The Two-Party System Is Effing Up U.S. Democracy <a href="https://fivethirtyeight.com/features/why-the-two-party-system-is-wrecking-american-democracy/?cid=_inlinerelated">Read more. »</a>
+	</p>
+</div>
+
+
 
 <p data-paragraph="main">According to Shugart, the reason why representation in countries’ lower chambers is often so close to the cube root of their populations is that the legislators must strike a balance between communicating with one another and their constituents. “It is about finding what is the optimal size,” he said. And in many countries, that seems to be roughly the cube root of a country’s population.</p>
 
@@ -903,7 +939,12 @@
 
 
 
-<p data-paragraph="main">“It’s going to be difficult to increase the size of the House of Representatives; I’m under no illusions,” said Frederick of Bridgewater State University. Nevertheless, it may be time for a change given how unequal districts have become between states and how underrepresented Americans are after more than 100 years of being stuck at 435 House members. Said Frederick, “There’s no doubt that a larger House with smaller constituency population size per district would improve the representational quality that citizens receive from members of Congress.”</p>]]></description>
+<p data-paragraph="main">“It’s going to be difficult to increase the size of the House of Representatives; I’m under no illusions,” said Frederick of Bridgewater State University. Nevertheless, it may be time for a change given how unequal districts have become between states and how underrepresented Americans are after more than 100 years of being stuck at 435 House members. Said Frederick, “There’s no doubt that a larger House with smaller constituency population size per district would improve the representational quality that citizens receive from members of Congress.”</p>
+
+
+<p>Watch: https://abcnews.go.com/fivethirtyeight/video/anti-establishment-sentiment-ballot-parties-week-79248883</p>
+
+<p>Watch: https://abcnews.go.com/fivethirtyeight/video/covid-19-cases-rising-americans-thoughts-steps-fivethirtyeight-79188933</p>]]></description>
 			<pubDate>Thu, 12 Aug 2021 11:00:00 +0100</pubDate>
 			<guid isPermaLink="false">1628766001622788</guid>
 		</item>
@@ -927,7 +968,10 @@
 
 
 
-<ul><li>“<a href="https://fivethirtyeight.com/wp-json/wp/v2/espn_verticals/398#around-long-enough">The vaccine hasn’t been around long enough for me to know it’s safe.</a>” </li><li>“<a href="https://fivethirtyeight.com/wp-json/wp/v2/espn_verticals/398#breakthrough">I can still get COVID-19 after getting vaccinated, so there’s no point in getting the shot</a>.” </li><li>“<a href="https://fivethirtyeight.com/wp-json/wp/v2/espn_verticals/398#asymptomatic-spread">Vaccinated people can still spread the virus, so it doesn’t make a difference to public health if I’m unvaccinated</a>.” </li><li>“<a href="https://fivethirtyeight.com/wp-json/wp/v2/espn_verticals/398#FDA-approval">The vaccines haven’t been fully approved by the FDA</a>.”</li><li>“<a href="https://fivethirtyeight.com/wp-json/wp/v2/espn_verticals/398#already-had-covid">I already had COVID-19, so I’m immune and don’t need the vaccine</a>.” </li><li>“<a href="https://fivethirtyeight.com/wp-json/wp/v2/espn_verticals/398#vaccine-infertility">I heard the vaccine can cause infertility</a>.” </li></ul><hr><h2><strong>“The vaccine hasn’t been around long enough for me to know it’s safe.” </strong></h2>
+<ul><li>“<a href="https://fivethirtyeight.com/wp-json/wp/v2/espn_verticals/398#around-long-enough">The vaccine hasn’t been around long enough for me to know it’s safe.</a>” </li><li>“<a href="https://fivethirtyeight.com/wp-json/wp/v2/espn_verticals/398#breakthrough">I can still get COVID-19 after getting vaccinated, so there’s no point in getting the shot</a>.” </li><li>“<a href="https://fivethirtyeight.com/wp-json/wp/v2/espn_verticals/398#asymptomatic-spread">Vaccinated people can still spread the virus, so it doesn’t make a difference to public health if I’m unvaccinated</a>.” </li><li>“<a href="https://fivethirtyeight.com/wp-json/wp/v2/espn_verticals/398#FDA-approval">The vaccines haven’t been fully approved by the FDA</a>.”</li><li>“<a href="https://fivethirtyeight.com/wp-json/wp/v2/espn_verticals/398#already-had-covid">I already had COVID-19, so I’m immune and don’t need the vaccine</a>.” </li><li>“<a href="https://fivethirtyeight.com/wp-json/wp/v2/espn_verticals/398#vaccine-infertility">I heard the vaccine can cause infertility</a>.” </li></ul><p>Watch: https://abcnews.go.com/Health/video/covid-19-vaccines-work-74654465</p>
+
+
+<hr><h2><strong>“The vaccine hasn’t been around long enough for me to know it’s safe.” </strong></h2>
 
 
 
@@ -936,6 +980,17 @@
 
 
 <p data-paragraph="main">While the Pfizer and Moderna vaccines are the first vaccines using mRNA that have been approved, research on this kind of vaccine delivery method has been <a href="https://www.statnews.com/2020/11/10/the-story-of-mrna-how-a-once-dismissed-idea-became-a-leading-technology-in-the-covid-vaccine-race/" target="_blank" rel="noopener">happening for decades</a>. <a href="https://scholar.google.com/scholar_lookup?title=Dendritic%20cell%20immunotherapy%20for%20HIV-1%20infection%20using%20autologous%20HIV-1%20RNA%3A%20a%20randomized%2C%20double-blind%2C%20placebo-controlled%20clinical%20trial&amp;journal=J.%20Acquir.%20Immune%20Def.%20Syndr.&amp;volume=72&amp;pages=31-38&amp;publication_year=2016&amp;author=Jacobson%2CJM" target="_blank" rel="noopener">Previous clinical</a> <a href="https://scholar.google.com/scholar_lookup?title=Immunization%20of%20HIV-1-infected%20persons%20with%20autologous%20dendritic%20cells%20transfected%20with%20mRNA%20encoding%20HIV-1%20Gag%20and%20Nef%3A%20results%20of%20a%20randomized%2C%20placebo-controlled%20clinical%20trial&amp;journal=J.%20Acquir.%20Immune%20Def.%20Syndr.&amp;volume=71&amp;pages=246-253&amp;publication_year=2016&amp;author=Gandhi%2CRT" target="_blank" rel="noopener">trials</a> for mRNA vaccines showed the vaccines were safe, with mild side effects like headache or soreness at the injection site. It also might be helpful to know that mRNA (or messenger ribonucleic acid) is not some new, lab-created substance, it’s a <a href="https://theconversation.com/what-is-mrna-the-messenger-molecule-thats-been-in-every-living-cell-for-billions-of-years-is-the-key-ingredient-in-some-covid-19-vaccines-158511" target="_blank" rel="noopener">naturally-occurring molecule</a> that our body produces and uses as part of its daily cellular functions. </p>
+
+
+<div>
+	<p>
+		<a href="https://fivethirtyeight.com/features/how-pharmas-lucrative-patent-system-is-complicating-the-pandemic/?cid=_inlinerelated"><img alt="A hand holding vials of the vaccine. Below the hand is more vials of the COVID-19 vaccine." width="153" height="115" data-sizes="(min-width: 440px) 153px, 100vw" data-srcset="https://fivethirtyeight.com/wp-content/uploads/2021/05/GettyImages-1314111214-16x9-1.jpg?w=153&amp;quality=100&amp;strip=all 153w, https://fivethirtyeight.com/wp-content/uploads/2021/05/GettyImages-1314111214-16x9-1.jpg?w=306&amp;quality=100&amp;strip=all 306w, https://fivethirtyeight.com/wp-content/uploads/2021/05/GettyImages-1314111214-16x9-1.jpg?w=405&amp;quality=100&amp;strip=all 405w, https://fivethirtyeight.com/wp-content/uploads/2021/05/GettyImages-1314111214-16x9-1.jpg?w=810&amp;quality=100&amp;strip=all 810w"></a>
+	</p>
+	<p>
+				<strong>related:</strong>
+				How Pharma’s Lucrative Patent System Is Complicating The Pandemic <a href="https://fivethirtyeight.com/features/how-pharmas-lucrative-patent-system-is-complicating-the-pandemic/?cid=_inlinerelated">Read more. »</a>
+	</p>
+</div>
 
 
 
@@ -962,6 +1017,8 @@
 <p data-paragraph="main">Nevertheless, study after study shows that your risk of getting COVID-19 is much lower if you’re vaccinated than if you’re unvaccinated. In <a href="https://www.gov.uk/government/news/react-study-shows-fully-vaccinated-are-three-times-less-likely-to-be-infected" target="_blank" rel="noopener">a study published last week</a> that followed over 98,000 people in England from late-June to mid-July, vaccinated individuals were three times less likely to contract COVID-19 than unvaccinated individuals, even as the delta variant dominated cases. In fact, even if you do get infected after vaccination, your risks of getting seriously ill, needing to go in the hospital, needing to go in the intensive care unit or dying are reduced even further. Vaccinated Americans have accounted for less than 0.06 percent of hospitalizations, according to <a href="https://www.kff.org/policy-watch/covid-19-vaccine-breakthrough-cases-data-from-the-states/" target="_blank" rel="noopener">a review from the Kaiser Family Foundation</a>, which looked at states that report breakthrough cases. Of the more than <a href="https://covid.cdc.gov/covid-data-tracker/#vaccinations" target="_blank" rel="noopener">166 million Americans</a> who have been vaccinated, <a href="https://www.cdc.gov/vaccines/covid-19/health-departments/breakthrough-cases.html" target="_blank" rel="noopener">1,507 have died after contracting COVID-19</a> — a rate of 0.0009 percent, compared to <a href="https://www.nytimes.com/interactive/2021/us/covid-cases.html" target="_blank" rel="noopener">a death rate of roughly 1.7 percent</a> for all confirmed cases of Americans who have been infected with COVID-19. That means that, if 100,000 unvaccinated people got COVID-19, on average, 1,700 people would die. If 100,000 vaccinated people got breakthrough cases of COVID-19, on average, not even one person would die. </p>
 
 
+<p>Watch: https://abcnews.go.com/fivethirtyeight/video/year-karaoke-fivethirtyeight-77653577</p>
+
 
 <hr><h2><strong>“Vaccinated people can still spread the virus, so it doesn’t make a difference to public health if I’m unvaccinated.”</strong></h2>
 
@@ -972,6 +1029,17 @@
 
 
 <p data-paragraph="main">“Herd immunity is not this magic number where suddenly a bell will be rung across the country,” Bumpus said. “Every person counts.”</p>
+
+
+<div>
+	<p>
+		<a href="https://fivethirtyeight.com/features/americans-are-in-favor-of-vaccine-mandates-but-support-is-driven-mainly-by-those-who-have-already-gotten-the-jab/?cid=_inlinerelated"><img alt="Someone’s hands holding open a box of COVID-19 Astrozenica vaccine vials." width="153" height="115" data-sizes="(min-width: 440px) 153px, 100vw" data-srcset="https://fivethirtyeight.com/wp-content/uploads/2021/08/0806_POLLA-4x3-1.png?w=153&amp;quality=100&amp;strip=all 153w, https://fivethirtyeight.com/wp-content/uploads/2021/08/0806_POLLA-4x3-1.png?w=306&amp;quality=100&amp;strip=all 306w, https://fivethirtyeight.com/wp-content/uploads/2021/08/0806_POLLA-4x3-1.png?w=405&amp;quality=100&amp;strip=all 405w, https://fivethirtyeight.com/wp-content/uploads/2021/08/0806_POLLA-4x3-1.png?w=810&amp;quality=100&amp;strip=all 810w"></a>
+	</p>
+	<p>
+				<strong>related:</strong>
+				Americans Are In Favor Of Vaccine Mandates. But Support Is Driven Mainly By Those Who Have Already Gotten The Jab. <a href="https://fivethirtyeight.com/features/americans-are-in-favor-of-vaccine-mandates-but-support-is-driven-mainly-by-those-who-have-already-gotten-the-jab/?cid=_inlinerelated">Read more. »</a>
+	</p>
+</div>
 
 
 
@@ -1019,7 +1087,12 @@
 
 
 
-<p data-paragraph="main">“There is one small similarity, but the overall construction of the protein is completely different,” Kullar said. “Our immune system is way too smart to be confused by that.”</p>]]></description>
+<p data-paragraph="main">“There is one small similarity, but the overall construction of the protein is completely different,” Kullar said. “Our immune system is way too smart to be confused by that.”</p>
+
+
+<p>Watch: https://abcnews.go.com/fivethirtyeight/video/covid-19-cases-rising-americans-thoughts-steps-fivethirtyeight-79188933</p>
+
+<p>Watch: https://abcnews.go.com/fivethirtyeight/video/dr-fauci-life-post-vaccine-bidens-approach-pandemic-74864671</p>]]></description>
 			<pubDate>Wed, 11 Aug 2021 11:00:00 +0100</pubDate>
 			<guid isPermaLink="false">1628676002261179</guid>
 		</item>
