@@ -3,9 +3,187 @@
 		<title>Main stream | FreshRSS</title>
 		<link>http://radon</link>
 		<description>RSS feed of Main stream | FreshRSS</description>
-		<pubDate>Wed, 25 Aug 2021 11:29:06 +0100</pubDate>
-		<lastBuildDate>Wed, 25 Aug 2021 10:29:06 GMT</lastBuildDate>
+		<pubDate>Wed, 25 Aug 2021 11:59:06 +0100</pubDate>
+		<lastBuildDate>Wed, 25 Aug 2021 10:59:06 GMT</lastBuildDate>
 		<atom:link href="http://radon/i/?a=rss" rel="self" type="application/rss+xml" />
+		<item>
+			<title>How Eric Adams Won The New York City Mayoral Primary</title>
+			<link>https://fivethirtyeight.com/features/how-eric-adams-won-the-new-york-city-mayoral-primary/</link>
+						<dc:creator>Nathaniel Rakich</dc:creator>
+			<dc:creator>Nathaniel Rakich</dc:creator>
+			<category>Eric Adams</category>
+			<category>NYC Mayoral Primary</category>
+			<description><![CDATA[<p data-paragraph="main">For two months we’ve known that Brooklyn Borough President Eric Adams won New York City’s Democratic primary for mayor with 31 percent of first-place votes (he finally achieved a majority in the ranked-choice election after <a href="https://vote.nyc/sites/default/files/pdf/election_results/2021/20210622Primary%20Election/rcv/DEM%20Mayor%20Citywide.pdf" target="_blank" rel="noopener">eight rounds</a> of instant runoffs). But for two months we haven’t known for sure exactly what his coalition looked like. </p>
+
+
+
+<p data-paragraph="main">Finally, the wait is over: 57 days after the election, the New York City Board of Elections released <a href="https://vote.nyc/page/election-results-summary" target="_blank" rel="noopener">precinct-level results</a> of the primary. And they show that Adams’s enigmatic politics found a broad coalition — but one that exists outside the city’s usual power centers. </p>
+
+
+
+<p data-paragraph="main">Adams’s politics are <a href="https://www.nytimes.com/2021/07/07/nyregion/eric-adams-mayor-nyc.html" target="_blank" rel="noopener">hard to pigeonhole</a>. (For instance, the former police officer campaigned as the <a href="https://nymag.com/intelligencer/article/eric-adams-nyc-mayor-race.html" target="_blank" rel="noopener">pro-police candidate</a>, but he had previously been an <a href="https://www.nytimes.com/2021/06/19/nyregion/eric-adams-nyc-police-mayor.html" target="_blank" rel="noopener">advocate for reform</a> within the department.) But perhaps his one unifying characteristic is his anti-elitism, sometimes to the point of grievance. He campaigned first and foremost as a <a href="https://www.nytimes.com/2021/06/26/nyregion/eric-adams-mayor.html" target="_blank" rel="noopener">crusader for New York City’s large nonwhite working class</a>, using Manhattan’s ivory tower and its “fancy candidates” as a foil. When former city Sanitation Commissioner Kathryn Garcia and businessman Andrew Yang formed a last-minute alliance with the goal of stopping Adams, he <a href="https://gothamist.com/news/adams-campaign-calls-garcia-yang-alliance-voter-suppression-on-final-day-of-early-voting" target="_blank" rel="noopener">equated it</a> to the suppression of Black and Hispanic voters.</p>
+
+
+
+<p data-paragraph="main">It looks like that branding succeeded. Adams carried most of the city’s neighborhoods outside its cosmopolitan core. </p>
+
+
+
+<figure><div>
+<div><iframe title="How Adams won New York City" aria-label="map" src="https://datawrapper.dwcdn.net/CFQpb/3/" scrolling="no" frameborder="0" height="695" sandbox="allow-scripts allow-same-origin"></iframe></div>
+</div></figure><p data-paragraph="main">The Adams coalition comes into especially sharp focus if you return to our <a href="https://fivethirtyeight.com/features/the-5-political-boroughs-of-new-york-city/" target="_blank" rel="noopener">“political boroughs” of New York City</a>, which FiveThirtyEight devised back in June based on the results of Democratic primaries in the city in 2016 and 2018. Going just off voters’ first choices, Adams won three of the five political boroughs, albeit with different levels of support. </p>
+
+
+<section><header><h5>Adams won three of NYC’s ‘political boroughs’</h5>
+<p>Official first-place votes in the 2021 Democratic primary for New York City mayor by five custom-drawn political regions of the city</p>
+</header><table data-carpenter-slug="rakich-wolfe.nyc-results-3.1"><thead><tr><th colspan="1">Political Borough</th>
+<th colspan="1">Adams</th>
+<th colspan="1">Wiley</th>
+<th colspan="1">Garcia</th>
+<th colspan="1">Yang</th>
+</tr></thead><tbody><tr><td>Elite Circles</td>
+<td data-suffix="%" data-suffixpadding="1.1em">15%</td>
+<td data-suffix="%" data-suffixpadding="1.1em">27%</td>
+<td data-suffix="%" data-suffixpadding="1.1em">32%</td>
+<td data-suffix="%" data-suffixpadding="1.1em">11%</td>
+</tr><tr><td>True-Blue Bronx</td>
+<td>47</td>
+<td>16</td>
+<td>8</td>
+<td>10</td>
+</tr><tr><td>Black Bloc</td>
+<td>63</td>
+<td>15</td>
+<td>4</td>
+<td>6</td>
+</tr><tr><td>Lands of Contradiction</td>
+<td>25</td>
+<td>12</td>
+<td>18</td>
+<td>27</td>
+</tr><tr><td>Crossroads</td>
+<td>37</td>
+<td>25</td>
+<td>14</td>
+<td>8</td>
+</tr><tr><td>Citywide</td>
+<td>31</td>
+<td>21</td>
+<td>20</td>
+<td>12</td>
+</tr></tbody></table><footer><p>Source: New York City Board of Elections</p>
+</footer></section><p data-paragraph="main">Let’s start with Adams’s strongest political borough: the <strong>Black Bloc</strong>, a 63 percent non-Hispanic Black and 23 percent college-educated swath of Brooklyn and Queens. This was Adams’s <a href="https://www.brooklyn-usa.org/eric-adams-bio/" target="_blank" rel="noopener">home turf</a> (he was born in the Brooklyn neighborhood of Brownsville and grew up in the Queens neighborhood of South Jamaica), and unsurprisingly, he dominated here, winning 63 percent of first-place votes. Within the borough, he tended to do better in state Assembly districts with larger Black populations and lower median household incomes, although the correlation was stronger with race than with income.<a data-footnote-id="3" href="https://fivethirtyeight.com/wp-json/wp/v2/espn_verticals/398#fn-3" data-footnote-content="&lt;p&gt;&lt;p&gt;R = 0.91 vs. R = -0.71.&lt;/p&gt;
+&lt;/p&gt;"><sup>3</sup></a> </p>
+
+
+
+<p data-paragraph="main">Adams also excelled in the Black neighborhoods of the <strong>Crossroads</strong>, a racially diverse political borough that covers zones of transition between the other four. He got at least 45 percent of first-place votes in each of three gentrifying but still majority-Black Assembly districts <a href="https://www.assembly.state.ny.us/mem/?ad=56&amp;sh=map" target="_blank" rel="noopener">east of</a> <a href="https://nyassembly.gov/mem/Diana-C-Richardson/map/" target="_blank" rel="noopener">Brooklyn’s</a> <a href="https://nyassembly.gov/mem/Rodneyse-Bichotte-Hermelyn/map/" target="_blank" rel="noopener">Prospect Park</a>. But parts of the Crossroads with smaller Black populations were more Adams-skeptical, such as two <a href="https://www.assembly.state.ny.us/mem/?ad=34&amp;sh=map" target="_blank" rel="noopener">Queens</a> <a href="https://nyassembly.gov/mem/Catalina-Cruz/map/" target="_blank" rel="noopener">districts</a> where he received fewer than 20 percent of initial votes. Overall, his share of first-place votes in the Crossroads borough (37 percent) was fairly close to its Black population share (30 percent).</p>
+
+
+
+<p data-paragraph="main">But it wasn’t just in predominantly Black areas that Adams ran up the score. He was the first choice of 47 percent of voters in the <strong>True-Blue Bronx</strong>, which does have a sizable non-Hispanic Black population (29 percent) but is mostly Hispanic (57 percent). While there was still a strong correlation between Adams support and the Black population in this political borough (e.g., he performed the strongest in the heavily Black <a href="https://nyassembly.gov/mem/Carl-E-Heastie/map/" target="_blank" rel="noopener">northeast Bronx</a>), he must also have won significant numbers of Hispanic voters in districts like <a href="https://nyassembly.gov/mem/Jos%C3%A9-Rivera/map/" target="_blank" rel="noopener">Belmont and Fordham Manor’s</a>, where the population is 73 percent Hispanic and 16 percent non-Hispanic Black but Adams got 42 percent of the vote. One potential reason: Like the Black Bloc, the True-Blue Bronx is heavily working class (18 percent of residents age 25 or older have at least a bachelor’s degree).</p>
+
+
+
+<p data-paragraph="main">Similarly, New York City’s most conservative political borough, the <strong>Lands of Contradiction</strong>, is 46 percent non-Hispanic white, 26 percent Asian American, 19 percent Hispanic and only 5 percent non-Hispanic Black, but Adams still received 25 percent of first-place votes there. He was especially strong in plurality-white Assembly districts like <a href="https://nyassembly.gov/mem/Stacey-Pheffer-Amato/map/" target="_blank" rel="noopener">Howard Beach’s</a> (40 percent) and <a href="https://nyassembly.gov/mem/Steven-Cymbrowitz/map/" target="_blank" rel="noopener">Homecrest’s</a> (41 percent). However, Yang outran Adams in the political borough’s many plurality-Asian American neighborhoods (e.g., <a href="https://nyassembly.gov/mem/Ron-Kim/map/" target="_blank" rel="noopener">Flushing</a>), edging out Adams for first place in the Lands of Contradiction overall with 27 percent. Of note, both Yang (46 percent) and Adams (38 percent) excelled in the Assembly district that covers <a href="https://nyassembly.gov/mem/Simcha-Eichenstein/map/" target="_blank" rel="noopener">Borough Park and Midwood</a>, home of several conservative Orthodox Jewish communities.</p>
+
+
+
+<p data-paragraph="main">By contrast, Adams finished third in the predominantly white, college-educated <strong>Elite Circles</strong>, with just 15 percent of first-place votes. Instead, the borough was split on whom it wanted to be mayor: 32 percent of voters there ranked Garcia first, while 27 percent opted for attorney Maya Wiley. But there was a clear difference between the areas that backed Garcia and the areas that backed Wiley. Garcia’s support was strongly correlated with median household income, and she topped 40 percent in each of the city’s five wealthiest Assembly districts — areas such as <a href="https://assembly.state.ny.us/mem/Dan-Quart/map/" target="_blank" rel="noopener">Midtown Manhattan</a>, the <a href="https://www.assembly.state.ny.us/mem/?ad=067&amp;sh=map" target="_blank" rel="noopener">Upper West</a> and <a href="https://nyassembly.gov/mem/Rebecca-A-Seawright/map/" target="_blank" rel="noopener">East Sides</a> and <a href="https://nyassembly.gov/mem/Jo-Anne-Simon/map/" target="_blank" rel="noopener">downtown Brooklyn</a>. </p>
+
+
+
+<p data-paragraph="main">Meanwhile, Wiley (the race’s premier progressive candidate) won younger, more racially diverse parts of the Elite Circles in Brooklyn and Queens — doing especially well (34 percent or more) in Assembly districts containing <a href="https://www.assembly.state.ny.us/mem/?ad=57&amp;sh=map" target="_blank" rel="noopener">Prospect Heights</a>, <a href="https://nyassembly.gov/mem/Maritza-Davila/map/" target="_blank" rel="noopener">Williamsburg</a>, <a href="https://assembly.state.ny.us/mem/Emily-Gallagher/map/" target="_blank" rel="noopener">Greenpoint</a>, <a href="https://www.assembly.state.ny.us/mem/?ad=36&amp;sh=map" target="_blank" rel="noopener">Astoria and Ditmars Steinway</a>. Perhaps it’s no surprise, then, that she also did well in gentrifying areas of the Crossroads, such as <a href="https://www.assembly.state.ny.us/mem/?ad=56&amp;sh=map" target="_blank" rel="noopener">Crown</a> <a href="https://nyassembly.gov/mem/Diana-C-Richardson/map/" target="_blank" rel="noopener">Heights</a> and <a href="https://nyassembly.gov/mem/Inez-E-Dickens/map" target="_blank" rel="noopener">Harlem</a>, where she may have paired the support of white progressives with some Black and Hispanic support. (Overall in the Crossroads, Wiley received 25 percent of first-place votes, almost as many as she got in the Elite Circles.)</p>
+
+
+
+<p data-paragraph="main">All of this means that Adams’s path to the nomination circumvented the city’s predominantly white power brokers and cultural trendsetters. Will Adams’s non-elite power base change what he attempts to do in office? On one hand, the outer boroughs and nonwhite New Yorkers may get more attention and appreciation from City Hall. On the other, Adams may struggle to establish productive relationships with the Manhattan-based media, corporations and an <a href="https://www.nytimes.com/2021/06/22/nyregion/new-york-city-council.html" target="_blank" rel="noopener">increasingly progressive</a> New York City Council. (Such adversarial relationships crippled outgoing Mayor Bill de Blasio’s administration, and he assembled a <a href="https://www.nytimes.com/projects/elections/2013/nyc-primary/mayor/map.html" target="_blank" rel="noopener">pretty broad coalition</a> in his initial 2013 primary win.) If the 2021 campaign was any indication, it’s going to be an interesting next four years in New York City.</p>]]></description>
+			<pubDate>Wed, 25 Aug 2021 11:00:00 +0100</pubDate>
+			<guid isPermaLink="false">1629887403077016</guid>
+		</item>
+		<item>
+			<title>Where America Lost And Gained Population Could Throw Democrats A Redistricting Lifeline</title>
+			<link>https://fivethirtyeight.com/features/where-america-lost-and-gained-population-could-throw-democrats-a-redistricting-lifeline/</link>
+						<dc:creator>Nathaniel Rakich</dc:creator>
+			<dc:creator>Nathaniel Rakich</dc:creator>
+			<category>2020 Census</category>
+			<category>Census Data</category>
+			<category>Gerrymandering</category>
+			<category>Illinois</category>
+			<category>New York</category>
+			<category>North Carolina</category>
+			<category>Redistricting</category>
+			<category>Texas</category>
+			<description><![CDATA[<p data-paragraph="main">With the release of block-level data from the 2020 census, we now have a much clearer picture of how and where the U.S. population has grown — and shrunk — over the past 10 years. And while Republicans are largely setting the terms of the <a href="https://projects.fivethirtyeight.com/redistricting-2022-maps/" target="_blank" rel="noopener">redistricting process</a> that will ensue from this announcement, the data throws a <a href="https://cookpolitical.com/analysis/house/redistricting/new-census-dataset-mostly-good-news-democrats" target="_blank" rel="noopener">much-needed lifeline to Democrats</a>.</p>
+
+
+
+<p data-paragraph="main">It’s not because of the country’s <a href="https://abcnews.go.com/Politics/wireStory/census-shows-us-diversifying-white-population-shrinking-79423764" target="_blank" rel="noopener">increasing racial diversity</a>, though. Sure, under <a href="https://www.pewresearch.org/politics/2021/06/30/behind-bidens-2020-victory/" target="_blank" rel="noopener">current electoral coalitions</a> (where white voters are more likely to vote Republican and voters of color are more likely to vote Democratic), it’s arguably better for Democrats if the nonwhite population grows. But even in a country where only 58 percent of residents are non-Hispanic white, the 2020 presidential election was still very competitive. And electoral coalitions can change — for instance, Republicans may continue to <a href="https://www.bbc.com/news/world-us-canada-54972389" target="_blank" rel="noopener">gain ground</a> among nonwhite voters in future elections.</p>
+
+
+
+<p data-paragraph="main">Instead, the good news for Democrats came in which parts of the country <a href="https://www.dailykos.com/stories/2021/8/17/2046167/-We-ve-got-census-growth-data-for-every-city-county-and-district-and-there-are-lots-of-surprises" target="_blank" rel="noopener">gained and lost population since the 2010 census</a>. Despite the country’s overall population increasing by 7.4 percent, rural areas — the reddest parts of the country — have steadily <em>lost</em> residents over the past 10 years. The average county with a <a href="https://fivethirtyeight.com/features/how-urban-or-rural-is-your-state-and-what-does-that-mean-for-the-2020-election/" target="_blank" rel="noopener">FiveThirtyEight urbanization index</a> below 8<a data-footnote-id="1" href="https://fivethirtyeight.com/wp-json/wp/v2/espn_verticals/398#fn-1" data-footnote-content="&lt;p&gt;&lt;p&gt;FiveThirtyEight’s urbanization index is a measure of how densely populated a county or county equivalent is based on the average number of people living within a five-mile radius of a given resident. The analysis in this article includes Washington, D.C., but excludes Alaska, which does not have county-equivalent-level election results available.&lt;/p&gt;
+&lt;/p&gt;"><sup>1</sup></a> lost 3.1 percent of its population between 2010 and 2020. This encompasses the 1,430 most rural counties in America — 1,302 of which voted for former President Donald Trump in 2020, and only 127 of which voted for President Biden.</p>
+
+
+
+<p data-paragraph="main">By contrast, the fastest-growing parts of the country are the suburbs. The average county with an urbanization index between 11 and 13 (spanning from sparse suburban areas like <a href="https://en.wikipedia.org/wiki/Roanoke_County,_Virginia" target="_blank" rel="noopener">Roanoke County, Virginia</a>, to dense suburban areas like <a href="https://en.wikipedia.org/wiki/Union_County,_New_Jersey" target="_blank" rel="noopener">Union County, New Jersey</a>) grew by 9.6 percent between 2010 and 2020. Most of these counties (194 out of 264) voted for Biden, and if the trends of the <a href="https://fivethirtyeight.com/features/the-suburbs-all-kinds-of-suburbs-delivered-the-house-to-democrats/" target="_blank" rel="noopener">2018</a> and <a href="https://fivethirtyeight.com/features/why-the-suburbs-have-shifted-blue/" target="_blank" rel="noopener">2020 elections</a> continue, they will only get bluer.</p>
+
+
+
+<p data-paragraph="main">America’s cities grew at a healthy rate too, which was something of a surprise compared with pre-census estimates. The 18 most urban counties or county equivalents in the country — those with a FiveThirtyEight urbanization index above 13 (including San Francisco, Philadelphia, four around Washington, D.C., and eight around New York City) — grew by an average of 8.4 percent — and all but one of them voted for Biden in 2020.<a data-footnote-id="2" href="https://fivethirtyeight.com/wp-json/wp/v2/espn_verticals/398#fn-2" data-footnote-content="&lt;p&gt;&lt;p&gt;The Trump-voting exception was Richmond County, New York, which is Staten Island.&lt;/p&gt;
+&lt;/p&gt;"><sup>2</sup></a></p>
+
+
+
+<p data-paragraph="main">Overall, the average county that voted for Biden boosted its population by 3.4 percent between 2010 and 2020, while the average Trump county grew by just 0.2 percent. Strikingly, 370 out of the 538 Biden counties (69 percent) gained population, while 1,468 out of the 2,574 Trump counties (57 percent) lost residents.</p>
+
+
+
+<figure><div>
+<div><iframe title="The most rural (and reddest) counties are shrinking" aria-label="Bar Chart" src="https://datawrapper.dwcdn.net/1zgkC/6/" scrolling="no" frameborder="0" height="688" sandbox="allow-scripts allow-same-origin"></iframe></div>
+</div></figure><p data-paragraph="main">These population shifts are important because they will shape the nation’s political geography for the next 10 years, as congressional district lines will be drawn based on this data. As such, it will now be that much harder to draw congressional maps that favor Republicans: If a heavily Democratic metropolitan area is overflowing with people, map-drawers need to put them <em>somewhere</em> — which may necessitate creating an extra (blue) district for that city, or at least including more blue precincts in a neighboring Republican district than the GOP would like.</p>
+
+
+
+<p data-paragraph="main">At the other end of the spectrum, because congressional districts must have roughly equal populations, many depopulated rural congressional districts will need to expand — either cannibalizing a neighboring rural district (which could reduce the number of safely red seats) or encroaching on the outer suburbs. Because America’s exurbs are still fairly red (three-quarters of counties with a FiveThirtyEight urbanization index between 10 and 11 voted for Trump in 2020) this could reduce the number of Republicans living in a current swing district — a sort of redistricting domino effect.</p>
+
+
+
+<p data-paragraph="main">We can see how this domino effect might unfold by looking at which congressional districts, rather than counties, are over- and underpopulated. To see this, we can <a href="https://www.dailykos.com/stories/2021/8/16/2045702/-Morning-Digest-New-census-data-shows-which-districts-will-have-to-grow-or-shrink-next-year" target="_blank" rel="noopener">compare the 2020 population of each current district</a> to what its population should look like after the <a href="https://fivethirtyeight.com/features/which-states-won-and-lost-seats-in-the-2020-census/" target="_blank" rel="noopener">reapportionment process</a>. (Remember, because each state’s districts must have the same population, the <a href="https://docs.google.com/spreadsheets/d/1VsWXBX_cVFcfaxHdlAMzzhJYRWgayzWxsJ3rdOlO-24/edit#gid=1761243994" target="_blank" rel="noopener">target population</a> of a state’s districts is the state’s 2020 population divided by the number of congressional districts it received in reapportionment.) </p>
+
+
+
+<p data-paragraph="main">In the map below, orange districts will need to add population (i.e., they will need to expand), while purple ones will need to lose population (i.e., they will need to get smaller).</p>
+
+
+
+<figure><div>
+<div><iframe title="Where congressional districts could shrink or grow" aria-label="map" src="https://datawrapper.dwcdn.net/lEddh/10/" scrolling="no" frameborder="0" height="555" sandbox="allow-scripts allow-same-origin"></iframe></div>
+</div></figure><p data-paragraph="main">The most obvious examples of districts that will need to expand are those in states that lost a seat in reapportionment, like West Virginia. But take a look at New York, which also lost a seat. The districts that will need to expand the most are all in upstate New York, while four New York City-based districts — the 5th, 8th, 10th and 12th — will actually need to <em>shed</em> residents. Since those districts are all extremely blue, that will provide mapmakers with an opportunity to add Democratic votes to nearby districts that might not be as safe, such as the 11th. </p>
+
+
+
+<p data-paragraph="main">Similarly, in Illinois, the districts around Chicago are those that are already closest to their target post-redistricting population, whereas the downstate 12th and 17th will need to add the most people. And because Illinois also lost a seat in reapportionment, it’s most likely that downstate will lose representation. Since five of Illinois’s six current downstate representatives are Republicans (and Democrats control the map-drawing process in Illinois), that makes it a safe bet that Republicans will draw the short straw. </p>
+
+
+
+<p data-paragraph="main">At the same time, patterns in population growth could blunt Republican gains as well. For example, the two most overpopulated current districts in North Carolina — which is gaining a seat — are the deep-blue 2nd (which covers Raleigh) and 12th (which covers Charlotte). Republicans are in charge of redistricting in North Carolina, but they would have to engage in some complicated gerrymandering gymnastics if they want to blunt the political power of these metro areas. Similarly, the Cook Political Report’s Dave Wasserman has <a href="https://cookpolitical.com/analysis/house/redistricting/new-census-dataset-mostly-good-news-democrats" target="_blank" rel="noopener">estimated</a> that explosive population growth in urban areas like Austin could limit Texas Republicans to a map where Republicans have the advantage in only 25 of the state’s now-38 districts, whereas previously they might have been able to draw 27 Republican-leaning seats.</p>
+
+
+
+<p data-paragraph="main">However, as Wasserman’s estimate makes clear, the population trends from the 2020 census are not enough to cancel out any gerrymandering efforts. Rather, the census numbers are merely a silver lining for Democrats. They still remain at a serious disadvantage in the 2021 redistricting cycle simply because Republicans will control the redrawing of more congressional districts. Republicans will have full control over the redrawing of 43 percent of congressional districts, and Democrats will have full control over the redrawing of just 17 percent. (Neither party enjoys full control of redistricting for 38 percent of districts, while the remaining 1 percent are at-large districts and won’t be redrawn at all.) </p>
+
+
+
+<figure><img src="https://fivethirtyeight.com/wp-content/uploads/2021/04/rakich-skelley.REAPPORTIONMENT.04TK.png" alt="" data-src="https://fivethirtyeight.com/wp-content/uploads/2021/04/rakich-skelley.REAPPORTIONMENT.04TK.png" data-srcset="https://fivethirtyeight.com/wp-content/uploads/2021/04/rakich-skelley.REAPPORTIONMENT.04TK.png?w=700 1x, https://fivethirtyeight.com/wp-content/uploads/2021/04/rakich-skelley.REAPPORTIONMENT.04TK.png?w=1400 2x"></figure><p data-paragraph="main">So Democrats got some good news with the specific census data released earlier this month, but they are still in an unenviable position. As long as redistricting remains such a subjective process, who draws the maps will remain more important than the underlying data.</p>
+
+
+
+<p data-paragraph="main"><em>Geoffrey Skelley contributed research.</em></p>]]></description>
+			<pubDate>Wed, 25 Aug 2021 11:00:00 +0100</pubDate>
+			<guid isPermaLink="false">1629887403077015</guid>
+		</item>
 		<item>
 			<title>Can Democrats Move Forward A Voting Rights Bill By Making A Moral Case For It?</title>
 			<link>https://fivethirtyeight.com/features/can-democrats-move-forward-a-voting-rights-bill-by-making-a-moral-case-for-it/</link>
@@ -62,8 +240,8 @@
 
 
 
-<p data-paragraph="main">According to a <a href="https://www.pewresearch.org/fact-tank/2021/07/22/wide-partisan-divide-on-whether-voting-is-a-fundamental-right-or-a-privilege-with-responsibilities/" target="_blank" rel="noopener">July report from Pew</a>, an overwhelming majority of Democrats and Democratic leaners (78 percent) said that they view voting as a “fundamental right” for every U.S. citizen, while only 32 percent of Republican and Republican leaners felt the same. Instead, Republicans are more likely to view voting as a privilege that can be limited (67 percent of Republican and Republican leaners felt this way, versus 21 percent of Democrats and Democratic leaners). There’s a racial divide here, too, with Black (77 percent), Hispanic (63 percent) and Asian Americans (66 percent) being far more likely than white Americans (51 percent) to say voting is a fundamental right.<a data-footnote-id="1" href="https://fivethirtyeight.com/wp-json/wp/v2/espn_verticals/398#fn-1" data-footnote-content="&lt;p&gt;&lt;p&gt;Asian American adults were interviewed in English only, according to Pew, while white, Black and Asian American adults included those who said they’re one race and not Hispanic.&lt;/p&gt;
-&lt;/p&gt;"><sup>1</sup></a> Bottom line: Democrats are much more likely than Republicans (70 percent to 32 percent, according to a June <a href="https://assets.morningconsult.com/wp-uploads/2021/06/09050746/210636_crosstabs_POLITICO_RVs_v1_LM.pdf" target="_blank" rel="noopener">Morning Consult/Politico</a> poll) to think restricting voting access is a major threat to American democracy.</p>
+<p data-paragraph="main">According to a <a href="https://www.pewresearch.org/fact-tank/2021/07/22/wide-partisan-divide-on-whether-voting-is-a-fundamental-right-or-a-privilege-with-responsibilities/" target="_blank" rel="noopener">July report from Pew</a>, an overwhelming majority of Democrats and Democratic leaners (78 percent) said that they view voting as a “fundamental right” for every U.S. citizen, while only 32 percent of Republican and Republican leaners felt the same. Instead, Republicans are more likely to view voting as a privilege that can be limited (67 percent of Republican and Republican leaners felt this way, versus 21 percent of Democrats and Democratic leaners). There’s a racial divide here, too, with Black (77 percent), Hispanic (63 percent) and Asian Americans (66 percent) being far more likely than white Americans (51 percent) to say voting is a fundamental right.<a data-footnote-id="4" href="https://fivethirtyeight.com/wp-json/wp/v2/espn_verticals/398#fn-4" data-footnote-content="&lt;p&gt;&lt;p&gt;Asian American adults were interviewed in English only, according to Pew, while white, Black and Asian American adults included those who said they’re one race and not Hispanic.&lt;/p&gt;
+&lt;/p&gt;"><sup>4</sup></a> Bottom line: Democrats are much more likely than Republicans (70 percent to 32 percent, according to a June <a href="https://assets.morningconsult.com/wp-uploads/2021/06/09050746/210636_crosstabs_POLITICO_RVs_v1_LM.pdf" target="_blank" rel="noopener">Morning Consult/Politico</a> poll) to think restricting voting access is a major threat to American democracy.</p>
 
 
 
@@ -99,9 +277,9 @@
 
 
 
-<p data-paragraph="main">They’re all also part of Generation Z, America’s youngest adult generation, which is more <a href="https://www.pewresearch.org/social-trends/2020/05/14/on-the-cusp-of-adulthood-and-facing-an-uncertain-future-what-we-know-about-gen-z-so-far-2/" target="_blank" rel="noopener">ethnically and racially diverse</a> than any generation before it.<a data-footnote-id="2" href="https://fivethirtyeight.com/wp-json/wp/v2/espn_verticals/398#fn-2" data-footnote-content='&lt;p&gt;&lt;p&gt;The &lt;a href="https://www.pewresearch.org/fact-tank/2019/01/17/where-millennials-end-and-generation-z-begins/" target="_blank" rel="noopener"&gt;Pew Research Center defines Gen Zers&lt;/a&gt; as those born from 1997 onward, though children born in 2010 and after &lt;a href="https://abcnews.go.com/GMA/Family/gen-meet-gen-alpha-generation-born-2010-today/story?id=68971965" target="_blank" rel="noopener"&gt;qualify for Generation Alpha&lt;/a&gt;.&lt;/p&gt;
-&lt;/p&gt;'><sup>2</sup></a> And similar to millennials, who are now in their <a href="https://www.pewresearch.org/fact-tank/2019/01/17/where-millennials-end-and-generation-z-begins/" target="_blank" rel="noopener">mid-20s to early 40s</a>, members of Gen Z <a href="https://www.pewresearch.org/social-trends/2019/01/17/generation-z-looks-a-lot-like-millennials-on-key-social-and-political-issues/" target="_blank" rel="noopener">are more liberal on a number of key social issues</a> than older generations. According to Pew’s 2020 <a href="https://www.pewresearch.org/politics/2021/06/30/behind-bidens-2020-victory/" target="_blank" rel="noopener">verified voter survey</a>, millennials and Gen Zers also backed Biden over Trump in that year’s election, by a 20-point margin.<a data-footnote-id="3" href="https://fivethirtyeight.com/wp-json/wp/v2/espn_verticals/398#fn-3" data-footnote-content="&lt;p&gt;&lt;p&gt;Pew told FiveThirtyEight that they did not have a large enough sample to share the vote choice for just Gen-Z voters, who, per Pew, made up just 8 percent of the electorate in 2020.&lt;/p&gt;
-&lt;/p&gt;"><sup>3</sup></a></p>
+<p data-paragraph="main">They’re all also part of Generation Z, America’s youngest adult generation, which is more <a href="https://www.pewresearch.org/social-trends/2020/05/14/on-the-cusp-of-adulthood-and-facing-an-uncertain-future-what-we-know-about-gen-z-so-far-2/" target="_blank" rel="noopener">ethnically and racially diverse</a> than any generation before it.<a data-footnote-id="5" href="https://fivethirtyeight.com/wp-json/wp/v2/espn_verticals/398#fn-5" data-footnote-content='&lt;p&gt;&lt;p&gt;The &lt;a href="https://www.pewresearch.org/fact-tank/2019/01/17/where-millennials-end-and-generation-z-begins/" target="_blank" rel="noopener"&gt;Pew Research Center defines Gen Zers&lt;/a&gt; as those born from 1997 onward, though children born in 2010 and after &lt;a href="https://abcnews.go.com/GMA/Family/gen-meet-gen-alpha-generation-born-2010-today/story?id=68971965" target="_blank" rel="noopener"&gt;qualify for Generation Alpha&lt;/a&gt;.&lt;/p&gt;
+&lt;/p&gt;'><sup>5</sup></a> And similar to millennials, who are now in their <a href="https://www.pewresearch.org/fact-tank/2019/01/17/where-millennials-end-and-generation-z-begins/" target="_blank" rel="noopener">mid-20s to early 40s</a>, members of Gen Z <a href="https://www.pewresearch.org/social-trends/2019/01/17/generation-z-looks-a-lot-like-millennials-on-key-social-and-political-issues/" target="_blank" rel="noopener">are more liberal on a number of key social issues</a> than older generations. According to Pew’s 2020 <a href="https://www.pewresearch.org/politics/2021/06/30/behind-bidens-2020-victory/" target="_blank" rel="noopener">verified voter survey</a>, millennials and Gen Zers also backed Biden over Trump in that year’s election, by a 20-point margin.<a data-footnote-id="6" href="https://fivethirtyeight.com/wp-json/wp/v2/espn_verticals/398#fn-6" data-footnote-content="&lt;p&gt;&lt;p&gt;Pew told FiveThirtyEight that they did not have a large enough sample to share the vote choice for just Gen-Z voters, who, per Pew, made up just 8 percent of the electorate in 2020.&lt;/p&gt;
+&lt;/p&gt;"><sup>6</sup></a></p>
 
 
 <p>Watch: https://abcnews.go.com/fivethirtyeight/video/americans-ending-war-afghanistan-79488089</p>
@@ -240,8 +418,8 @@
 
 
 
-<p data-paragraph="main">The grim headlines have also made some Americans rethink their support for withdrawing troops at all. As my colleague Geoffrey Skelley <a href="https://fivethirtyeight.com/features/afghanistan-has-fallen-to-the-taliban-how-will-americans-judge-bidens-decision-to-withdraw/" target="_blank" rel="noopener">wrote on Monday</a>, net support for withdrawal was extremely high before last weekend: between +28 and +46 points. But five polls conducted since Aug. 13<a data-footnote-id="4" href="https://fivethirtyeight.com/wp-json/wp/v2/espn_verticals/398#fn-4" data-footnote-content='&lt;p&gt;&lt;p&gt;The aforementioned Morning Consult, Morning Consult/Politico and YouGov/The Economist polls, plus one poll each from &lt;a href="https://projects.fivethirtyeight.com/polls/20210817_US_JohnZogby.pdf" target="_blank" rel="noopener"&gt;John Zogby Strategies&lt;/a&gt; and &lt;a href="https://www.dataforprogress.org/blog/2021/8/17/voters-support-withdrawing-troops-from-afghanistan" target="_blank" rel="noopener"&gt;Data for Progress&lt;/a&gt;.&lt;/p&gt;
-&lt;/p&gt;'><sup>4</sup></a> all showed support for withdrawal dropping to between 45 and 53 percent, while opposition had risen to between 32 and 37 percent. Notably, of course, this still means more Americans support withdrawal than oppose it, by 12- to 17-point margins.</p>
+<p data-paragraph="main">The grim headlines have also made some Americans rethink their support for withdrawing troops at all. As my colleague Geoffrey Skelley <a href="https://fivethirtyeight.com/features/afghanistan-has-fallen-to-the-taliban-how-will-americans-judge-bidens-decision-to-withdraw/" target="_blank" rel="noopener">wrote on Monday</a>, net support for withdrawal was extremely high before last weekend: between +28 and +46 points. But five polls conducted since Aug. 13<a data-footnote-id="7" href="https://fivethirtyeight.com/wp-json/wp/v2/espn_verticals/398#fn-7" data-footnote-content='&lt;p&gt;&lt;p&gt;The aforementioned Morning Consult, Morning Consult/Politico and YouGov/The Economist polls, plus one poll each from &lt;a href="https://projects.fivethirtyeight.com/polls/20210817_US_JohnZogby.pdf" target="_blank" rel="noopener"&gt;John Zogby Strategies&lt;/a&gt; and &lt;a href="https://www.dataforprogress.org/blog/2021/8/17/voters-support-withdrawing-troops-from-afghanistan" target="_blank" rel="noopener"&gt;Data for Progress&lt;/a&gt;.&lt;/p&gt;
+&lt;/p&gt;'><sup>7</sup></a> all showed support for withdrawal dropping to between 45 and 53 percent, while opposition had risen to between 32 and 37 percent. Notably, of course, this still means more Americans support withdrawal than oppose it, by 12- to 17-point margins.</p>
 
 
 <div>
@@ -292,8 +470,8 @@
 
 
 
-<figure><img loading="lazy" width="1150" height="920" src="https://fivethirtyeight.com/wp-content/uploads/2021/08/biden-approval-rating-2-2.png" alt="" data-src="https://fivethirtyeight.com/wp-content/uploads/2021/08/biden-approval-rating-2-2.png" data-srcset="https://fivethirtyeight.com/wp-content/uploads/2021/08/biden-approval-rating-2-2.png?w=700 1x, https://fivethirtyeight.com/wp-content/uploads/2021/08/biden-approval-rating-2-2.png?w=1400 2x"></figure><p data-paragraph="main">According to FiveThirtyEight’s <a href="https://projects.fivethirtyeight.com/biden-approval-rating/" target="_blank" rel="noopener">presidential approval tracker</a>,<a data-footnote-id="5" href="https://fivethirtyeight.com/wp-json/wp/v2/espn_verticals/398#fn-5" data-footnote-content="&lt;p&gt;&lt;p&gt;As of 5 p.m. Eastern on Thursday.&lt;/p&gt;
-&lt;/p&gt;"><sup>5</sup></a> 49.1 percent of Americans approve of the job Biden is doing as president, while 44.5 percent disapprove (a net approval rating of +4.6 points). At this time <a href="https://fivethirtyeight.com/features/how-the-infrastructure-deal-might-test-the-limits-of-popular-bills/" target="_blank" rel="noopener">last week</a>, 50.2 percent approved and 43.4 percent disapproved (a net approval rating of +6.8 points). One month ago, Biden had an approval rating of 52.5 percent and a disapproval rating of 42.5 percent, for a net approval rating of +10.0 points.</p>
+<figure><img loading="lazy" width="1150" height="920" src="https://fivethirtyeight.com/wp-content/uploads/2021/08/biden-approval-rating-2-2.png" alt="" data-src="https://fivethirtyeight.com/wp-content/uploads/2021/08/biden-approval-rating-2-2.png" data-srcset="https://fivethirtyeight.com/wp-content/uploads/2021/08/biden-approval-rating-2-2.png?w=700 1x, https://fivethirtyeight.com/wp-content/uploads/2021/08/biden-approval-rating-2-2.png?w=1400 2x"></figure><p data-paragraph="main">According to FiveThirtyEight’s <a href="https://projects.fivethirtyeight.com/biden-approval-rating/" target="_blank" rel="noopener">presidential approval tracker</a>,<a data-footnote-id="8" href="https://fivethirtyeight.com/wp-json/wp/v2/espn_verticals/398#fn-8" data-footnote-content="&lt;p&gt;&lt;p&gt;As of 5 p.m. Eastern on Thursday.&lt;/p&gt;
+&lt;/p&gt;"><sup>8</sup></a> 49.1 percent of Americans approve of the job Biden is doing as president, while 44.5 percent disapprove (a net approval rating of +4.6 points). At this time <a href="https://fivethirtyeight.com/features/how-the-infrastructure-deal-might-test-the-limits-of-popular-bills/" target="_blank" rel="noopener">last week</a>, 50.2 percent approved and 43.4 percent disapproved (a net approval rating of +6.8 points). One month ago, Biden had an approval rating of 52.5 percent and a disapproval rating of 42.5 percent, for a net approval rating of +10.0 points.</p>
 
 
 <p>Watch: https://abcnews.go.com/fivethirtyeight/video/bidens-approval-rating-fallen-fivethirtyeight-politics-podcast-79388894</p>
@@ -321,18 +499,18 @@
 
 
 
-<p data-paragraph="main">Indeed, complications from redistricting may have influenced two Democratic House members in highly competitive seats to announce their exits recently, portending trouble for their party in next year’s midterm elections. Perhaps most notably, longtime Wisconsin Rep. Ron Kind <a href="https://www.politico.com/news/2021/08/10/kind-reelection-503343" target="_blank" rel="noopener">announced on Aug. 10 that he wouldn’t seek reelection</a>. With Kind retiring, it will be challenging for Democrats to hold on to his rural, western Wisconsin seat, which is about 9 percentage points more Republican than the country as a whole, according to <a href="https://fivethirtyeight.com/features/how-red-or-blue-is-your-state-your-congressional-district/" target="_blank" rel="noopener">FiveThirtyEight’s partisan lean metric</a>.<a data-footnote-id="6" href="https://fivethirtyeight.com/wp-json/wp/v2/espn_verticals/398#fn-6" data-footnote-content="&lt;p&gt;&lt;p&gt;Partisan lean is the average margin difference between how a state or district votes and how the country votes overall. This version of partisan lean, meant to be used for congressional and gubernatorial elections, is calculated as 50 percent the state or district’s lean relative to the nation in the most recent presidential election, 25 percent its relative lean in the second-most-recent presidential election and 25 percent a custom state-legislative lean based on the statewide popular vote in the last four state House elections.&lt;/p&gt;
-&lt;/p&gt;"><sup>6</sup></a> And in Pennsylvania, Rep. Conor Lamb, a relative newcomer, is leaving his Pittsburgh-area seat, which is 2 points more Republican than the country as a whole. This district could be a tough one for Democrats to retain, especially if redistricting makes his seat even more Republican. Lamb’s motivations are different from Kind’s, however: Lamb is <a href="https://www.nytimes.com/2021/08/06/us/politics/conor-lamb-senate-race-pa.html" target="_blank" rel="noopener">running for retiring Republican Pat Toomey’s seat in the Senate</a>.</p>
+<p data-paragraph="main">Indeed, complications from redistricting may have influenced two Democratic House members in highly competitive seats to announce their exits recently, portending trouble for their party in next year’s midterm elections. Perhaps most notably, longtime Wisconsin Rep. Ron Kind <a href="https://www.politico.com/news/2021/08/10/kind-reelection-503343" target="_blank" rel="noopener">announced on Aug. 10 that he wouldn’t seek reelection</a>. With Kind retiring, it will be challenging for Democrats to hold on to his rural, western Wisconsin seat, which is about 9 percentage points more Republican than the country as a whole, according to <a href="https://fivethirtyeight.com/features/how-red-or-blue-is-your-state-your-congressional-district/" target="_blank" rel="noopener">FiveThirtyEight’s partisan lean metric</a>.<a data-footnote-id="9" href="https://fivethirtyeight.com/wp-json/wp/v2/espn_verticals/398#fn-9" data-footnote-content="&lt;p&gt;&lt;p&gt;Partisan lean is the average margin difference between how a state or district votes and how the country votes overall. This version of partisan lean, meant to be used for congressional and gubernatorial elections, is calculated as 50 percent the state or district’s lean relative to the nation in the most recent presidential election, 25 percent its relative lean in the second-most-recent presidential election and 25 percent a custom state-legislative lean based on the statewide popular vote in the last four state House elections.&lt;/p&gt;
+&lt;/p&gt;"><sup>9</sup></a> And in Pennsylvania, Rep. Conor Lamb, a relative newcomer, is leaving his Pittsburgh-area seat, which is 2 points more Republican than the country as a whole. This district could be a tough one for Democrats to retain, especially if redistricting makes his seat even more Republican. Lamb’s motivations are different from Kind’s, however: Lamb is <a href="https://www.nytimes.com/2021/08/06/us/politics/conor-lamb-senate-race-pa.html" target="_blank" rel="noopener">running for retiring Republican Pat Toomey’s seat in the Senate</a>.</p>
 
 
 
-<p data-paragraph="main">Of course, House Democrats are sitting out reelection for numerous reasons, but it’s an important thing to track, as retirements and runs for other offices can hint at what members expect the midterm landscape to look like. Take the 2018 midterm cycle, when about two times as many House Republicans as Democrats <a href="https://fivethirtyeight.com/features/here-are-all-the-republicans-retiring-from-congress-in-2018/" target="_blank" rel="noopener">decided to leave office</a> ahead of that year’s “<a href="https://fivethirtyeight.com/features/yes-it-was-a-blue-wave/" target="_blank" rel="noopener">blue wave</a>.” And while House Democrats are currently nowhere near the 39 Republicans who threw in the towel before the 2018 election, these departures are still an early warning for them, especially considering Democrats hold a narrow 222-to-213 seat majority,<a data-footnote-id="7" href="https://fivethirtyeight.com/wp-json/wp/v2/espn_verticals/398#fn-7" data-footnote-content='&lt;p&gt;&lt;p&gt;This count includes &lt;a href="https://clerk.house.gov/Members#Vacancies" target="_blank" rel="noopener"&gt;three vacancies in seats&lt;/a&gt; that are safe for one party or the other &amp;#8212; two formerly Democratic-held seats and one formerly Republican-held seat.&lt;/p&gt;
-&lt;/p&gt;'><sup>7</sup></a> meaning Republicans need a net gain of just five seats to capture the chamber. The fact that Democrats may be in trouble shouldn’t come as a surprise, though, since the president’s party <a href="https://fivethirtyeight.com/features/republicans-2020-gains-in-the-house-set-them-up-well-for-2022/" target="_blank" rel="noopener">usually loses ground in midterm House elections</a>.</p>
+<p data-paragraph="main">Of course, House Democrats are sitting out reelection for numerous reasons, but it’s an important thing to track, as retirements and runs for other offices can hint at what members expect the midterm landscape to look like. Take the 2018 midterm cycle, when about two times as many House Republicans as Democrats <a href="https://fivethirtyeight.com/features/here-are-all-the-republicans-retiring-from-congress-in-2018/" target="_blank" rel="noopener">decided to leave office</a> ahead of that year’s “<a href="https://fivethirtyeight.com/features/yes-it-was-a-blue-wave/" target="_blank" rel="noopener">blue wave</a>.” And while House Democrats are currently nowhere near the 39 Republicans who threw in the towel before the 2018 election, these departures are still an early warning for them, especially considering Democrats hold a narrow 222-to-213 seat majority,<a data-footnote-id="10" href="https://fivethirtyeight.com/wp-json/wp/v2/espn_verticals/398#fn-10" data-footnote-content='&lt;p&gt;&lt;p&gt;This count includes &lt;a href="https://clerk.house.gov/Members#Vacancies" target="_blank" rel="noopener"&gt;three vacancies in seats&lt;/a&gt; that are safe for one party or the other &amp;#8212; two formerly Democratic-held seats and one formerly Republican-held seat.&lt;/p&gt;
+&lt;/p&gt;'><sup>10</sup></a> meaning Republicans need a net gain of just five seats to capture the chamber. The fact that Democrats may be in trouble shouldn’t come as a surprise, though, since the president’s party <a href="https://fivethirtyeight.com/features/republicans-2020-gains-in-the-house-set-them-up-well-for-2022/" target="_blank" rel="noopener">usually loses ground in midterm House elections</a>.</p>
 
 
 
-<p data-paragraph="main">Overall, 16 representatives have announced their departures,<a data-footnote-id="8" href="https://fivethirtyeight.com/wp-json/wp/v2/espn_verticals/398#fn-8" data-footnote-content="&lt;p&gt;&lt;p&gt;As of 5 p.m. Eastern on Wednesday.&lt;/p&gt;
-&lt;/p&gt;"><sup>8</sup></a> but in another ominous sign for Democrats, the type of seats the two parties are leaving open differs dramatically, as the table below shows. Seven of the eight outgoing Democrats represent districts that are less than 5 points more Democratic than the country as a whole — including the seats held by Kind and Lamb — which could make those seats easier for the GOP to flip next year. By comparison, only one Republican is leaving a seat that’s less than 10 points more Republican, meaning retirements and departures from office haven’t left the GOP as exposed.</p>
+<p data-paragraph="main">Overall, 16 representatives have announced their departures,<a data-footnote-id="11" href="https://fivethirtyeight.com/wp-json/wp/v2/espn_verticals/398#fn-11" data-footnote-content="&lt;p&gt;&lt;p&gt;As of 5 p.m. Eastern on Wednesday.&lt;/p&gt;
+&lt;/p&gt;"><sup>11</sup></a> but in another ominous sign for Democrats, the type of seats the two parties are leaving open differs dramatically, as the table below shows. Seven of the eight outgoing Democrats represent districts that are less than 5 points more Democratic than the country as a whole — including the seats held by Kind and Lamb — which could make those seats easier for the GOP to flip next year. By comparison, only one Republican is leaving a seat that’s less than 10 points more Republican, meaning retirements and departures from office haven’t left the GOP as exposed.</p>
 
 
 <div>
@@ -771,8 +949,8 @@
 
 
 
-<p data-paragraph="main">DeSantis’s decision to <a href="https://www.miamiherald.com/news/local/news-columns-blogs/fabiola-santiago/article253269883.html" target="_blank" rel="noopener">scapegoat immigrants</a> for the record number of coronavirus cases is important, though, as it speaks to a larger strategy within the GOP: attack Biden’s immigration policies at every conceivable turn. Prominent Republicans, including <a href="https://www.washingtonpost.com/politics/trump-border-visit/2021/06/30/8c5165ac-d91c-11eb-8fb8-aea56b785b00_story.html" target="_blank" rel="noopener">former President Donald Trump</a> and <a href="https://www.youtube.com/watch?v=pbGyi9H-v1g" target="_blank" rel="noopener">Sens. Ted Cruz</a> and <a href="https://www.independent.co.uk/news/world/americas/us-politics/lindsey-graham-biden-apology-southern-border-migrant-children-b1823688.html" target="_blank" rel="noopener">Lindsey Graham</a>, not to mention dozens of <a href="https://www.newsweek.com/list-republican-senators-border-joe-biden-pressure-1578666" target="_blank" rel="noopener">other GOP lawmakers</a>, have been vocal in their criticism of how the Biden administration has handled immigration. Conservative cable news channel <a href="https://www.foxnews.com/category/us/immigration" target="_blank" rel="noopener">Fox News</a> has also doubled down on its immigration coverage since Biden’s inauguration, <a href="https://api.gdeltproject.org/api/v2/summary/summary?d=iatv&amp;t=summary&amp;k=%28border+OR+immigration+OR+immigrant%29&amp;ts=custom&amp;sdt=20210120000000&amp;edt=20210811235959&amp;fs=station%3ACNN&amp;fs=station%3AFOXNEWS&amp;fs=station%3AMSNBC&amp;fdn=raw&amp;fdr=day&amp;svt=zoom&amp;svts=zoom&amp;swvt=zoom&amp;ssc=yes&amp;sshc=yes&amp;swc=yes&amp;stcl=yes&amp;c=1" target="_blank" rel="noopener">mentioning</a> “immigration,” “immigrant” or the “border” more than 39,000 times compared with fewer than 7,000 and 9,000 mentions on CNN and MSNBC, respectively.<a data-footnote-id="9" href="https://fivethirtyeight.com/wp-json/wp/v2/espn_verticals/398#fn-9" data-footnote-content="&lt;p&gt;&lt;p&gt;We ran a search of CNN, Fox News and MSNBC coverage from Jan. 20 to Aug. 11 in the TV News Archive using the GDELT Television API. In that database, daily news footage is split into 15-second clips, and searches return the clips that contain a mention of our search query (“immigration” or “immigrant” or “border”).&lt;/p&gt;
-&lt;/p&gt;"><sup>9</sup></a></p>
+<p data-paragraph="main">DeSantis’s decision to <a href="https://www.miamiherald.com/news/local/news-columns-blogs/fabiola-santiago/article253269883.html" target="_blank" rel="noopener">scapegoat immigrants</a> for the record number of coronavirus cases is important, though, as it speaks to a larger strategy within the GOP: attack Biden’s immigration policies at every conceivable turn. Prominent Republicans, including <a href="https://www.washingtonpost.com/politics/trump-border-visit/2021/06/30/8c5165ac-d91c-11eb-8fb8-aea56b785b00_story.html" target="_blank" rel="noopener">former President Donald Trump</a> and <a href="https://www.youtube.com/watch?v=pbGyi9H-v1g" target="_blank" rel="noopener">Sens. Ted Cruz</a> and <a href="https://www.independent.co.uk/news/world/americas/us-politics/lindsey-graham-biden-apology-southern-border-migrant-children-b1823688.html" target="_blank" rel="noopener">Lindsey Graham</a>, not to mention dozens of <a href="https://www.newsweek.com/list-republican-senators-border-joe-biden-pressure-1578666" target="_blank" rel="noopener">other GOP lawmakers</a>, have been vocal in their criticism of how the Biden administration has handled immigration. Conservative cable news channel <a href="https://www.foxnews.com/category/us/immigration" target="_blank" rel="noopener">Fox News</a> has also doubled down on its immigration coverage since Biden’s inauguration, <a href="https://api.gdeltproject.org/api/v2/summary/summary?d=iatv&amp;t=summary&amp;k=%28border+OR+immigration+OR+immigrant%29&amp;ts=custom&amp;sdt=20210120000000&amp;edt=20210811235959&amp;fs=station%3ACNN&amp;fs=station%3AFOXNEWS&amp;fs=station%3AMSNBC&amp;fdn=raw&amp;fdr=day&amp;svt=zoom&amp;svts=zoom&amp;swvt=zoom&amp;ssc=yes&amp;sshc=yes&amp;swc=yes&amp;stcl=yes&amp;c=1" target="_blank" rel="noopener">mentioning</a> “immigration,” “immigrant” or the “border” more than 39,000 times compared with fewer than 7,000 and 9,000 mentions on CNN and MSNBC, respectively.<a data-footnote-id="12" href="https://fivethirtyeight.com/wp-json/wp/v2/espn_verticals/398#fn-12" data-footnote-content="&lt;p&gt;&lt;p&gt;We ran a search of CNN, Fox News and MSNBC coverage from Jan. 20 to Aug. 11 in the TV News Archive using the GDELT Television API. In that database, daily news footage is split into 15-second clips, and searches return the clips that contain a mention of our search query (“immigration” or “immigrant” or “border”).&lt;/p&gt;
+&lt;/p&gt;"><sup>12</sup></a></p>
 
 
 
@@ -1792,8 +1970,8 @@
 			<category>Redistricting</category>
 			<category>Representation</category>
 			<category>U.S. House</category>
-			<description><![CDATA[<p data-paragraph="main">Apportionment, or the process of determining <a href="https://www.census.gov/data/tables/2020/dec/2020-apportionment-data.html" target="_blank" rel="noopener">the number of seats</a> each state has in the U.S. House of Representatives, happens like clockwork at this point. Every 10 years, the Census Bureau counts how many people each state has and then uses that number to calculate how many representatives each state gets out of the 435 seats.<a data-footnote-id="10" href="https://fivethirtyeight.com/wp-json/wp/v2/espn_verticals/398#fn-10" data-footnote-content='&lt;p&gt;&lt;p&gt;Strictly speaking, the House has &lt;a href="https://history.house.gov/Institution/Apportionment/Determining-Apportionment/#:~:text=The%20total%20membership%20of%20the,Representatives%20from%20the%2050%20states." target="_blank" rel="noopener"&gt;441 members&lt;/a&gt;: 435 are voting members from each of the 50 states, and six are nonvoting members. The District of Columbia, Guam, the U.S. Virgin Islands, the Northern Mariana Islands and American Samoa each have a delegate, while Puerto Rico has a resident commissioner.&lt;/p&gt;
-&lt;/p&gt;'><sup>10</sup></a> In April, for instance, we learned from the reapportionment process that <a href="https://fivethirtyeight.com/features/which-states-won-and-lost-seats-in-the-2020-census/" target="_blank" rel="noopener">California would lose a seat for the very first time</a> while Texas would gain two.</p>
+			<description><![CDATA[<p data-paragraph="main">Apportionment, or the process of determining <a href="https://www.census.gov/data/tables/2020/dec/2020-apportionment-data.html" target="_blank" rel="noopener">the number of seats</a> each state has in the U.S. House of Representatives, happens like clockwork at this point. Every 10 years, the Census Bureau counts how many people each state has and then uses that number to calculate how many representatives each state gets out of the 435 seats.<a data-footnote-id="13" href="https://fivethirtyeight.com/wp-json/wp/v2/espn_verticals/398#fn-13" data-footnote-content='&lt;p&gt;&lt;p&gt;Strictly speaking, the House has &lt;a href="https://history.house.gov/Institution/Apportionment/Determining-Apportionment/#:~:text=The%20total%20membership%20of%20the,Representatives%20from%20the%2050%20states." target="_blank" rel="noopener"&gt;441 members&lt;/a&gt;: 435 are voting members from each of the 50 states, and six are nonvoting members. The District of Columbia, Guam, the U.S. Virgin Islands, the Northern Mariana Islands and American Samoa each have a delegate, while Puerto Rico has a resident commissioner.&lt;/p&gt;
+&lt;/p&gt;'><sup>13</sup></a> In April, for instance, we learned from the reapportionment process that <a href="https://fivethirtyeight.com/features/which-states-won-and-lost-seats-in-the-2020-census/" target="_blank" rel="noopener">California would lose a seat for the very first time</a> while Texas would gain two.</p>
 
 
 
@@ -1811,8 +1989,8 @@
 
 
 
-<p data-paragraph="main">“The <a href="https://www.politico.com/story/2016/04/washington-casts-first-presidential-veto-april-5-1792-221503" target="_blank" rel="noopener">first presidential veto</a> was used on the apportionment law, so it’s been a hot issue from the very, very beginning,” said <a href="https://uwm.edu/history/people/anderson-margo/" target="_blank" rel="noopener">Margo Anderson</a>, a professor emerita at University of Wisconsin-Milwaukee who studies <a href="http://yalebooks.com/book/9780300195422/american-census" target="_blank" rel="noopener">the social and political history of the census</a>. In fact, until the House was capped at 435 seats<a data-footnote-id="11" href="https://fivethirtyeight.com/wp-json/wp/v2/espn_verticals/398#fn-11" data-footnote-content="&lt;p&gt;&lt;p&gt;This number increased to 437 in 1959 to accommodate the statehood of Alaska and Hawaii but returned to 435 in 1963, after the reapportionment process in 1960.&lt;/p&gt;
-&lt;/p&gt;"><sup>11</sup></a> by the <a href="https://history.house.gov/Historical-Highlights/1901-1950/The-Permanent-Apportionment-Act-of-1929/" target="_blank" rel="noopener">1929 Permanent Apportionment Act</a>, each apportionment period was regularly accompanied by clashes over how to best divvy up political power in Congress — including the size of the House.</p>
+<p data-paragraph="main">“The <a href="https://www.politico.com/story/2016/04/washington-casts-first-presidential-veto-april-5-1792-221503" target="_blank" rel="noopener">first presidential veto</a> was used on the apportionment law, so it’s been a hot issue from the very, very beginning,” said <a href="https://uwm.edu/history/people/anderson-margo/" target="_blank" rel="noopener">Margo Anderson</a>, a professor emerita at University of Wisconsin-Milwaukee who studies <a href="http://yalebooks.com/book/9780300195422/american-census" target="_blank" rel="noopener">the social and political history of the census</a>. In fact, until the House was capped at 435 seats<a data-footnote-id="14" href="https://fivethirtyeight.com/wp-json/wp/v2/espn_verticals/398#fn-14" data-footnote-content="&lt;p&gt;&lt;p&gt;This number increased to 437 in 1959 to accommodate the statehood of Alaska and Hawaii but returned to 435 in 1963, after the reapportionment process in 1960.&lt;/p&gt;
+&lt;/p&gt;"><sup>14</sup></a> by the <a href="https://history.house.gov/Historical-Highlights/1901-1950/The-Permanent-Apportionment-Act-of-1929/" target="_blank" rel="noopener">1929 Permanent Apportionment Act</a>, each apportionment period was regularly accompanied by clashes over how to best divvy up political power in Congress — including the size of the House.</p>
 
 
 
@@ -1822,8 +2000,8 @@
 <p>Watch: https://abcnews.go.com/fivethirtyeight/video/bidens-approval-rating-fallen-fivethirtyeight-politics-podcast-79388894</p>
 
 
-<p data-paragraph="main">On the other hand, the fact that the size of the House hasn’t increased in more than a century is a real problem for our democracy. For starters, there is an ever wider gulf between Americans and their representatives, as the average number of people represented in a district has more than tripled, from about 210,000 in 1910 to about 760,000 in 2020.<a data-footnote-id="12" href="https://fivethirtyeight.com/wp-json/wp/v2/espn_verticals/398#fn-12" data-footnote-content='&lt;p&gt;&lt;p&gt;Throughout this piece, we’ll often refer to census years as the time when the House was reapportioned for simplicity’s sake. But historically, Congress has &lt;a href="https://www.census.gov/history/www/reference/apportionment/apportionment_legislation_1790_-_1830.html" target="_blank" rel="noopener"&gt;usually passed apportionment acts&lt;/a&gt; in the year or two &lt;em&gt;after&lt;/em&gt; the census was released, but still in time for elections ahead of the next Congress.&lt;/p&gt;
-&lt;/p&gt;'><sup>12</sup></a> Moreover, some states are severely <a href="https://apportionment.us/Ladewig&amp;Jasinski.pdf" target="_blank" rel="noopener">over- and underrepresented</a> as a result.</p>
+<p data-paragraph="main">On the other hand, the fact that the size of the House hasn’t increased in more than a century is a real problem for our democracy. For starters, there is an ever wider gulf between Americans and their representatives, as the average number of people represented in a district has more than tripled, from about 210,000 in 1910 to about 760,000 in 2020.<a data-footnote-id="15" href="https://fivethirtyeight.com/wp-json/wp/v2/espn_verticals/398#fn-15" data-footnote-content='&lt;p&gt;&lt;p&gt;Throughout this piece, we’ll often refer to census years as the time when the House was reapportioned for simplicity’s sake. But historically, Congress has &lt;a href="https://www.census.gov/history/www/reference/apportionment/apportionment_legislation_1790_-_1830.html" target="_blank" rel="noopener"&gt;usually passed apportionment acts&lt;/a&gt; in the year or two &lt;em&gt;after&lt;/em&gt; the census was released, but still in time for elections ahead of the next Congress.&lt;/p&gt;
+&lt;/p&gt;'><sup>15</sup></a> Moreover, some states are severely <a href="https://apportionment.us/Ladewig&amp;Jasinski.pdf" target="_blank" rel="noopener">over- and underrepresented</a> as a result.</p>
 
 
 
@@ -1843,8 +2021,8 @@
 
 
 
-<p data-paragraph="main">Up until 1910, when the chamber <a href="https://www.census.gov/history/pdf/1910_Apportionment.pdf" target="_blank" rel="noopener">expanded from 391 to 435 seats,</a><a data-footnote-id="13" href="https://fivethirtyeight.com/wp-json/wp/v2/espn_verticals/398#fn-13" data-footnote-content='&lt;p&gt;&lt;p&gt;Upon statehood, Congress added two seats for New Mexico and one for Arizona in 1912 during the &lt;a href="https://history.house.gov/Congressional-Overview/Profiles/62nd/" target="_blank" rel="noopener"&gt;62nd Congress&lt;/a&gt;, which had already passed the &lt;a href="https://www.census.gov/history/pdf/1910_Apportionment.pdf" target="_blank" rel="noopener"&gt;Apportionment Act of 1911&lt;/a&gt;. This brought the total number of House seats to 394 before the House expanded to 435 seats in the 63rd Congress.&lt;/p&gt;
-&lt;/p&gt;'><sup>13</sup></a> the size of the House had experienced a mostly unchecked pattern of growth. Only once, after the 1840 census, did the number of seats in the House not increase; 1910, however, marked the last time the House grew, even though the U.S. population has more than tripled since then, from over 90 million in 1910 to over 330 million today.</p>
+<p data-paragraph="main">Up until 1910, when the chamber <a href="https://www.census.gov/history/pdf/1910_Apportionment.pdf" target="_blank" rel="noopener">expanded from 391 to 435 seats,</a><a data-footnote-id="16" href="https://fivethirtyeight.com/wp-json/wp/v2/espn_verticals/398#fn-16" data-footnote-content='&lt;p&gt;&lt;p&gt;Upon statehood, Congress added two seats for New Mexico and one for Arizona in 1912 during the &lt;a href="https://history.house.gov/Congressional-Overview/Profiles/62nd/" target="_blank" rel="noopener"&gt;62nd Congress&lt;/a&gt;, which had already passed the &lt;a href="https://www.census.gov/history/pdf/1910_Apportionment.pdf" target="_blank" rel="noopener"&gt;Apportionment Act of 1911&lt;/a&gt;. This brought the total number of House seats to 394 before the House expanded to 435 seats in the 63rd Congress.&lt;/p&gt;
+&lt;/p&gt;'><sup>16</sup></a> the size of the House had experienced a mostly unchecked pattern of growth. Only once, after the 1840 census, did the number of seats in the House not increase; 1910, however, marked the last time the House grew, even though the U.S. population has more than tripled since then, from over 90 million in 1910 to over 330 million today.</p>
 
 
 
@@ -1852,8 +2030,8 @@
 
 
 
-<p data-paragraph="main">Nevertheless, the Republican chair of the House Census Committee <a href="https://datasociety.net/wp-content/uploads/2021/04/House-Arrest-Dan-Bouk.pdf" target="_blank" rel="noopener">put forward legislation</a> in 1921 to increase the size of the House by 48 seats — 483 in total. Once again, this would have prevented any state from losing a seat, a politically attractive option.<a data-footnote-id="14" href="https://fivethirtyeight.com/wp-json/wp/v2/espn_verticals/398#fn-14" data-footnote-content="&lt;p&gt;&lt;p&gt;Minimizing seat loss had long been a major consideration in the apportionment process, to the point that only a handful of states lost any seats in the five apportionments from 1870 to 1910.&lt;/p&gt;
-&lt;/p&gt;"><sup>14</sup></a> But this time both parties were deeply divided over expanding the House, with arguments that adding seats would be too expensive or hinder legislative functions. </p>
+<p data-paragraph="main">Nevertheless, the Republican chair of the House Census Committee <a href="https://datasociety.net/wp-content/uploads/2021/04/House-Arrest-Dan-Bouk.pdf" target="_blank" rel="noopener">put forward legislation</a> in 1921 to increase the size of the House by 48 seats — 483 in total. Once again, this would have prevented any state from losing a seat, a politically attractive option.<a data-footnote-id="17" href="https://fivethirtyeight.com/wp-json/wp/v2/espn_verticals/398#fn-17" data-footnote-content="&lt;p&gt;&lt;p&gt;Minimizing seat loss had long been a major consideration in the apportionment process, to the point that only a handful of states lost any seats in the five apportionments from 1870 to 1910.&lt;/p&gt;
+&lt;/p&gt;"><sup>17</sup></a> But this time both parties were deeply divided over expanding the House, with arguments that adding seats would be too expensive or hinder legislative functions. </p>
 
 
 
@@ -1871,8 +2049,8 @@
 <p>Watch: https://abcnews.go.com/fivethirtyeight/video/cuomo-resigning-now-fivethirtyeight-politics-podcast-79389991</p>
 
 
-<p data-paragraph="main">Fortunately for electoral legitimacy, Republican Herbert Hoover won both the popular and electoral vote <a href="https://uselectionatlas.org/RESULTS/national.php?year=1928&amp;f=0&amp;off=0&amp;elect=0" target="_blank" rel="noopener">in the 1928</a> presidential election. Having served from 1921 to 1928 as secretary of commerce, which oversees the Census Bureau, he was especially cognizant of Congress’s apportionment failure. In April 1929, Hoover called a special session of Congress, where one of the main focuses was apportionment, and by June, legislation had passed both the House and Senate and was signed by Hoover. The law, the Apportionment Act of 1929, created what we know as the “automatic” reapportionment process today. It capped the number of House seats at 435 and moved the responsibility of determining the seat count from Congress to the president — an early example of <a href="https://today.law.harvard.edu/feature/presidential-power-surges/" target="_blank" rel="noopener">Congress giving away power</a> to the executive branch.<a data-footnote-id="15" href="https://fivethirtyeight.com/wp-json/wp/v2/espn_verticals/398#fn-15" data-footnote-content='&lt;p&gt;&lt;p&gt;This is why even now the secretary of commerce &lt;a href="https://uscode.house.gov/view.xhtml?req=(title:13%20section:141%20edition:prelim)%20OR%20(granuleid:USC-prelim-title13-section141)&amp;amp;f=treesort&amp;amp;edition=prelim&amp;amp;num=0&amp;amp;jumpTo=true" target="_blank" rel="noopener"&gt;reports apportionment figures&lt;/a&gt; to the president, who then transmits that information to Congress.&lt;/p&gt;
-&lt;/p&gt;'><sup>15</sup></a></p>
+<p data-paragraph="main">Fortunately for electoral legitimacy, Republican Herbert Hoover won both the popular and electoral vote <a href="https://uselectionatlas.org/RESULTS/national.php?year=1928&amp;f=0&amp;off=0&amp;elect=0" target="_blank" rel="noopener">in the 1928</a> presidential election. Having served from 1921 to 1928 as secretary of commerce, which oversees the Census Bureau, he was especially cognizant of Congress’s apportionment failure. In April 1929, Hoover called a special session of Congress, where one of the main focuses was apportionment, and by June, legislation had passed both the House and Senate and was signed by Hoover. The law, the Apportionment Act of 1929, created what we know as the “automatic” reapportionment process today. It capped the number of House seats at 435 and moved the responsibility of determining the seat count from Congress to the president — an early example of <a href="https://today.law.harvard.edu/feature/presidential-power-surges/" target="_blank" rel="noopener">Congress giving away power</a> to the executive branch.<a data-footnote-id="18" href="https://fivethirtyeight.com/wp-json/wp/v2/espn_verticals/398#fn-18" data-footnote-content='&lt;p&gt;&lt;p&gt;This is why even now the secretary of commerce &lt;a href="https://uscode.house.gov/view.xhtml?req=(title:13%20section:141%20edition:prelim)%20OR%20(granuleid:USC-prelim-title13-section141)&amp;amp;f=treesort&amp;amp;edition=prelim&amp;amp;num=0&amp;amp;jumpTo=true" target="_blank" rel="noopener"&gt;reports apportionment figures&lt;/a&gt; to the president, who then transmits that information to Congress.&lt;/p&gt;
+&lt;/p&gt;'><sup>18</sup></a></p>
 
 
 
@@ -1884,8 +2062,8 @@
 
 
 
-<p data-paragraph="main">In fact, the law’s lack of a population requirement helps explain why more than half of all members from rural districts backed it, even though most of the states that lost seats were based in the rural South and Midwest.<a data-footnote-id="16" href="https://fivethirtyeight.com/wp-json/wp/v2/espn_verticals/398#fn-16" data-footnote-content="&lt;p&gt;&lt;p&gt;In total, 21 states lost seats as part of the reapportionment process, and most of them were in the South or Midwest. Meanwhile, the 11 states that gained seats were industrial states like New York and Michigan and fast-growing states mostly in the West.&lt;/p&gt;
-&lt;/p&gt;"><sup>16</sup></a> These representatives knew their states might lose seats, but they hedged that their slower-growing or shrinking districts might not end up on the chopping block now that the apportionment process didn’t require districts to have equal populations.</p>
+<p data-paragraph="main">In fact, the law’s lack of a population requirement helps explain why more than half of all members from rural districts backed it, even though most of the states that lost seats were based in the rural South and Midwest.<a data-footnote-id="19" href="https://fivethirtyeight.com/wp-json/wp/v2/espn_verticals/398#fn-19" data-footnote-content="&lt;p&gt;&lt;p&gt;In total, 21 states lost seats as part of the reapportionment process, and most of them were in the South or Midwest. Meanwhile, the 11 states that gained seats were industrial states like New York and Michigan and fast-growing states mostly in the West.&lt;/p&gt;
+&lt;/p&gt;"><sup>19</sup></a> These representatives knew their states might lose seats, but they hedged that their slower-growing or shrinking districts might not end up on the chopping block now that the apportionment process didn’t require districts to have equal populations.</p>
 
 
 
@@ -2076,10 +2254,10 @@
 
 
 
-<p data-paragraph="main">Adding seats to the House could have <a href="https://contentdm.washburnlaw.edu/digital/collection/wlj/id/5912/" target="_blank" rel="noopener">electoral benefits</a>, too. First, a growing House would make it less likely that states lose representation in the reapportionment process. Under current conditions, states with a shrinking population often lose seats, but this is true even of states where the population is growing.<a data-footnote-id="17" href="https://fivethirtyeight.com/wp-json/wp/v2/espn_verticals/398#fn-17" data-footnote-content="&lt;p&gt;&lt;p&gt;Michigan, Ohio and Pennsylvania all grew about 2 percent between 2010 and 2020, for instance, but all three states still lost seats in the 2020 apportionment process.&lt;/p&gt;
-&lt;/p&gt;"><sup>17</sup></a> An expansion of the House would also help reduce the Electoral College’s bias toward small states, as more populous states would pick up more representatives, and therefore electoral votes in the Electoral College.<a data-footnote-id="18" href="https://fivethirtyeight.com/wp-json/wp/v2/espn_verticals/398#fn-18" data-footnote-content="&lt;p&gt;&lt;p&gt;A state’s electoral vote count is the total number of representatives plus a state’s two senators. (The current number of electors is also what FiveThirtyEight is named after, so if this happened, we might have to consider a name change. Perhaps SixThirtyEight?)&lt;/p&gt;
-&lt;/p&gt;"><sup>18</sup></a> And finally, a larger House could theoretically <a href="https://www.fordham.edu/download/downloads/id/14402/Why_the_House_Must_Be_Expanded___Democracy_Clinic.pdf" target="_blank" rel="noopener">help reduce partisan gerrymandering</a>. As Rodden told me, when you add more and more seats, you converge on proportional representation at some point because the districts just become so small. Still, he cautioned that line drawers could get pretty creative, so more districts might not always result in more proportional representation.<a data-footnote-id="19" href="https://fivethirtyeight.com/wp-json/wp/v2/espn_verticals/398#fn-19" data-footnote-content='&lt;p&gt;&lt;p&gt;In &lt;a href="https://www.semanticscholar.org/paper/Unintentional-Gerrymandering%3A-Political-Geography-Chen-Rodden/05b1766bb58a5419d28dae07e4cbc7e27f2109ec" target="_blank" rel="noopener"&gt;a 2013 paper&lt;/a&gt; that Rodden co-authored, he found that the more districts were added to Florida’s map, the more proportional the partisan split became across those districts, although Republicans still retained an advantage given Democrats’ overconcentration in urban areas. But he didn’t find this pattern everywhere. For instance, his forthcoming study of Pennsylvania’s map didn’t find that adding more districts led to more proportional outcomes.&lt;/p&gt;
-&lt;/p&gt;'><sup>19</sup></a> </p>
+<p data-paragraph="main">Adding seats to the House could have <a href="https://contentdm.washburnlaw.edu/digital/collection/wlj/id/5912/" target="_blank" rel="noopener">electoral benefits</a>, too. First, a growing House would make it less likely that states lose representation in the reapportionment process. Under current conditions, states with a shrinking population often lose seats, but this is true even of states where the population is growing.<a data-footnote-id="20" href="https://fivethirtyeight.com/wp-json/wp/v2/espn_verticals/398#fn-20" data-footnote-content="&lt;p&gt;&lt;p&gt;Michigan, Ohio and Pennsylvania all grew about 2 percent between 2010 and 2020, for instance, but all three states still lost seats in the 2020 apportionment process.&lt;/p&gt;
+&lt;/p&gt;"><sup>20</sup></a> An expansion of the House would also help reduce the Electoral College’s bias toward small states, as more populous states would pick up more representatives, and therefore electoral votes in the Electoral College.<a data-footnote-id="21" href="https://fivethirtyeight.com/wp-json/wp/v2/espn_verticals/398#fn-21" data-footnote-content="&lt;p&gt;&lt;p&gt;A state’s electoral vote count is the total number of representatives plus a state’s two senators. (The current number of electors is also what FiveThirtyEight is named after, so if this happened, we might have to consider a name change. Perhaps SixThirtyEight?)&lt;/p&gt;
+&lt;/p&gt;"><sup>21</sup></a> And finally, a larger House could theoretically <a href="https://www.fordham.edu/download/downloads/id/14402/Why_the_House_Must_Be_Expanded___Democracy_Clinic.pdf" target="_blank" rel="noopener">help reduce partisan gerrymandering</a>. As Rodden told me, when you add more and more seats, you converge on proportional representation at some point because the districts just become so small. Still, he cautioned that line drawers could get pretty creative, so more districts might not always result in more proportional representation.<a data-footnote-id="22" href="https://fivethirtyeight.com/wp-json/wp/v2/espn_verticals/398#fn-22" data-footnote-content='&lt;p&gt;&lt;p&gt;In &lt;a href="https://www.semanticscholar.org/paper/Unintentional-Gerrymandering%3A-Political-Geography-Chen-Rodden/05b1766bb58a5419d28dae07e4cbc7e27f2109ec" target="_blank" rel="noopener"&gt;a 2013 paper&lt;/a&gt; that Rodden co-authored, he found that the more districts were added to Florida’s map, the more proportional the partisan split became across those districts, although Republicans still retained an advantage given Democrats’ overconcentration in urban areas. But he didn’t find this pattern everywhere. For instance, his forthcoming study of Pennsylvania’s map didn’t find that adding more districts led to more proportional outcomes.&lt;/p&gt;
+&lt;/p&gt;'><sup>22</sup></a> </p>
 
 
 
@@ -2103,8 +2281,8 @@
 
 
 
-<figure><img loading="lazy" width="2048" height="1246" src="https://fivethirtyeight.com/wp-content/uploads/2021/08/skelley.STUCK-AT-435.3.png" alt="" data-src="https://fivethirtyeight.com/wp-content/uploads/2021/08/skelley.STUCK-AT-435.3.png" data-srcset="https://fivethirtyeight.com/wp-content/uploads/2021/08/skelley.STUCK-AT-435.3.png?w=700 1x, https://fivethirtyeight.com/wp-content/uploads/2021/08/skelley.STUCK-AT-435.3.png?w=1400 2x"></figure><figure><img loading="lazy" width="620" height="1690" src="https://fivethirtyeight.com/wp-content/uploads/2021/08/skelley.STUCK-AT-435.3-mob.png" alt="" data-src="https://fivethirtyeight.com/wp-content/uploads/2021/08/skelley.STUCK-AT-435.3-mob.png" data-srcset="https://fivethirtyeight.com/wp-content/uploads/2021/08/skelley.STUCK-AT-435.3-mob.png?w=620 1x, https://fivethirtyeight.com/wp-content/uploads/2021/08/skelley.STUCK-AT-435.3-mob.png?w=1240 2x"></figure><p data-paragraph="main">Take Canada. Its lower legislative chamber, the House of Commons, has 338 seats, almost exactly in line with the cube root law’s expectation of 335 seats. This is in large part because Canada has <a href="https://redecoupage-federal-redistribution.ca/content.asp?section=info&amp;dir=his/rep&amp;document=p1&amp;lang=e" target="_blank" rel="noopener">frequently adjusted the chamber’s seat count</a> to account for population growth. But other bigger democracies like Brazil and Japan also have seat counts that fall fairly close to the cube root of their respective populations. Of course, this isn’t true of every democracy Shugart and his co-authors studied. Some countries like the U.S. fall well below the cube root of its population. And countries like Australia, India and Israel are even more underrepresented than the U.S. in their legislatures.<a data-footnote-id="20" href="https://fivethirtyeight.com/wp-json/wp/v2/espn_verticals/398#fn-20" data-footnote-content="&lt;p&gt;&lt;p&gt;The lower chambers in the case of Australia and India. Israel has a unicameral legislature.&lt;/p&gt;
-&lt;/p&gt;"><sup>20</sup></a> It’s also the case that some countries like Germany, Italy and the U.K. may actually be <em>overrepresented</em> in their lower chambers — for instance, the U.K.’s House of Commons has 650 seats, well more than the expected 404 seats.</p>
+<figure><img loading="lazy" width="2048" height="1246" src="https://fivethirtyeight.com/wp-content/uploads/2021/08/skelley.STUCK-AT-435.3.png" alt="" data-src="https://fivethirtyeight.com/wp-content/uploads/2021/08/skelley.STUCK-AT-435.3.png" data-srcset="https://fivethirtyeight.com/wp-content/uploads/2021/08/skelley.STUCK-AT-435.3.png?w=700 1x, https://fivethirtyeight.com/wp-content/uploads/2021/08/skelley.STUCK-AT-435.3.png?w=1400 2x"></figure><figure><img loading="lazy" width="620" height="1690" src="https://fivethirtyeight.com/wp-content/uploads/2021/08/skelley.STUCK-AT-435.3-mob.png" alt="" data-src="https://fivethirtyeight.com/wp-content/uploads/2021/08/skelley.STUCK-AT-435.3-mob.png" data-srcset="https://fivethirtyeight.com/wp-content/uploads/2021/08/skelley.STUCK-AT-435.3-mob.png?w=620 1x, https://fivethirtyeight.com/wp-content/uploads/2021/08/skelley.STUCK-AT-435.3-mob.png?w=1240 2x"></figure><p data-paragraph="main">Take Canada. Its lower legislative chamber, the House of Commons, has 338 seats, almost exactly in line with the cube root law’s expectation of 335 seats. This is in large part because Canada has <a href="https://redecoupage-federal-redistribution.ca/content.asp?section=info&amp;dir=his/rep&amp;document=p1&amp;lang=e" target="_blank" rel="noopener">frequently adjusted the chamber’s seat count</a> to account for population growth. But other bigger democracies like Brazil and Japan also have seat counts that fall fairly close to the cube root of their respective populations. Of course, this isn’t true of every democracy Shugart and his co-authors studied. Some countries like the U.S. fall well below the cube root of its population. And countries like Australia, India and Israel are even more underrepresented than the U.S. in their legislatures.<a data-footnote-id="23" href="https://fivethirtyeight.com/wp-json/wp/v2/espn_verticals/398#fn-23" data-footnote-content="&lt;p&gt;&lt;p&gt;The lower chambers in the case of Australia and India. Israel has a unicameral legislature.&lt;/p&gt;
+&lt;/p&gt;"><sup>23</sup></a> It’s also the case that some countries like Germany, Italy and the U.K. may actually be <em>overrepresented</em> in their lower chambers — for instance, the U.K.’s House of Commons has 650 seats, well more than the expected 404 seats.</p>
 
 
 <div>
@@ -2461,73 +2639,6 @@
 <p data-paragraph="main">Republican politics have become so animated by white victimhood in the Trump era that any honest accounting of racial injustice in U.S. history is <a href="https://fivethirtyeight.com/features/how-the-politics-of-white-liberals-and-white-conservatives-are-shaped-by-whiteness/" target="_blank" rel="noopener">almost certain to draw conservative ire</a>. Indeed, I found that the share of Republicans who think there’s too much Black history taught in schools <a href="https://www.washingtonpost.com/news/monkey-cage/wp/2018/02/28/democrats-and-republicans-are-increasingly-divided-on-the-value-of-teaching-black-history/" target="_blank" rel="noopener">increased by 30 percentage points</a> from 2000 to 2018. But when you combine the rise of white identity politics in the GOP with its mischaracterization of critical race theory as tantamount to anti-white indoctrination, it’s even easier to see how a relatively obscure framework emerged as a leading issue in Republican Party politics. Moreover, the war on critical race theory suggests that the white grievance politics Trump helped activate isn’t going anywhere; rather, it’s a key part of the GOP strategy moving forward.  </p>]]></description>
 			<pubDate>Tue, 10 Aug 2021 11:00:00 +0100</pubDate>
 			<guid isPermaLink="false">1628590501613275</guid>
-		</item>
-		<item>
-			<title>Politics Podcast: What To Watch For As States Draw New Congressional Maps</title>
-			<link>https://fivethirtyeight.com/features/politics-podcast-what-to-watch-for-as-states-draw-new-congressional-maps/</link>
-						<dc:creator>Galen Druke</dc:creator>
-			<dc:creator>FiveThirtyEight</dc:creator>
-			<category>FiveThirtyEight Podcasts</category>
-			<category>Gerrymandering</category>
-			<category>Ohio</category>
-			<category>Politics Podcast</category>
-			<category>Primaries</category>
-			<category>Redistricting Tracker</category>
-			<category>The Biden Administration</category>
-			<description><![CDATA[<div data-href="https://fivethirtyeight.com/features/politics-podcast-what-to-watch-for-as-states-draw-new-congressional-maps/">
-	<div data-podcast-id="314164" data-podcast-duration="0" data-podcast-title="Politics Podcast: What To Watch For As States Draw New Congressional Maps">
-
-					<span><span>FiveThirtyEight</span></span>
-			
-		
-		<button aria-label="Play"></button>
-
-					<div>
-		
-		
-							<div>
-					<div>
-						<div></div>
-					</div>
-
-					<div> </div>
-
-					<audio preload="none" controls="controls"><source src="https://www.podtrac.com/pts/redirect.mp3/traffic.megaphone.fm/ESP9709685202.mp3?updated=1628547909"></source></audio></div>
-			
-					</div>
-		
-	</div>
-</div>
-<aside><div>
-		More: <a href="https://itunes.apple.com/us/podcast/fivethirtyeight-elections/id1077418457">Apple Podcasts</a> |
-		<span><a data-android-url="" href="http://m.espn.com/general/cast?id=14554755">ESPN App</a> |</span>
-		<a href="https://www.espn.com/espnradio/feeds/rss/podcast.xml?id=14554755">RSS</a>
-			</div>
-	</aside><p data-paragraph="main">In his first six months in office, President Biden had the most stable <a href="https://fivethirtyeight.com/features/why-bidens-approval-rating-has-barely-budged-in-his-first-6-months/" target="_blank" rel="noopener">presidential approval rating</a> in history. His approval rating is still <a href="https://projects.fivethirtyeight.com/biden-approval-rating/" target="_blank" rel="noopener">incredibly steady</a>, but in recent weeks it has begun to decline. In this installment of the <a rel="noreferrer noopener" target="_blank" href="https://fivethirtyeight.com/tag/politics-podcast/">FiveThirtyEight Politics podcast</a>, the crew discusses why Biden’s approval rating is falling and how much Democrats should worry. They also check in on the results from the two recent primary elections in Ohio. Lastly, they announce the launch of <a rel="noreferrer noopener" target="_blank" href="https://projects.fivethirtyeight.com/redistricting-2022-maps/">FiveThirtyEight’s Redistricting Tracker</a> and talk about the most important factors going into the congressional redistricting process.</p>
-
-
-
-<p data-paragraph="main"><em>You can listen to the episode by clicking the “play” button in the audio player above or by </em><a href="https://itunes.apple.com/us/podcast/fivethirtyeight-elections/id1077418457?mt=2" target="_blank" rel="noopener"><em>downloading it in iTunes</em></a><em>, the </em><a href="http://www.espn.com/espn/mobile/products/products/_/id/6857590" target="_blank" rel="noopener"><em>ESPN App</em></a><em> or your favorite podcast platform. If you are new to podcasts, </em><a href="https://fivethirtyeight.com/how-to-listen-to-fivethirtyeight-podcasts/" target="_blank" rel="noopener"><em>learn how to listen</em></a><em>.</em></p>
-
-
-
-<p data-paragraph="main"><em>The FiveThirtyEight Politics podcast is recorded Mondays and Thursdays. Help new listeners discover the show by </em><a href="https://itunes.apple.com/us/podcast/fivethirtyeight-elections/id1077418457?mt=2" target="_blank" rel="noopener"><em>leaving us a rating and review on iTunes</em></a><em>. Have a comment, question or suggestion for “good polling vs. bad polling”? Get in touch by email, </em><a href="https://twitter.com/FiveThirtyEight" target="_blank" rel="noopener"><em>on Twitter</em></a><em> or in the comments.</em></p>]]></description>
-			<pubDate>Mon, 09 Aug 2021 23:26:00 +0100</pubDate>
-			<guid isPermaLink="false">1628550001661212</guid>
-		</item>
-		<item>
-			<title>What Redistricting Looks Like In Every State</title>
-			<link>https://projects.fivethirtyeight.com/redistricting-2022-maps/</link>
-						<dc:creator>Ryan Best</dc:creator>
-			<dc:creator>Ryan Best， Aaron Bycoffe and Nathaniel Rakich</dc:creator>
-			<category>2020 Census</category>
-			<category>Congress</category>
-			<category>Gerrymandering</category>
-			<category>Redistricting</category>
-			<description><![CDATA[<p>An updating tracker of proposed congressional maps — and whether they might benefit Democrats or Republicans in the 2022 midterms and beyond.</p>
-<p> </p>]]></description>
-			<pubDate>Mon, 09 Aug 2021 11:00:00 +0100</pubDate>
-			<guid isPermaLink="false">1628505002701143</guid>
 		</item>
 
 	</channel>
