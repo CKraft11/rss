@@ -3,9 +3,2775 @@
 		<title>Main stream | FreshRSS</title>
 		<link>http://radon</link>
 		<description>RSS feed of Main stream | FreshRSS</description>
-		<pubDate>Wed, 01 Sep 2021 11:59:07 +0100</pubDate>
-		<lastBuildDate>Wed, 01 Sep 2021 10:59:07 GMT</lastBuildDate>
+		<pubDate>Wed, 01 Sep 2021 12:29:07 +0100</pubDate>
+		<lastBuildDate>Wed, 01 Sep 2021 11:29:07 GMT</lastBuildDate>
 		<atom:link href="http://radon/i/?a=rss" rel="self" type="application/rss+xml" />
+		<item>
+			<title>Which Senators And Representatives Vote In Favor Of Democracy?</title>
+			<link>https://fivethirtyeight.com/features/which-senators-and-representatives-vote-in-favor-of-democracy/</link>
+						<dc:creator>Laura Bronner</dc:creator>
+			<dc:creator>Laura Bronner</dc:creator>
+			<category>Biden Score</category>
+			<category>Congress</category>
+			<category>Democracy</category>
+			<category>House Democrats</category>
+			<category>House Republicans</category>
+			<category>Illiberalism</category>
+			<category>Senate Democrats</category>
+			<category>Senate Republicans</category>
+			<description><![CDATA[<figure><img loading="lazy" width="1931" height="930" src="https://fivethirtyeight.com/wp-content/uploads/2021/08/ILLIBERAL-INDEX_Banner.png" alt="" data-src="https://fivethirtyeight.com/wp-content/uploads/2021/08/ILLIBERAL-INDEX_Banner.png" data-srcset="https://fivethirtyeight.com/wp-content/uploads/2021/08/ILLIBERAL-INDEX_Banner.png?w=700 1x, https://fivethirtyeight.com/wp-content/uploads/2021/08/ILLIBERAL-INDEX_Banner.png?w=1400 2x"><figcaption><p>EMILY SCHERER / GETTY IMAGES</p></figcaption></figure><p data-paragraph="main">There is a <a href="https://www.newyorker.com/magazine/2021/08/09/the-big-money-behind-the-big-lie" target="_blank" rel="noopener">growing strain</a> of <a href="https://fivethirtyeight.com/features/republicans-have-made-it-harder-to-vote-in-11-states-so-far/" target="_blank" rel="noopener">illiberalism</a> both <a href="https://fivethirtyeight.com/features/the-trumpiest-republicans-are-at-the-state-and-local-levels-not-in-d-c/" target="_blank" rel="noopener">within the</a> <a href="https://www.theatlantic.com/ideas/archive/2021/07/theres-word-what-trumpism-becoming/619418/" target="_blank" rel="noopener">Republican Party</a> and <a href="https://fivethirtyeight.com/features/the-response-to-the-jan-6-select-committee-paints-a-worrying-picture-of-our-democracy/" target="_blank" rel="noopener">among Republican voters</a>. But what does that illiberalism actually look like among elected members in Congress?</p>
+
+
+
+<p data-paragraph="main">Quantifying politicians’ commitments to upholding democracy isn’t easy. Even defining “democracy” <a href="https://www.cambridge.org/core/journals/perspectives-on-politics/article/abs/conceptualizing-andmeasuring-democracy-a-new-approach/DAF249E74DDD3ACE3FFC96F20EE4074D" target="_blank" rel="noopener">is complicated</a> — <a href="https://www.almendron.com/tribuna/wp-content/uploads/2017/11/conceptualizing-and-measuring-democracy-evaluating-alternative-indices.pdf" target="_blank" rel="noopener">scholars disagree on its exact</a> definition — let alone trying to establish <a href="https://www.v-dem.net/media/filer_public/b6/55/b6553f85-5c5d-45ec-be63-a48a2abe3f62/briefing_paper_9.pdf" target="_blank" rel="noopener">how closely politicians or parties</a> adhere to democratic principles. There’s no <a href="https://scholar.harvard.edu/files/rogowski/files/npat-paper-july2019.pdf" target="_blank" rel="noopener">ongoing survey</a> of how strongly elected members of Congress believe in democratic principles, for instance, and it’s not clear what such a survey would even tell us, given that politicians (and their staffers) are often masters at spin. But just like aggregating <a href="https://www.routledge.com/Ideology-and-Congress-A-Political-Economic-History-of-Roll-Call-Voting/Poole/p/book/9781412806084" target="_blank" rel="noopener">politicians’ votes</a> can tell us something about where they fall ideologically on <a href="https://www.journals.uchicago.edu/doi/10.1057/pol.2014.10" target="_blank" rel="noopener">economic or social policies,</a> one thing we <em>can</em> do is look at how members of Congress vote when issues of democracy are brought to the floor. </p>
+
+
+
+<p data-paragraph="main">Of course, the catch here is that matters of democracy are rarely brought for a floor vote. “Most aspects of democracy are not up for debate in Congress in any given year,” said <a href="https://sites.nd.edu/michael-coppedge/" target="_blank" rel="noopener">Michael Coppedge</a>, a political scientist at the University of Notre Dame and <a href="https://www.v-dem.net/en/global-team/principal-investigators/" target="_blank" rel="noopener">one of the principal investigators</a> at <a href="https://www.v-dem.net/en/" target="_blank" rel="noopener">Varieties of Democracy</a>. That’s an important caveat because the comprehensiveness of such a metric is limited by what Congress actually votes on. “There’s a lot that’s taken for granted that’s essential to what democracy is,” Coppedge said. “Instead, what we get our votes on [are] skirmishes on the periphery of what democracy means.”</p>
+
+
+
+<p data-paragraph="main">One more complication is that there is no single agreed-upon list of what are (or aren’t) issues of democracy. Never mind what the more-democratic position is on each issue. </p>
+
+
+
+<p data-paragraph="main">Bearing all of that in mind, I’ve built two different metrics to help us understand a legislator’s stance on democracy. First is a minimalist definition of democracy, limited to basic requirements like free and, in theory, fair elections and other measures that help safeguard democracy. Second is a more expansive definition, which contains everything in the first category, but also includes bills that expand civil liberties and who has political power. That way, we can see where politicians converge on these two metrics — and where they differ.</p>
+
+
+
+<p data-paragraph="main">First, the most bare-bones definition: “issues of <a href="https://www.v-dem.net/media/filer_public/25/41/25418cbf-e680-4ec8-bede-b819587fb85d/structure_of_v-dem_v111.pdf" target="_blank" rel="noopener">electoral democracy</a>.” Included in this definition are the most basic requirements of any functioning democracy, like free elections and freedom of the press. And while most of these issues typically don’t come up for congressional votes, some did this year — most notably, the counting of electoral votes from Pennsylvania and Arizona in the 2020 election, <a href="https://www.vox.com/2021/1/6/22213979/congress-electoral-vote-count-pence-hawley-cruz" target="_blank" rel="noopener">usually a ceremonial event</a> that this year <a href="https://www.cnbc.com/2021/01/06/electoral-vote-update-congress-resumes-counting-after-pro-trump-rioters-invade-capitol.html" target="_blank" rel="noopener">faced objections from members of Congress</a> and coincided with <a href="https://www.nytimes.com/live/2021/01/06/us/electoral-vote" target="_blank" rel="noopener">the Jan. 6 assault on the Capitol</a>. Four other types of bills fall into this category: a bill that would have set up an independent commission to investigate the Jan. 6 attack;<a data-footnote-id="1" href="https://fivethirtyeight.com/wp-json/wp/v2/espn_verticals/398#fn-1" data-footnote-content='&lt;p&gt;&lt;p&gt;&lt;a href="https://www.congress.gov/bill/117th-congress/house-bill/3233" target="_blank" rel="noopener"&gt;H.R. 3233&lt;/a&gt;.&lt;/p&gt;
+&lt;/p&gt;'><sup>1</sup></a> <a href="https://www.npr.org/2021/05/28/1000524897/senate-republicans-block-plan-for-independent-commission-on-jan-6-capitol-riot" target="_blank" rel="noopener">when that failed to pass the Senate</a>, a bill to create a select committee to investigate the Jan. 6 attack on the Capitol;<a data-footnote-id="2" href="https://fivethirtyeight.com/wp-json/wp/v2/espn_verticals/398#fn-2" data-footnote-content='&lt;p&gt;&lt;p&gt;&lt;a href="https://www.congress.gov/bill/117th-congress/house-resolution/503/text" target="_blank" rel="noopener"&gt;House Res. 503&lt;/a&gt;.&lt;/p&gt;
+&lt;/p&gt;'><sup>2</sup></a> a bill to increase the independence of government oversight of the executive branch;<a data-footnote-id="3" href="https://fivethirtyeight.com/wp-json/wp/v2/espn_verticals/398#fn-3" data-footnote-content='&lt;p&gt;&lt;p&gt;&lt;a href="https://www.congress.gov/bill/117th-congress/house-bill/2662" target="_blank" rel="noopener"&gt;H.R. 2662&lt;/a&gt;.&lt;/p&gt;
+&lt;/p&gt;'><sup>3</sup></a> and the second bill to impeach former President Donald Trump,<a data-footnote-id="4" href="https://fivethirtyeight.com/wp-json/wp/v2/espn_verticals/398#fn-4" data-footnote-content='&lt;p&gt;&lt;p&gt;&lt;a href="https://www.congress.gov/bill/117th-congress/house-resolution/24" target="_blank" rel="noopener"&gt;House Res. 24&lt;/a&gt;.&lt;/p&gt;
+&lt;/p&gt;'><sup>4</sup></a> as he was charged with inciting “an insurrection against the government of the United States.” We realize that bill was more political than the others in this category — and we did debate whether to include it — but ultimately we decided that being too political wasn’t a good reason for exclusion, especially as the bill did deal with a core democratic principle: the peaceful transfer of power in America’s elections. (For what it’s worth, including this vote did not meaningfully change the results.)</p>
+
+
+
+<p data-paragraph="main">How politicians vote on these issues doesn’t just reflect the extent to which they back President Biden’s policies, which <a href="https://projects.fivethirtyeight.com/biden-congress-votes/" target="_blank" rel="noopener">FiveThirtyEight tracks via its Biden Score metric</a>. Though party lines are important here, this stripped-down metric of democracy still shows substantial variation — particularly among Republicans.<a data-footnote-id="5" href="https://fivethirtyeight.com/wp-json/wp/v2/espn_verticals/398#fn-5" data-footnote-content='&lt;p&gt;&lt;p&gt;We constructed our metric by taking the number of bills on which each politician supported the democratic position, divided by the total number of democracy bills they voted on. A present vote or abstention was treated as half a vote (that is, neither pro- nor anti-democratic), &lt;a href="https://www.everycrsreport.com/files/20151112_97-780_2008ca8ef8cc3fefe8088a36d9e020ec07463ada.pdf" target="_blank" rel="noopener"&gt;except for the Speaker&lt;/a&gt;. To make sure the equal weighting of votes in this percentage metric wasn’t skewing results, we also conducted a slightly more sophisticated dimensionality-reduction technique called &lt;a href="https://en.wikipedia.org/wiki/Principal_component_analysis" target="_blank" rel="noopener"&gt;principal component analysis&lt;/a&gt;, but since those results were very similar to our more simple percentage-based metric, we’re sticking to the simpler metric for clarity.&lt;/p&gt;
+&lt;/p&gt;'><sup>5</sup></a> On the other hand, Democrats are mostly clustered together in the upper-right hand corner.</p>
+
+
+
+<figure><img loading="lazy" width="2048" height="1346" src="https://fivethirtyeight.com/wp-content/uploads/2021/08/bronner.ILLIBERAL-SCORE.0831-01-fw5.png" alt="" data-src="https://fivethirtyeight.com/wp-content/uploads/2021/08/bronner.ILLIBERAL-SCORE.0831-01-fw5.png" data-srcset="https://fivethirtyeight.com/wp-content/uploads/2021/08/bronner.ILLIBERAL-SCORE.0831-01-fw5.png?w=700 1x, https://fivethirtyeight.com/wp-content/uploads/2021/08/bronner.ILLIBERAL-SCORE.0831-01-fw5.png?w=1400 2x"></figure><figure><img loading="lazy" width="620" height="2350" src="https://fivethirtyeight.com/wp-content/uploads/2021/08/bronner.ILLIBERAL-SCORE.0831-01-mobile4.png" alt="" data-src="https://fivethirtyeight.com/wp-content/uploads/2021/08/bronner.ILLIBERAL-SCORE.0831-01-mobile4.png" data-srcset="https://fivethirtyeight.com/wp-content/uploads/2021/08/bronner.ILLIBERAL-SCORE.0831-01-mobile4.png?w=620 1x, https://fivethirtyeight.com/wp-content/uploads/2021/08/bronner.ILLIBERAL-SCORE.0831-01-mobile4.png?w=1240 2x"></figure><p data-paragraph="main">Take Republican Sens. Susan Collins, Lisa Murkowski, Bill Cassidy, Mitt Romney and Ben Sasse. All five of them opposed the objections to counting electoral votes in both Pennsylvania and Arizona and supported the National Commission to investigate Jan. 6 — all three of the pro-democracy bills the Senate voted on in this category, even though they differ quite a bit in the extent to which they support Biden’s agenda. Similarly, in the House, Republican Reps. Brian Fitzpatrick, Tom Reed, John Katko, Adam Kinzinger and Liz Cheney all voted largely in favor of the pro-democracy measures in front of the House, even though Cheney rarely votes with Biden otherwise.</p>
+
+
+
+<p data-paragraph="main">On the other end of the spectrum, you can see which representatives have voted against both Biden and the bare-bones pro-democracy measures Congress has taken up. For instance, Sens. Josh Hawley, Ted Cruz, Tommy Tuberville, Roger Marshall and Cindy Hyde-Smith have all voted against the democratic position every single time, even though Hyde-Smith tends to vote with Biden markedly more than the others. </p>
+
+
+
+<p data-paragraph="main">But this bare-bones metric is, of course, a fairly narrow definition of what it means to live in a democracy, which is why I created a second metric that also includes bills that try to create a more expansive and inclusive democracy. Using legislative scorecards from organizations like <a href="https://www.aclu.org/scorecard/" target="_blank" rel="noopener">the American Civil Liberties Union</a>, the government watchdog group <a href="https://democracyscorecard.org/" target="_blank" rel="noopener">Common Cause</a> and the nonprofit research organization <a href="https://justfacts.votesmart.org/bills/NA/1/13/" target="_blank" rel="noopener">Vote Smart</a>, I looked at all of the other bills that Congress brought to the floor this year that could also be considered key to a functioning democracy, in addition to the ones I’ve already mentioned.<a data-footnote-id="6" href="https://fivethirtyeight.com/wp-json/wp/v2/espn_verticals/398#fn-6" data-footnote-content="&lt;p&gt;&lt;p&gt;For Vote Smart, I used votes that fell in their “Constitution” and “Civil Liberties and Civil Rights” categories. For Common Cause, I included votes that will be included in their next Democracy Scorecard (which were supplied to me via email).&lt;/p&gt;
+&lt;/p&gt;"><sup>6</sup></a> Bills that fall into this second category include:</p>
+
+
+
+<ul><li>Bills aimed at expanding civil liberties, like the rights of groups like <a href="https://www.congress.gov/bill/117th-congress/house-joint-resolution/17">women</a> — in addition to bills focused on hate crimes, like the <a href="https://www.npr.org/2021/05/20/998599775/biden-to-sign-the-covid-19-hate-crimes-bill-as-anti-asian-american-attacks-rise?t=1629323014264">COVID-19 Hate Crimes Act</a>; expanding immigration rights, like the <a href="https://www.hrc.org/resources/american-dream-and-promise-act">American Dream and Promise Act</a>; increasing transparency and accountability in policing, like the <a href="https://www.congress.gov/bill/117th-congress/house-bill/1280">George Floyd Justice in Policing Act</a>; and LGBTQ equality, like the <a href="https://www.congress.gov/bill/117th-congress/house-bill/5">Equality Act</a>; </li><li>Bills that expand voting rights and access, like the <a href="https://www.congress.gov/bill/117th-congress/senate-bill/1">For the People Act</a> and the <a href="https://www.congress.gov/bill/116th-congress/senate-bill/4263">John Lewis Voting Rights Advancement Act</a>;</li><li>Bills addressing the historical legacy of slavery in the U.S. like <a href="https://www.nbcchicago.com/news/local/juneteenth-significance-history-what-to-know-about-the-new-federal-holiday/2536282/">making Juneteenth a federal holiday</a> or <a href="https://www.congress.gov/bill/117th-congress/house-bill/3005">removing confederate statues from the Capitol</a>. (Groups like Vote Smart placed these bills in the “Civil Liberties and Civil Rights” and “Constitution” categories; these measures recognize the role slavery had in entrenching inequality in the U.S.)<a data-footnote-id="7" href="https://fivethirtyeight.com/wp-json/wp/v2/espn_verticals/398#fn-7" data-footnote-content='&lt;p&gt;&lt;p&gt;Here’s the full list of bills included:&lt;br /&gt;Senate: Objections to counting electoral votes in &lt;a href="https://www.senate.gov/legislative/LIS/roll_call_lists/roll_call_vote_cfm.cfm?congress=117&amp;amp;session=1&amp;amp;vote=00002"&gt;Pennsylvania&lt;/a&gt; and &lt;a href="https://www.senate.gov/legislative/LIS/roll_call_lists/roll_call_vote_cfm.cfm?congress=117&amp;amp;session=1&amp;amp;vote=00001"&gt;Arizona&lt;/a&gt;; National Commission to Investigate the January 6 Attack on the United States Capitol Complex Act (H.R. 3233); &lt;a href="https://www.senate.gov/legislative/LIS/roll_call_lists/roll_call_vote_cfm.cfm?congress=117&amp;amp;session=1&amp;amp;vote=00057"&gt;On the Motion&lt;/a&gt; &amp;#8220;Is Former President Donald John Trump Subject to a Court of Impeachment for Acts Committed While President?&amp;#8221;; Impeaching Donald John Trump, President of the United States, for high crimes and misdemeanors (&lt;a href="https://www.congress.gov/bill/117th-congress/house-resolution/24"&gt;House Res. 24&lt;/a&gt;); Cloture vote on the motion to proceed to the For The People Act (&lt;a href="https://www.senate.gov/legislative/LIS/roll_call_lists/roll_call_vote_cfm.cfm?congress=117&amp;amp;session=1&amp;amp;vote=00246"&gt;S-2093&lt;/a&gt;); On the Motion to discharge the For The People Act (&lt;a href="https://www.congress.gov/bill/117th-congress/senate-bill/1"&gt;S-1&lt;/a&gt;) from the Senate Rules Committee; COVID-19 Hate Crimes Act (&lt;a href="https://www.congress.gov/bill/117th-congress/senate-bill/937"&gt;S-937&lt;/a&gt;).&lt;/p&gt;
+&lt;p&gt;House: Objection to counting electoral votes in &lt;a href="https://projects.propublica.org/represent/votes/117/house/1/11"&gt;Pennsylvania&lt;/a&gt; and &lt;a href="https://projects.propublica.org/represent/votes/117/house/1/10"&gt;Arizona&lt;/a&gt;; National Commission to Investigate the January 6 Attack on the United States Capitol Complex Act (H.R. 3233); Establishing The Select Committee to Investigate the January 6th Attack on the United States Capitol (House Res. 503); Impeaching Donald John Trump, President of the United States, for high crimes and misdemeanors (House Res. 24); For The People Act (&lt;a href="https://www.congress.gov/bill/117th-congress/house-bill/1/text"&gt;H.R. 1&lt;/a&gt;); John R. Lewis Voting Rights Advancement Act (&lt;a href="https://www.congress.gov/bill/117th-congress/house-bill/4/text?q=%7B%22search%22%3A%5B%22hr4%22%5D%7D&amp;amp;r=1&amp;amp;s=1"&gt;H.R. 4&lt;/a&gt;); IG Independence and Empowerment Act (&lt;a href="https://www.congress.gov/bill/117th-congress/house-bill/2662"&gt;H.R. 2662&lt;/a&gt;); Washington, D.C, Admission Act (&lt;a href="https://www.congress.gov/bill/117th-congress/house-bill/51"&gt;H.R. 51&lt;/a&gt;); George Floyd Justice in Policing Act (&lt;a href="https://www.congress.gov/bill/117th-congress/house-bill/1280"&gt;H.R. 1280&lt;/a&gt;); NO BAN Act (&lt;a href="https://www.congress.gov/bill/117th-congress/house-bill/1333"&gt;H.R. 1333&lt;/a&gt;); American Dream and Promise Act (&lt;a href="https://www.congress.gov/bill/117th-congress/house-bill/6"&gt;H.R. 6&lt;/a&gt;); Equality Act (&lt;a href="https://www.congress.gov/bill/117th-congress/house-bill/5"&gt;H.R. 5&lt;/a&gt;); Pregnant Workers Fairness Act (&lt;a href="https://www.congress.gov/bill/117th-congress/house-bill/1065"&gt;H.R. 1065&lt;/a&gt;); Juneteenth National Independence Day Act (&lt;a href="https://www.congress.gov/bill/117th-congress/senate-bill/475/text"&gt;S-475&lt;/a&gt;); To direct the Joint Committee on the Library to replace the bust of Roger Brooke Taney in the Old Supreme Court Chamber of the United States Capitol with a bust of Thurgood Marshall to be obtained by the Joint Committee on the Library and to remove certain statues from areas of the United States Capitol which are accessible to the public, to remove all statues of individuals who voluntarily served the Confederate States of America from display in the United States Capitol, and for other purposes (&lt;a href="https://www.congress.gov/bill/117th-congress/house-bill/3005"&gt;H.R. 3005&lt;/a&gt;); Removing the deadline for the ratification of the equal rights amendment (&lt;a href="https://www.congress.gov/bill/117th-congress/house-joint-resolution/17"&gt;House Joint Res. 17&lt;/a&gt;); COVID-19 Hate Crimes Act (&lt;a href="https://www.congress.gov/bill/117th-congress/senate-bill/937"&gt;S-937&lt;/a&gt;; Protecting Older Workers Against Discrimination Act of 2021 (&lt;a href="https://www.congress.gov/bill/117th-congress/house-bill/2062"&gt;H.R. 2062&lt;/a&gt;). &lt;/p&gt;
+&lt;p&gt;And aside from including more votes, the fuller metric was constructed exactly like the bare-bones metric above.&lt;/p&gt;
+&lt;/p&gt;'><sup>7</sup></a></li></ul><p data-paragraph="main">Interestingly, the overall picture doesn’t change <em>that</em> much when you look at this fuller set of bills — although partisan differences are somewhat starker. While the bare-bones metric had a few Republicans on par with Democrats, this is no longer the case: There are no Republicans who are more supportive than Democrats of the more expansive definition of democracy.</p>
+
+
+
+<figure><img loading="lazy" width="2048" height="1326" src="https://fivethirtyeight.com/wp-content/uploads/2021/08/bronner.ILLIBERAL-SCORE.0831-02-fw4.png" alt="" data-src="https://fivethirtyeight.com/wp-content/uploads/2021/08/bronner.ILLIBERAL-SCORE.0831-02-fw4.png" data-srcset="https://fivethirtyeight.com/wp-content/uploads/2021/08/bronner.ILLIBERAL-SCORE.0831-02-fw4.png?w=700 1x, https://fivethirtyeight.com/wp-content/uploads/2021/08/bronner.ILLIBERAL-SCORE.0831-02-fw4.png?w=1400 2x"></figure><div><figure><img loading="lazy" width="620" height="2168" src="https://fivethirtyeight.com/wp-content/uploads/2021/08/bronner.ILLIBERAL-SCORE.0831-02-mob4.png" alt="" data-src="https://fivethirtyeight.com/wp-content/uploads/2021/08/bronner.ILLIBERAL-SCORE.0831-02-mob4.png" data-srcset="https://fivethirtyeight.com/wp-content/uploads/2021/08/bronner.ILLIBERAL-SCORE.0831-02-mob4.png?w=620 1x, https://fivethirtyeight.com/wp-content/uploads/2021/08/bronner.ILLIBERAL-SCORE.0831-02-mob4.png?w=1240 2x"></figure></div>
+
+
+
+<p data-paragraph="main">In the Senate, it’s still Collins, Murkowski, Romney, Sasse, and Cassidy that lead Republicans on this metric — supporting almost all of the bills that fall in this second metric. The notable exception is the For the People Act, which no Senate Republican voted in favor of. Meanwhile, we saw more movement in the House, which voted on more “small-d” democratic bills and whose democracy score increasingly correlated with the Biden score. However, there were still some Republicans who supported a majority of these more expansive democratic positions, such as Fitzpatrick, Reed, Katko and Kinzinger, even though most of them vote with Biden less than half of the time. Cheney, however, fell on this more expansive metric in large part because she didn’t support legislation like a bill to prohibit discrimination based on sex, sexual orientation and gender identity, the For the People Act and the Washington, D.C. Admission Act.</p>
+
+
+
+<p data-paragraph="main">And this brings us to an important point. As this more expansive definition of democracy shows, many of these issues have become polarized by party. That can make it hard to disentangle anti-democratic politics from partisan politics, according to <a href="https://www.gretchenhelmke.com/" target="_blank" rel="noopener">Gretchen Helmke</a>, a professor at the University of Rochester and one of the founders of <a href="http://brightlinewatch.org/" target="_blank" rel="noopener">Bright Line Watch</a>, a group of political scientists that monitors democracy and threats to it. H.R. 1, the For The People Act, is an instructive example: Democrats have pushed this bill as small-d democratic because it makes it easier for people to exercise their right to vote, but they also first <a href="https://www.vox.com/2019/3/8/18253609/hr-1-pelosi-house-democrats-anti-corruption-mcconnell" target="_blank" rel="noopener">introduced it in 2019 as a statement of what the party stood for</a>, when it had no chance of passing a Republican-controlled Senate and White House. So have Republicans voted against this bill as part of a stance against voting rights, or have they opposed it because they worry it delivers Democrats a sweeping legislative victory? There is no one answer here. In nearly every bill we looked at in the fuller metric, it was very hard to separate the politics from the policy. </p>
+
+
+
+<p data-paragraph="main">Of course, this metric is not based on a random subset of possible issues. Democrats, who currently control both houses of Congress, might be strategic in what they choose to move forward, political scientist <a href="https://sites.google.com/view/jakegrumbach" target="_blank" rel="noopener">Jake Grumbach</a> noted. Grumbach, a professor of political science at the University of Washington and the author of <a href="https://www.dropbox.com/s/c682q88keqycp6s/grumbach_laboratories_of_democratic_backsliding.pdf?dl=0" target="_blank" rel="noopener">a recent paper tracking the state of liberal democracy at the state level</a>, cautioned that Democrats might want to avoid difficult decisions for their members by introducing bills that could divide the party, leading them to keep bills off the floor on which the party doesn’t agree — <a href="https://www.jstor.org/stable/2111421" target="_blank" rel="noopener">a form of selection bias</a> that plagues <a href="https://www.cambridge.org/core/journals/american-political-science-review/article/rollcall-vote-selection-implications-for-the-study-of-legislative-politics/FFAD60FB9CA9BBD54F02DE44A1FF0264" target="_blank" rel="noopener">all studies</a> of congressional voting behavior.<a data-footnote-id="8" href="https://fivethirtyeight.com/wp-json/wp/v2/espn_verticals/398#fn-8" data-footnote-content='&lt;p&gt;&lt;p&gt;For example, Joe Manchin, the most conservative Democratic senator, has a Biden score of 100 percent, meaning he votes with the president on every bill. This is &lt;a href="https://fivethirtyeight.com/features/why-joe-manchin-is-so-willing-and-able-to-block-his-partys-goals/" target="_blank" rel="noopener"&gt;not because he agrees with the rest of his party&lt;/a&gt; on everything, but because, in a 50-50 Senate, Manchin’s vote is crucial to any Democratic bill passing &amp;#8212; meaning that the Democratic leadership doesn’t even bring bills to the floor if he has &lt;a href="https://www.theguardian.com/us-news/2021/jun/06/joe-manchin-opposes-for-the-people-act-democrats-voting-rights" target="_blank" rel="noopener"&gt;signaled that he won’t support&lt;/a&gt; them. More generally, if a party has perfect information about its members’ preferences, it can &lt;a href="https://cdn.vanderbilt.edu/vu-my/wp-content/uploads/sites/349/2011/10/14093744/C_JOP2007.pdf" target="_blank" rel="noopener"&gt;avoid losing a single congressional vote&lt;/a&gt;, since it will never bring votes to the floor on which it doesn’t have majority support.&lt;/p&gt;
+&lt;/p&gt;'><sup>8</sup></a> We should therefore be careful about drawing any conclusions about the liberal and illiberal tendencies of the elected officials in our sample. But to see where your representative or senators fall, check out the full set of scores for all legislators on this metric in the table below:</p>
+
+
+<div>
+
+<section><header><h5>Does your representative support democracy?</h5>
+ <p>Pro-democracy percentage for each legislator in the House and Senate, based on six votes (“bare-bones” definition) or 18 votes (“more expansive” definition)</p>
+ </header><div>
+ <table data-carpenter-slug="bronner.illiberal-score.1"><thead><tr><th colspan="3"></th>
+ <th colspan="2">pro-democracy percentage</th>
+ </tr><tr><th colspan="1">chamber</th>
+ <th colspan="1">legislator</th>
+ <th colspan="1">party</th>
+ <th colspan="1">bare-bones</th>
+ <th colspan="1">more expansive</th>
+ </tr></thead><tbody><tr><td>House</td>
+ <td>Alma Adams</td>
+ <td><span></span>Dem.</td>
+ <td data-suffix="%" data-suffixpadding="1.1em">100.0%</td>
+ <td data-suffix="%" data-suffixpadding="1.1em">100.0%</td>
+ </tr><tr><td>House</td>
+ <td>Pete Aguilar</td>
+ <td><span></span>Dem.</td>
+ <td>100.0</td>
+ <td>100.0</td>
+ </tr><tr><td>House</td>
+ <td>Colin Allred</td>
+ <td><span></span>Dem.</td>
+ <td>100.0</td>
+ <td>100.0</td>
+ </tr><tr><td>House</td>
+ <td>Jake Auchincloss</td>
+ <td><span></span>Dem.</td>
+ <td>100.0</td>
+ <td>100.0</td>
+ </tr><tr><td>House</td>
+ <td>Cindy Axne</td>
+ <td><span></span>Dem.</td>
+ <td>100.0</td>
+ <td>100.0</td>
+ </tr><tr><td>House</td>
+ <td>Nanette Diaz Barragán</td>
+ <td><span></span>Dem.</td>
+ <td>100.0</td>
+ <td>100.0</td>
+ </tr><tr><td>House</td>
+ <td>Karen Bass</td>
+ <td><span></span>Dem.</td>
+ <td>100.0</td>
+ <td>100.0</td>
+ </tr><tr><td>House</td>
+ <td>Joyce Beatty</td>
+ <td><span></span>Dem.</td>
+ <td>100.0</td>
+ <td>100.0</td>
+ </tr><tr><td>House</td>
+ <td>Ami Bera</td>
+ <td><span></span>Dem.</td>
+ <td>100.0</td>
+ <td>100.0</td>
+ </tr><tr><td>House</td>
+ <td>Don Beyer</td>
+ <td><span></span>Dem.</td>
+ <td>100.0</td>
+ <td>100.0</td>
+ </tr><tr><td>House</td>
+ <td>Sanford D. Bishop Jr.</td>
+ <td><span></span>Dem.</td>
+ <td>100.0</td>
+ <td>100.0</td>
+ </tr><tr><td>House</td>
+ <td>Earl Blumenauer</td>
+ <td><span></span>Dem.</td>
+ <td>100.0</td>
+ <td>100.0</td>
+ </tr><tr><td>House</td>
+ <td>Lisa Blunt Rochester</td>
+ <td><span></span>Dem.</td>
+ <td>100.0</td>
+ <td>100.0</td>
+ </tr><tr><td>House</td>
+ <td>Suzanne Bonamici</td>
+ <td><span></span>Dem.</td>
+ <td>100.0</td>
+ <td>100.0</td>
+ </tr><tr><td>House</td>
+ <td>Carolyn Bourdeaux</td>
+ <td><span></span>Dem.</td>
+ <td>100.0</td>
+ <td>100.0</td>
+ </tr><tr><td>House</td>
+ <td>Jamaal Bowman</td>
+ <td><span></span>Dem.</td>
+ <td>100.0</td>
+ <td>100.0</td>
+ </tr><tr><td>House</td>
+ <td>Brendan Boyle</td>
+ <td><span></span>Dem.</td>
+ <td>100.0</td>
+ <td>100.0</td>
+ </tr><tr><td>House</td>
+ <td>Anthony Brown</td>
+ <td><span></span>Dem.</td>
+ <td>100.0</td>
+ <td>100.0</td>
+ </tr><tr><td>House</td>
+ <td>Julia Brownley</td>
+ <td><span></span>Dem.</td>
+ <td>100.0</td>
+ <td>100.0</td>
+ </tr><tr><td>House</td>
+ <td>Cori Bush</td>
+ <td><span></span>Dem.</td>
+ <td>100.0</td>
+ <td>100.0</td>
+ </tr><tr><td>House</td>
+ <td>Cheri Bustos</td>
+ <td><span></span>Dem.</td>
+ <td>100.0</td>
+ <td>100.0</td>
+ </tr><tr><td>House</td>
+ <td>G.K. Butterfield</td>
+ <td><span></span>Dem.</td>
+ <td>100.0</td>
+ <td>100.0</td>
+ </tr><tr><td>House</td>
+ <td>Salud Carbajal</td>
+ <td><span></span>Dem.</td>
+ <td>100.0</td>
+ <td>100.0</td>
+ </tr><tr><td>House</td>
+ <td>Tony Cárdenas</td>
+ <td><span></span>Dem.</td>
+ <td>100.0</td>
+ <td>100.0</td>
+ </tr><tr><td>House</td>
+ <td>André Carson</td>
+ <td><span></span>Dem.</td>
+ <td>100.0</td>
+ <td>100.0</td>
+ </tr><tr><td>House</td>
+ <td>Troy A. Carter</td>
+ <td><span></span>Dem.</td>
+ <td>100.0</td>
+ <td>100.0</td>
+ </tr><tr><td>House</td>
+ <td>Matt Cartwright</td>
+ <td><span></span>Dem.</td>
+ <td>100.0</td>
+ <td>100.0</td>
+ </tr><tr><td>House</td>
+ <td>Ed Case</td>
+ <td><span></span>Dem.</td>
+ <td>100.0</td>
+ <td>100.0</td>
+ </tr><tr><td>House</td>
+ <td>Sean Casten</td>
+ <td><span></span>Dem.</td>
+ <td>100.0</td>
+ <td>100.0</td>
+ </tr><tr><td>House</td>
+ <td>Joaquin Castro</td>
+ <td><span></span>Dem.</td>
+ <td>100.0</td>
+ <td>100.0</td>
+ </tr><tr><td>House</td>
+ <td>Judy Chu</td>
+ <td><span></span>Dem.</td>
+ <td>100.0</td>
+ <td>100.0</td>
+ </tr><tr><td>House</td>
+ <td>David Cicilline</td>
+ <td><span></span>Dem.</td>
+ <td>100.0</td>
+ <td>100.0</td>
+ </tr><tr><td>House</td>
+ <td>Katherine Clark</td>
+ <td><span></span>Dem.</td>
+ <td>100.0</td>
+ <td>100.0</td>
+ </tr><tr><td>House</td>
+ <td>Yvette D. Clarke</td>
+ <td><span></span>Dem.</td>
+ <td>100.0</td>
+ <td>100.0</td>
+ </tr><tr><td>House</td>
+ <td>Emanuel Cleaver</td>
+ <td><span></span>Dem.</td>
+ <td>100.0</td>
+ <td>100.0</td>
+ </tr><tr><td>House</td>
+ <td>James E. Clyburn</td>
+ <td><span></span>Dem.</td>
+ <td>100.0</td>
+ <td>100.0</td>
+ </tr><tr><td>House</td>
+ <td>Steve Cohen</td>
+ <td><span></span>Dem.</td>
+ <td>100.0</td>
+ <td>100.0</td>
+ </tr><tr><td>House</td>
+ <td>Gerald E. Connolly</td>
+ <td><span></span>Dem.</td>
+ <td>100.0</td>
+ <td>100.0</td>
+ </tr><tr><td>House</td>
+ <td>Jim Cooper</td>
+ <td><span></span>Dem.</td>
+ <td>100.0</td>
+ <td>100.0</td>
+ </tr><tr><td>House</td>
+ <td>J. Luis Correa</td>
+ <td><span></span>Dem.</td>
+ <td>100.0</td>
+ <td>100.0</td>
+ </tr><tr><td>House</td>
+ <td>Joe Courtney</td>
+ <td><span></span>Dem.</td>
+ <td>100.0</td>
+ <td>100.0</td>
+ </tr><tr><td>House</td>
+ <td>Angie Craig</td>
+ <td><span></span>Dem.</td>
+ <td>100.0</td>
+ <td>100.0</td>
+ </tr><tr><td>House</td>
+ <td>Charlie Crist</td>
+ <td><span></span>Dem.</td>
+ <td>100.0</td>
+ <td>100.0</td>
+ </tr><tr><td>House</td>
+ <td>Jason Crow</td>
+ <td><span></span>Dem.</td>
+ <td>100.0</td>
+ <td>100.0</td>
+ </tr><tr><td>House</td>
+ <td>Henry Cuellar</td>
+ <td><span></span>Dem.</td>
+ <td>100.0</td>
+ <td>100.0</td>
+ </tr><tr><td>House</td>
+ <td>Sharice Davids</td>
+ <td><span></span>Dem.</td>
+ <td>100.0</td>
+ <td>100.0</td>
+ </tr><tr><td>House</td>
+ <td>Danny K. Davis</td>
+ <td><span></span>Dem.</td>
+ <td>100.0</td>
+ <td>100.0</td>
+ </tr><tr><td>House</td>
+ <td>Madeleine Dean</td>
+ <td><span></span>Dem.</td>
+ <td>100.0</td>
+ <td>100.0</td>
+ </tr><tr><td>House</td>
+ <td>Peter DeFazio</td>
+ <td><span></span>Dem.</td>
+ <td>100.0</td>
+ <td>100.0</td>
+ </tr><tr><td>House</td>
+ <td>Diana DeGette</td>
+ <td><span></span>Dem.</td>
+ <td>100.0</td>
+ <td>100.0</td>
+ </tr><tr><td>House</td>
+ <td>Rosa L. DeLauro</td>
+ <td><span></span>Dem.</td>
+ <td>100.0</td>
+ <td>100.0</td>
+ </tr><tr><td>House</td>
+ <td>Suzan DelBene</td>
+ <td><span></span>Dem.</td>
+ <td>100.0</td>
+ <td>100.0</td>
+ </tr><tr><td>House</td>
+ <td>Antonio Delgado</td>
+ <td><span></span>Dem.</td>
+ <td>100.0</td>
+ <td>100.0</td>
+ </tr><tr><td>House</td>
+ <td>Val Demings</td>
+ <td><span></span>Dem.</td>
+ <td>100.0</td>
+ <td>100.0</td>
+ </tr><tr><td>House</td>
+ <td>Mark DeSaulnier</td>
+ <td><span></span>Dem.</td>
+ <td>100.0</td>
+ <td>100.0</td>
+ </tr><tr><td>House</td>
+ <td>Ted Deutch</td>
+ <td><span></span>Dem.</td>
+ <td>100.0</td>
+ <td>100.0</td>
+ </tr><tr><td>House</td>
+ <td>Debbie Dingell</td>
+ <td><span></span>Dem.</td>
+ <td>100.0</td>
+ <td>100.0</td>
+ </tr><tr><td>House</td>
+ <td>Mike Doyle</td>
+ <td><span></span>Dem.</td>
+ <td>100.0</td>
+ <td>100.0</td>
+ </tr><tr><td>House</td>
+ <td>Veronica Escobar</td>
+ <td><span></span>Dem.</td>
+ <td>100.0</td>
+ <td>100.0</td>
+ </tr><tr><td>House</td>
+ <td>Anna G. Eshoo</td>
+ <td><span></span>Dem.</td>
+ <td>100.0</td>
+ <td>100.0</td>
+ </tr><tr><td>House</td>
+ <td>Adriano Espaillat</td>
+ <td><span></span>Dem.</td>
+ <td>100.0</td>
+ <td>100.0</td>
+ </tr><tr><td>House</td>
+ <td>Dwight Evans</td>
+ <td><span></span>Dem.</td>
+ <td>100.0</td>
+ <td>100.0</td>
+ </tr><tr><td>House</td>
+ <td>Lizzie Pannill Fletcher</td>
+ <td><span></span>Dem.</td>
+ <td>100.0</td>
+ <td>100.0</td>
+ </tr><tr><td>House</td>
+ <td>Bill Foster</td>
+ <td><span></span>Dem.</td>
+ <td>100.0</td>
+ <td>100.0</td>
+ </tr><tr><td>House</td>
+ <td>Lois Frankel</td>
+ <td><span></span>Dem.</td>
+ <td>100.0</td>
+ <td>100.0</td>
+ </tr><tr><td>House</td>
+ <td>Ruben Gallego</td>
+ <td><span></span>Dem.</td>
+ <td>100.0</td>
+ <td>100.0</td>
+ </tr><tr><td>House</td>
+ <td>John Garamendi</td>
+ <td><span></span>Dem.</td>
+ <td>100.0</td>
+ <td>100.0</td>
+ </tr><tr><td>House</td>
+ <td>Jesús “Chuy” García</td>
+ <td><span></span>Dem.</td>
+ <td>100.0</td>
+ <td>100.0</td>
+ </tr><tr><td>House</td>
+ <td>Sylvia R. Garcia</td>
+ <td><span></span>Dem.</td>
+ <td>100.0</td>
+ <td>100.0</td>
+ </tr><tr><td>House</td>
+ <td>Jimmy Gomez</td>
+ <td><span></span>Dem.</td>
+ <td>100.0</td>
+ <td>100.0</td>
+ </tr><tr><td>House</td>
+ <td>Vicente Gonzalez</td>
+ <td><span></span>Dem.</td>
+ <td>100.0</td>
+ <td>100.0</td>
+ </tr><tr><td>House</td>
+ <td>Josh Gottheimer</td>
+ <td><span></span>Dem.</td>
+ <td>100.0</td>
+ <td>100.0</td>
+ </tr><tr><td>House</td>
+ <td>Al Green</td>
+ <td><span></span>Dem.</td>
+ <td>100.0</td>
+ <td>100.0</td>
+ </tr><tr><td>House</td>
+ <td>Raúl Grijalva</td>
+ <td><span></span>Dem.</td>
+ <td>100.0</td>
+ <td>100.0</td>
+ </tr><tr><td>House</td>
+ <td>Josh Harder</td>
+ <td><span></span>Dem.</td>
+ <td>100.0</td>
+ <td>100.0</td>
+ </tr><tr><td>House</td>
+ <td>Jahana Hayes</td>
+ <td><span></span>Dem.</td>
+ <td>100.0</td>
+ <td>100.0</td>
+ </tr><tr><td>House</td>
+ <td>Brian Higgins</td>
+ <td><span></span>Dem.</td>
+ <td>100.0</td>
+ <td>100.0</td>
+ </tr><tr><td>House</td>
+ <td>Jim Himes</td>
+ <td><span></span>Dem.</td>
+ <td>100.0</td>
+ <td>100.0</td>
+ </tr><tr><td>House</td>
+ <td>Steven A. Horsford</td>
+ <td><span></span>Dem.</td>
+ <td>100.0</td>
+ <td>100.0</td>
+ </tr><tr><td>House</td>
+ <td>Chrissy Houlahan</td>
+ <td><span></span>Dem.</td>
+ <td>100.0</td>
+ <td>100.0</td>
+ </tr><tr><td>House</td>
+ <td>Steny H. Hoyer</td>
+ <td><span></span>Dem.</td>
+ <td>100.0</td>
+ <td>100.0</td>
+ </tr><tr><td>House</td>
+ <td>Jared Huffman</td>
+ <td><span></span>Dem.</td>
+ <td>100.0</td>
+ <td>100.0</td>
+ </tr><tr><td>House</td>
+ <td>Sheila Jackson Lee</td>
+ <td><span></span>Dem.</td>
+ <td>100.0</td>
+ <td>100.0</td>
+ </tr><tr><td>House</td>
+ <td>Sara Jacobs</td>
+ <td><span></span>Dem.</td>
+ <td>100.0</td>
+ <td>100.0</td>
+ </tr><tr><td>House</td>
+ <td>Pramila Jayapal</td>
+ <td><span></span>Dem.</td>
+ <td>100.0</td>
+ <td>100.0</td>
+ </tr><tr><td>House</td>
+ <td>Hakeem Jeffries</td>
+ <td><span></span>Dem.</td>
+ <td>100.0</td>
+ <td>100.0</td>
+ </tr><tr><td>House</td>
+ <td>Eddie Bernice Johnson</td>
+ <td><span></span>Dem.</td>
+ <td>100.0</td>
+ <td>100.0</td>
+ </tr><tr><td>House</td>
+ <td>Hank Johnson</td>
+ <td><span></span>Dem.</td>
+ <td>100.0</td>
+ <td>100.0</td>
+ </tr><tr><td>House</td>
+ <td>Mondaire Jones</td>
+ <td><span></span>Dem.</td>
+ <td>100.0</td>
+ <td>100.0</td>
+ </tr><tr><td>House</td>
+ <td>Kaiali’i Kahele</td>
+ <td><span></span>Dem.</td>
+ <td>100.0</td>
+ <td>100.0</td>
+ </tr><tr><td>House</td>
+ <td>Marcy Kaptur</td>
+ <td><span></span>Dem.</td>
+ <td>100.0</td>
+ <td>100.0</td>
+ </tr><tr><td>House</td>
+ <td>William Keating</td>
+ <td><span></span>Dem.</td>
+ <td>100.0</td>
+ <td>100.0</td>
+ </tr><tr><td>House</td>
+ <td>Ro Khanna</td>
+ <td><span></span>Dem.</td>
+ <td>100.0</td>
+ <td>100.0</td>
+ </tr><tr><td>House</td>
+ <td>Daniel Kildee</td>
+ <td><span></span>Dem.</td>
+ <td>100.0</td>
+ <td>100.0</td>
+ </tr><tr><td>House</td>
+ <td>Derek Kilmer</td>
+ <td><span></span>Dem.</td>
+ <td>100.0</td>
+ <td>100.0</td>
+ </tr><tr><td>House</td>
+ <td>Andy Kim</td>
+ <td><span></span>Dem.</td>
+ <td>100.0</td>
+ <td>100.0</td>
+ </tr><tr><td>House</td>
+ <td>Ann Kirkpatrick</td>
+ <td><span></span>Dem.</td>
+ <td>100.0</td>
+ <td>100.0</td>
+ </tr><tr><td>House</td>
+ <td>Raja Krishnamoorthi</td>
+ <td><span></span>Dem.</td>
+ <td>100.0</td>
+ <td>100.0</td>
+ </tr><tr><td>House</td>
+ <td>Ann Kuster</td>
+ <td><span></span>Dem.</td>
+ <td>100.0</td>
+ <td>100.0</td>
+ </tr><tr><td>House</td>
+ <td>Conor Lamb</td>
+ <td><span></span>Dem.</td>
+ <td>100.0</td>
+ <td>100.0</td>
+ </tr><tr><td>House</td>
+ <td>Jim Langevin</td>
+ <td><span></span>Dem.</td>
+ <td>100.0</td>
+ <td>100.0</td>
+ </tr><tr><td>House</td>
+ <td>Rick Larsen</td>
+ <td><span></span>Dem.</td>
+ <td>100.0</td>
+ <td>100.0</td>
+ </tr><tr><td>House</td>
+ <td>John B. Larson</td>
+ <td><span></span>Dem.</td>
+ <td>100.0</td>
+ <td>100.0</td>
+ </tr><tr><td>House</td>
+ <td>Brenda Lawrence</td>
+ <td><span></span>Dem.</td>
+ <td>100.0</td>
+ <td>100.0</td>
+ </tr><tr><td>House</td>
+ <td>Al Lawson</td>
+ <td><span></span>Dem.</td>
+ <td>100.0</td>
+ <td>100.0</td>
+ </tr><tr><td>House</td>
+ <td>Barbara Lee</td>
+ <td><span></span>Dem.</td>
+ <td>100.0</td>
+ <td>100.0</td>
+ </tr><tr><td>House</td>
+ <td>Susie Lee</td>
+ <td><span></span>Dem.</td>
+ <td>100.0</td>
+ <td>100.0</td>
+ </tr><tr><td>House</td>
+ <td>Teresa Leger Fernandez</td>
+ <td><span></span>Dem.</td>
+ <td>100.0</td>
+ <td>100.0</td>
+ </tr><tr><td>House</td>
+ <td>Andy Levin</td>
+ <td><span></span>Dem.</td>
+ <td>100.0</td>
+ <td>100.0</td>
+ </tr><tr><td>House</td>
+ <td>Mike Levin</td>
+ <td><span></span>Dem.</td>
+ <td>100.0</td>
+ <td>100.0</td>
+ </tr><tr><td>House</td>
+ <td>Ted Lieu</td>
+ <td><span></span>Dem.</td>
+ <td>100.0</td>
+ <td>100.0</td>
+ </tr><tr><td>House</td>
+ <td>Zoe Lofgren</td>
+ <td><span></span>Dem.</td>
+ <td>100.0</td>
+ <td>100.0</td>
+ </tr><tr><td>House</td>
+ <td>Alan Lowenthal</td>
+ <td><span></span>Dem.</td>
+ <td>100.0</td>
+ <td>100.0</td>
+ </tr><tr><td>House</td>
+ <td>Elaine Luria</td>
+ <td><span></span>Dem.</td>
+ <td>100.0</td>
+ <td>100.0</td>
+ </tr><tr><td>House</td>
+ <td>Stephen F. Lynch</td>
+ <td><span></span>Dem.</td>
+ <td>100.0</td>
+ <td>100.0</td>
+ </tr><tr><td>House</td>
+ <td>Tom Malinowski</td>
+ <td><span></span>Dem.</td>
+ <td>100.0</td>
+ <td>100.0</td>
+ </tr><tr><td>House</td>
+ <td>Carolyn Maloney</td>
+ <td><span></span>Dem.</td>
+ <td>100.0</td>
+ <td>100.0</td>
+ </tr><tr><td>House</td>
+ <td>Kathy E. Manning</td>
+ <td><span></span>Dem.</td>
+ <td>100.0</td>
+ <td>100.0</td>
+ </tr><tr><td>House</td>
+ <td>Doris O. Matsui</td>
+ <td><span></span>Dem.</td>
+ <td>100.0</td>
+ <td>100.0</td>
+ </tr><tr><td>House</td>
+ <td>Lucy McBath</td>
+ <td><span></span>Dem.</td>
+ <td>100.0</td>
+ <td>100.0</td>
+ </tr><tr><td>House</td>
+ <td>Betty McCollum</td>
+ <td><span></span>Dem.</td>
+ <td>100.0</td>
+ <td>100.0</td>
+ </tr><tr><td>House</td>
+ <td>A. Donald McEachin</td>
+ <td><span></span>Dem.</td>
+ <td>100.0</td>
+ <td>100.0</td>
+ </tr><tr><td>House</td>
+ <td>James McGovern</td>
+ <td><span></span>Dem.</td>
+ <td>100.0</td>
+ <td>100.0</td>
+ </tr><tr><td>House</td>
+ <td>Jerry McNerney</td>
+ <td><span></span>Dem.</td>
+ <td>100.0</td>
+ <td>100.0</td>
+ </tr><tr><td>House</td>
+ <td>Gregory W. Meeks</td>
+ <td><span></span>Dem.</td>
+ <td>100.0</td>
+ <td>100.0</td>
+ </tr><tr><td>House</td>
+ <td>Grace Meng</td>
+ <td><span></span>Dem.</td>
+ <td>100.0</td>
+ <td>100.0</td>
+ </tr><tr><td>House</td>
+ <td>Kweisi Mfume</td>
+ <td><span></span>Dem.</td>
+ <td>100.0</td>
+ <td>100.0</td>
+ </tr><tr><td>House</td>
+ <td>Gwen Moore</td>
+ <td><span></span>Dem.</td>
+ <td>100.0</td>
+ <td>100.0</td>
+ </tr><tr><td>House</td>
+ <td>Joseph D. Morelle</td>
+ <td><span></span>Dem.</td>
+ <td>100.0</td>
+ <td>100.0</td>
+ </tr><tr><td>House</td>
+ <td>Seth Moulton</td>
+ <td><span></span>Dem.</td>
+ <td>100.0</td>
+ <td>100.0</td>
+ </tr><tr><td>House</td>
+ <td>Frank J. Mrvan</td>
+ <td><span></span>Dem.</td>
+ <td>100.0</td>
+ <td>100.0</td>
+ </tr><tr><td>House</td>
+ <td>Jerrold Nadler</td>
+ <td><span></span>Dem.</td>
+ <td>100.0</td>
+ <td>100.0</td>
+ </tr><tr><td>House</td>
+ <td>Grace Napolitano</td>
+ <td><span></span>Dem.</td>
+ <td>100.0</td>
+ <td>100.0</td>
+ </tr><tr><td>House</td>
+ <td>Richard E. Neal</td>
+ <td><span></span>Dem.</td>
+ <td>100.0</td>
+ <td>100.0</td>
+ </tr><tr><td>House</td>
+ <td>Joe Neguse</td>
+ <td><span></span>Dem.</td>
+ <td>100.0</td>
+ <td>100.0</td>
+ </tr><tr><td>House</td>
+ <td>Marie Newman</td>
+ <td><span></span>Dem.</td>
+ <td>100.0</td>
+ <td>100.0</td>
+ </tr><tr><td>House</td>
+ <td>Donald Norcross</td>
+ <td><span></span>Dem.</td>
+ <td>100.0</td>
+ <td>100.0</td>
+ </tr><tr><td>House</td>
+ <td>Tom O’Halleran</td>
+ <td><span></span>Dem.</td>
+ <td>100.0</td>
+ <td>100.0</td>
+ </tr><tr><td>House</td>
+ <td>Ilhan Omar</td>
+ <td><span></span>Dem.</td>
+ <td>100.0</td>
+ <td>100.0</td>
+ </tr><tr><td>House</td>
+ <td>Frank Pallone Jr.</td>
+ <td><span></span>Dem.</td>
+ <td>100.0</td>
+ <td>100.0</td>
+ </tr><tr><td>House</td>
+ <td>Jimmy Panetta</td>
+ <td><span></span>Dem.</td>
+ <td>100.0</td>
+ <td>100.0</td>
+ </tr><tr><td>House</td>
+ <td>Chris Pappas</td>
+ <td><span></span>Dem.</td>
+ <td>100.0</td>
+ <td>100.0</td>
+ </tr><tr><td>House</td>
+ <td>Bill Pascrell Jr.</td>
+ <td><span></span>Dem.</td>
+ <td>100.0</td>
+ <td>100.0</td>
+ </tr><tr><td>House</td>
+ <td>Donald Payne Jr.</td>
+ <td><span></span>Dem.</td>
+ <td>100.0</td>
+ <td>100.0</td>
+ </tr><tr><td>House</td>
+ <td>Nancy Pelosi</td>
+ <td><span></span>Dem.</td>
+ <td>100.0</td>
+ <td>100.0</td>
+ </tr><tr><td>House</td>
+ <td>Ed Perlmutter</td>
+ <td><span></span>Dem.</td>
+ <td>100.0</td>
+ <td>100.0</td>
+ </tr><tr><td>House</td>
+ <td>Scott Peters</td>
+ <td><span></span>Dem.</td>
+ <td>100.0</td>
+ <td>100.0</td>
+ </tr><tr><td>House</td>
+ <td>Dean Phillips</td>
+ <td><span></span>Dem.</td>
+ <td>100.0</td>
+ <td>100.0</td>
+ </tr><tr><td>House</td>
+ <td>Chellie Pingree</td>
+ <td><span></span>Dem.</td>
+ <td>100.0</td>
+ <td>100.0</td>
+ </tr><tr><td>House</td>
+ <td>Mark Pocan</td>
+ <td><span></span>Dem.</td>
+ <td>100.0</td>
+ <td>100.0</td>
+ </tr><tr><td>House</td>
+ <td>Katie Porter</td>
+ <td><span></span>Dem.</td>
+ <td>100.0</td>
+ <td>100.0</td>
+ </tr><tr><td>House</td>
+ <td>Ayanna Pressley</td>
+ <td><span></span>Dem.</td>
+ <td>100.0</td>
+ <td>100.0</td>
+ </tr><tr><td>House</td>
+ <td>David Price</td>
+ <td><span></span>Dem.</td>
+ <td>100.0</td>
+ <td>100.0</td>
+ </tr><tr><td>House</td>
+ <td>Mike Quigley</td>
+ <td><span></span>Dem.</td>
+ <td>100.0</td>
+ <td>100.0</td>
+ </tr><tr><td>House</td>
+ <td>Jamie Raskin</td>
+ <td><span></span>Dem.</td>
+ <td>100.0</td>
+ <td>100.0</td>
+ </tr><tr><td>House</td>
+ <td>Kathleen Rice</td>
+ <td><span></span>Dem.</td>
+ <td>100.0</td>
+ <td>100.0</td>
+ </tr><tr><td>House</td>
+ <td>Deborah K. Ross</td>
+ <td><span></span>Dem.</td>
+ <td>100.0</td>
+ <td>100.0</td>
+ </tr><tr><td>House</td>
+ <td>Lucille Roybal-Allard</td>
+ <td><span></span>Dem.</td>
+ <td>100.0</td>
+ <td>100.0</td>
+ </tr><tr><td>House</td>
+ <td>Raul Ruiz</td>
+ <td><span></span>Dem.</td>
+ <td>100.0</td>
+ <td>100.0</td>
+ </tr><tr><td>House</td>
+ <td>C.A. Dutch Ruppersberger</td>
+ <td><span></span>Dem.</td>
+ <td>100.0</td>
+ <td>100.0</td>
+ </tr><tr><td>House</td>
+ <td>Bobby L. Rush</td>
+ <td><span></span>Dem.</td>
+ <td>100.0</td>
+ <td>100.0</td>
+ </tr><tr><td>House</td>
+ <td>Tim Ryan</td>
+ <td><span></span>Dem.</td>
+ <td>100.0</td>
+ <td>100.0</td>
+ </tr><tr><td>House</td>
+ <td>John P. Sarbanes</td>
+ <td><span></span>Dem.</td>
+ <td>100.0</td>
+ <td>100.0</td>
+ </tr><tr><td>House</td>
+ <td>Mary Gay Scanlon</td>
+ <td><span></span>Dem.</td>
+ <td>100.0</td>
+ <td>100.0</td>
+ </tr><tr><td>House</td>
+ <td>Jan Schakowsky</td>
+ <td><span></span>Dem.</td>
+ <td>100.0</td>
+ <td>100.0</td>
+ </tr><tr><td>House</td>
+ <td>Adam Schiff</td>
+ <td><span></span>Dem.</td>
+ <td>100.0</td>
+ <td>100.0</td>
+ </tr><tr><td>House</td>
+ <td>Bradley Schneider</td>
+ <td><span></span>Dem.</td>
+ <td>100.0</td>
+ <td>100.0</td>
+ </tr><tr><td>House</td>
+ <td>Kurt Schrader</td>
+ <td><span></span>Dem.</td>
+ <td>100.0</td>
+ <td>100.0</td>
+ </tr><tr><td>House</td>
+ <td>Kim Schrier</td>
+ <td><span></span>Dem.</td>
+ <td>100.0</td>
+ <td>100.0</td>
+ </tr><tr><td>House</td>
+ <td>Robert C. Scott</td>
+ <td><span></span>Dem.</td>
+ <td>100.0</td>
+ <td>100.0</td>
+ </tr><tr><td>House</td>
+ <td>Terri A. Sewell</td>
+ <td><span></span>Dem.</td>
+ <td>100.0</td>
+ <td>100.0</td>
+ </tr><tr><td>House</td>
+ <td>Brad Sherman</td>
+ <td><span></span>Dem.</td>
+ <td>100.0</td>
+ <td>100.0</td>
+ </tr><tr><td>House</td>
+ <td>Mikie Sherrill</td>
+ <td><span></span>Dem.</td>
+ <td>100.0</td>
+ <td>100.0</td>
+ </tr><tr><td>House</td>
+ <td>Albio Sires</td>
+ <td><span></span>Dem.</td>
+ <td>100.0</td>
+ <td>100.0</td>
+ </tr><tr><td>House</td>
+ <td>Elissa Slotkin</td>
+ <td><span></span>Dem.</td>
+ <td>100.0</td>
+ <td>100.0</td>
+ </tr><tr><td>House</td>
+ <td>Adam Smith</td>
+ <td><span></span>Dem.</td>
+ <td>100.0</td>
+ <td>100.0</td>
+ </tr><tr><td>House</td>
+ <td>Darren Soto</td>
+ <td><span></span>Dem.</td>
+ <td>100.0</td>
+ <td>100.0</td>
+ </tr><tr><td>House</td>
+ <td>Abigail Spanberger</td>
+ <td><span></span>Dem.</td>
+ <td>100.0</td>
+ <td>100.0</td>
+ </tr><tr><td>House</td>
+ <td>Jackie Speier</td>
+ <td><span></span>Dem.</td>
+ <td>100.0</td>
+ <td>100.0</td>
+ </tr><tr><td>House</td>
+ <td>Melanie A. Stansbury</td>
+ <td><span></span>Dem.</td>
+ <td>100.0</td>
+ <td>100.0</td>
+ </tr><tr><td>House</td>
+ <td>Greg Stanton</td>
+ <td><span></span>Dem.</td>
+ <td>100.0</td>
+ <td>100.0</td>
+ </tr><tr><td>House</td>
+ <td>Haley Stevens</td>
+ <td><span></span>Dem.</td>
+ <td>100.0</td>
+ <td>100.0</td>
+ </tr><tr><td>House</td>
+ <td>Marilyn Strickland</td>
+ <td><span></span>Dem.</td>
+ <td>100.0</td>
+ <td>100.0</td>
+ </tr><tr><td>House</td>
+ <td>Thomas Suozzi</td>
+ <td><span></span>Dem.</td>
+ <td>100.0</td>
+ <td>100.0</td>
+ </tr><tr><td>House</td>
+ <td>Eric Swalwell</td>
+ <td><span></span>Dem.</td>
+ <td>100.0</td>
+ <td>100.0</td>
+ </tr><tr><td>House</td>
+ <td>Mike Thompson</td>
+ <td><span></span>Dem.</td>
+ <td>100.0</td>
+ <td>100.0</td>
+ </tr><tr><td>House</td>
+ <td>Dina Titus</td>
+ <td><span></span>Dem.</td>
+ <td>100.0</td>
+ <td>100.0</td>
+ </tr><tr><td>House</td>
+ <td>Paul D. Tonko</td>
+ <td><span></span>Dem.</td>
+ <td>100.0</td>
+ <td>100.0</td>
+ </tr><tr><td>House</td>
+ <td>Norma Torres</td>
+ <td><span></span>Dem.</td>
+ <td>100.0</td>
+ <td>100.0</td>
+ </tr><tr><td>House</td>
+ <td>Ritchie Torres</td>
+ <td><span></span>Dem.</td>
+ <td>100.0</td>
+ <td>100.0</td>
+ </tr><tr><td>House</td>
+ <td>Lori Trahan</td>
+ <td><span></span>Dem.</td>
+ <td>100.0</td>
+ <td>100.0</td>
+ </tr><tr><td>House</td>
+ <td>Lauren Underwood</td>
+ <td><span></span>Dem.</td>
+ <td>100.0</td>
+ <td>100.0</td>
+ </tr><tr><td>House</td>
+ <td>Juan Vargas</td>
+ <td><span></span>Dem.</td>
+ <td>100.0</td>
+ <td>100.0</td>
+ </tr><tr><td>House</td>
+ <td>Marc Veasey</td>
+ <td><span></span>Dem.</td>
+ <td>100.0</td>
+ <td>100.0</td>
+ </tr><tr><td>House</td>
+ <td>Filemon Vela</td>
+ <td><span></span>Dem.</td>
+ <td>100.0</td>
+ <td>100.0</td>
+ </tr><tr><td>House</td>
+ <td>Nydia M. Velázquez</td>
+ <td><span></span>Dem.</td>
+ <td>100.0</td>
+ <td>100.0</td>
+ </tr><tr><td>House</td>
+ <td>Debbie Wasserman Schultz</td>
+ <td><span></span>Dem.</td>
+ <td>100.0</td>
+ <td>100.0</td>
+ </tr><tr><td>House</td>
+ <td>Maxine Waters</td>
+ <td><span></span>Dem.</td>
+ <td>100.0</td>
+ <td>100.0</td>
+ </tr><tr><td>House</td>
+ <td>Bonnie Watson Coleman</td>
+ <td><span></span>Dem.</td>
+ <td>100.0</td>
+ <td>100.0</td>
+ </tr><tr><td>House</td>
+ <td>Peter Welch</td>
+ <td><span></span>Dem.</td>
+ <td>100.0</td>
+ <td>100.0</td>
+ </tr><tr><td>House</td>
+ <td>Jennifer Wexton</td>
+ <td><span></span>Dem.</td>
+ <td>100.0</td>
+ <td>100.0</td>
+ </tr><tr><td>House</td>
+ <td>Susan Wild</td>
+ <td><span></span>Dem.</td>
+ <td>100.0</td>
+ <td>100.0</td>
+ </tr><tr><td>House</td>
+ <td>Nikema Williams</td>
+ <td><span></span>Dem.</td>
+ <td>100.0</td>
+ <td>100.0</td>
+ </tr><tr><td>House</td>
+ <td>Frederica Wilson</td>
+ <td><span></span>Dem.</td>
+ <td>100.0</td>
+ <td>100.0</td>
+ </tr><tr><td>House</td>
+ <td>John A. Yarmuth</td>
+ <td><span></span>Dem.</td>
+ <td>100.0</td>
+ <td>100.0</td>
+ </tr><tr><td>Senate</td>
+ <td>Tammy Baldwin</td>
+ <td><span></span>Dem.</td>
+ <td>100.0</td>
+ <td>100.0</td>
+ </tr><tr><td>Senate</td>
+ <td>Michael F. Bennet</td>
+ <td><span></span>Dem.</td>
+ <td>100.0</td>
+ <td>100.0</td>
+ </tr><tr><td>Senate</td>
+ <td>Richard Blumenthal</td>
+ <td><span></span>Dem.</td>
+ <td>100.0</td>
+ <td>100.0</td>
+ </tr><tr><td>Senate</td>
+ <td>Cory A. Booker</td>
+ <td><span></span>Dem.</td>
+ <td>100.0</td>
+ <td>100.0</td>
+ </tr><tr><td>Senate</td>
+ <td>Sherrod Brown</td>
+ <td><span></span>Dem.</td>
+ <td>100.0</td>
+ <td>100.0</td>
+ </tr><tr><td>Senate</td>
+ <td>Maria Cantwell</td>
+ <td><span></span>Dem.</td>
+ <td>100.0</td>
+ <td>100.0</td>
+ </tr><tr><td>Senate</td>
+ <td>Benjamin L. Cardin</td>
+ <td><span></span>Dem.</td>
+ <td>100.0</td>
+ <td>100.0</td>
+ </tr><tr><td>Senate</td>
+ <td>Thomas R. Carper</td>
+ <td><span></span>Dem.</td>
+ <td>100.0</td>
+ <td>100.0</td>
+ </tr><tr><td>Senate</td>
+ <td>Robert P. Casey Jr.</td>
+ <td><span></span>Dem.</td>
+ <td>100.0</td>
+ <td>100.0</td>
+ </tr><tr><td>Senate</td>
+ <td>Christopher A. Coons</td>
+ <td><span></span>Dem.</td>
+ <td>100.0</td>
+ <td>100.0</td>
+ </tr><tr><td>Senate</td>
+ <td>Catherine Cortez Masto</td>
+ <td><span></span>Dem.</td>
+ <td>100.0</td>
+ <td>100.0</td>
+ </tr><tr><td>Senate</td>
+ <td>Tammy Duckworth</td>
+ <td><span></span>Dem.</td>
+ <td>100.0</td>
+ <td>100.0</td>
+ </tr><tr><td>Senate</td>
+ <td>Richard J. Durbin</td>
+ <td><span></span>Dem.</td>
+ <td>100.0</td>
+ <td>100.0</td>
+ </tr><tr><td>Senate</td>
+ <td>Dianne Feinstein</td>
+ <td><span></span>Dem.</td>
+ <td>100.0</td>
+ <td>100.0</td>
+ </tr><tr><td>Senate</td>
+ <td>Kirsten E. Gillibrand</td>
+ <td><span></span>Dem.</td>
+ <td>100.0</td>
+ <td>100.0</td>
+ </tr><tr><td>Senate</td>
+ <td>Margaret Wood Hassan</td>
+ <td><span></span>Dem.</td>
+ <td>100.0</td>
+ <td>100.0</td>
+ </tr><tr><td>Senate</td>
+ <td>Martin Heinrich</td>
+ <td><span></span>Dem.</td>
+ <td>100.0</td>
+ <td>100.0</td>
+ </tr><tr><td>Senate</td>
+ <td>John W. Hickenlooper</td>
+ <td><span></span>Dem.</td>
+ <td>100.0</td>
+ <td>100.0</td>
+ </tr><tr><td>Senate</td>
+ <td>Mazie K. Hirono</td>
+ <td><span></span>Dem.</td>
+ <td>100.0</td>
+ <td>100.0</td>
+ </tr><tr><td>Senate</td>
+ <td>Tim Kaine</td>
+ <td><span></span>Dem.</td>
+ <td>100.0</td>
+ <td>100.0</td>
+ </tr><tr><td>Senate</td>
+ <td>Mark Kelly</td>
+ <td><span></span>Dem.</td>
+ <td>100.0</td>
+ <td>100.0</td>
+ </tr><tr><td>Senate</td>
+ <td>Angus S. King Jr.</td>
+ <td><span></span>Dem.</td>
+ <td>100.0</td>
+ <td>100.0</td>
+ </tr><tr><td>Senate</td>
+ <td>Patrick J. Leahy</td>
+ <td><span></span>Dem.</td>
+ <td>100.0</td>
+ <td>100.0</td>
+ </tr><tr><td>Senate</td>
+ <td>Ben R. Luján</td>
+ <td><span></span>Dem.</td>
+ <td>100.0</td>
+ <td>100.0</td>
+ </tr><tr><td>Senate</td>
+ <td>Joe Manchin</td>
+ <td><span></span>Dem.</td>
+ <td>100.0</td>
+ <td>100.0</td>
+ </tr><tr><td>Senate</td>
+ <td>Edward J. Markey</td>
+ <td><span></span>Dem.</td>
+ <td>100.0</td>
+ <td>100.0</td>
+ </tr><tr><td>Senate</td>
+ <td>Robert Menendez</td>
+ <td><span></span>Dem.</td>
+ <td>100.0</td>
+ <td>100.0</td>
+ </tr><tr><td>Senate</td>
+ <td>Jeff Merkley</td>
+ <td><span></span>Dem.</td>
+ <td>100.0</td>
+ <td>100.0</td>
+ </tr><tr><td>Senate</td>
+ <td>Christopher Murphy</td>
+ <td><span></span>Dem.</td>
+ <td>100.0</td>
+ <td>100.0</td>
+ </tr><tr><td>Senate</td>
+ <td>Jon Ossoff</td>
+ <td><span></span>Dem.</td>
+ <td>100.0</td>
+ <td>100.0</td>
+ </tr><tr><td>Senate</td>
+ <td>Alex Padilla</td>
+ <td><span></span>Dem.</td>
+ <td>100.0</td>
+ <td>100.0</td>
+ </tr><tr><td>Senate</td>
+ <td>Gary C. Peters</td>
+ <td><span></span>Dem.</td>
+ <td>100.0</td>
+ <td>100.0</td>
+ </tr><tr><td>Senate</td>
+ <td>Jack Reed</td>
+ <td><span></span>Dem.</td>
+ <td>100.0</td>
+ <td>100.0</td>
+ </tr><tr><td>Senate</td>
+ <td>Jacky Rosen</td>
+ <td><span></span>Dem.</td>
+ <td>100.0</td>
+ <td>100.0</td>
+ </tr><tr><td>Senate</td>
+ <td>Bernie Sanders</td>
+ <td><span></span>Dem.</td>
+ <td>100.0</td>
+ <td>100.0</td>
+ </tr><tr><td>Senate</td>
+ <td>Brian Schatz</td>
+ <td><span></span>Dem.</td>
+ <td>100.0</td>
+ <td>100.0</td>
+ </tr><tr><td>Senate</td>
+ <td>Charles E. Schumer</td>
+ <td><span></span>Dem.</td>
+ <td>100.0</td>
+ <td>100.0</td>
+ </tr><tr><td>Senate</td>
+ <td>Jeanne Shaheen</td>
+ <td><span></span>Dem.</td>
+ <td>100.0</td>
+ <td>100.0</td>
+ </tr><tr><td>Senate</td>
+ <td>Debbie Stabenow</td>
+ <td><span></span>Dem.</td>
+ <td>100.0</td>
+ <td>100.0</td>
+ </tr><tr><td>Senate</td>
+ <td>Jon Tester</td>
+ <td><span></span>Dem.</td>
+ <td>100.0</td>
+ <td>100.0</td>
+ </tr><tr><td>Senate</td>
+ <td>Chris Van Hollen</td>
+ <td><span></span>Dem.</td>
+ <td>100.0</td>
+ <td>100.0</td>
+ </tr><tr><td>Senate</td>
+ <td>Mark R. Warner</td>
+ <td><span></span>Dem.</td>
+ <td>100.0</td>
+ <td>100.0</td>
+ </tr><tr><td>Senate</td>
+ <td>Raphael G. Warnock</td>
+ <td><span></span>Dem.</td>
+ <td>100.0</td>
+ <td>100.0</td>
+ </tr><tr><td>Senate</td>
+ <td>Elizabeth Warren</td>
+ <td><span></span>Dem.</td>
+ <td>100.0</td>
+ <td>100.0</td>
+ </tr><tr><td>Senate</td>
+ <td>Sheldon Whitehouse</td>
+ <td><span></span>Dem.</td>
+ <td>100.0</td>
+ <td>100.0</td>
+ </tr><tr><td>Senate</td>
+ <td>Ron Wyden</td>
+ <td><span></span>Dem.</td>
+ <td>100.0</td>
+ <td>100.0</td>
+ </tr><tr><td>House</td>
+ <td>Kathy Castor</td>
+ <td><span></span>Dem.</td>
+ <td>100.0</td>
+ <td>97.4</td>
+ </tr><tr><td>House</td>
+ <td>Jim Costa</td>
+ <td><span></span>Dem.</td>
+ <td>100.0</td>
+ <td>97.4</td>
+ </tr><tr><td>House</td>
+ <td>Lloyd Doggett</td>
+ <td><span></span>Dem.</td>
+ <td>91.7</td>
+ <td>97.4</td>
+ </tr><tr><td>House</td>
+ <td>Robin Kelly</td>
+ <td><span></span>Dem.</td>
+ <td>91.7</td>
+ <td>97.4</td>
+ </tr><tr><td>House</td>
+ <td>Sean Patrick Maloney</td>
+ <td><span></span>Dem.</td>
+ <td>100.0</td>
+ <td>97.4</td>
+ </tr><tr><td>House</td>
+ <td>Stephanie Murphy</td>
+ <td><span></span>Dem.</td>
+ <td>100.0</td>
+ <td>97.4</td>
+ </tr><tr><td>House</td>
+ <td>Alexandria Ocasio-Cortez</td>
+ <td><span></span>Dem.</td>
+ <td>100.0</td>
+ <td>97.4</td>
+ </tr><tr><td>House</td>
+ <td>Linda Sánchez</td>
+ <td><span></span>Dem.</td>
+ <td>100.0</td>
+ <td>97.4</td>
+ </tr><tr><td>House</td>
+ <td>David Scott</td>
+ <td><span></span>Dem.</td>
+ <td>91.7</td>
+ <td>97.4</td>
+ </tr><tr><td>House</td>
+ <td>Mark Takano</td>
+ <td><span></span>Dem.</td>
+ <td>100.0</td>
+ <td>97.4</td>
+ </tr><tr><td>House</td>
+ <td>David Trone</td>
+ <td><span></span>Dem.</td>
+ <td>91.7</td>
+ <td>97.4</td>
+ </tr><tr><td>House</td>
+ <td>Ron Kind</td>
+ <td><span></span>Dem.</td>
+ <td>100.0</td>
+ <td>94.7</td>
+ </tr><tr><td>House</td>
+ <td>Bennie G. Thompson</td>
+ <td><span></span>Dem.</td>
+ <td>100.0</td>
+ <td>94.7</td>
+ </tr><tr><td>Senate</td>
+ <td>Amy Klobuchar</td>
+ <td><span></span>Dem.</td>
+ <td>100.0</td>
+ <td>92.9</td>
+ </tr><tr><td>Senate</td>
+ <td>Patty Murray</td>
+ <td><span></span>Dem.</td>
+ <td>87.5</td>
+ <td>92.9</td>
+ </tr><tr><td>Senate</td>
+ <td>Kyrsten Sinema</td>
+ <td><span></span>Dem.</td>
+ <td>87.5</td>
+ <td>92.9</td>
+ </tr><tr><td>Senate</td>
+ <td>Tina Smith</td>
+ <td><span></span>Dem.</td>
+ <td>100.0</td>
+ <td>92.9</td>
+ </tr><tr><td>House</td>
+ <td>Rashida Tlaib</td>
+ <td><span></span>Dem.</td>
+ <td>83.3</td>
+ <td>92.1</td>
+ </tr><tr><td>House</td>
+ <td>Jared Golden</td>
+ <td><span></span>Dem.</td>
+ <td>91.7</td>
+ <td>86.8</td>
+ </tr><tr><td>Senate</td>
+ <td>Bill Cassidy</td>
+ <td><span></span>Rep.</td>
+ <td>100.0</td>
+ <td>71.4</td>
+ </tr><tr><td>Senate</td>
+ <td>Susan Collins</td>
+ <td><span></span>Rep.</td>
+ <td>100.0</td>
+ <td>71.4</td>
+ </tr><tr><td>Senate</td>
+ <td>Lisa Murkowski</td>
+ <td><span></span>Rep.</td>
+ <td>100.0</td>
+ <td>71.4</td>
+ </tr><tr><td>Senate</td>
+ <td>Mitt Romney</td>
+ <td><span></span>Rep.</td>
+ <td>100.0</td>
+ <td>71.4</td>
+ </tr><tr><td>Senate</td>
+ <td>Ben Sasse</td>
+ <td><span></span>Rep.</td>
+ <td>100.0</td>
+ <td>71.4</td>
+ </tr><tr><td>House</td>
+ <td>Brian Fitzpatrick</td>
+ <td><span></span>Rep.</td>
+ <td>66.7</td>
+ <td>68.4</td>
+ </tr><tr><td>Senate</td>
+ <td>Richard Burr</td>
+ <td><span></span>Rep.</td>
+ <td>87.5</td>
+ <td>64.3</td>
+ </tr><tr><td>Senate</td>
+ <td>Patrick J. Toomey</td>
+ <td><span></span>Rep.</td>
+ <td>87.5</td>
+ <td>64.3</td>
+ </tr><tr><td>House</td>
+ <td>John Katko</td>
+ <td><span></span>Rep.</td>
+ <td>83.3</td>
+ <td>57.9</td>
+ </tr><tr><td>House</td>
+ <td>Adam Kinzinger</td>
+ <td><span></span>Rep.</td>
+ <td>83.3</td>
+ <td>57.9</td>
+ </tr><tr><td>House</td>
+ <td>Tom Reed</td>
+ <td><span></span>Rep.</td>
+ <td>66.7</td>
+ <td>57.9</td>
+ </tr><tr><td>Senate</td>
+ <td>Rob Portman</td>
+ <td><span></span>Rep.</td>
+ <td>75.0</td>
+ <td>57.1</td>
+ </tr><tr><td>Senate</td>
+ <td>Mike Rounds</td>
+ <td><span></span>Rep.</td>
+ <td>62.5</td>
+ <td>57.1</td>
+ </tr><tr><td>House</td>
+ <td>Fred Upton</td>
+ <td><span></span>Rep.</td>
+ <td>66.7</td>
+ <td>52.6</td>
+ </tr><tr><td>Senate</td>
+ <td>Roy Blunt</td>
+ <td><span></span>Rep.</td>
+ <td>62.5</td>
+ <td>50.0</td>
+ </tr><tr><td>Senate</td>
+ <td>Mike Braun</td>
+ <td><span></span>Rep.</td>
+ <td>62.5</td>
+ <td>50.0</td>
+ </tr><tr><td>Senate</td>
+ <td>James M. Inhofe</td>
+ <td><span></span>Rep.</td>
+ <td>62.5</td>
+ <td>50.0</td>
+ </tr><tr><td>Senate</td>
+ <td>James E. Risch</td>
+ <td><span></span>Rep.</td>
+ <td>62.5</td>
+ <td>50.0</td>
+ </tr><tr><td>Senate</td>
+ <td>Richard C. Shelby</td>
+ <td><span></span>Rep.</td>
+ <td>62.5</td>
+ <td>50.0</td>
+ </tr><tr><td>House</td>
+ <td>Don Bacon</td>
+ <td><span></span>Rep.</td>
+ <td>50.0</td>
+ <td>47.4</td>
+ </tr><tr><td>House</td>
+ <td>Jaime Herrera Beutler</td>
+ <td><span></span>Rep.</td>
+ <td>66.7</td>
+ <td>47.4</td>
+ </tr><tr><td>House</td>
+ <td>Chris Smith</td>
+ <td><span></span>Rep.</td>
+ <td>50.0</td>
+ <td>47.4</td>
+ </tr><tr><td>Senate</td>
+ <td>John Barrasso</td>
+ <td><span></span>Rep.</td>
+ <td>50.0</td>
+ <td>42.9</td>
+ </tr><tr><td>Senate</td>
+ <td>Marsha Blackburn</td>
+ <td><span></span>Rep.</td>
+ <td>62.5</td>
+ <td>42.9</td>
+ </tr><tr><td>Senate</td>
+ <td>John Boozman</td>
+ <td><span></span>Rep.</td>
+ <td>50.0</td>
+ <td>42.9</td>
+ </tr><tr><td>Senate</td>
+ <td>Shelley Moore Capito</td>
+ <td><span></span>Rep.</td>
+ <td>50.0</td>
+ <td>42.9</td>
+ </tr><tr><td>Senate</td>
+ <td>John Cornyn</td>
+ <td><span></span>Rep.</td>
+ <td>50.0</td>
+ <td>42.9</td>
+ </tr><tr><td>Senate</td>
+ <td>Tom Cotton</td>
+ <td><span></span>Rep.</td>
+ <td>50.0</td>
+ <td>42.9</td>
+ </tr><tr><td>Senate</td>
+ <td>Kevin Cramer</td>
+ <td><span></span>Rep.</td>
+ <td>50.0</td>
+ <td>42.9</td>
+ </tr><tr><td>Senate</td>
+ <td>Mike Crapo</td>
+ <td><span></span>Rep.</td>
+ <td>50.0</td>
+ <td>42.9</td>
+ </tr><tr><td>Senate</td>
+ <td>Steve Daines</td>
+ <td><span></span>Rep.</td>
+ <td>50.0</td>
+ <td>42.9</td>
+ </tr><tr><td>Senate</td>
+ <td>Joni Ernst</td>
+ <td><span></span>Rep.</td>
+ <td>50.0</td>
+ <td>42.9</td>
+ </tr><tr><td>Senate</td>
+ <td>Deb Fischer</td>
+ <td><span></span>Rep.</td>
+ <td>50.0</td>
+ <td>42.9</td>
+ </tr><tr><td>Senate</td>
+ <td>Lindsey Graham</td>
+ <td><span></span>Rep.</td>
+ <td>50.0</td>
+ <td>42.9</td>
+ </tr><tr><td>Senate</td>
+ <td>Chuck Grassley</td>
+ <td><span></span>Rep.</td>
+ <td>50.0</td>
+ <td>42.9</td>
+ </tr><tr><td>Senate</td>
+ <td>Bill Hagerty</td>
+ <td><span></span>Rep.</td>
+ <td>50.0</td>
+ <td>42.9</td>
+ </tr><tr><td>Senate</td>
+ <td>John Hoeven</td>
+ <td><span></span>Rep.</td>
+ <td>50.0</td>
+ <td>42.9</td>
+ </tr><tr><td>Senate</td>
+ <td>Ron Johnson</td>
+ <td><span></span>Rep.</td>
+ <td>50.0</td>
+ <td>42.9</td>
+ </tr><tr><td>Senate</td>
+ <td>James Lankford</td>
+ <td><span></span>Rep.</td>
+ <td>50.0</td>
+ <td>42.9</td>
+ </tr><tr><td>Senate</td>
+ <td>Mitch McConnell</td>
+ <td><span></span>Rep.</td>
+ <td>50.0</td>
+ <td>42.9</td>
+ </tr><tr><td>Senate</td>
+ <td>Jerry Moran</td>
+ <td><span></span>Rep.</td>
+ <td>50.0</td>
+ <td>42.9</td>
+ </tr><tr><td>Senate</td>
+ <td>Marco Rubio</td>
+ <td><span></span>Rep.</td>
+ <td>50.0</td>
+ <td>42.9</td>
+ </tr><tr><td>Senate</td>
+ <td>Tim Scott</td>
+ <td><span></span>Rep.</td>
+ <td>50.0</td>
+ <td>42.9</td>
+ </tr><tr><td>Senate</td>
+ <td>Dan Sullivan</td>
+ <td><span></span>Rep.</td>
+ <td>50.0</td>
+ <td>42.9</td>
+ </tr><tr><td>Senate</td>
+ <td>John Thune</td>
+ <td><span></span>Rep.</td>
+ <td>50.0</td>
+ <td>42.9</td>
+ </tr><tr><td>Senate</td>
+ <td>Thom Tillis</td>
+ <td><span></span>Rep.</td>
+ <td>50.0</td>
+ <td>42.9</td>
+ </tr><tr><td>Senate</td>
+ <td>Roger F. Wicker</td>
+ <td><span></span>Rep.</td>
+ <td>50.0</td>
+ <td>42.9</td>
+ </tr><tr><td>Senate</td>
+ <td>Todd Young</td>
+ <td><span></span>Rep.</td>
+ <td>50.0</td>
+ <td>42.9</td>
+ </tr><tr><td>House</td>
+ <td>Liz Cheney</td>
+ <td><span></span>Rep.</td>
+ <td>83.3</td>
+ <td>42.1</td>
+ </tr><tr><td>House</td>
+ <td>Jeff Fortenberry</td>
+ <td><span></span>Rep.</td>
+ <td>50.0</td>
+ <td>42.1</td>
+ </tr><tr><td>House</td>
+ <td>Andrew R. Garbarino</td>
+ <td><span></span>Rep.</td>
+ <td>50.0</td>
+ <td>42.1</td>
+ </tr><tr><td>House</td>
+ <td>Tony Gonzales</td>
+ <td><span></span>Rep.</td>
+ <td>50.0</td>
+ <td>42.1</td>
+ </tr><tr><td>House</td>
+ <td>Anthony Gonzalez</td>
+ <td><span></span>Rep.</td>
+ <td>66.7</td>
+ <td>42.1</td>
+ </tr><tr><td>House</td>
+ <td>Trey Hollingsworth</td>
+ <td><span></span>Rep.</td>
+ <td>50.0</td>
+ <td>42.1</td>
+ </tr><tr><td>House</td>
+ <td>Peter Meijer</td>
+ <td><span></span>Rep.</td>
+ <td>66.7</td>
+ <td>42.1</td>
+ </tr><tr><td>House</td>
+ <td>Dan Newhouse</td>
+ <td><span></span>Rep.</td>
+ <td>66.7</td>
+ <td>42.1</td>
+ </tr><tr><td>House</td>
+ <td>David G. Valadao</td>
+ <td><span></span>Rep.</td>
+ <td>50.0</td>
+ <td>41.2</td>
+ </tr><tr><td>House</td>
+ <td>David Joyce</td>
+ <td><span></span>Rep.</td>
+ <td>41.7</td>
+ <td>39.5</td>
+ </tr><tr><td>House</td>
+ <td>Don Young</td>
+ <td><span></span>Rep.</td>
+ <td>33.3</td>
+ <td>39.5</td>
+ </tr><tr><td>House</td>
+ <td>Troy Balderson</td>
+ <td><span></span>Rep.</td>
+ <td>33.3</td>
+ <td>36.8</td>
+ </tr><tr><td>House</td>
+ <td>John R. Curtis</td>
+ <td><span></span>Rep.</td>
+ <td>50.0</td>
+ <td>36.8</td>
+ </tr><tr><td>House</td>
+ <td>Rodney Davis</td>
+ <td><span></span>Rep.</td>
+ <td>50.0</td>
+ <td>36.8</td>
+ </tr><tr><td>House</td>
+ <td>Carlos A. Gimenez</td>
+ <td><span></span>Rep.</td>
+ <td>16.7</td>
+ <td>36.8</td>
+ </tr><tr><td>House</td>
+ <td>French Hill</td>
+ <td><span></span>Rep.</td>
+ <td>50.0</td>
+ <td>36.8</td>
+ </tr><tr><td>House</td>
+ <td>Ashley Hinson</td>
+ <td><span></span>Rep.</td>
+ <td>33.3</td>
+ <td>36.8</td>
+ </tr><tr><td>House</td>
+ <td>Michael T. McCaul</td>
+ <td><span></span>Rep.</td>
+ <td>33.3</td>
+ <td>36.8</td>
+ </tr><tr><td>House</td>
+ <td>Blake D. Moore</td>
+ <td><span></span>Rep.</td>
+ <td>50.0</td>
+ <td>36.8</td>
+ </tr><tr><td>House</td>
+ <td>Pete Stauber</td>
+ <td><span></span>Rep.</td>
+ <td>33.3</td>
+ <td>36.8</td>
+ </tr><tr><td>House</td>
+ <td>Ann Wagner</td>
+ <td><span></span>Rep.</td>
+ <td>33.3</td>
+ <td>36.8</td>
+ </tr><tr><td>Senate</td>
+ <td>Mike Lee</td>
+ <td><span></span>Rep.</td>
+ <td>50.0</td>
+ <td>35.7</td>
+ </tr><tr><td>Senate</td>
+ <td>Rand Paul</td>
+ <td><span></span>Rep.</td>
+ <td>50.0</td>
+ <td>35.7</td>
+ </tr><tr><td>House</td>
+ <td>María Elvira Salazar</td>
+ <td><span></span>Rep.</td>
+ <td>25.0</td>
+ <td>35.3</td>
+ </tr><tr><td>House</td>
+ <td>Young Kim</td>
+ <td><span></span>Rep.</td>
+ <td>25.0</td>
+ <td>34.2</td>
+ </tr><tr><td>House</td>
+ <td>Mike Simpson</td>
+ <td><span></span>Rep.</td>
+ <td>50.0</td>
+ <td>34.2</td>
+ </tr><tr><td>House</td>
+ <td>Mark Amodei</td>
+ <td><span></span>Rep.</td>
+ <td>33.3</td>
+ <td>31.6</td>
+ </tr><tr><td>House</td>
+ <td>Cliff Bentz</td>
+ <td><span></span>Rep.</td>
+ <td>33.3</td>
+ <td>31.6</td>
+ </tr><tr><td>House</td>
+ <td>Gus M. Bilirakis</td>
+ <td><span></span>Rep.</td>
+ <td>16.7</td>
+ <td>31.6</td>
+ </tr><tr><td>House</td>
+ <td>Mario Diaz-Balart</td>
+ <td><span></span>Rep.</td>
+ <td>0.0</td>
+ <td>31.6</td>
+ </tr><tr><td>House</td>
+ <td>Tom Emmer</td>
+ <td><span></span>Rep.</td>
+ <td>33.3</td>
+ <td>31.6</td>
+ </tr><tr><td>House</td>
+ <td>Mike Gallagher</td>
+ <td><span></span>Rep.</td>
+ <td>41.7</td>
+ <td>31.6</td>
+ </tr><tr><td>House</td>
+ <td>Brett S. Guthrie</td>
+ <td><span></span>Rep.</td>
+ <td>33.3</td>
+ <td>31.6</td>
+ </tr><tr><td>House</td>
+ <td>Bill Huizenga</td>
+ <td><span></span>Rep.</td>
+ <td>33.3</td>
+ <td>31.6</td>
+ </tr><tr><td>House</td>
+ <td>Dusty Johnson</td>
+ <td><span></span>Rep.</td>
+ <td>50.0</td>
+ <td>31.6</td>
+ </tr><tr><td>House</td>
+ <td>Robert E. Latta</td>
+ <td><span></span>Rep.</td>
+ <td>33.3</td>
+ <td>31.6</td>
+ </tr><tr><td>House</td>
+ <td>David McKinley</td>
+ <td><span></span>Rep.</td>
+ <td>50.0</td>
+ <td>31.6</td>
+ </tr><tr><td>House</td>
+ <td>Mariannette Miller-Meeks</td>
+ <td><span></span>Rep.</td>
+ <td>50.0</td>
+ <td>31.6</td>
+ </tr><tr><td>House</td>
+ <td>John Moolenaar</td>
+ <td><span></span>Rep.</td>
+ <td>33.3</td>
+ <td>31.6</td>
+ </tr><tr><td>House</td>
+ <td>Victoria Spartz</td>
+ <td><span></span>Rep.</td>
+ <td>33.3</td>
+ <td>31.6</td>
+ </tr><tr><td>House</td>
+ <td>Bryan Steil</td>
+ <td><span></span>Rep.</td>
+ <td>33.3</td>
+ <td>31.6</td>
+ </tr><tr><td>House</td>
+ <td>Van Taylor</td>
+ <td><span></span>Rep.</td>
+ <td>50.0</td>
+ <td>31.6</td>
+ </tr><tr><td>House</td>
+ <td>Michael Turner</td>
+ <td><span></span>Rep.</td>
+ <td>33.3</td>
+ <td>31.6</td>
+ </tr><tr><td>House</td>
+ <td>Brad Wenstrup</td>
+ <td><span></span>Rep.</td>
+ <td>33.3</td>
+ <td>31.6</td>
+ </tr><tr><td>House</td>
+ <td>Steve Womack</td>
+ <td><span></span>Rep.</td>
+ <td>50.0</td>
+ <td>31.6</td>
+ </tr><tr><td>House</td>
+ <td>Vern Buchanan</td>
+ <td><span></span>Rep.</td>
+ <td>33.3</td>
+ <td>28.9</td>
+ </tr><tr><td>House</td>
+ <td>Dan Crenshaw</td>
+ <td><span></span>Rep.</td>
+ <td>33.3</td>
+ <td>28.9</td>
+ </tr><tr><td>House</td>
+ <td>Gregory F. Murphy</td>
+ <td><span></span>Rep.</td>
+ <td>25.0</td>
+ <td>28.9</td>
+ </tr><tr><td>Senate</td>
+ <td>John Kennedy</td>
+ <td><span></span>Rep.</td>
+ <td>25.0</td>
+ <td>28.6</td>
+ </tr><tr><td>Senate</td>
+ <td>Cynthia M. Lummis</td>
+ <td><span></span>Rep.</td>
+ <td>25.0</td>
+ <td>28.6</td>
+ </tr><tr><td>Senate</td>
+ <td>Rick Scott</td>
+ <td><span></span>Rep.</td>
+ <td>25.0</td>
+ <td>28.6</td>
+ </tr><tr><td>House</td>
+ <td>Larry Bucshon</td>
+ <td><span></span>Rep.</td>
+ <td>33.3</td>
+ <td>26.3</td>
+ </tr><tr><td>House</td>
+ <td>Steve Chabot</td>
+ <td><span></span>Rep.</td>
+ <td>16.7</td>
+ <td>26.3</td>
+ </tr><tr><td>House</td>
+ <td>James Comer</td>
+ <td><span></span>Rep.</td>
+ <td>33.3</td>
+ <td>26.3</td>
+ </tr><tr><td>House</td>
+ <td>Randy Feenstra</td>
+ <td><span></span>Rep.</td>
+ <td>33.3</td>
+ <td>26.3</td>
+ </tr><tr><td>House</td>
+ <td>A. Drew Ferguson</td>
+ <td><span></span>Rep.</td>
+ <td>33.3</td>
+ <td>26.3</td>
+ </tr><tr><td>House</td>
+ <td>Glenn Grothman</td>
+ <td><span></span>Rep.</td>
+ <td>33.3</td>
+ <td>26.3</td>
+ </tr><tr><td>House</td>
+ <td>Chris Jacobs</td>
+ <td><span></span>Rep.</td>
+ <td>16.7</td>
+ <td>26.3</td>
+ </tr><tr><td>House</td>
+ <td>Nicole Malliotakis</td>
+ <td><span></span>Rep.</td>
+ <td>0.0</td>
+ <td>26.3</td>
+ </tr><tr><td>House</td>
+ <td>Cathy McMorris Rodgers</td>
+ <td><span></span>Rep.</td>
+ <td>33.3</td>
+ <td>26.3</td>
+ </tr><tr><td>House</td>
+ <td>David Schweikert</td>
+ <td><span></span>Rep.</td>
+ <td>16.7</td>
+ <td>26.3</td>
+ </tr><tr><td>House</td>
+ <td>Chris Stewart</td>
+ <td><span></span>Rep.</td>
+ <td>16.7</td>
+ <td>26.3</td>
+ </tr><tr><td>House</td>
+ <td>Jeff Van Drew</td>
+ <td><span></span>Rep.</td>
+ <td>0.0</td>
+ <td>26.3</td>
+ </tr><tr><td>House</td>
+ <td>Michael Waltz</td>
+ <td><span></span>Rep.</td>
+ <td>33.3</td>
+ <td>26.3</td>
+ </tr><tr><td>House</td>
+ <td>Kay Granger</td>
+ <td><span></span>Rep.</td>
+ <td>25.0</td>
+ <td>23.7</td>
+ </tr><tr><td>House</td>
+ <td>Darrell E. Issa</td>
+ <td><span></span>Rep.</td>
+ <td>16.7</td>
+ <td>23.7</td>
+ </tr><tr><td>House</td>
+ <td>Roger Williams</td>
+ <td><span></span>Rep.</td>
+ <td>16.7</td>
+ <td>23.7</td>
+ </tr><tr><td>House</td>
+ <td>Kelly Armstrong</td>
+ <td><span></span>Rep.</td>
+ <td>33.3</td>
+ <td>21.1</td>
+ </tr><tr><td>House</td>
+ <td>Andy Barr</td>
+ <td><span></span>Rep.</td>
+ <td>33.3</td>
+ <td>21.1</td>
+ </tr><tr><td>House</td>
+ <td>Stephanie I. Bice</td>
+ <td><span></span>Rep.</td>
+ <td>16.7</td>
+ <td>21.1</td>
+ </tr><tr><td>House</td>
+ <td>Mike Bost</td>
+ <td><span></span>Rep.</td>
+ <td>0.0</td>
+ <td>21.1</td>
+ </tr><tr><td>House</td>
+ <td>Kevin Brady</td>
+ <td><span></span>Rep.</td>
+ <td>16.7</td>
+ <td>21.1</td>
+ </tr><tr><td>House</td>
+ <td>Michael Burgess</td>
+ <td><span></span>Rep.</td>
+ <td>0.0</td>
+ <td>21.1</td>
+ </tr><tr><td>House</td>
+ <td>Ken Calvert</td>
+ <td><span></span>Rep.</td>
+ <td>0.0</td>
+ <td>21.1</td>
+ </tr><tr><td>House</td>
+ <td>Russ Fulcher</td>
+ <td><span></span>Rep.</td>
+ <td>16.7</td>
+ <td>21.1</td>
+ </tr><tr><td>House</td>
+ <td>Mike Garcia</td>
+ <td><span></span>Rep.</td>
+ <td>0.0</td>
+ <td>21.1</td>
+ </tr><tr><td>House</td>
+ <td>Garret Graves</td>
+ <td><span></span>Rep.</td>
+ <td>16.7</td>
+ <td>21.1</td>
+ </tr><tr><td>House</td>
+ <td>Richard Hudson</td>
+ <td><span></span>Rep.</td>
+ <td>0.0</td>
+ <td>21.1</td>
+ </tr><tr><td>House</td>
+ <td>Bill Johnson</td>
+ <td><span></span>Rep.</td>
+ <td>0.0</td>
+ <td>21.1</td>
+ </tr><tr><td>House</td>
+ <td>David Kustoff</td>
+ <td><span></span>Rep.</td>
+ <td>16.7</td>
+ <td>21.1</td>
+ </tr><tr><td>House</td>
+ <td>Darin LaHood</td>
+ <td><span></span>Rep.</td>
+ <td>33.3</td>
+ <td>21.1</td>
+ </tr><tr><td>House</td>
+ <td>Nancy Mace</td>
+ <td><span></span>Rep.</td>
+ <td>33.3</td>
+ <td>21.1</td>
+ </tr><tr><td>House</td>
+ <td>Kevin McCarthy</td>
+ <td><span></span>Rep.</td>
+ <td>0.0</td>
+ <td>21.1</td>
+ </tr><tr><td>House</td>
+ <td>Burgess Owens</td>
+ <td><span></span>Rep.</td>
+ <td>16.7</td>
+ <td>21.1</td>
+ </tr><tr><td>House</td>
+ <td>Steve Scalise</td>
+ <td><span></span>Rep.</td>
+ <td>0.0</td>
+ <td>21.1</td>
+ </tr><tr><td>House</td>
+ <td>Austin Scott</td>
+ <td><span></span>Rep.</td>
+ <td>33.3</td>
+ <td>21.1</td>
+ </tr><tr><td>House</td>
+ <td>Lloyd Smucker</td>
+ <td><span></span>Rep.</td>
+ <td>16.7</td>
+ <td>21.1</td>
+ </tr><tr><td>House</td>
+ <td>Michelle Steel</td>
+ <td><span></span>Rep.</td>
+ <td>16.7</td>
+ <td>21.1</td>
+ </tr><tr><td>House</td>
+ <td>Elise Stefanik</td>
+ <td><span></span>Rep.</td>
+ <td>16.7</td>
+ <td>21.1</td>
+ </tr><tr><td>House</td>
+ <td>Daniel Webster</td>
+ <td><span></span>Rep.</td>
+ <td>16.7</td>
+ <td>21.1</td>
+ </tr><tr><td>House</td>
+ <td>Bruce Westerman</td>
+ <td><span></span>Rep.</td>
+ <td>33.3</td>
+ <td>21.1</td>
+ </tr><tr><td>House</td>
+ <td>Joe Wilson</td>
+ <td><span></span>Rep.</td>
+ <td>0.0</td>
+ <td>21.1</td>
+ </tr><tr><td>House</td>
+ <td>Robert J. Wittman</td>
+ <td><span></span>Rep.</td>
+ <td>16.7</td>
+ <td>21.1</td>
+ </tr><tr><td>House</td>
+ <td>Claudia Tenney</td>
+ <td><span></span>Rep.</td>
+ <td>0.0</td>
+ <td>18.8</td>
+ </tr><tr><td>House</td>
+ <td>Ken Buck</td>
+ <td><span></span>Rep.</td>
+ <td>25.0</td>
+ <td>18.4</td>
+ </tr><tr><td>House</td>
+ <td>Bob Gibbs</td>
+ <td><span></span>Rep.</td>
+ <td>0.0</td>
+ <td>18.4</td>
+ </tr><tr><td>House</td>
+ <td>Patrick T. McHenry</td>
+ <td><span></span>Rep.</td>
+ <td>33.3</td>
+ <td>18.4</td>
+ </tr><tr><td>House</td>
+ <td>Dan Meuser</td>
+ <td><span></span>Rep.</td>
+ <td>16.7</td>
+ <td>18.4</td>
+ </tr><tr><td>House</td>
+ <td>Greg Pence</td>
+ <td><span></span>Rep.</td>
+ <td>16.7</td>
+ <td>18.4</td>
+ </tr><tr><td>House</td>
+ <td>Chip Roy</td>
+ <td><span></span>Rep.</td>
+ <td>50.0</td>
+ <td>18.4</td>
+ </tr><tr><td>House</td>
+ <td>Glenn W. Thompson</td>
+ <td><span></span>Rep.</td>
+ <td>16.7</td>
+ <td>18.4</td>
+ </tr><tr><td>House</td>
+ <td>Tim Walberg</td>
+ <td><span></span>Rep.</td>
+ <td>8.3</td>
+ <td>18.4</td>
+ </tr><tr><td>House</td>
+ <td>Julia Letlow</td>
+ <td><span></span>Rep.</td>
+ <td>0.0</td>
+ <td>18.2</td>
+ </tr><tr><td>House</td>
+ <td>Jack Bergman</td>
+ <td><span></span>Rep.</td>
+ <td>0.0</td>
+ <td>15.8</td>
+ </tr><tr><td>House</td>
+ <td>Buddy Carter</td>
+ <td><span></span>Rep.</td>
+ <td>16.7</td>
+ <td>15.8</td>
+ </tr><tr><td>House</td>
+ <td>Michelle Fischbach</td>
+ <td><span></span>Rep.</td>
+ <td>0.0</td>
+ <td>15.8</td>
+ </tr><tr><td>House</td>
+ <td>Chuck Fleischmann</td>
+ <td><span></span>Rep.</td>
+ <td>0.0</td>
+ <td>15.8</td>
+ </tr><tr><td>House</td>
+ <td>Virginia Foxx</td>
+ <td><span></span>Rep.</td>
+ <td>16.7</td>
+ <td>15.8</td>
+ </tr><tr><td>House</td>
+ <td>Louie Gohmert</td>
+ <td><span></span>Rep.</td>
+ <td>16.7</td>
+ <td>15.8</td>
+ </tr><tr><td>House</td>
+ <td>Michael Guest</td>
+ <td><span></span>Rep.</td>
+ <td>25.0</td>
+ <td>15.8</td>
+ </tr><tr><td>House</td>
+ <td>Jim Hagedorn</td>
+ <td><span></span>Rep.</td>
+ <td>0.0</td>
+ <td>15.8</td>
+ </tr><tr><td>House</td>
+ <td>Fred Keller</td>
+ <td><span></span>Rep.</td>
+ <td>16.7</td>
+ <td>15.8</td>
+ </tr><tr><td>House</td>
+ <td>Mike Kelly</td>
+ <td><span></span>Rep.</td>
+ <td>0.0</td>
+ <td>15.8</td>
+ </tr><tr><td>House</td>
+ <td>Debbie Lesko</td>
+ <td><span></span>Rep.</td>
+ <td>0.0</td>
+ <td>15.8</td>
+ </tr><tr><td>House</td>
+ <td>Billy Long</td>
+ <td><span></span>Rep.</td>
+ <td>8.3</td>
+ <td>15.8</td>
+ </tr><tr><td>House</td>
+ <td>Frank Lucas</td>
+ <td><span></span>Rep.</td>
+ <td>0.0</td>
+ <td>15.8</td>
+ </tr><tr><td>House</td>
+ <td>Brian Mast</td>
+ <td><span></span>Rep.</td>
+ <td>0.0</td>
+ <td>15.8</td>
+ </tr><tr><td>House</td>
+ <td>Mary E. Miller</td>
+ <td><span></span>Rep.</td>
+ <td>16.7</td>
+ <td>15.8</td>
+ </tr><tr><td>House</td>
+ <td>Alex Mooney</td>
+ <td><span></span>Rep.</td>
+ <td>16.7</td>
+ <td>15.8</td>
+ </tr><tr><td>House</td>
+ <td>Markwayne Mullin</td>
+ <td><span></span>Rep.</td>
+ <td>0.0</td>
+ <td>15.8</td>
+ </tr><tr><td>House</td>
+ <td>Devin Nunes</td>
+ <td><span></span>Rep.</td>
+ <td>0.0</td>
+ <td>15.8</td>
+ </tr><tr><td>House</td>
+ <td>Jay Obernolte</td>
+ <td><span></span>Rep.</td>
+ <td>0.0</td>
+ <td>15.8</td>
+ </tr><tr><td>House</td>
+ <td>Guy Reschenthaler</td>
+ <td><span></span>Rep.</td>
+ <td>0.0</td>
+ <td>15.8</td>
+ </tr><tr><td>House</td>
+ <td>Tom Rice</td>
+ <td><span></span>Rep.</td>
+ <td>33.3</td>
+ <td>15.8</td>
+ </tr><tr><td>House</td>
+ <td>Harold Rogers</td>
+ <td><span></span>Rep.</td>
+ <td>0.0</td>
+ <td>15.8</td>
+ </tr><tr><td>House</td>
+ <td>Adrian Smith</td>
+ <td><span></span>Rep.</td>
+ <td>0.0</td>
+ <td>15.8</td>
+ </tr><tr><td>House</td>
+ <td>Jason Smith</td>
+ <td><span></span>Rep.</td>
+ <td>0.0</td>
+ <td>15.8</td>
+ </tr><tr><td>House</td>
+ <td>Beth Van Duyne</td>
+ <td><span></span>Rep.</td>
+ <td>16.7</td>
+ <td>15.8</td>
+ </tr><tr><td>House</td>
+ <td>Jackie Walorski</td>
+ <td><span></span>Rep.</td>
+ <td>0.0</td>
+ <td>15.8</td>
+ </tr><tr><td>House</td>
+ <td>Lee Zeldin</td>
+ <td><span></span>Rep.</td>
+ <td>0.0</td>
+ <td>15.8</td>
+ </tr><tr><td>Senate</td>
+ <td>Ted Cruz</td>
+ <td><span></span>Rep.</td>
+ <td>0.0</td>
+ <td>14.3</td>
+ </tr><tr><td>Senate</td>
+ <td>Cindy Hyde-Smith</td>
+ <td><span></span>Rep.</td>
+ <td>0.0</td>
+ <td>14.3</td>
+ </tr><tr><td>Senate</td>
+ <td>Roger Marshall</td>
+ <td><span></span>Rep.</td>
+ <td>0.0</td>
+ <td>14.3</td>
+ </tr><tr><td>Senate</td>
+ <td>Tommy Tuberville</td>
+ <td><span></span>Rep.</td>
+ <td>0.0</td>
+ <td>14.3</td>
+ </tr><tr><td>House</td>
+ <td>Jodey Arrington</td>
+ <td><span></span>Rep.</td>
+ <td>16.7</td>
+ <td>13.2</td>
+ </tr><tr><td>House</td>
+ <td>Jim Banks</td>
+ <td><span></span>Rep.</td>
+ <td>16.7</td>
+ <td>13.2</td>
+ </tr><tr><td>House</td>
+ <td>Michael Cloud</td>
+ <td><span></span>Rep.</td>
+ <td>16.7</td>
+ <td>13.2</td>
+ </tr><tr><td>House</td>
+ <td>Ron Estes</td>
+ <td><span></span>Rep.</td>
+ <td>0.0</td>
+ <td>13.2</td>
+ </tr><tr><td>House</td>
+ <td>Bob Good</td>
+ <td><span></span>Rep.</td>
+ <td>16.7</td>
+ <td>13.2</td>
+ </tr><tr><td>House</td>
+ <td>Morgan Griffith</td>
+ <td><span></span>Rep.</td>
+ <td>0.0</td>
+ <td>13.2</td>
+ </tr><tr><td>House</td>
+ <td>Vicky Hartzler</td>
+ <td><span></span>Rep.</td>
+ <td>0.0</td>
+ <td>13.2</td>
+ </tr><tr><td>House</td>
+ <td>Yvette Herrell</td>
+ <td><span></span>Rep.</td>
+ <td>16.7</td>
+ <td>13.2</td>
+ </tr><tr><td>House</td>
+ <td>Clay Higgins</td>
+ <td><span></span>Rep.</td>
+ <td>16.7</td>
+ <td>13.2</td>
+ </tr><tr><td>House</td>
+ <td>Mike Johnson</td>
+ <td><span></span>Rep.</td>
+ <td>16.7</td>
+ <td>13.2</td>
+ </tr><tr><td>House</td>
+ <td>Jake LaTurner</td>
+ <td><span></span>Rep.</td>
+ <td>8.3</td>
+ <td>13.2</td>
+ </tr><tr><td>House</td>
+ <td>August Pfluger</td>
+ <td><span></span>Rep.</td>
+ <td>16.7</td>
+ <td>13.2</td>
+ </tr><tr><td>House</td>
+ <td>John Rose</td>
+ <td><span></span>Rep.</td>
+ <td>16.7</td>
+ <td>13.2</td>
+ </tr><tr><td>House</td>
+ <td>Thomas P. Tiffany</td>
+ <td><span></span>Rep.</td>
+ <td>16.7</td>
+ <td>13.2</td>
+ </tr><tr><td>House</td>
+ <td>Randy Weber</td>
+ <td><span></span>Rep.</td>
+ <td>16.7</td>
+ <td>13.2</td>
+ </tr><tr><td>House</td>
+ <td>Jim Baird</td>
+ <td><span></span>Rep.</td>
+ <td>0.0</td>
+ <td>10.5</td>
+ </tr><tr><td>House</td>
+ <td>John Carter</td>
+ <td><span></span>Rep.</td>
+ <td>0.0</td>
+ <td>10.5</td>
+ </tr><tr><td>House</td>
+ <td>Ben Cline</td>
+ <td><span></span>Rep.</td>
+ <td>0.0</td>
+ <td>10.5</td>
+ </tr><tr><td>House</td>
+ <td>Tom Cole</td>
+ <td><span></span>Rep.</td>
+ <td>0.0</td>
+ <td>10.5</td>
+ </tr><tr><td>House</td>
+ <td>Rick Crawford</td>
+ <td><span></span>Rep.</td>
+ <td>0.0</td>
+ <td>10.5</td>
+ </tr><tr><td>House</td>
+ <td>Warren Davidson</td>
+ <td><span></span>Rep.</td>
+ <td>0.0</td>
+ <td>10.5</td>
+ </tr><tr><td>House</td>
+ <td>Neal Dunn</td>
+ <td><span></span>Rep.</td>
+ <td>0.0</td>
+ <td>10.5</td>
+ </tr><tr><td>House</td>
+ <td>Pat Fallon</td>
+ <td><span></span>Rep.</td>
+ <td>0.0</td>
+ <td>10.5</td>
+ </tr><tr><td>House</td>
+ <td>Scott Fitzgerald</td>
+ <td><span></span>Rep.</td>
+ <td>0.0</td>
+ <td>10.5</td>
+ </tr><tr><td>House</td>
+ <td>C. Scott Franklin</td>
+ <td><span></span>Rep.</td>
+ <td>0.0</td>
+ <td>10.5</td>
+ </tr><tr><td>House</td>
+ <td>Matt Gaetz</td>
+ <td><span></span>Rep.</td>
+ <td>0.0</td>
+ <td>10.5</td>
+ </tr><tr><td>House</td>
+ <td>Lance Gooden</td>
+ <td><span></span>Rep.</td>
+ <td>0.0</td>
+ <td>10.5</td>
+ </tr><tr><td>House</td>
+ <td>Sam Graves</td>
+ <td><span></span>Rep.</td>
+ <td>0.0</td>
+ <td>10.5</td>
+ </tr><tr><td>House</td>
+ <td>Jody Hice</td>
+ <td><span></span>Rep.</td>
+ <td>8.3</td>
+ <td>10.5</td>
+ </tr><tr><td>House</td>
+ <td>John Joyce</td>
+ <td><span></span>Rep.</td>
+ <td>0.0</td>
+ <td>10.5</td>
+ </tr><tr><td>House</td>
+ <td>Doug Lamborn</td>
+ <td><span></span>Rep.</td>
+ <td>0.0</td>
+ <td>10.5</td>
+ </tr><tr><td>House</td>
+ <td>Blaine Luetkemeyer</td>
+ <td><span></span>Rep.</td>
+ <td>0.0</td>
+ <td>10.5</td>
+ </tr><tr><td>House</td>
+ <td>Thomas Massie</td>
+ <td><span></span>Rep.</td>
+ <td>33.3</td>
+ <td>10.5</td>
+ </tr><tr><td>House</td>
+ <td>Lisa C. McClain</td>
+ <td><span></span>Rep.</td>
+ <td>0.0</td>
+ <td>10.5</td>
+ </tr><tr><td>House</td>
+ <td>Tom McClintock</td>
+ <td><span></span>Rep.</td>
+ <td>33.3</td>
+ <td>10.5</td>
+ </tr><tr><td>House</td>
+ <td>Carol Miller</td>
+ <td><span></span>Rep.</td>
+ <td>0.0</td>
+ <td>10.5</td>
+ </tr><tr><td>House</td>
+ <td>Barry Moore</td>
+ <td><span></span>Rep.</td>
+ <td>8.3</td>
+ <td>10.5</td>
+ </tr><tr><td>House</td>
+ <td>Troy E. Nehls</td>
+ <td><span></span>Rep.</td>
+ <td>0.0</td>
+ <td>10.5</td>
+ </tr><tr><td>House</td>
+ <td>Bill Posey</td>
+ <td><span></span>Rep.</td>
+ <td>0.0</td>
+ <td>10.5</td>
+ </tr><tr><td>House</td>
+ <td>John Rutherford</td>
+ <td><span></span>Rep.</td>
+ <td>0.0</td>
+ <td>10.5</td>
+ </tr><tr><td>House</td>
+ <td>Pete Sessions</td>
+ <td><span></span>Rep.</td>
+ <td>0.0</td>
+ <td>10.5</td>
+ </tr><tr><td>House</td>
+ <td>William Timmons</td>
+ <td><span></span>Rep.</td>
+ <td>0.0</td>
+ <td>10.5</td>
+ </tr><tr><td>House</td>
+ <td>Brian Babin</td>
+ <td><span></span>Rep.</td>
+ <td>0.0</td>
+ <td>7.9</td>
+ </tr><tr><td>House</td>
+ <td>Lauren Boebert</td>
+ <td><span></span>Rep.</td>
+ <td>0.0</td>
+ <td>7.9</td>
+ </tr><tr><td>House</td>
+ <td>Tim Burchett</td>
+ <td><span></span>Rep.</td>
+ <td>0.0</td>
+ <td>7.9</td>
+ </tr><tr><td>House</td>
+ <td>Scott DesJarlais</td>
+ <td><span></span>Rep.</td>
+ <td>8.3</td>
+ <td>7.9</td>
+ </tr><tr><td>House</td>
+ <td>Andy Harris</td>
+ <td><span></span>Rep.</td>
+ <td>8.3</td>
+ <td>7.9</td>
+ </tr><tr><td>House</td>
+ <td>Ronny Jackson</td>
+ <td><span></span>Rep.</td>
+ <td>16.7</td>
+ <td>7.9</td>
+ </tr><tr><td>House</td>
+ <td>Trent Kelly</td>
+ <td><span></span>Rep.</td>
+ <td>0.0</td>
+ <td>7.9</td>
+ </tr><tr><td>House</td>
+ <td>Robert B. Aderholt</td>
+ <td><span></span>Rep.</td>
+ <td>0.0</td>
+ <td>5.3</td>
+ </tr><tr><td>House</td>
+ <td>Rick Allen</td>
+ <td><span></span>Rep.</td>
+ <td>0.0</td>
+ <td>5.3</td>
+ </tr><tr><td>House</td>
+ <td>Dan Bishop</td>
+ <td><span></span>Rep.</td>
+ <td>0.0</td>
+ <td>5.3</td>
+ </tr><tr><td>House</td>
+ <td>Ted Budd</td>
+ <td><span></span>Rep.</td>
+ <td>0.0</td>
+ <td>5.3</td>
+ </tr><tr><td>House</td>
+ <td>Kat Cammack</td>
+ <td><span></span>Rep.</td>
+ <td>0.0</td>
+ <td>5.3</td>
+ </tr><tr><td>House</td>
+ <td>Jerry L. Carl</td>
+ <td><span></span>Rep.</td>
+ <td>0.0</td>
+ <td>5.3</td>
+ </tr><tr><td>House</td>
+ <td>Madison Cawthorn</td>
+ <td><span></span>Rep.</td>
+ <td>0.0</td>
+ <td>5.3</td>
+ </tr><tr><td>House</td>
+ <td>Andrew S. Clyde</td>
+ <td><span></span>Rep.</td>
+ <td>0.0</td>
+ <td>5.3</td>
+ </tr><tr><td>House</td>
+ <td>Byron Donalds</td>
+ <td><span></span>Rep.</td>
+ <td>0.0</td>
+ <td>5.3</td>
+ </tr><tr><td>House</td>
+ <td>Jeff Duncan</td>
+ <td><span></span>Rep.</td>
+ <td>0.0</td>
+ <td>5.3</td>
+ </tr><tr><td>House</td>
+ <td>Mark E. Green</td>
+ <td><span></span>Rep.</td>
+ <td>0.0</td>
+ <td>5.3</td>
+ </tr><tr><td>House</td>
+ <td>Marjorie Taylor Greene</td>
+ <td><span></span>Rep.</td>
+ <td>0.0</td>
+ <td>5.3</td>
+ </tr><tr><td>House</td>
+ <td>Diana Harshbarger</td>
+ <td><span></span>Rep.</td>
+ <td>0.0</td>
+ <td>5.3</td>
+ </tr><tr><td>House</td>
+ <td>Kevin Hern</td>
+ <td><span></span>Rep.</td>
+ <td>0.0</td>
+ <td>5.3</td>
+ </tr><tr><td>House</td>
+ <td>Jim Jordan</td>
+ <td><span></span>Rep.</td>
+ <td>0.0</td>
+ <td>5.3</td>
+ </tr><tr><td>House</td>
+ <td>Doug LaMalfa</td>
+ <td><span></span>Rep.</td>
+ <td>0.0</td>
+ <td>5.3</td>
+ </tr><tr><td>House</td>
+ <td>Barry Loudermilk</td>
+ <td><span></span>Rep.</td>
+ <td>0.0</td>
+ <td>5.3</td>
+ </tr><tr><td>House</td>
+ <td>Tracey Mann</td>
+ <td><span></span>Rep.</td>
+ <td>0.0</td>
+ <td>5.3</td>
+ </tr><tr><td>House</td>
+ <td>Steven Palazzo</td>
+ <td><span></span>Rep.</td>
+ <td>0.0</td>
+ <td>5.3</td>
+ </tr><tr><td>House</td>
+ <td>Gary Palmer</td>
+ <td><span></span>Rep.</td>
+ <td>0.0</td>
+ <td>5.3</td>
+ </tr><tr><td>House</td>
+ <td>Scott Perry</td>
+ <td><span></span>Rep.</td>
+ <td>0.0</td>
+ <td>5.3</td>
+ </tr><tr><td>House</td>
+ <td>Mike Rogers</td>
+ <td><span></span>Rep.</td>
+ <td>0.0</td>
+ <td>5.3</td>
+ </tr><tr><td>House</td>
+ <td>David Rouzer</td>
+ <td><span></span>Rep.</td>
+ <td>0.0</td>
+ <td>5.3</td>
+ </tr><tr><td>House</td>
+ <td>Greg Steube</td>
+ <td><span></span>Rep.</td>
+ <td>0.0</td>
+ <td>5.3</td>
+ </tr><tr><td>House</td>
+ <td>Andy Biggs</td>
+ <td><span></span>Rep.</td>
+ <td>0.0</td>
+ <td>2.6</td>
+ </tr><tr><td>House</td>
+ <td>Mo Brooks</td>
+ <td><span></span>Rep.</td>
+ <td>0.0</td>
+ <td>0.0</td>
+ </tr><tr><td>House</td>
+ <td>Paul A. Gosar</td>
+ <td><span></span>Rep.</td>
+ <td>0.0</td>
+ <td>0.0</td>
+ </tr><tr><td>House</td>
+ <td>Ralph Norman</td>
+ <td><span></span>Rep.</td>
+ <td>0.0</td>
+ <td>0.0</td>
+ </tr><tr><td>House</td>
+ <td>Matthew M. Rosendale</td>
+ <td><span></span>Rep.</td>
+ <td>0.0</td>
+ <td>0.0</td>
+ </tr><tr><td>Senate</td>
+ <td>Josh Hawley</td>
+ <td><span></span>Rep.</td>
+ <td>0.0</td>
+ <td>0.0</td>
+ </tr></tbody></table></div>
+ <footer><p>Legislators of the 117th Congress who died, left or joined after July 1st are not included. Sens. Bernie Sanders and Angus King are independents who caucus with the Democrats.</p>
+ <p></p>
+ <p>The “bare-bones” definition includes voting on the counting of electoral votes in Pennsylvania and Arizona; a bill that would have set up an independent commission to investigate the Jan. 6 attack (H.R. 3233); a bill to create a select committee to investigate the Jan. 6 attack (House Res. 503); a bill to increase the independence of government oversight of the executive branch (H.R. 2662); and the second bill to impeach former President Donald Trump (House Res. 24).</p>
+ <p>The “more expansive” definition includes all “bare-bones” votes plus bills aimed at expanding civil liberties, bills aimed at expanding political power and voting rights and bills that address the legacy of slavery in the U.S.</p>
+ <p>Sources: VOTEVIEW, ACLU, COMMON CAUSE, VOTESMART </p>
+ </footer></section></div>
+
+
+<p data-paragraph="main">At this point, the core of democracy in the U.S. is not up for debate. “We’re fighting battles today over certain aspects of the democratic process, but not the core of it, for the most part,” Coppedge told me. But the fact that questions of democracy have become so clearly partisan is not good for the future of democracy. And given just how politically divided that fight has already become, it’s more important than ever to track how Congress votes on the matters of democracy that do make it to the floor.</p>
+
+
+
+<p data-paragraph="main"><em>Graphics by Ryan Best and Anna Wiederkehr.</em></p>]]></description>
+			<pubDate>Wed, 01 Sep 2021 11:00:00 +0100</pubDate>
+			<guid isPermaLink="false">1630494902369139</guid>
+		</item>
 		<item>
 			<title>Vaccine Hesitancy Is Still Strong In Many COVID-19-Battered States</title>
 			<link>https://fivethirtyeight.com/features/vaccine-hesitancy-is-still-strong-in-many-covid-19-battered-states/</link>
@@ -204,15 +2970,15 @@
 
 
 
-<p data-paragraph="main">Golden is once again the outlier here, voting with Biden only 81 percent of the time — the lowest score not only among the Moderate Nine, but also among all House Democrats. This may partially be because Golden has strong electoral incentives to be a centrist: His Maine 2nd District has a <a href="https://fivethirtyeight.com/features/how-red-or-blue-is-your-state-your-congressional-district/" target="_blank" rel="noopener">FiveThirtyEight partisan lean</a><a data-footnote-id="1" href="https://fivethirtyeight.com/wp-json/wp/v2/espn_verticals/398#fn-1" data-footnote-content="&lt;p&gt;&lt;p&gt;Partisan lean is the average margin difference between how a state or district votes and how the country votes overall. This version of partisan lean, meant to be used for congressional and gubernatorial elections, is calculated as 50 percent the state or district’s lean relative to the nation in the most recent presidential election, 25 percent its relative lean in the second-most-recent presidential election and 25 percent a custom state-legislative lean.&lt;/p&gt;
-&lt;/p&gt;"><sup>1</sup></a> of R+11, making it the most Republican-leaning district in the nation currently represented by a Democrat.</p>
+<p data-paragraph="main">Golden is once again the outlier here, voting with Biden only 81 percent of the time — the lowest score not only among the Moderate Nine, but also among all House Democrats. This may partially be because Golden has strong electoral incentives to be a centrist: His Maine 2nd District has a <a href="https://fivethirtyeight.com/features/how-red-or-blue-is-your-state-your-congressional-district/" target="_blank" rel="noopener">FiveThirtyEight partisan lean</a><a data-footnote-id="9" href="https://fivethirtyeight.com/wp-json/wp/v2/espn_verticals/398#fn-9" data-footnote-content="&lt;p&gt;&lt;p&gt;Partisan lean is the average margin difference between how a state or district votes and how the country votes overall. This version of partisan lean, meant to be used for congressional and gubernatorial elections, is calculated as 50 percent the state or district’s lean relative to the nation in the most recent presidential election, 25 percent its relative lean in the second-most-recent presidential election and 25 percent a custom state-legislative lean.&lt;/p&gt;
+&lt;/p&gt;"><sup>9</sup></a> of R+11, making it the most Republican-leaning district in the nation currently represented by a Democrat.</p>
 
 
 <p>Watch: https://abcnews.go.com/fivethirtyeight/video/bidens-approval-rating-fallen-fivethirtyeight-politics-podcast-79388894</p>
 
 
-<p data-paragraph="main">But, of course, Golden is not the only Democrat representing inhospitable terrain. Several other members of the Moderate Nine also occupy competitive seats, including Rep. Carolyn Bourdeaux (R+4), Gottheimer (EVEN), Rep. Vicente Gonzalez (D+2) and Rep. Kurt Schrader (D+4). So it’s likely that their objection to the budget was at least partially an attempt to burnish their moderate credentials for swing voters as well.<a data-footnote-id="2" href="https://fivethirtyeight.com/wp-json/wp/v2/espn_verticals/398#fn-2" data-footnote-content='&lt;p&gt;&lt;p&gt;Of course, all of their congressional districts will be redrawn in the next year as part of the &lt;a href="https://projects.fivethirtyeight.com/redistricting-2022-maps/" target="_blank" rel="noopener"&gt;decennial redistricting process&lt;/a&gt;, but none of them should count on getting a free ride to reelection in 2022 regardless.&lt;/p&gt;
-&lt;/p&gt;'><sup>2</sup></a> This may be especially true of Gonzalez, who stands apart from the rest of the Moderate Nine with his -0.382 DW-Nominate score — smack dab in the middle of the Democratic caucus. Prior to 2020, Gonzalez’s Texas 15th District had been safely Democratic turf, but Biden surprisingly carried it by <a href="https://www.dailykos.com/stories/2020/11/19/1163009/-Daily-Kos-Elections-presidential-results-by-congressional-district-for-2020-2016-and-2012" target="_blank" rel="noopener">just 2 percentage points</a>, and Gonzalez himself eked out only a <a href="https://results.texas-election.com/races" target="_blank" rel="noopener">3-point win</a>. As a result, Gonzalez may have felt the need to adopt more moderate stances. Indeed, a Congress-by-Congress version of DW-Nominate finds that Gonzalez’s voting record has not been nearly as liberal here in 2021 as it was in 2019-20.</p>
+<p data-paragraph="main">But, of course, Golden is not the only Democrat representing inhospitable terrain. Several other members of the Moderate Nine also occupy competitive seats, including Rep. Carolyn Bourdeaux (R+4), Gottheimer (EVEN), Rep. Vicente Gonzalez (D+2) and Rep. Kurt Schrader (D+4). So it’s likely that their objection to the budget was at least partially an attempt to burnish their moderate credentials for swing voters as well.<a data-footnote-id="10" href="https://fivethirtyeight.com/wp-json/wp/v2/espn_verticals/398#fn-10" data-footnote-content='&lt;p&gt;&lt;p&gt;Of course, all of their congressional districts will be redrawn in the next year as part of the &lt;a href="https://projects.fivethirtyeight.com/redistricting-2022-maps/" target="_blank" rel="noopener"&gt;decennial redistricting process&lt;/a&gt;, but none of them should count on getting a free ride to reelection in 2022 regardless.&lt;/p&gt;
+&lt;/p&gt;'><sup>10</sup></a> This may be especially true of Gonzalez, who stands apart from the rest of the Moderate Nine with his -0.382 DW-Nominate score — smack dab in the middle of the Democratic caucus. Prior to 2020, Gonzalez’s Texas 15th District had been safely Democratic turf, but Biden surprisingly carried it by <a href="https://www.dailykos.com/stories/2020/11/19/1163009/-Daily-Kos-Elections-presidential-results-by-congressional-district-for-2020-2016-and-2012" target="_blank" rel="noopener">just 2 percentage points</a>, and Gonzalez himself eked out only a <a href="https://results.texas-election.com/races" target="_blank" rel="noopener">3-point win</a>. As a result, Gonzalez may have felt the need to adopt more moderate stances. Indeed, a Congress-by-Congress version of DW-Nominate finds that Gonzalez’s voting record has not been nearly as liberal here in 2021 as it was in 2019-20.</p>
 
 
 
@@ -278,8 +3044,8 @@
 
 
 
-<p data-paragraph="main">Just how much have things changed for Biden? A month ago, his approval rating stood at 52.7 percent and his disapproval rating sat at 42.7 percent, according to <a href="https://projects.fivethirtyeight.com/biden-approval-rating/" target="_blank" rel="noopener">FiveThirtyEight’s presidential approval tracker</a>, for a net approval rating of +10.0 percentage points. But as of Thursday,<a data-footnote-id="3" href="https://fivethirtyeight.com/wp-json/wp/v2/espn_verticals/398#fn-3" data-footnote-content="&lt;p&gt;&lt;p&gt;At 5 p.m. Eastern.&lt;/p&gt;
-&lt;/p&gt;"><sup>3</sup></a> his approval rating stood at 47.1 percent and his disapproval rating at 47.0 percent, for a net approval rating of +0.1 points. </p>
+<p data-paragraph="main">Just how much have things changed for Biden? A month ago, his approval rating stood at 52.7 percent and his disapproval rating sat at 42.7 percent, according to <a href="https://projects.fivethirtyeight.com/biden-approval-rating/" target="_blank" rel="noopener">FiveThirtyEight’s presidential approval tracker</a>, for a net approval rating of +10.0 percentage points. But as of Thursday,<a data-footnote-id="11" href="https://fivethirtyeight.com/wp-json/wp/v2/espn_verticals/398#fn-11" data-footnote-content="&lt;p&gt;&lt;p&gt;At 5 p.m. Eastern.&lt;/p&gt;
+&lt;/p&gt;"><sup>11</sup></a> his approval rating stood at 47.1 percent and his disapproval rating at 47.0 percent, for a net approval rating of +0.1 points. </p>
 
 
 
@@ -305,8 +3071,8 @@
 <p>Watch: https://abcnews.go.com/fivethirtyeight/video/bidens-approval-rating-fallen-fivethirtyeight-politics-podcast-79388894</p>
 
 
-<p data-paragraph="main">As such, Biden’s approval rating might not bounce back just yet given how volatile the situation is in Afghanistan, but at the same time there is reason to believe it eventually will. That’s because polls conducted amid a high-profile event often show large shifts in opinion that then fade over time. We’ve also seen some reversion to the mean for recent presidents’ approval ratings after their ratings fell. Early in his presidency, Donald Trump <a href="https://abcnews.go.com/Politics/fbi-director-james-comey-fired/story?id=47309009" target="_blank" rel="noopener">fired then-FBI Director James Comey</a> amid ongoing investigations of his administration for Russian interference in the 2016 election and then <a href="https://www.washingtonpost.com/world/national-security/trump-revealed-highly-classified-information-to-russian-foreign-minister-and-ambassador/2017/05/15/530c172a-3960-11e7-9e48-c4f199710b69_story.html" target="_blank" rel="noopener">revealed classified intel to Russian officials</a> in a meeting at the White House the next day. In the aftermath of these events, <a href="https://projects.fivethirtyeight.com/trump-approval-ratings/" target="_blank" rel="noopener">Trump’s approval rating fell</a> from about 42 percent on May 9 to 38 percent in early June. But his approval rating then inched back up to around 40 percent later that month.<a data-footnote-id="4" href="https://fivethirtyeight.com/wp-json/wp/v2/espn_verticals/398#fn-4" data-footnote-content='&lt;p&gt;&lt;p&gt;In a postscript, despite his reputation as being impervious to scandal, Trump often experienced brief blips in his approval rating. His approval rating would fall for a brief period below 40 percent then bounce back up. But by May 2019, his approval rating &lt;a href="https://fivethirtyeight.com/features/trumps-approval-rating-is-incredibly-steady-is-that-weird-or-the-new-normal/" target="_blank" rel="noopener"&gt;mostly settled&lt;/a&gt; just above or below 42 percent for the next year and a half.&lt;/p&gt;
-&lt;/p&gt;'><sup>4</sup></a></p>
+<p data-paragraph="main">As such, Biden’s approval rating might not bounce back just yet given how volatile the situation is in Afghanistan, but at the same time there is reason to believe it eventually will. That’s because polls conducted amid a high-profile event often show large shifts in opinion that then fade over time. We’ve also seen some reversion to the mean for recent presidents’ approval ratings after their ratings fell. Early in his presidency, Donald Trump <a href="https://abcnews.go.com/Politics/fbi-director-james-comey-fired/story?id=47309009" target="_blank" rel="noopener">fired then-FBI Director James Comey</a> amid ongoing investigations of his administration for Russian interference in the 2016 election and then <a href="https://www.washingtonpost.com/world/national-security/trump-revealed-highly-classified-information-to-russian-foreign-minister-and-ambassador/2017/05/15/530c172a-3960-11e7-9e48-c4f199710b69_story.html" target="_blank" rel="noopener">revealed classified intel to Russian officials</a> in a meeting at the White House the next day. In the aftermath of these events, <a href="https://projects.fivethirtyeight.com/trump-approval-ratings/" target="_blank" rel="noopener">Trump’s approval rating fell</a> from about 42 percent on May 9 to 38 percent in early June. But his approval rating then inched back up to around 40 percent later that month.<a data-footnote-id="12" href="https://fivethirtyeight.com/wp-json/wp/v2/espn_verticals/398#fn-12" data-footnote-content='&lt;p&gt;&lt;p&gt;In a postscript, despite his reputation as being impervious to scandal, Trump often experienced brief blips in his approval rating. His approval rating would fall for a brief period below 40 percent then bounce back up. But by May 2019, his approval rating &lt;a href="https://fivethirtyeight.com/features/trumps-approval-rating-is-incredibly-steady-is-that-weird-or-the-new-normal/" target="_blank" rel="noopener"&gt;mostly settled&lt;/a&gt; just above or below 42 percent for the next year and a half.&lt;/p&gt;
+&lt;/p&gt;'><sup>12</sup></a></p>
 
 
 
@@ -339,8 +3105,8 @@
 
 
 
-<p data-paragraph="main">Yet, among non-incumbent candidates running for the House in 2022, the top fundraiser is a <a href="https://www.ajc.com/politics/politics-blog/democratic-veteran-challenges-twisted-qanon-promoting-greene/2JF4KV2RPBH6XETYMVWLOODFXA/" target="_blank" rel="noopener">Democrat with no political experience running in a deep-red seat</a>: Democrat Marcus Flowers <a href="https://www.fec.gov/data/elections/house/GA/14/2022/" target="_blank" rel="noopener">has raised over $2 million</a> (as of June 30) in his bid to unseat controversial Republican Rep. Marjorie Taylor Greene in Georgia’s 14th Congressional District, which is a whopping 55 percentage points more Republican than the country as a whole, according to <a href="https://fivethirtyeight.com/features/how-red-or-blue-is-your-state-your-congressional-district/" target="_blank" rel="noopener">FiveThirtyEight’s partisan lean metric</a>.<a data-footnote-id="5" href="https://fivethirtyeight.com/wp-json/wp/v2/espn_verticals/398#fn-5" data-footnote-content="&lt;p&gt;&lt;p&gt;Partisan lean is the average margin difference between how a state or district votes and how the country votes overall. This version of partisan lean, meant to be used for congressional and gubernatorial elections, is calculated as 50 percent the state or district’s lean relative to the nation in the most recent presidential election, 25 percent its relative lean in the second-most-recent presidential election and 25 percent a custom state-legislative lean based on the statewide popular vote in the last four state House elections.&lt;/p&gt;
-&lt;/p&gt;"><sup>5</sup></a> </p>
+<p data-paragraph="main">Yet, among non-incumbent candidates running for the House in 2022, the top fundraiser is a <a href="https://www.ajc.com/politics/politics-blog/democratic-veteran-challenges-twisted-qanon-promoting-greene/2JF4KV2RPBH6XETYMVWLOODFXA/" target="_blank" rel="noopener">Democrat with no political experience running in a deep-red seat</a>: Democrat Marcus Flowers <a href="https://www.fec.gov/data/elections/house/GA/14/2022/" target="_blank" rel="noopener">has raised over $2 million</a> (as of June 30) in his bid to unseat controversial Republican Rep. Marjorie Taylor Greene in Georgia’s 14th Congressional District, which is a whopping 55 percentage points more Republican than the country as a whole, according to <a href="https://fivethirtyeight.com/features/how-red-or-blue-is-your-state-your-congressional-district/" target="_blank" rel="noopener">FiveThirtyEight’s partisan lean metric</a>.<a data-footnote-id="13" href="https://fivethirtyeight.com/wp-json/wp/v2/espn_verticals/398#fn-13" data-footnote-content="&lt;p&gt;&lt;p&gt;Partisan lean is the average margin difference between how a state or district votes and how the country votes overall. This version of partisan lean, meant to be used for congressional and gubernatorial elections, is calculated as 50 percent the state or district’s lean relative to the nation in the most recent presidential election, 25 percent its relative lean in the second-most-recent presidential election and 25 percent a custom state-legislative lean based on the statewide popular vote in the last four state House elections.&lt;/p&gt;
+&lt;/p&gt;"><sup>13</sup></a> </p>
 
 
 
@@ -352,8 +3118,8 @@
 
 
 
-<p data-paragraph="main">In 2020, long-shot candidates showed just how much they could fundraise by running against a loathed opponent and/or by going viral online. For instance, despite never having held elected office or run in a high-profile campaign, six Republican challengers raised at least $2 million in House races they then lost by anywhere from 20 to 45 points. Raising <a href="https://www.minnpost.com/national/2020/12/lacy-johnson-had-almost-no-chance-of-defeating-rep-ilhan-omar-he-still-raised-more-money-than-any-other-congressional-candidate-in-minnesota/" target="_blank" rel="noopener">mostly from individual donors</a>, Republican challenger Lacy Johnson <a href="https://www.fec.gov/data/elections/house/MN/05/2020/" target="_blank" rel="noopener">brought in the most</a>, $12.2 million, running against Minnesota Rep. Ilhan Omar. Other Republican challengers raised large sums as well: <a href="https://www.fec.gov/data/elections/house/FL/21/2020/" target="_blank" rel="noopener">John Cummings raised $11.2 million</a> against New York Rep. Alexandria Ocasio-Cortez, <a href="https://www.fec.gov/data/elections/house/CA/43/2020/" target="_blank" rel="noopener">Joe Collins raised $10.6 million</a> against California Rep. Maxine Waters, <a href="https://www.fec.gov/data/elections/house/MD/07/2020/" target="_blank" rel="noopener">Kim Klacik raised $8.3 million</a> against Maryland Rep. Kweisi Mfume,<a data-footnote-id="6" href="https://fivethirtyeight.com/wp-json/wp/v2/espn_verticals/398#fn-6" data-footnote-content='&lt;p&gt;&lt;p&gt;&lt;a href="https://www.wypr.org/wypr-news/2020-04-28/democrat-kweisi-mfume-wins-race-to-replace-the-late-elijah-cummings" target="_blank" rel="noopener"&gt;Klacik first ran in a special election&lt;/a&gt; against Mfume in April 2020, to succeed the late Rep. Elijah Cummings. Mfume won that race, but Klacik was also the GOP nominee in that November’s general election against Mfume. Klacik &lt;a href="https://www.fec.gov/data/elections/house/MD/07/2020/" target="_blank" rel="noopener"&gt;raised $8.3 million for the entire cycle&lt;/a&gt;, with at least $8 million of her contributions coming &lt;em&gt;after&lt;/em&gt; the special election.&lt;/p&gt;
-&lt;/p&gt;'><sup>6</sup></a> <a href="https://www.fec.gov/data/elections/house/CA/28/2020/" target="_blank" rel="noopener">Eric Early raised $4.1 million</a> against California Rep. Adam Schiff and <a href="https://www.fec.gov/data/elections/house/FL/21/2020/" target="_blank" rel="noopener">Laura Loomer raised $2.3 million</a> against Florida Rep. Lois Frankel. And as the chart below shows, those fundraising numbers are truly staggering for just how much they differed from those of Republican nominees in other very Democratic-leaning House seats.</p>
+<p data-paragraph="main">In 2020, long-shot candidates showed just how much they could fundraise by running against a loathed opponent and/or by going viral online. For instance, despite never having held elected office or run in a high-profile campaign, six Republican challengers raised at least $2 million in House races they then lost by anywhere from 20 to 45 points. Raising <a href="https://www.minnpost.com/national/2020/12/lacy-johnson-had-almost-no-chance-of-defeating-rep-ilhan-omar-he-still-raised-more-money-than-any-other-congressional-candidate-in-minnesota/" target="_blank" rel="noopener">mostly from individual donors</a>, Republican challenger Lacy Johnson <a href="https://www.fec.gov/data/elections/house/MN/05/2020/" target="_blank" rel="noopener">brought in the most</a>, $12.2 million, running against Minnesota Rep. Ilhan Omar. Other Republican challengers raised large sums as well: <a href="https://www.fec.gov/data/elections/house/FL/21/2020/" target="_blank" rel="noopener">John Cummings raised $11.2 million</a> against New York Rep. Alexandria Ocasio-Cortez, <a href="https://www.fec.gov/data/elections/house/CA/43/2020/" target="_blank" rel="noopener">Joe Collins raised $10.6 million</a> against California Rep. Maxine Waters, <a href="https://www.fec.gov/data/elections/house/MD/07/2020/" target="_blank" rel="noopener">Kim Klacik raised $8.3 million</a> against Maryland Rep. Kweisi Mfume,<a data-footnote-id="14" href="https://fivethirtyeight.com/wp-json/wp/v2/espn_verticals/398#fn-14" data-footnote-content='&lt;p&gt;&lt;p&gt;&lt;a href="https://www.wypr.org/wypr-news/2020-04-28/democrat-kweisi-mfume-wins-race-to-replace-the-late-elijah-cummings" target="_blank" rel="noopener"&gt;Klacik first ran in a special election&lt;/a&gt; against Mfume in April 2020, to succeed the late Rep. Elijah Cummings. Mfume won that race, but Klacik was also the GOP nominee in that November’s general election against Mfume. Klacik &lt;a href="https://www.fec.gov/data/elections/house/MD/07/2020/" target="_blank" rel="noopener"&gt;raised $8.3 million for the entire cycle&lt;/a&gt;, with at least $8 million of her contributions coming &lt;em&gt;after&lt;/em&gt; the special election.&lt;/p&gt;
+&lt;/p&gt;'><sup>14</sup></a> <a href="https://www.fec.gov/data/elections/house/CA/28/2020/" target="_blank" rel="noopener">Eric Early raised $4.1 million</a> against California Rep. Adam Schiff and <a href="https://www.fec.gov/data/elections/house/FL/21/2020/" target="_blank" rel="noopener">Laura Loomer raised $2.3 million</a> against Florida Rep. Lois Frankel. And as the chart below shows, those fundraising numbers are truly staggering for just how much they differed from those of Republican nominees in other very Democratic-leaning House seats.</p>
 
 
 
@@ -622,8 +3388,8 @@
 <td>20</td>
 <td>12</td>
 </tr></tbody></table><footer><p>Source: New York City Board of Elections</p>
-</footer></section><p data-paragraph="main">Let’s start with Adams’s strongest political borough: the <strong>Black Bloc</strong>, a 63 percent non-Hispanic Black and 23 percent college-educated swath of Brooklyn and Queens. This was Adams’s <a href="https://www.brooklyn-usa.org/eric-adams-bio/" target="_blank" rel="noopener">home turf</a> (he was born in the Brooklyn neighborhood of Brownsville and grew up in the Queens neighborhood of South Jamaica), and unsurprisingly, he dominated here, winning 63 percent of first-place votes. Within the borough, he tended to do better in state Assembly districts with larger Black populations and lower median household incomes, although the correlation was stronger with race than with income.<a data-footnote-id="9" href="https://fivethirtyeight.com/wp-json/wp/v2/espn_verticals/398#fn-9" data-footnote-content="&lt;p&gt;&lt;p&gt;R = 0.91 vs. R = -0.71.&lt;/p&gt;
-&lt;/p&gt;"><sup>9</sup></a> </p>
+</footer></section><p data-paragraph="main">Let’s start with Adams’s strongest political borough: the <strong>Black Bloc</strong>, a 63 percent non-Hispanic Black and 23 percent college-educated swath of Brooklyn and Queens. This was Adams’s <a href="https://www.brooklyn-usa.org/eric-adams-bio/" target="_blank" rel="noopener">home turf</a> (he was born in the Brooklyn neighborhood of Brownsville and grew up in the Queens neighborhood of South Jamaica), and unsurprisingly, he dominated here, winning 63 percent of first-place votes. Within the borough, he tended to do better in state Assembly districts with larger Black populations and lower median household incomes, although the correlation was stronger with race than with income.<a data-footnote-id="17" href="https://fivethirtyeight.com/wp-json/wp/v2/espn_verticals/398#fn-17" data-footnote-content="&lt;p&gt;&lt;p&gt;R = 0.91 vs. R = -0.71.&lt;/p&gt;
+&lt;/p&gt;"><sup>17</sup></a> </p>
 
 
 
@@ -679,8 +3445,8 @@
 
 
 
-<p data-paragraph="main">Instead, the good news for Democrats came in which parts of the country <a href="https://www.dailykos.com/stories/2021/8/17/2046167/-We-ve-got-census-growth-data-for-every-city-county-and-district-and-there-are-lots-of-surprises" target="_blank" rel="noopener">gained and lost population since the 2010 census</a>. Despite the country’s overall population increasing by 7.4 percent, rural areas — the reddest parts of the country — have steadily <em>lost</em> residents over the past 10 years. The average county with a <a href="https://fivethirtyeight.com/features/how-urban-or-rural-is-your-state-and-what-does-that-mean-for-the-2020-election/" target="_blank" rel="noopener">FiveThirtyEight urbanization index</a> below 8<a data-footnote-id="7" href="https://fivethirtyeight.com/wp-json/wp/v2/espn_verticals/398#fn-7" data-footnote-content="&lt;p&gt;&lt;p&gt;FiveThirtyEight’s urbanization index is a measure of how densely populated a county or county equivalent is based on the average number of people living within a five-mile radius of a given resident. The analysis in this article includes Washington, D.C., but excludes Alaska, which does not have county-equivalent-level election results available.&lt;/p&gt;
-&lt;/p&gt;"><sup>7</sup></a> lost 3.1 percent of its population between 2010 and 2020. This encompasses the 1,430 most rural counties in America — 1,302 of which voted for former President Donald Trump in 2020, and only 127 of which voted for President Biden.</p>
+<p data-paragraph="main">Instead, the good news for Democrats came in which parts of the country <a href="https://www.dailykos.com/stories/2021/8/17/2046167/-We-ve-got-census-growth-data-for-every-city-county-and-district-and-there-are-lots-of-surprises" target="_blank" rel="noopener">gained and lost population since the 2010 census</a>. Despite the country’s overall population increasing by 7.4 percent, rural areas — the reddest parts of the country — have steadily <em>lost</em> residents over the past 10 years. The average county with a <a href="https://fivethirtyeight.com/features/how-urban-or-rural-is-your-state-and-what-does-that-mean-for-the-2020-election/" target="_blank" rel="noopener">FiveThirtyEight urbanization index</a> below 8<a data-footnote-id="15" href="https://fivethirtyeight.com/wp-json/wp/v2/espn_verticals/398#fn-15" data-footnote-content="&lt;p&gt;&lt;p&gt;FiveThirtyEight’s urbanization index is a measure of how densely populated a county or county equivalent is based on the average number of people living within a five-mile radius of a given resident. The analysis in this article includes Washington, D.C., but excludes Alaska, which does not have county-equivalent-level election results available.&lt;/p&gt;
+&lt;/p&gt;"><sup>15</sup></a> lost 3.1 percent of its population between 2010 and 2020. This encompasses the 1,430 most rural counties in America — 1,302 of which voted for former President Donald Trump in 2020, and only 127 of which voted for President Biden.</p>
 
 
 
@@ -690,8 +3456,8 @@
 <p>Watch: https://abcnews.go.com/ThisWeek/video/buy-2020-census-good-news-democrats-nate-silver-79467274</p>
 
 
-<p data-paragraph="main">America’s cities grew at a healthy rate too, which was something of a surprise compared with pre-census estimates. The 18 most urban counties or county equivalents in the country — those with a FiveThirtyEight urbanization index above 13 (including San Francisco, Philadelphia, four around Washington, D.C., and eight around New York City) — grew by an average of 8.4 percent — and all but one of them voted for Biden in 2020.<a data-footnote-id="8" href="https://fivethirtyeight.com/wp-json/wp/v2/espn_verticals/398#fn-8" data-footnote-content="&lt;p&gt;&lt;p&gt;The Trump-voting exception was Richmond County, New York, which is Staten Island.&lt;/p&gt;
-&lt;/p&gt;"><sup>8</sup></a></p>
+<p data-paragraph="main">America’s cities grew at a healthy rate too, which was something of a surprise compared with pre-census estimates. The 18 most urban counties or county equivalents in the country — those with a FiveThirtyEight urbanization index above 13 (including San Francisco, Philadelphia, four around Washington, D.C., and eight around New York City) — grew by an average of 8.4 percent — and all but one of them voted for Biden in 2020.<a data-footnote-id="16" href="https://fivethirtyeight.com/wp-json/wp/v2/espn_verticals/398#fn-16" data-footnote-content="&lt;p&gt;&lt;p&gt;The Trump-voting exception was Richmond County, New York, which is Staten Island.&lt;/p&gt;
+&lt;/p&gt;"><sup>16</sup></a></p>
 
 
 
@@ -815,8 +3581,8 @@
 
 
 
-<p data-paragraph="main">According to a <a href="https://www.pewresearch.org/fact-tank/2021/07/22/wide-partisan-divide-on-whether-voting-is-a-fundamental-right-or-a-privilege-with-responsibilities/" target="_blank" rel="noopener">July report from Pew</a>, an overwhelming majority of Democrats and Democratic leaners (78 percent) said that they view voting as a “fundamental right” for every U.S. citizen, while only 32 percent of Republican and Republican leaners felt the same. Instead, Republicans are more likely to view voting as a privilege that can be limited (67 percent of Republican and Republican leaners felt this way, versus 21 percent of Democrats and Democratic leaners). There’s a racial divide here, too, with Black (77 percent), Hispanic (63 percent) and Asian Americans (66 percent) being far more likely than white Americans (51 percent) to say voting is a fundamental right.<a data-footnote-id="10" href="https://fivethirtyeight.com/wp-json/wp/v2/espn_verticals/398#fn-10" data-footnote-content="&lt;p&gt;&lt;p&gt;Asian American adults were interviewed in English only, according to Pew, while white, Black and Asian American adults included those who said they’re one race and not Hispanic.&lt;/p&gt;
-&lt;/p&gt;"><sup>10</sup></a> Bottom line: Democrats are much more likely than Republicans (70 percent to 32 percent, according to a June <a href="https://assets.morningconsult.com/wp-uploads/2021/06/09050746/210636_crosstabs_POLITICO_RVs_v1_LM.pdf" target="_blank" rel="noopener">Morning Consult/Politico</a> poll) to think restricting voting access is a major threat to American democracy.</p>
+<p data-paragraph="main">According to a <a href="https://www.pewresearch.org/fact-tank/2021/07/22/wide-partisan-divide-on-whether-voting-is-a-fundamental-right-or-a-privilege-with-responsibilities/" target="_blank" rel="noopener">July report from Pew</a>, an overwhelming majority of Democrats and Democratic leaners (78 percent) said that they view voting as a “fundamental right” for every U.S. citizen, while only 32 percent of Republican and Republican leaners felt the same. Instead, Republicans are more likely to view voting as a privilege that can be limited (67 percent of Republican and Republican leaners felt this way, versus 21 percent of Democrats and Democratic leaners). There’s a racial divide here, too, with Black (77 percent), Hispanic (63 percent) and Asian Americans (66 percent) being far more likely than white Americans (51 percent) to say voting is a fundamental right.<a data-footnote-id="18" href="https://fivethirtyeight.com/wp-json/wp/v2/espn_verticals/398#fn-18" data-footnote-content="&lt;p&gt;&lt;p&gt;Asian American adults were interviewed in English only, according to Pew, while white, Black and Asian American adults included those who said they’re one race and not Hispanic.&lt;/p&gt;
+&lt;/p&gt;"><sup>18</sup></a> Bottom line: Democrats are much more likely than Republicans (70 percent to 32 percent, according to a June <a href="https://assets.morningconsult.com/wp-uploads/2021/06/09050746/210636_crosstabs_POLITICO_RVs_v1_LM.pdf" target="_blank" rel="noopener">Morning Consult/Politico</a> poll) to think restricting voting access is a major threat to American democracy.</p>
 
 
 
@@ -852,9 +3618,9 @@
 
 
 
-<p data-paragraph="main">They’re all also part of Generation Z, America’s youngest adult generation, which is more <a href="https://www.pewresearch.org/social-trends/2020/05/14/on-the-cusp-of-adulthood-and-facing-an-uncertain-future-what-we-know-about-gen-z-so-far-2/" target="_blank" rel="noopener">ethnically and racially diverse</a> than any generation before it.<a data-footnote-id="11" href="https://fivethirtyeight.com/wp-json/wp/v2/espn_verticals/398#fn-11" data-footnote-content='&lt;p&gt;&lt;p&gt;The &lt;a href="https://www.pewresearch.org/fact-tank/2019/01/17/where-millennials-end-and-generation-z-begins/" target="_blank" rel="noopener"&gt;Pew Research Center defines Gen Zers&lt;/a&gt; as those born from 1997 onward, though children born in 2010 and after &lt;a href="https://abcnews.go.com/GMA/Family/gen-meet-gen-alpha-generation-born-2010-today/story?id=68971965" target="_blank" rel="noopener"&gt;qualify for Generation Alpha&lt;/a&gt;.&lt;/p&gt;
-&lt;/p&gt;'><sup>11</sup></a> And similar to millennials, who are now in their <a href="https://www.pewresearch.org/fact-tank/2019/01/17/where-millennials-end-and-generation-z-begins/" target="_blank" rel="noopener">mid-20s to early 40s</a>, members of Gen Z <a href="https://www.pewresearch.org/social-trends/2019/01/17/generation-z-looks-a-lot-like-millennials-on-key-social-and-political-issues/" target="_blank" rel="noopener">are more liberal on a number of key social issues</a> than older generations. According to Pew’s 2020 <a href="https://www.pewresearch.org/politics/2021/06/30/behind-bidens-2020-victory/" target="_blank" rel="noopener">verified voter survey</a>, millennials and Gen Zers also backed Biden over Trump in that year’s election, by a 20-point margin.<a data-footnote-id="12" href="https://fivethirtyeight.com/wp-json/wp/v2/espn_verticals/398#fn-12" data-footnote-content="&lt;p&gt;&lt;p&gt;Pew told FiveThirtyEight that they did not have a large enough sample to share the vote choice for just Gen-Z voters, who, per Pew, made up just 8 percent of the electorate in 2020.&lt;/p&gt;
-&lt;/p&gt;"><sup>12</sup></a></p>
+<p data-paragraph="main">They’re all also part of Generation Z, America’s youngest adult generation, which is more <a href="https://www.pewresearch.org/social-trends/2020/05/14/on-the-cusp-of-adulthood-and-facing-an-uncertain-future-what-we-know-about-gen-z-so-far-2/" target="_blank" rel="noopener">ethnically and racially diverse</a> than any generation before it.<a data-footnote-id="19" href="https://fivethirtyeight.com/wp-json/wp/v2/espn_verticals/398#fn-19" data-footnote-content='&lt;p&gt;&lt;p&gt;The &lt;a href="https://www.pewresearch.org/fact-tank/2019/01/17/where-millennials-end-and-generation-z-begins/" target="_blank" rel="noopener"&gt;Pew Research Center defines Gen Zers&lt;/a&gt; as those born from 1997 onward, though children born in 2010 and after &lt;a href="https://abcnews.go.com/GMA/Family/gen-meet-gen-alpha-generation-born-2010-today/story?id=68971965" target="_blank" rel="noopener"&gt;qualify for Generation Alpha&lt;/a&gt;.&lt;/p&gt;
+&lt;/p&gt;'><sup>19</sup></a> And similar to millennials, who are now in their <a href="https://www.pewresearch.org/fact-tank/2019/01/17/where-millennials-end-and-generation-z-begins/" target="_blank" rel="noopener">mid-20s to early 40s</a>, members of Gen Z <a href="https://www.pewresearch.org/social-trends/2019/01/17/generation-z-looks-a-lot-like-millennials-on-key-social-and-political-issues/" target="_blank" rel="noopener">are more liberal on a number of key social issues</a> than older generations. According to Pew’s 2020 <a href="https://www.pewresearch.org/politics/2021/06/30/behind-bidens-2020-victory/" target="_blank" rel="noopener">verified voter survey</a>, millennials and Gen Zers also backed Biden over Trump in that year’s election, by a 20-point margin.<a data-footnote-id="20" href="https://fivethirtyeight.com/wp-json/wp/v2/espn_verticals/398#fn-20" data-footnote-content="&lt;p&gt;&lt;p&gt;Pew told FiveThirtyEight that they did not have a large enough sample to share the vote choice for just Gen-Z voters, who, per Pew, made up just 8 percent of the electorate in 2020.&lt;/p&gt;
+&lt;/p&gt;"><sup>20</sup></a></p>
 
 
 <p>Watch: https://abcnews.go.com/fivethirtyeight/video/americans-ending-war-afghanistan-79488089</p>
@@ -993,8 +3759,8 @@
 
 
 
-<p data-paragraph="main">The grim headlines have also made some Americans rethink their support for withdrawing troops at all. As my colleague Geoffrey Skelley <a href="https://fivethirtyeight.com/features/afghanistan-has-fallen-to-the-taliban-how-will-americans-judge-bidens-decision-to-withdraw/" target="_blank" rel="noopener">wrote on Monday</a>, net support for withdrawal was extremely high before last weekend: between +28 and +46 points. But five polls conducted since Aug. 13<a data-footnote-id="13" href="https://fivethirtyeight.com/wp-json/wp/v2/espn_verticals/398#fn-13" data-footnote-content='&lt;p&gt;&lt;p&gt;The aforementioned Morning Consult, Morning Consult/Politico and YouGov/The Economist polls, plus one poll each from &lt;a href="https://projects.fivethirtyeight.com/polls/20210817_US_JohnZogby.pdf" target="_blank" rel="noopener"&gt;John Zogby Strategies&lt;/a&gt; and &lt;a href="https://www.dataforprogress.org/blog/2021/8/17/voters-support-withdrawing-troops-from-afghanistan" target="_blank" rel="noopener"&gt;Data for Progress&lt;/a&gt;.&lt;/p&gt;
-&lt;/p&gt;'><sup>13</sup></a> all showed support for withdrawal dropping to between 45 and 53 percent, while opposition had risen to between 32 and 37 percent. Notably, of course, this still means more Americans support withdrawal than oppose it, by 12- to 17-point margins.</p>
+<p data-paragraph="main">The grim headlines have also made some Americans rethink their support for withdrawing troops at all. As my colleague Geoffrey Skelley <a href="https://fivethirtyeight.com/features/afghanistan-has-fallen-to-the-taliban-how-will-americans-judge-bidens-decision-to-withdraw/" target="_blank" rel="noopener">wrote on Monday</a>, net support for withdrawal was extremely high before last weekend: between +28 and +46 points. But five polls conducted since Aug. 13<a data-footnote-id="21" href="https://fivethirtyeight.com/wp-json/wp/v2/espn_verticals/398#fn-21" data-footnote-content='&lt;p&gt;&lt;p&gt;The aforementioned Morning Consult, Morning Consult/Politico and YouGov/The Economist polls, plus one poll each from &lt;a href="https://projects.fivethirtyeight.com/polls/20210817_US_JohnZogby.pdf" target="_blank" rel="noopener"&gt;John Zogby Strategies&lt;/a&gt; and &lt;a href="https://www.dataforprogress.org/blog/2021/8/17/voters-support-withdrawing-troops-from-afghanistan" target="_blank" rel="noopener"&gt;Data for Progress&lt;/a&gt;.&lt;/p&gt;
+&lt;/p&gt;'><sup>21</sup></a> all showed support for withdrawal dropping to between 45 and 53 percent, while opposition had risen to between 32 and 37 percent. Notably, of course, this still means more Americans support withdrawal than oppose it, by 12- to 17-point margins.</p>
 
 
 <div>
@@ -1045,8 +3811,8 @@
 
 
 
-<figure><img loading="lazy" width="1150" height="920" src="https://fivethirtyeight.com/wp-content/uploads/2021/08/biden-approval-rating-2-2.png" alt="" data-src="https://fivethirtyeight.com/wp-content/uploads/2021/08/biden-approval-rating-2-2.png" data-srcset="https://fivethirtyeight.com/wp-content/uploads/2021/08/biden-approval-rating-2-2.png?w=700 1x, https://fivethirtyeight.com/wp-content/uploads/2021/08/biden-approval-rating-2-2.png?w=1400 2x"></figure><p data-paragraph="main">According to FiveThirtyEight’s <a href="https://projects.fivethirtyeight.com/biden-approval-rating/" target="_blank" rel="noopener">presidential approval tracker</a>,<a data-footnote-id="14" href="https://fivethirtyeight.com/wp-json/wp/v2/espn_verticals/398#fn-14" data-footnote-content="&lt;p&gt;&lt;p&gt;As of 5 p.m. Eastern on Thursday.&lt;/p&gt;
-&lt;/p&gt;"><sup>14</sup></a> 49.1 percent of Americans approve of the job Biden is doing as president, while 44.5 percent disapprove (a net approval rating of +4.6 points). At this time <a href="https://fivethirtyeight.com/features/how-the-infrastructure-deal-might-test-the-limits-of-popular-bills/" target="_blank" rel="noopener">last week</a>, 50.2 percent approved and 43.4 percent disapproved (a net approval rating of +6.8 points). One month ago, Biden had an approval rating of 52.5 percent and a disapproval rating of 42.5 percent, for a net approval rating of +10.0 points.</p>
+<figure><img loading="lazy" width="1150" height="920" src="https://fivethirtyeight.com/wp-content/uploads/2021/08/biden-approval-rating-2-2.png" alt="" data-src="https://fivethirtyeight.com/wp-content/uploads/2021/08/biden-approval-rating-2-2.png" data-srcset="https://fivethirtyeight.com/wp-content/uploads/2021/08/biden-approval-rating-2-2.png?w=700 1x, https://fivethirtyeight.com/wp-content/uploads/2021/08/biden-approval-rating-2-2.png?w=1400 2x"></figure><p data-paragraph="main">According to FiveThirtyEight’s <a href="https://projects.fivethirtyeight.com/biden-approval-rating/" target="_blank" rel="noopener">presidential approval tracker</a>,<a data-footnote-id="22" href="https://fivethirtyeight.com/wp-json/wp/v2/espn_verticals/398#fn-22" data-footnote-content="&lt;p&gt;&lt;p&gt;As of 5 p.m. Eastern on Thursday.&lt;/p&gt;
+&lt;/p&gt;"><sup>22</sup></a> 49.1 percent of Americans approve of the job Biden is doing as president, while 44.5 percent disapprove (a net approval rating of +4.6 points). At this time <a href="https://fivethirtyeight.com/features/how-the-infrastructure-deal-might-test-the-limits-of-popular-bills/" target="_blank" rel="noopener">last week</a>, 50.2 percent approved and 43.4 percent disapproved (a net approval rating of +6.8 points). One month ago, Biden had an approval rating of 52.5 percent and a disapproval rating of 42.5 percent, for a net approval rating of +10.0 points.</p>
 
 
 <p>Watch: https://abcnews.go.com/fivethirtyeight/video/bidens-approval-rating-fallen-fivethirtyeight-politics-podcast-79388894</p>
@@ -1074,18 +3840,18 @@
 
 
 
-<p data-paragraph="main">Indeed, complications from redistricting may have influenced two Democratic House members in highly competitive seats to announce their exits recently, portending trouble for their party in next year’s midterm elections. Perhaps most notably, longtime Wisconsin Rep. Ron Kind <a href="https://www.politico.com/news/2021/08/10/kind-reelection-503343" target="_blank" rel="noopener">announced on Aug. 10 that he wouldn’t seek reelection</a>. With Kind retiring, it will be challenging for Democrats to hold on to his rural, western Wisconsin seat, which is about 9 percentage points more Republican than the country as a whole, according to <a href="https://fivethirtyeight.com/features/how-red-or-blue-is-your-state-your-congressional-district/" target="_blank" rel="noopener">FiveThirtyEight’s partisan lean metric</a>.<a data-footnote-id="15" href="https://fivethirtyeight.com/wp-json/wp/v2/espn_verticals/398#fn-15" data-footnote-content="&lt;p&gt;&lt;p&gt;Partisan lean is the average margin difference between how a state or district votes and how the country votes overall. This version of partisan lean, meant to be used for congressional and gubernatorial elections, is calculated as 50 percent the state or district’s lean relative to the nation in the most recent presidential election, 25 percent its relative lean in the second-most-recent presidential election and 25 percent a custom state-legislative lean based on the statewide popular vote in the last four state House elections.&lt;/p&gt;
-&lt;/p&gt;"><sup>15</sup></a> And in Pennsylvania, Rep. Conor Lamb, a relative newcomer, is leaving his Pittsburgh-area seat, which is 2 points more Republican than the country as a whole. This district could be a tough one for Democrats to retain, especially if redistricting makes his seat even more Republican. Lamb’s motivations are different from Kind’s, however: Lamb is <a href="https://www.nytimes.com/2021/08/06/us/politics/conor-lamb-senate-race-pa.html" target="_blank" rel="noopener">running for retiring Republican Pat Toomey’s seat in the Senate</a>.</p>
+<p data-paragraph="main">Indeed, complications from redistricting may have influenced two Democratic House members in highly competitive seats to announce their exits recently, portending trouble for their party in next year’s midterm elections. Perhaps most notably, longtime Wisconsin Rep. Ron Kind <a href="https://www.politico.com/news/2021/08/10/kind-reelection-503343" target="_blank" rel="noopener">announced on Aug. 10 that he wouldn’t seek reelection</a>. With Kind retiring, it will be challenging for Democrats to hold on to his rural, western Wisconsin seat, which is about 9 percentage points more Republican than the country as a whole, according to <a href="https://fivethirtyeight.com/features/how-red-or-blue-is-your-state-your-congressional-district/" target="_blank" rel="noopener">FiveThirtyEight’s partisan lean metric</a>.<a data-footnote-id="23" href="https://fivethirtyeight.com/wp-json/wp/v2/espn_verticals/398#fn-23" data-footnote-content="&lt;p&gt;&lt;p&gt;Partisan lean is the average margin difference between how a state or district votes and how the country votes overall. This version of partisan lean, meant to be used for congressional and gubernatorial elections, is calculated as 50 percent the state or district’s lean relative to the nation in the most recent presidential election, 25 percent its relative lean in the second-most-recent presidential election and 25 percent a custom state-legislative lean based on the statewide popular vote in the last four state House elections.&lt;/p&gt;
+&lt;/p&gt;"><sup>23</sup></a> And in Pennsylvania, Rep. Conor Lamb, a relative newcomer, is leaving his Pittsburgh-area seat, which is 2 points more Republican than the country as a whole. This district could be a tough one for Democrats to retain, especially if redistricting makes his seat even more Republican. Lamb’s motivations are different from Kind’s, however: Lamb is <a href="https://www.nytimes.com/2021/08/06/us/politics/conor-lamb-senate-race-pa.html" target="_blank" rel="noopener">running for retiring Republican Pat Toomey’s seat in the Senate</a>.</p>
 
 
 
-<p data-paragraph="main">Of course, House Democrats are sitting out reelection for numerous reasons, but it’s an important thing to track, as retirements and runs for other offices can hint at what members expect the midterm landscape to look like. Take the 2018 midterm cycle, when about two times as many House Republicans as Democrats <a href="https://fivethirtyeight.com/features/here-are-all-the-republicans-retiring-from-congress-in-2018/" target="_blank" rel="noopener">decided to leave office</a> ahead of that year’s “<a href="https://fivethirtyeight.com/features/yes-it-was-a-blue-wave/" target="_blank" rel="noopener">blue wave</a>.” And while House Democrats are currently nowhere near the 39 Republicans who threw in the towel before the 2018 election, these departures are still an early warning for them, especially considering Democrats hold a narrow 222-to-213 seat majority,<a data-footnote-id="16" href="https://fivethirtyeight.com/wp-json/wp/v2/espn_verticals/398#fn-16" data-footnote-content='&lt;p&gt;&lt;p&gt;This count includes &lt;a href="https://clerk.house.gov/Members#Vacancies" target="_blank" rel="noopener"&gt;three vacancies in seats&lt;/a&gt; that are safe for one party or the other &amp;#8212; two formerly Democratic-held seats and one formerly Republican-held seat.&lt;/p&gt;
-&lt;/p&gt;'><sup>16</sup></a> meaning Republicans need a net gain of just five seats to capture the chamber. The fact that Democrats may be in trouble shouldn’t come as a surprise, though, since the president’s party <a href="https://fivethirtyeight.com/features/republicans-2020-gains-in-the-house-set-them-up-well-for-2022/" target="_blank" rel="noopener">usually loses ground in midterm House elections</a>.</p>
+<p data-paragraph="main">Of course, House Democrats are sitting out reelection for numerous reasons, but it’s an important thing to track, as retirements and runs for other offices can hint at what members expect the midterm landscape to look like. Take the 2018 midterm cycle, when about two times as many House Republicans as Democrats <a href="https://fivethirtyeight.com/features/here-are-all-the-republicans-retiring-from-congress-in-2018/" target="_blank" rel="noopener">decided to leave office</a> ahead of that year’s “<a href="https://fivethirtyeight.com/features/yes-it-was-a-blue-wave/" target="_blank" rel="noopener">blue wave</a>.” And while House Democrats are currently nowhere near the 39 Republicans who threw in the towel before the 2018 election, these departures are still an early warning for them, especially considering Democrats hold a narrow 222-to-213 seat majority,<a data-footnote-id="24" href="https://fivethirtyeight.com/wp-json/wp/v2/espn_verticals/398#fn-24" data-footnote-content='&lt;p&gt;&lt;p&gt;This count includes &lt;a href="https://clerk.house.gov/Members#Vacancies" target="_blank" rel="noopener"&gt;three vacancies in seats&lt;/a&gt; that are safe for one party or the other &amp;#8212; two formerly Democratic-held seats and one formerly Republican-held seat.&lt;/p&gt;
+&lt;/p&gt;'><sup>24</sup></a> meaning Republicans need a net gain of just five seats to capture the chamber. The fact that Democrats may be in trouble shouldn’t come as a surprise, though, since the president’s party <a href="https://fivethirtyeight.com/features/republicans-2020-gains-in-the-house-set-them-up-well-for-2022/" target="_blank" rel="noopener">usually loses ground in midterm House elections</a>.</p>
 
 
 
-<p data-paragraph="main">Overall, 16 representatives have announced their departures,<a data-footnote-id="17" href="https://fivethirtyeight.com/wp-json/wp/v2/espn_verticals/398#fn-17" data-footnote-content="&lt;p&gt;&lt;p&gt;As of 5 p.m. Eastern on Wednesday.&lt;/p&gt;
-&lt;/p&gt;"><sup>17</sup></a> but in another ominous sign for Democrats, the type of seats the two parties are leaving open differs dramatically, as the table below shows. Seven of the eight outgoing Democrats represent districts that are less than 5 points more Democratic than the country as a whole — including the seats held by Kind and Lamb — which could make those seats easier for the GOP to flip next year. By comparison, only one Republican is leaving a seat that’s less than 10 points more Republican, meaning retirements and departures from office haven’t left the GOP as exposed.</p>
+<p data-paragraph="main">Overall, 16 representatives have announced their departures,<a data-footnote-id="25" href="https://fivethirtyeight.com/wp-json/wp/v2/espn_verticals/398#fn-25" data-footnote-content="&lt;p&gt;&lt;p&gt;As of 5 p.m. Eastern on Wednesday.&lt;/p&gt;
+&lt;/p&gt;"><sup>25</sup></a> but in another ominous sign for Democrats, the type of seats the two parties are leaving open differs dramatically, as the table below shows. Seven of the eight outgoing Democrats represent districts that are less than 5 points more Democratic than the country as a whole — including the seats held by Kind and Lamb — which could make those seats easier for the GOP to flip next year. By comparison, only one Republican is leaving a seat that’s less than 10 points more Republican, meaning retirements and departures from office haven’t left the GOP as exposed.</p>
 
 
 <div>
@@ -1524,8 +4290,8 @@
 
 
 
-<p data-paragraph="main">DeSantis’s decision to <a href="https://www.miamiherald.com/news/local/news-columns-blogs/fabiola-santiago/article253269883.html" target="_blank" rel="noopener">scapegoat immigrants</a> for the record number of coronavirus cases is important, though, as it speaks to a larger strategy within the GOP: attack Biden’s immigration policies at every conceivable turn. Prominent Republicans, including <a href="https://www.washingtonpost.com/politics/trump-border-visit/2021/06/30/8c5165ac-d91c-11eb-8fb8-aea56b785b00_story.html" target="_blank" rel="noopener">former President Donald Trump</a> and <a href="https://www.youtube.com/watch?v=pbGyi9H-v1g" target="_blank" rel="noopener">Sens. Ted Cruz</a> and <a href="https://www.independent.co.uk/news/world/americas/us-politics/lindsey-graham-biden-apology-southern-border-migrant-children-b1823688.html" target="_blank" rel="noopener">Lindsey Graham</a>, not to mention dozens of <a href="https://www.newsweek.com/list-republican-senators-border-joe-biden-pressure-1578666" target="_blank" rel="noopener">other GOP lawmakers</a>, have been vocal in their criticism of how the Biden administration has handled immigration. Conservative cable news channel <a href="https://www.foxnews.com/category/us/immigration" target="_blank" rel="noopener">Fox News</a> has also doubled down on its immigration coverage since Biden’s inauguration, <a href="https://api.gdeltproject.org/api/v2/summary/summary?d=iatv&amp;t=summary&amp;k=%28border+OR+immigration+OR+immigrant%29&amp;ts=custom&amp;sdt=20210120000000&amp;edt=20210811235959&amp;fs=station%3ACNN&amp;fs=station%3AFOXNEWS&amp;fs=station%3AMSNBC&amp;fdn=raw&amp;fdr=day&amp;svt=zoom&amp;svts=zoom&amp;swvt=zoom&amp;ssc=yes&amp;sshc=yes&amp;swc=yes&amp;stcl=yes&amp;c=1" target="_blank" rel="noopener">mentioning</a> “immigration,” “immigrant” or the “border” more than 39,000 times compared with fewer than 7,000 and 9,000 mentions on CNN and MSNBC, respectively.<a data-footnote-id="18" href="https://fivethirtyeight.com/wp-json/wp/v2/espn_verticals/398#fn-18" data-footnote-content="&lt;p&gt;&lt;p&gt;We ran a search of CNN, Fox News and MSNBC coverage from Jan. 20 to Aug. 11 in the TV News Archive using the GDELT Television API. In that database, daily news footage is split into 15-second clips, and searches return the clips that contain a mention of our search query (“immigration” or “immigrant” or “border”).&lt;/p&gt;
-&lt;/p&gt;"><sup>18</sup></a></p>
+<p data-paragraph="main">DeSantis’s decision to <a href="https://www.miamiherald.com/news/local/news-columns-blogs/fabiola-santiago/article253269883.html" target="_blank" rel="noopener">scapegoat immigrants</a> for the record number of coronavirus cases is important, though, as it speaks to a larger strategy within the GOP: attack Biden’s immigration policies at every conceivable turn. Prominent Republicans, including <a href="https://www.washingtonpost.com/politics/trump-border-visit/2021/06/30/8c5165ac-d91c-11eb-8fb8-aea56b785b00_story.html" target="_blank" rel="noopener">former President Donald Trump</a> and <a href="https://www.youtube.com/watch?v=pbGyi9H-v1g" target="_blank" rel="noopener">Sens. Ted Cruz</a> and <a href="https://www.independent.co.uk/news/world/americas/us-politics/lindsey-graham-biden-apology-southern-border-migrant-children-b1823688.html" target="_blank" rel="noopener">Lindsey Graham</a>, not to mention dozens of <a href="https://www.newsweek.com/list-republican-senators-border-joe-biden-pressure-1578666" target="_blank" rel="noopener">other GOP lawmakers</a>, have been vocal in their criticism of how the Biden administration has handled immigration. Conservative cable news channel <a href="https://www.foxnews.com/category/us/immigration" target="_blank" rel="noopener">Fox News</a> has also doubled down on its immigration coverage since Biden’s inauguration, <a href="https://api.gdeltproject.org/api/v2/summary/summary?d=iatv&amp;t=summary&amp;k=%28border+OR+immigration+OR+immigrant%29&amp;ts=custom&amp;sdt=20210120000000&amp;edt=20210811235959&amp;fs=station%3ACNN&amp;fs=station%3AFOXNEWS&amp;fs=station%3AMSNBC&amp;fdn=raw&amp;fdr=day&amp;svt=zoom&amp;svts=zoom&amp;swvt=zoom&amp;ssc=yes&amp;sshc=yes&amp;swc=yes&amp;stcl=yes&amp;c=1" target="_blank" rel="noopener">mentioning</a> “immigration,” “immigrant” or the “border” more than 39,000 times compared with fewer than 7,000 and 9,000 mentions on CNN and MSNBC, respectively.<a data-footnote-id="26" href="https://fivethirtyeight.com/wp-json/wp/v2/espn_verticals/398#fn-26" data-footnote-content="&lt;p&gt;&lt;p&gt;We ran a search of CNN, Fox News and MSNBC coverage from Jan. 20 to Aug. 11 in the TV News Archive using the GDELT Television API. In that database, daily news footage is split into 15-second clips, and searches return the clips that contain a mention of our search query (“immigration” or “immigrant” or “border”).&lt;/p&gt;
+&lt;/p&gt;"><sup>26</sup></a></p>
 
 
 
@@ -1875,101 +4641,6 @@
 <p>Watch: https://abcnews.go.com/ThisWeek/video/buy-lotteries-smart-nudge-improve-vaccination-rates-nate-77989609</p>]]></description>
 			<pubDate>Fri, 13 Aug 2021 11:00:00 +0100</pubDate>
 			<guid isPermaLink="false">1628851502737416</guid>
-		</item>
-		<item>
-			<title>How The Infrastructure Deal Might Test The Limits Of Popular Bills</title>
-			<link>https://fivethirtyeight.com/features/how-the-infrastructure-deal-might-test-the-limits-of-popular-bills/</link>
-						<dc:creator>Alex Samuels</dc:creator>
-			<dc:creator>Alex Samuels</dc:creator>
-			<category>Congress</category>
-			<category>Democrats</category>
-			<category>House Democrats</category>
-			<category>Infrastructure</category>
-			<category>Joe Biden</category>
-			<category>Mitch McConnell</category>
-			<category>Nancy Pelosi</category>
-			<category>Pollapalooza</category>
-			<category>The Biden Administration</category>
-			<description><![CDATA[<p data-paragraph="main">Welcome to <a href="https://fivethirtyeight.com/tag/pollapalooza/" target="_blank" rel="noopener">Pollapalooza</a>, our weekly polling roundup.</p>
-
-
-<div><hr><span></span></div>
-
-
-
-<p data-paragraph="main">Something rare just happened in Congress. During an era defined by <a href="https://fivethirtyeight.com/features/how-much-longer-can-this-era-of-political-gridlock-last/" target="_blank" rel="noopener">extreme partisan animosity</a>, Republican and Democratic senators came together on Tuesday<strong> </strong>to <a href="https://abcnews.go.com/Politics/senate-passes-11-trillion-bipartisan-infrastructure-bill-big/story?id=79378221" target="_blank" rel="noopener">pass a $1.1 trillion infrastructure package</a> that invests billions of dollars in roads, bridges and infrastructure projects; provides federal funding to <a href="https://abcnews.go.com/Politics/wireStory/inside-senates-bipartisan-infrastructure-bill-79387452" target="_blank" rel="noopener">modernize public transportation</a> and the electrical grid, allowing for more <a href="https://www.nytimes.com/2021/08/02/us/climate-electricity-infrastructure.html" target="_blank" rel="noopener">renewable energy</a>.</p>
-
-
-
-<p data-paragraph="main">At first blush, this looks like a huge win for President Biden, who campaigned on <a href="https://www.politico.com/news/2021/07/22/biden-bipartisan-infrastructure-deal-500526" target="_blank" rel="noopener">the importance of bipartisanship</a>. And as my colleague Geoffrey Skelley <a href="https://fivethirtyeight.com/features/how-much-do-americans-really-care-about-bipartisanship/" target="_blank" rel="noopener">previously reported</a>, Americans like it (or at least they say they like it) when Republicans and Democrats work together. </p>
-
-
-
-<p data-paragraph="main">But this bill is not without political risk for Biden and Democrats. </p>
-
-
-
-<p data-paragraph="main">For starters, it faces a long path to becoming law. That’s because House Speaker Nancy Pelosi <a href="https://www.cnbc.com/2021/08/11/senate-passes-infrastructure-bill-and-budget-resolution.html" target="_blank" rel="noopener">has held firm</a> in her decision to not bring up the infrastructure bill in the House until the Senate passes a second, <a href="https://www.cnbc.com/2021/08/11/senate-passes-3point5-trillion-budget-resolution-after-infrastructure-bill.html" target="_blank" rel="noopener">far more ambitious spending package</a> through the budget reconciliation process. Progressive House members have also threatened to <a href="https://www.cnbc.com/2021/08/10/the-senate-passes-infrastructure-bill-whats-next.html" target="_blank" rel="noopener">withhold support for the bipartisan infrastructure bill</a> unless the Senate acts on this bigger package that includes funding for climate change and health care, among other priorities. </p>
-
-
-
-<p data-paragraph="main">This could set up a big political fight for Democrats this fall. Sen. Joe Manchin of West Virginia, one of the chamber’s most vocal moderate Democrats, says <a href="https://apnews.com/article/joe-biden-business-825739838a790668b2d2855a72821d56" target="_blank" rel="noopener">he has not decided</a> if he’ll support the legislation with its current price tag of $3.5 trillion, issuing a statement in which he warned of the bill’s “<a href="https://www.reuters.com/world/us/us-senate-debate-35-trillion-spending-plan-enters-second-day-2021-08-11/" target="_blank" rel="noopener">grave consequences</a>” for the nation’s debt. Sen. Krysten Sinema of Arizona, another vocal moderate, said in late July that <a href="https://www.azcentral.com/story/news/politics/arizona/2021/07/28/arizona-sen-kyrsten-sinema-wont-back-democrats-3-5-trillion-reconciliation-bill/5402193001/" target="_blank" rel="noopener">she will not support</a> a bill of that price. Plus, touting ambitious bill packages hasn’t worked well for Democrats in the past. Back in 2010, <a href="https://abcnews.go.com/WN/HealthCare/obama-signs-health-care-bill-law/story?id=10178597" target="_blank" rel="noopener">the Affordable Care Act</a> faced a similarly divided Democratic Party, and in fact, subsequent research suggests that the law hurt Democrats in that year’s midterms. <a href="https://sites.dartmouth.edu/nyhan/files/2021/03/health-care-vote-effects.pdf" target="_blank" rel="noopener">One 2012 study found</a> that Democrats who voted in favor of the ACA saw their vote share <a href="https://journals.sagepub.com/doi/abs/10.1177/1532673X11433768" target="_blank" rel="noopener">drop by 8.5 percentage points</a>, on average. Moreover, Republicans didn’t just do well that midterm cycle — they won their largest share of seats in the House <a href="https://history.house.gov/Institution/Party-Divisions/74-Present/" target="_blank" rel="noopener">since the 1940s</a>.</p>
-
-
-<p>Watch: https://abcnews.go.com/fivethirtyeight/video/bidens-approval-rating-fallen-fivethirtyeight-politics-podcast-79388894</p>
-
-
-<p data-paragraph="main">It’s also possible that voters will be turned off if the fight over passing the infrastructure and reconciliation bills drags on too long and is perceived as too complicated. Research has found that <a href="https://fivethirtyeight.com/features/voters-like-a-political-party-until-it-passes-laws/" target="_blank" rel="noopener">voters often punish</a> — rather than reward — parties that move to achieve their policy goals. </p>
-
-
-
-<p data-paragraph="main">What’s working in Democrats’ favor right now, though, is that the infrastructure bill is popular. An <a href="https://today.yougov.com/topics/politics/articles-reports/2021/08/04/americans-support-infrastructure-bill-poll" target="_blank" rel="noopener">Economist/YouGov</a> poll from last week found that 51 percent of U.S. adults supported the infrastructure measure, while just 19 percent opposed it. A Quinnipiac survey <a href="https://poll.qu.edu/poll-release?releaseid=3814" target="_blank" rel="noopener">released the same day</a> put support for the bill even higher, with 65 percent of Americans approving of the package. That said, both polls suggest that more Democrats than Republicans are in favor: 61 percent of Democrats versus 47 percent of Republicans in the Economist/YouGov poll, and a whopping 93 percent of Democrats versus 41 percent of Republicans in the Quinnipiac poll.</p>
-
-
-
-<p data-paragraph="main">One reason something like infrastructure appeals to Americans is because many think that improving infrastructure should be a priority in Washington. According to an <a href="https://apnews.com/article/joe-biden-business-government-and-politics-only-on-ap-a5454467619247e89b9c87697ac0d6f5" target="_blank" rel="noopener">AP-NORC survey in July</a>, both Republicans and Democrats were overwhelmingly in favor of various proposals for the infrastructure bill, including funding for roads, bridges and ports as well as funding for pipes that supply public drinking water.</p>
-
-
-<div>
-	<p>
-		<a href="https://fivethirtyeight.com/features/presidents-used-to-be-the-faces-of-their-political-parties-is-that-no-longer-the-case/?cid=_inlinerelated"><img alt="Biden standing at a podium in mid-sentence." width="153" height="115" data-sizes="(min-width: 440px) 153px, 100vw" data-srcset="https://fivethirtyeight.com/wp-content/uploads/2021/07/GettyImages-1233836459-4x3-1.jpg?w=153&amp;quality=100&amp;strip=all 153w, https://fivethirtyeight.com/wp-content/uploads/2021/07/GettyImages-1233836459-4x3-1.jpg?w=306&amp;quality=100&amp;strip=all 306w, https://fivethirtyeight.com/wp-content/uploads/2021/07/GettyImages-1233836459-4x3-1.jpg?w=405&amp;quality=100&amp;strip=all 405w, https://fivethirtyeight.com/wp-content/uploads/2021/07/GettyImages-1233836459-4x3-1.jpg?w=810&amp;quality=100&amp;strip=all 810w"></a>
-	</p>
-	<p>
-				<strong>related:</strong>
-				Presidents Used To Be The Faces Of Their Political Parties. Is That No Longer The Case? <a href="https://fivethirtyeight.com/features/presidents-used-to-be-the-faces-of-their-political-parties-is-that-no-longer-the-case/?cid=_inlinerelated">Read more. »</a>
-	</p>
-</div>
-
-
-
-<p data-paragraph="main">And this fits in <a href="https://nymag.com/intelligencer/2021/06/bidens-plan-for-getting-big-things-done.html" target="_blank" rel="noopener">Biden’s governing strategy</a> of trying to pass measures that are popular with the overall electorate in the hope that voters will later reward him and Democrats. But it’s not clear whether that strategy will pay off. It’s certainly better than Biden trying to push through unpopular bills, but as the Washington Post’s Perry Bacon Jr. wrote for FiveThirtyEight earlier this year, <a href="https://fivethirtyeight.com/features/why-republicans-dont-fear-an-electoral-backlash-for-opposing-really-popular-parts-of-bidens-agenda/" target="_blank" rel="noopener">popularity around the COVID-19 stimulus package</a> that Democrats passed in Biden’s first 100 days may not result in electoral benefits. For instance, polling from the Pew Research Center found that support for the bill was especially high among <a href="https://fivethirtyeight.com/features/can-bidens-covid-19-relief-bill-help-democrats-avoid-a-midterm-defeat/" target="_blank" rel="noopener">lower-income Republicans</a>, but at least as it pertains to Biden’s approval rating, Republican voters not only largely disapprove of Biden, <a href="https://fivethirtyeight.com/features/republicans-really-really-dislike-biden-but-its-not-just-about-him/" target="_blank" rel="noopener">they <em>strongly</em> disapprove of him</a> as well. At the end of the day, it could be that most Americans are not going to break from their political views regardless of what the other side passes in terms of policy.  </p>
-
-
-
-<p data-paragraph="main">It’s also likely Republicans will <a href="https://apnews.com/article/joe-biden-business-climate-164e59e31e42a646bc520042ac5e13af" target="_blank" rel="noopener">try and use the high cost</a> of the infrastructure and reconciliation bills as leverage against Democrats next year. A <a href="https://www.wsj.com/articles/most-gop-senators-sign-pledge-to-not-help-democrats-on-debt-ceiling-11628638081" target="_blank" rel="noopener">number of Republicans</a>, including Senate Minority Leader Mitch McConnell, have already vowed that Democrats “<a href="https://apnews.com/article/joe-biden-business-9fa48bfe5daeb95179cf539b59c4b7e2" target="_blank" rel="noopener">won’t get our help</a>” to raise the debt limit. Moreover, the bipartisan infrastructure bill now in front of the House is expensive. According to an estimate from the nonpartisan Congressional Budget Office, the bill is expected to <a href="https://www.nytimes.com/2021/08/05/us/politics/infrastructure-cost-senate-cbo.html" target="_blank" rel="noopener">add $256 billion to the federal debt</a> over the next decade, and as we hinted at, debate over the debt limit this fall is already expected to <a href="https://www.politico.com/news/2021/08/09/democrats-debt-limit-mcconnell-502885" target="_blank" rel="noopener">further divide the two parties</a>. Plus, polls suggest that even now voters are concerned about inflation and the federal government’s ability to handle it. According to a <a href="https://thehill.com/hilltv/what-americas-thinking/566297-poll-inflation-named-as-top-economic-concern-among-voters" target="_blank" rel="noopener">Hill-HarrisX poll</a> in August, 31 percent of registered voters named inflation as their top concern when thinking about the future of the economy. Among Republicans, that number jumped to 37 percent, but 23 percent of Democrats also put inflation as their top concern. </p>
-
-
-
-<p data-paragraph="main">With Congress in recess until mid-September, it’ll be awhile before we have a clear sense for where this political fight is headed, and which party has the upperhand, but for now, it’s possible that we’ve seen the limit to what popular bills can do.</p>
-
-
-
-<h2><strong>Other polling bites</strong></h2>
-
-
-
-<ul><li>A <a href="https://www.cbsnews.com/news/climate-change-impact-warning-report-united-nations-intergovernmental-panel-ipcc-code-red-humanity/">major climate report</a> released Monday by the U.N.’s Intergovernmental Panel on Climate Change found that global temperatures are likely to lead to even worse heat waves and other types of extreme weather. Despite that alarming finding, though, U.S. adults don’t seem to be taking climate change more seriously, according to new polling from <a href="https://morningconsult.com/2021/08/09/climate-change-natural-disasters-ipcc-report-data/">Morning Consult</a>. In fact, since May, concern over climate change and its impact has remained steady: The share of U.S. adults who say they’re “very concerned” has hovered between 38 percent and 42 percent, while roughly one-third of adults say they’re “somewhat concerned.”</li><li>On Tuesday, New York Gov. Andrew Cuomo <a href="https://fivethirtyeight.com/features/andrew-cuomo-had-nowhere-to-go-but-out/">announced plans to resign</a> after the state’s attorney general, Letitia James, released a report last week detailing <a href="https://ag.ny.gov/sites/default/files/2021.08.03_nyag_-_investigative_report.pdf">allegations of sexual harassment by 11 different women</a>. Now Lt. Gov. Kathy Hochul will become governor, making her the state’s first female governor. But polls show she’s unknown to most New Yorkers. When Marist <a href="http://maristpoll.marist.edu/polls/new-york-state-marist-poll-results-analysis-august-11-2021/">asked residents about Hochul’s favorability</a>, 64 percent of New Yorkers said either they’ve never heard of her or they don’t know how to rank her.. That said, just 13 percent had an unfavorable view of her and 23 percent had a favorable view, so there is a lot of upside here for Hochul to make a positive impression as she has <a href="https://abcnews.go.com/amp/Politics/wireStory/hochul-run-governor-finishing-cuomos-term-79420623">now said she plans to run for governor in 2022</a>. </li><li>The COVID-19 pandemic has significantly changed how Americans get groceries. According to new Gallup polling, the percentage of U.S. adults who now <a href="https://news.gallup.com/poll/353090/grocery-shopping-online-fewer-dining.aspx">say that they order groceries online at least monthly</a> has more than doubled, going from 11 percent in 2019, to 23 percent now. And at this point, this phenomenon is mostly concentrated among married people with young children (37 percent) and those with an annual household income over $100,000 (29 percent). However, a majority of American adults (64 percent) say they never order groceries for pickup or delivery. </li><li>There’s been a <a href="https://fivethirtyeight.com/features/first-it-was-sex-ed-now-its-critical-race-theory/">big discussion as of late</a> into whether schools should be allowed to teach critical race theory and have frank discussions about racism in the U.S. And new polling from the <a href="https://www.pewresearch.org/politics/2021/08/12/deep-divisions-in-americans-views-of-nations-racial-history--and-how-to-address-it/">Pew Research Center</a> shows that most Americans believe increased attention to  the history of racism is a good thing for society. Per the poll, 53 percent of U.S. adults think it’s “very” or “somewhat” good for society to be aware of the history of slavery and racism in America, while 26 percent of respondents think it’s bad for society. The survey found wide partisan and racial divides, too. Black (75 percent), Asian American (64 percent) and Hispanic adults (59 percent) were more likely to view heightened attention to this topic as a good thing, while just a little under half of white adults (46 percent) felt the same way. The partisan divide was even more stark, Pew found. Among Republicans and Republican-leaning independents, only 25 percent said greater attention to racism and slavery was good for society, compared to 78 percent of Democrats and Democratic-leaning independents. </li><li>Democrats and Democratic leaners voters are more likely than Republicans and Republican leaners to support making college tuition free, according to new polling from the <a href="https://www.pewresearch.org/fact-tank/2021/08/11/democrats-overwhelmingly-favor-free-college-tuition-while-republicans-are-divided-by-age-education/">Pew Research Center</a>. Per their survey, 85 percent of Democrats said they favor making college tuition free, compared to just 36 percent of Republicans. Those most strongly supportive of tuition-free college were adults who fall between the ages of 18-29 (73 percent), who have only a high school diploma (69 percent) and who were women (68 percent). There was a racial divide, too: overwhelming majorities of Black (86 percent), Hispanic (82 percent) and Asian American (69 percent) adults supported free college tuition, but only 53 percent of white adults did.</li></ul><h2><strong>Biden approval </strong></h2>
-
-
-
-<figure><img loading="lazy" width="972" height="934" src="https://fivethirtyeight.com/wp-content/uploads/2021/08/Screen-Shot-2021-08-12-at-4.15.49-PM.png" alt="" data-src="https://fivethirtyeight.com/wp-content/uploads/2021/08/Screen-Shot-2021-08-12-at-4.15.49-PM.png" data-srcset="https://fivethirtyeight.com/wp-content/uploads/2021/08/Screen-Shot-2021-08-12-at-4.15.49-PM.png?w=700 1x, https://fivethirtyeight.com/wp-content/uploads/2021/08/Screen-Shot-2021-08-12-at-4.15.49-PM.png?w=1400 2x"></figure><p data-paragraph="main">According to FiveThirtyEight’s <a href="https://projects.fivethirtyeight.com/biden-approval-rating/" target="_blank" rel="noopener">presidential approval tracker</a>, 50.2 percent of Americans approve of the job Biden is doing as president, while 43.4 percent disapprove (a net approval rating of +6.8 percentage points). At this time <a href="https://fivethirtyeight.com/features/americans-are-in-favor-of-vaccine-mandates-but-support-is-driven-mainly-by-those-who-have-already-gotten-the-jab/" target="_blank" rel="noopener">last week</a>, 50.4 percent approved and 43.3 percent disapproved (a net approval rating of +7.0 points). One month ago, Biden had an approval rating of 51.6 percent and a disapproval rating of 42.2 percent (a net approval rating of +9.4 points).</p>
-
-
-<p>Watch: https://abcnews.go.com/fivethirtyeight/video/cuomo-resigning-now-fivethirtyeight-politics-podcast-79389991</p>
-
-<p>Watch: https://abcnews.go.com/fivethirtyeight/video/anti-establishment-sentiment-ballot-parties-week-79248883</p>]]></description>
-			<pubDate>Fri, 13 Aug 2021 11:00:00 +0100</pubDate>
-			<guid isPermaLink="false">1628851502737415</guid>
 		</item>
 
 	</channel>
