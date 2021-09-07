@@ -3,9 +3,62 @@
 		<title>Main stream | FreshRSS</title>
 		<link>http://radon</link>
 		<description>RSS feed of Main stream | FreshRSS</description>
-		<pubDate>Wed, 08 Sep 2021 00:29:07 +0100</pubDate>
-		<lastBuildDate>Tue, 07 Sep 2021 23:29:07 GMT</lastBuildDate>
+		<pubDate>Wed, 08 Sep 2021 00:59:07 +0100</pubDate>
+		<lastBuildDate>Tue, 07 Sep 2021 23:59:07 GMT</lastBuildDate>
 		<atom:link href="http://radon/i/?a=rss" rel="self" type="application/rss+xml" />
+		<item>
+			<title>Politics Podcast: How Politics Have Changed Since The Days After 9/11</title>
+			<link>https://fivethirtyeight.com/features/politics-podcast-how-politics-have-changed-since-the-days-after-9-11/</link>
+						<dc:creator>Galen Druke</dc:creator>
+			<dc:creator>FiveThirtyEight</dc:creator>
+			<category>California Governor Recall</category>
+			<category>California Politics</category>
+			<category>FiveThirtyEight Podcasts</category>
+			<category>Politics Podcast</category>
+			<category>Public Opinion</category>
+			<category>September 11</category>
+			<category>Terrorism</category>
+			<description><![CDATA[<div data-href="https://fivethirtyeight.com/features/politics-podcast-how-politics-have-changed-since-the-days-after-9-11/">
+	<div data-podcast-id="315539" data-podcast-duration="0" data-podcast-title="Politics Podcast: How Politics Have Changed Since The Days After 9/11">
+
+					<span><span>FiveThirtyEight</span></span>
+			
+		
+		<button aria-label="Play"></button>
+
+					<div>
+		
+		
+							<div>
+					<div>
+						<div></div>
+					</div>
+
+					<div> </div>
+
+					<audio preload="none" controls="controls"><source src="https://www.podtrac.com/pts/redirect.mp3/traffic.megaphone.fm/ESP3431004559.mp3?updated=1631053994"></source></audio></div>
+			
+					</div>
+		
+	</div>
+</div>
+<aside><div>
+		More: <a href="https://itunes.apple.com/us/podcast/fivethirtyeight-elections/id1077418457">Apple Podcasts</a> |
+		<span><a data-android-url="" href="http://m.espn.com/general/cast?id=14554755">ESPN App</a> |</span>
+		<a href="https://www.espn.com/espnradio/feeds/rss/podcast.xml?id=14554755">RSS</a>
+			</div>
+	</aside><p data-paragraph="main">U.S. politics have changed a lot in the 20 years since the 9/11 terrorist attacks, which defined a generation of American life. In this installment of the <a rel="noreferrer noopener" target="_blank" href="https://fivethirtyeight.com/tag/politics-podcast/">FiveThirtyEight Politics podcast</a>, University of California, Riverside, political science professor <a rel="noreferrer noopener" target="_blank" href="https://www.jennifermerolla.com/">Jennifer Merolla</a> and Pew Research Center research associate <a rel="noreferrer noopener" target="_blank" href="https://www.pewresearch.org/staff/hannah-hartig/">Hannah Hartig</a> reflect on the political climate in the immediate aftermath of the 2001 attacks and discuss whether a similar consensus is possible in America’s current political environment. In the second segment of the podcast, CalMatters politics reporter <a rel="noreferrer noopener" target="_blank" href="https://calmatters.org/author/laurel-rosenhall/">Laurel Rosenhall</a> and political analyst <a rel="noreferrer noopener" target="_blank" href="https://igs.berkeley.edu/people/paul-mitchell">Paul Mitchell</a> join to talk about California’s gubernatorial recall election.</p>
+
+
+
+<p data-paragraph="main"><em>You can listen to the episode by clicking the “play” button in the audio player above or by </em><a href="https://itunes.apple.com/us/podcast/fivethirtyeight-elections/id1077418457?mt=2" target="_blank" rel="noopener"><em>downloading it in iTunes</em></a><em>, the </em><a href="http://www.espn.com/espn/mobile/products/products/_/id/6857590" target="_blank" rel="noopener"><em>ESPN App</em></a><em> or your favorite podcast platform. If you are new to podcasts, </em><a href="https://fivethirtyeight.com/how-to-listen-to-fivethirtyeight-podcasts/" target="_blank" rel="noopener"><em>learn how to listen</em></a><em>.</em></p>
+
+
+
+<p data-paragraph="main"><em>The FiveThirtyEight Politics podcast is recorded Mondays and Thursdays. Help new listeners discover the show by </em><a href="https://itunes.apple.com/us/podcast/fivethirtyeight-elections/id1077418457?mt=2" target="_blank" rel="noopener"><em>leaving us a rating and review on iTunes</em></a><em>. Have a comment, question or suggestion for “good polling vs. bad polling”? Get in touch by email, </em><a href="https://twitter.com/FiveThirtyEight" target="_blank" rel="noopener"><em>on Twitter</em></a><em> or in the comments.</em></p>]]></description>
+			<pubDate>Tue, 07 Sep 2021 23:32:00 +0100</pubDate>
+			<guid isPermaLink="false">1631057402974648</guid>
+		</item>
 		<item>
 			<title>Universities Say They Want More Diverse Faculties. So Why Is Academia Still So White?</title>
 			<link>https://fivethirtyeight.com/features/universities-say-they-want-more-diverse-faculties-so-why-is-academia-still-so-white/</link>
@@ -4670,66 +4723,6 @@
 <p>An updating average of 2021 California gubernatorial replacement election polls, accounting for each poll’s quality, recency and sample size</p>]]></description>
 			<pubDate>Wed, 18 Aug 2021 11:00:00 +0100</pubDate>
 			<guid isPermaLink="false">1629617401885742</guid>
-		</item>
-		<item>
-			<title>Republican Views On Immigration Are Shifting Even Further To The Right Under Biden</title>
-			<link>https://fivethirtyeight.com/features/republican-views-on-immigration-are-shifting-even-further-to-the-right-under-biden/</link>
-						<dc:creator>Michael Tesler</dc:creator>
-			<dc:creator>Michael Tesler</dc:creator>
-			<category>DACA</category>
-			<category>Donald Trump</category>
-			<category>Immigration</category>
-			<category>Joe Biden</category>
-			<category>The Biden Administration</category>
-			<category>The Trump Administration</category>
-			<description><![CDATA[<p data-paragraph="main">In early August, President Biden <a href="https://www.politico.com/states/florida/story/2021/08/03/desantis-blames-media-for-hysteria-over-covid-surge-1389404" target="_blank" rel="noopener">took aim at Republican governors</a> like Ron DeSantis of Florida and Greg Abbott of Texas for not taking enough precautions to counter the <a href="https://www.nytimes.com/interactive/2021/us/covid-cases.html" target="_blank" rel="noopener">surge in COVID-19 cases</a> in their states.</p>
-
-
-
-<p data-paragraph="main">But DeSantis was quick to pin the blame on Biden instead, <a href="https://talkingpointsmemo.com/edblog/new-gop-message-on-surging-covid-its-juans-fault" target="_blank" rel="noopener">writing the following in a fundraising email</a> to supporters: “Joe Biden has the nerve to tell me to get out of the way on COVID while he lets COVID-infected migrants pour over our southern border by the hundreds of thousands. No elected official is doing more to enable the transmission of COVID in America than Joe Biden with his open borders policies.”</p>
-
-
-
-<p data-paragraph="main">Only what DeSantis is claiming isn’t borne out by data. Rather, according to <a href="https://www.politifact.com/factchecks/2021/aug/06/ron-desantis/ron-desantis-effort-blame-covid-19-spread-migrants/" target="_blank" rel="noopener">public health experts</a>, the far more likely culprit for the surge in Florida’s cases is <a href="https://www.nytimes.com/interactive/2020/us/covid-19-vaccine-doses.html" target="_blank" rel="noopener">the state’s low vaccination rates</a>.</p>
-
-
-
-<p data-paragraph="main">DeSantis’s decision to <a href="https://www.miamiherald.com/news/local/news-columns-blogs/fabiola-santiago/article253269883.html" target="_blank" rel="noopener">scapegoat immigrants</a> for the record number of coronavirus cases is important, though, as it speaks to a larger strategy within the GOP: attack Biden’s immigration policies at every conceivable turn. Prominent Republicans, including <a href="https://www.washingtonpost.com/politics/trump-border-visit/2021/06/30/8c5165ac-d91c-11eb-8fb8-aea56b785b00_story.html" target="_blank" rel="noopener">former President Donald Trump</a> and <a href="https://www.youtube.com/watch?v=pbGyi9H-v1g" target="_blank" rel="noopener">Sens. Ted Cruz</a> and <a href="https://www.independent.co.uk/news/world/americas/us-politics/lindsey-graham-biden-apology-southern-border-migrant-children-b1823688.html" target="_blank" rel="noopener">Lindsey Graham</a>, not to mention dozens of <a href="https://www.newsweek.com/list-republican-senators-border-joe-biden-pressure-1578666" target="_blank" rel="noopener">other GOP lawmakers</a>, have been vocal in their criticism of how the Biden administration has handled immigration. Conservative cable news channel <a href="https://www.foxnews.com/category/us/immigration" target="_blank" rel="noopener">Fox News</a> has also doubled down on its immigration coverage since Biden’s inauguration, <a href="https://api.gdeltproject.org/api/v2/summary/summary?d=iatv&amp;t=summary&amp;k=%28border+OR+immigration+OR+immigrant%29&amp;ts=custom&amp;sdt=20210120000000&amp;edt=20210811235959&amp;fs=station%3ACNN&amp;fs=station%3AFOXNEWS&amp;fs=station%3AMSNBC&amp;fdn=raw&amp;fdr=day&amp;svt=zoom&amp;svts=zoom&amp;swvt=zoom&amp;ssc=yes&amp;sshc=yes&amp;swc=yes&amp;stcl=yes&amp;c=1" target="_blank" rel="noopener">mentioning</a> “immigration,” “immigrant” or the “border” more than 39,000 times compared with fewer than 7,000 and 9,000 mentions on CNN and MSNBC, respectively.<a data-footnote-id="28" href="https://fivethirtyeight.com/wp-json/wp/v2/espn_verticals/398#fn-28" data-footnote-content="&lt;p&gt;&lt;p&gt;We ran a search of CNN, Fox News and MSNBC coverage from Jan. 20 to Aug. 11 in the TV News Archive using the GDELT Television API. In that database, daily news footage is split into 15-second clips, and searches return the clips that contain a mention of our search query (“immigration” or “immigrant” or “border”).&lt;/p&gt;
-&lt;/p&gt;"><sup>28</sup></a></p>
-
-
-
-<p data-paragraph="main">This strategy reflects just how much immigration has become a key issue for Republicans. What’s more, with a Democrat in the White House, Republicans are now more likely to be motivated by immigration, marking a shift in how much issues of race and ethnicity can motivate voters when their party is out of office.</p>
-
-
-
-<p data-paragraph="main">Take how strongly Trump supporters currently disapprove of Biden’s performance on immigration. Two <a href="https://docs.cdn.yougov.com/v60y11605p/econTabReport.pdf" target="_blank" rel="noopener">Economist/YouGov polls</a> conducted <a href="https://docs.cdn.yougov.com/1aaz80mjhy/econTabReport.pdf" target="_blank" rel="noopener">in July</a> found that 84 percent of Trump voters “strongly disapproved” of how the president was handling immigration. That’s the highest level of disapproval of any of the 15 issues The Economist/YouGov asked about in <a href="https://docs.cdn.yougov.com/w1um475jkt/econTabReport.pdf" target="_blank" rel="noopener">its</a> <a href="https://docs.cdn.yougov.com/w2zmwpzsq0/econTabReport.pdf" target="_blank" rel="noopener">four</a> <a href="https://docs.cdn.yougov.com/1aaz80mjhy/econTabReport.pdf" target="_blank" rel="noopener">weekly</a> <a href="https://docs.cdn.yougov.com/v60y11605p/econTabReport.pdf" target="_blank" rel="noopener">surveys</a> in July.</p>
-
-
-
-<figure><div>
-<div><iframe title="Trump voters really don't like Biden's immigration policy" aria-label="Bar Chart" src="https://datawrapper.dwcdn.net/ceQIF/8/" scrolling="no" frameborder="0" height="538" sandbox="allow-scripts allow-same-origin"></iframe></div>
-</div></figure><p data-paragraph="main">Republicans don’t just disapprove of the job Biden is doing on immigration, though. Data from <a href="https://civiqs.com/results/immigrants_citizenship?uncertainty=true&amp;annotations=true&amp;zoomIn=true&amp;party=Independent" target="_blank" rel="noopener">Civiqs’s daily tracking polls</a> shows that Republicans — and to a lesser extent independents — have grown less willing to support a path to citizenship for unauthorized immigrants in the U.S. Since Election Day 2020, Republicans’ support for deporting unauthorized immigrants has increased by 12 percentage points while independents’ support has ticked up 8 points. It’s because of these increases that overall support for deportations is the highest it's been since Civiqs first asked the question in December 2016.</p>
-
-
-
-<figure><div>
-<div><iframe title="Support for deportation is ticking up among Republicans" aria-label="Interactive line chart" src="https://datawrapper.dwcdn.net/NQ1yp/5/" scrolling="no" frameborder="0" height="400" sandbox="allow-scripts allow-same-origin"></iframe></div>
-</div></figure><p data-paragraph="main">Civiqs isn’t the only pollster to document this trend either. Polling from the Pew Research Center has also found that the share of Republicans who oppose finding a legal way for unauthorized immigrants to stay in the U.S. <a href="https://www.pewresearch.org/politics/2021/05/03/most-americans-are-critical-of-governments-handling-of-situation-at-u-s-mexico-border/pp_2021-05-03_immigration_00-03/" target="_blank" rel="noopener">increased by 9 points</a> between June 2020 and April 2021. And <a href="https://www.reuters.com/article/us-usa-immigration-republicans/republicans-hostility-grows-toward-illegal-immigrants-as-party-attacks-biden-on-border-idUSKBN2B919J" target="_blank" rel="noopener">Reuters/Ipsos</a> pointed to an even sharper uptick — an 18-point increase in the share of Republicans who opposed a path to citizenship for unauthorized immigrants — from 2018 to February 2021. Overall, Republicans are just a lot more likely to say <a href="https://www.pewresearch.org/politics/wp-content/uploads/sites/4/2021/05/PP_2021.05.03_immigration_00-05.png?w=620" target="_blank" rel="noopener">illegal immigration poses a very serious problem</a>, up from 43 percent in 2020 to 72 percent in April.</p>
-
-
-
-<p data-paragraph="main">On the one hand, this trend fits within a familiar pattern in <a href="https://www.jstor.org/stable/2111666?origin=crossref&amp;seq=1#metadata_info_tab_contents" target="_blank" rel="noopener">political science research</a> arguing that public opinion often <a href="https://themonkeycage.org/2010/06/the_public_is_a_thermostat/" target="_blank" rel="noopener">operates as a thermostat</a>, whereby the public shifts against the current president’s positions to prevent policy-making from becoming too liberal or too conservative. On immigration, for instance, Americans’ opinions moved sharply to the left in response to <a href="https://www.vox.com/policy-and-politics/2018/7/5/17527734/trump-immigration-poll" target="_blank" rel="noopener">Trump’s restrictive rhetoric and policies</a> — this was the case especially <a href="https://fivethirtyeight.com/features/can-democrats-win-on-immigration-policy-in-2020/" target="_blank" rel="noopener">among Democrats</a>. Just as with a thermostat, though, public opinion is now reacting to the warmer environment on immigration under Biden by growing cooler toward it.</p>
-
-
-
-<p data-paragraph="main">These recent pendulum swings on immigration, however, mark a potentially noteworthy departure. Thermostatic trends in Americans’ views about race and ethnicity have <a href="https://pages.uncc.edu/mary-atkinson/wp-content/uploads/sites/619/2014/02/BeyondThermostat.pdf" target="_blank" rel="noopener">historically been weaker</a> than Americans’ reactions to <a href="https://www.vox.com/2019/6/7/18656441/policy-mood-liberal-stimson" target="_blank" rel="noopener">presidents’ economic policies</a>. But that was <a href="https://press.princeton.edu/books/paperback/9780691176192/white-backlash" target="_blank" rel="noopener">before immigration became such a deep dividing line</a> between Democrats and Republicans. Now, with the two parties <a href="https://fivethirtyeight.com/features/how-democrats-became-stuck-on-immigration/" target="_blank" rel="noopener">pushing harder in opposite directions</a> on immigration than they have in the recent past, immigration has emerged as an important political issue with significant policy consequences.</p>
-
-
-
-<p data-paragraph="main">Indeed, the Trump administration was frequently criticized for <a href="https://apnews.com/article/joe-biden-donald-trump-politics-immigration-united-states-a5bfcbea280a468b431a02e82c15a150" target="_blank" rel="noopener">its strict immigration policies</a>, like separating children from their migrant parents, banning travel from predominantly Muslim countries and <a href="https://www.npr.org/2020/07/15/891563635/trump-administration-rejects-1st-time-daca-applications-violates-scotus-order" target="_blank" rel="noopener">limiting protections</a> for unauthorized immigrants brought to the country as children, which pushed Democrats further to the left on immigration. Likewise, the criticism that the Biden administration is not doing enough to <a href="https://www.nytimes.com/2021/03/22/briefing/sedition-miami-beach-curfew-astrazeneca.html" target="_blank" rel="noopener">secure the U.S.-Mexico border</a> with <a href="https://www.cnn.com/2021/08/12/politics/us-mexico-border-migrants/index.html" target="_blank" rel="noopener">the number of migrants crossing the border</a> at a two-decade high is pushing Republicans further to the right on immigration. That growing hostility is likely to be a motivating factor in Republican politics throughout Biden’s presidency. From the earliest days of Trump’s presidential campaign, <a href="https://www.washingtonpost.com/news/monkey-cage/wp/2015/11/24/how-anti-immigrant-attitudes-are-fueling-support-for-donald-trump/" target="_blank" rel="noopener">anti-immigrant sentiments fueled</a> his rise to the top of the Republican Party. They also <a href="https://muse.jhu.edu/article/653374/summary" target="_blank" rel="noopener">helped move</a> some of then-President Barack Obama’s 2012 <a href="https://academic.oup.com/poq/article/83/1/91/5494625?login=true" target="_blank" rel="noopener">supporters to vote for Trump</a> in the 2016 general election. Republicans’ rising concerns about Trump’s signature policy issue of immigration should, therefore, only solidify his stranglehold on the GOP in the Biden era. </p>]]></description>
-			<pubDate>Tue, 17 Aug 2021 11:00:00 +0100</pubDate>
-			<guid isPermaLink="false">1629198001490609</guid>
 		</item>
 
 	</channel>
