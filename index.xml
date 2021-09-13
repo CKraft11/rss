@@ -3,9 +3,63 @@
 		<title>Main stream | FreshRSS</title>
 		<link>http://radon</link>
 		<description>RSS feed of Main stream | FreshRSS</description>
-		<pubDate>Mon, 13 Sep 2021 23:59:06 +0100</pubDate>
-		<lastBuildDate>Mon, 13 Sep 2021 22:59:06 GMT</lastBuildDate>
+		<pubDate>Tue, 14 Sep 2021 00:29:07 +0100</pubDate>
+		<lastBuildDate>Mon, 13 Sep 2021 23:29:07 GMT</lastBuildDate>
 		<atom:link href="http://radon/i/?a=rss" rel="self" type="application/rss+xml" />
+		<item>
+			<title>Politics Podcast: Will Biden’s Vaccine Mandates Work?</title>
+			<link>https://fivethirtyeight.com/features/politics-podcast-will-bidens-vaccine-mandates-work/</link>
+						<dc:creator>Galen Druke</dc:creator>
+			<dc:creator>FiveThirtyEight</dc:creator>
+			<category>Boston</category>
+			<category>California Governor Recall</category>
+			<category>Cleveland</category>
+			<category>COVID-19 Vaccine</category>
+			<category>FiveThirtyEight Podcasts</category>
+			<category>Liz Cheney</category>
+			<category>Politics Podcast</category>
+			<category>Polling</category>
+			<description><![CDATA[<div data-href="https://fivethirtyeight.com/features/politics-podcast-will-bidens-vaccine-mandates-work/">
+	<div data-podcast-id="315987" data-podcast-duration="0" data-podcast-title="Politics Podcast: Will Biden’s Vaccine Mandates Work?">
+
+					<span><span>FiveThirtyEight</span></span>
+			
+		
+		<button aria-label="Play"></button>
+
+					<div>
+		
+		
+							<div>
+					<div>
+						<div></div>
+					</div>
+
+					<div> </div>
+
+					<audio preload="none" controls="controls"><source src="https://www.podtrac.com/pts/redirect.mp3/traffic.megaphone.fm/ESP1666542946.mp3?updated=1631573451"></source></audio></div>
+			
+					</div>
+		
+	</div>
+</div>
+<aside><div>
+		More: <a href="https://itunes.apple.com/us/podcast/fivethirtyeight-elections/id1077418457">Apple Podcasts</a> |
+		<span><a data-android-url="" href="http://m.espn.com/general/cast?id=14554755">ESPN App</a> |</span>
+		<a href="https://www.espn.com/espnradio/feeds/rss/podcast.xml?id=14554755">RSS</a>
+			</div>
+	</aside><p data-paragraph="main">Tuesday is election day in California as Governor Gavin Newsom faces a recall election, only <a rel="noreferrer noopener" target="_blank" href="https://www.npr.org/2021/09/13/1036533187/californias-newsom-is-only-the-4th-governor-to-face-a-recall-vote">the fourth gubernatorial recall election in U.S. history</a>. In this installment of the <a rel="noreferrer noopener" target="_blank" href="https://fivethirtyeight.com/tag/politics-podcast/">Politics podcast</a>, The FiveThirtyEight crew checks in on the recall and other upcoming races, and talks about how a Trump endorsement is shaping the Wyoming primary. They also discuss whether surveys asking people about Democrats’ $3.5 trillion social programs bill is a good or bad use of polling. Later in the show, senior writers Maggie Koerth and Amelia Thomson-DeVeaux come on to talk about Biden’s sweeping vaccine mandate, how Americans <a rel="noreferrer noopener" target="_blank" href="https://fivethirtyeight.com/features/vaccines-mandates-work-but-theyre-messy-business/">feel about vaccine mandates in general</a>, how effective they are and if Biden’s is legal.</p>
+
+
+
+<p data-paragraph="main"><em>You can listen to the episode by clicking the “play” button in the audio player above or by </em><a href="https://itunes.apple.com/us/podcast/fivethirtyeight-elections/id1077418457?mt=2" target="_blank" rel="noopener"><em>downloading it in iTunes</em></a><em>, the </em><a href="http://www.espn.com/espn/mobile/products/products/_/id/6857590" target="_blank" rel="noopener"><em>ESPN App</em></a><em> or your favorite podcast platform. If you are new to podcasts, </em><a href="https://fivethirtyeight.com/how-to-listen-to-fivethirtyeight-podcasts/" target="_blank" rel="noopener"><em>learn how to listen</em></a><em>.</em></p>
+
+
+
+<p data-paragraph="main"><em>The FiveThirtyEight Politics podcast is recorded Mondays and Thursdays. Help new listeners discover the show by </em><a href="https://itunes.apple.com/us/podcast/fivethirtyeight-elections/id1077418457?mt=2" target="_blank" rel="noopener"><em>leaving us a rating and review on iTunes</em></a><em>. Have a comment, question or suggestion for “good polling vs. bad polling”? Get in touch by email, </em><a href="https://twitter.com/FiveThirtyEight" target="_blank" rel="noopener"><em>on Twitter</em></a><em> or in the comments.</em></p>]]></description>
+			<pubDate>Mon, 13 Sep 2021 23:46:00 +0100</pubDate>
+			<guid isPermaLink="false">1631574902222195</guid>
+		</item>
 		<item>
 			<title>California Recall Election: Live Updates</title>
 			<link>https://fivethirtyeight.com/live-blog/california-recall-election-newsom/</link>
@@ -4328,133 +4382,6 @@
 <p>Watch: https://abcnews.go.com/fivethirtyeight/video/bidens-approval-rating-fallen-fivethirtyeight-politics-podcast-79388894</p>]]></description>
 			<pubDate>Thu, 26 Aug 2021 11:00:00 +0100</pubDate>
 			<guid isPermaLink="false">1629972902175053</guid>
-		</item>
-		<item>
-			<title>Why Some White Evangelical Republicans Are So Opposed To The COVID-19 Vaccine</title>
-			<link>https://fivethirtyeight.com/features/why-some-white-evangelical-republicans-are-so-opposed-to-the-covid-19-vaccine/</link>
-						<dc:creator>Natalie Jackson</dc:creator>
-			<dc:creator>Natalie Jackson</dc:creator>
-			<category>Coronavirus</category>
-			<category>COVID-19</category>
-			<category>COVID-19 Vaccine</category>
-			<category>Evangelical Christians</category>
-			<category>Evangelicals</category>
-			<category>Republican Party</category>
-			<category>Republicans</category>
-			<description><![CDATA[<p data-paragraph="main">In the race to get Americans vaccinated, two groups are commanding a lot of attention: <a href="https://www.theatlantic.com/politics/archive/2021/08/why-so-many-republicans-wont-get-vaccinated/619659/" target="_blank" rel="noopener">Republicans</a> and <a href="https://www.usnews.com/news/health-news/articles/2021-08-10/white-evangelical-churches-and-the-crisis-of-vaccine-hesitancy" target="_blank" rel="noopener">white evangelicals</a>. Both are <a href="https://fivethirtyeight.com/features/unvaccinated-america-in-5-charts/" target="_blank" rel="noopener">less likely to have been vaccinated already and more likely to refuse</a> vaccination altogether.</p>
-
-
-
-<p data-paragraph="main">But it’s the overlap between white Republicans and white evangelicals that is especially telling, as white evangelical Republicans are among the most likely groups in the U.S. to refuse vaccination. According to a <a href="https://www.prri.org/research/religious-vaccines-covid-vaccination/" target="_blank" rel="noopener">June survey</a> by the Public Religion Research Institute, where I’m the research director, and the Interfaith Youth Core, white evangelical Republicans were considerably less likely to say they were vaccinated or planning to get vaccinated as soon as possible (53 percent) than Republicans who were not white evangelicals (62 percent). Moreover, white evangelical Republicans were the most likely of any large subgroup we surveyed to say they were refusing to get vaccinated (26 percent).</p>
-
-
-
-<p data-paragraph="main">That the combination of being a Republican and a white evangelical would form a particularly toxic anti-vax stew, more significant than party or religion alone, seems obvious to me, but then again, I grew up in rural Texas — I see this combination of beliefs in motion every day on Facebook, where I’m connected to many high school and college classmates.</p>
-
-
-
-<p data-paragraph="main">According to <a href="https://www.prri.org/research/2020-census-of-american-religion/" target="_blank" rel="noopener">PRRI’s 2020 religion census</a>, the county where I lived longest as a kid (Leon) is 72 percent white Christian, including 44 percent white evangelical, and <a href="https://uselectionatlas.org/RESULTS/" target="_blank" rel="noopener">election data shows</a> 87 percent of the county voted for former President Donald Trump in 2020. <a href="https://tabexternal.dshs.texas.gov/t/THD/views/COVID-19VaccineinTexasDashboard/Summary?%3Aembed=y" target="_blank" rel="noopener">Just over one-third</a> of the county’s eligible population is fully vaccinated, even though COVID-19 <a href="https://www.nytimes.com/interactive/2021/us/leon-texas-covid-cases.html" target="_blank" rel="noopener">case rates are higher than they have ever been</a>. At least three people who went to high school with me have died, while tracking statistics say at least 1 in 9 Leon County residents have been ill — almost as many as in New York City (1 in 8), one of the hardest-hit areas in the country, and well over the rate in Washington, D.C. (1 in 13), where I live now.</p>
-
-
-<p>Watch: https://abcnews.go.com/fivethirtyeight/video/covid-19-cases-rising-americans-thoughts-steps-fivethirtyeight-79188933</p>
-
-		<aside><div>
-				<p>
-									Filed under COVID-19								</p>
-			</div>
-												<div>
-														<div>
-																									<a href="https://fivethirtyeight.com/features/unvaccinated-america-in-5-charts/">
-										<img loading="lazy" alt="A photo illustration of five COVID-19 vaccine syringes" src="https://fivethirtyeight.com/wp-content/uploads/2021/08/VAX-IN-5-CHARTS-4x3-1.png?w=300" width="300" height="225" data-sizes="100vw" data-src="https://fivethirtyeight.com/wp-content/uploads/2021/08/VAX-IN-5-CHARTS-4x3-1.png?w=300" data-srcset="https://fivethirtyeight.com/wp-content/uploads/2021/08/VAX-IN-5-CHARTS-4x3-1.png?w=300 1x, https://fivethirtyeight.com/wp-content/uploads/2021/08/VAX-IN-5-CHARTS-4x3-1.png?w=600 2x"></a>
-																							</div>
-							<p>
-								<a href="https://fivethirtyeight.com/features/unvaccinated-america-in-5-charts/">
-								Unvaccinated America, In 5 Charts								</a>
-							</p>
-					</div>
-												<div>
-														<div>
-																									<a href="https://fivethirtyeight.com/features/still-unsure-about-getting-the-covid-19-vaccine-start-here/">
-										<img loading="lazy" alt="Holy Name Medical Center Administers Covid-19 Vaccine To Group 1B" src="https://fivethirtyeight.com/wp-content/uploads/2021/08/GettyImages-1230568366-4x3-1.jpg?w=300" width="300" height="225" data-sizes="100vw" data-src="https://fivethirtyeight.com/wp-content/uploads/2021/08/GettyImages-1230568366-4x3-1.jpg?w=300" data-srcset="https://fivethirtyeight.com/wp-content/uploads/2021/08/GettyImages-1230568366-4x3-1.jpg?w=300 1x, https://fivethirtyeight.com/wp-content/uploads/2021/08/GettyImages-1230568366-4x3-1.jpg?w=600 2x"></a>
-																							</div>
-							<p>
-								<a href="https://fivethirtyeight.com/features/still-unsure-about-getting-the-covid-19-vaccine-start-here/">
-								Still Unsure About Getting The COVID-19 Vaccine? Start Here.								</a>
-							</p>
-					</div>
-												<div>
-														<div>
-																									<a href="https://fivethirtyeight.com/features/why-post-pandemic-offices-could-be-whiter-and-more-male/">
-										<img loading="lazy" alt="Row of Office Cubicles" src="https://fivethirtyeight.com/wp-content/uploads/2021/08/GettyImages-78317200-4x3-1.jpg?w=300" width="300" height="225" data-sizes="100vw" data-src="https://fivethirtyeight.com/wp-content/uploads/2021/08/GettyImages-78317200-4x3-1.jpg?w=300" data-srcset="https://fivethirtyeight.com/wp-content/uploads/2021/08/GettyImages-78317200-4x3-1.jpg?w=300 1x, https://fivethirtyeight.com/wp-content/uploads/2021/08/GettyImages-78317200-4x3-1.jpg?w=600 2x"></a>
-																							</div>
-							<p>
-								<a href="https://fivethirtyeight.com/features/why-post-pandemic-offices-could-be-whiter-and-more-male/">
-								Who Wants To Return To The Office?								</a>
-							</p>
-					</div>
-												<div>
-														<div>
-																									<a href="https://fivethirtyeight.com/features/some-republicans-have-changed-their-messaging-on-the-covid-19-vaccine-is-it-too-little-too-late/">
-										<img loading="lazy" alt="House Minority Whip Steve Scalise" src="https://fivethirtyeight.com/wp-content/uploads/2021/08/GettyImages-1234110870-4x3-1.jpg?w=300" width="300" height="225" data-sizes="100vw" data-src="https://fivethirtyeight.com/wp-content/uploads/2021/08/GettyImages-1234110870-4x3-1.jpg?w=300" data-srcset="https://fivethirtyeight.com/wp-content/uploads/2021/08/GettyImages-1234110870-4x3-1.jpg?w=300 1x, https://fivethirtyeight.com/wp-content/uploads/2021/08/GettyImages-1234110870-4x3-1.jpg?w=600 2x"></a>
-																							</div>
-							<p>
-								<a href="https://fivethirtyeight.com/features/some-republicans-have-changed-their-messaging-on-the-covid-19-vaccine-is-it-too-little-too-late/">
-								Some Republicans Have Changed Their Messaging On The COVID-19 Vaccine. Is It Too Little, Too Late?								</a>
-							</p>
-					</div>
-					</aside><p data-paragraph="main">This is significant because Leon County is extremely rural, with <a href="https://www.census.gov/quickfacts/fact/table/leoncountytexas/PST045219" target="_blank" rel="noopener">less than 20,000 total residents</a>, including less than 2,000 in Buffalo, the town I lived near. For reference, <a href="https://www.publicschoolreview.com/buffalo-high-school-profile/75831" target="_blank" rel="noopener">my high school</a> has only about 260 students at any given time. If you need ICU treatment, you have to travel — there are currently <a href="https://www.nytimes.com/interactive/2021/us/leon-texas-covid-cases.html" target="_blank" rel="noopener">no hospitals with ICUs</a> in the county. </p>
-
-
-
-<p data-paragraph="main">But what is also significant about Leon County is the role religion has played in residents’ low vaccination rates even when faced with death from the coronavirus. When my classmates were hospitalized with COVID-19, there were repeated calls for prayers and proclamations that God would provide healing. When they died, those prayer requests became comments that “God called [them] home.” </p>
-
-
-
-<p data-paragraph="main">The belief that God controls everything that happens in the world is a core tenet of evangelicalism — 84 percent of white evangelicals agreed with this statement <a href="https://www.christianitytoday.com/news/2011/march/polling-evangelicals-god-causes-disasters-us-should-help.html" target="_blank" rel="noopener">in PRRI polling</a> from 2011, while far fewer nonwhite, non-evangelical Christians shared this belief. The same poll also showed that white evangelicals were more likely than any other Christian group to believe that God would punish nations for the sins of some of its citizens and that <a href="https://www.prri.org/research/few-americans-see-earthquakes-floods-and-other-natural-disasters-a-sign-from-god-2/" target="_blank" rel="noopener">natural disasters were a sign from God</a>. What’s more, other research from the Journal of Psychology and Theology has found that some evangelical Christians <a href="https://journals.sagepub.com/doi/pdf/10.1177/0091647118807187" target="_blank" rel="noopener">rationalize illnesses like cancer</a> as God’s will. </p>
-
-
-
-<p data-paragraph="main">This is why I remember friends and acquaintances in Leon County when I think about how religious beliefs influence one’s attitude toward COVID-19 and vaccination. PRRI’s <a href="https://www.prri.org/research/prri-ifyc-covid-vaccine-religion-report/" target="_blank" rel="noopener">March survey</a> found that 28 percent of white evangelical Republicans agreed that “God always rewards those who have faith with good health and will protect them from being infected with COVID-19,” compared with 23 percent of Republicans who were not white evangelicals. And that belief correlates more closely with vaccination views among white evangelical Republicans — 44 percent of those who said God would protect them from the virus also said they would refuse to get vaccinated. That number drops to 32 percent among Republicans who are not white evangelicals.</p>
-
-
-
-<p data-paragraph="main">Complicating matters further, the pandemic also fits neatly <a href="https://www.nytimes.com/2020/04/02/us/coronavirus-apocalypse-religion.html" target="_blank" rel="noopener">into “end times” thinking</a> — the belief that the end of the world and God’s ultimate judgment is coming soon. In fact, nearly two-thirds of white evangelical Republicans (64 percent) from our March survey agreed that the chaos in the country today meant the “end times” were near. Faced, then, with the belief that death and the end of the world are <a href="https://theconversation.com/what-is-heaven-97670" target="_blank" rel="noopener">a fulfillment of God’s will</a>, it becomes difficult to convince these believers that vaccines are necessary. Sixty-nine percent of white evangelical Republicans who said they refused to get vaccinated agreed that the end times were near. </p>
-
-
-<div>
-	<p>
-		<a href="https://fivethirtyeight.com/features/americans-are-in-favor-of-vaccine-mandates-but-support-is-driven-mainly-by-those-who-have-already-gotten-the-jab/?cid=_inlinerelated"><img alt="A blue-scale picture of a pair of hands holding an AstraZeneca vaccine box, set against a grid background." width="153" height="115" data-sizes="(min-width: 440px) 153px, 100vw" data-srcset="https://fivethirtyeight.com/wp-content/uploads/2021/08/0806_POLLA-4x3-1.png?w=153&amp;quality=100&amp;strip=all 153w, https://fivethirtyeight.com/wp-content/uploads/2021/08/0806_POLLA-4x3-1.png?w=306&amp;quality=100&amp;strip=all 306w, https://fivethirtyeight.com/wp-content/uploads/2021/08/0806_POLLA-4x3-1.png?w=405&amp;quality=100&amp;strip=all 405w, https://fivethirtyeight.com/wp-content/uploads/2021/08/0806_POLLA-4x3-1.png?w=810&amp;quality=100&amp;strip=all 810w"></a>
-	</p>
-	<p>
-				<strong>related:</strong>
-				Americans Are In Favor Of Vaccine Mandates. But Support Is Driven Mainly By Those Who Have Already Gotten The Jab. <a href="https://fivethirtyeight.com/features/americans-are-in-favor-of-vaccine-mandates-but-support-is-driven-mainly-by-those-who-have-already-gotten-the-jab/?cid=_inlinerelated">Read more. »</a>
-	</p>
-</div>
-
-
-
-<p data-paragraph="main">Moreover, given how many white evangelicals identify as Republican or lean Republican — about 4 in 5 per our June survey — disentangling evangelicals’ religious and political beliefs is nearly impossible. Consider how many white evangelical leaders like former Liberty University President Jerry Falwell Jr. downplayed the severity of the pandemic <a href="https://www.nbcnews.com/think/opinion/trump-s-coronavirus-quarantine-rhetoric-fuels-dangerously-politicized-pandemic-ncna1170406" target="_blank" rel="noopener">in line with Trump</a>. Falwell was <a href="https://www.nytimes.com/2020/03/27/opinion/coronavirus-trump-evangelicals.html" target="_blank" rel="noopener">hardly the only evangelical leader</a> to do this either. If anything, the pattern of <a href="https://www.cnn.com/2021/04/14/us/covid-vaccine-evangelicals/index.html" target="_blank" rel="noopener">white evangelical resistance</a> to vaccination has reached the point where some white evangelical leaders who might otherwise urge vaccination <a href="https://apnews.com/article/health-religion-coronavirus-pandemic-7a03fed8e7548797487f2b7a20161e4e" target="_blank" rel="noopener">hesitate to do so</a> because of the political climate. </p>
-
-
-
-<p data-paragraph="main">In the same survey, about 2 in 5 white evangelical Republicans (43 percent), and Republicans more broadly (41 percent), said one reason they hadn’t gotten vaccinated was that the COVID-19 pandemic had been overblown.</p>
-
-
-
-<p data-paragraph="main">It is perhaps unsurprising, then, that most white evangelical Republicans, and Republicans in general, disagreed with our question about the Golden Rule, that “because getting vaccinated against COVID-19 helps protect everyone, it is a way to live out the religious principle of loving my neighbors” (57 percent and 58 percent, respectively). This may be because for some white evangelicals and Republicans, politics and religion are inseparable — and God’s will, or their interpretation of it, controls everything.</p>
-
-
-<div>
-	<p>
-		<a href="https://t.co/g5FN1MzXjj?amp=1"><img alt="PHOTO ILLUSTRATION BY FIVETHIRTYEIGHT / GETTY IMAGES" width="153" height="115" data-sizes="(min-width: 440px) 153px, 100vw" data-srcset="https://fivethirtyeight.com/wp-content/uploads/2021/02/0219_POLLA-4x3-1.png?w=153&amp;quality=100&amp;strip=all 153w, https://fivethirtyeight.com/wp-content/uploads/2021/02/0219_POLLA-4x3-1.png?w=306&amp;quality=100&amp;strip=all 306w, https://fivethirtyeight.com/wp-content/uploads/2021/02/0219_POLLA-4x3-1.png?w=405&amp;quality=100&amp;strip=all 405w, https://fivethirtyeight.com/wp-content/uploads/2021/02/0219_POLLA-4x3-1.png?w=810&amp;quality=100&amp;strip=all 810w"></a>
-	</p>
-	<p>
-				<strong>RELATED:</strong>
-				Are You A K-12 Teacher In The U.S.? <a href="https://t.co/g5FN1MzXjj?amp=1">We want to hear what’s on your mind. »</a>
-	</p>
-</div>]]></description>
-			<pubDate>Thu, 26 Aug 2021 11:00:00 +0100</pubDate>
-			<guid isPermaLink="false">1629972902175052</guid>
 		</item>
 
 	</channel>
