@@ -3,8 +3,8 @@
 		<title>Main stream | FreshRSS</title>
 		<link>http://radon</link>
 		<description>RSS feed of Main stream | FreshRSS</description>
-		<pubDate>Mon, 13 Sep 2021 15:29:06 +0100</pubDate>
-		<lastBuildDate>Mon, 13 Sep 2021 14:29:06 GMT</lastBuildDate>
+		<pubDate>Mon, 13 Sep 2021 15:59:06 +0100</pubDate>
+		<lastBuildDate>Mon, 13 Sep 2021 14:59:06 GMT</lastBuildDate>
 		<atom:link href="http://radon/i/?a=rss" rel="self" type="application/rss+xml" />
 		<item>
 			<title>Everything You Need To Know About The California Recall Election</title>
@@ -43,6 +43,8 @@
 <p data-paragraph="main">Overall, our assessment is that Newsom is a clear favorite to prevail. While an upset wouldn’t be unprecedented, it would qualify as a historically large polling miss.</p>
 
 
+<p>Watch: https://abcnews.go.com/fivethirtyeight/video/catching-california-recall-election-start-fivethirtyeight-79943773</p>
+
 
 <p data-paragraph="main">For much of August, the recall looked like a legitimate toss-up,<a data-footnote-id="1" href="https://fivethirtyeight.com/wp-json/wp/v2/espn_verticals/398#fn-1" data-footnote-content='&lt;p&gt;&lt;p&gt;This was partly due to &lt;a href="https://www.surveyusa.com/client/PollReport.aspx?g=36cdcb0b-7cfa-4b55-8704-d1f02a9fe6e5" target="_blank" rel="noopener"&gt;one outlier poll&lt;/a&gt; from SurveyUSA that showed Californians in favor of recalling Newsom, 51 percent to 40 percent. SurveyUSA has &lt;a href="https://www.surveyusa.com/client/PollReport.aspx?g=f054d152-ceac-48dc-a422-2f22c7a00521" target="_blank" rel="noopener"&gt;since acknowledged&lt;/a&gt; that the wording of their likely-voter question “may have led some respondents opposed to the recall to misidentify themselves as being unlikely to vote.” However, even without that SurveyUSA poll, our polling average would have still shown the recall failing by fewer than 4 points as late as Aug. 21, due to &lt;a href="https://emersonpolling.reportablenews.com/pr/newsom-clings-to-lead-in-recall-while-crime-becomes-a-top-issue-for-ca-voters" target="_blank" rel="noopener"&gt;other polls&lt;/a&gt; around that time that &lt;a href="https://www.cbsnews.com/news/california-vaccinated-say-unvaccinated-add-risk-opinion-poll/" target="_blank" rel="noopener"&gt;showed a close race&lt;/a&gt;.&lt;/p&gt;
 &lt;/p&gt;'><sup>1</sup></a> but polls have since found Newsom’s lead expanding in the final few weeks. This could be thanks to the stunning amount of money that Newsom and his allies have poured into the campaign during this time: In August alone, they spent <a href="https://www.latimes.com/politics/story/2021-09-04/recall-newsom-spending-elder-cox-faulconer-kiley" target="_blank" rel="noopener">more than $36 million</a> on TV ads, digital ads, canvassing, phone banking and text banking. More broadly, it could just be that California voters are finally starting to tune into the election. Ballots were mailed to every registered voter on Aug. 16, which may have activated more voters and made the electorate <a href="https://twitter.com/williamjordann/status/1435642708417208321?s=21" target="_blank" rel="noopener">more representative</a> of California’s overall (Democratic-leaning) population. </p>
@@ -73,6 +75,17 @@
 
 
 <figure><a href="https://projects.fivethirtyeight.com/california-recall-polls/"><img loading="lazy" width="2058" height="984" src="https://fivethirtyeight.com/wp-content/uploads/2021/09/ca-2-recall-0912.jpg" alt="" data-src="https://fivethirtyeight.com/wp-content/uploads/2021/09/ca-2-recall-0912.jpg" data-srcset="https://fivethirtyeight.com/wp-content/uploads/2021/09/ca-2-recall-0912.jpg?w=700 1x, https://fivethirtyeight.com/wp-content/uploads/2021/09/ca-2-recall-0912.jpg?w=1400 2x"></a></figure><p data-paragraph="main">Now, when push comes to shove, Elder might win more than 28 percent because the pool of voters who cast a replacement vote (the second question) could be notably smaller than the recall electorate (the first question), so Elder’s vote total might represent a bigger slice of that smaller pie. That’s because many Democratic-leaning voters may skip the second question in response to <a href="https://www.latimes.com/california/story/2021-08-09/newsom-wants-voters-to-skip-the-recall-ballots-second-part-they-dont-have-to" target="_blank" rel="noopener">explicit encouragement from Newsom’s campaign</a> to vote “no” on recall and not to cast <em>any </em>vote for a replacement candidate. Additionally, there aren’t any high-profile Democrats running to attract Democratic-leaning voters, because <a href="https://www.nbcnews.com/politics/elections/california-s-recall-democrats-would-rather-not-have-backup-plan-n1268182" target="_blank" rel="noopener">the state party discouraged</a> big names from running so that Newsom’s recall would be less palatable. In a <a href="https://www.suffolk.edu/-/media/suffolk/documents/academics/research-at-suffolk/suprc/polls/other-states/2021/9_8_2021_ca_statewide_marginals_a_pdftxt.pdf" target="_blank" rel="noopener">Suffolk University poll</a> released last week, 44 percent of likely voters said they would leave the second question blank, including 61 percent of Democrats compared with only 14 percent of Republicans. As a result, Elder attracted 39 percent of the likely voters who said they would cast a replacement vote, but that worked out to only 18 percent of all likely recall voters. In 2003, there were about 4 percent fewer votes cast for the replacement candidates than on the recall question, but it seems likely the undervote will be much larger this time around.</p>
+
+
+<div>
+	<p>
+		<a href="https://fivethirtyeight.com/features/how-california-became-the-recall-capital-of-the-u-s/?cid=_inlinerelated"><img alt="A cut out illustration of California, with four voter ballot bubbles in different colors laid over it." width="153" height="115" data-sizes="(min-width: 440px) 153px, 100vw" data-srcset="https://fivethirtyeight.com/wp-content/uploads/2021/09/EASY-RECALL-4X3.png?w=153&amp;quality=100&amp;strip=all 153w, https://fivethirtyeight.com/wp-content/uploads/2021/09/EASY-RECALL-4X3.png?w=306&amp;quality=100&amp;strip=all 306w, https://fivethirtyeight.com/wp-content/uploads/2021/09/EASY-RECALL-4X3.png?w=405&amp;quality=100&amp;strip=all 405w, https://fivethirtyeight.com/wp-content/uploads/2021/09/EASY-RECALL-4X3.png?w=810&amp;quality=100&amp;strip=all 810w"></a>
+	</p>
+	<p>
+				<strong>related:</strong>
+				Why It Was So Easy To Get Gavin Newsom’s Recall On The Ballot In California <a href="https://fivethirtyeight.com/features/how-california-became-the-recall-capital-of-the-u-s/?cid=_inlinerelated">Read more. »</a>
+	</p>
+</div>
 
 
 
@@ -136,7 +149,12 @@
 
 
 
-<p data-paragraph="main"><em>Aaron Bycoffe contributed research.</em></p>]]></description>
+<p data-paragraph="main"><em>Aaron Bycoffe contributed research.</em></p>
+
+
+<p>Watch: https://abcnews.go.com/fivethirtyeight/video/911-era-political-consensus-impossible-days-79884213</p>
+
+<p>Watch: https://abcnews.go.com/fivethirtyeight/video/texas-abortion-ban-rest-country-fivethirtyeight-79824406</p>]]></description>
 			<pubDate>Mon, 13 Sep 2021 11:00:00 +0100</pubDate>
 			<guid isPermaLink="false">1631529901855875</guid>
 		</item>
