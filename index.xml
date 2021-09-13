@@ -3,9 +3,25 @@
 		<title>Main stream | FreshRSS</title>
 		<link>http://radon</link>
 		<description>RSS feed of Main stream | FreshRSS</description>
-		<pubDate>Mon, 13 Sep 2021 18:59:06 +0100</pubDate>
-		<lastBuildDate>Mon, 13 Sep 2021 17:59:06 GMT</lastBuildDate>
+		<pubDate>Mon, 13 Sep 2021 19:29:07 +0100</pubDate>
+		<lastBuildDate>Mon, 13 Sep 2021 18:29:07 GMT</lastBuildDate>
 		<atom:link href="http://radon/i/?a=rss" rel="self" type="application/rss+xml" />
+		<item>
+			<title>California Recall Election: Live Updates</title>
+			<link>https://fivethirtyeight.com/live-blog/california-recall-election-newsom/</link>
+						<dc:creator>FiveThirtyEight</dc:creator>
+			<dc:creator>FiveThirtyEight</dc:creator>
+			<category>2021 Elections</category>
+			<category>California</category>
+			<category>California Governor Recall</category>
+			<category>Election Administration</category>
+			<category>Gavin Newsom</category>
+			<category>Larry Elder</category>
+			<category>Recalls</category>
+			<description><![CDATA[]]></description>
+			<pubDate>Mon, 13 Sep 2021 18:33:00 +0100</pubDate>
+			<guid isPermaLink="false">1631556902449691</guid>
+		</item>
 		<item>
 			<title>Everything You Need To Know About The California Recall Election</title>
 			<link>https://fivethirtyeight.com/features/everything-you-need-to-know-about-the-california-recall-election/</link>
@@ -4439,108 +4455,6 @@
 </div>]]></description>
 			<pubDate>Thu, 26 Aug 2021 11:00:00 +0100</pubDate>
 			<guid isPermaLink="false">1629972902175052</guid>
-		</item>
-		<item>
-			<title>How Eric Adams Won The New York City Mayoral Primary</title>
-			<link>https://fivethirtyeight.com/features/how-eric-adams-won-the-new-york-city-mayoral-primary/</link>
-						<dc:creator>Nathaniel Rakich</dc:creator>
-			<dc:creator>Nathaniel Rakich</dc:creator>
-			<category>Eric Adams</category>
-			<category>NYC Mayoral Primary</category>
-			<description><![CDATA[<p data-paragraph="main">For two months we’ve known that Brooklyn Borough President Eric Adams won New York City’s Democratic primary for mayor with 31 percent of first-place votes (he finally achieved a majority in the ranked-choice election after <a href="https://vote.nyc/sites/default/files/pdf/election_results/2021/20210622Primary%20Election/rcv/DEM%20Mayor%20Citywide.pdf" target="_blank" rel="noopener">eight rounds</a> of instant runoffs). But for two months we haven’t known for sure exactly what his coalition looked like. </p>
-
-
-
-<p data-paragraph="main">Finally, the wait is over: 57 days after the election, the New York City Board of Elections released <a href="https://vote.nyc/page/election-results-summary" target="_blank" rel="noopener">precinct-level results</a> of the primary. And they show that Adams’s enigmatic politics found a broad coalition — but one that exists outside the city’s usual power centers. </p>
-
-
-
-<p data-paragraph="main">Adams’s politics are <a href="https://www.nytimes.com/2021/07/07/nyregion/eric-adams-mayor-nyc.html" target="_blank" rel="noopener">hard to pigeonhole</a>. (For instance, the former police officer campaigned as the <a href="https://nymag.com/intelligencer/article/eric-adams-nyc-mayor-race.html" target="_blank" rel="noopener">pro-police candidate</a>, but he had previously been an <a href="https://www.nytimes.com/2021/06/19/nyregion/eric-adams-nyc-police-mayor.html" target="_blank" rel="noopener">advocate for reform</a> within the department.) But perhaps his one unifying characteristic is his anti-elitism, sometimes to the point of grievance. He campaigned first and foremost as a <a href="https://www.nytimes.com/2021/06/26/nyregion/eric-adams-mayor.html" target="_blank" rel="noopener">crusader for New York City’s large nonwhite working class</a>, using Manhattan’s ivory tower and its “fancy candidates” as a foil. When former city Sanitation Commissioner Kathryn Garcia and businessman Andrew Yang formed a last-minute alliance with the goal of stopping Adams, he <a href="https://gothamist.com/news/adams-campaign-calls-garcia-yang-alliance-voter-suppression-on-final-day-of-early-voting" target="_blank" rel="noopener">equated it</a> to the suppression of Black and Hispanic voters.</p>
-
-
-
-<p data-paragraph="main">It looks like that branding succeeded. Adams carried most of the city’s neighborhoods outside its cosmopolitan core. </p>
-
-
-
-<figure><div>
-<div><iframe title="How Adams won New York City" aria-label="map" src="https://datawrapper.dwcdn.net/CFQpb/3/" scrolling="no" frameborder="0" height="695" sandbox="allow-scripts allow-same-origin"></iframe></div>
-</div></figure><p data-paragraph="main">The Adams coalition comes into especially sharp focus if you return to our <a href="https://fivethirtyeight.com/features/the-5-political-boroughs-of-new-york-city/" target="_blank" rel="noopener">“political boroughs” of New York City</a>, which FiveThirtyEight devised back in June based on the results of Democratic primaries in the city in 2016 and 2018. Going just off voters’ first choices, Adams won three of the five political boroughs, albeit with different levels of support. </p>
-
-
-<section><header><h5>Adams won three of NYC’s ‘political boroughs’</h5>
-<p>Official first-place votes in the 2021 Democratic primary for New York City mayor by five custom-drawn political regions of the city</p>
-</header><table data-carpenter-slug="rakich-wolfe.nyc-results-3.1"><thead><tr><th colspan="1">Political Borough</th>
-<th colspan="1">Adams</th>
-<th colspan="1">Wiley</th>
-<th colspan="1">Garcia</th>
-<th colspan="1">Yang</th>
-</tr></thead><tbody><tr><td>Elite Circles</td>
-<td data-suffix="%" data-suffixpadding="1.1em">15%</td>
-<td data-suffix="%" data-suffixpadding="1.1em">27%</td>
-<td data-suffix="%" data-suffixpadding="1.1em">32%</td>
-<td data-suffix="%" data-suffixpadding="1.1em">11%</td>
-</tr><tr><td>True-Blue Bronx</td>
-<td>47</td>
-<td>16</td>
-<td>8</td>
-<td>10</td>
-</tr><tr><td>Black Bloc</td>
-<td>63</td>
-<td>15</td>
-<td>4</td>
-<td>6</td>
-</tr><tr><td>Lands of Contradiction</td>
-<td>25</td>
-<td>12</td>
-<td>18</td>
-<td>27</td>
-</tr><tr><td>Crossroads</td>
-<td>37</td>
-<td>25</td>
-<td>14</td>
-<td>8</td>
-</tr><tr><td>Citywide</td>
-<td>31</td>
-<td>21</td>
-<td>20</td>
-<td>12</td>
-</tr></tbody></table><footer><p>Source: New York City Board of Elections</p>
-</footer></section><p data-paragraph="main">Let’s start with Adams’s strongest political borough: the <strong>Black Bloc</strong>, a 63 percent non-Hispanic Black and 23 percent college-educated swath of Brooklyn and Queens. This was Adams’s <a href="https://www.brooklyn-usa.org/eric-adams-bio/" target="_blank" rel="noopener">home turf</a> (he was born in the Brooklyn neighborhood of Brownsville and grew up in the Queens neighborhood of South Jamaica), and unsurprisingly, he dominated here, winning 63 percent of first-place votes. Within the borough, he tended to do better in state Assembly districts with larger Black populations and lower median household incomes, although the correlation was stronger with race than with income.<a data-footnote-id="22" href="https://fivethirtyeight.com/wp-json/wp/v2/espn_verticals/398#fn-22" data-footnote-content="&lt;p&gt;&lt;p&gt;R = 0.91 vs. R = -0.71.&lt;/p&gt;
-&lt;/p&gt;"><sup>22</sup></a> </p>
-
-
-
-<p data-paragraph="main">Adams also excelled in the Black neighborhoods of the <strong>Crossroads</strong>, a racially diverse political borough that covers zones of transition between the other four. He got at least 45 percent of first-place votes in each of three gentrifying but still majority-Black Assembly districts <a href="https://www.assembly.state.ny.us/mem/?ad=56&amp;sh=map" target="_blank" rel="noopener">east of</a> <a href="https://nyassembly.gov/mem/Diana-C-Richardson/map/" target="_blank" rel="noopener">Brooklyn’s</a> <a href="https://nyassembly.gov/mem/Rodneyse-Bichotte-Hermelyn/map/" target="_blank" rel="noopener">Prospect Park</a>. But parts of the Crossroads with smaller Black populations were more Adams-skeptical, such as two <a href="https://www.assembly.state.ny.us/mem/?ad=34&amp;sh=map" target="_blank" rel="noopener">Queens</a> <a href="https://nyassembly.gov/mem/Catalina-Cruz/map/" target="_blank" rel="noopener">districts</a> where he received fewer than 20 percent of initial votes. Overall, his share of first-place votes in the Crossroads borough (37 percent) was fairly close to its Black population share (30 percent).</p>
-
-
-<p>Watch: https://abcnews.go.com/fivethirtyeight/video/cuomo-resigning-now-fivethirtyeight-politics-podcast-79389991</p>
-
-
-<p data-paragraph="main">But it wasn’t just in predominantly Black areas that Adams ran up the score. He was the first choice of 47 percent of voters in the <strong>True-Blue Bronx</strong>, which does have a sizable non-Hispanic Black population (29 percent) but is mostly Hispanic (57 percent). While there was still a strong correlation between Adams support and the Black population in this political borough (e.g., he performed the strongest in the heavily Black <a href="https://nyassembly.gov/mem/Carl-E-Heastie/map/" target="_blank" rel="noopener">northeast Bronx</a>), he must also have won significant numbers of Hispanic voters in districts like <a href="https://nyassembly.gov/mem/Jos%C3%A9-Rivera/map/" target="_blank" rel="noopener">Belmont and Fordham Manor’s</a>, where the population is 73 percent Hispanic and 16 percent non-Hispanic Black but Adams got 42 percent of the vote. One potential reason: Like the Black Bloc, the True-Blue Bronx is heavily working class (18 percent of residents age 25 or older have at least a bachelor’s degree).</p>
-
-
-
-<p data-paragraph="main">Similarly, New York City’s most conservative political borough, the <strong>Lands of Contradiction</strong>, is 46 percent non-Hispanic white, 26 percent Asian American, 19 percent Hispanic and only 5 percent non-Hispanic Black, but Adams still received 25 percent of first-place votes there. He was especially strong in plurality-white Assembly districts like <a href="https://nyassembly.gov/mem/Stacey-Pheffer-Amato/map/" target="_blank" rel="noopener">Howard Beach’s</a> (40 percent) and <a href="https://nyassembly.gov/mem/Steven-Cymbrowitz/map/" target="_blank" rel="noopener">Homecrest’s</a> (41 percent). However, Yang outran Adams in the political borough’s many plurality-Asian American neighborhoods (e.g., <a href="https://nyassembly.gov/mem/Ron-Kim/map/" target="_blank" rel="noopener">Flushing</a>), edging out Adams for first place in the Lands of Contradiction overall with 27 percent. Of note, both Yang (46 percent) and Adams (38 percent) excelled in the Assembly district that covers <a href="https://nyassembly.gov/mem/Simcha-Eichenstein/map/" target="_blank" rel="noopener">Borough Park and Midwood</a>, home of several conservative Orthodox Jewish communities.</p>
-
-
-
-<p data-paragraph="main">By contrast, Adams finished third in the predominantly white, college-educated <strong>Elite Circles</strong>, with just 15 percent of first-place votes. Instead, the borough was split on whom it wanted to be mayor: 32 percent of voters there ranked Garcia first, while 27 percent opted for attorney Maya Wiley. But there was a clear difference between the areas that backed Garcia and the areas that backed Wiley. Garcia’s support was strongly correlated with median household income, and she topped 40 percent in each of the city’s five wealthiest Assembly districts — areas such as <a href="https://assembly.state.ny.us/mem/Dan-Quart/map/" target="_blank" rel="noopener">Midtown Manhattan</a>, the <a href="https://www.assembly.state.ny.us/mem/?ad=067&amp;sh=map" target="_blank" rel="noopener">Upper West</a> and <a href="https://nyassembly.gov/mem/Rebecca-A-Seawright/map/" target="_blank" rel="noopener">East Sides</a> and <a href="https://nyassembly.gov/mem/Jo-Anne-Simon/map/" target="_blank" rel="noopener">downtown Brooklyn</a>. </p>
-
-
-
-<p data-paragraph="main">Meanwhile, Wiley (the race’s premier progressive candidate) won younger, more racially diverse parts of the Elite Circles in Brooklyn and Queens — doing especially well (34 percent or more) in Assembly districts containing <a href="https://www.assembly.state.ny.us/mem/?ad=57&amp;sh=map" target="_blank" rel="noopener">Prospect Heights</a>, <a href="https://nyassembly.gov/mem/Maritza-Davila/map/" target="_blank" rel="noopener">Williamsburg</a>, <a href="https://assembly.state.ny.us/mem/Emily-Gallagher/map/" target="_blank" rel="noopener">Greenpoint</a>, <a href="https://www.assembly.state.ny.us/mem/?ad=36&amp;sh=map" target="_blank" rel="noopener">Astoria and Ditmars Steinway</a>. Perhaps it’s no surprise, then, that she also did well in gentrifying areas of the Crossroads, such as <a href="https://www.assembly.state.ny.us/mem/?ad=56&amp;sh=map" target="_blank" rel="noopener">Crown</a> <a href="https://nyassembly.gov/mem/Diana-C-Richardson/map/" target="_blank" rel="noopener">Heights</a> and <a href="https://nyassembly.gov/mem/Inez-E-Dickens/map" target="_blank" rel="noopener">Harlem</a>, where she may have paired the support of white progressives with some Black and Hispanic support. (Overall in the Crossroads, Wiley received 25 percent of first-place votes, almost as many as she got in the Elite Circles.)</p>
-
-
-
-<p data-paragraph="main">All of this means that Adams’s path to the nomination circumvented the city’s predominantly white power brokers and cultural trendsetters. Will Adams’s non-elite power base change what he attempts to do in office? On one hand, the outer boroughs and nonwhite New Yorkers may get more attention and appreciation from City Hall. On the other, Adams may struggle to establish productive relationships with the Manhattan-based media, corporations and an <a href="https://www.nytimes.com/2021/06/22/nyregion/new-york-city-council.html" target="_blank" rel="noopener">increasingly progressive</a> New York City Council. (Such adversarial relationships crippled outgoing Mayor Bill de Blasio’s administration, and he assembled a <a href="https://www.nytimes.com/projects/elections/2013/nyc-primary/mayor/map.html" target="_blank" rel="noopener">pretty broad coalition</a> in his initial 2013 primary win.) If the 2021 campaign was any indication, it’s going to be an interesting next four years in New York City.</p>
-
-
-<p>Watch: https://abcnews.go.com/fivethirtyeight/video/bidens-approval-rating-fallen-fivethirtyeight-politics-podcast-79388894</p>
-
-<p>Watch: https://abcnews.go.com/ThisWeek/video/buy-2020-census-good-news-democrats-nate-silver-79467274</p>]]></description>
-			<pubDate>Wed, 25 Aug 2021 11:00:00 +0100</pubDate>
-			<guid isPermaLink="false">1629887403077016</guid>
 		</item>
 
 	</channel>
