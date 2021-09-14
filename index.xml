@@ -3,9 +3,37 @@
 		<title>Main stream | FreshRSS</title>
 		<link>http://radon</link>
 		<description>RSS feed of Main stream | FreshRSS</description>
-		<pubDate>Tue, 14 Sep 2021 16:29:06 +0100</pubDate>
-		<lastBuildDate>Tue, 14 Sep 2021 15:29:06 GMT</lastBuildDate>
+		<pubDate>Tue, 14 Sep 2021 16:59:07 +0100</pubDate>
+		<lastBuildDate>Tue, 14 Sep 2021 15:59:07 GMT</lastBuildDate>
 		<atom:link href="http://radon/i/?a=rss" rel="self" type="application/rss+xml" />
+		<item>
+			<title>Does The Census Not Adequately Capture Your Racial Identity? We Want To Hear Your Story.</title>
+			<link>https://fivethirtyeight.com/features/does-the-census-not-adequately-capture-your-racial-identity-we-want-to-hear-your-story/</link>
+						<dc:creator>Alex Samuels</dc:creator>
+			<dc:creator>Alex Samuels and Jasmine Mithani</dc:creator>
+			<category>2020 Census</category>
+			<category>Census Data</category>
+			<category>Identity</category>
+			<category>Multiracial</category>
+			<category>Multiracial Americans</category>
+			<category>Racial Identity</category>
+			<description><![CDATA[<p data-paragraph="main">The U.S. Census Bureau released a surprising finding in their August announcement of 2020 census results: The number of Americans who identify as multiracial <a href="https://www.census.gov/library/stories/2021/08/improved-race-ethnicity-measures-reveal-united-states-population-much-more-multiracial.html" target="_blank" rel="noopener">jumped 276 percent over the last decade</a>. Then again, depending on how you count, the share of Americans that identify as white <a href="https://www.npr.org/2021/08/22/1029609786/2020-census-data-results-white-population-shrinking-decline-non-hispanic-race" target="_blank" rel="noopener">either rose 2 percent — or dropped 9 percent</a>.</p>
+
+
+
+<p data-paragraph="main">Racial identity is not always easily captured by checkboxes. That’s why we’re hoping to talk with Americans who either feel like the census doesn’t wholly capture their racial identity or identify as a member of one or more racial and ethnic groups. To be sure, <a href="https://www.census.gov/newsroom/blogs/random-samplings/2021/08/measuring-racial-ethnic-diversity-2020-census.html" target="_blank" rel="noopener">that can mean a lot of different things</a>, as each person has a unique background and culture that makes his or her story special, but we are particularly interested in talking to people who feel their racial identity is disconnected from what they must put on the census, people who have <a href="https://www.pewresearch.org/fact-tank/2014/05/05/millions-of-americans-changed-their-racial-or-ethnic-identity-from-one-census-to-the-next/" target="_blank" rel="noopener">changed their racial or ethnic identity</a> over the last decade, and multiracial people with some white ancestry.</p>
+
+
+
+<p data-paragraph="main">Here are some examples of experiences we’re interested in learning about: Are you Arab American or Iranian American, but <a href="https://www.latimes.com/projects/la-me-census-middle-east-north-africa-race/" target="_blank" rel="noopener">compelled to check “white”</a> on the census? Or were you born to parents who identify with different racial groups? Have you <a href="https://www.pewresearch.org/fact-tank/2014/05/05/millions-of-americans-changed-their-racial-or-ethnic-identity-from-one-census-to-the-next/" target="_blank" rel="noopener">changed your racial or ethnic identity</a> over the last decade? And finally, how does the census still fall short of accurately categorizing how you identify? We’re interested in unpacking this and how America’s racial categories have changed over time — especially as to what that means for our growing population. So we want to hear from you. Fill out the survey below, and tell us a bit about yourself, your family and how you would categorize and describe your racial identity. Sharing your thoughts with us will help guide our reporting on changing racial demographics in America. We may also reach out with follow up questions to learn more about how you think about racial identity. We look forward to hearing from you</p>
+
+
+<div>
+<iframe loading="lazy" src="https://docs.google.com/forms/d/e/1FAIpQLSc1DNDallj-1xsWwt2dtlgAzdg3p7xk9XTmMqqLgOM41dSk_g/viewform?embedded=true" width="640" height="5112" frameborder="0" marginheight="0" marginwidth="0" sandbox="allow-scripts allow-same-origin">Loading…</iframe>
+</div>]]></description>
+			<pubDate>Tue, 14 Sep 2021 15:17:00 +0100</pubDate>
+			<guid isPermaLink="false">1631633402152004</guid>
+		</item>
 		<item>
 			<title>Politics Podcast: Will Biden’s Vaccine Mandates Work?</title>
 			<link>https://fivethirtyeight.com/features/politics-podcast-will-bidens-vaccine-mandates-work/</link>
@@ -4277,111 +4305,6 @@
 <p>Watch: https://abcnews.go.com/ThisWeek/video/buy-2020-census-good-news-democrats-nate-silver-79467274</p>]]></description>
 			<pubDate>Fri, 27 Aug 2021 11:00:00 +0100</pubDate>
 			<guid isPermaLink="false">1630062904069953</guid>
-		</item>
-		<item>
-			<title>Why Candidates With Little Hope Of Winning Are Raising More Money Than Ever</title>
-			<link>https://fivethirtyeight.com/features/why-long-shot-candidates-are-raising-more-money-than-ever/</link>
-						<dc:creator>Geoffrey Skelley</dc:creator>
-			<dc:creator>Geoffrey Skelley</dc:creator>
-			<category>2020 Election</category>
-			<category>2020 House Elections</category>
-			<category>2020 Senate Elections</category>
-			<category>2022 Election</category>
-			<category>2022 House Elections</category>
-			<category>Congress</category>
-			<description><![CDATA[<p data-paragraph="main">If you had to guess which House candidate has raised the most money so far, you might guess that person was a well-heeled incumbent or someone running in a competitive district. After all, <a href="https://www.opensecrets.org/elections-overview/incumbent-advantage" target="_blank" rel="noopener">incumbents usually have a lot of cash on hand</a> and <a href="http://goodliffe.byu.edu/papers/primgen.pdf" target="_blank" rel="noopener">competitive races tend to attract more money</a> because they are more likely to determine which party wins power.</p>
-
-
-
-<p data-paragraph="main">Yet, among non-incumbent candidates running for the House in 2022, the top fundraiser is a <a href="https://www.ajc.com/politics/politics-blog/democratic-veteran-challenges-twisted-qanon-promoting-greene/2JF4KV2RPBH6XETYMVWLOODFXA/" target="_blank" rel="noopener">Democrat with no political experience running in a deep-red seat</a>: Democrat Marcus Flowers <a href="https://www.fec.gov/data/elections/house/GA/14/2022/" target="_blank" rel="noopener">has raised over $2 million</a> (as of June 30) in his bid to unseat controversial Republican Rep. Marjorie Taylor Greene in Georgia’s 14th Congressional District, which is a whopping 55 percentage points more Republican than the country as a whole, according to <a href="https://fivethirtyeight.com/features/how-red-or-blue-is-your-state-your-congressional-district/" target="_blank" rel="noopener">FiveThirtyEight’s partisan lean metric</a>.<a data-footnote-id="19" href="https://fivethirtyeight.com/wp-json/wp/v2/espn_verticals/398#fn-19" data-footnote-content="&lt;p&gt;&lt;p&gt;Partisan lean is the average margin difference between how a state or district votes and how the country votes overall. This version of partisan lean, meant to be used for congressional and gubernatorial elections, is calculated as 50 percent the state or district’s lean relative to the nation in the most recent presidential election, 25 percent its relative lean in the second-most-recent presidential election and 25 percent a custom state-legislative lean based on the statewide popular vote in the last four state House elections.&lt;/p&gt;
-&lt;/p&gt;"><sup>19</sup></a> </p>
-
-
-
-<p data-paragraph="main">Flowers’s windfall might seem strange given the long odds he — or any Democrat — faces in defeating Greene, but it also reflects a growing trend wherein candidates with little hope of winning still achieve eye-popping fundraising hauls. Based on political science research and an analysis of congressional fundraising, it’s clear that these candidates are the beneficiaries of two larger trends in American politics: a <a href="https://fivethirtyeight.com/features/how-hatred-negative-partisanship-came-to-dominate-american-politics/" target="_blank" rel="noopener">strong antipathy for the opposing party</a> and the ease with which someone can now <a href="https://fivethirtyeight.com/features/how-actblue-is-trying-to-turn-small-donations-into-a-blue-wave/" target="_blank" rel="noopener">donate to a campaign</a> on <a href="https://www.opensecrets.org/news/2021/08/actblue-outraises-winred-gop-catching-up/" target="_blank" rel="noopener">the internet</a>. And together, these forces can help long-shot candidates bring in huge sums — whether they are no-name candidates or well-qualified contenders.</p>
-
-
-
-<h2><strong>Long odds, but lots of cash</strong></h2>
-
-
-
-<p data-paragraph="main">In 2020, long-shot candidates showed just how much they could fundraise by running against a loathed opponent and/or by going viral online. For instance, despite never having held elected office or run in a high-profile campaign, six Republican challengers raised at least $2 million in House races they then lost by anywhere from 20 to 45 points. Raising <a href="https://www.minnpost.com/national/2020/12/lacy-johnson-had-almost-no-chance-of-defeating-rep-ilhan-omar-he-still-raised-more-money-than-any-other-congressional-candidate-in-minnesota/" target="_blank" rel="noopener">mostly from individual donors</a>, Republican challenger Lacy Johnson <a href="https://www.fec.gov/data/elections/house/MN/05/2020/" target="_blank" rel="noopener">brought in the most</a>, $12.2 million, running against Minnesota Rep. Ilhan Omar. Other Republican challengers raised large sums as well: <a href="https://www.fec.gov/data/elections/house/FL/21/2020/" target="_blank" rel="noopener">John Cummings raised $11.2 million</a> against New York Rep. Alexandria Ocasio-Cortez, <a href="https://www.fec.gov/data/elections/house/CA/43/2020/" target="_blank" rel="noopener">Joe Collins raised $10.6 million</a> against California Rep. Maxine Waters, <a href="https://www.fec.gov/data/elections/house/MD/07/2020/" target="_blank" rel="noopener">Kim Klacik raised $8.3 million</a> against Maryland Rep. Kweisi Mfume,<a data-footnote-id="20" href="https://fivethirtyeight.com/wp-json/wp/v2/espn_verticals/398#fn-20" data-footnote-content='&lt;p&gt;&lt;p&gt;&lt;a href="https://www.wypr.org/wypr-news/2020-04-28/democrat-kweisi-mfume-wins-race-to-replace-the-late-elijah-cummings" target="_blank" rel="noopener"&gt;Klacik first ran in a special election&lt;/a&gt; against Mfume in April 2020, to succeed the late Rep. Elijah Cummings. Mfume won that race, but Klacik was also the GOP nominee in that November’s general election against Mfume. Klacik &lt;a href="https://www.fec.gov/data/elections/house/MD/07/2020/" target="_blank" rel="noopener"&gt;raised $8.3 million for the entire cycle&lt;/a&gt;, with at least $8 million of her contributions coming &lt;em&gt;after&lt;/em&gt; the special election.&lt;/p&gt;
-&lt;/p&gt;'><sup>20</sup></a> <a href="https://www.fec.gov/data/elections/house/CA/28/2020/" target="_blank" rel="noopener">Eric Early raised $4.1 million</a> against California Rep. Adam Schiff and <a href="https://www.fec.gov/data/elections/house/FL/21/2020/" target="_blank" rel="noopener">Laura Loomer raised $2.3 million</a> against Florida Rep. Lois Frankel. And as the chart below shows, those fundraising numbers are truly staggering for just how much they differed from those of Republican nominees in other very Democratic-leaning House seats.</p>
-
-
-
-<figure><div>
-<div><iframe title="A few long-shot Republicans raised millions in 2020" aria-label="chart" src="https://datawrapper.dwcdn.net/Tqr45/6/" scrolling="no" frameborder="0" height="700" sandbox="allow-scripts allow-same-origin"></iframe></div>
-</div></figure><p data-paragraph="main">In at least four of these races, negative partisanship seems to have been the main motivation for the gobs of money raised. As members of the so-called “<a href="https://www.vox.com/2019/7/17/20696474/squad-congresswomen-trump-pressley-aoc-omar-tlaib" target="_blank" rel="noopener">Squad</a>,” Ocasio-Cortez and Omar have become <a href="https://www.nytimes.com/2019/07/27/us/politics/ocasio-cortez-republicans.html" target="_blank" rel="noopener">high-profile targets of derision</a> in conservative circles, while Waters is also <a href="https://www.axios.com/derek-chauvin-trial-maxine-waters-7f122d0b-6826-4c7d-b8ec-6288d31964a0.html" target="_blank" rel="noopener">loathed</a> by conservatives and Schiff earned infamy among conservatives after <a href="https://www.cnn.com/2020/01/22/politics/adam-schiff-senate-impeachment-trial-2020/index.html" target="_blank" rel="noopener">leading Democrats’ impeachment efforts</a> in the House. Meanwhile, the other two campaigns seem to have hinged more on gaining traction online. Mfume, for instance, is not that well-known nationally, but Klacik’s <a href="https://www.baltimoresun.com/politics/elections/bs-md-pol-klacik-fundraising-20201016-g4td5mmbkjhpdpgooywx4wtmgq-story.html" target="_blank" rel="noopener">campaign still went viral</a> after then-President Donald Trump retweeted her campaign ad in August 2020; the ad showed her marching through a dilapidated area of Baltimore, and it helped her <a href="https://docquery.fec.gov/cgi-bin/forms/C00726117/1515670/" target="_blank" rel="noopener">raise $6.5 million</a> from July through September that year — the largest haul in a single reporting period by any of these four candidates. Frankel also isn’t a high-profile Democrat, but Loomer was still able to bring in a sizable fundrasing haul thanks to her <a href="https://www.thedailybeast.com/laura-loomers-nonsensical-lawsuit-against-cair-killed-by-judge" target="_blank" rel="noopener">large online presence</a> as a vocal promoter of <a href="https://www.vox.com/policy-and-politics/2020/8/19/21375159/laura-loomer-congress-republican-florida-trump-explainer" target="_blank" rel="noopener">right-wing conspiracy theories and anti-Muslim rhetoric</a>.</p>
-
-
-
-<p data-paragraph="main">These six long-shot Republican campaigns are outliers for the amount of money they raised. For comparison’s sake, these candidates raised a total of nearly $49 million, compared to a median fundraising haul of about $54,000 by GOP nominees in districts that were 15 points or more Democratic. But <a href="https://politicalscience.byu.edu/directory/jay-goodliffe" target="_blank" rel="noopener">Jay Goodliffe</a>, a political scientist at Brigham Young University <a href="https://www.cambridge.org/core/books/who-donates-in-campaigns/3F136D6FF1AEDBECB6D34CAF2C4C8083" target="_blank" rel="noopener">who studies campaign donors</a>, told me that the environment to raise vast sums of money in noncompetitive races has only improved in recent years. For one thing, the internet has made it much simpler to send candidates money. And on top of that, many small donors now contribute as a way of expressing their political preferences, not because they are being strategic or expect to “get something” from their donation. “You're not expecting to affect the election with your $100 donation,” said Goodliffe. “You may not even be expecting to be able to call up that person and ask to have a meeting with them. You're just donating because you feel good about that.”</p>
-
-
-<p>Watch: https://abcnews.go.com/ThisWeek/video/buy-2020-census-good-news-democrats-nate-silver-79467274</p>
-
-
-<p data-paragraph="main">And long-shot Republicans aren’t the only ones benefiting from this phenomenon. Although we saw more big hauls on the GOP side in 2020 House races, Democrat Phil Ehr <a href="https://www.fec.gov/data/candidate/H8FL01107/?cycle=2020&amp;election_full=true" target="_blank" rel="noopener">also brought in</a> $2 million to challenge Florida Rep. Matt Gaetz, whose district was R+43. Gaetz, of course, <a href="https://www.nytimes.com/2019/03/30/us/politics/matt-gaetz-trump.html" target="_blank" rel="noopener">has attracted scorn from Democrats</a> given his vocal support for Trump, even before his recent scandal <a href="https://www.nytimes.com/2021/03/30/us/politics/matt-gaetz-sex-trafficking-investigation.html" target="_blank" rel="noopener">over alleged sex trafficking</a>, but Ehr still lost by about 31 points. And as the 2022 election cycle ramps up, at least one Democrat -- the aforementioned Flowers -- <a href="https://www.newyorker.com/magazine/2021/06/14/a-would-be-opponent-crashes-a-marjorie-taylor-greene-rally" target="_blank" rel="noopener">has already launched a long-shot bid</a> fueled by disdain of the other party.</p>
-
-
-
-<h2><strong>High-quality candidates can go to the bank, too</strong></h2>
-
-
-
-<p data-paragraph="main">The same forces at play with these lesser-known, long-shot House candidates also apply to higher-profile contenders with more <a href="http://ces.iga.ucdavis.edu/mwpsa99.pdf" target="_blank" rel="noopener">traditional markers of candidate quality</a>, such as past political service or elected experience. Arguably no recent candidate better exemplifies this than Democrat <a href="https://fivethirtyeight.com/features/the-democrats-have-a-candidate-in-kentucky-but-can-she-beat-mitch-mcconnell/" target="_blank" rel="noopener">Amy McGrath</a>, who challenged then-Senate Majority Leader Mitch McConnell of Kenutcky in the state’s 2020 Senate race. McGrath had only <a href="https://www.nytimes.com/elections/results/kentucky-house-district-6" target="_blank" rel="noopener">narrowly lost</a> her high-profile 2018 House race, and in her 2020 Senate bid, <a href="https://www.fec.gov/data/candidate/S0KY00339/?cycle=2020&amp;election_full=true" target="_blank" rel="noopener">she raised $96.3 million</a> — more than <a href="https://www.opensecrets.org/elections-overview/fundraising-totals" target="_blank" rel="noopener">all but six Senate contenders</a> from either party. But despite her credentials as a former fighter pilot and much-ballyhooed candidate in a competitive 2018 House race, McGrath still <a href="https://uselectionatlas.org/RESULTS/state.php?year=2020&amp;fips=21&amp;f=0&amp;off=3&amp;elect=0&amp;class=2" target="_blank" rel="noopener">lost by nearly 20 points</a> to McConnell in the deep-red state. </p>
-
-
-
-<p data-paragraph="main">In other words, “<a href="https://www.theatlantic.com/ideas/archive/2020/11/folly-just-throwing-money-political-candidates/617074/" target="_blank" rel="noopener">rage-donating</a>” isn’t limited to just outlandish, viral candidates who don’t really stand a chance. It can also play a big role in high-profile and potentially competitive races like McGrath’s, as one reason she managed to bring in so much money is simple: <a href="https://docs.cdn.yougov.com/0v9p6tn6ur/econTabReport.pdf" target="_blank" rel="noopener">Democrats <em>really</em> dislike McConnell</a>. “McConnell represents the Senate Republicans and perhaps the Republican Party,” said Goodliffe, and he told me that’s significant because a candidate’s opponent increasingly can be what motivates someone to contribute money to a campaign. Another example of this phenomenon in 2020 was contributions to the Senate campaign of Jaime Harrison, a former chair of the South Carolina Democratic Party. On the one hand, Harrison’s race against Sen. Lindsey Graham was more competitive than McGrath’s, so Democratic donors might have thought it was more strategic to donate to his campaign, but on the other hand, the incredible amount of money he brought in -- <a href="https://www.fec.gov/data/elections/senate/SC/2020/" target="_blank" rel="noopener">$132.7 million</a> -- has to reflect, in part, just <a href="https://www.nytimes.com/2020/10/11/us/politics/jaime-harrison-lindsey-graham-south-carolina.html" target="_blank" rel="noopener">how infuriated Democrats were with Graham</a> given his support for Trump and <a href="https://www.nytimes.com/2020/10/15/us/politics/lindsey-graham-barrett-confirmation.html" target="_blank" rel="noopener">the role he played in the Senate confirmation of Amy Coney Barrett</a> to the Supreme Court <a href="https://www.npr.org/2020/10/26/927640619/senate-confirms-amy-coney-barrett-to-the-supreme-court" target="_blank" rel="noopener">right before the election</a>. Harrison didn’t lose as badly as McGrath, but he still lost to Graham <a href="https://uselectionatlas.org/RESULTS/state.php?year=2020&amp;fips=45&amp;f=0&amp;off=3&amp;elect=0&amp;class=2" target="_blank" rel="noopener">by 10 points</a>. </p>
-
-
-<div>
-	<p>
-		<a href="https://fivethirtyeight.com/features/can-democrats-move-forward-a-voting-rights-bill-by-making-a-moral-case-for-it/?cid=_inlinerelated"><img alt="A shot of a person’s hands holding a sign that reads “Pass the For the People Act” with a picture of John Lewis on the sign." width="153" height="115" data-sizes="(min-width: 440px) 153px, 100vw" data-srcset="https://fivethirtyeight.com/wp-content/uploads/2021/08/GettyImages-1329315638-4x3-1.jpg?w=153&amp;quality=100&amp;strip=all 153w, https://fivethirtyeight.com/wp-content/uploads/2021/08/GettyImages-1329315638-4x3-1.jpg?w=306&amp;quality=100&amp;strip=all 306w, https://fivethirtyeight.com/wp-content/uploads/2021/08/GettyImages-1329315638-4x3-1.jpg?w=405&amp;quality=100&amp;strip=all 405w, https://fivethirtyeight.com/wp-content/uploads/2021/08/GettyImages-1329315638-4x3-1.jpg?w=810&amp;quality=100&amp;strip=all 810w"></a>
-	</p>
-	<p>
-				<strong>related:</strong>
-				Can Democrats Move Forward A Voting Rights Bill By Making A Moral Case For It? <a href="https://fivethirtyeight.com/features/can-democrats-move-forward-a-voting-rights-bill-by-making-a-moral-case-for-it/?cid=_inlinerelated">Read more. »</a>
-	</p>
-</div>
-
-
-
-<p data-paragraph="main">Looking ahead to the 2022 election, one parallel in this category of candidates is Democratic state Sen. Kerry Donovan’s 2022 <a href="https://www.cpr.org/2021/04/01/lauren-boebert-kerry-donovan-campaign-fundraising-2022-elections/" target="_blank" rel="noopener">House campaign</a> in Colorado against GOP Rep. Lauren Boebert, who, like Greene, is also the <a href="https://www.politico.com/newsletters/huddle/2021/04/01/scoop-inside-dems-challenge-to-take-down-lauren-boebert-492324" target="_blank" rel="noopener">subject of much Democratic ire</a>. As a state legislator, Donovan checks the high-quality candidate box, as her current position <a href="https://www.stephenoconnell.org/files/McOC_LegislativeCareers.pdf" target="_blank" rel="noopener">has been one of the more successful paths</a> to winning a seat in the House. But unless <a href="https://projects.fivethirtyeight.com/redistricting-2022-maps/" target="_blank" rel="noopener">redistricting</a> produces a friendlier district than the current R+12 seat that Boebert occupies, it will be hard for Donovan to unseat Boebert. (Moreover, Colorado’s independent redistricting commission’s <a href="https://projects.fivethirtyeight.com/redistricting-2022-maps/colorado/preliminary/" target="_blank" rel="noopener">first map proposal actually made the district slightly redder</a>.) That said, given Boebert’s unpopularity among Democrats nationally, it’s not surprising that Donovan’s campaign has already attracted $1.2 million, making Donovan’s haul the third-highest total raised by a non-incumbent House candidate this cycle.</p>
-
-
-
-<h2><strong>What this means for campaigns and candidates</strong></h2>
-
-
-
-<p data-paragraph="main">Making a fundraising splash is always a priority for campaigns, but these recent campaigns provide a roadmap for how even long-shot candidates can get there. Klacik and Flowers, for instance, produced an army of small-dollar donors despite the long-odds of their respective campaigns. Take Flowers: 90 percent of <a href="https://www.fec.gov/data/candidate/H2GA14044/?cycle=2022&amp;election_full=true" target="_blank" rel="noopener">the money he’s raised</a> has come from donors giving no more than $200. To put that in perspective, the <a href="https://www.opensecrets.org/elections-overview/large-vs-small-donations?cycle=2020&amp;type=M" target="_blank" rel="noopener">highest share of small-dollar donors for any House incumbent in 2020</a> was about 80 percent, which went to Ocasio-Cortez, <a href="https://www.latimes.com/politics/la-na-pol-viral-videos-20180718-story.html" target="_blank" rel="noopener">who went viral</a> in 2018 when <a href="https://www.nytimes.com/2018/06/26/nyregion/joseph-crowley-ocasio-cortez-democratic-primary.html" target="_blank" rel="noopener">she first ran and defeated</a> Rep. Joe Crowley, a 10-term incumbent, in the Democratic primary.</p>
-
-
-
-<p data-paragraph="main">It’s impossible to know when a long-shot candidate’s ad might hit a nerve or get a retweet from a president, but <a href="https://www.theverge.com/2020/5/4/21244667/election-candidates-zoom-campaign-social-media-politicians-rally" target="_blank" rel="noopener">the payoff can be huge</a>, which is one reason we might see more campaigns like this. “It’s so unpredictable, right?” said <a href="https://www.opensecrets.org/about/staff.php" target="_blank" rel="noopener">Sheila Krumholz</a>, executive director of OpenSecrets, which monitors campaign finance data. “That's how it is in all walks of life now. Some kids and elderly persons and just somebody you would never have heard from otherwise has a TikTok video. Maybe they didn't even post it themselves, but suddenly it's just everywhere. The point is, we see this in politics, too.”</p>
-
-
-
-<p data-paragraph="main">Moreover, while we can’t know whether a certain long-shot candidate’s campaign will take off, the benefits of running and gaining national recognition might outweigh the very real downsides of likely losing, since a losing campaign can still be a stepping stone to future opportunities — either in elected office or in working around politics and media more generally. “Although you're losing on this initial one, it helps you build recognition, a fundraising network,” said Goodliffe. A good example of this is Harrison, who is <a href="https://www.npr.org/2021/01/22/959573611/dnc-chairman-jaime-harrison-wants-to-build-the-next-generation-of-democratic-tal" target="_blank" rel="noopener">now chairman of the Democratic National Committee</a>. And even among the less credentialed GOP House challengers who raised more than $2 million in 2020, other opportunities have popped up. Klacik, for instance, <a href="https://www.washingtonpost.com/local/md-politics/klacik-gop-campaign-donations/2021/03/02/76300fde-7077-11eb-85fa-e0ccb3660358_story.html" target="_blank" rel="noopener">has regularly appeared</a> on conservative media outlets and recently <a href="https://www.axios.com/maryland-republican-returns-consultants-trashed-317ebdcf-2148-4dd6-90bf-791e3661c379.html" target="_blank" rel="noopener">launched her own political action committee</a>.</p>
-
-
-
-<p data-paragraph="main">These campaigns <a href="https://www.axios.com/republican-consultant-campaign-donations-89fd8660-68c9-4943-8ba6-8697263bfeb9.html" target="_blank" rel="noopener">can also result</a> in consultants and vendors “making out like bandits,” Krumholz told me. For instance, in Johnson’s campaign against Omar, fundraising vendors working with the campaign <a href="https://minnesotareformer.com/2020/12/17/10164/" target="_blank" rel="noopener">took in around $4 million</a> of the $12.2 million Johnson raised, in some cases by grabbing 70 to 80 cents of each dollar the firm raised. And in Klacik’s campaign, the firm hired to promote her viral video <a href="https://www.washingtonpost.com/local/md-politics/klacik-gop-campaign-donations/2021/03/02/76300fde-7077-11eb-85fa-e0ccb3660358_story.html" target="_blank" rel="noopener">ended up being paid</a> $3.7 million of the $8.3 million she raised, by keeping 70 percent of the donations the video attracted. These sorts of high margins charged by campaign vendors <a href="https://www.propublica.org/article/dc-fundraising-firm-takes-big-cut-of-contributions-701" target="_blank" rel="noopener">are nothing new</a>, but consultants stand to hit the jackpot if they’re working for a low-profile candidate who goes viral.</p>
-
-
-
-<p data-paragraph="main">As such, experts I talked with told me we’re likely to see more — not fewer — little-known candidates try to break out and raise buckets of money in races where they attract tons of eyeballs or challenge a politician who their party despises. “When you lower the costs [of donating] and you have this negative partisanship going on, then you're going to find a lot more of these kinds of donations,” said Goodliffe.</p>
-
-
-<p>Watch: https://abcnews.go.com/fivethirtyeight/video/americans-ending-war-afghanistan-79488089</p>
-
-<p>Watch: https://abcnews.go.com/fivethirtyeight/video/bidens-approval-rating-fallen-fivethirtyeight-politics-podcast-79388894</p>]]></description>
-			<pubDate>Thu, 26 Aug 2021 11:00:00 +0100</pubDate>
-			<guid isPermaLink="false">1629972902175053</guid>
 		</item>
 
 	</channel>
