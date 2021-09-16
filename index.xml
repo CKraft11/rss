@@ -3,9 +3,132 @@
 		<title>Main stream | FreshRSS</title>
 		<link>http://radon</link>
 		<description>RSS feed of Main stream | FreshRSS</description>
-		<pubDate>Thu, 16 Sep 2021 11:59:06 +0100</pubDate>
-		<lastBuildDate>Thu, 16 Sep 2021 10:59:06 GMT</lastBuildDate>
+		<pubDate>Thu, 16 Sep 2021 12:29:06 +0100</pubDate>
+		<lastBuildDate>Thu, 16 Sep 2021 11:29:06 GMT</lastBuildDate>
 		<atom:link href="http://radon/i/?a=rss" rel="self" type="application/rss+xml" />
+		<item>
+			<title>Our Best Tool For Predicting Midterm Elections Doesn’t Show A Republican Wave — But History Is On The GOP’s Side</title>
+			<link>https://fivethirtyeight.com/features/our-best-tool-for-predicting-midterm-elections-doesnt-show-a-republican-wave-but-history-is-on-the-gops-side/</link>
+						<dc:creator>Nathaniel Rakich</dc:creator>
+			<dc:creator>Nathaniel Rakich</dc:creator>
+			<category>2022 Election</category>
+			<category>2022 House Elections</category>
+			<category>2022 Senate Elections</category>
+			<category>Generic Ballot</category>
+			<category>Midterms</category>
+			<category>National Polls</category>
+			<category>Polling Averages</category>
+			<category>Polls</category>
+			<description><![CDATA[<p data-paragraph="main">As it is every two years, control of the House and Senate will once again be at stake in the November 2022 midterm elections, and one of the <a href="https://fivethirtyeight.com/features/heres-the-best-tool-we-have-for-understanding-how-the-midterms-are-shaping-up/" target="_blank" rel="noopener">best tools we have</a> for <a href="https://fivethirtyeight.com/features/our-best-tool-for-predicting-midterm-elections-works-in-presidential-years-too/" target="_blank" rel="noopener">predicting those election results</a> is polling of the generic congressional ballot. The <a href="https://www.pewresearch.org/politics/2002/10/01/why-the-generic-ballot-test/" target="_blank" rel="noopener">generic congressional ballot question</a> typically asks respondents which party they intend to vote for in the upcoming congressional election, without naming specific candidates<a data-footnote-id="1" href="https://fivethirtyeight.com/wp-json/wp/v2/espn_verticals/398#fn-1" data-footnote-content="&lt;p&gt;&lt;p&gt;The exact wording can vary. For example, some pollsters ask whether respondents plan to vote for the Democratic candidate or the Republican candidate for Congress; others ask whether respondents would prefer a Congress controlled by Democrats or Republicans.&lt;/p&gt;
+&lt;/p&gt;"><sup>1</sup></a> — allowing the question to be asked nationally to gauge the overall political environment. And for several years now, we at FiveThirtyEight have been <a href="https://projects.fivethirtyeight.com/polls/generic-ballot/" target="_blank" rel="noopener">collecting these polls</a> and <a href="https://projects.fivethirtyeight.com/congress-generic-ballot-polls/2018/" target="_blank" rel="noopener">calculating</a> a <a href="https://projects.fivethirtyeight.com/congress-generic-ballot-polls/2020/" target="_blank" rel="noopener">weighted average</a> for them, and we’re excited today to publish our <a href="https://projects.fivethirtyeight.com/congress-generic-ballot-polls/" target="_blank" rel="noopener">generic ballot average for the 2022 election cycle</a>. </p>
+
+
+
+<figure><img loading="lazy" width="2048" height="1296" src="https://fivethirtyeight.com/wp-content/uploads/2021/09/rakich-GENERAL-BALLOT-STORY-2.png" alt="" data-src="https://fivethirtyeight.com/wp-content/uploads/2021/09/rakich-GENERAL-BALLOT-STORY-2.png" data-srcset="https://fivethirtyeight.com/wp-content/uploads/2021/09/rakich-GENERAL-BALLOT-STORY-2.png?w=700 1x, https://fivethirtyeight.com/wp-content/uploads/2021/09/rakich-GENERAL-BALLOT-STORY-2.png?w=1400 2x"></figure><p data-paragraph="main">As of Thursday, Sept. 16, Democrats lead Republicans in our polling average by 2.7 percentage points (43.8 percent to 41.1 percent). This average is <a href="https://fivethirtyeight.com/features/how-were-tracking-joe-bidens-approval-rating/" target="_blank" rel="noopener">calculated much the same way</a> as our <a href="https://projects.fivethirtyeight.com/biden-approval-rating/" target="_blank" rel="noopener">presidential approval-rating average</a>, with a couple of differences. First, the lines we draw for the generic-ballot averages are <a href="https://fivethirtyeight.com/features/heres-a-new-less-volatile-version-of-our-generic-ballot-tracker/" target="_blank" rel="noopener">more aggressively smoothed</a>;<a data-footnote-id="2" href="https://fivethirtyeight.com/wp-json/wp/v2/espn_verticals/398#fn-2" data-footnote-content="&lt;p&gt;&lt;p&gt;Specifically, the model uses a blend of different quadratic smoothers, with bandwidths of 14, 28 and 42 days (as opposed to 10, 20 and 30 days for the presidential-approval average), and averages these three estimates together. The bandwidth reflects the number of days used to calculate the polynomial: For instance, a 28-day bandwith applied on Sept. 29 would mean that polls from Sept. 1 to Sept. 29 are used in the calculation. The model also requires that a minimum of 20 polls be used in the calculation, so the time intervals under consideration could be even longer in the event of sparse data.&lt;/p&gt;
+&lt;/p&gt;"><sup>2</sup></a> in other words, they are slower to respond to new data. (Because generic-ballot polls are less common than presidential-approval polls, we’ve found that, to filter out noise, the generic-ballot average needs to incorporate a larger sample of polls stretching further back in time than the presidential-approval average.) Second, while our presidential-approval average prefers the versions of polls that survey the widest universe (i.e., all adults over registered voters, and registered voters over likely voters), our generic-ballot average does the opposite. This is because, while we’re interested in knowing what all Americans think about the president, generic-ballot polls are fundamentally election polls — and we’re interested only in how actual voters are going to vote in the midterms. </p>
+
+
+
+<p data-paragraph="main">Historically, a generic-ballot polling average calculated in this way has been very good at predicting the national popular vote for the U.S. House. Using our polling database, we’re able to calculate a retroactive generic-ballot polling average<a data-footnote-id="3" href="https://fivethirtyeight.com/wp-json/wp/v2/espn_verticals/398#fn-3" data-footnote-content="&lt;p&gt;&lt;p&gt;Essentially, what our generic-ballot average &lt;em&gt;would have&lt;/em&gt; said if FiveThirtyEight had been around at the time and used this same methodology.&lt;/p&gt;
+&lt;/p&gt;"><sup>3</sup></a> for congressional elections going back to 1980. On average, across those 21 election cycles, our generic-ballot polling average on Election Day missed the House popular vote by only 3.0 points.</p>
+
+
+
+<figure><img loading="lazy" width="1150" height="1392" src="https://fivethirtyeight.com/wp-content/uploads/2021/09/rakich-GENERIC-BALLOT-STORY.png" alt="" data-src="https://fivethirtyeight.com/wp-content/uploads/2021/09/rakich-GENERIC-BALLOT-STORY.png" data-srcset="https://fivethirtyeight.com/wp-content/uploads/2021/09/rakich-GENERIC-BALLOT-STORY.png?w=700 1x, https://fivethirtyeight.com/wp-content/uploads/2021/09/rakich-GENERIC-BALLOT-STORY.png?w=1400 2x"></figure><p data-paragraph="main">Yes, as you might recall, <a href="https://fivethirtyeight.com/features/why-was-the-national-polling-environment-so-off-in-2020/" target="_blank" rel="noopener">generic-ballot polls misled in the 2020 election</a>: They gave Democrats an average lead of 7.3 points on Nov. 3, but the party won the House popular vote by only 3.0 points. But that was an unusually large polling error by recent historical standards. In fact, from 2008 to 2018, the average error of our retroactive Election Day generic-ballot polling averages was just 1.3 points. So, 2020 aside, final generic-ballot polls have been remarkably accurate in recent years.</p>
+
+
+
+<p data-paragraph="main">Of course, that’s only an argument to pay attention to our generic-ballot average on <a href="https://www.when-is.com/election-day-2022.asp" target="_blank" rel="noopener">Nov. 8, 2022</a> — not necessarily today. But it turns out that <a href="https://fivethirtyeight.com/features/dont-just-look-at-trumps-approval-rating-to-judge-his-first-100-days/" target="_blank" rel="noopener">early generic-ballot polls can be predictive too</a> — if you know how to interpret them. Specifically, for midterm elections, you have to take into account which party holds the White House, since that party is at a natural disadvantage in midterm elections.</p>
+
+
+
+<p data-paragraph="main">The table below compares our retroactive generic-ballot polling averages as of Sept. 16 the year before a midterm election with the eventual House popular vote margin in the 1982-2018 midterms. It shows that the president’s party usually <a href="http://www.columbia.edu/~rse14/Balancing_JOP_2010.pdf" target="_blank" rel="noopener">loses ground</a> between this point in the cycle and the actual election.</p>
+
+
+<div>
+<section><header><h5>The president’s party often continues to lose ground</h5>
+ <p>Change between the president’s party’s average margin in generic-ballot polling on Sept. 16 of the year before the midterm election* and its national House popular vote margin, in every midterm election from 1982-2018 </p>
+ </header><table data-carpenter-slug="rakich.generic-ballot-story.1"><thead><tr><th colspan="1">Cycle</th>
+ <th colspan="1">president</th>
+ <th colspan="1">Early Generic-Ballot Margin</th>
+ <th colspan="1">House Popular Vote Margin</th>
+ <th colspan="1">Change for Pres. Party</th>
+ </tr></thead><tbody><tr><td>1982</td>
+ <td><span>Republican</span></td>
+ <td>R+0.3</td>
+ <td>D+11.8</td>
+ <td>-12.1</td>
+ </tr><tr><td>1986</td>
+ <td><span>Republican</span></td>
+ <td>D+8.3</td>
+ <td>D+10.0</td>
+ <td>-1.6</td>
+ </tr><tr><td>1990</td>
+ <td><span>Republican</span></td>
+ <td>D+10.0</td>
+ <td>D+8.0</td>
+ <td>+2.0</td>
+ </tr><tr><td>1994</td>
+ <td><span>Democratic</span></td>
+ <td>D+2.0</td>
+ <td>R+6.8</td>
+ <td>-8.8</td>
+ </tr><tr><td>1998</td>
+ <td><span>Democratic</span></td>
+ <td>D+7.7</td>
+ <td>R+0.9</td>
+ <td>-8.5</td>
+ </tr><tr><td>2002</td>
+ <td><span>Republican</span></td>
+ <td>D+6.7</td>
+ <td>R+4.6</td>
+ <td>+11.3</td>
+ </tr><tr><td>2006</td>
+ <td><span>Republican</span></td>
+ <td>D+8.0</td>
+ <td>D+7.9</td>
+ <td>+0.1</td>
+ </tr><tr><td>2010</td>
+ <td><span>Democratic</span></td>
+ <td>D+2.9</td>
+ <td>R+6.6</td>
+ <td>-9.5</td>
+ </tr><tr><td>2014</td>
+ <td><span>Democratic</span></td>
+ <td>D+1.9</td>
+ <td>R+5.8</td>
+ <td>-7.6</td>
+ </tr><tr><td>2018</td>
+ <td><span>Republican</span></td>
+ <td>D+8.3</td>
+ <td>D+8.6</td>
+ <td>-0.3</td>
+ </tr></tbody></table><footer><p>*Using FiveThirtyEight’s current generic-ballot polling average methodology applied retroactively.</p>
+ <p>Sources: Polls, U.S. House of Representatives</p>
+ </footer></section></div>
+
+
+<p data-paragraph="main">Specifically, the generic-ballot polling average the previous September overestimates the president’s party’s vote margin by an average of 3.5 points.<a data-footnote-id="4" href="https://fivethirtyeight.com/wp-json/wp/v2/espn_verticals/398#fn-4" data-footnote-content="&lt;p&gt;&lt;p&gt;Or 5.2 points if you throw out the 2002 cycle, which, as we’ll explain below, was very unusual.&lt;/p&gt;
+&lt;/p&gt;"><sup>4</sup></a> This is the manifestation of one of the most ironclad rules in politics: The party that holds the White House <a href="https://fivethirtyeight.com/features/the-party-that-loses-this-year-could-still-win-a-big-consolation-prize/" target="_blank" rel="noopener">almost always performs poorly in the midterms</a>.</p>
+
+
+
+<p data-paragraph="main">Sure, there have been some exceptions. Most notable is the 2002 cycle, when then-President George W. Bush’s Republicans trailed in early generic-ballot polls by 6.7 points but wound up winning the House popular vote by 4.6 points. But that year was, well, exceptional: A <a href="https://fivethirtyeight.com/features/rally-around-the-flag-events-are-rare/" target="_blank" rel="noopener">rally-around-the-flag effect</a> in the wake of the Sept. 11, 2001, attacks made Bush incredibly popular, and those good feelings rubbed off on his party. The 2006 and 2018 cycles were also exceptions in that the president’s party neither lost nor gained significant ground between the polls and actual results; early generic-ballot polls nailed the final margin almost exactly. But in both those years, the early polls <em>already</em> pointed toward a bad year for the president’s party, showing Bush’s and then-President Donald Trump’s Republicans down by 8.0 and 8.3 points, respectively.</p>
+
+
+
+<p data-paragraph="main">In years when the president’s party leads the generic-ballot polling average the September before the midterms, the party underperforms those polls by an average of 9.3 points. And that, in a nutshell, is why Democrats should be concerned about the 2022 elections despite their current lead on the generic ballot. This cycle so far looks a lot like former President Barack Obama’s two midterms (2010 and 2014) did for Democrats in that they lead generic-ballot polls by a few points in the September of the year before the election. But in both those years, Republicans eventually moved ahead in our generic-ballot polling average and won the election handily.</p>
+
+
+
+<p data-paragraph="main">So, if Republicans outperform their early polling to a similar degree as they did in 2010 and 2014, they could win the House popular vote by 5 to 7 percentage points, which would very likely hand them control of the House (and probably the Senate too, since almost everyone votes a <a href="https://fivethirtyeight.com/features/there-wasnt-that-much-split-ticket-voting-in-2020/" target="_blank" rel="noopener">straight party-line ticket</a> these days). Of course, though, that’s a big <em>if</em>; there has been a lot of variability in these historical trends, so a wide range of outcomes is still possible. But even if Republicans only improve their standing a <em>little</em> bit — something that is likely to happen, if history is any guide — it would probably still be enough to flip the House, considering that their <a href="https://fivethirtyeight.com/features/republicans-won-almost-every-election-where-redistricting-was-at-stake/" target="_blank" rel="noopener">control of the redistricting process in a plurality of states</a> is likely to reinforce the <a href="https://fivethirtyeight.com/features/advantage-gop/" target="_blank" rel="noopener">GOP’s structural advantage in House races</a>. Past trends don’t always hold true, but the smart money, at this point, remains on the president’s party losing control of Congress next year.</p>
+
+
+
+<p data-paragraph="main"><em>Mary Radcliffe and Aaron Bycoffe contributed research.</em></p>]]></description>
+			<pubDate>Thu, 16 Sep 2021 11:00:00 +0100</pubDate>
+			<guid isPermaLink="false">1631790902029470</guid>
+		</item>
 		<item>
 			<title>Why A Republican Might Win In Virginia’s Governor Race, And How New Jersey’s Race Could Get Tighter</title>
 			<link>https://fivethirtyeight.com/features/why-a-republican-might-win-in-virginias-governor-race-and-how-new-jerseys-race-could-get-tighter/</link>
@@ -29,8 +152,8 @@
 
 
 
-<p data-paragraph="main">Virginia has looked like a blue state recently because Biden won the state by 10 percentage points and Democrats have won 13 consecutive statewide races dating back to 2012,<a data-footnote-id="1" href="https://fivethirtyeight.com/wp-json/wp/v2/espn_verticals/398#fn-1" data-footnote-content="&lt;p&gt;&lt;p&gt;President and U.S. Senate in 2012; governor, lieutenant governor and attorney general in 2013; U.S. Senate in 2014; president in 2016; governor, lieutenant governor and attorney general in 2017; U.S. Senate in 2018; and president and U.S. Senate in 2020.&lt;/p&gt;
-&lt;/p&gt;"><sup>1</sup></a> but it’s really more of a purple state with a bluish hue. In 2017, Democratic Gov. Ralph Northam <a href="https://uselectionatlas.org/RESULTS/state.php?year=2017&amp;fips=51&amp;f=0&amp;off=5&amp;elect=0" target="_blank" rel="noopener">won the state by 9 points</a> in a <a href="https://projects.fivethirtyeight.com/congress-generic-ballot-polls/2018/" target="_blank" rel="noopener">Democratic-leaning political environment</a> with <a href="https://projects.fivethirtyeight.com/trump-approval-ratings/" target="_blank" rel="noopener">an unpopular Republican president in office</a>. But now with a somewhat unpopular Democrat in the White House, the pendulum could swing back enough to <a href="https://www.washingtonpost.com/opinions/2021/09/07/virginia-governors-race-might-not-be-slam-dunk-democrat-terry-mcauliffe/" target="_blank" rel="noopener">give Virginia Republicans a real chance at victory</a>.</p>
+<p data-paragraph="main">Virginia has looked like a blue state recently because Biden won the state by 10 percentage points and Democrats have won 13 consecutive statewide races dating back to 2012,<a data-footnote-id="5" href="https://fivethirtyeight.com/wp-json/wp/v2/espn_verticals/398#fn-5" data-footnote-content="&lt;p&gt;&lt;p&gt;President and U.S. Senate in 2012; governor, lieutenant governor and attorney general in 2013; U.S. Senate in 2014; president in 2016; governor, lieutenant governor and attorney general in 2017; U.S. Senate in 2018; and president and U.S. Senate in 2020.&lt;/p&gt;
+&lt;/p&gt;"><sup>5</sup></a> but it’s really more of a purple state with a bluish hue. In 2017, Democratic Gov. Ralph Northam <a href="https://uselectionatlas.org/RESULTS/state.php?year=2017&amp;fips=51&amp;f=0&amp;off=5&amp;elect=0" target="_blank" rel="noopener">won the state by 9 points</a> in a <a href="https://projects.fivethirtyeight.com/congress-generic-ballot-polls/2018/" target="_blank" rel="noopener">Democratic-leaning political environment</a> with <a href="https://projects.fivethirtyeight.com/trump-approval-ratings/" target="_blank" rel="noopener">an unpopular Republican president in office</a>. But now with a somewhat unpopular Democrat in the White House, the pendulum could swing back enough to <a href="https://www.washingtonpost.com/opinions/2021/09/07/virginia-governors-race-might-not-be-slam-dunk-democrat-terry-mcauliffe/" target="_blank" rel="noopener">give Virginia Republicans a real chance at victory</a>.</p>
 
 
 
@@ -237,8 +360,8 @@
 <p>Watch: https://abcnews.go.com/fivethirtyeight/video/catching-california-recall-election-start-fivethirtyeight-79943773</p>
 
 
-<p data-paragraph="main">For much of August, the recall looked like a legitimate toss-up,<a data-footnote-id="2" href="https://fivethirtyeight.com/wp-json/wp/v2/espn_verticals/398#fn-2" data-footnote-content='&lt;p&gt;&lt;p&gt;This was partly due to &lt;a href="https://www.surveyusa.com/client/PollReport.aspx?g=36cdcb0b-7cfa-4b55-8704-d1f02a9fe6e5" target="_blank" rel="noopener"&gt;one outlier poll&lt;/a&gt; from SurveyUSA that showed Californians in favor of recalling Newsom, 51 percent to 40 percent. SurveyUSA has &lt;a href="https://www.surveyusa.com/client/PollReport.aspx?g=f054d152-ceac-48dc-a422-2f22c7a00521" target="_blank" rel="noopener"&gt;since acknowledged&lt;/a&gt; that the wording of their likely-voter question “may have led some respondents opposed to the recall to misidentify themselves as being unlikely to vote.” However, even without that SurveyUSA poll, our polling average would have still shown the recall failing by fewer than 4 points as late as Aug. 21, due to &lt;a href="https://emersonpolling.reportablenews.com/pr/newsom-clings-to-lead-in-recall-while-crime-becomes-a-top-issue-for-ca-voters" target="_blank" rel="noopener"&gt;other polls&lt;/a&gt; around that time that &lt;a href="https://www.cbsnews.com/news/california-vaccinated-say-unvaccinated-add-risk-opinion-poll/" target="_blank" rel="noopener"&gt;showed a close race&lt;/a&gt;.&lt;/p&gt;
-&lt;/p&gt;'><sup>2</sup></a> but polls have since found Newsom’s lead expanding in the final few weeks. This could be thanks to the stunning amount of money that Newsom and his allies have poured into the campaign during this time: In August alone, they spent <a href="https://www.latimes.com/politics/story/2021-09-04/recall-newsom-spending-elder-cox-faulconer-kiley" target="_blank" rel="noopener">more than $36 million</a> on TV ads, digital ads, canvassing, phone banking and text banking. More broadly, it could just be that California voters are finally starting to tune into the election. Ballots were mailed to every registered voter on Aug. 16, which may have activated more voters and made the electorate <a href="https://twitter.com/williamjordann/status/1435642708417208321?s=21" target="_blank" rel="noopener">more representative</a> of California’s overall (Democratic-leaning) population. </p>
+<p data-paragraph="main">For much of August, the recall looked like a legitimate toss-up,<a data-footnote-id="6" href="https://fivethirtyeight.com/wp-json/wp/v2/espn_verticals/398#fn-6" data-footnote-content='&lt;p&gt;&lt;p&gt;This was partly due to &lt;a href="https://www.surveyusa.com/client/PollReport.aspx?g=36cdcb0b-7cfa-4b55-8704-d1f02a9fe6e5" target="_blank" rel="noopener"&gt;one outlier poll&lt;/a&gt; from SurveyUSA that showed Californians in favor of recalling Newsom, 51 percent to 40 percent. SurveyUSA has &lt;a href="https://www.surveyusa.com/client/PollReport.aspx?g=f054d152-ceac-48dc-a422-2f22c7a00521" target="_blank" rel="noopener"&gt;since acknowledged&lt;/a&gt; that the wording of their likely-voter question “may have led some respondents opposed to the recall to misidentify themselves as being unlikely to vote.” However, even without that SurveyUSA poll, our polling average would have still shown the recall failing by fewer than 4 points as late as Aug. 21, due to &lt;a href="https://emersonpolling.reportablenews.com/pr/newsom-clings-to-lead-in-recall-while-crime-becomes-a-top-issue-for-ca-voters" target="_blank" rel="noopener"&gt;other polls&lt;/a&gt; around that time that &lt;a href="https://www.cbsnews.com/news/california-vaccinated-say-unvaccinated-add-risk-opinion-poll/" target="_blank" rel="noopener"&gt;showed a close race&lt;/a&gt;.&lt;/p&gt;
+&lt;/p&gt;'><sup>6</sup></a> but polls have since found Newsom’s lead expanding in the final few weeks. This could be thanks to the stunning amount of money that Newsom and his allies have poured into the campaign during this time: In August alone, they spent <a href="https://www.latimes.com/politics/story/2021-09-04/recall-newsom-spending-elder-cox-faulconer-kiley" target="_blank" rel="noopener">more than $36 million</a> on TV ads, digital ads, canvassing, phone banking and text banking. More broadly, it could just be that California voters are finally starting to tune into the election. Ballots were mailed to every registered voter on Aug. 16, which may have activated more voters and made the electorate <a href="https://twitter.com/williamjordann/status/1435642708417208321?s=21" target="_blank" rel="noopener">more representative</a> of California’s overall (Democratic-leaning) population. </p>
 
 
 
@@ -286,8 +409,8 @@
 
 <figure><div>
 <div><iframe title="No one has won a U.S. governorship with under 30%" aria-label="chart" src="https://datawrapper.dwcdn.net/DyHRO/9/" scrolling="no" frameborder="0" height="477" sandbox="allow-scripts allow-same-origin"></iframe></div>
-</div></figure><p data-paragraph="main">The lowest vote share for an elected governor dating back to 1968 was 33 percent, which then-Democrat Buddy Roemer garnered to win Louisiana’s all-party primary for governor in 1987, as fellow Democrat Edwin Edwards <a href="https://www.washingtonpost.com/archive/politics/1987/10/26/edwards-cuts-his-losses/58bba235-c2d5-40e1-8bc2-fbdec9612688/" target="_blank" rel="noopener">declined to contest a runoff against Roemer</a> after no candidate won a majority.<a data-footnote-id="3" href="https://fivethirtyeight.com/wp-json/wp/v2/espn_verticals/398#fn-3" data-footnote-content="&lt;p&gt;&lt;p&gt;Roemer switched parties to become a Republican during his subsequent term in office.&lt;/p&gt;
-&lt;/p&gt;"><sup>3</sup></a> In a regular general election, the lowest win percentage was 35 percent, which Angus King won in <a href="https://uselectionatlas.org/RESULTS/state.php?year=1994&amp;fips=23&amp;f=0&amp;off=5&amp;elect=0" target="_blank" rel="noopener">Maine’s 1994 gubernatorial race</a> as an independent. And if Elder were to win with 30 percent or less, he’d actually have the lowest winner’s vote share in any gubernatorial race since 1900, surpassing Democrat Ernest Lister’s 31 percent in <a href="https://www.sos.wa.gov/elections/results_report.aspx?e=125&amp;c=&amp;c2=&amp;t=&amp;t2=&amp;p=&amp;p2=&amp;y=" target="_blank" rel="noopener">Washington’s 1912 election</a>.</p>
+</div></figure><p data-paragraph="main">The lowest vote share for an elected governor dating back to 1968 was 33 percent, which then-Democrat Buddy Roemer garnered to win Louisiana’s all-party primary for governor in 1987, as fellow Democrat Edwin Edwards <a href="https://www.washingtonpost.com/archive/politics/1987/10/26/edwards-cuts-his-losses/58bba235-c2d5-40e1-8bc2-fbdec9612688/" target="_blank" rel="noopener">declined to contest a runoff against Roemer</a> after no candidate won a majority.<a data-footnote-id="7" href="https://fivethirtyeight.com/wp-json/wp/v2/espn_verticals/398#fn-7" data-footnote-content="&lt;p&gt;&lt;p&gt;Roemer switched parties to become a Republican during his subsequent term in office.&lt;/p&gt;
+&lt;/p&gt;"><sup>7</sup></a> In a regular general election, the lowest win percentage was 35 percent, which Angus King won in <a href="https://uselectionatlas.org/RESULTS/state.php?year=1994&amp;fips=23&amp;f=0&amp;off=5&amp;elect=0" target="_blank" rel="noopener">Maine’s 1994 gubernatorial race</a> as an independent. And if Elder were to win with 30 percent or less, he’d actually have the lowest winner’s vote share in any gubernatorial race since 1900, surpassing Democrat Ernest Lister’s 31 percent in <a href="https://www.sos.wa.gov/elections/results_report.aspx?e=125&amp;c=&amp;c2=&amp;t=&amp;t2=&amp;p=&amp;p2=&amp;y=" target="_blank" rel="noopener">Washington’s 1912 election</a>.</p>
 
 
 <div>
@@ -371,20 +494,20 @@
 
 
 
-<p data-paragraph="main">There’s been some futzing around the margins,<a data-footnote-id="27" href="https://fivethirtyeight.com/wp-json/wp/v2/espn_verticals/398#fn-27" data-footnote-content="&lt;p&gt;&lt;p&gt;In 1994, for example, Californians voted to increase the amount of time between the certification of signatures and the recall election itself from 60-80 days to up to 180.&lt;/p&gt;
-&lt;/p&gt;"><sup>27</sup></a> but the basic mechanism for the recall of a statewide officer hasn’t changed much over the years. (Though state legislators <a href="https://leginfo.legislature.ca.gov/faces/billTextClient.xhtml?bill_id=202120220SCA3https://leginfo.legislature.ca.gov/faces/billTextClient.xhtml?bill_id=202120220SCA3" target="_blank" rel="noopener">have tried</a>, and are <a href="https://leginfo.legislature.ca.gov/faces/billTextClient.xhtml?bill_id=202120220SB660" target="_blank" rel="noopener">certainly</a> <a href="http://california%20leads%20the%20nation%20in%20efforts%20to%20recall%20members%20of%20its%20government,%20but%20there%E2%80%99s%20no%20single%20reason%20for%20this%20--%20in%20fact,%20there%20are%20four.%20first,%20practically%20every%20public%20official%20in%20the%20state%20is%20eligible%20for%20recall.%20in%20addition,%20a%20recall%20petition%20can%20be%20triggered%20for%20any%20reason.%20california%20doesn%E2%80%99t%20require%20as%20many%20signatures%20as%20other%20states%20either,%20and%20it%20allows%20petitions%20to%20circulate%20longer.%20all%20these%20factors%20combine%20to%20make%20california%E2%80%99s%20recall%20process%20one%20of%20the%20most%20lenient%20in%20the%20country.%20insert%20chart%201%20gavin%20newsom%20is%20the%20latest%20governor%20to%20face%20a%20recall%20attempt%20in%20the%20state,%20but%20he%E2%80%99s%20hardly%20the%20first.%20everyone%20who%20has%20served%20as%20governor%20of%20california%20in%20the%20past%2060%20years%20has%20faced%20at%20least%20one%20attempted%20recall.%20though%20he%E2%80%99s%20part%20of%20a%20much%20more%20exclusive%20club%20with%20next%20tuesday%E2%80%99s%20election/" target="_blank" rel="noopener">still trying</a>.) Citizens bring a petition for recall to the secretary of state; they collect signatures; and if the number of certified signatures exceeds a minimum threshold, a recall election is triggered.</p>
+<p data-paragraph="main">There’s been some futzing around the margins,<a data-footnote-id="31" href="https://fivethirtyeight.com/wp-json/wp/v2/espn_verticals/398#fn-31" data-footnote-content="&lt;p&gt;&lt;p&gt;In 1994, for example, Californians voted to increase the amount of time between the certification of signatures and the recall election itself from 60-80 days to up to 180.&lt;/p&gt;
+&lt;/p&gt;"><sup>31</sup></a> but the basic mechanism for the recall of a statewide officer hasn’t changed much over the years. (Though state legislators <a href="https://leginfo.legislature.ca.gov/faces/billTextClient.xhtml?bill_id=202120220SCA3https://leginfo.legislature.ca.gov/faces/billTextClient.xhtml?bill_id=202120220SCA3" target="_blank" rel="noopener">have tried</a>, and are <a href="https://leginfo.legislature.ca.gov/faces/billTextClient.xhtml?bill_id=202120220SB660" target="_blank" rel="noopener">certainly</a> <a href="http://california%20leads%20the%20nation%20in%20efforts%20to%20recall%20members%20of%20its%20government,%20but%20there%E2%80%99s%20no%20single%20reason%20for%20this%20--%20in%20fact,%20there%20are%20four.%20first,%20practically%20every%20public%20official%20in%20the%20state%20is%20eligible%20for%20recall.%20in%20addition,%20a%20recall%20petition%20can%20be%20triggered%20for%20any%20reason.%20california%20doesn%E2%80%99t%20require%20as%20many%20signatures%20as%20other%20states%20either,%20and%20it%20allows%20petitions%20to%20circulate%20longer.%20all%20these%20factors%20combine%20to%20make%20california%E2%80%99s%20recall%20process%20one%20of%20the%20most%20lenient%20in%20the%20country.%20insert%20chart%201%20gavin%20newsom%20is%20the%20latest%20governor%20to%20face%20a%20recall%20attempt%20in%20the%20state,%20but%20he%E2%80%99s%20hardly%20the%20first.%20everyone%20who%20has%20served%20as%20governor%20of%20california%20in%20the%20past%2060%20years%20has%20faced%20at%20least%20one%20attempted%20recall.%20though%20he%E2%80%99s%20part%20of%20a%20much%20more%20exclusive%20club%20with%20next%20tuesday%E2%80%99s%20election/" target="_blank" rel="noopener">still trying</a>.) Citizens bring a petition for recall to the secretary of state; they collect signatures; and if the number of certified signatures exceeds a minimum threshold, a recall election is triggered.</p>
 
 
 <p>Watch: https://abcnews.go.com/fivethirtyeight/video/911-era-political-consensus-impossible-days-79884213</p>
 
 
-<p data-paragraph="main">What makes California rife with recalls? First, all <a href="https://www.ncsl.org/research/elections-and-campaigns/recall-of-state-officials.aspx" target="_blank" rel="noopener">19 states</a><a data-footnote-id="28" href="https://fivethirtyeight.com/wp-json/wp/v2/espn_verticals/398#fn-28" data-footnote-content="&lt;p&gt;&lt;p&gt;Sorry, D.C. Recalling a mayor doesn’t count for the purposes of our story.&lt;/p&gt;
-&lt;/p&gt;"><sup>28</sup></a> with official recall processes allow the recall of a governor, but only four — including California — hold nearly all public offices eligible for recall. Many states restrict recalls to include only elected positions or specific offices, or exclude certain judges from recall attempts. No public official serving the state of California is immune, as evidenced by the <a href="https://www.nytimes.com/2018/06/06/us/politics/judge-persky-brock-turner-recall.html" target="_blank" rel="noopener">successful recall of Santa Clara County Superior Court Judge Aaron Persky</a> in 2018.</p>
+<p data-paragraph="main">What makes California rife with recalls? First, all <a href="https://www.ncsl.org/research/elections-and-campaigns/recall-of-state-officials.aspx" target="_blank" rel="noopener">19 states</a><a data-footnote-id="32" href="https://fivethirtyeight.com/wp-json/wp/v2/espn_verticals/398#fn-32" data-footnote-content="&lt;p&gt;&lt;p&gt;Sorry, D.C. Recalling a mayor doesn’t count for the purposes of our story.&lt;/p&gt;
+&lt;/p&gt;"><sup>32</sup></a> with official recall processes allow the recall of a governor, but only four — including California — hold nearly all public offices eligible for recall. Many states restrict recalls to include only elected positions or specific offices, or exclude certain judges from recall attempts. No public official serving the state of California is immune, as evidenced by the <a href="https://www.nytimes.com/2018/06/06/us/politics/judge-persky-brock-turner-recall.html" target="_blank" rel="noopener">successful recall of Santa Clara County Superior Court Judge Aaron Persky</a> in 2018.</p>
 
 
 
-<p data-paragraph="main">Secondly, California does not limit the grounds for recall. If, say, someone isn’t a fan of the state Supreme Court, that empowered resident could file 18 petitions to recall nine different justices in two years.<a data-footnote-id="29" href="https://fivethirtyeight.com/wp-json/wp/v2/espn_verticals/398#fn-29" data-footnote-content="&lt;p&gt;&lt;p&gt;This actually happened between 1986 and 1988. No petition successfully qualified for the ballot.&lt;/p&gt;
-&lt;/p&gt;"><sup>29</sup></a> With no required burden of proof, the first step to getting a recall on the ballot is as easy as filing some paperwork — unlike in some other states, which require an indictment or criminal conviction before a recall can even be considered.</p>
+<p data-paragraph="main">Secondly, California does not limit the grounds for recall. If, say, someone isn’t a fan of the state Supreme Court, that empowered resident could file 18 petitions to recall nine different justices in two years.<a data-footnote-id="33" href="https://fivethirtyeight.com/wp-json/wp/v2/espn_verticals/398#fn-33" data-footnote-content="&lt;p&gt;&lt;p&gt;This actually happened between 1986 and 1988. No petition successfully qualified for the ballot.&lt;/p&gt;
+&lt;/p&gt;"><sup>33</sup></a> With no required burden of proof, the first step to getting a recall on the ballot is as easy as filing some paperwork — unlike in some other states, which require an indictment or criminal conviction before a recall can even be considered.</p>
 
 
 
@@ -407,9 +530,9 @@
 
 
 
-<p data-paragraph="main">Which brings us to the fourth reason it is comparatively easier for Californians to get a recall on the ballot. Out of the 19 states with recall processes, only four prescribe a circulation period longer than five months.<a data-footnote-id="30" href="https://fivethirtyeight.com/wp-json/wp/v2/espn_verticals/398#fn-30" data-footnote-content="&lt;p&gt;&lt;p&gt;Neither Alaska nor North Dakota has a mandatory circulation period.&lt;/p&gt;
-&lt;/p&gt;"><sup>30</sup></a> For statewide offices, California mandates a circulation period of 160 days;<a data-footnote-id="31" href="https://fivethirtyeight.com/wp-json/wp/v2/espn_verticals/398#fn-31" data-footnote-content="&lt;p&gt;&lt;p&gt;Newsom’s recall petition was extended an additional four months due to the impact of COVID-19.&lt;/p&gt;
-&lt;/p&gt;"><sup>31</sup></a> the majority of states limit that period to three months or less.</p>
+<p data-paragraph="main">Which brings us to the fourth reason it is comparatively easier for Californians to get a recall on the ballot. Out of the 19 states with recall processes, only four prescribe a circulation period longer than five months.<a data-footnote-id="34" href="https://fivethirtyeight.com/wp-json/wp/v2/espn_verticals/398#fn-34" data-footnote-content="&lt;p&gt;&lt;p&gt;Neither Alaska nor North Dakota has a mandatory circulation period.&lt;/p&gt;
+&lt;/p&gt;"><sup>34</sup></a> For statewide offices, California mandates a circulation period of 160 days;<a data-footnote-id="35" href="https://fivethirtyeight.com/wp-json/wp/v2/espn_verticals/398#fn-35" data-footnote-content="&lt;p&gt;&lt;p&gt;Newsom’s recall petition was extended an additional four months due to the impact of COVID-19.&lt;/p&gt;
+&lt;/p&gt;"><sup>35</sup></a> the majority of states limit that period to three months or less.</p>
 
 
 
@@ -454,8 +577,8 @@
 <p>Watch: https://abcnews.go.com/fivethirtyeight/video/911-era-political-consensus-impossible-days-79884213</p>
 
 
-<p data-paragraph="main">For example, Americans have remained convinced that a terrorist attack is likely. A series of polls from The Economist/YouGov conducted from 2013 to 2021<a data-footnote-id="4" href="https://fivethirtyeight.com/wp-json/wp/v2/espn_verticals/398#fn-4" data-footnote-content="&lt;p&gt;&lt;p&gt;YouGov also posed this question in 2009. Also, four of the polls we analyzed were conducted by YouGov alone, without sponsorship of The Economist.&lt;/p&gt;
-&lt;/p&gt;"><sup>4</sup></a> asked what Americans think are the chances of a terrorist attack in the U.S. in the next 12 months. Those who thought an attack was “very” or “somewhat” likely rarely dipped below 50 percent and often spiked following major terrorist attacks in the U.S. or Europe. (Any time the responses rose about 70 percent, it was following a major attack.)</p>
+<p data-paragraph="main">For example, Americans have remained convinced that a terrorist attack is likely. A series of polls from The Economist/YouGov conducted from 2013 to 2021<a data-footnote-id="8" href="https://fivethirtyeight.com/wp-json/wp/v2/espn_verticals/398#fn-8" data-footnote-content="&lt;p&gt;&lt;p&gt;YouGov also posed this question in 2009. Also, four of the polls we analyzed were conducted by YouGov alone, without sponsorship of The Economist.&lt;/p&gt;
+&lt;/p&gt;"><sup>8</sup></a> asked what Americans think are the chances of a terrorist attack in the U.S. in the next 12 months. Those who thought an attack was “very” or “somewhat” likely rarely dipped below 50 percent and often spiked following major terrorist attacks in the U.S. or Europe. (Any time the responses rose about 70 percent, it was following a major attack.)</p>
 
 
 
@@ -475,13 +598,13 @@
 
 
 
-<ul><li>Abortion rights remain top of mind for many Americans <a href="https://fivethirtyeight.com/features/why-texass-abortion-law-may-go-too-far-for-most-americans/">in the wake of the Supreme Court</a> allowing a Texas law that effectively bans abortions in the state to go into effect. The percentage of Americans who say “abortion, contraception and equal pay”<a data-footnote-id="5" href="https://fivethirtyeight.com/wp-json/wp/v2/espn_verticals/398#fn-5" data-footnote-content="&lt;p&gt;&lt;p&gt;Quite the grouping!&lt;/p&gt;
-&lt;/p&gt;"><sup>5</sup></a> are their top voting concern has risen since the decision, according to <a href="https://morningconsult.com/2021/09/07/women-abortion-texas-law-top-issue/">a Morning Consult poll</a> from Sept. 4-6. Overall, 6 percent of voters said this was their top issue after the decision, compared with 4 percent before, while support among Democrats doubled, fueled by a 6-percentage-point jump among Democratic women.</li><li>Canada and Germany are heading to the polls to vote for new leaders and parliaments this month. In Germany, the center-left Social Democratic Party is leading the polls, sitting at an average of 25 percent, ahead of the center-right Christian Democratic Union (outgoing Chancellor Angela Merkel’s party), at 21 percent, according to <a href="https://www.politico.eu/europe-poll-of-polls/germany/">Politico’s poll tracker</a>. And in Canada, the center-right Conservative Party has edged ahead of current Prime Minister Justin Trudeau’s Liberal Party, with their respective polling averages at 33.5 percent and 31.6 percent, according to <a href="https://newsinteractives.cbc.ca/elections/poll-tracker/canada/">CBC’s poll tracker</a>. However, the Liberals are still favored to win the most seats — though another minority government is likely, regardless of who wins. </li><li>Though <a href="https://fivethirtyeight.com/features/what-americans-think-about-the-end-of-the-afghanistan-war-and-bidens-handling-of-it-so-far/">Americans overall have somewhat mixed feelings</a> about the decision to withdraw troops from Afghanistan, when you ask Americans who were deployed in that war, there’s a higher level of consensus. <a href="https://morningconsult.com/2021/09/09/afghanistan-war-veterans-polling/">An Aug. 17-Sept. 2 Morning Consult poll of veterans</a> of the war in Afghanistan found 58 percent supported President Biden’s decision to withdraw troops, with 53 percent still supporting the decision even if the Taliban is in control of Afghanistan, and 53 percent supporting even if it creates an opportunity for terrorists in Afghanistan. </li><li>The decision to get vaccinated against COVID-19 has <a href="https://fivethirtyeight.com/features/republicans-arent-new-to-the-anti-vaxx-movement/">become an increasingly partisan</a> issue in the U.S., and it can sometimes make for <a href="https://www.usatoday.com/story/news/investigations/2019/03/08/vaccine-anti-vax-anti-vaxxer-what-change-their-mind-vaccine-hesitancy/3100216002/">some cognitive dissonance</a> between a person’s political identity and their personal health choices: <a href="https://theharrispoll.com/secret-vaxxers-these-americans-are-getting-covid-vaccinations-but-not-telling-anyone/">A Harris/USA Today</a> poll conducted between Aug. 27-29 found that 11 percent of vaccinated Americans said they would keep their vaccination a secret from some people, and 6 percent said they didn’t plan to tell anyone. Shy Trump voters are out. Shy vaxx-getters are in.</li><li>Lastly, it seems we’re all a bunch of thieves: <a href="https://today.yougov.com/topics/politics/survey-results/daily/2021/09/09/92f58/1">According to a YouGov poll</a> from Sept. 9, 58 percent of Americans take those tiny bottles of shampoo with them when they leave a hotel, including 35 percent who say they do so even if they did not open the bottle. Personally, I think that’s fine, but if you steal hotel towels, I’m judging you. Not because it’s morally wrong, but because why would you want a towel used by 5,000 other people?</li></ul><h2><strong>Biden approval</strong></h2>
+<ul><li>Abortion rights remain top of mind for many Americans <a href="https://fivethirtyeight.com/features/why-texass-abortion-law-may-go-too-far-for-most-americans/">in the wake of the Supreme Court</a> allowing a Texas law that effectively bans abortions in the state to go into effect. The percentage of Americans who say “abortion, contraception and equal pay”<a data-footnote-id="9" href="https://fivethirtyeight.com/wp-json/wp/v2/espn_verticals/398#fn-9" data-footnote-content="&lt;p&gt;&lt;p&gt;Quite the grouping!&lt;/p&gt;
+&lt;/p&gt;"><sup>9</sup></a> are their top voting concern has risen since the decision, according to <a href="https://morningconsult.com/2021/09/07/women-abortion-texas-law-top-issue/">a Morning Consult poll</a> from Sept. 4-6. Overall, 6 percent of voters said this was their top issue after the decision, compared with 4 percent before, while support among Democrats doubled, fueled by a 6-percentage-point jump among Democratic women.</li><li>Canada and Germany are heading to the polls to vote for new leaders and parliaments this month. In Germany, the center-left Social Democratic Party is leading the polls, sitting at an average of 25 percent, ahead of the center-right Christian Democratic Union (outgoing Chancellor Angela Merkel’s party), at 21 percent, according to <a href="https://www.politico.eu/europe-poll-of-polls/germany/">Politico’s poll tracker</a>. And in Canada, the center-right Conservative Party has edged ahead of current Prime Minister Justin Trudeau’s Liberal Party, with their respective polling averages at 33.5 percent and 31.6 percent, according to <a href="https://newsinteractives.cbc.ca/elections/poll-tracker/canada/">CBC’s poll tracker</a>. However, the Liberals are still favored to win the most seats — though another minority government is likely, regardless of who wins. </li><li>Though <a href="https://fivethirtyeight.com/features/what-americans-think-about-the-end-of-the-afghanistan-war-and-bidens-handling-of-it-so-far/">Americans overall have somewhat mixed feelings</a> about the decision to withdraw troops from Afghanistan, when you ask Americans who were deployed in that war, there’s a higher level of consensus. <a href="https://morningconsult.com/2021/09/09/afghanistan-war-veterans-polling/">An Aug. 17-Sept. 2 Morning Consult poll of veterans</a> of the war in Afghanistan found 58 percent supported President Biden’s decision to withdraw troops, with 53 percent still supporting the decision even if the Taliban is in control of Afghanistan, and 53 percent supporting even if it creates an opportunity for terrorists in Afghanistan. </li><li>The decision to get vaccinated against COVID-19 has <a href="https://fivethirtyeight.com/features/republicans-arent-new-to-the-anti-vaxx-movement/">become an increasingly partisan</a> issue in the U.S., and it can sometimes make for <a href="https://www.usatoday.com/story/news/investigations/2019/03/08/vaccine-anti-vax-anti-vaxxer-what-change-their-mind-vaccine-hesitancy/3100216002/">some cognitive dissonance</a> between a person’s political identity and their personal health choices: <a href="https://theharrispoll.com/secret-vaxxers-these-americans-are-getting-covid-vaccinations-but-not-telling-anyone/">A Harris/USA Today</a> poll conducted between Aug. 27-29 found that 11 percent of vaccinated Americans said they would keep their vaccination a secret from some people, and 6 percent said they didn’t plan to tell anyone. Shy Trump voters are out. Shy vaxx-getters are in.</li><li>Lastly, it seems we’re all a bunch of thieves: <a href="https://today.yougov.com/topics/politics/survey-results/daily/2021/09/09/92f58/1">According to a YouGov poll</a> from Sept. 9, 58 percent of Americans take those tiny bottles of shampoo with them when they leave a hotel, including 35 percent who say they do so even if they did not open the bottle. Personally, I think that’s fine, but if you steal hotel towels, I’m judging you. Not because it’s morally wrong, but because why would you want a towel used by 5,000 other people?</li></ul><h2><strong>Biden approval</strong></h2>
 
 
 
-<figure><img loading="lazy" width="1150" height="920" src="https://fivethirtyeight.com/wp-content/uploads/2021/09/biden-approval-rating-2-2.png" alt="" data-src="https://fivethirtyeight.com/wp-content/uploads/2021/09/biden-approval-rating-2-2.png" data-srcset="https://fivethirtyeight.com/wp-content/uploads/2021/09/biden-approval-rating-2-2.png?w=700 1x, https://fivethirtyeight.com/wp-content/uploads/2021/09/biden-approval-rating-2-2.png?w=1400 2x"></figure><p data-paragraph="main">According to FiveThirtyEight’s <a href="https://projects.fivethirtyeight.com/biden-approval-rating/" target="_blank" rel="noopener">presidential approval tracker</a>,<a data-footnote-id="6" href="https://fivethirtyeight.com/wp-json/wp/v2/espn_verticals/398#fn-6" data-footnote-content="&lt;p&gt;&lt;p&gt;As of 5 p.m. Eastern on Thursday.&lt;/p&gt;
-&lt;/p&gt;"><sup>6</sup></a> 45 percent of Americans approve of the job Biden is doing as president, while 47.8 percent disapprove (a net approval rating of -2.8 percentage points.) At this time <a href="https://fivethirtyeight.com/features/most-parents-want-their-kids-back-in-the-classroom-fewer-agree-on-the-covid-19-safety-measures/" target="_blank" rel="noopener">last week</a>, 46.1 percent approved and 48.1 percent disapproved (a net approval rating of -2 points). One month ago, Biden had an approval rating of 50.4 percent and a disapproval rating of 43.3 percent (a net approval rating of +7 points).</p>
+<figure><img loading="lazy" width="1150" height="920" src="https://fivethirtyeight.com/wp-content/uploads/2021/09/biden-approval-rating-2-2.png" alt="" data-src="https://fivethirtyeight.com/wp-content/uploads/2021/09/biden-approval-rating-2-2.png" data-srcset="https://fivethirtyeight.com/wp-content/uploads/2021/09/biden-approval-rating-2-2.png?w=700 1x, https://fivethirtyeight.com/wp-content/uploads/2021/09/biden-approval-rating-2-2.png?w=1400 2x"></figure><p data-paragraph="main">According to FiveThirtyEight’s <a href="https://projects.fivethirtyeight.com/biden-approval-rating/" target="_blank" rel="noopener">presidential approval tracker</a>,<a data-footnote-id="10" href="https://fivethirtyeight.com/wp-json/wp/v2/espn_verticals/398#fn-10" data-footnote-content="&lt;p&gt;&lt;p&gt;As of 5 p.m. Eastern on Thursday.&lt;/p&gt;
+&lt;/p&gt;"><sup>10</sup></a> 45 percent of Americans approve of the job Biden is doing as president, while 47.8 percent disapprove (a net approval rating of -2.8 percentage points.) At this time <a href="https://fivethirtyeight.com/features/most-parents-want-their-kids-back-in-the-classroom-fewer-agree-on-the-covid-19-safety-measures/" target="_blank" rel="noopener">last week</a>, 46.1 percent approved and 48.1 percent disapproved (a net approval rating of -2 points). One month ago, Biden had an approval rating of 50.4 percent and a disapproval rating of 43.3 percent (a net approval rating of +7 points).</p>
 
 
 
@@ -502,8 +625,8 @@
 			<category>Coronavirus</category>
 			<category>COVID-19</category>
 			<category>COVID-19 Vaccine</category>
-			<description><![CDATA[<p data-paragraph="main">At first glance, Melissa<a data-footnote-id="32" href="https://fivethirtyeight.com/wp-json/wp/v2/espn_verticals/398#fn-32" data-footnote-content="&lt;p&gt;&lt;p&gt;Melissa is not her real name. She requested a pseudonym because she is concerned her beliefs will create backlash.&lt;/p&gt;
-&lt;/p&gt;"><sup>32</sup></a> seems to meet all the criteria of the “crunchy granola” type. She tracks ingredients on all the products she buys and uses apps to identify anything that isn’t “clean.” She says she considers herself vaccine-hesitant.</p>
+			<description><![CDATA[<p data-paragraph="main">At first glance, Melissa<a data-footnote-id="36" href="https://fivethirtyeight.com/wp-json/wp/v2/espn_verticals/398#fn-36" data-footnote-content="&lt;p&gt;&lt;p&gt;Melissa is not her real name. She requested a pseudonym because she is concerned her beliefs will create backlash.&lt;/p&gt;
+&lt;/p&gt;"><sup>36</sup></a> seems to meet all the criteria of the “crunchy granola” type. She tracks ingredients on all the products she buys and uses apps to identify anything that isn’t “clean.” She says she considers herself vaccine-hesitant.</p>
 
 
 
@@ -621,8 +744,8 @@
 
 
 
-<p data-paragraph="main">Those policies reflect the <a href="https://www.pewresearch.org/fact-tank/2015/11/19/u-s-public-seldom-has-welcomed-refugees-into-country/" target="_blank" rel="noopener">historically strong strain of anti-asylum sentiment</a> in American public opinion. Searching through the Roper Center’s database of <a href="https://ropercenter.cornell.edu/ipoll/search?collection=LSM&amp;q=refugees" target="_blank" rel="noopener">polling questions on “refugees”</a> since the 1930s reveals that Americans have rarely supported asylum for forcibly displaced migrants seeking safe-haven in the U.S.<a data-footnote-id="33" href="https://fivethirtyeight.com/wp-json/wp/v2/espn_verticals/398#fn-33" data-footnote-content='&lt;p&gt;&lt;p&gt;The one exception is when &lt;a href="https://ropercenter.cornell.edu/ipoll/study/31088773/questions#07cd6c18-15ce-4737-9f06-73f4127c39d9" target="_blank" rel="noopener"&gt;66 percent supported&lt;/a&gt; the Clinton administration’s decision to bring a relatively small number of ethnic Albanian refugees from Kosovo to the U.S. in 1999.&lt;/p&gt;
-&lt;/p&gt;'><sup>33</sup></a> Nearly two-thirds <a href="https://www.washingtonpost.com/news/worldviews/wp/2015/11/17/what-americans-thought-of-jewish-refugees-on-the-eve-of-world-war-ii/" target="_blank" rel="noopener">opposed admitting 10,000 Jewish children</a> into the U.S., who were fleeing Nazism in 1939. Even after the horrors of the Holocaust were further exposed in the post-war period, only 27 percent of respondents in a <a href="https://www.dropbox.com/s/wvckuwfe4w4b48x/gallup1946.png?dl=0" target="_blank" rel="noopener">1946 Gallup poll</a> supported a proposed “plan to require each nation to take in a given number of Jewish and other European refugees,” compared with 59 percent who disapproved.</p>
+<p data-paragraph="main">Those policies reflect the <a href="https://www.pewresearch.org/fact-tank/2015/11/19/u-s-public-seldom-has-welcomed-refugees-into-country/" target="_blank" rel="noopener">historically strong strain of anti-asylum sentiment</a> in American public opinion. Searching through the Roper Center’s database of <a href="https://ropercenter.cornell.edu/ipoll/search?collection=LSM&amp;q=refugees" target="_blank" rel="noopener">polling questions on “refugees”</a> since the 1930s reveals that Americans have rarely supported asylum for forcibly displaced migrants seeking safe-haven in the U.S.<a data-footnote-id="37" href="https://fivethirtyeight.com/wp-json/wp/v2/espn_verticals/398#fn-37" data-footnote-content='&lt;p&gt;&lt;p&gt;The one exception is when &lt;a href="https://ropercenter.cornell.edu/ipoll/study/31088773/questions#07cd6c18-15ce-4737-9f06-73f4127c39d9" target="_blank" rel="noopener"&gt;66 percent supported&lt;/a&gt; the Clinton administration’s decision to bring a relatively small number of ethnic Albanian refugees from Kosovo to the U.S. in 1999.&lt;/p&gt;
+&lt;/p&gt;'><sup>37</sup></a> Nearly two-thirds <a href="https://www.washingtonpost.com/news/worldviews/wp/2015/11/17/what-americans-thought-of-jewish-refugees-on-the-eve-of-world-war-ii/" target="_blank" rel="noopener">opposed admitting 10,000 Jewish children</a> into the U.S., who were fleeing Nazism in 1939. Even after the horrors of the Holocaust were further exposed in the post-war period, only 27 percent of respondents in a <a href="https://www.dropbox.com/s/wvckuwfe4w4b48x/gallup1946.png?dl=0" target="_blank" rel="noopener">1946 Gallup poll</a> supported a proposed “plan to require each nation to take in a given number of Jewish and other European refugees,” compared with 59 percent who disapproved.</p>
 
 
 
@@ -680,13 +803,13 @@
 
 
 
-<figure><img loading="lazy" width="1150" height="1250" src="https://fivethirtyeight.com/wp-content/uploads/2021/09/rakich-mejia.VOTING-RESTRICTIONS-2.0809.png" alt="" data-src="https://fivethirtyeight.com/wp-content/uploads/2021/09/rakich-mejia.VOTING-RESTRICTIONS-2.0809.png" data-srcset="https://fivethirtyeight.com/wp-content/uploads/2021/09/rakich-mejia.VOTING-RESTRICTIONS-2.0809.png?w=700 1x, https://fivethirtyeight.com/wp-content/uploads/2021/09/rakich-mejia.VOTING-RESTRICTIONS-2.0809.png?w=1400 2x"></figure><p data-paragraph="main">In total, state legislators proposed a whopping 581 voting-restriction bills this year — 89 percent of them sponsored by Republicans. Most (402) were rejected or failed to pass before a key deadline, but 42 of those passed at least one state-legislative chamber before dying, and another eight would have become law had they not been vetoed by their state’s (usually Democratic) governor.<a data-footnote-id="34" href="https://fivethirtyeight.com/wp-json/wp/v2/espn_verticals/398#fn-34" data-footnote-content='&lt;p&gt;&lt;p&gt;One was vetoed by a Republican governor, Gov. Doug Ducey of Arizona, as &lt;a href="https://tucson.com/news/local/ducey-goes-on-veto-spree-demands-budget-passage/article_a92275d6-bfe5-11eb-9ca2-833e7aad09b7.html" target="_blank" rel="noopener"&gt;retribution&lt;/a&gt; for the legislature not sending him a budget on time.&lt;/p&gt;
-&lt;/p&gt;'><sup>34</sup></a> And technically, 127 voting-restriction bills are still alive, including 20 that have passed at least one chamber. However, these bills are mostly either <a href="https://www.freep.com/story/news/politics/2021/06/23/michigan-house-republicans-pass-bills-enact-strict-voter-id-laws/5328162001/" target="_blank" rel="noopener">blocked by Democratic governors</a> or <a href="https://legiscan.com/OH/bill/HB294/2021" target="_blank" rel="noopener">languishing in committee</a> (putting them still quite far away from passage). So the number of voting restrictions enacted here in 2021 likely won’t rise very far, if at all, beyond 52.</p>
+<figure><img loading="lazy" width="1150" height="1250" src="https://fivethirtyeight.com/wp-content/uploads/2021/09/rakich-mejia.VOTING-RESTRICTIONS-2.0809.png" alt="" data-src="https://fivethirtyeight.com/wp-content/uploads/2021/09/rakich-mejia.VOTING-RESTRICTIONS-2.0809.png" data-srcset="https://fivethirtyeight.com/wp-content/uploads/2021/09/rakich-mejia.VOTING-RESTRICTIONS-2.0809.png?w=700 1x, https://fivethirtyeight.com/wp-content/uploads/2021/09/rakich-mejia.VOTING-RESTRICTIONS-2.0809.png?w=1400 2x"></figure><p data-paragraph="main">In total, state legislators proposed a whopping 581 voting-restriction bills this year — 89 percent of them sponsored by Republicans. Most (402) were rejected or failed to pass before a key deadline, but 42 of those passed at least one state-legislative chamber before dying, and another eight would have become law had they not been vetoed by their state’s (usually Democratic) governor.<a data-footnote-id="38" href="https://fivethirtyeight.com/wp-json/wp/v2/espn_verticals/398#fn-38" data-footnote-content='&lt;p&gt;&lt;p&gt;One was vetoed by a Republican governor, Gov. Doug Ducey of Arizona, as &lt;a href="https://tucson.com/news/local/ducey-goes-on-veto-spree-demands-budget-passage/article_a92275d6-bfe5-11eb-9ca2-833e7aad09b7.html" target="_blank" rel="noopener"&gt;retribution&lt;/a&gt; for the legislature not sending him a budget on time.&lt;/p&gt;
+&lt;/p&gt;'><sup>38</sup></a> And technically, 127 voting-restriction bills are still alive, including 20 that have passed at least one chamber. However, these bills are mostly either <a href="https://www.freep.com/story/news/politics/2021/06/23/michigan-house-republicans-pass-bills-enact-strict-voter-id-laws/5328162001/" target="_blank" rel="noopener">blocked by Democratic governors</a> or <a href="https://legiscan.com/OH/bill/HB294/2021" target="_blank" rel="noopener">languishing in committee</a> (putting them still quite far away from passage). So the number of voting restrictions enacted here in 2021 likely won’t rise very far, if at all, beyond 52.</p>
 
 
 
-<p data-paragraph="main">Even if nothing else passes, though, that is still a staggering number by historical standards. The Brennan Center for Justice has tracked the number of new voting restrictions enacted every year since 2011, and no year has even come close to 2021: The previous high was the <a href="https://www.brennancenter.org/our-work/research-reports/voting-law-changes-2012" target="_blank" rel="noopener">19 voting restrictions</a> enacted in 2011,<a data-footnote-id="35" href="https://fivethirtyeight.com/wp-json/wp/v2/espn_verticals/398#fn-35" data-footnote-content="&lt;p&gt;&lt;p&gt;As of October of that year.&lt;/p&gt;
-&lt;/p&gt;"><sup>35</sup></a> the year after Republicans took full control of several state governments in the 2010 election. In <a href="https://www.brennancenter.org/our-work/research-reports/election-2012-voting-laws-roundup" target="_blank" rel="noopener">recent</a> <a href="https://www.brennancenter.org/our-work/research-reports/voting-laws-roundup-2013" target="_blank" rel="noopener">years</a>, the <a href="https://www.brennancenter.org/our-work/research-reports/voting-laws-roundup-2014" target="_blank" rel="noopener">number</a> of <a href="https://www.brennancenter.org/our-work/research-reports/voting-laws-roundup-2015" target="_blank" rel="noopener">new</a> <a href="https://www.brennancenter.org/our-work/research-reports/voting-laws-roundup-2016" target="_blank" rel="noopener">restrictions</a> has <a href="https://www.brennancenter.org/our-work/research-reports/voting-laws-roundup-2017" target="_blank" rel="noopener">typically</a> been in the <a href="https://www.brennancenter.org/our-work/research-reports/voting-laws-roundup-2018" target="_blank" rel="noopener">single</a> <a href="https://www.brennancenter.org/our-work/research-reports/voting-laws-roundup-2019" target="_blank" rel="noopener">digits</a>. (For example, 2020 saw only <a href="https://www.brennancenter.org/our-work/research-reports/voting-laws-roundup-2020-0" target="_blank" rel="noopener">seven new voting restrictions</a> become law.)</p>
+<p data-paragraph="main">Even if nothing else passes, though, that is still a staggering number by historical standards. The Brennan Center for Justice has tracked the number of new voting restrictions enacted every year since 2011, and no year has even come close to 2021: The previous high was the <a href="https://www.brennancenter.org/our-work/research-reports/voting-law-changes-2012" target="_blank" rel="noopener">19 voting restrictions</a> enacted in 2011,<a data-footnote-id="39" href="https://fivethirtyeight.com/wp-json/wp/v2/espn_verticals/398#fn-39" data-footnote-content="&lt;p&gt;&lt;p&gt;As of October of that year.&lt;/p&gt;
+&lt;/p&gt;"><sup>39</sup></a> the year after Republicans took full control of several state governments in the 2010 election. In <a href="https://www.brennancenter.org/our-work/research-reports/election-2012-voting-laws-roundup" target="_blank" rel="noopener">recent</a> <a href="https://www.brennancenter.org/our-work/research-reports/voting-laws-roundup-2013" target="_blank" rel="noopener">years</a>, the <a href="https://www.brennancenter.org/our-work/research-reports/voting-laws-roundup-2014" target="_blank" rel="noopener">number</a> of <a href="https://www.brennancenter.org/our-work/research-reports/voting-laws-roundup-2015" target="_blank" rel="noopener">new</a> <a href="https://www.brennancenter.org/our-work/research-reports/voting-laws-roundup-2016" target="_blank" rel="noopener">restrictions</a> has <a href="https://www.brennancenter.org/our-work/research-reports/voting-laws-roundup-2017" target="_blank" rel="noopener">typically</a> been in the <a href="https://www.brennancenter.org/our-work/research-reports/voting-laws-roundup-2018" target="_blank" rel="noopener">single</a> <a href="https://www.brennancenter.org/our-work/research-reports/voting-laws-roundup-2019" target="_blank" rel="noopener">digits</a>. (For example, 2020 saw only <a href="https://www.brennancenter.org/our-work/research-reports/voting-laws-roundup-2020-0" target="_blank" rel="noopener">seven new voting restrictions</a> become law.)</p>
 
 
 
@@ -4194,160 +4317,6 @@
 <p data-paragraph="main"><em>The FiveThirtyEight Politics podcast is recorded Mondays and Thursdays. Help new listeners discover the show by </em><a href="https://itunes.apple.com/us/podcast/fivethirtyeight-elections/id1077418457?mt=2" target="_blank" rel="noopener"><em>leaving us a rating and review on iTunes</em></a><em>. Have a comment, question or suggestion for “good polling vs. bad polling”? Get in touch by email, </em><a href="https://twitter.com/FiveThirtyEight" target="_blank" rel="noopener"><em>on Twitter</em></a><em> or in the comments.</em></p>]]></description>
 			<pubDate>Mon, 30 Aug 2021 22:55:00 +0100</pubDate>
 			<guid isPermaLink="false">1630364402532800</guid>
-		</item>
-		<item>
-			<title>What Drove 9 Moderate House Democrats To Hold Up Their Party’s Agenda?</title>
-			<link>https://fivethirtyeight.com/features/what-drove-9-moderate-house-democrats-to-hold-up-their-partys-agenda/</link>
-						<dc:creator>Nathaniel Rakich</dc:creator>
-			<dc:creator>Nathaniel Rakich</dc:creator>
-			<category>Congress</category>
-			<category>House Democrats</category>
-			<category>Moderates</category>
-			<category>Nancy Pelosi</category>
-			<category>The Biden Administration</category>
-			<description><![CDATA[<p data-paragraph="main">With Democrats clinging to just an <a href="https://pressgallery.house.gov/member-data/party-breakdown" target="_blank" rel="noopener">eight-seat majority</a> in the House of Representatives, even a small number of defectors can hold up the party’s legislative agenda. That reality was on vivid display last week, when nine moderate Democrats <a href="https://apnews.com/article/business-c2c1cfd80e7850d32d3387a9e1c05087" target="_blank" rel="noopener">threatened to vote no</a> on moving forward with Democrats’ $3.5 trillion budget resolution unless the House first voted to pass the Senate’s bipartisan $1 trillion infrastructure package.</p>
-
-
-
-<p data-paragraph="main">House Speaker Nancy Pelosi eventually <a href="https://www.latimes.com/politics/story/2021-08-24/house-senate-infrastructure-bill-moderates" target="_blank" rel="noopener">struck a deal with the bloc</a>, and the budget resolution passed on a party-line vote, but this will probably not be the last we hear of the “Moderate Nine.” So let’s get to know these fairly anonymous members of Congress a little bit better by exploring three key questions. First, do they have a long track record of moderation, or did their objection to the budget come as a surprise? Second, are they tacking toward the center for electoral reasons, or are they acting out of principle? And finally, might any of them be vulnerable to progressive primary challenges in 2022?</p>
-
-
-
-<p data-paragraph="main">First of all, these were the members of Congress you would by and large expect to balk at ambitious progressive legislation. Eight of the nine are members of the <a href="https://bluedogcaucus-costa.house.gov/members" target="_blank" rel="noopener">Blue Dog Coalition</a>, a caucus of centrist Democrats. And they mostly have moderate voting records, too. According to the first dimension of <a href="https://voteview.com/data" target="_blank" rel="noopener">DW-Nominate</a>, which uses voting records to quantify the ideology of every member of Congress on a scale from 1 (most conservative) to -1 (most liberal), seven of the nine have ideology scores of -0.254 or closer to zero. That places them among the top 32 most conservative Democrats in the House. In fact, one of them — Rep. Jared Golden — is the single most conservative Democrat in the House according to DW-Nominate, with a score of -0.112. And Rep. Josh Gottheimer, the Moderate Nine’s unofficial ringleader, is the third-most conservative, with a score of -0.147.</p>
-
-
-<div>
-<section><header><h5>Meet the ‘Moderate Nine’ House Democrats</h5>
- <p>Ideological measures and electoral statistics for the nine moderate Democrats who held up the $3.5 trillion budget resolution</p>
- </header><table data-carpenter-slug="rakich.moderate-9.1"><thead><tr><th colspan="1">Representative</th>
- <th colspan="1">District</th>
- <th colspan="1">Conservative Rank*</th>
- <th colspan="1">Biden Score</th>
- <th colspan="1">Blue Dog†</th>
- <th colspan="1">District Partisan Lean</th>
- <th colspan="1">2020 Primary Voteshare</th>
- </tr></thead><tbody><tr><td>Carolyn Bourdeaux</td>
- <td>GA-07</td>
- <td>31</td>
- <td data-suffix="%" data-suffixpadding="1.1em">100%</td>
- <td>✓</td>
- <td>R+4</td>
- <td data-suffix="%" data-suffixpadding="1.1em">53%</td>
- </tr><tr><td>Ed Case</td>
- <td>HI-01</td>
- <td>16</td>
- <td>100</td>
- <td>✓</td>
- <td>D+32</td>
- <td>100</td>
- </tr><tr><td>Jim Costa</td>
- <td>CA-16</td>
- <td>13</td>
- <td>100</td>
- <td>✓</td>
- <td>D+17</td>
- <td>58^</td>
- </tr><tr><td>Henry Cuellar</td>
- <td>TX-28</td>
- <td>18</td>
- <td>97</td>
- <td>✓</td>
- <td>D+4</td>
- <td>52</td>
- </tr><tr><td>Jared Golden</td>
- <td>ME-02</td>
- <td>1</td>
- <td>81</td>
- <td>✓</td>
- <td>R+11</td>
- <td>100</td>
- </tr><tr><td>Vicente Gonzalez</td>
- <td>TX-15</td>
- <td>111</td>
- <td>97</td>
- <td>✓</td>
- <td>D+2</td>
- <td>100</td>
- </tr><tr><td>Josh Gottheimer</td>
- <td>NJ-05</td>
- <td>3</td>
- <td>100</td>
- <td>✓</td>
- <td>EVEN</td>
- <td>66</td>
- </tr><tr><td>Kurt Schrader</td>
- <td>OR-05</td>
- <td>10</td>
- <td>97</td>
- <td>✓</td>
- <td>D+4</td>
- <td>69</td>
- </tr><tr><td>Filemon Vela§</td>
- <td>TX-34</td>
- <td>72</td>
- <td>100</td>
- <td></td>
- <td>D+5</td>
- <td>75</td>
- </tr></tbody></table><footer><p>*Where each representative ranks within the House Democratic caucus, from most conservative to most liberal, according to DW-Nominate.</p>
- <p>†The Blue Dog Coalition is a caucus of moderate Democrats.</p>
- <p>^As a share of total votes cast for Democrats in the top-two primary.</p>
- <p>§Retiring.</p>
- <p>Sources: Voteview, Blue Dog Coalition, state election offices</p>
- </footer></section></div>
-
-
-<p data-paragraph="main">Perhaps surprisingly, though, most of the Moderate Nine vote in line with President Biden’s position all or almost all of the time, according to FiveThirtyEight’s <a href="https://projects.fivethirtyeight.com/biden-congress-votes/house/" target="_blank" rel="noopener">Biden Score</a>. Five of them have voted with Biden 100 percent of the time, and three more have voted with him 97 percent of the time. Of course, this doesn’t reflect the headaches these members may cause behind the scenes for Biden and Pelosi — but it does reflect how they almost always vote with their party in the end, as they did on the budget resolution. (The fact that only eight House Democrats have Biden Scores below 97 percent also reflects how remarkably cohesive the Democratic caucus has been so far this Congress.) </p>
-
-
-
-<p data-paragraph="main">Golden is once again the outlier here, voting with Biden only 81 percent of the time — the lowest score not only among the Moderate Nine, but also among all House Democrats. This may partially be because Golden has strong electoral incentives to be a centrist: His Maine 2nd District has a <a href="https://fivethirtyeight.com/features/how-red-or-blue-is-your-state-your-congressional-district/" target="_blank" rel="noopener">FiveThirtyEight partisan lean</a><a data-footnote-id="45" href="https://fivethirtyeight.com/wp-json/wp/v2/espn_verticals/398#fn-45" data-footnote-content="&lt;p&gt;&lt;p&gt;Partisan lean is the average margin difference between how a state or district votes and how the country votes overall. This version of partisan lean, meant to be used for congressional and gubernatorial elections, is calculated as 50 percent the state or district’s lean relative to the nation in the most recent presidential election, 25 percent its relative lean in the second-most-recent presidential election and 25 percent a custom state-legislative lean.&lt;/p&gt;
-&lt;/p&gt;"><sup>45</sup></a> of R+11, making it the most Republican-leaning district in the nation currently represented by a Democrat.</p>
-
-
-<p>Watch: https://abcnews.go.com/fivethirtyeight/video/bidens-approval-rating-fallen-fivethirtyeight-politics-podcast-79388894</p>
-
-
-<p data-paragraph="main">But, of course, Golden is not the only Democrat representing inhospitable terrain. Several other members of the Moderate Nine also occupy competitive seats, including Rep. Carolyn Bourdeaux (R+4), Gottheimer (EVEN), Rep. Vicente Gonzalez (D+2) and Rep. Kurt Schrader (D+4). So it’s likely that their objection to the budget was at least partially an attempt to burnish their moderate credentials for swing voters as well.<a data-footnote-id="46" href="https://fivethirtyeight.com/wp-json/wp/v2/espn_verticals/398#fn-46" data-footnote-content='&lt;p&gt;&lt;p&gt;Of course, all of their congressional districts will be redrawn in the next year as part of the &lt;a href="https://projects.fivethirtyeight.com/redistricting-2022-maps/" target="_blank" rel="noopener"&gt;decennial redistricting process&lt;/a&gt;, but none of them should count on getting a free ride to reelection in 2022 regardless.&lt;/p&gt;
-&lt;/p&gt;'><sup>46</sup></a> This may be especially true of Gonzalez, who stands apart from the rest of the Moderate Nine with his -0.382 DW-Nominate score — smack dab in the middle of the Democratic caucus. Prior to 2020, Gonzalez’s Texas 15th District had been safely Democratic turf, but Biden surprisingly carried it by <a href="https://www.dailykos.com/stories/2020/11/19/1163009/-Daily-Kos-Elections-presidential-results-by-congressional-district-for-2020-2016-and-2012" target="_blank" rel="noopener">just 2 percentage points</a>, and Gonzalez himself eked out only a <a href="https://results.texas-election.com/races" target="_blank" rel="noopener">3-point win</a>. As a result, Gonzalez may have felt the need to adopt more moderate stances. Indeed, a Congress-by-Congress version of DW-Nominate finds that Gonzalez’s voting record has not been nearly as liberal here in 2021 as it was in 2019-20.</p>
-
-
-
-<p data-paragraph="main">Electoral considerations don’t appear to be motivating the moderation of Reps. Ed Case, Jim Costa and Filemon Vela, however. Case and Costa both represent solidly Democratic districts, with partisan leans of D+32 and D+17, respectively; in other words, these two representatives could be much more progressive and still be in no danger of losing a general election. And while Vela’s Texas 34th District is, like Gonzalez’s, newly competitive (D+5), Vela announced back in March that he <a href="https://www.texastribune.org/2021/03/22/filemon-vela-reelection/" target="_blank" rel="noopener">would not run for reelection</a>. So it seems likely that these three representatives genuinely believe in more of a centrist approach to governing. You might put Rep. Henry Cuellar in the same category, too: Although he’s running for reelection in a swing seat (D+4), his district (like Vela’s and Gonzalez’s) also zoomed to the right in the 2020 election. And Cuellar was known as <a href="https://www.texastribune.org/2018/09/11/democrat-henry-cuellar-fundraising-republican-john-carter/" target="_blank" rel="noopener">one of the most conservative Democrats in the House</a> even when his district was safely blue.</p>
-
-
-<div>
-	<p>
-		<a href="https://fivethirtyeight.com/features/why-long-shot-candidates-are-raising-more-money-than-ever/?cid=_inlinerelated"><img alt="Kim Klacik speaking into a mic and gesturing to a crowd that surrounds her. On the table in front of her is a poster for her Congressional run" width="153" height="115" data-sizes="(min-width: 440px) 153px, 100vw" data-srcset="https://fivethirtyeight.com/wp-content/uploads/2021/08/AP20036161574874-4x3-1.jpg?w=153&amp;quality=100&amp;strip=all 153w, https://fivethirtyeight.com/wp-content/uploads/2021/08/AP20036161574874-4x3-1.jpg?w=306&amp;quality=100&amp;strip=all 306w, https://fivethirtyeight.com/wp-content/uploads/2021/08/AP20036161574874-4x3-1.jpg?w=405&amp;quality=100&amp;strip=all 405w, https://fivethirtyeight.com/wp-content/uploads/2021/08/AP20036161574874-4x3-1.jpg?w=810&amp;quality=100&amp;strip=all 810w"></a>
-	</p>
-	<p>
-				<strong>related:</strong>
-				Why Candidates With Little Hope Of Winning Are Raising More Money Than Ever <a href="https://fivethirtyeight.com/features/why-long-shot-candidates-are-raising-more-money-than-ever/?cid=_inlinerelated">Read more. »</a>
-	</p>
-</div>
-
-
-
-<p data-paragraph="main">But regardless of their motivations, the Moderate Nine have drawn plenty of flak from their fellow Democrats; a coalition of progressive groups has even <a href="https://thehill.com/business-a-lobbying/business-a-lobbying/568981-progressive-groups-target-moderate-dems-over-effort" target="_blank" rel="noopener">spent six figures</a> on an ad campaign attacking them over their holdup of the budget. And while it’s still <a href="https://fivethirtyeight.com/features/ed-markey-won-but-its-still-been-a-rough-year-for-incumbents/" target="_blank" rel="noopener">rare for an incumbent to lose renomination</a>, some data suggests that some members of the Moderate Nine may be vulnerable to primary challenges if progressives decide to press their case. As occupants of safe blue seats, Case and Costa would seem like natural targets. In addition, Sen. Bernie Sanders won <a href="http://www.thegreenpapers.com/P20/CA-D" target="_blank" rel="noopener">41 percent of the vote</a> in Costa’s district in the 2020 presidential primary, and Costa himself won just <a href="https://elections.cdn.sos.ca.gov/sov/2020-primary/sov/126-us-rep-congress.pdf" target="_blank" rel="noopener">58 percent of the votes cast for Democratic candidates</a> in the March 2020 top-two primary for his seat, suggesting his district has a not-insignificant appetite for more progressive politicians. For his part, Case was <a href="https://files.hawaii.gov/elections/files/results/2020/primary/histatewide.pdf" target="_blank" rel="noopener">unopposed</a> in his 2020 primary, but he won only a <a href="https://files.hawaii.gov/elections/files/results/2018/primary/histatewide.pdf" target="_blank" rel="noopener">40 percent plurality</a> in the crowded 2018 primary, when his Hawaii 1st District was an open seat. And Case has raised <a href="https://www.fec.gov/data/candidate/H2HI02128/" target="_blank" rel="noopener">less than $100,000</a> for his 2022 reelection campaign so far.</p>
-
-
-
-<p data-paragraph="main">Cuellar is another prime candidate to lose his primary next year; in 2020, progressive attorney Jessica Cisneros held Cuellar to just a <a href="https://www.tpr.org/news/2020-03-04/henry-cuellar-narrowly-defeats-jessica-cisneros-in-tx-28-democratic-primary" target="_blank" rel="noopener">52 percent to 48 percent primary win</a>, and Cisneros has already announced she will <a href="https://www.texastribune.org/2021/08/05/jessica-cisneros-henry-cuellar-democratic-primary/" target="_blank" rel="noopener">run again in 2022</a>. Bourdeaux might also be in for a tough fight: It’s a <a href="https://georgiarecorder.com/2021/05/04/ga-house-members-could-be-on-hot-seat-in-congressional-redistricting/" target="_blank" rel="noopener">distinct possibility</a> that the Republicans in charge of redistricting in her home state of Georgia will draw her and neighboring Rep. Lucy McBath together into a single safe blue district (in effort to reclaim a seat for themselves). Although Bourdeaux has already raised a hefty <a href="https://www.fec.gov/data/candidate/H8GA07201/" target="_blank" rel="noopener">$1.2 million</a> for 2022, McBath has raised <a href="https://www.fec.gov/data/candidate/H8GA06393/" target="_blank" rel="noopener">even more</a>. Bourdeaux is also a first-term representative who won her 2020 primary with only <a href="https://results.enr.clarityelections.com/GA/103613/web.255599/#/detail/30720" target="_blank" rel="noopener">53 percent</a> of the vote, so she may not have had time yet to build up loyalty among local powerbrokers and voters.</p>
-
-
-
-<p data-paragraph="main">There are fewer signs, though, that the other four non-retiring moderates might be vulnerable in a primary. For instance, Gottheimer defeated progressive Arati Kreibich <a href="https://www.state.nj.us/state/elections/assets/pdf/election-results/2020/2020-official-primary-results-us-house-amended-0826.pdf" target="_blank" rel="noopener">66 percent to 34 percent</a> in his 2020 primary, and he won’t be easy to take down next year either: One of the most prodigious fundraisers in Congress, Gottheimer took in <a href="https://www.fec.gov/data/candidate/H6NJ05171/" target="_blank" rel="noopener">$1.9 million</a> in the first six months of 2021 and currently has more than $10 million in his campaign war chest. </p>
-
-
-
-<p data-paragraph="main">But the $3.5 trillion budget is hardly the last fight we can expect over the Democratic agenda in Congress this year, and with their success at getting Democratic leadership to negotiate with them, we can probably expect the Moderate Nine — and other representatives who fit these criteria — to continue to try to block (or at least influence) future legislation. Some may be acting with the intention of building credibility with swing voters, but their actions are not without risk as well: The more centrist notoriety they gain, the more likely they will be targeted in a Democratic primary. And of course, if Biden and the Democratic Congress are perceived as ineffective at governing, general-election voters might not distinguish between individual Democrats when they punish the party in November 2022.</p>
-
-
-<p>Watch: https://abcnews.go.com/fivethirtyeight/video/americans-ending-war-afghanistan-79488089</p>
-
-<p>Watch: https://abcnews.go.com/fivethirtyeight/video/cuomo-resigning-now-fivethirtyeight-politics-podcast-79389991</p>]]></description>
-			<pubDate>Mon, 30 Aug 2021 11:00:00 +0100</pubDate>
-			<guid isPermaLink="false">1630346402200265</guid>
 		</item>
 
 	</channel>
