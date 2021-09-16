@@ -3,9 +3,193 @@
 		<title>Main stream | FreshRSS</title>
 		<link>http://radon</link>
 		<description>RSS feed of Main stream | FreshRSS</description>
-		<pubDate>Thu, 16 Sep 2021 13:29:06 +0100</pubDate>
-		<lastBuildDate>Thu, 16 Sep 2021 12:29:06 GMT</lastBuildDate>
+		<pubDate>Thu, 16 Sep 2021 13:59:06 +0100</pubDate>
+		<lastBuildDate>Thu, 16 Sep 2021 12:59:06 GMT</lastBuildDate>
 		<atom:link href="http://radon/i/?a=rss" rel="self" type="application/rss+xml" />
+		<item>
+			<title>Do Voters Want Democrats Or Republicans In Congress?</title>
+			<link>https://projects.fivethirtyeight.com/congress-generic-ballot-polls/</link>
+						<dc:creator>Aaron Bycoffe</dc:creator>
+			<dc:creator>Aaron Bycoffe， Dhrumil Mehta and Nate Silver</dc:creator>
+			<category>2018 Election</category>
+			<category>2022 Election</category>
+			<category>Congress</category>
+			<category>Generic Ballot</category>
+			<category>Polls</category>
+			<description><![CDATA[<p>Are Democrats Or Republicans Winning The Race For Congress?</p>
+<p>An updating estimate of the generic ballot, based on polls that ask people which party they would support in a congressional election.</p>
+<table>
+<tbody>
+<tr>
+<th></th>
+<th>DATES</th>
+<th>POLLSTER</th>
+<th>GRADE</th>
+<th colspan="2">SAMPLE</th>
+<th>WEIGHT</th>
+<th>REPUBLICAN</th>
+<th>DEMOCRAT</th>
+<th></th>
+<th>LEADER</th>
+<th>ADJUSTED LEADER</th>
+</tr>
+</tbody>
+<tbody>
+<tr>
+<td></td>
+<td>MAY 27-30</td>
+<td><a href="https://d25d2506sfb94s.cloudfront.net/cumulus_uploads/document/sm62pd19o2/econTabReport.pdf" target="_blank" rel="noopener">YouGov</a></td>
+<td><a href="https://projects.fivethirtyeight.com/pollster-ratings/">B</a></td>
+<td>1,266</td>
+<td>RV</td>
+<td>0.76</td>
+<td>33%</td>
+<td>39%</td>
+<td></td>
+<td>Democrat +6</td>
+<td>Democrat +8</td>
+</tr>
+<tr>
+<td></td>
+<td>MAY 25-30</td>
+<td><a href="http://www.politico.com/f/?id=0000015c-5adf-d8e5-adff-5fffa65d0001" target="_blank" rel="noopener">Morning Consult</a></td>
+<td></td>
+<td>1,991</td>
+<td>RV</td>
+<td>0.54</td>
+<td>39%</td>
+<td>43%</td>
+<td></td>
+<td>Democrat +4</td>
+<td>Democrat +7</td>
+</tr>
+<tr>
+<td></td>
+<td>MAY 20-23</td>
+<td><a href="https://d25d2506sfb94s.cloudfront.net/cumulus_uploads/document/nkn28k0m0p/econTabReport.pdf" target="_blank" rel="noopener">YouGov</a></td>
+<td><a href="https://projects.fivethirtyeight.com/pollster-ratings/">B</a></td>
+<td>1,266</td>
+<td>RV</td>
+<td>0.65</td>
+<td>36%</td>
+<td>38%</td>
+<td></td>
+<td>Democrat +2</td>
+<td>Democrat +4</td>
+</tr>
+<tr>
+<td></td>
+<td>MAY 18-22</td>
+<td><a href="https://morningconsult.com/2017/05/24/trump-arrests-slide-despite-concerns-russia-probe-comey-firing/" target="_blank" rel="noopener">Morning Consult</a></td>
+<td></td>
+<td>1,938</td>
+<td>RV</td>
+<td>0.40</td>
+<td>37%</td>
+<td>41%</td>
+<td></td>
+<td>Democrat +4</td>
+<td>Democrat +7</td>
+</tr>
+<tr>
+<td></td>
+<td>MAY 13-16</td>
+<td><a href="https://d25d2506sfb94s.cloudfront.net/cumulus_uploads/document/r7qogc932v/econTabReport.pdf" target="_blank" rel="noopener">YouGov</a></td>
+<td><a href="https://projects.fivethirtyeight.com/pollster-ratings/">B</a></td>
+<td>1,293</td>
+<td>RV</td>
+<td>0.60</td>
+<td>33%</td>
+<td>40%</td>
+<td></td>
+<td>Democrat +7</td>
+<td>Democrat +9</td>
+</tr>
+<tr>
+<td></td>
+<td>MAY 12-14</td>
+<td><a href="http://www.publicpolicypolling.com/pdf/2017/PPP_Release_National_51617.pdf" target="_blank" rel="noopener">Public Policy Polling</a></td>
+<td><a href="https://projects.fivethirtyeight.com/pollster-ratings/">B+</a></td>
+<td>692</td>
+<td>RV</td>
+<td>1.02</td>
+<td>38%</td>
+<td>49%</td>
+<td></td>
+<td>Democrat +11</td>
+<td>Democrat +11</td>
+</tr>
+<tr>
+<td></td>
+<td>MAY 12-14</td>
+<td><a href="https://morningconsult.com/2017/05/17/trumps-approval-slide-continues-morale-among-base-weakens/" target="_blank" rel="noopener">Morning Consult</a></td>
+<td></td>
+<td>2,001</td>
+<td>RV</td>
+<td>0.36</td>
+<td>35%</td>
+<td>42%</td>
+<td></td>
+<td>Democrat +7</td>
+<td>Democrat +10</td>
+</tr>
+<tr>
+<td></td>
+<td>MAY 9-11</td>
+<td><a href="https://morningconsult.com/2017/05/11/partisanship-strong-factor-voters-stance-comey-firing/" target="_blank" rel="noopener">Morning Consult</a></td>
+<td></td>
+<td>1,731</td>
+<td>RV</td>
+<td>0.30</td>
+<td>37%</td>
+<td>42%</td>
+<td></td>
+<td>Democrat +5</td>
+<td>Democrat +8</td>
+</tr>
+<tr>
+<td></td>
+<td>MAY 6-9</td>
+<td><a href="https://d25d2506sfb94s.cloudfront.net/cumulus_uploads/document/hdfqb3wks2/econTabReport.pdf" target="_blank" rel="noopener">YouGov</a></td>
+<td><a href="https://projects.fivethirtyeight.com/pollster-ratings/">B</a></td>
+<td>1,278</td>
+<td>RV</td>
+<td>0.58</td>
+<td>35%</td>
+<td>40%</td>
+<td></td>
+<td>Democrat +5</td>
+<td>Democrat +7</td>
+</tr>
+<tr>
+<td></td>
+<td>MAY 4-9</td>
+<td><a href="https://poll.qu.edu/national/release-detail?ReleaseID=2456" target="_blank" rel="noopener">Quinnipiac University</a></td>
+<td><a href="https://projects.fivethirtyeight.com/pollster-ratings/">A-</a></td>
+<td>1,078</td>
+<td>RV</td>
+<td>1.73</td>
+<td>38%</td>
+<td>54%</td>
+<td></td>
+<td>Democrat +16</td>
+<td>Democrat +13</td>
+</tr>
+</tbody>
+</table>
+<p>Show more polls</p>
+<p>KEY</p>
+<p>= NEW</p>
+<p>A = ALL ADULTS</p>
+<p>RV = REGISTERED VOTERS</p>
+<p>LV = LIKELY VOTERS</p>
+<p>V = VOTERS</p>
+<p>When the dates of tracking polls from the same pollster overlap, only the most recent version is shown.</p>
+<p>Polls listed here are those that ask either which party’s candidate a respondent would vote for in his or her district or which party the respondent would prefer control Congress.</p>
+<p>By <a href="https://fivethirtyeight.com/contributors/aaron-bycoffe/">Aaron Bycoffe</a>, <a href="https://fivethirtyeight.com/contributors/dhrumil-mehta/">Dhrumil Mehta</a> and <a href="https://fivethirtyeight.com/contributors/nate-silver/">Nate Silver</a>. Notice any bugs or missing polls? <a href="mailto:polls@fivethirtyeight.com?subject=Feedback%20on%20FiveThirtyEight%27s%20Generic%20Ballot%20Tracker&amp;body=%0A%0A--%0Ahttp%3A%2F%2Fqa.538.io%2Fcongress-election-polls%2F%0AMozilla%2F5.0%20(Macintosh%3B%20Intel%20Mac%20OS%20X%2010_11_6)%20AppleWebKit%2F537.36%20(KHTML%2C%20like%20Gecko)%20Chrome%2F58.0.3029.110%20Safari%2F537.36">Send us an email.</a></p>]]></description>
+			<pubDate>Thu, 16 Sep 2021 11:00:00 +0100</pubDate>
+			<guid isPermaLink="false">1631795402197178</guid>
+		</item>
 		<item>
 			<title>Our Best Tool For Predicting Midterm Elections Doesn’t Show A Republican Wave — But History Is On The GOP’s Side</title>
 			<link>https://fivethirtyeight.com/features/our-best-tool-for-predicting-midterm-elections-doesnt-show-a-republican-wave-but-history-is-on-the-gops-side/</link>
@@ -4265,58 +4449,6 @@
 <p data-paragraph="main">All of this again shows how getting vaccinated has become less of a public health issue and more of an identity and political one — if statements of support for vaccinations among political heavyweights in either party is moving the needle at all, it is doing so inconsistently. It seems there’s a certain bedrock of anti-vaccine Americans for whom no amount of new cases or political statements is convincing, and the rest of the public is left grappling with the consequences.</p>]]></description>
 			<pubDate>Tue, 31 Aug 2021 18:45:00 +0100</pubDate>
 			<guid isPermaLink="false">1630436402618542</guid>
-		</item>
-		<item>
-			<title>Politics Podcast: What The Chaotic End Of The War In Afghanistan Means For Biden</title>
-			<link>https://fivethirtyeight.com/features/politics-podcast-what-the-chaotic-end-of-the-war-in-afghanistan-means-for-biden/</link>
-						<dc:creator>Galen Druke</dc:creator>
-			<dc:creator>FiveThirtyEight</dc:creator>
-			<category>Afghan War</category>
-			<category>Afghanistan</category>
-			<category>FiveThirtyEight Podcasts</category>
-			<category>Politics Podcast</category>
-			<category>Presidential Approval</category>
-			<category>The Biden Administration</category>
-			<description><![CDATA[<div data-href="https://fivethirtyeight.com/features/politics-podcast-what-the-chaotic-end-of-the-war-in-afghanistan-means-for-biden/">
-	<div data-podcast-id="315140" data-podcast-duration="0" data-podcast-title="Politics Podcast: What The Chaotic End Of The War In Afghanistan Means For Biden">
-
-					<span><span>FiveThirtyEight</span></span>
-			
-		
-		<button aria-label="Play"></button>
-
-					<div>
-		
-		
-							<div>
-					<div>
-						<div></div>
-					</div>
-
-					<div> </div>
-
-					<audio preload="none" controls="controls"><source src="https://www.podtrac.com/pts/redirect.mp3/traffic.megaphone.fm/ESP4662822817.mp3?updated=1630360678"></source></audio></div>
-			
-					</div>
-		
-	</div>
-</div>
-<aside><div>
-		More: <a href="https://itunes.apple.com/us/podcast/fivethirtyeight-elections/id1077418457">Apple Podcasts</a> |
-		<span><a data-android-url="" href="http://m.espn.com/general/cast?id=14554755">ESPN App</a> |</span>
-		<a href="https://www.espn.com/espnradio/feeds/rss/podcast.xml?id=14554755">RSS</a>
-			</div>
-	</aside><p data-paragraph="main">Following a chaotic evacuation, all U.S. troops have withdrawn from Afghanistan as of Monday. In this installment of the <a href="https://fivethirtyeight.com/tag/politics-podcast/" data-type="URL" data-id="https://fivethirtyeight.com/tag/politics-podcast/" target="_blank" rel="noopener">FiveThirtyEight Politics podcast</a>, Stanford University history professor <a href="https://history.stanford.edu/people/robert-crews" target="_blank" rel="noopener">Robert Crews</a> joins the crew to talk about the history of the Taliban and the current political landscape in Afghanistan. They also discuss how Americans are responding to the Biden administration’s handling of the end of the war, other factors driving criticism of the president from both parties, and whether this will affect the Democratic agenda going forward.</p>
-
-
-
-<p data-paragraph="main"><em>You can listen to the episode by clicking the “play” button in the audio player above or by </em><a href="https://itunes.apple.com/us/podcast/fivethirtyeight-elections/id1077418457?mt=2" target="_blank" rel="noopener"><em>downloading it in iTunes</em></a><em>, the </em><a href="http://www.espn.com/espn/mobile/products/products/_/id/6857590" target="_blank" rel="noopener"><em>ESPN App</em></a><em> or your favorite podcast platform. If you are new to podcasts, </em><a href="https://fivethirtyeight.com/how-to-listen-to-fivethirtyeight-podcasts/" target="_blank" rel="noopener"><em>learn how to listen</em></a><em>.</em></p>
-
-
-
-<p data-paragraph="main"><em>The FiveThirtyEight Politics podcast is recorded Mondays and Thursdays. Help new listeners discover the show by </em><a href="https://itunes.apple.com/us/podcast/fivethirtyeight-elections/id1077418457?mt=2" target="_blank" rel="noopener"><em>leaving us a rating and review on iTunes</em></a><em>. Have a comment, question or suggestion for “good polling vs. bad polling”? Get in touch by email, </em><a href="https://twitter.com/FiveThirtyEight" target="_blank" rel="noopener"><em>on Twitter</em></a><em> or in the comments.</em></p>]]></description>
-			<pubDate>Mon, 30 Aug 2021 22:55:00 +0100</pubDate>
-			<guid isPermaLink="false">1630364402532800</guid>
 		</item>
 
 	</channel>
