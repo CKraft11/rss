@@ -3,9 +3,243 @@
 		<title>Main stream | FreshRSS</title>
 		<link>http://radon</link>
 		<description>RSS feed of Main stream | FreshRSS</description>
-		<pubDate>Tue, 21 Sep 2021 16:59:07 +0100</pubDate>
-		<lastBuildDate>Tue, 21 Sep 2021 15:59:07 GMT</lastBuildDate>
+		<pubDate>Tue, 21 Sep 2021 17:29:07 +0100</pubDate>
+		<lastBuildDate>Tue, 21 Sep 2021 16:29:07 GMT</lastBuildDate>
 		<atom:link href="http://radon/i/?a=rss" rel="self" type="application/rss+xml" />
+		<item>
+			<title>Latest Polls In The Virginia Governor’s Race</title>
+			<link>https://projects.fivethirtyeight.com/polls/governor/virginia/</link>
+						<dc:creator>Aaron Bycoffe</dc:creator>
+			<dc:creator>Aaron Bycoffe</dc:creator>
+			<category>2021 Elections</category>
+			<category>2021 Governors Elections</category>
+			<category>Glenn Youngkin</category>
+			<category>Terry McAuliffe</category>
+			<category>Virginia Governor</category>
+			<description><![CDATA[<p>UPDATED SEP. 21, 2021, AT 10:34 AM</p>
+<p>Latest PollsUpdated throughout the day.</p>
+<p><a href="https://fivethirtyeight.com/features/polls-policy-and-faqs/">Polls policy and FAQs</a></p>
+<p>POLL TYPE</p>
+<p>All pollsBiden approvalGeneric ballotGovernorGovernor recallU.S. HousePresident: general electionPresident: Democratic primaryPresident: Republican primaryU.S. SenateTrump approval</p>
+<p>STATE</p>
+<p>All Alabama Alaska American Samoa Arizona Arkansas California Colorado Connecticut Delaware District of Columbia Florida Georgia Guam Hawaii Idaho Illinois Indiana Iowa Kansas Kentucky Louisiana Maine Maryland Massachusetts Michigan Minnesota Mississippi Missouri Montana Nebraska Nevada New Hampshire New Jersey New Mexico New York North Carolina North Dakota Northern Mariana Islands Ohio Oklahoma Oregon Pennsylvania Puerto Rico Rhode Island South Carolina South Dakota Tennessee Texas U.S. Virgin Islands Utah Vermont Virginia Washington West Virginia Wisconsin Wyoming</p>
+<p>DISTRICT</p>
+<p>AllWho’s ahead in the Virginia governor’s race?</p>
+<h3>An updating average for each candidate, accounting for each poll’s quality, sample size and recency</h3>
+<p>AUG. 2021SEPT.OCT.NOV.3040506070%SEPT. 21, 2021 LEADERSEPT. 21, 2021 LEADERMcAuliffeMcAuliffe+3.1McAuliffe 47.2%Youngkin 44.1%</p>
+<h4>Average as of today</h4>
+<h5></h5>
+<ul>
+<li>McAuliffe47.2%</li>
+<li>Youngkin44.1%</li>
+</ul>
+<p>FILTER BY POLLSTER GRADE</p>
+<p>A+BCDAdded today</p>
+<table>
+<tbody>
+<tr>
+<th colspan="3"></th>
+<th></th>
+<th>DATES</th>
+<th>POLLSTER</th>
+<th colspan="2">SAMPLE</th>
+<th colspan="4">RESULT</th>
+<th colspan="2">NET RESULT</th>
+</tr>
+</tbody>
+<tbody>
+<tr data-id="145479" data-type="governor">
+<td>Governor</td>
+<td></td>
+<td>Va.</td>
+<td></td>
+<td>SEP 17-18, 2021</td>
+<td><a href="https://projects.fivethirtyeight.com/pollster-ratings/">A-</a><a href="https://www.protectourcare.org/wp-content/uploads/2021/09/VirginiaPOCMemoResults.pdf" target="_blank" rel="noopener">Public Policy Polling*</a></td>
+<td>875</td>
+<td>V</td>
+<td>McAuliffe</td>
+<td>45%</td>
+<td>42%</td>
+<td>Youngkin</td>
+<td>McAuliffe</td>
+<td>+3</td>
+</tr>
+</tbody>
+</table>
+<p>KEY</p>
+<p>A = ADULTS</p>
+<p>RV = REGISTERED VOTERS</p>
+<p>V = VOTERS</p>
+<p>LV = LIKELY VOTERS</p>
+<p>Yesterday</p>
+<table>
+<tbody>
+<tr data-id="145470" data-type="governor">
+<td>Governor</td>
+<td></td>
+<td>Va.</td>
+<td></td>
+<td>SEP 7-15, 2021</td>
+<td><a href="https://projects.fivethirtyeight.com/pollster-ratings/">B/C</a><a href="https://rampages.us/wilderresearch/wp-content/uploads/sites/37363/2021/09/Release-Sept-2021-Election.pdf" target="_blank" rel="noopener">Virginia Commonwealth University</a></td>
+<td>731</td>
+<td>LV</td>
+<td>McAuliffe</td>
+<td>43%</td>
+<td>34%</td>
+<td>Youngkin</td>
+<td>McAuliffe</td>
+<td>+9</td>
+</tr>
+</tbody>
+</table>
+<p>Sept. 17, 2021</p>
+<table>
+<tbody>
+<tr data-id="145429" data-type="governor">
+<td>Governor</td>
+<td></td>
+<td>Va.</td>
+<td></td>
+<td>SEP 7-13, 2021</td>
+<td><a href="https://projects.fivethirtyeight.com/pollster-ratings/">A+</a><a href="https://www.washingtonpost.com/context/sept-7-13-washington-post-schar-school-virginia-poll/30a01c3f-103a-4cb1-9d62-049d77f5a245/?itid=lk_inline_manual_2" target="_blank" rel="noopener">The Washington Post/George Mason University</a></td>
+<td>728</td>
+<td>LV</td>
+<td>McAuliffe</td>
+<td>50%</td>
+<td>47%</td>
+<td>Youngkin</td>
+<td>McAuliffe</td>
+<td>+3</td>
+</tr>
+<tr data-id="145428" data-type="governor">
+<td>Governor</td>
+<td></td>
+<td>Va.</td>
+<td></td>
+<td>SEP 7-13, 2021</td>
+<td><a href="https://projects.fivethirtyeight.com/pollster-ratings/">A+</a><a href="https://www.washingtonpost.com/context/sept-7-13-washington-post-schar-school-virginia-poll/30a01c3f-103a-4cb1-9d62-049d77f5a245/?itid=lk_inline_manual_2" target="_blank" rel="noopener">The Washington Post/George Mason University</a></td>
+<td>907</td>
+<td>RV</td>
+<td>McAuliffe</td>
+<td>49%</td>
+<td>43%</td>
+<td>Youngkin</td>
+<td>McAuliffe</td>
+<td>+6</td>
+</tr>
+</tbody>
+</table>
+<p>Sept. 16, 2021</p>
+<table>
+<tbody>
+<tr data-id="145400" data-type="governor">
+<td>Governor</td>
+<td></td>
+<td>Va.</td>
+<td></td>
+<td>SEP 13-14, 2021</td>
+<td><a href="https://projects.fivethirtyeight.com/pollster-ratings/">A-</a><a href="https://emersonpolling.reportablenews.com/pr/virginia-2021-competitive-governor-s-race-and-division-over-critical-race-theory" target="_blank" rel="noopener">Emerson College</a></td>
+<td>778</td>
+<td>LV</td>
+<td>McAuliffe</td>
+<td>51%</td>
+<td>48%</td>
+<td>Youngkin</td>
+<td>McAuliffe</td>
+<td>+3</td>
+</tr>
+</tbody>
+</table>
+<p>Sept. 9, 2021</p>
+<table>
+<tbody>
+<tr data-id="144839" data-type="governor">
+<td>Governor</td>
+<td></td>
+<td>Va.</td>
+<td></td>
+<td>AUG 30-SEP 2, 2021</td>
+<td><a href="https://projects.fivethirtyeight.com/pollster-ratings/">B/C</a><a href="https://www.scribd.com/document/523895547/ACFrOgAx7A2J4aZ5gzvUrC92m1AvQlgq7AiRgaBqdvSzsWy2dFKVJM2ppsPeJVebUaROYVBDl8K1TcxXJZldH8-XA0-O7aelJSgbpn1yhfsWQM08PdjXZRmmrnAwAPM" target="_blank" rel="noopener">WPA Intelligence*</a></td>
+<td>734</td>
+<td>LV</td>
+<td>McAuliffe</td>
+<td>48%</td>
+<td>48%</td>
+<td>Youngkin</td>
+<td></td>
+<td>EVEN</td>
+</tr>
+<tr data-id="144841" data-type="governor">
+<td>Governor</td>
+<td></td>
+<td>Va.</td>
+<td></td>
+<td>AUG 3-5, 2021</td>
+<td><a href="https://projects.fivethirtyeight.com/pollster-ratings/">B/C</a><a href="https://www.scribd.com/document/523895547/ACFrOgAx7A2J4aZ5gzvUrC92m1AvQlgq7AiRgaBqdvSzsWy2dFKVJM2ppsPeJVebUaROYVBDl8K1TcxXJZldH8-XA0-O7aelJSgbpn1yhfsWQM08PdjXZRmmrnAwAPM" target="_blank" rel="noopener">WPA Intelligence*</a></td>
+<td>734</td>
+<td>LV</td>
+<td>McAuliffe</td>
+<td>50%</td>
+<td colspan="2">More</td>
+<td>McAuliffe</td>
+<td>+7</td>
+</tr>
+<tr data-id="144840" data-type="governor">
+<td>Governor</td>
+<td></td>
+<td>Va.</td>
+<td></td>
+<td>AUG 3-5, 2021</td>
+<td><a href="https://projects.fivethirtyeight.com/pollster-ratings/">B/C</a><a href="https://www.scribd.com/document/523895547/ACFrOgAx7A2J4aZ5gzvUrC92m1AvQlgq7AiRgaBqdvSzsWy2dFKVJM2ppsPeJVebUaROYVBDl8K1TcxXJZldH8-XA0-O7aelJSgbpn1yhfsWQM08PdjXZRmmrnAwAPM" target="_blank" rel="noopener">WPA Intelligence*</a></td>
+<td>734</td>
+<td>LV</td>
+<td>McAuliffe</td>
+<td>51%</td>
+<td>45%</td>
+<td>Youngkin</td>
+<td>McAuliffe</td>
+<td>+6</td>
+</tr>
+</tbody>
+</table>
+<p>Show more polls</p>
+<p>Polls conducted after June 28, 2018, the date this page was published, are listed by the date that FiveThirtyEight collected them; polls conducted before then are listed under the last date that the poll was in the field. Polls from firms that are <a href="https://projects.fivethirtyeight.com/pollster-ratings/">banned by FiveThirtyEight</a> are not shown. Pollsters that did not release any horse-race polls within three weeks of an election since 1998 do not have a grade and are treated as a C+ by the grade filter.</p>
+<p>* Polls marked with an asterisk are <em>partisan</em> polls. Partisanship is determined by who sponsors the poll, rather than who conducts it. Polls are considered partisan if they’re conducted on behalf of a candidate, party, campaign committee, or PAC, super PAC, 501(c)(4), 501(c)(5) or 501(c)(6) organization that conducts a large majority of its political activity on behalf of one political party.</p>
+<p>When the dates of tracking polls from the same pollster overlap, only the most recent version is shown.</p>
+<p>Notice any bugs or missing polls? <a href="mailto:polls@fivethirtyeight.com?subject=Feedback%20on%20FiveThirtyEight%27s%20Latest%20Polls%20Page&amp;body=%0A%0A--%0Ahttps%3A%2F%2Fs.538.io%2Fpolls%2Fva-gov%2Fgovernor%2Fvirginia%2F%0AMozilla%2F5.0%20(Macintosh%3B%20Intel%20Mac%20OS%20X%2010_15_7)%20AppleWebKit%2F537.36%20(KHTML%2C%20like%20Gecko)%20Chrome%2F89.0.4389.90%20Safari%2F537.36">Send us an email</a>.</p>
+<p>Download this data: <a href="https://projects.fivethirtyeight.com/polls-page/data/president_primary_polls.csv">presidential primary polls</a>, <a href="https://projects.fivethirtyeight.com/polls-page/data/president_polls.csv">presidential general election polls</a>, <a href="https://projects.fivethirtyeight.com/polls-page/data/senate_polls.csv">Senate polls</a>, <a href="https://projects.fivethirtyeight.com/polls-page/data/house_polls.csv">House polls</a>, <a href="https://projects.fivethirtyeight.com/polls-page/data/governor_polls.csv">gubernatorial polls</a>, <a href="https://projects.fivethirtyeight.com/polls-page/data/president_approval_polls.csv">presidential approval polls</a>, <a href="https://projects.fivethirtyeight.com/polls-page/data/generic_ballot_polls.csv">generic congressional ballot polls</a></p>
+<p>Design and development by <a href="https://fivethirtyeight.com/contributors/aaron-bycoffe/">Aaron Bycoffe</a>, <a href="https://fivethirtyeight.com/contributors/ritchie-king/">Ritchie King</a>, <a href="https://fivethirtyeight.com/contributors/ella-koeze/">Ella Koeze</a>, <a href="https://fivethirtyeight.com/contributors/dhrumil-mehta/">Dhrumil Mehta</a>, <a href="https://fivethirtyeight.com/contributors/jasmine-mithani/">Jasmine Mithani</a> and <a href="https://fivethirtyeight.com/contributors/julia-wolfe/">Julia Wolfe</a>. <a href="https://fivethirtyeight.com/contributors/andrea-jones-rooy/">Andrea Jones-Rooy</a>, <a href="https://fivethirtyeight.com/contributors/dhrumil-mehta/">Dhrumil Mehta</a>, <a href="https://fivethirtyeight.com/contributors/nathaniel-rakich/">Nathaniel Rakich</a>, <a href="https://fivethirtyeight.com/contributors/derek-shan/">Derek Shan</a> and <a href="https://fivethirtyeight.com/contributors/julia-wolfe/">Julia Wolfe</a> contributed research.</p>
+<h3>RELATED STORIES</h3>
+<p><a href="https://fivethirtyeight.com/features/why-long-shot-candidates-are-raising-more-money-than-ever/">Why Candidates With Little Hope Of Winning Are Raising More Money Than Ever</a><a href="https://fivethirtyeight.com/features/why-the-gender-gap-may-have-shrunk-in-the-2020-election/">Why The Gender Gap May Have Shrunk In The 2020 Election</a><a href="https://fivethirtyeight.com/features/how-fivethirtyeights-2020-forecasts-did-and-what-well-be-thinking-about-for-2022/">How FiveThirtyEight’s 2020 Forecasts Did And What We’ll Be Thinking About For 2022</a><a href="https://fivethirtyeight.com/features/post-election-audits-are-normal-whats-happening-in-arizona-is-anything-but/">What’s Happening In Arizona Is Not Really An Audit Or A Recount. It’s A Partisan Inquisition.</a><a href="https://fivethirtyeight.com/features/how-the-republican-push-to-restrict-voting-could-affect-our-elections/">How The Republican Push To Restrict Voting Could Affect Our Elections</a></p>
+<h3>COMMENTS</h3>
+<p>Get more FiveThirtyEight</p>
+<ul>
+<li><a href="https://fivethirtyeight.com/newsletter/">Newsletter</a></li>
+<li><a href="https://fivethirtyeight.com/videos/">Videos</a></li>
+<li><a href="https://fivethirtyeight.com/tag/fivethirtyeight-podcasts/">Podcasts</a></li>
+<li><a href="https://twitter.com/fivethirtyeight">Twitter</a></li>
+<li><a href="https://www.facebook.com/fivethirtyeight">Facebook</a></li>
+<li><a href="https://data.fivethirtyeight.com/">Data</a></li>
+<li><a href="https://fivethirtyeight.com/datalab/fear-not-readers-we-have-rss-feeds/">RSS</a></li>
+</ul>
+<ul>
+<li><a href="https://fivethirtyeight.com/contact/">Contact</a></li>
+<li><a href="https://fivethirtyeight.com/jobs/">Jobs</a></li>
+<li><a href="https://fivethirtyeight.com/masthead/">Masthead</a></li>
+<li><a href="http://priv-policy.imrworldwide.com/priv/browser/us/en/optout.html">About Nielsen Measurement</a></li>
+</ul>
+<ul>
+<li><a href="https://disneytermsofuse.com/" target="_blank" rel="noopener noreferrer">Terms of Use</a></li>
+<li><a href="https://disneyprivacycenter.com/" target="_blank" rel="noopener noreferrer">Privacy Policy</a></li>
+<li><a href="https://privacy.thewaltdisneycompany.com/en/dnsmi/" target="_blank" rel="noopener noreferrer">Do Not Sell My Info</a></li>
+<li><a href="https://disneyprivacycenter.com/notice-to-california-residents/" target="_blank" rel="noopener noreferrer">Your California Privacy Rights</a></li>
+<li><a href="https://disneyprivacycenter.com/kids-privacy-policy/english/" target="_blank" rel="noopener noreferrer">Children’s Online Privacy Policy</a></li>
+<li><a href="https://preferences-mgr.truste.com/?type=abcnews&amp;affiliateId=11&amp;cid=clicksource_4380645_footer_interestbasedads" target="_blank" rel="noopener noreferrer">Interest-Based Ads</a></li>
+</ul>
+<p>© 2018 ABC News Internet Ventures. All rights reserved.</p>]]></description>
+			<pubDate>Tue, 21 Sep 2021 16:31:00 +0100</pubDate>
+			<guid isPermaLink="false">1632240901644602</guid>
+		</item>
 		<item>
 			<title>How Many House Republicans Who Voted To Impeach Trump Will Survive The Midterms?</title>
 			<link>https://fivethirtyeight.com/features/how-many-house-republicans-who-voted-to-impeach-trump-will-survive-the-midterms/</link>
@@ -1859,93 +2093,6 @@
 <p>Watch: https://abcnews.go.com/fivethirtyeight/video/911-era-political-consensus-impossible-days-79884213</p>]]></description>
 			<pubDate>Tue, 07 Sep 2021 11:00:00 +0100</pubDate>
 			<guid isPermaLink="false">1631012402070081</guid>
-		</item>
-		<item>
-			<title>Most Parents Want Their Kids Back In The Classroom. Fewer Agree On The COVID-19 Safety Measures.</title>
-			<link>https://fivethirtyeight.com/features/most-parents-want-their-kids-back-in-the-classroom-fewer-agree-on-the-covid-19-safety-measures/</link>
-						<dc:creator>Alex Samuels</dc:creator>
-			<dc:creator>Alex Samuels</dc:creator>
-			<category>Children</category>
-			<category>Coronavirus</category>
-			<category>COVID-19</category>
-			<category>COVID-19 Vaccine</category>
-			<category>Parents</category>
-			<category>Pollapalooza</category>
-			<category>Public Schools</category>
-			<category>Schools</category>
-			<category>Vaccination</category>
-			<description><![CDATA[<p data-paragraph="main">Welcome to <a href="https://fivethirtyeight.com/tag/pollapalooza/" target="_blank" rel="noopener">Pollapalooza</a>, our weekly polling roundup.</p>
-
-
-
-<div><hr><span></span></div>
-
-
-
-
-<p data-paragraph="main">After more than a year of distance learning, many <a href="https://abcnews.go.com/Health/wireStory/schools-plan-potential-remote-learning-fall-75752218" target="_blank" rel="noopener">school-age children</a> in the U.S. have gone <a href="https://www.nytimes.com/2021/03/09/us/schools-reopen-covid.html" target="_blank" rel="noopener">back to the classroom</a>. And while <a href="https://www.nytimes.com/2021/08/02/us/covid-schools-delta-variant.html" target="_blank" rel="noopener">the highly transmissible delta variant</a> of the coronavirus certainly <a href="https://www.nytimes.com/2021/05/09/us/covid-school-reopening-virtual-learning.html" target="_blank" rel="noopener">triggers mixed feelings</a> about kids’ returning to school, parents have maintained for the most part that they prefer in-person learning, at least some of the time, to the entirely remote, virtual learning <a href="https://www.newyorker.com/news/our-local-correspondents/the-great-zoom-school-experiment" target="_blank" rel="noopener">that took place largely online</a> during the past school year.</p>
-
-
-
-<p data-paragraph="main">The debate over whether students and educators must adhere to certain safety protocols to make in-person learning possible, though, is just the latest political battle concerning COVID-19. A week ago in Florida, a judge ruled that <a href="https://abcnews.go.com/Health/wireStory/judge-florida-school-districts-impose-mask-mandates-rules-79681083" target="_blank" rel="noopener">schools could<em> </em>mandate mask ordinances</a> despite Republican Gov. Ron DeSantis’s objections. And on Monday, the U.S. Department of Education said it had <a href="https://www.reuters.com/world/us/us-education-dept-opens-investigations-5-states-regarding-bans-universal-masking-2021-08-30/" target="_blank" rel="noopener">opened civil rights investigations</a> into five states that banned schools’ mask mandates to examine whether these policies were placing students with disabilities and underlying health conditions at a heightened risk of contracting COVID-19. Recent surveys underscore just how large the divide is among parents over whether students and teachers should have to wear masks or be vaccinated — assuming, in the case of students, that they are old enough to get the jab. Much of that tension, though, may have less to do with how parents identify politically and more to do with whether they’ve been vaccinated. </p>
-
-
-
-<p data-paragraph="main">In February, before the <a href="https://www.yalemedicine.org/news/5-things-to-know-delta-variant-covid" target="_blank" rel="noopener">delta variant had begun to spread</a>, support for in-person schooling was incredibly high. According to a <a href="https://news.gallup.com/poll/336173/amid-pandemic-parents-support-person-school.aspx" target="_blank" rel="noopener">Gallup poll</a> conducted that month, over three-quarters of parents of K-12 students (79 percent) said they supported “providing in-person schooling for elementary and secondary students” in their neighborhoods. Support cut across party lines, too: 94 percent of Republicans, 80 percent of independents and 62 percent of Democrats said they were in favor of in-person schooling. Since then, however, <a href="https://mercuryllc.app.box.com/s/e1xi9zesqukxq4ugrwrc6lzy3yv1ycvd" target="_blank" rel="noopener">other polls</a> have shown that support among parents has dipped, although in-person and hybrid learning are still relatively popular options. Most parents just aren’t up for completely virtual learning, and even fewer support homeschooling, according to <a href="https://morningconsult.com/return-to-school/" target="_blank" rel="noopener">Morning Consult</a> polling from late August. For the past six months, the pollster has asked parents of 5- to 18-year-olds what they believe the best model is for K-12 students this school year, and the latest numbers showed that 36 percent preferred in-person instruction only, while 37 percent wanted a hybrid model. Only 16 percent said they wanted entirely virtual learning, and just 7 percent said they wanted to homeschool their children.</p>
-
-
-<p>Watch: https://abcnews.go.com/fivethirtyeight/video/covid-19-cases-rising-americans-thoughts-steps-fivethirtyeight-79188933</p>
-
-
-<p data-paragraph="main">Parents see less eye-to-eye, though, on which COVID-19 safety precautions to take in schools. Per an August survey from the <a href="https://apnorc.org/projects/support-for-mask-and-vaccine-mandates-in-schools/" target="_blank" rel="noopener">Associated Press/NORC Center for Public Affairs Research</a>, 31 percent of unvaccinated adults versus 71 percent of vaccinated ones said they favored mask requirements for teachers. Those numbers barely budged when respondents were asked whether students should be required to wear masks: 29 percent of unvaccinated adults and 69 percent of vaccinated ones said face coverings should be mandatory for school-age children — many of whom are <a href="https://www.theatlantic.com/health/archive/2021/08/covid-vaccination-timeline-children/619729/" target="_blank" rel="noopener">not yet old enough</a> to<a href="https://www.theatlantic.com/health/archive/2021/08/covid-vaccination-timeline-children/619729/" target="_blank" rel="noopener"></a> get the vaccine. </p>
-
-
-
-<p data-paragraph="main">To be sure, Republicans are less likely than Democrats to <a href="https://www.ipsos.com/en-us/news-polls/axios-ipsos-coronavirus-index" target="_blank" rel="noopener">support things like mask mandates</a> and <a href="https://fivethirtyeight.com/features/unvaccinated-america-in-5-charts/" target="_blank" rel="noopener">less likely overall to have received the jab</a>, but <a href="https://fivethirtyeight.com/features/partisanship-isnt-the-only-reason-why-so-many-americans-remain-unvaccinated/" target="_blank" rel="noopener">politics alone doesn’t explain</a> everything we’re seeing here. For some school-safety precautions, the gaps are biggest between those who are vaccinated and those who are not. </p>
-
-
-
-<p data-paragraph="main">​The divide is especially pronounced when respondents were asked whether teachers and students should be required to get the vaccine. That same AP/NORC survey found a 54-percentage-point gap in the views between vaccinated and unvaccinated adults when they were asked about teachers — 74 percent to 20 percent, respectively, said they were in favor of the vaccine requirement for teachers. There was a similar 52-point difference on whether students 12 and older should have to get the jab: 70 percent of vaccinated adults said they should have to, compared with only 18 percent of unvaccinated adults who said the same. </p>
-
-
-<div>
-	<p>
-		<a href="https://fivethirtyeight.com/features/vaccine-hesitancy-is-still-strong-in-many-covid-19-battered-states/?cid=_inlinerelated"><img alt="A press conference of three people standing podium with a sign that says “Early treatment saves lives”" width="153" height="115" data-sizes="(min-width: 440px) 153px, 100vw" data-srcset="https://fivethirtyeight.com/wp-content/uploads/2021/08/GettyImages-1234798271-4x3-1.jpg?w=153&amp;quality=100&amp;strip=all 153w, https://fivethirtyeight.com/wp-content/uploads/2021/08/GettyImages-1234798271-4x3-1.jpg?w=306&amp;quality=100&amp;strip=all 306w, https://fivethirtyeight.com/wp-content/uploads/2021/08/GettyImages-1234798271-4x3-1.jpg?w=405&amp;quality=100&amp;strip=all 405w, https://fivethirtyeight.com/wp-content/uploads/2021/08/GettyImages-1234798271-4x3-1.jpg?w=810&amp;quality=100&amp;strip=all 810w"></a>
-	</p>
-	<p>
-				<strong>related:</strong>
-				Vaccine Hesitancy Is Still Strong In Many COVID-19-Battered States <a href="https://fivethirtyeight.com/features/vaccine-hesitancy-is-still-strong-in-many-covid-19-battered-states/?cid=_inlinerelated">Read more. »</a>
-	</p>
-</div>
-
-
-
-<p data-paragraph="main">Of course, the COVID-19 vaccine is not yet approved for <a href="https://www.nbcnews.com/health/health-news/vaccines-kids-under-age-12-expected-mid-winter-fda-official-n1274057" target="_blank" rel="noopener">children younger than 12</a>, so the polling on parents’ support for vaccinating their children paints a muddled picture. The AP/NORC poll suggests that among vaccinated parents, support is very high, but other polls conducted earlier this summer show relatively low support. According to a May and June <a href="https://www.edweek.org/technology/only-half-of-parents-plan-to-vaccinate-their-children-new-poll-finds/2021/08" target="_blank" rel="noopener">Education Next survey</a> of public opinion on education policy, just a bare majority of parents with a child in grades K-12 (51 percent) said they would “probably” or “definitely” vaccinate their child. Another 34 percent said they “probably” or “definitely” would not, while 15 percent said they didn’t know. (Parents’ vaccination status was not available.) And days before the Food and Drug Administration <a href="https://www.fda.gov/news-events/press-announcements/coronavirus-covid-19-update-fda-authorizes-pfizer-biontech-covid-19-vaccine-emergency-use" target="_blank" rel="noopener">authorized the use of the Pfizer vaccine</a> for 12- to 15-year-olds, just 30 percent of parents with at least one child in that age range said they planned to get their kid vaccinated right away, according to a <a href="https://www.kff.org/coronavirus-covid-19/poll-finding/kff-covid-19-vaccine-monitor-april-2021/" target="_blank" rel="noopener">Kaiser Family Foundation survey</a>. About a quarter (26 percent) said they first wanted to wait and see how the vaccine was working, while 23 percent said they would definitely not get their child vaccinated.</p>
-
-
-
-<p data-paragraph="main">Since <a href="https://www.prri.org/research/religious-vaccines-covid-vaccination/" target="_blank" rel="noopener">vaccine hesitancy has decreased over time</a>, it’s possible we’ll see these numbers change, too. Prominent health care leaders <a href="https://www.reuters.com/world/us/fauci-backs-covid-19-vaccine-mandate-us-school-children-2021-08-29/" target="_blank" rel="noopener">touting the importance</a> of vaccinating children might also sway hesitant parents. But <a href="https://news.gallup.com/poll/354203/parents-divided-mask-mandates-school.aspx" target="_blank" rel="noopener">Gallup</a> found<a href="https://news.gallup.com/poll/354203/parents-divided-mask-mandates-school.aspx" target="_blank" rel="noopener"></a> in mid-August that parents of K-12 students were less likely than the general public to be worried about unvaccinated people. According to the poll, 51 percent of K-12 parents said they were “very” or “moderately” worried about people in their area choosing not to get vaccinated, compared with 60 percent of all adults who said the same. So, it’s also possible that the earlier trends we saw with hesitancy decreasing over time might not happen. We’ll just have to wait and see, too.</p>
-
-
-
-<h2><strong>Other polling bites</strong></h2>
-
-
-
-<ul><li>The Pentagon confirmed Monday that the U.S. had <a href="https://abcnews.go.com/Politics/biden-defend-afghanistan-troop-withdrawal-leaving-americans/story?id=79744273.If">pulled out the last of its troops in Afghanistan</a> and that the evacuation operation at Kabul’s international airport had ended. Recent polling suggests a majority of Americans support the troop withdrawal. According to a new survey by the <a href="https://www.pewresearch.org/fact-tank/2021/08/31/majority-of-u-s-public-favors-afghanistan-troop-withdrawal-biden-criticized-for-his-handling-of-situation/">Pew Research Center</a>, 54 percent of adults said the decision to evacuate U.S. troops was the right thing to do, versus 42 percent who said it wasn’t. But this finding <a href="https://fivethirtyeight.com/features/bidens-declining-approval-rating-is-not-just-about-afghanistan/">doesn’t mean</a> they’re giving President Biden high marks for how he handled the end of the 20-year war. Per Pew, just over a quarter of respondents said the president had done an “excellent” or “good” job dealing with the situation in Afghanistan; about 3 in 10 said he had done “only fair,” and just over 4 in 10 said he had done a “poor” job. </li><li>The FDA <a href="https://www.fda.gov/news-events/press-announcements/fda-approves-first-covid-19-vaccine">fully approved Pfizer’s COVID-19 vaccine</a>, but that appears to be having a limited impact on vaccine-hesitant Americans. In fact, <a href="https://morningconsult.com/2021/08/30/pfizer-approval-vaccine-hesitancy-polling/">Morning Consult</a> found that only 29 percent of unvaccinated adults were swayed by the FDA’s approval. A clear majority of unvaccinated Americans (61 percent) said they still didn’t plan to get the vaccine — something my colleagues and I <a href="https://fivethirtyeight.com/features/vaccine-hesitancy-is-still-strong-in-many-covid-19-battered-states/">wrote about earlier this week</a>. When unvaccinated Americans were asked why they were choosing not to get the jab, most (70 percent) said they were concerned about its potential side effects, though research shows that most are <a href="https://www.nytimes.com/2021/04/02/well/live/covid-vaccine-side-effects-faq.html">short-term and mild</a>. But side effects weren’t the only concern, as 61 percent told Morning Consult that they believed vaccine requirements were an infringement on their personal freedoms. That said, a <a href="https://www.ipsos.com/en-us/news-polls/axios-ipsos-coronavirus-index">survey from Axios-Ipsos</a> showed the share of vaccine-hesitant Americans was lower now than it had been since the pollster started asking the question this spring: Just 20 percent of Americans said they were “not very likely” or “not at all likely” to get a COVID-19 vaccine compared with 29 percent in April.</li><li>Since 2016, trust in national media has continued to decline, especially among Republicans, according to newly released polling from <a href="https://www.pewresearch.org/fact-tank/2021/08/30/partisan-divides-in-media-trust-widen-driven-by-a-decline-among-republicans/">Pew</a>. Per the survey, the share of Republicans with at least some trust in the national media has plummeted from 70 percent to 35 percent over the past five years. Meanwhile, an overwhelming majority of Democrats (78 percent) said they had “a lot” or “some” trust in national media now — relatively unchanged since 2016, when trust among this group was at 83 percent. Meanwhile, <a href="https://knightfoundation.org/articles/local-news-is-more-trusted-than-national-news-but-that-could-change/">trust in local news</a> is higher among members of both parties. According to Pew, 84 percent of Democrats and 66 percent of Republicans said they had at least some trust in the information coming out of local news outlets now. </li><li>What’s the best decade for music? Your answer to that question likely depends on when you were born, according to <a href="https://www.ipsos.com/en-us/news-polls/americans-favorite-decade-music">new polling from Ipsos</a>. Overall, a plurality of Americans (40 percent) said the ’80s had the best music, followed by the ’70s (37 percent) and the ’90s (32 percent). But these numbers vary heavily with age. Among Generation Zers, which Pew <a href="https://www.pewresearch.org/social-trends/2020/05/14/on-the-cusp-of-adulthood-and-facing-an-uncertain-future-what-we-know-about-gen-z-so-far-2/">defines</a> as those born from 1997 onward,<a data-footnote-id="36" href="https://fivethirtyeight.com/wp-json/wp/v2/espn_verticals/398#fn-36" data-footnote-content='&lt;p&gt;&lt;p&gt;There’s no true consensus on the year Gen Z ends and Generation Alpha begins, but Gen Z &lt;a href="https://www.goodmorningamerica.com/family/story/gen-meet-gen-alpha-generation-born-2010-today-68971965"&gt;ends around 2009&lt;/a&gt;.&lt;/p&gt;
-&lt;/p&gt;'><sup>36</sup></a> 30 percent said the ’80s was the best decade for music, while the most popular choice was the 2000s, at 41 percent. Meanwhile, among Gen Xers, or those <a href="https://www.pewresearch.org/fact-tank/2020/04/28/millennials-overtake-baby-boomers-as-americas-largest-generation/">born between 1965 to 1980</a>, the ’80s was the most popular choice by far, at 61 percent; 51 percent of Baby Boomers, those born between 1946 and 1964, said they preferred ’70s music. </li><li>Newly released <a href="https://www.pewresearch.org/internet/2021/09/01/the-internet-and-the-pandemic/">polling from Pew</a> shows how beneficial the internet has been to Americans during the pandemic. According to the survey, 90 percent said the internet had been “essential” or “important” for them personally, and 81 percent said they had used video-calling services to connect with others since the early days of the pandemic in February 2020. Of course, being online all the time <a href="https://news.stanford.edu/2021/02/23/four-causes-zoom-fatigue-solutions/">has its disadvantages</a>, too. A plurality of adults (40 percent) said they “often” or “sometimes” felt worn out from spending too much time on video calls, and another 33 percent said they’d attempted to cut back on the amount of time they’d been spending online. Moreover, for some, being online can’t replace face-to-face contact: 68 percent of adults said the internet was “useful” but that it couldn’t take the place of in-person contact. </li></ul><h2><strong>Biden approval </strong></h2>
-
-
-
-<figure><img loading="lazy" width="1150" height="920" src="https://fivethirtyeight.com/wp-content/uploads/2021/09/biden-approval-rating-2-1.png" alt="" data-src="https://fivethirtyeight.com/wp-content/uploads/2021/09/biden-approval-rating-2-1.png" data-srcset="https://fivethirtyeight.com/wp-content/uploads/2021/09/biden-approval-rating-2-1.png?w=700 1x, https://fivethirtyeight.com/wp-content/uploads/2021/09/biden-approval-rating-2-1.png?w=1400 2x"></figure><p data-paragraph="main">According to FiveThirtyEight’s <a href="https://projects.fivethirtyeight.com/biden-approval-rating/" target="_blank" rel="noopener">presidential approval tracker</a>,<a data-footnote-id="37" href="https://fivethirtyeight.com/wp-json/wp/v2/espn_verticals/398#fn-37" data-footnote-content="&lt;p&gt;&lt;p&gt;As of Thursday at 5 p.m. Eastern.&lt;/p&gt;
-&lt;/p&gt;"><sup>37</sup></a> 46.1 percent of Americans approve of the job Biden is doing as president, while 48.1 percent disapprove (a net approval rating of -2.0 points). At this time <a href="https://fivethirtyeight.com/features/bidens-declining-approval-rating-is-not-just-about-afghanistan/" target="_blank" rel="noopener">last week</a>, 47.1 percent approved and 47.0 percent disapproved (a net approval rating of +0.1 points). One month ago, Biden had an approval rating of 51.1 percent and a disapproval rating of 42.4 percent (a net approval rating of +8.7 points).</p>
-
-
-<p>Watch: https://abcnews.go.com/fivethirtyeight/video/war-afghanistan-officially-ending-now-fivethirtyeight-politics-podcast-79733816</p>
-
-<p>Watch: https://abcnews.go.com/ThisWeek/video/buy-2020-census-good-news-democrats-nate-silver-79467274</p>]]></description>
-			<pubDate>Fri, 03 Sep 2021 11:00:00 +0100</pubDate>
-			<guid isPermaLink="false">1630665904127091</guid>
 		</item>
 
 	</channel>
