@@ -3,9 +3,71 @@
 		<title>Main stream | FreshRSS</title>
 		<link>http://radon</link>
 		<description>RSS feed of Main stream | FreshRSS</description>
-		<pubDate>Thu, 23 Sep 2021 21:29:07 +0100</pubDate>
-		<lastBuildDate>Thu, 23 Sep 2021 20:29:07 GMT</lastBuildDate>
+		<pubDate>Thu, 23 Sep 2021 21:59:07 +0100</pubDate>
+		<lastBuildDate>Thu, 23 Sep 2021 20:59:07 GMT</lastBuildDate>
 		<atom:link href="http://radon/i/?a=rss" rel="self" type="application/rss+xml" />
+		<item>
+			<title>Politics Podcast: FiveThirtyEight Goes To Canada And Germany</title>
+			<link>https://fivethirtyeight.com/features/politics-podcast-fivethirtyeight-goes-to-canada-and-germany/</link>
+						<dc:creator>Galen Druke</dc:creator>
+			<dc:creator>FiveThirtyEight</dc:creator>
+			<category>Angela Merkel</category>
+			<category>Canada</category>
+			<category>Democracy</category>
+			<category>FiveThirtyEight Podcasts</category>
+			<category>Germany</category>
+			<category>Justin Trudeau</category>
+			<category>Politics Podcast</category>
+			<description><![CDATA[<div data-href="https://fivethirtyeight.com/features/politics-podcast-fivethirtyeight-goes-to-canada-and-germany/">
+	<div data-podcast-id="316948" data-podcast-duration="0" data-podcast-title="Politics Podcast: FiveThirtyEight Goes To Canada And Germany">
+
+					<span><span>FiveThirtyEight</span></span>
+			
+		
+		<button aria-label="Play"></button>
+
+					<div>
+		
+		
+							<div>
+					<div>
+						<div></div>
+					</div>
+
+					<div> </div>
+
+					<audio preload="none" controls="controls">
+						<source src="https://www.podtrac.com/pts/redirect.mp3/traffic.megaphone.fm/ESP7205645611.mp3?updated=1632429950">
+					</source></audio>
+				</div>
+			
+					</div>
+		
+	</div>
+</div>
+<aside>
+	<div>
+		More: <a href="https://itunes.apple.com/us/podcast/fivethirtyeight-elections/id1077418457">Apple Podcasts</a> |
+		<span><a data-android-url="" href="http://m.espn.com/general/cast?id=14554755">ESPN App</a> |</span>
+		<a href="https://www.espn.com/espnradio/feeds/rss/podcast.xml?id=14554755">RSS</a>
+			</div>
+	</aside>
+
+
+
+
+<p data-paragraph="main">On Monday, Canadians granted Justin Trudeau a third term as Prime Minister but did not give his party a majority in Parliament. Germany will have an election on Sunday to determine who will be the next Chancellor now that Angela Merkel is stepping down after sixteen years in power. In this installment of the <a rel="noreferrer noopener" target="_blank" href="https://fivethirtyeight.com/tag/politics-podcast/">Politics podcast</a>, senior writer and CBC polls analyst <a rel="noreferrer noopener" target="_blank" href="https://www.cbc.ca/news/politics/author/%C3%A9ric-grenier-1.2765555">Éric Grenier</a> along with FiveThirtyEight’s Kaleigh Rogers come on to discuss the outcome of the Canadian election. Later, Politico Intelligence Analyst and co-founder of Poll of Polls <a rel="noreferrer noopener" target="_blank" href="https://www.politico.eu/staff/cornelius-hirsch/">Cornelius Hirsch</a> and Berlin-based journalist and Politico Europe contributor <a rel="noreferrer noopener" target="_blank" href="https://emilyrschultheis.com/">Emily Schultheis</a> join to talk about how the race is playing out in Germany.</p>
+
+
+
+<p data-paragraph="main"><em>You can listen to the episode by clicking the “play” button in the audio player above or by </em><a rel="noreferrer noopener" href="https://itunes.apple.com/us/podcast/fivethirtyeight-elections/id1077418457?mt=2" target="_blank"><em>downloading it in iTunes</em></a><em>, the </em><a rel="noreferrer noopener" href="http://www.espn.com/espn/mobile/products/products/_/id/6857590" target="_blank"><em>ESPN App</em></a><em> or your favorite podcast platform. If you are new to podcasts, </em><a rel="noreferrer noopener" href="https://fivethirtyeight.com/how-to-listen-to-fivethirtyeight-podcasts/" target="_blank"><em>learn how to listen</em></a><em>.</em></p>
+
+
+
+<p data-paragraph="main"><em>The FiveThirtyEight Politics podcast is recorded Mondays and Thursdays. Help new listeners discover the show by </em><a rel="noreferrer noopener" href="https://itunes.apple.com/us/podcast/fivethirtyeight-elections/id1077418457?mt=2" target="_blank"><em>leaving us a rating and review on iTunes</em></a><em>. Have a comment, question or suggestion for “good polling vs. bad polling”? Get in touch by email, </em><a rel="noreferrer noopener" href="https://twitter.com/FiveThirtyEight" target="_blank"><em>on Twitter</em></a><em> or in the comments.</em></p>]]></description>
+			<pubDate>Thu, 23 Sep 2021 21:43:00 +0100</pubDate>
+			<guid isPermaLink="false">1632429902174974</guid>
+		</item>
 		<item>
 			<title>What California’s Recall Election Can — And Can’t — Tell Us About The 2022 Midterms</title>
 			<link>https://fivethirtyeight.com/features/what-californias-recall-election-can-and-cant-tell-us-about-the-2022-midterms/</link>
@@ -2212,58 +2274,6 @@
 <p data-paragraph="main">But so long as several prominent Republicans feel obliged to accept Afghan evacuees, it will be harder for right-wing fear-mongering to change the country’s consistently strong support for Afghan refugees seeking asylum in the U.S.</p>]]></description>
 			<pubDate>Wed, 08 Sep 2021 19:24:00 +0100</pubDate>
 			<guid isPermaLink="false">1631129402535846</guid>
-		</item>
-		<item>
-			<title>Texas’s New Law Is The Climax Of A Record-Shattering Year For Voting Restrictions</title>
-			<link>https://fivethirtyeight.com/features/texass-new-law-is-the-climax-of-a-record-shattering-year-for-voting-restrictions/</link>
-						<dc:creator>Nathaniel Rakich</dc:creator>
-			<dc:creator>Nathaniel Rakich and Elena Mejía</dc:creator>
-			<category>Absentee Voting</category>
-			<category>Early Voting</category>
-			<category>Mail Voting</category>
-			<category>State Legislatures</category>
-			<category>Vote By Mail</category>
-			<category>Voter Identification Laws</category>
-			<category>Voter Suppression</category>
-			<category>Voting Laws</category>
-			<category>Voting Rights</category>
-			<description><![CDATA[<p data-paragraph="main">It took <a href="https://abcnews.go.com/Politics/wireStory/texas-gop-voting-cusp-governor-79749334" target="_blank" rel="noopener">several months</a>, but Texas Republicans have finally enacted their much-debated bill rolling back voting access in the Lone Star State. </p>
-
-
-
-<p data-paragraph="main">Back in the spring, <a href="https://www.texastribune.org/2021/04/29/texas-voting-restrictions-fight/" target="_blank" rel="noopener">disagreements</a> between Senate and House Republicans delayed the final vote on the proposal until the last day of Texas’s regular legislative session, making it easy for Democrats to kill that bill by <a href="https://www.texastribune.org/2021/05/30/texas-voting-restrictions-house/" target="_blank" rel="noopener">leaving the capitol early that day</a>, since the Texas Legislature requires a two-thirds quorum in order to hold a vote. Texas Gov. Greg Abbott then <a href="https://www.texastribune.org/2021/06/22/texas-greg-abbott-special-session/" target="_blank" rel="noopener">called a special session</a> for July, in part specifically to pass the voting restrictions, but state House Democrats paralyzed it by fleeing the state in order to prevent the bill’s passage. However, Abbott simply <a href="https://www.texastribune.org/2021/08/02/greg-abbott-texas-special-legislative-session/" target="_blank" rel="noopener">called yet another special session</a> to start immediately after the first ended, and after nearly six weeks away, enough Democrats <a href="https://www.texastribune.org/2021/08/18/texas-house-democrats-quorum/" target="_blank" rel="noopener">returned to the state</a> to allow legislative business to continue. The controversial elections bill <a href="https://www.politico.com/news/2021/08/31/texas-republicans-dem-delays-election-508063" target="_blank" rel="noopener">finally passed</a> the legislature late last month — though not before a 15-hour talking filibuster in the Senate and an impassioned 12-hour debate in the House — and Abbott <a href="https://abc13.com/texas-politics-senate-bill-1-signed-into-law-when-does-sb1-start/11005841/" target="_blank" rel="noopener">signed it into law</a> on Tuesday. </p>
-
-
-
-<p data-paragraph="main">The Texas law is likely the culmination of the <a href="https://fivethirtyeight.com/features/the-states-where-efforts-to-restrict-voting-are-escalating/" target="_blank" rel="noopener">large-scale Republican push</a> to <a href="https://fivethirtyeight.com/features/republicans-have-made-it-harder-to-vote-in-11-states-so-far/" target="_blank" rel="noopener">restrict voting access</a> this spring and summer — the policy byproduct of former President Donald Trump’s unfounded claims that the 2020 election was fraudulent. At this point in the year, most state legislatures are now <a href="https://www.ncsl.org/research/about-state-legislatures/2021-state-legislative-session-calendar.aspx" target="_blank" rel="noopener">out of session</a>, so we are close to being able to close the book on our tracking of these restrictions for 2021. Based on data from the <a href="https://www.brennancenter.org/our-work/research-reports/state-voting-bills-tracker-2021" target="_blank" rel="noopener">Brennan Center for Justice</a> and the <a href="https://tracker.votingrightslab.org/pending/search" target="_blank" rel="noopener">Voting Rights Lab</a> as well as our own research, we now count 52 new voting restrictions that have been enacted this year in 21 different states. And 41 of the 52 were sponsored primarily or entirely by Republicans.</p>
-
-
-
-<figure><img loading="lazy" width="1150" height="1250" src="https://fivethirtyeight.com/wp-content/uploads/2021/09/rakich-mejia.VOTING-RESTRICTIONS-2.0809.png" alt="" data-src="https://fivethirtyeight.com/wp-content/uploads/2021/09/rakich-mejia.VOTING-RESTRICTIONS-2.0809.png" data-srcset="https://fivethirtyeight.com/wp-content/uploads/2021/09/rakich-mejia.VOTING-RESTRICTIONS-2.0809.png?w=700 1x, https://fivethirtyeight.com/wp-content/uploads/2021/09/rakich-mejia.VOTING-RESTRICTIONS-2.0809.png?w=1400 2x"></figure><p data-paragraph="main">In total, state legislators proposed a whopping 581 voting-restriction bills this year — 89 percent of them sponsored by Republicans. Most (402) were rejected or failed to pass before a key deadline, but 42 of those passed at least one state-legislative chamber before dying, and another eight would have become law had they not been vetoed by their state’s (usually Democratic) governor.<a data-footnote-id="46" href="https://fivethirtyeight.com/wp-json/wp/v2/espn_verticals/398#fn-46" data-footnote-content='&lt;p&gt;&lt;p&gt;One was vetoed by a Republican governor, Gov. Doug Ducey of Arizona, as &lt;a href="https://tucson.com/news/local/ducey-goes-on-veto-spree-demands-budget-passage/article_a92275d6-bfe5-11eb-9ca2-833e7aad09b7.html" target="_blank" rel="noopener"&gt;retribution&lt;/a&gt; for the legislature not sending him a budget on time.&lt;/p&gt;
-&lt;/p&gt;'><sup>46</sup></a> And technically, 127 voting-restriction bills are still alive, including 20 that have passed at least one chamber. However, these bills are mostly either <a href="https://www.freep.com/story/news/politics/2021/06/23/michigan-house-republicans-pass-bills-enact-strict-voter-id-laws/5328162001/" target="_blank" rel="noopener">blocked by Democratic governors</a> or <a href="https://legiscan.com/OH/bill/HB294/2021" target="_blank" rel="noopener">languishing in committee</a> (putting them still quite far away from passage). So the number of voting restrictions enacted here in 2021 likely won’t rise very far, if at all, beyond 52.</p>
-
-
-
-<p data-paragraph="main">Even if nothing else passes, though, that is still a staggering number by historical standards. The Brennan Center for Justice has tracked the number of new voting restrictions enacted every year since 2011, and no year has even come close to 2021: The previous high was the <a href="https://www.brennancenter.org/our-work/research-reports/voting-law-changes-2012" target="_blank" rel="noopener">19 voting restrictions</a> enacted in 2011,<a data-footnote-id="47" href="https://fivethirtyeight.com/wp-json/wp/v2/espn_verticals/398#fn-47" data-footnote-content="&lt;p&gt;&lt;p&gt;As of October of that year.&lt;/p&gt;
-&lt;/p&gt;"><sup>47</sup></a> the year after Republicans took full control of several state governments in the 2010 election. In <a href="https://www.brennancenter.org/our-work/research-reports/election-2012-voting-laws-roundup" target="_blank" rel="noopener">recent</a> <a href="https://www.brennancenter.org/our-work/research-reports/voting-laws-roundup-2013" target="_blank" rel="noopener">years</a>, the <a href="https://www.brennancenter.org/our-work/research-reports/voting-laws-roundup-2014" target="_blank" rel="noopener">number</a> of <a href="https://www.brennancenter.org/our-work/research-reports/voting-laws-roundup-2015" target="_blank" rel="noopener">new</a> <a href="https://www.brennancenter.org/our-work/research-reports/voting-laws-roundup-2016" target="_blank" rel="noopener">restrictions</a> has <a href="https://www.brennancenter.org/our-work/research-reports/voting-laws-roundup-2017" target="_blank" rel="noopener">typically</a> been in the <a href="https://www.brennancenter.org/our-work/research-reports/voting-laws-roundup-2018" target="_blank" rel="noopener">single</a> <a href="https://www.brennancenter.org/our-work/research-reports/voting-laws-roundup-2019" target="_blank" rel="noopener">digits</a>. (For example, 2020 saw only <a href="https://www.brennancenter.org/our-work/research-reports/voting-laws-roundup-2020-0" target="_blank" rel="noopener">seven new voting restrictions</a> become law.)</p>
-
-
-
-<p data-paragraph="main">The sheer number of bills — both enacted and proposed — really emphasizes what a big priority tightening election laws has become for the GOP since the 2020 election. But it’s also important to remember that a single law can contain numerous far-reaching voting restrictions. And as such, <strong>Texas</strong>’s <a href="https://legiscan.com/TX/bill/SB1/2021/X2" target="_blank" rel="noopener">Senate Bill 1</a> is probably the most comprehensive voting-restriction law passed since <a href="https://www.tampabay.com/news/florida-politics/2021/05/06/gov-ron-desantis-signs-florida-voting-bill-in-front-of-trump-fan-club/" target="_blank" rel="noopener">Florida’s SB 90</a>. </p>
-
-
-
-<p data-paragraph="main"><a href="https://www.texastribune.org/2021/08/30/texas-voting-restrictions-bill/" target="_blank" rel="noopener">SB 1 requires</a> absentee voters to provide their driver’s license number or the last four digits of their Social Security number on both their absentee-ballot application and absentee-ballot envelope; gives partisan poll watchers “free movement” around polling places; requires the secretary of state to check the voting rolls for noncitizens; and creates more paperwork for people who help other people fill out their ballots. It also bans specific ways of encouraging voting that were used by heavily Democratic counties, such as Harris, in last year’s election — including automatically mailing absentee-ballot applications to voters, drive-through voting and 24-hour early voting. The law does, however, include some provisions supported by Democrats, such as allowing voters to fix, or “cure,” mistakes on their absentee ballots and requiring training for poll watchers.</p>
-
-
-
-<p data-paragraph="main">Here’s a summary of the other 27 voting restrictions that have become law since <a href="https://fivethirtyeight.com/features/republicans-have-made-it-harder-to-vote-in-11-states-so-far/" target="_blank" rel="noopener">our last update</a>:</p>
-
-
-
-<ul><li><strong>Arizona</strong> enacted no fewer than five voting restrictions this year. The biggest outrage has centered on <a href="https://legiscan.com/AZ/bill/SB1485/2021">SB 1485</a>, which effectively ends the permanence of the state’s permanent absentee voting list by <a href="https://www.nbcnews.com/politics/elections/arizona-legislature-passes-law-purge-infrequent-mail-voters-n1267025">removing voters</a> who don’t cast an absentee ballot in two straight election cycles and don’t respond to a mailed notice. In addition, though, the state now <a href="https://legiscan.com/AZ/bill/SB1003/2021">requires</a> absentee ballots with missing signatures to be <a href="https://www.fox10phoenix.com/news/gov-doug-ducey-signs-mail-in-ballot-signature-bill-amid-protest-over-voting-rights">cured by Election Day</a> (instead of giving voters a five-day grace period) and makes it a <a href="https://legiscan.com/AZ/bill/HB2905/2021">felony</a> for election officials to <a href="https://grandcanyontimes.com/stories/605396122-arizona-passes-hb-2905-to-crack-down-on-voter-fraud-by-placing-restrictions-on-mail-in-ballots">mail an absentee ballot</a> to someone who hasn’t requested it. The state also has two new laws that appear to target Democratic Secretary of State Katie Hobbs: <a href="https://legiscan.com/AZ/bill/HB2794/2021">one</a> that prohibits election officials from <a href="https://azcapitoltimes.com/news/2021/06/01/ducey-signs-bill-to-prohibit-changes-to-election-deadlines/">unilaterally changing election deadlines</a>, and <a href="https://legiscan.com/AZ/text/SB1819/2021">another</a> that gives the state attorney general (who is a Republican) <a href="https://www.npr.org/2021/06/30/1011154122/arizona-republicans-strip-some-election-power-from-democratic-secretary-of-state">sole authority over election litigation</a> — but only until January 2023 (when Hobbs’s term ends).</li><li><strong>Iowa</strong> had already passed <a href="https://www.desmoinesregister.com/story/news/politics/2021/03/08/iowa-governor-kim-reynolds-signs-law-shortening-early-voting-closing-polls-earlier-election-day/6869317002/">one major package</a> of voting restrictions this year, but it enacted a second one in June. <a href="https://legiscan.com/IA/bill/SF568/2021">This law</a> requires voters who cast provisional ballots because they lack ID to return with their ID by the end of the day in order for their ballot to count. The law also makes it more difficult to set up an early-voting site and imposes several restrictions on “delivery agents,” or people who help voters with disabilities: They must fill out a special form, they cannot deliver more than two ballots and they must drop off the ballots in person at election offices, showing ID to do so.</li><li>A <a href="https://legiscan.com/AL/bill/HB285/2021">new law</a> in <strong>Alabama</strong> <a href="https://www.al.com/news/2021/05/curbside-voting-ban-becomes-alabama-law-with-gov-kay-iveys-signature.html">bans curbside voting</a>, whereby disabled voters and those at heightened risk from COVID-19 can vote from their car outside a polling place. Two less controversial measures have also been added to the books: <a href="https://legiscan.com/AL/bill/HB314/2021">one</a> that purges voters from the rolls if the U.S. Postal Service indicates that they have changed addresses and if the voter does not return a pre-addressed card updating or confirming their address, and <a href="https://legiscan.com/AL/bill/HB538/2021">another</a> that moves up the deadline to request an absentee ballot by mail by two days (the deadline to request one in person remains the same).</li><li><strong>Montana</strong> now <a href="https://legiscan.com/MT/bill/HB530/2021">bans</a> people from being paid to deliver other people’s absentee ballots, a practice sometimes derided as “ballot harvesting.” Native American groups and the American Civil Liberties Union are now <a href="https://montanafreepress.org/2021/05/18/montana-election-laws-challenged-in-court/">suing to overturn the law</a>, as well as a previous law eliminating same-day voter registration.</li><li><strong>Texas</strong> also passed four lower-profile voting restrictions: <a href="https://legiscan.com/TX/text/SB1113/2021">one</a> that allows the secretary of state to withhold funding from local election offices that don’t purge voters from the rolls as required by state law; <a href="https://legiscan.com/TX/bill/HB3920/2021">one</a> that spells out certain excuses that are <em>not</em> valid reasons for requesting an absentee ballot; <a href="https://legiscan.com/TX/bill/HB574/2021">one</a> that makes it a felony for election officials to knowingly count “invalid” votes; and <a href="https://legiscan.com/TX/bill/SB1111/2021">one</a> that bans registering to vote at a P.O. box. (That last law is being <a href="https://www.statesman.com/story/news/2021/06/22/texas-voting-lawsuit-latino-republican-residency-bill/5307669001/">challenged in court</a>.)</li><li>Two <a href="https://legiscan.com/NH/bill/SB31/2021">new</a> <a href="https://legiscan.com/NH/bill/HB523/2021">laws</a> in <strong>New Hampshire</strong> permit election officials to purge voters from the rolls based on data provided by other states and require photographs to be taken of any voters who register on election day but fail to provide ID, respectively. </li><li>Democratic Gov. John Bel Edwards of <strong>Louisiana</strong> has signed a <a href="https://legiscan.com/LA/bill/HB167/2021">bill</a> requiring election officials to search obituaries for registered voters and purge any deceased voters within 30 days.</li><li><strong>Idaho</strong> has enacted a <a href="https://legiscan.com/ID/bill/S1064/2021">new law</a> that prohibits voters from changing their mind about which party’s primary they want to vote in once they’ve been issued an absentee ballot.</li><li>In <strong>Utah</strong>, voters now <a href="https://legiscan.com/UT/bill/HB0197/2021">must</a> register with a political party by March 31 of an even year in order to vote in that party’s primary.</li><li>A <a href="https://legiscan.com/OH/bill/HB110/2021">major appropriations bill</a> in <strong>Ohio</strong> includes a provision that bars election officials from settling lawsuits in ways that contradict state election law.</li><li><strong>New York</strong> became the rare blue state to restrict voting access when it passed a <a href="https://legiscan.com/NY/bill/A07478/2021">law</a> that allows for fewer in-person polling places.</li><li>A sweeping election-administration <a href="https://legiscan.com/ND/bill/1253/2021">bill</a> in <strong>North Dakota </strong><a href="https://bismarcktribune.com/news/state-and-regional/govt-and-politics/major-north-dakota-election-bill-clears-legislature/article_fe2621ec-4415-56e7-b741-122487900274.html">implements signature matching for absentee ballots and limits voters to 30 minutes</a> in the voting booth.</li><li><strong>Oklahoma</strong> <a href="https://legiscan.com/OK/bill/HB2663/2021">moved up</a> its absentee-ballot request deadline so that voters now have eight fewer days to apply for an absentee ballot. <strong>New York</strong> <a href="https://legiscan.com/NY/bill/S00264/2021">did so</a> as well, but only for <em>mailed</em> absentee-ballot applications; voters can still request an absentee ballot in person as late as the day before the election. These laws actually <a href="https://www.oklahoman.com/story/news/2021/05/13/oklahoma-elections-gov-stitt-signs-bipartisan-bill-expand-early-voting/4971505001/">received broad support</a> from both Republicans and Democrats, as their intention was to avoid a situation where a voter requests an absentee ballot too late for it to arrive in time for the election. Nevertheless, they are still voting restrictions since they require people to plan significantly further in advance if they want to be mailed an absentee ballot, and the laws could still disenfranchise voters.</li><li>Similarly, the Democratic trifecta state of <strong>Nevada</strong> passed a flurry of election legislation this spring that had the overall effect of expanding voting access but nevertheless squeezed voters in two specific ways. First, as the flip side of the state’s switch to predominantly mail voting, <a href="https://legiscan.com/NV/bill/SB84/2021">one law</a> allowed for in-person polling places to be consolidated. <a href="https://legiscan.com/NV/bill/AB321/2021">Second</a>, as part of an effort to finish vote-counting sooner, mail ballots will have a bit less leeway to arrive late. Ballots must now arrive at election offices by the fourth day after the election, rather than the seventh day, in order to count.</li></ul><p data-paragraph="main">To be sure, some of these election laws are more onerous than others. But overall, it’s clear that both the severity and quantity of voting restrictions has increased dramatically in 2021. While we don’t know whether these changes will actually <a href="https://fivethirtyeight.com/features/how-the-republican-push-to-restrict-voting-could-affect-our-elections/" target="_blank" rel="noopener">affect the outcomes of elections</a> (as many Democrats fear and <a href="https://www.gwinnettdailypost.com/local/gwinnett-elections-boards-new-chairwoman-wants-limits-on-no-excuse-absentee-voting-voter-roll-review/article_7df1c274-5715-11eb-a31d-dfa23b30ec62.html" target="_blank" rel="noopener">at least a few</a> Republicans hope), it will undoubtedly be harder to vote in 2022 in many states than it was in 2020.</p>]]></description>
-			<pubDate>Wed, 08 Sep 2021 11:00:00 +0100</pubDate>
-			<guid isPermaLink="false">1631097902226652</guid>
 		</item>
 
 	</channel>
