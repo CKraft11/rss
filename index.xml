@@ -3,8 +3,8 @@
 		<title>Main stream | FreshRSS</title>
 		<link>http://radon</link>
 		<description>RSS feed of Main stream | FreshRSS</description>
-		<pubDate>Thu, 23 Sep 2021 17:59:07 +0100</pubDate>
-		<lastBuildDate>Thu, 23 Sep 2021 16:59:07 GMT</lastBuildDate>
+		<pubDate>Thu, 23 Sep 2021 18:29:06 +0100</pubDate>
+		<lastBuildDate>Thu, 23 Sep 2021 17:29:06 GMT</lastBuildDate>
 		<atom:link href="http://radon/i/?a=rss" rel="self" type="application/rss+xml" />
 		<item>
 			<title>What California’s Recall Election Can — And Can’t — Tell Us About The 2022 Midterms</title>
@@ -29,69 +29,45 @@
 
 
 <div>
-<section>
- <header>
- <h5>Turnout in governor recall elections is usually high</h5>
+<section><header><h5>Turnout in governor recall elections is usually high</h5>
  <p>Raw turnout and turnout rate (as a share of eligible voters) in the four gubernatorial recall elections in U.S. history, compared with the previous regularly scheduled gubernatorial election</p>
- </header>
- <table data-carpenter-slug="rakich-skelley.ca-2022.1">
- <thead>
- <tr>
- <th colspan="2"></th>
+ </header><table data-carpenter-slug="rakich-skelley.ca-2022.1"><thead><tr><th colspan="2"></th>
  <th colspan="2">Recall Election</th>
  <th colspan="2">Prev. Gov. Election</th>
- </tr>
- <tr>
- <th colspan="1">State</th>
+ </tr><tr><th colspan="1">State</th>
  <th colspan="1">Year</th>
  <th colspan="1">Turnout</th>
  <th colspan="1">Rate</th>
  <th colspan="1">Turnout</th>
  <th colspan="1">Rate</th>
- </tr>
- </thead>
- <tbody>
- <tr>
- <td>California</td>
+ </tr></thead><tbody><tr><td>California</td>
  <td>2021</td>
  <td>13,072,035</td>
  <td data-suffix="%" data-suffixpadding="1.1em">50%</td>
  <td>12,712,542</td>
  <td data-suffix="%" data-suffixpadding="1.1em">49%</td>
- </tr>
- <tr>
- <td>Wisconsin</td>
+ </tr><tr><td>Wisconsin</td>
  <td>2012</td>
  <td>2,516,371</td>
  <td>60</td>
  <td>2,185,017</td>
  <td>52</td>
- </tr>
- <tr>
- <td>California</td>
+ </tr><tr><td>California</td>
  <td>2003</td>
  <td>9,413,494</td>
  <td>45</td>
  <td>7,738,821</td>
  <td>37</td>
- </tr>
- <tr>
- <td>North Dakota</td>
+ </tr><tr><td>North Dakota</td>
  <td>1921</td>
  <td>218,766</td>
  <td>—</td>
  <td>229,606</td>
  <td>—</td>
- </tr>
- </tbody>
- </table>
- <footer>
- <p>North Dakota’s previous gubernatorial election coincided with the 1920 presidential election, which may have increased turnout. Estimates of the number of eligible voters in North Dakota in the 1920s are not available, so it is not possible to calculate turnout as a percentage. </p>
+ </tr></tbody></table><footer><p>North Dakota’s previous gubernatorial election coincided with the 1920 presidential election, which may have increased turnout. Estimates of the number of eligible voters in North Dakota in the 1920s are not available, so it is not possible to calculate turnout as a percentage. </p>
  <p>Numbers for the California 2021 recall are unofficial. The data is current as of Sept. 22, 2021, at 5:15 p.m. Eastern.</p>
  <p>Sources: State election officials, United States Elections Project</p>
- </footer>
-</section>
-</div>
+ </footer></section></div>
 
 
 <p data-paragraph="main">The second thing we know about this year’s California recall is that the polls were off by quite a bit. The <a href="https://electionresults.sos.ca.gov/returns/governor-recall" target="_blank" rel="noopener">recall is currently failing</a> by 26 percentage points (63 percent to 37 percent), and while that margin may tighten a tad more given the <a href="https://twitter.com/sovernnation/status/1440417030461480961?s=21" target="_blank" rel="noopener">slight Republican trend in the count</a>, it still marks a substantially more pro-Newsom result than <a href="https://projects.fivethirtyeight.com/california-recall-polls/" target="_blank" rel="noopener">FiveThirtyEight’s final recall polling average</a>, which gave keeping Newsom in office a 16-point lead. This 10-point miss was <a href="https://fivethirtyeight.com/features/the-death-of-polling-is-greatly-exaggerated/" target="_blank" rel="noopener">about twice the size</a> of the average polling error in gubernatorial elections dating back to 1998, and more than twice the size of the polling error in the 2020 presidential election, when Biden led by 8.4 points in <a href="https://projects.fivethirtyeight.com/polls/president-general/national/" target="_blank" rel="noopener">FiveThirtyEight’s final polling average</a> but <a href="https://uselectionatlas.org/RESULTS/national.php?year=2020&amp;f=0&amp;off=0&amp;elect=0" target="_blank" rel="noopener">won by 4.5 points</a>. Notably, too, unlike the national polls in the 2020 presidential election, the polls in California were biased toward <em>Republicans</em> and not Democrats, which fits into a pattern where polls in very blue states have at times underestimated Democratic performance, <a href="https://fivethirtyeight.com/features/why-fivethirtyeight-gave-trump-a-better-chance-than-almost-anyone-else/" target="_blank" rel="noopener">particularly in the 2016 presidential election</a>. As we’ve noted previously, it’s hard to predict the direction of polling errors because <a href="https://fivethirtyeight.com/features/weve-updated-our-pollster-ratings-ahead-of-the-2020-general-election/" target="_blank" rel="noopener">their movement is inconsistent</a> from year to year — something to remember in 2022 and 2024.</p>
@@ -102,6 +78,8 @@
 &lt;/p&gt;'><sup>3</sup></a> It’s possible, then, that a large number of previously unactivated Democratic-leaning Californians could have become engaged and then shown up as likely voters in polls conducted closer to the election, making the late movement not about changing minds about Newsom but about waking up California’s latent Democratic electorate.</p>
 
 
+<p>Watch: https://abcnews.go.com/fivethirtyeight/video/gavin-newsom-wins-california-recall-election-fivethirtyeight-politics-80029242</p>
+
 
 <p data-paragraph="main">Still, despite the polling miss, it would be unfair to cast many aspersions on pollsters. CNN’s Harry Enten <a href="https://www.cnn.com/2021/09/03/politics/newsom-rising-polls-recall/index.html" target="_blank" rel="noopener">noted ahead of the recall</a> that the polling error in the 2003 recall was about 9 points, and the “true” margin of error in polls of recent special elections for the U.S. House (which also occur at odd times of year) <a href="https://www.cnn.com/2018/03/01/politics/five-reasons-conor-lamb-could-win/index.html" target="_blank" rel="noopener">was around 13 points</a>. Additionally, we perhaps should have expected Newsom to outperform the polls because the status quo — in this case, Newsom staying in office — <a href="https://muse.jhu.edu/book/7281" target="_blank" rel="noopener">sometimes does better</a> than expected in referenda, thanks to a tendency for undecided voters and lower-information voters to vote “no” when faced with a yes-or-no ballot proposition. This is really another reason to be cautious about reading too much into the California result.</p>
 
@@ -109,6 +87,17 @@
 
 <p data-paragraph="main">Also, the degree to which one party overperforms in special elections has <a href="https://fivethirtyeight.com/features/special-elections-so-far-point-to-a-democratic-wave-in-2018/" target="_blank" rel="noopener">historically predicted</a> the national political mood in the next regularly scheduled election, so you <em>could</em> take this recall result to mean that the midterms will be decent for Democrats, or at least better than expected given the tendency of the president’s party to <a href="https://fivethirtyeight.com/features/the-party-that-loses-this-year-could-still-win-a-big-consolation-prize/" target="_blank" rel="noopener">lose ground in the midterms</a>. But you have to look at the <a href="https://fivethirtyeight.com/features/what-the-special-election-in-georgia-can-and-cant-tell-us-about-the-midterms/" target="_blank" rel="noopener">whole body of special elections</a> for that correlation to be reliable. Individual election results can vary due to local factors, and a gubernatorial recall election is <a href="https://fivethirtyeight.com/features/everything-you-need-to-know-about-the-california-recall-election/" target="_blank" rel="noopener">so unique</a> — almost by definition, some major news controversy must have occurred to even get it on the ballot — that it’s not clear we should read anything national into it. In fact, one way to interpret the result in California is that it was largely in line with the state’s base partisanship. The recall’s 26-point loss was very close to California’s <a href="https://fivethirtyeight.com/features/how-red-or-blue-is-your-state-your-congressional-district/" target="_blank" rel="noopener">FiveThirtyEight partisan lean</a><a data-footnote-id="4" href="https://fivethirtyeight.com/wp-json/wp/v2/espn_verticals/398#fn-4" data-footnote-content="&lt;p&gt;&lt;p&gt;Partisan lean is the average margin difference between how a state or district votes and how the country votes overall. This version of partisan lean, meant to be used for congressional and gubernatorial elections, is calculated as 50 percent the state or district’s lean relative to the nation in the most recent presidential election, 25 percent its relative lean in the second-most-recent presidential election and 25 percent a custom state-legislative lean.&lt;/p&gt;
 &lt;/p&gt;"><sup>4</sup></a> of D+25.</p>
+
+
+<div>
+	<p>
+		<a href="https://fivethirtyeight.com/features/our-best-tool-for-predicting-midterm-elections-doesnt-show-a-republican-wave-but-history-is-on-the-gops-side/?cid=_inlinerelated"><img alt="The Capitol building cut out and put against red and blue dots; some have the respective parties’ animal symbols in them." width="153" height="115" data-sizes="(min-width: 440px) 153px, 100vw" data-srcset="https://fivethirtyeight.com/wp-content/uploads/2021/09/GENERIC-BALLOT-2021-story-4x3-1.png?w=153&amp;quality=100&amp;strip=all 153w, https://fivethirtyeight.com/wp-content/uploads/2021/09/GENERIC-BALLOT-2021-story-4x3-1.png?w=306&amp;quality=100&amp;strip=all 306w, https://fivethirtyeight.com/wp-content/uploads/2021/09/GENERIC-BALLOT-2021-story-4x3-1.png?w=405&amp;quality=100&amp;strip=all 405w, https://fivethirtyeight.com/wp-content/uploads/2021/09/GENERIC-BALLOT-2021-story-4x3-1.png?w=810&amp;quality=100&amp;strip=all 810w"></a>
+	</p>
+	<p>
+				<strong>related:</strong>
+				Our Best Tool For Predicting Midterm Elections Doesn’t Show A Republican Wave — But History Is On The GOP’s Side <a href="https://fivethirtyeight.com/features/our-best-tool-for-predicting-midterm-elections-doesnt-show-a-republican-wave-but-history-is-on-the-gops-side/?cid=_inlinerelated">Read more. »</a>
+	</p>
+</div>
 
 
 
@@ -127,7 +116,12 @@
 
 
 
-<p data-paragraph="main">Using California’s recall as a dead-certain indicator of the future electoral environment is a dicey proposition. Instead, keep an eye on the <a href="https://projects.fivethirtyeight.com/congress-generic-ballot-polls/" target="_blank" rel="noopener">generic-ballot polling average</a> and <a href="https://projects.fivethirtyeight.com/biden-approval-rating/" target="_blank" rel="noopener">Biden’s approval rating</a>, which <a href="https://fivethirtyeight.com/features/our-best-tool-for-predicting-midterm-elections-doesnt-show-a-republican-wave-but-history-is-on-the-gops-side/" target="_blank" rel="noopener">can serve as broader signals</a> of <a href="https://fivethirtyeight.com/features/why-democrats-in-congress-need-bidens-approval-rating-to-stay-in-the-mid-50s/" target="_blank" rel="noopener">where things stand</a> as we move forward.</p>]]></description>
+<p data-paragraph="main">Using California’s recall as a dead-certain indicator of the future electoral environment is a dicey proposition. Instead, keep an eye on the <a href="https://projects.fivethirtyeight.com/congress-generic-ballot-polls/" target="_blank" rel="noopener">generic-ballot polling average</a> and <a href="https://projects.fivethirtyeight.com/biden-approval-rating/" target="_blank" rel="noopener">Biden’s approval rating</a>, which <a href="https://fivethirtyeight.com/features/our-best-tool-for-predicting-midterm-elections-doesnt-show-a-republican-wave-but-history-is-on-the-gops-side/" target="_blank" rel="noopener">can serve as broader signals</a> of <a href="https://fivethirtyeight.com/features/why-democrats-in-congress-need-bidens-approval-rating-to-stay-in-the-mid-50s/" target="_blank" rel="noopener">where things stand</a> as we move forward.</p>
+
+
+<p>Watch: https://abcnews.go.com/fivethirtyeight/video/spot-gerrymandering-state-fivethirtyeight-80189920</p>
+
+<p>Watch: https://abcnews.go.com/fivethirtyeight/video/gop-critics-trumps-big-lie-struggling-win-reelection-80138507</p>]]></description>
 			<pubDate>Thu, 23 Sep 2021 11:00:00 +0100</pubDate>
 			<guid isPermaLink="false">1632393901505534</guid>
 		</item>
@@ -174,6 +168,8 @@
 <p data-paragraph="main">Let’s start with the $3.5 trillion reconciliation bill. What do we make of its chances of passing?</p>
 
 
+<p>Watch: https://abcnews.go.com/fivethirtyeight/video/spot-gerrymandering-state-fivethirtyeight-80189920</p>
+
 
 <p data-paragraph="main"><strong>lee.drutman</strong> (<a href="https://fivethirtyeight.com/contributors/lee-drutman/" target="_blank" rel="noopener">Lee Drutman</a>, senior fellow at New America and FiveThirtyEight contributor):<strong> </strong>A $3.5 trillion bill probably has 0 percent chance of passing. A $2.5 trillion bill, on the other hand, has a much better chance of passing.</p>
 
@@ -192,6 +188,17 @@
 
 
 <p data-paragraph="main">The reason why I think it still passes, though, is because it’d be a pretty humiliating defeat for President Biden if it didn’t. I know there are a lot of threats being thrown around from both progressive and moderate Democrats, but I want to think that the glue holding everyone together is that no one wants to harbor blame for tanking Biden’s agenda — and there’s a lot on the line here. So it’s likely not everyone is going to be happy, but maybe out of a shared sense of not wanting everything to fail, Democrats will find a way to figure this out?</p>
+
+
+<div>
+	<p>
+		<a href="https://fivethirtyeight.com/features/what-californias-recall-election-can-and-cant-tell-us-about-the-2022-midterms/?cid=_inlinerelated"><img alt="Biden, Newsom, and Newsom’s wife stand in front of a giant California flag." width="153" height="115" data-sizes="(min-width: 440px) 153px, 100vw" data-srcset="https://fivethirtyeight.com/wp-content/uploads/2021/09/GettyImages-1235242460-4x3-1.jpg?w=153&amp;quality=100&amp;strip=all 153w, https://fivethirtyeight.com/wp-content/uploads/2021/09/GettyImages-1235242460-4x3-1.jpg?w=306&amp;quality=100&amp;strip=all 306w, https://fivethirtyeight.com/wp-content/uploads/2021/09/GettyImages-1235242460-4x3-1.jpg?w=405&amp;quality=100&amp;strip=all 405w, https://fivethirtyeight.com/wp-content/uploads/2021/09/GettyImages-1235242460-4x3-1.jpg?w=810&amp;quality=100&amp;strip=all 810w"></a>
+	</p>
+	<p>
+				<strong>related:</strong>
+				What California’s Recall Election Can — And Can’t — Tell Us About The 2022 Midterms <a href="https://fivethirtyeight.com/features/what-californias-recall-election-can-and-cant-tell-us-about-the-2022-midterms/?cid=_inlinerelated">Read more. »</a>
+	</p>
+</div>
 
 
 
@@ -228,6 +235,17 @@
 
 
 <p data-paragraph="main">While about two-thirds of Americans surveyed (67 percent) said they support funding for affordable housing, just 41 percent of Republicans do, compared to 85 percent of Democrats. There is also a pretty large gap in support for free community college tuition, with 27 percent of Republicans in favor versus 76 percent of Democrats. And of the 12 topics AP-NORC asked about, both Republicans and Democrats were least in favor of things like funding for electric vehicle charging stations (23 percent and 64 percent, respectively) and funding for passenger and freight rail services (37 percent and 68 percent). </p>
+
+
+<div>
+	<p>
+		<a href="https://fivethirtyeight.com/features/how-many-house-republicans-who-voted-to-impeach-trump-will-survive-the-midterms/?cid=_inlinerelated"><img alt="Rep. Anthony Gonzalez walking." width="153" height="115" data-sizes="(min-width: 440px) 153px, 100vw" data-srcset="https://fivethirtyeight.com/wp-content/uploads/2021/09/GettyImages-1231650745-4x3-1.jpg?w=153&amp;quality=100&amp;strip=all 153w, https://fivethirtyeight.com/wp-content/uploads/2021/09/GettyImages-1231650745-4x3-1.jpg?w=306&amp;quality=100&amp;strip=all 306w, https://fivethirtyeight.com/wp-content/uploads/2021/09/GettyImages-1231650745-4x3-1.jpg?w=405&amp;quality=100&amp;strip=all 405w, https://fivethirtyeight.com/wp-content/uploads/2021/09/GettyImages-1231650745-4x3-1.jpg?w=810&amp;quality=100&amp;strip=all 810w"></a>
+	</p>
+	<p>
+				<strong>related:</strong>
+				How Many House Republicans Who Voted To Impeach Trump Will Survive The Midterms? <a href="https://fivethirtyeight.com/features/how-many-house-republicans-who-voted-to-impeach-trump-will-survive-the-midterms/?cid=_inlinerelated">Read more. »</a>
+	</p>
+</div>
 
 
 
@@ -285,6 +303,8 @@
 
 <p data-paragraph="main">What are the risks Democrats face with the possibility of the government running out of money and Republicans also refusing to raise the nation’s debt limit? Does this potentially undermine Democrats’ larger legislative goals?</p>
 
+
+<p>Watch: https://abcnews.go.com/fivethirtyeight/video/gop-critics-trumps-big-lie-struggling-win-reelection-80138507</p>
 
 
 <p data-paragraph="main"><strong>lee.drutman: </strong>I think a government shutdown is quite likely. I would guess both sides see it in their interest because it sharpens the differences.</p>
@@ -459,7 +479,12 @@
 
 
 
-<p data-paragraph="main">I never ever bet against Nancy Pelosi.</p>]]></description>
+<p data-paragraph="main">I never ever bet against Nancy Pelosi.</p>
+
+
+<p>Watch: https://abcnews.go.com/fivethirtyeight/video/gavin-newsom-wins-california-recall-election-fivethirtyeight-politics-80029242</p>
+
+<p>Watch: https://abcnews.go.com/fivethirtyeight/video/upcoming-elections-us-political-climate-80002422</p>]]></description>
 			<pubDate>Wed, 22 Sep 2021 15:00:00 +0100</pubDate>
 			<guid isPermaLink="false">1632321902121595</guid>
 		</item>
