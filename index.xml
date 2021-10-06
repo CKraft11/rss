@@ -3,9 +3,469 @@
 		<title>Main stream | FreshRSS</title>
 		<link>http://radon</link>
 		<description>RSS feed of Main stream | FreshRSS</description>
-		<pubDate>Wed, 06 Oct 2021 20:59:06 +0100</pubDate>
-		<lastBuildDate>Wed, 06 Oct 2021 19:59:06 GMT</lastBuildDate>
+		<pubDate>Wed, 06 Oct 2021 21:29:06 +0100</pubDate>
+		<lastBuildDate>Wed, 06 Oct 2021 20:29:06 GMT</lastBuildDate>
 		<atom:link href="http://radon/i/?a=rss" rel="self" type="application/rss+xml" />
+		<item>
+			<title>Murders Spiked In 2020. How Will That Change The Politics of Crime?</title>
+			<link>https://fivethirtyeight.com/features/murders-spiked-in-2020-how-will-that-change-the-politics-of-crime/</link>
+						<dc:creator>Sarah Frostenson</dc:creator>
+			<dc:creator>A FiveThirtyEight Chat</dc:creator>
+			<category>Crime</category>
+			<category>Crime Data</category>
+			<category>Crime Stats</category>
+			<category>Criminal Justice</category>
+			<category>Guns</category>
+			<category>Murders</category>
+			<category>Police</category>
+			<category>Slack Chat</category>
+			<category>Violence</category>
+			<description><![CDATA[<p data-paragraph="main">Welcome to FiveThirtyEight’s <a href="https://fivethirtyeight.com/tag/slack-chat/" target="_blank" rel="noopener">politics chat</a>. The transcript below has been lightly edited.</p>
+
+
+<div><hr><span></span></div>
+
+
+
+<p data-paragraph="main"><strong>sarah </strong>(<a href="https://fivethirtyeight.com/contributors/sarah-frostenson/" target="_blank" rel="noopener">Sarah Frostenson</a>, politics editor): New data released by the FBI last week showed <a href="https://www.nytimes.com/2021/09/27/us/fbi-murders-2020-cities.html" target="_blank" rel="noopener">a spike in homicides in 2020</a>, while major crimes overall in the U.S. fell. This marked one of the biggest one-year increases on record, and in addition to the sheer numbers involved, it was also notable that it wasn’t a regional or big-cities-only story — it was a story that affected nearly every part of the U.S.</p>
+
+
+
+<p data-paragraph="main">And while it’s very unclear what the spike in murder will mean moving forward — there is some evidence that <a href="https://www.nytimes.com/2021/09/22/upshot/murder-rise-2020.html" target="_blank" rel="noopener">2021 has already been less deadly</a>, for instance — it does raise larger questions around how we think and talk about violent crime in the U.S., especially as it pertains to our politics. For instance, crime and policing were major issues in the 2020 presidential election, with some evidence <a href="https://www.washingtonpost.com/powerpost/democrats-2020-autopsy-midterms/2021/05/18/6114af82-b80d-11eb-a5fe-bb49dc89a248_story.html" target="_blank" rel="noopener">that it may have hurt Democrats</a>. It’s already been <a href="https://www.cnn.com/2021/05/29/politics/new-york-mayor-primary-eric-adams-rising-crime/index.html" target="_blank" rel="noopener">a key issue in the 2021 elections</a>, too; although it isn’t clear whether <a href="https://theintercept.com/2021/06/23/buffalo-mayor-socialist-india-walton/" target="_blank" rel="noopener">Democrats’ messaging on policing and crime has hurt them</a>.</p>
+
+
+
+<p data-paragraph="main">So let’s talk about the politics of crime. First of all, what do we even mean when we talk about crime?</p>
+
+
+
+<p data-paragraph="main"><strong>jacob.kaplan </strong>(<a href="https://fivethirtyeight.com/contributors/jacob-kaplan/" target="_blank" rel="noopener">Jacob Kaplan</a>, crime researcher at Princeton’s School of Public and International Affairs): When people talk about crime they’re usually using the FBI’s list of “major crimes” as a guide (whether they realize that or not). The FBI’s <a href="https://www.fbi.gov/file-repository/ucr/ucr-srs-user-manual-v1.pdf/view" target="_blank" rel="noopener">list stems back to 1929</a> and includes eight crimes that are serious and generally well-reported — murder, robbery, aggravated assault, rape, burglary, theft, motor vehicle theft and arson.</p>
+
+
+
+<p data-paragraph="main">These crimes are then often summed up into a single value of “major crimes,” but the bulk of the crimes in this category is often property crimes, specifically theft.</p>
+
+
+
+<p data-paragraph="main"><strong>jennifer.doleac </strong>(<a href="https://fivethirtyeight.com/contributors/jennifer-doleac/" target="_blank" rel="noopener">Jennifer Doleac</a>, economics professor at Texas A&amp;M University): And crime means different things to different people. The FBI tracks serious crime, as Jacob said — and that’s the stuff most people worry about. But lower-level crime (trespassing, drug possession, shoplifting) is far more common, yet not consistently tracked.</p>
+
+
+
+<p data-paragraph="main"><strong>lisa.miller </strong>(<a href="https://fivethirtyeight.com/contributors/lisa-miller/" target="_blank" rel="noopener">Lisa Miller</a>, political science professor at Rutgers University):<strong> </strong>As Jennifer is getting at, it’s important to distinguish between different types of crime. Violent crime, especially homicide, is particularly worrisome, even if it hasn’t directly affected a given community. People are understandably fearful when they start hearing that murders are increasing. So I think that if it’s violence that is on the rise, that really is troubling.</p>
+
+
+
+<p data-paragraph="main"><strong>ameliatd </strong>(<a href="https://fivethirtyeight.com/contributors/amelia-thomson-deveaux/" target="_blank" rel="noopener">Amelia Thomson-DeVeaux</a>, senior writer): Right, the distinction between property crime and violent crime seems really important. Property crime has been on the decline; it’s violent crime that’s spiking. This is not to say that people aren’t concerned about property crime — but I think when we’re talking about crime in a political context, violence is what drives a lot of the fears and knee-jerk reactions.</p>
+
+
+
+<p data-paragraph="main"><strong>jacob.kaplan:</strong> And it wasn’t just murder that went up in 2020, either. Aggravated assault — an assault that involved a weapon or seriously injured the victim — went up too, with assaults involving a gun driving a lot of the uptick.</p>
+
+
+
+<p data-paragraph="main"><strong>maggie.koerth </strong>(<a href="https://fivethirtyeight.com/contributors/maggie-koerth/" target="_blank" rel="noopener">Maggie Koerth</a>, senior science writer): Oh, that’s a really interesting question, Sarah, because it’s bigger than crime statistics. I think it’s about whether people feel safe in their communities. And that can be based on a lot of things. Some real risk to life and limb and some perceptions of risk. </p>
+
+
+
+<p data-paragraph="main">I remember being really struck by <a href="https://fivethirtyeight.com/features/many-americans-are-convinced-crime-is-rising-in-the-u-s-theyre-wrong/" target="_blank" rel="noopener">the work of Wesley Skogan</a>, who worked in Chicago in the 1990s, documenting the things that people who requested police assistance wanted solved. And what he found was that people were often thinking about things like litter and loud music as emblematic of safety problems or their fear for their communities — even when those things aren’t, strictly speaking, crime. </p>
+
+
+
+<p data-paragraph="main"><strong>ameliatd:</strong> The terms can get pretty mushy here, too. If we say that violence is rising, are we talking about murders? Aggravated assault? </p>
+
+
+
+<p data-paragraph="main">As Jennifer was suggesting, “crime” and “violence” can mean different things to different people that don’t map easily onto the data we have. And of course, politicians don’t make clean distinctions when they’re talking about crime and violence.</p>
+
+
+
+<p data-paragraph="main"><strong>lisa.miller: </strong>I agree with Amelia that violence is what drives fear, though Maggie’s point is really important, too — sometimes a lot of things get conflated. But in <a href="https://blogs.lse.ac.uk/politicsandpolicy/crime-and-punishment-in-post-war-britain-mob-rule-as-democratic-corrective/" target="_blank" rel="noopener">my own research</a>, as well as <a href="https://www.cambridge.org/core/books/incarceration-nation/9ABCAFF7C3E47BCC7F32D800DF3EDF09" target="_blank" rel="noopener">in others’</a>, rising violence is something that really registers for people.</p>
+
+
+
+<p data-paragraph="main"><strong>jacob.kaplan:</strong> “Crime” is such a vague term and can range from shoplifting to murder that even academics have a hard time agreeing on what offenses should be included.</p>
+
+
+
+<p data-paragraph="main"><strong>ameliatd:</strong> That’s completely right, Jacob. And it tends to be defined through policing data, too — which is kind of odd in itself, since arrests are just the beginning of a<em> long</em> criminal justice process that doesn’t necessarily end in a conviction.</p>
+
+
+
+<p data-paragraph="main"><strong>jacob.kaplan:</strong> Yeah, I think if we had much better court/prosecutor data, we’d have completely different conversations about crime. But there’s almost no good public data on that (though Philadelphia’s district attorney’s office <a href="https://billypenn.com/2019/10/03/philly-da-krasner-criminal-justice-tracker/" target="_blank" rel="noopener">is one exception</a>), so as Amelia says, we’re reliant on data that is first reported to or observed by the police and then reported by the police to the FBI.</p>
+
+
+
+<p data-paragraph="main">One thing we do see in the data, though, is that<strong> </strong>the 2020 murder spike is also relatively broad — affecting a lot more people than just “gang members,” as <a href="https://www.city-journal.org/retaliatory-gang-violence" target="_blank" rel="noopener">some organizations</a> have claimed. </p>
+
+
+
+<p data-paragraph="main">According to my analysis of FBI data for agencies that reported detailed murder info in both 2019 and 2020, nearly every single group of murder victims experienced an uptick last year — though it’s important to stress that some of these groups have really low incident rates to begin with, which can result in large swings between years.</p>
+
+
+<div>
+<section>
+ <header>
+ <p>Number of murder victims, by relationship to the suspect/offender, and the percent change between 2019 and 2020</p>
+ </header>
+ <table data-carpenter-slug="wiederkehr.chat-crime-stats-1.1">
+ <thead>
+ <tr>
+ <th colspan="1">relation to offender</th>
+ <th colspan="1">2019</th>
+ <th colspan="1">2020</th>
+ <th colspan="1">Percent change</th>
+ </tr>
+ </thead>
+ <tbody>
+ <tr>
+ <td>Wife</td>
+ <td>330</td>
+ <td>294</td>
+ <td data-suffix="%" data-suffixpadding="1.1em">-10.9%</td>
+ </tr>
+ <tr>
+ <td>Brother</td>
+ <td>93</td>
+ <td>86</td>
+ <td>-7.5</td>
+ </tr>
+ <tr>
+ <td>Daughter</td>
+ <td>89</td>
+ <td>86</td>
+ <td>-3.4</td>
+ </tr>
+ <tr>
+ <td>Son</td>
+ <td>157</td>
+ <td>160</td>
+ <td>+1.9</td>
+ </tr>
+ <tr>
+ <td>Father</td>
+ <td>95</td>
+ <td>101</td>
+ <td>+6.3</td>
+ </tr>
+ <tr>
+ <td>Boyfriend</td>
+ <td>164</td>
+ <td>180</td>
+ <td>+9.8</td>
+ </tr>
+ <tr>
+ <td>Girlfriend</td>
+ <td>390</td>
+ <td>431</td>
+ <td>+10.5</td>
+ </tr>
+ <tr>
+ <td>Mother</td>
+ <td>118</td>
+ <td>134</td>
+ <td>+13.6</td>
+ </tr>
+ <tr>
+ <td>Acquaintance</td>
+ <td>1,494</td>
+ <td>1,729</td>
+ <td>+15.7</td>
+ </tr>
+ <tr>
+ <td>Stranger</td>
+ <td>1,549</td>
+ <td>1,886</td>
+ <td>+21.8</td>
+ </tr>
+ <tr>
+ <td>Neighbor</td>
+ <td>85</td>
+ <td>105</td>
+ <td>+23.5</td>
+ </tr>
+ <tr>
+ <td>Other family member</td>
+ <td>209</td>
+ <td>260</td>
+ <td>+24.4</td>
+ </tr>
+ <tr>
+ <td>Other (known to the victim)</td>
+ <td>757</td>
+ <td>955</td>
+ <td>+26.2</td>
+ </tr>
+ <tr>
+ <td>Friend</td>
+ <td>272</td>
+ <td>358</td>
+ <td>+31.6</td>
+ </tr>
+ <tr>
+ <td>Husband</td>
+ <td>58</td>
+ <td>79</td>
+ <td>+36.2</td>
+ </tr>
+ <tr>
+ <td>Unknown</td>
+ <td>6,216</td>
+ <td>8,504</td>
+ <td>+36.8</td>
+ </tr>
+ </tbody>
+ </table>
+ <footer>
+ <p>Excludes victim groups where fewer than 50 people were murdered in 2019, and only includes murder and nonnegligent manslaughter. Includes only the first victim and first suspects/offender in an incident, even if there were multiple victims and suspects/offenders.</p>
+ <p>Sources: FBI, Jacob Kaplan</p>
+ </footer>
+</section>
+</div>
+
+
+<p data-paragraph="main"><strong>maggie.koerth:</strong> Woah, Jacob. Does that mean that violence against husbands is way up and violence against wives is down?</p>
+
+
+
+<p data-paragraph="main"><strong>jacob.kaplan:</strong> Yes, but remember: Few husbands are murdered. For instance, 58 husbands were killed in 2019, compared with 79 in 2020. Whereas, for wives, 330 were murdered in 2019, compared with 294 in 2020.</p>
+
+
+
+<p data-paragraph="main"><strong>maggie.koerth:</strong> Gotcha. That makes a lot more sense. So the big takeaway from that chart is less about the different types of victims affected, and more that murder increases in 2020 aren’t something that was happening to a narrow swath of the population?</p>
+
+
+
+<p data-paragraph="main"><strong>jacob.kaplan:</strong> Right. Nearly every relationship group had an increased number of murders in 2020, regardless of the relationship type, so one takeaway from the uptick in murders in 2020 is that it’s not isolated to certain types of murders.</p>
+
+
+
+<p data-paragraph="main"><strong>ameliatd:</strong> Jacob, do we have a sense yet for why the murder spike is so broad?</p>
+
+
+
+<p data-paragraph="main"><strong>jacob.kaplan:</strong> I don’t think we’ll be able to answer why it’s so broad for a while — especially not until the other, more detailed FBI data comes out from the <a href="https://www.fbi.gov/services/cjis/ucr/nibrs" target="_blank" rel="noopener">National Incident-Based Reporting System later this year.</a> </p>
+
+
+
+<p data-paragraph="main">But there is evidence at this point that it’s not just an increase in gun violence in 2020; other use of deadly weapons also increased.</p>
+
+
+<div>
+<section>
+ <header>
+ <p>Number of murder victims, by weapon type, and the percent change between 2019 and 2020</p>
+ </header>
+ <table data-carpenter-slug="wiederkehr.chat-crime-stats-1.2">
+ <thead>
+ <tr>
+ <th colspan="1">weapon type</th>
+ <th colspan="1">2019</th>
+ <th colspan="1">2020</th>
+ <th colspan="1">Percent change</th>
+ </tr>
+ </thead>
+ <tbody>
+ <tr>
+ <td>Asphyxiation*</td>
+ <td>68</td>
+ <td>52</td>
+ <td data-suffix="%" data-suffixpadding="1.1em">-23.5%</td>
+ </tr>
+ <tr>
+ <td>Shotgun</td>
+ <td>159</td>
+ <td>154</td>
+ <td>-3.1</td>
+ </tr>
+ <tr>
+ <td>Blunt object</td>
+ <td>316</td>
+ <td>312</td>
+ <td>-1.3</td>
+ </tr>
+ <tr>
+ <td>Other/Unknown</td>
+ <td>733</td>
+ <td>762</td>
+ <td>+4.0</td>
+ </tr>
+ <tr>
+ <td>Personal weapons†</td>
+ <td>501</td>
+ <td>552</td>
+ <td>+10.2</td>
+ </tr>
+ <tr>
+ <td>Knife/Cutting instrument</td>
+ <td>1,200</td>
+ <td>1,445</td>
+ <td>+20.4</td>
+ </tr>
+ <tr>
+ <td>Handgun</td>
+ <td>5,831</td>
+ <td>7,273</td>
+ <td>+24.7</td>
+ </tr>
+ <tr>
+ <td>Rifle</td>
+ <td>296</td>
+ <td>382</td>
+ <td>+29.1</td>
+ </tr>
+ <tr>
+ <td>Firearm (unspecified)</td>
+ <td>2,977</td>
+ <td>4,341</td>
+ <td>+45.8</td>
+ </tr>
+ </tbody>
+ </table>
+ <footer>
+ <p>*Includes death by gas<br>†Includes beating as well as using their fists, feet, arms, etc., as a weapon</p>
+ <p>Excludes victim groups where fewer than 50 people were murdered in 2019, and only includes murder and nonnegligent manslaughter. Includes only the first victim and first suspect/offender in an incident, even if there were multiple victims and suspects/offenders.</p>
+ <p>Sources: FBI, Jacob Kaplan</p>
+ </footer>
+</section>
+</div>
+
+
+<p data-paragraph="main">Notably, however, the quality of the data does seem to have dropped in 2020. There was just a lot more incomplete data. True, the data quality is generally pretty unsatisfactory, given that reporting is voluntary so not all agencies report in the first place, but I’d guess that there was an effect had by the transition to how the FBI is now collecting this data and the resource constraints caused by COVID-19.</p>
+
+
+
+<p data-paragraph="main"><strong>ameliatd:</strong> Well, that answers one question I had, Jacob. I had seen <a href="https://www.vox.com/22529989/2020-murders-guns" target="_blank" rel="noopener">a theory floated</a> that people were simply carrying more guns in 2020, and that this explains some of the increase. But if use of other weapons increased too, that’s plainly not the answer!</p>
+
+
+
+<p data-paragraph="main"><strong>jacob.kaplan:</strong> There is good evidence that <a href="https://www.wsj.com/articles/new-york-police-increase-gun-seizures-but-shootings-rise-11618494435" target="_blank" rel="noopener">people were carrying more guns</a>, and gun murders did go up more than other types of murders. But it’s not the only story.</p>
+
+
+
+<p data-paragraph="main"><strong>maggie.koerth:</strong> That’s interesting. One thought I had prior to you saying that: Research that has suggested <a href="https://www.hsph.harvard.edu/hicrc/firearms-research/guns-and-death/" target="_blank" rel="noopener">more guns in a household or a community is correlated with an increased risk of homicide</a> for the people who live there. Like, it wasn’t shocking to me to see a massive increase in gun purchasing and a big increase in gun murders happening in tandem.</p>
+
+
+
+<p data-paragraph="main">But clearly that’s not the whole story here.</p>
+
+
+
+<p data-paragraph="main"><strong>lisa.miller: </strong>Is it possible that the broadness of the spike in murder is a function of decline in trust and legitimacy as a result of the pandemic? Or polarization and general political unrest, more generally? </p>
+
+
+
+<p data-paragraph="main"><strong>ameliatd:</strong> Lisa, do you mean that people were less likely to call the police or other authorities when they were in situations that could lead to violence, and that perhaps this explains the spike?</p>
+
+
+
+<p data-paragraph="main"><strong>lisa.miller: </strong>Amelia, I was thinking more about theories of violence self-help — that is, people are less likely to restrain the urge to act out violently when there is less of a sense of shared legitimacy and social trust. Or the idea that <a href="https://www.routledge.com/Losing-Legitimacy-Street-Crime-And-The-Decline-Of-Social-Institutions-In/Lafree/p/book/9780813334516" target="_blank" rel="noopener">criminologist Gary LaFree</a> and <a href="https://www.hup.harvard.edu/catalog.php?isbn=9780674035201" target="_blank" rel="noopener">historian Randolph Roth</a> have put forth that suggests societies with higher levels of social trust and political legitimacy experience lower rates of homicide. </p>
+
+
+
+<p data-paragraph="main">But, of course, when those relations break down — or if they are not deeply established in the first place — we see higher levels of homicide. And we certainly seem to be living in such a time period now, where trust and legitimacy were already pretty low even before the pandemic. I wonder if the pandemic may have exacerbated those problems.</p>
+
+
+
+<p data-paragraph="main"><strong>maggie.koerth:</strong> You guys, why can’t crime patterns neatly stick to theories of crime and human behavior? (I kid.)</p>
+
+
+
+<p data-paragraph="main"><strong>sarah:</strong> As you all are getting at, there is no one answer for why there was an increase in violent crime, but what are some of the factors we can point to? We’ve talked about the role guns played in this and how that’s not the whole story. But what role did the pandemic play? Or last summer’s protests for racial justice that followed George Floyd’s murder? Is there a “<a href="https://theconversation.com/more-guns-pandemic-stress-and-a-police-legitimacy-crisis-created-perfect-conditions-for-homicide-spike-in-2020-168823" target="_blank" rel="noopener">police legitimacy crisis</a>” as political scientist Justin Nix has argued?</p>
+
+
+
+<p data-paragraph="main"><strong>jennifer.doleac: </strong>I’ve had the chance to preview a few as-of-yet unpublished studies with conflicting answers about what happens to the reporting of crime statistics after high-profile police killings. It seems to matter sometimes — perhaps because communities that were most affected didn’t trust the police much in the first place.</p>
+
+
+
+<p data-paragraph="main">There is <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3715223" target="_blank" rel="noopener">some evidence</a> of a “Ferguson effect,” where police appear to pull back in the face of criticism/protests. And, of course, it’s hard to isolate the effect of the pandemic as everyone is stressed out and many people lost jobs and income over the past year and a half, so those issues could be contributing to the increase in violence, too.</p>
+
+
+
+<p data-paragraph="main">There are just a bunch of possible explanations and no good way to nail down whether one is better than others. We may never know, given how much was going on during this period.</p>
+
+
+
+<p data-paragraph="main"><strong>jacob.kaplan:</strong> And when you consider that we still don’t have a consensus for why violent crime increased in the 1980s and then decreased in the 1990s — and even continued its decrease up until now — it’s going to be really hard to figure out what’s happening now, like Jennifer said.</p>
+
+
+
+<p data-paragraph="main"><strong>ameliatd:</strong> Yeah, the difficulty of untangling different, simultaneous social forces is something that a bunch of experts raised when I was talking to them about <a href="https://fivethirtyeight.com/features/trump-doesnt-know-why-crime-rises-or-falls-neither-does-biden-or-any-other-politician/" target="_blank" rel="noopener">why crime rose and fell</a> a few decades ago. You can’t go back and do a lot of controlled experiments to figure it out, unfortunately!</p>
+
+
+
+<p data-paragraph="main"><strong>jacob.kaplan:</strong> And even if you could, what worked in the 1990s may not work now.</p>
+
+
+
+<p data-paragraph="main"><strong>ameliatd:</strong> But the political dimensions are really interesting to me. Criminal justice reform takes a loooooong time. So even when politicians do focus on it, the incentive is to do something that has a quick impact they can point to. Which is not always what’s best or most effective.</p>
+
+
+
+<p data-paragraph="main"><strong>jennifer.doleac: </strong>It’s a challenging conversation to have now, given some of the politics around police reform, but I think police reform is still very important to improving trust between communities and law enforcement. We have lots of evidence that police are very effective at reducing violent crime, like homicide. <a href="http://morganwilliamsjr.com/wp-content/uploads/2015/06/Chalfin_et_al_2021_WP.pdf" target="_blank" rel="noopener">One paper</a> from a group of economists and public policy scholars finds that hiring more police officers reduces homicide rates and disproportionately benefits Black communities.</p>
+
+
+
+<p data-paragraph="main">And the nonprofit Criminal Justice Expert Panel (which I co-direct) recently <a href="https://cjexpertpanel.org/surveys/reducing-gun-violence/" target="_blank" rel="noopener">surveyed leading crime researchers about popular options</a> for reducing gun violence, such as gang-takedowns/hot-spot policing, community-led violence interrupters and focused deterrence on community members known to be at-risk. We found that researchers were most bullish on the first option (gang-takedowns/hot-spot policing) and somewhat optimistic about the third (focused deterrence), though with lots of caveats. </p>
+
+
+
+<p data-paragraph="main">The evidence on focused deterrence (which involves police) and community-led violence interrupters (which do not), however, is pretty weak and mixed. That means, despite both being popular among advocates of police reform, we’re not actually sure those policies are proven. It doesn’t mean they’re not promising, but it’s complicated.</p>
+
+
+
+<p data-paragraph="main"><strong>lisa.miller: </strong>What I find interesting here is that many of the policies and programs — which are evidence-based — are the types of programs that have historically come under fire from <a href="https://www.aclu.org/news/criminal-law-reform/defunding-the-police-will-actually-make-us-safer/" target="_blank" rel="noopener">groups critical of the police</a>. “Gang takedowns,” hot-spot policing and focused deterrence sound a lot like the kind of aggressive policing — including stop and frisk — that is likely to run into resistance from groups that are seeking to minimize, not expand, the role of policing in confronting crime. While the public would like to see the police involved <a href="https://www.dataforprogress.org/blog/2020/6/16/voters-support-the-use-of-nonpolice-first-responders" target="_blank" rel="noopener">in fewer social problems</a>, there is <a href="https://www.ipsos.com/en-us/news-polls/usa-today-crime-and-safety-2021" target="_blank" rel="noopener">widespread support</a> for the police dealing with serious crime.</p>
+
+
+
+<p data-paragraph="main"><strong>maggie.koerth:</strong> One of the things I thought was interesting <a href="https://fivethirtyeight.com/features/is-police-reform-a-fundamentally-flawed-idea/" target="_blank" rel="noopener">when Amelia and I were reporting on police reforms</a> is that all those things COULD represent aggressive policing — or they might not. It depends on how they’re implemented, and they’re implemented in such different ways that it’s often hard to compare data. And it ends up making these conversations harder, too. Because some people might imagine “hot-spot policing” and think of stop and frisk. And some people might imagine something more like a beat cop with a presence in the community. And it could mean either or both.</p>
+
+
+
+<p data-paragraph="main"><strong>ameliatd:</strong> And one of the challenges for me in thinking about what’s “evidence-based” is that the experiences of the people who are living in high-crime communities <a href="https://www.washingtonpost.com/politics/2020/06/17/we-listened-people-highly-policed-us-communities/?utm_campaign=wp_monkeycage&amp;utm_medium=social&amp;utm_source=twitter" target="_blank" rel="noopener">can be hard to incorporate</a> in that kind of research. Maybe a particular reform or approach does reduce crime in the short term — but does it make people living in those places feel safer in the long run? That’s obviously harder to measure, but it’s important to explore.</p>
+
+
+
+<p data-paragraph="main"><strong>sarah:</strong> We’ve talked about some of the reasons why violent crime might have spiked in 2020, as well as possible ways to curb it going forward, but what are some of the risks if elected officials ignore the problem? Is this <a href="https://fivethirtyeight.com/features/americans-are-worried-about-crime-but-that-doesnt-mean-theyre-blaming-democrats/" target="_blank" rel="noopener">an issue that is particularly challenging for Democrats</a> because of where some on the political left stand on police reform?</p>
+
+
+
+<p data-paragraph="main"><strong>ameliatd:</strong> Well, to state the obvious, it’s bad if politicians are ignoring a trend that is making people’s lives worse or more dangerous. So if people are truly feeling less safe, that’s important for politicians to address. The problem is that it’s hard to figure out how much of people’s feelings <a href="https://www.pewresearch.org/fact-tank/2016/11/16/voters-perceptions-of-crime-continue-to-conflict-with-reality/" target="_blank" rel="noopener">are being driven</a> by what politicians are saying about crime.</p>
+
+
+
+<p data-paragraph="main"><strong>lisa.miller: </strong>I think of this in two ways — the short-term and the long-term. In the long-term, if this is a temporary rise in violence, it’s possible it won’t have a big electoral impact. In the short term, I do think it carries risks for some Democrats if they are primarily responsive to the groups demanding that cities <a href="https://www.afsc.org/blogs/news-and-commentary/6-reasons-why-its-time-to-defund-police" target="_blank" rel="noopener">divest from policing or shrink police forces</a>. People want <a href="https://oxford.universitypressscholarship.com/view/10.1093/acprof:oso/9780195331684.001.0001/acprof-9780195331684" target="_blank" rel="noopener">more police when violence is rising</a>. That doesn’t mean they want police to be abusive or violent. But reducing police services during such a time has some political peril.</p>
+
+
+
+<p data-paragraph="main"><strong>jennifer.doleac: </strong>Another possible risk here is that the momentum behind criminal justice reform is lost. There has been <a href="https://www.washingtonpost.com/politics/federal-prison-reform-has-bipartisan-support-but-its-moving-slowly/2020/01/08/81edfbd6-3268-11ea-898f-eb846b7e9feb_story.html" target="_blank" rel="noopener">broad support for meaningful reforms</a> across the criminal justice system, for many years now. That’s likely in part because people have felt safe enough to be open to scaling back things like policing and incarceration. But if violent crime starts rising, that support might vanish, even if those reforms were moving us in the right direction.</p>
+
+
+
+<p data-paragraph="main"><strong>ameliatd:</strong> It’s not a good thing that murders are up! But it’s hard to have these discussions in a nuanced way. Nor is it often in politicians’ best interest to do so.</p>
+
+
+
+<p data-paragraph="main">Electorally, though, is it worse for Democrats? I’m not sure. I think the bigger risk is that, as Jennifer and others are saying, reform policies that were getting floated on the left get scaled back because of fears about the electoral consequences.</p>
+
+
+
+<p data-paragraph="main"><strong>maggie.koerth:</strong> And whether it’s electorally bad or not, it’s bad for the reforms — because the perception of electoral challenges is there.</p>
+
+
+
+<p data-paragraph="main">Do you all see politics forcing a choice between reform and safety? Or rather, safety from police and safety from criminals? </p>
+
+
+
+<p data-paragraph="main"><strong>lisa.miller: </strong>I think some politicians will present the choice that way, but I don’t think that is inevitable.</p>
+
+
+
+<p data-paragraph="main">What I can say — from 25 years of researching the politics of violent crime in local, state, national and cross-national contexts — is that a serious crime wave is likely to result in more policing and more imprisonment. That has <a href="https://oxford.universitypressscholarship.com/view/10.1093/acprof:oso/9780190228705.001.0001/acprof-9780190228705" target="_blank" rel="noopener">happened in every context I’ve examined</a>. But policing and prisons don’t have to be the only responses, and the responses don’t have to be on a mass scale. There are many ways to increase policing, and even confinement, that are not as brutal as the system we have in the U.S.</p>]]></description>
+			<pubDate>Wed, 06 Oct 2021 20:44:00 +0100</pubDate>
+			<guid isPermaLink="false">1633550401469296</guid>
+		</item>
 		<item>
 			<title>Biden’s Approval Rating Isn’t Bouncing Back</title>
 			<link>https://fivethirtyeight.com/features/bidens-approval-rating-isnt-bouncing-back/</link>
@@ -2137,74 +2597,6 @@
 <p>Watch: https://abcnews.go.com/fivethirtyeight/video/upcoming-elections-us-political-climate-80002422</p>]]></description>
 			<pubDate>Wed, 22 Sep 2021 15:00:00 +0100</pubDate>
 			<guid isPermaLink="false">1632321902121595</guid>
-		</item>
-		<item>
-			<title>Jan. 6 Has Given The Right Hundreds Of New Martyrs</title>
-			<link>https://fivethirtyeight.com/features/jan-6-has-given-the-right-hundreds-of-new-martyrs/</link>
-						<dc:creator>Kaleigh Rogers</dc:creator>
-			<dc:creator>Kaleigh Rogers</dc:creator>
-			<category>January 6th</category>
-			<category>Right-wing Extremism</category>
-			<description><![CDATA[<p data-paragraph="main">In Christian art, saints often hold an object associated with their martyrdom. Saint Stephen, stoned to death, <a href="https://ssjd.ca/2020/08/19/on-the-feast-of-st-stephen/" target="_blank" rel="noopener">holds a pile of rocks</a>. Saint Lawrence, burned over an iron grill, <a href="https://saintlawrencemartyr.org/our-patron-saint" target="_blank" rel="noopener">stands with a gridiron</a>. Saint Lucy <a href="https://www.catholicherald.com/news/catholic_living/religious_vocations/st__lucy_points_the_way_to_christ/" target="_blank" rel="noopener">offers a small dish</a> with two eyeballs, a reference to her own eyes having been gouged out with a fork.</p>
-
-
-
-<p data-paragraph="main">If the same principles applied to right-wing martyrs these days, plenty would be holding just a lawsuit with their name as the defendant.</p>
-
-
-
-<p data-paragraph="main">The <a href="https://www.insider.com/all-the-us-capitol-pro-trump-riot-arrests-charges-names-2021-1" target="_blank" rel="noopener">hundreds of Americans</a> who have been arrested and charged for their alleged involvement in the Jan. 6 attack on the Capitol have been lionized as freedom fighters by some on the right, including <a href="https://www.salon.com/2021/07/29/gaetz-mtg-turned-away-from-jail-during-visit-to-jan-6-political-prisoners/" target="_blank" rel="noopener">members of Congress</a>. It’s what inspired the “Justice for J6” rally — the muted <a href="https://www.npr.org/2021/09/18/1038551992/us-capitol-january-6-j6-rally-washington" target="_blank" rel="noopener">political demonstration</a> that took place this past weekend in D.C. — and it’s the culmination of years of rhetoric on the far-right that has celebrated violent, extremist figures. This tendency to beatify certain figures is something mainstream conservatives now share with extremist ideologies elsewhere. The martyrs create a sense of community and underscore an essential narrative: that you can be punished simply because of what you believe, and that the willingness to receive that punishment is worthy of reverence.</p>
-
-
-
-<p data-paragraph="main">Lifting certain figures to a quasi-sainthood has a long history on the extreme right, dating back to the post-WWI era, according to Daniel Koehler, the director of the German Institute on Radicalization and De-Radicalization Studies. Koehler laid out this history in <a href="https://www.tandfonline.com/doi/full/10.1080/19434472.2020.1822426" target="_blank" rel="noopener">a paper published last year</a>, citing an example of a group of 16 Nazis killed by police during a failed coup d’état in 1923. Those Nazis became known as the “Blutzeugen” (blood witnesses), which other Nazis honored with specific flags, medals and even two “temples.” But the narrative around these and other Nazi martyrs, Koehler wrote in the paper, “explicitly used the fact (or claim) that they were always killed by the movement’s enemies.”</p>
-
-
-
-<p data-paragraph="main">Importantly, though, suicidal demonstrations of ideology were not part of the deal. Unlike jihadist extremists, who have cultural and religious motivations for celebrating those who die in suicide bombings, the far-right tended to elevate individuals who survived or were killed in battle, rather than those who died on a suicide mission. “What their narrative usually tells their followers is you have to stand and fight to the very end,” Koehler said in an interview.</p>
-
-
-
-<p data-paragraph="main">More recently, <a href="https://www.vox.com/policy-and-politics/2019/2/7/18215634/dylann-roof-charleston-church-shooter-bowl-gang" target="_blank" rel="noopener">this has manifested through the idolization</a> of mass shooters who were apprehended, such as Dylann Roof, the white supremacist terrorist who killed nine Black churchgoers in Charleston, South Carolina, in 2015. Neo-nazis and white supremacists <a href="https://www.adl.org/blog/hardcore-white-supremacists-elevate-dylann-roof-to-cult-hero-status" target="_blank" rel="noopener">turned such terrorists into memes and icons</a>, often depicting individuals like Roof as a saint (though sometimes with tongue in cheek). The terrorists have even inspired the formation of groups like the “Bowl Gang,” named for Roof’s bowl cut hairstyle. These shooters’ manifestos and journals are routinely passed around among far-right extremist groups online, almost like sacred texts. Koehler said the celebration is because the terrorists are seen as continuing the fight and as willing to suffer personally for the cause.</p>
-
-
-
-<p data-paragraph="main">This trend largely remained relegated to the extreme right until last summer, when 17-year-old Kyle Rittenhouse allegedly shot and killed two people during protests against police shootings in Kenosha, Wisconsin. Suddenly, those in the mainstream right had a figure to rally behind, since his actions could be explained away as self-defense, said Ari Ben-Am, an extremism researcher and information operations analyst for ActiveFence, an online security firm that detects hate speech, terrorism and disinformation.</p>
-
-
-
-<p data-paragraph="main">Republican politicians openly praised Rittenhouse, with <a href="https://nypost.com/2020/09/04/kyle-rittenhouse-showed-incredible-restraint-gop-rep-says/" target="_blank" rel="noopener">Rep. Thomas Massie of Kentucky saying</a> he “exhibited incredible restraint and presence and situational awareness,” and <a href="https://twitter.com/anthonysabatini/status/1330150935771967489?lang=en" target="_blank" rel="noopener">state Rep. Anthony Sabatini of Florida tweeting</a>, inexplicably, “Kyle Rittenhouse for Congress.” Far-right groups like the Proud Boys (<a href="https://www.splcenter.org/fighting-hate/extremist-files/group/proud-boys" target="_blank" rel="noopener">self-proclaimed</a> “Western chauvinists”) <a href="https://www.vice.com/en/article/5dpk4d/kyle-rittenhouse-got-a-proud-boys-serenade-at-a-bar-while-out-on-bail-prosecutors" target="_blank" rel="noopener">have stated</a> they support Rittenhouse’s case and “are rooting for him. He has become an American hero and we look forward to celebrating his exoneration with a beer.” Among the more mainstream right online, such as the pro-Trump message board patriots.win, posters have been carefully following Rittenhouse’s trial and celebrating his actions, calling him “Saint Kyle”<a data-footnote-id="32" href="https://fivethirtyeight.com/wp-json/wp/v2/espn_verticals/398#fn-32" data-footnote-content="&lt;p&gt;&lt;p&gt;Like the saint imagery around Roof, this is sometimes done tongue-in-cheek, and other times earnestly, depending on the group and the poster.&lt;/p&gt;
-&lt;/p&gt;"><sup>32</sup></a> and a “hero,” and making comments such as “Every freedom loving American should be thrilled that this young man was able to defend himself and not become a victim to the mob.”</p>
-
-
-
-<p data-paragraph="main">“Rittenhouse was the first one to break the barrier of mainstream popularity and support,” Ben-Am said. “He was viewed by both the far-right and the mainstream right as a martyr for the cause, though the mainstream right didn’t really know how to articulate that.”</p>
-
-
-
-<p data-paragraph="main">The right’s response to the Jan. 6 attack was mixed. Many Republican politicians condemned the event, and alt-right conspiracy theorists floated the idea that the whole event was a false flag. This theory proposed that the rioters were actually anti-fascists, not Trump supporters. Soon, though, many rallied around those who were arrested or killed, as in the case of Ashli Babbitt, <a href="https://www.washingtonpost.com/investigations/2021/01/08/ashli-babbitt-shooting-video-capitol/" target="_blank" rel="noopener">who was shot and killed</a> by Capitol police during the attack. Those on the right have cast these individuals as martyrs in the fight against what they believe was a fraudulent election.</p>
-
-
-
-<p data-paragraph="main">This rallying included the Proud Boys, who have been sharing fundraisers on Telegram for the legal funds of individuals charged for allegedly participating in the attack on the Capitol. They’ve even set up a separate Telegram for promoting these fundraisers called “Free the Boys.” L. Lin Wood, the pro-Trump lawyer who filed a number of lawsuits challenging the 2020 election results and has become a celebrity of the alt-right, has also rallied around Jan. 6 arrestees, calling them “political prisoners.” And mainstream Republicans, <a href="https://thehill.com/blogs/blog-briefing-room/news/572632-trump-offers-sympathy-for-those-charged-with-jan-6-offenses" target="_blank" rel="noopener">including former President Trump</a> and members of Congress like <a href="https://www.newsweek.com/marjorie-taylor-greene-says-trump-supporters-who-breached-capitol-being-abused-fed-custody-1592629" target="_blank" rel="noopener">Reps. Marjorie Taylor Greene</a> and <a href="https://www.azcentral.com/story/news/politics/arizona/2021/05/12/rep-paul-gosar-calls-jan-6-us-capitol-attackers-peaceful-patriots/5063404001/" target="_blank" rel="noopener">Paul Gosar</a>, have advocated for arrestees, whom they claim are being unfairly treated. Ben-Am said this evokes the kind of lionization of terrorists on the extreme right, but with individuals who are much more palatable to the mainstream right.</p>
-
-
-
-<p data-paragraph="main">“We started off with really extreme, decentralized individuals loving people who go kill for their ideology,” Ben-Am said. “The more mainstream it gets, the less violent and extremist the [martyrs] are.”</p>
-
-
-
-<p data-paragraph="main">Treating these individuals as ideological martyrs serves a number of functions within these groups, according to Megan Squire, a computer science professor at Elon University, who studies online extremism. Having figures to rally around deepens a sense of community among people who are often largely connected only online, Squire said, while legal fundraisers provide an opportunity to signal in-group values. It also fosters a narrative of persecution that is fundamental to many of these groups since they feel they’re fighting an unjust battle against groups wishing to destroy the American way of life. Depending on which apportionment of the right-wing landscape you’re talking about, those enemies could be the Democrats, the deep state, immigrants or Satan-worshipping pedophiles.</p>
-
-
-
-<p data-paragraph="main">“It makes what they’re fighting for [feel] on par with other serious political movements and things that have happened in history,” Squire said.</p>
-
-
-
-<p data-paragraph="main">Though the attendance at the Justice for J6 rally was modest, its messaging is evident in many places across the right, tapping into both mainstream and fringe groups. Creating martyrs serves a valuable function in these communities, which can be very energizing if tapped in the right way. And while this particular event failed to do so, the symbol of a martyr is powerful and should not be underestimated.</p>]]></description>
-			<pubDate>Wed, 22 Sep 2021 11:00:00 +0100</pubDate>
-			<guid isPermaLink="false">1632308402041961</guid>
 		</item>
 
 	</channel>
