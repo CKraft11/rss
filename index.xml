@@ -3,9 +3,74 @@
 		<title>Main stream | FreshRSS</title>
 		<link>http://radon</link>
 		<description>RSS feed of Main stream | FreshRSS</description>
-		<pubDate>Thu, 07 Oct 2021 21:59:07 +0100</pubDate>
-		<lastBuildDate>Thu, 07 Oct 2021 20:59:07 GMT</lastBuildDate>
+		<pubDate>Thu, 07 Oct 2021 22:29:06 +0100</pubDate>
+		<lastBuildDate>Thu, 07 Oct 2021 21:29:06 GMT</lastBuildDate>
 		<atom:link href="http://radon/i/?a=rss" rel="self" type="application/rss+xml" />
+		<item>
+			<title>Politics Podcast: How Government Can Prepare For The Next Pandemic</title>
+			<link>https://fivethirtyeight.com/features/politics-podcast-how-government-can-prepare-for-the-next-pandemic/</link>
+						<dc:creator>Galen Druke</dc:creator>
+			<dc:creator>FiveThirtyEight</dc:creator>
+			<category>CDC</category>
+			<category>COVID-19</category>
+			<category>FDA</category>
+			<category>FiveThirtyEight Podcasts</category>
+			<category>Pandemic</category>
+			<category>Politics Podcast</category>
+			<description><![CDATA[<div data-href="https://fivethirtyeight.com/features/politics-podcast-how-government-can-prepare-for-the-next-pandemic/">
+	<div data-podcast-id="317640" data-podcast-duration="0" data-podcast-title="Politics Podcast: How Government Can Prepare For The Next Pandemic">
+
+					<span><span>FiveThirtyEight</span></span>
+			
+		
+		<button aria-label="Play"></button>
+
+					<div>
+		
+		
+							<div>
+					<div>
+						<div></div>
+					</div>
+
+					<div> </div>
+
+					<audio preload="none" controls="controls">
+						<source src="https://www.podtrac.com/pts/redirect.mp3/traffic.megaphone.fm/ESP2180068433.mp3?updated=1633548998">
+					</source></audio>
+				</div>
+			
+					</div>
+		
+	</div>
+</div>
+<aside>
+	<div>
+		More: <a href="https://itunes.apple.com/us/podcast/fivethirtyeight-elections/id1077418457">Apple Podcasts</a> |
+		<span><a data-android-url="" href="http://m.espn.com/general/cast?id=14554755">ESPN App</a> |</span>
+		<a href="https://www.espn.com/espnradio/feeds/rss/podcast.xml?id=14554755">RSS</a>
+			</div>
+	</aside>
+
+
+
+
+<p data-paragraph="main">It’s been over a year and a half since the start of the Covid-19 pandemic. Since then, over 700,000 Americans have died from Covid and nearly <a href="https://www.cdc.gov/coronavirus/2019-ncov/cases-updates/burden.html" target="_blank" rel="noopener">120 million have been infected</a>. While vaccination rates have increased and <a href="https://www.nytimes.com/interactive/2021/us/covid-cases.html" target="_blank" rel="noopener">cases have retreated</a> in recent weeks, the virus continues to affect the lives of people across the country.</p>
+
+
+
+<p data-paragraph="main">Former Food and Drug Administration commissioner and Pfizer board member Scott Gottlieb argues in <a href="https://www.barnesandnoble.com/w/uncontrolled-spread-scott-gottlieb/1139568341" target="_blank" rel="noopener">a new book</a> that America was not able to control the spread of the virus due to structural failures and gives recommendations on how to prepare for the next pandemic. He joins FiveThirtyEight’s Nate Silver and Maggie Koerth on the <a href="https://fivethirtyeight.com/tag/politics-podcast/" target="_blank" rel="noopener">Politics podcast</a> to discuss why the U.S. was so unprepared and how much the country’s response to the public health crisis has improved since the onset of the pandemic.</p>
+
+
+
+<p data-paragraph="main"><em>You can listen to the episode by clicking the “play” button in the audio player above or by </em><a href="https://itunes.apple.com/us/podcast/fivethirtyeight-elections/id1077418457?mt=2" target="_blank" rel="noopener"><em>downloading it in iTunes</em></a><em>, the </em><a href="http://www.espn.com/espn/mobile/products/products/_/id/6857590" target="_blank" rel="noopener"><em>ESPN App</em></a><em> or your favorite podcast platform. If you are new to podcasts, </em><a href="https://fivethirtyeight.com/how-to-listen-to-fivethirtyeight-podcasts/" target="_blank" rel="noopener"><em>learn how to listen</em></a><em>.</em></p>
+
+
+
+<p data-paragraph="main"><em>The FiveThirtyEight Politics podcast is recorded Mondays and Thursdays. Help new listeners discover the show by </em><a href="https://itunes.apple.com/us/podcast/fivethirtyeight-elections/id1077418457?mt=2" target="_blank" rel="noopener"><em>leaving us a rating and review on iTunes</em></a><em>. Have a comment, question or suggestion for “good polling vs. bad polling”? Get in touch by email, </em><a href="https://twitter.com/FiveThirtyEight" target="_blank" rel="noopener"><em>on Twitter</em></a><em> or in the comments.</em></p>]]></description>
+			<pubDate>Thu, 07 Oct 2021 21:25:00 +0100</pubDate>
+			<guid isPermaLink="false">1633640402136801</guid>
+		</item>
 		<item>
 			<title>The Debt Ceiling Is Dangerous. Here’s Why It Probably Isn’t Going Anywhere.</title>
 			<link>https://fivethirtyeight.com/features/the-debt-ceiling-is-dangerous-but-its-probably-not-going-away-anytime-soon/</link>
@@ -2212,125 +2277,6 @@
 <p>Watch: https://abcnews.go.com/fivethirtyeight/video/gop-critics-trumps-big-lie-struggling-win-reelection-80138507</p>]]></description>
 			<pubDate>Thu, 23 Sep 2021 21:43:00 +0100</pubDate>
 			<guid isPermaLink="false">1632429902174974</guid>
-		</item>
-		<item>
-			<title>What California’s Recall Election Can — And Can’t — Tell Us About The 2022 Midterms</title>
-			<link>https://fivethirtyeight.com/features/what-californias-recall-election-can-and-cant-tell-us-about-the-2022-midterms/</link>
-						<dc:creator>Nathaniel Rakich</dc:creator>
-			<dc:creator>Nathaniel Rakich and Geoffrey Skelley</dc:creator>
-			<category>2022 Election</category>
-			<category>California Governor Recall</category>
-			<category>COVID-19</category>
-			<category>Gavin Newsom</category>
-			<description><![CDATA[<p data-paragraph="main">Last Tuesday’s gubernatorial recall election in California was the campaign that launched a thousand takes: It was a <a href="https://www.nytimes.com/2021/09/15/us/politics/midterms-california-republicans-newsom.html" target="_blank" rel="noopener">good sign for Democrats in 2022</a>; it was a <a href="https://www.cnn.com/2021/09/18/politics/biden-california-democrats-midterms/index.html" target="_blank" rel="noopener">good sign for Republicans in 2022</a>. But we at FiveThirtyEight urge far more caution before taking away any national lessons from California Gov. Gavin Newsom’s <a href="https://electionresults.sos.ca.gov/returns/governor-recall" target="_blank" rel="noopener">victory</a>. To be sure, Newsom’s win was decisive, and with 89 percent of the votes now counted,<a data-footnote-id="27" href="https://fivethirtyeight.com/wp-json/wp/v2/espn_verticals/398#fn-27" data-footnote-content="&lt;p&gt;&lt;p&gt;As of Wednesday at 5:15 p.m. Eastern.&lt;/p&gt;
-&lt;/p&gt;"><sup>27</sup></a> we can dive a little more into what the results mean. But what they mean is very much up for interpretation — if they mean anything at all. After all, this was just one election and it was conducted under unusual circumstances to boot. </p>
-
-
-
-<p data-paragraph="main">One thing we do know is that turnout was <em>really</em> high: More than 13 million people voted.<a data-footnote-id="28" href="https://fivethirtyeight.com/wp-json/wp/v2/espn_verticals/398#fn-28" data-footnote-content='&lt;p&gt;&lt;p&gt;In addition to the &lt;a href="https://electionresults.sos.ca.gov/returns/status" target="_blank" rel="noopener"&gt;11,690,999&lt;/a&gt; counted ballots, the state estimates there are &lt;a href="https://elections.cdn.sos.ca.gov/statewide-elections/2021-recall/unprocessed-ballot-report.pdf?_ga=2.118328845.504203093.1632146635-284206121.1619718311" target="_blank" rel="noopener"&gt;1,381,036&lt;/a&gt; still remaining to be processed.&lt;/p&gt;
-&lt;/p&gt;'><sup>28</sup></a> That means more than 50 percent of California’s <a href="http://www.electproject.org/2020g" target="_blank" rel="noopener">26 million eligible voters</a> cast a ballot — a remarkably high turnout rate for an off-year election. In fact, it’s higher than the 49 percent turnout in California’s regularly scheduled 2018 gubernatorial election, which was a <a href="https://www.census.gov/library/stories/2019/04/behind-2018-united-states-midterm-election-turnout.html" target="_blank" rel="noopener">historically high-turnout midterm</a>. </p>
-
-
-
-<p data-paragraph="main">It’s possible that this eye-popping figure means the high level of interest voters had in the previous two elections (the 2020 election had the <a href="https://www.washingtonpost.com/graphics/2020/elections/voter-turnout/" target="_blank" rel="noopener">highest turnout</a> for a presidential election in over a century) is here to stay. But there are also other possible explanations for the recall’s high turnout. First, under a <a href="https://www.sfchronicle.com/politics/article/California-extends-mail-ballots-for-all-voters-15964937.php" target="_blank" rel="noopener">pandemic-inspired voting law</a>, every registered voter was automatically mailed a ballot — a reform that <a href="https://www.washingtonpost.com/outlook/letting-people-vote-at-home-increases-voter-turnout-heres-proof/2018/01/26/d637b9d2-017a-11e8-bb03-722769454f82_story.html" target="_blank" rel="noopener">political scientists say</a> can <a href="https://voteathome.org/research/all-mail-voting-in-colorado-increases-turnout-and-reduces-turnout-inequality/" target="_blank" rel="noopener">significantly increase turnout</a>. Second, recall elections may inherently generate a lot of voter interest (which makes sense, given that there needs to be strong grassroots passion on at least one side to force a recall in the first place). In two of the three previous gubernatorial recall elections in U.S. history, turnout was higher than in the respective state’s previous gubernatorial election, though this is admittedly a very small sample size.</p>
-
-
-<div>
-<section><header><h5>Turnout in governor recall elections is usually high</h5>
- <p>Raw turnout and turnout rate (as a share of eligible voters) in the four gubernatorial recall elections in U.S. history, compared with the previous regularly scheduled gubernatorial election</p>
- </header><table data-carpenter-slug="rakich-skelley.ca-2022.1"><thead><tr><th colspan="2"></th>
- <th colspan="2">Recall Election</th>
- <th colspan="2">Prev. Gov. Election</th>
- </tr><tr><th colspan="1">State</th>
- <th colspan="1">Year</th>
- <th colspan="1">Turnout</th>
- <th colspan="1">Rate</th>
- <th colspan="1">Turnout</th>
- <th colspan="1">Rate</th>
- </tr></thead><tbody><tr><td>California</td>
- <td>2021</td>
- <td>13,072,035</td>
- <td data-suffix="%" data-suffixpadding="1.1em">50%</td>
- <td>12,712,542</td>
- <td data-suffix="%" data-suffixpadding="1.1em">49%</td>
- </tr><tr><td>Wisconsin</td>
- <td>2012</td>
- <td>2,516,371</td>
- <td>60</td>
- <td>2,185,017</td>
- <td>52</td>
- </tr><tr><td>California</td>
- <td>2003</td>
- <td>9,413,494</td>
- <td>45</td>
- <td>7,738,821</td>
- <td>37</td>
- </tr><tr><td>North Dakota</td>
- <td>1921</td>
- <td>218,766</td>
- <td>—</td>
- <td>229,606</td>
- <td>—</td>
- </tr></tbody></table><footer><p>North Dakota’s previous gubernatorial election coincided with the 1920 presidential election, which may have increased turnout. Estimates of the number of eligible voters in North Dakota in the 1920s are not available, so it is not possible to calculate turnout as a percentage. </p>
- <p>Numbers for the California 2021 recall are unofficial. The data is current as of Sept. 22, 2021, at 5:15 p.m. Eastern.</p>
- <p>Sources: State election officials, United States Elections Project</p>
- </footer></section></div>
-
-
-<p data-paragraph="main">The second thing we know about this year’s California recall is that the polls were off by quite a bit. The <a href="https://electionresults.sos.ca.gov/returns/governor-recall" target="_blank" rel="noopener">recall is currently failing</a> by 26 percentage points (63 percent to 37 percent), and while that margin may tighten a tad more given the <a href="https://twitter.com/sovernnation/status/1440417030461480961?s=21" target="_blank" rel="noopener">slight Republican trend in the count</a>, it still marks a substantially more pro-Newsom result than <a href="https://projects.fivethirtyeight.com/california-recall-polls/" target="_blank" rel="noopener">FiveThirtyEight’s final recall polling average</a>, which gave keeping Newsom in office a 16-point lead. This 10-point miss was <a href="https://fivethirtyeight.com/features/the-death-of-polling-is-greatly-exaggerated/" target="_blank" rel="noopener">about twice the size</a> of the average polling error in gubernatorial elections dating back to 1998, and more than twice the size of the polling error in the 2020 presidential election, when Biden led by 8.4 points in <a href="https://projects.fivethirtyeight.com/polls/president-general/national/" target="_blank" rel="noopener">FiveThirtyEight’s final polling average</a> but <a href="https://uselectionatlas.org/RESULTS/national.php?year=2020&amp;f=0&amp;off=0&amp;elect=0" target="_blank" rel="noopener">won by 4.5 points</a>. Notably, too, unlike the national polls in the 2020 presidential election, the polls in California were biased toward <em>Republicans</em> and not Democrats, which fits into a pattern where polls in very blue states have at times underestimated Democratic performance, <a href="https://fivethirtyeight.com/features/why-fivethirtyeight-gave-trump-a-better-chance-than-almost-anyone-else/" target="_blank" rel="noopener">particularly in the 2016 presidential election</a>. As we’ve noted previously, it’s hard to predict the direction of polling errors because <a href="https://fivethirtyeight.com/features/weve-updated-our-pollster-ratings-ahead-of-the-2020-general-election/" target="_blank" rel="noopener">their movement is inconsistent</a> from year to year — something to remember in 2022 and 2024.</p>
-
-
-
-<p data-paragraph="main">At this point, we see <a href="https://nymag.com/intelligencer/2021/09/why-a-troubled-polling-industry-whiffed-on-california-recall.html" target="_blank" rel="noopener">two broad, potential explanations</a> for this polling error: the difficulty of polling an unusual race like a recall, and/or late movement in voter engagement. There’s also another, simpler story: that the polls were off all along. Regardless, these explanations may all relate to one other. For one thing, pollsters may have struggled to identify who a “likely” voter was in this election; <a href="https://www.latimes.com/california/story/2021-07-27/likely-california-voters-now-almost-evenly-split-on-newsom-recall-poll-finds" target="_blank" rel="noopener">some surveys found</a> an unusually large gap between the results for likely voters and all registered voters. California normally holds statewide elections in November of even-numbered years, but this was an election in September of an odd-numbered year. Additionally, because every voter received a ballot in the mail, some voters who did not seem likely to vote could have eventually cast a ballot. In that way, higher turnout may have contributed to the polling miss. The polling average also suggested at least some movement toward Newsom’s position after the polls tightened in early August.<a data-footnote-id="29" href="https://fivethirtyeight.com/wp-json/wp/v2/espn_verticals/398#fn-29" data-footnote-content='&lt;p&gt;&lt;p&gt;That may have partly been due to &lt;a href="https://www.surveyusa.com/client/PollReport.aspx?g=36cdcb0b-7cfa-4b55-8704-d1f02a9fe6e5" target="_blank" rel="noopener"&gt;an outlier poll from SurveyUSA&lt;/a&gt; that found the recall vote &lt;em&gt;leading&lt;/em&gt; by 11 points, but even with that poll removed from our polling average, opposition to the recall still would have led by only around 4 points in late August, &lt;a href="https://emersonpolling.reportablenews.com/pr/newsom-clings-to-lead-in-recall-while-crime-becomes-a-top-issue-for-ca-voters" target="_blank" rel="noopener"&gt;as other&lt;/a&gt; polls &lt;a href="https://www.cbsnews.com/news/california-vaccinated-say-unvaccinated-add-risk-opinion-poll/" target="_blank" rel="noopener"&gt;still showed&lt;/a&gt; a fairly &lt;a href="https://gravismarketing.com/california-poll-result-gravis-marketing-2021/" target="_blank" rel="noopener"&gt;close contest&lt;/a&gt;. SurveyUSA has &lt;a href="https://www.surveyusa.com/client/PollReport.aspx?g=f054d152-ceac-48dc-a422-2f22c7a00521" target="_blank" rel="noopener"&gt;since acknowledged&lt;/a&gt; that the wording of their likely voter question “may have led some respondents opposed to the recall to misidentify themselves as being unlikely to vote.”&lt;/p&gt;
-&lt;/p&gt;'><sup>29</sup></a> It’s possible, then, that a large number of previously unactivated Democratic-leaning Californians could have become engaged and then shown up as likely voters in polls conducted closer to the election, making the late movement not about changing minds about Newsom but about waking up California’s latent Democratic electorate.</p>
-
-
-<p>Watch: https://abcnews.go.com/fivethirtyeight/video/gavin-newsom-wins-california-recall-election-fivethirtyeight-politics-80029242</p>
-
-
-<p data-paragraph="main">Still, despite the polling miss, it would be unfair to cast many aspersions on pollsters. CNN’s Harry Enten <a href="https://www.cnn.com/2021/09/03/politics/newsom-rising-polls-recall/index.html" target="_blank" rel="noopener">noted ahead of the recall</a> that the polling error in the 2003 recall was about 9 points, and the “true” margin of error in polls of recent special elections for the U.S. House (which also occur at odd times of year) <a href="https://www.cnn.com/2018/03/01/politics/five-reasons-conor-lamb-could-win/index.html" target="_blank" rel="noopener">was around 13 points</a>. Additionally, we perhaps should have expected Newsom to outperform the polls because the status quo — in this case, Newsom staying in office — <a href="https://muse.jhu.edu/book/7281" target="_blank" rel="noopener">sometimes does better</a> than expected in referenda, thanks to a tendency for undecided voters and lower-information voters to vote “no” when faced with a yes-or-no ballot proposition. This is really another reason to be cautious about reading too much into the California result.</p>
-
-
-
-<p data-paragraph="main">Also, the degree to which one party overperforms in special elections has <a href="https://fivethirtyeight.com/features/special-elections-so-far-point-to-a-democratic-wave-in-2018/" target="_blank" rel="noopener">historically predicted</a> the national political mood in the next regularly scheduled election, so you <em>could</em> take this recall result to mean that the midterms will be decent for Democrats, or at least better than expected given the tendency of the president’s party to <a href="https://fivethirtyeight.com/features/the-party-that-loses-this-year-could-still-win-a-big-consolation-prize/" target="_blank" rel="noopener">lose ground in the midterms</a>. But you have to look at the <a href="https://fivethirtyeight.com/features/what-the-special-election-in-georgia-can-and-cant-tell-us-about-the-midterms/" target="_blank" rel="noopener">whole body of special elections</a> for that correlation to be reliable. Individual election results can vary due to local factors, and a gubernatorial recall election is <a href="https://fivethirtyeight.com/features/everything-you-need-to-know-about-the-california-recall-election/" target="_blank" rel="noopener">so unique</a> — almost by definition, some major news controversy must have occurred to even get it on the ballot — that it’s not clear we should read anything national into it. In fact, one way to interpret the result in California is that it was largely in line with the state’s base partisanship. The recall’s 26-point loss was very close to California’s <a href="https://fivethirtyeight.com/features/how-red-or-blue-is-your-state-your-congressional-district/" target="_blank" rel="noopener">FiveThirtyEight partisan lean</a><a data-footnote-id="30" href="https://fivethirtyeight.com/wp-json/wp/v2/espn_verticals/398#fn-30" data-footnote-content="&lt;p&gt;&lt;p&gt;Partisan lean is the average margin difference between how a state or district votes and how the country votes overall. This version of partisan lean, meant to be used for congressional and gubernatorial elections, is calculated as 50 percent the state or district’s lean relative to the nation in the most recent presidential election, 25 percent its relative lean in the second-most-recent presidential election and 25 percent a custom state-legislative lean.&lt;/p&gt;
-&lt;/p&gt;"><sup>30</sup></a> of D+25.</p>
-
-
-<div>
-	<p>
-		<a href="https://fivethirtyeight.com/features/our-best-tool-for-predicting-midterm-elections-doesnt-show-a-republican-wave-but-history-is-on-the-gops-side/?cid=_inlinerelated"><img alt="The Capitol building cut out and put against red and blue dots; some have the respective parties’ animal symbols in them." width="153" height="115" data-sizes="(min-width: 440px) 153px, 100vw" data-srcset="https://fivethirtyeight.com/wp-content/uploads/2021/09/GENERIC-BALLOT-2021-story-4x3-1.png?w=153&amp;quality=100&amp;strip=all 153w, https://fivethirtyeight.com/wp-content/uploads/2021/09/GENERIC-BALLOT-2021-story-4x3-1.png?w=306&amp;quality=100&amp;strip=all 306w, https://fivethirtyeight.com/wp-content/uploads/2021/09/GENERIC-BALLOT-2021-story-4x3-1.png?w=405&amp;quality=100&amp;strip=all 405w, https://fivethirtyeight.com/wp-content/uploads/2021/09/GENERIC-BALLOT-2021-story-4x3-1.png?w=810&amp;quality=100&amp;strip=all 810w"></a>
-	</p>
-	<p>
-				<strong>related:</strong>
-				Our Best Tool For Predicting Midterm Elections Doesn’t Show A Republican Wave — But History Is On The GOP’s Side <a href="https://fivethirtyeight.com/features/our-best-tool-for-predicting-midterm-elections-doesnt-show-a-republican-wave-but-history-is-on-the-gops-side/?cid=_inlinerelated">Read more. »</a>
-	</p>
-</div>
-
-
-
-<p data-paragraph="main">It’s also hard to draw too many conclusions about what this means for the pandemic’s effect on elections, either. Despite Republican criticism of Newsom’s handling of the pandemic, an <a href="https://www.cnn.com/2021/09/14/politics/california-recall-exit-polls/index.html" target="_blank" rel="noopener">exit poll of recall voters</a><a data-footnote-id="31" href="https://fivethirtyeight.com/wp-json/wp/v2/espn_verticals/398#fn-31" data-footnote-content='&lt;p&gt;&lt;p&gt;As was true in the &lt;a href="https://fivethirtyeight.com/features/exit-polls-can-be-misleading-especially-this-year/" target="_blank" rel="noopener"&gt;2020 presidential election&lt;/a&gt;, we should be more cautious than usual in interpreting these results. Almost a third of the poll’s respondents were surveyed by phone, text or online (not as they exited a polling place), meaning it’s harder to know whether respondents actually voted.&lt;/p&gt;
-&lt;/p&gt;'><sup>31</sup></a> found that 47 percent thought Newsom’s coronavirus restrictions were about right, while only 3 in 10 voters felt they were too strict. Moreover, a plurality of voters said the pandemic was their most important issue, and <a href="https://www.cnn.com/election/2021/exit-polls/california/recall/0" target="_blank" rel="noopener">81 percent of them</a> voted to retain Newsom. This is telling in that it <a href="https://www.cnn.com/2021/09/19/politics/republicans-message-covid-2022/index.html" target="_blank" rel="noopener">jibes with other evidence</a> that Republicans aren’t winning over many new voters with their resistance to COVID-19 precautions. Yet it’s also inconclusive as an answer to the question of whether the coronavirus issue will help or hurt Democrats in the midterms. Republicans’ strategy of doubling down on their anti-coronavirus-restrictions base may not be effective, but California also isn’t a great bellwether for the rest of the nation. Voters in a state that blue were probably predisposed to approve of Newsom’s coronavirus restrictions; it also helps that California is making it through the pandemic relatively well (its <a href="https://covid19.ca.gov/vaccination-progress-data/" target="_blank" rel="noopener">vaccination rate is high</a> and <a href="https://ktla.com/news/california/californias-covid-19-case-rate-is-now-the-lowest-in-the-u-s/" target="_blank" rel="noopener">case rate is low</a>). On the other hand, voters may have different preferences if they live in red Kansas, where Democrats are defending a governor’s seat in 2022, or in Maine’s 2nd Congressional District, which Democrats would do well to hold if they want to keep control of the U.S. House. Furthermore, Newsom’s lack of a significant overperformance provides little evidence that COVID-19 will help Democrats win over new voters, either.</p>
-
-
-
-<p data-paragraph="main">But here’s the thing about the 2022 midterms: Republicans don’t need a significant shift in the electoral environment to flip the House, considering that Democrats hold only a 222-to-213 seat edge there.<a data-footnote-id="32" href="https://fivethirtyeight.com/wp-json/wp/v2/espn_verticals/398#fn-32" data-footnote-content='&lt;p&gt;&lt;p&gt;This includes three seats that are &lt;a href="https://clerk.house.gov/Members#Vacancies" target="_blank" rel="noopener"&gt;currently vacant&lt;/a&gt; but are safe for either party: two for Democrats and one for Republicans.&lt;/p&gt;
-&lt;/p&gt;'><sup>32</sup></a> For one thing, the GOP will <a href="https://fivethirtyeight.com/features/which-states-won-and-lost-seats-in-the-2020-census/" target="_blank" rel="noopener">control the redistricting process for more districts</a> than Democrats, so new map lines alone could <a href="https://centerforpolitics.org/crystalball/articles/redistricting-in-america-part-eight-a-quick-summation-of-a-long-series/" target="_blank" rel="noopener">provide Republicans with enough of an edge</a> before we even consider the electoral environment. Newsom’s 26-point win also contains some potentially ominous signs for Democrats. Take Orange County, <a href="https://www.latimes.com/politics/la-me-pol-orange-county-gop-house-20181117-story.html" target="_blank" rel="noopener">the ancestral home of the state’s GOP</a> that is now a key swing suburban county. <a href="https://uselectionatlas.org/RESULTS/compare.php?type=county&amp;year=2020&amp;fips=6059&amp;f=0&amp;off=0&amp;elect=0" target="_blank" rel="noopener">In 2020</a>, Biden won Orange County by 9 points, while opposition to the recall <a href="https://electionresults.sos.ca.gov/returns/governor-recall/county/orange" target="_blank" rel="noopener">leads by about 3 points</a> there. And if we dig into two key, swingy House seats <a href="https://voiceofoc.org/2020/11/republicans-flip-second-oc-congressional-seat-as-young-kim-defeats-gil-cisneros/" target="_blank" rel="noopener">that Republicans flipped in 2020</a>, we see that “yes” on recall leads relatively narrowly in the Orange County portions of California’s 39th Congressional District (by less than 1 point) and 48th Congressional District (by more than 4 points).<a data-footnote-id="33" href="https://fivethirtyeight.com/wp-json/wp/v2/espn_verticals/398#fn-33" data-footnote-content="&lt;p&gt;&lt;p&gt;As of Monday at 4:51 p.m. Eastern.&lt;/p&gt;
-&lt;/p&gt;"><sup>33</sup></a> By comparison, Biden performed about 5 to 6 points better in both districts in 2020, carrying <a href="https://docs.google.com/spreadsheets/d/17yr9mcAtuUdNjI9NEPYKxXsEldzzQ2ZaDwEAbnPRyS4/edit#gid=1938542161" target="_blank" rel="noopener">the Orange County part</a> of the 39th District by about 5 points and the 48th District (entirely in Orange) by about 1.5 points. These small shifts don’t mean Democrats can’t flip those seats back in 2022 — the lines will change to an unknown extent in redistricting, for one thing — but at the very least, it doesn’t suggest that turf is getting friendlier to them.</p>
-
-
-
-<p data-paragraph="main">Nonetheless, Orange County’s result might also demonstrate Democrats <a href="https://fivethirtyeight.com/features/why-the-suburbs-have-shifted-blue/" target="_blank" rel="noopener">can still hold onto their edge in the suburbs</a>. Even though “yes” on recall performed better than Trump, this contest marked yet another election where the Republican candidate or the Republican-backed ballot position still lost the huge suburban county — a sign that it probably <a href="https://www.nytimes.com/2021/09/18/us/california-recall-orange-county.html" target="_blank" rel="noopener">won’t return solidly to the GOP fold</a> anytime soon. Conversely, although the recall vote failed by 26 points in <a href="https://www.census.gov/quickfacts/imperialcountycalifornia" target="_blank" rel="noopener">heavily Hispanic</a> Imperial County, which is located along the U.S.-Mexico border, such a result still suggests Republicans might be able to hold onto <a href="https://fivethirtyeight.com/features/what-we-know-about-how-white-and-latino-americans-voted-in-2020/" target="_blank" rel="noopener">the improvements they made among Hispanic voters in 2020</a>. That’s because that result, while positive for Newsom, is similar to Biden’s 24-point edge in 2020, which is a far cry from Hillary Clinton’s nearly 42-point lead there in 2016. </p>
-
-
-
-<p data-paragraph="main">Using California’s recall as a dead-certain indicator of the future electoral environment is a dicey proposition. Instead, keep an eye on the <a href="https://projects.fivethirtyeight.com/congress-generic-ballot-polls/" target="_blank" rel="noopener">generic-ballot polling average</a> and <a href="https://projects.fivethirtyeight.com/biden-approval-rating/" target="_blank" rel="noopener">Biden’s approval rating</a>, which <a href="https://fivethirtyeight.com/features/our-best-tool-for-predicting-midterm-elections-doesnt-show-a-republican-wave-but-history-is-on-the-gops-side/" target="_blank" rel="noopener">can serve as broader signals</a> of <a href="https://fivethirtyeight.com/features/why-democrats-in-congress-need-bidens-approval-rating-to-stay-in-the-mid-50s/" target="_blank" rel="noopener">where things stand</a> as we move forward.</p>
-
-
-<p>Watch: https://abcnews.go.com/fivethirtyeight/video/spot-gerrymandering-state-fivethirtyeight-80189920</p>
-
-<p>Watch: https://abcnews.go.com/fivethirtyeight/video/gop-critics-trumps-big-lie-struggling-win-reelection-80138507</p>]]></description>
-			<pubDate>Thu, 23 Sep 2021 11:00:00 +0100</pubDate>
-			<guid isPermaLink="false">1632393901505534</guid>
 		</item>
 
 	</channel>
