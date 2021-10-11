@@ -3,8 +3,8 @@
 		<title>Main stream | FreshRSS</title>
 		<link>http://radon</link>
 		<description>RSS feed of Main stream | FreshRSS</description>
-		<pubDate>Mon, 11 Oct 2021 15:59:06 +0100</pubDate>
-		<lastBuildDate>Mon, 11 Oct 2021 14:59:06 GMT</lastBuildDate>
+		<pubDate>Mon, 11 Oct 2021 16:29:07 +0100</pubDate>
+		<lastBuildDate>Mon, 11 Oct 2021 15:29:07 GMT</lastBuildDate>
 		<atom:link href="http://radon/i/?a=rss" rel="self" type="application/rss+xml" />
 		<item>
 			<title>Kyrsten Sinema Is Confounding Her Own Party. But … Why?</title>
@@ -40,6 +40,8 @@
 <p data-paragraph="main">So, is Sinema right?</p>
 
 
+<p>Watch: https://abcnews.go.com/fivethirtyeight/video/democrats-passing-bidens-agenda-fivethirtyeight-politics-podcast-80405623</p>
+
 
 <div><hr><span></span></div>
 
@@ -55,6 +57,17 @@
 
 
 <p data-paragraph="main">The conventional wisdom is that Sinema rushed toward the center for electoral reasons, as she moved from representing a solidly blue electorate to purpler ones. Former President Obama carried her state legislative seat by 26 percentage points in 2008 (according to local analyst Aseem Chandi), but Obama carried her congressional seat by <a href="https://www.dailykos.com/stories/2013/7/9/1220127/-Daily-Kos-Elections-2012-election-results-by-congressional-and-legislative-districts" target="_blank" rel="noopener">less than 5 points</a> in 2012. While her district became more safely Democratic later in her House career, she may have already been laying the groundwork for her Senate run. “Kyrsten has always had her eyes on a larger electorate,” Tempe City Councilwoman Lauren Kuby <a href="https://www.nytimes.com/2018/09/24/us/politics/kyrsten-sinema-arizona.html" target="_blank" rel="noopener">told The New York Times</a> in 2018. (Tempe is a city in Sinema’s old district.) And to win a statewide campaign, Sinema needed to win over even more swing voters: Former President Trump carried Arizona by almost <a href="https://apps.azsos.gov/election/2016/General/Official%20Signed%20State%20Canvass.pdf" target="_blank" rel="noopener">4 points</a> in 2016. </p>
+
+
+<div>
+	<p>
+		<a href="https://fivethirtyeight.com/features/are-democrats-dysfunctional-or-just-disagreeing/?cid=_inlinerelated"><img alt="Sens. Kyrsten Sinema and Joe Manchin in an elevator, with the doors closing in front of them." width="153" height="115" data-sizes="(min-width: 440px) 153px, 100vw" data-srcset="https://fivethirtyeight.com/wp-content/uploads/2021/10/GettyImages-1235615308-4x3-1.jpg?w=153&amp;quality=100&amp;strip=all 153w, https://fivethirtyeight.com/wp-content/uploads/2021/10/GettyImages-1235615308-4x3-1.jpg?w=306&amp;quality=100&amp;strip=all 306w, https://fivethirtyeight.com/wp-content/uploads/2021/10/GettyImages-1235615308-4x3-1.jpg?w=405&amp;quality=100&amp;strip=all 405w, https://fivethirtyeight.com/wp-content/uploads/2021/10/GettyImages-1235615308-4x3-1.jpg?w=810&amp;quality=100&amp;strip=all 810w"></a>
+	</p>
+	<p>
+				<strong>related:</strong>
+				Are Democrats Dysfunctional Or Just Disagreeing? <a href="https://fivethirtyeight.com/features/are-democrats-dysfunctional-or-just-disagreeing/?cid=_inlinerelated">Read more. »</a>
+	</p>
+</div>
 
 
 
@@ -74,16 +87,10 @@
 
 <div>
 
-<section>
- <header>
- <h5>Sinema voted with Trump more often than expected</h5>
+<section><header><h5>Sinema voted with Trump more often than expected</h5>
  <p>How often Democratic senators voted in line with former President Trump during his administration, compared with how often we’d expect them to do so based on Trump’s 2016 margin in their home state</p>
- </header>
- <div>
- <table data-carpenter-slug="rakich.sinema.1">
- <thead>
- <tr>
- <th colspan="1" data-sort-index="0" aria-sort="descending" data-sort-default="true"><span>Senator<span><span>▲</span><span>▼</span></span>
+ </header><div>
+ <table data-carpenter-slug="rakich.sinema.1"><thead><tr><th colspan="1" data-sort-index="0" aria-sort="descending" data-sort-default="true"><span>Senator<span><span>▲</span><span>▼</span></span>
  </span>
  </th>
  <th colspan="1" data-sort-index="1"><span>State<span><span>▲</span><span>▼</span></span>
@@ -101,457 +108,339 @@
  <th colspan="1" data-sort-index="5" data-sort-method="number"><span>Diff.<span><span>▲</span><span>▼</span></span>
  </span>
  </th>
- </tr>
- </thead>
- <tbody>
- <tr>
- <td>Heitkamp</td>
+ </tr></thead><tbody><tr><td>Heitkamp</td>
  <td>ND</td>
  <td>R+36</td>
  <td data-suffix="%" data-suffixpadding="1.1em">54.8%</td>
  <td data-suffix="%" data-suffixpadding="1.1em">91.5%</td>
  <td data-suffix="%" data-suffixpadding="1.1em">-36.8%</td>
- </tr>
- <tr>
- <td>Donnelly</td>
+ </tr><tr><td>Donnelly</td>
  <td>IN</td>
  <td>R+19</td>
  <td>54.2</td>
  <td>83.3</td>
  <td>-29.1</td>
- </tr>
- <tr>
- <td>Manchin</td>
+ </tr><tr><td>Manchin</td>
  <td>WV</td>
  <td>R+42</td>
  <td>50.4</td>
  <td>89.3</td>
  <td>-38.9</td>
- </tr>
- <tr>
- <td>Sinema</td>
+ </tr><tr><td>Sinema</td>
  <td>AZ</td>
  <td>R+4</td>
  <td>50.4</td>
  <td>39.8</td>
  <td>+10.6</td>
- </tr>
- <tr>
- <td>McCaskill</td>
+ </tr><tr><td>McCaskill</td>
  <td>MO</td>
  <td>R+19</td>
  <td>45.8</td>
  <td>83.0</td>
  <td>-37.2</td>
- </tr>
- <tr>
- <td>Nelson</td>
+ </tr><tr><td>Nelson</td>
  <td>FL</td>
  <td>R+1</td>
  <td>43.4</td>
  <td>56.8</td>
  <td>-13.4</td>
- </tr>
- <tr>
- <td>King</td>
+ </tr><tr><td>King</td>
  <td>ME</td>
  <td>D+3</td>
  <td>37.2</td>
  <td>44.1</td>
  <td>-6.9</td>
- </tr>
- <tr>
- <td>Jones</td>
+ </tr><tr><td>Jones</td>
  <td>AL</td>
  <td>R+28</td>
  <td>35.3</td>
  <td>84.5</td>
  <td>-49.2</td>
- </tr>
- <tr>
- <td>Warner</td>
+ </tr><tr><td>Warner</td>
  <td>VA</td>
  <td>D+5</td>
  <td>34.9</td>
  <td>40.1</td>
  <td>-5.2</td>
- </tr>
- <tr>
- <td>Rosen</td>
+ </tr><tr><td>Rosen</td>
  <td>NV</td>
  <td>D+2</td>
  <td>34.6</td>
  <td>60.4</td>
  <td>-25.9</td>
- </tr>
- <tr>
- <td>Tester</td>
+ </tr><tr><td>Tester</td>
  <td>MT</td>
  <td>R+20</td>
  <td>30.2</td>
  <td>80.5</td>
  <td>-50.3</td>
- </tr>
- <tr>
- <td>Shaheen</td>
+ </tr><tr><td>Shaheen</td>
  <td>NH</td>
  <td>EVEN</td>
  <td>29.7</td>
  <td>48.9</td>
  <td>-19.2</td>
- </tr>
- <tr>
- <td>Carper</td>
+ </tr><tr><td>Carper</td>
  <td>DE</td>
  <td>D+11</td>
  <td>29.5</td>
  <td>31.8</td>
  <td>-2.3</td>
- </tr>
- <tr>
- <td>Kaine</td>
+ </tr><tr><td>Kaine</td>
  <td>VA</td>
  <td>D+5</td>
  <td>29.5</td>
  <td>40.1</td>
  <td>-10.7</td>
- </tr>
- <tr>
- <td>Coons</td>
+ </tr><tr><td>Coons</td>
  <td>DE</td>
  <td>D+11</td>
  <td>28.9</td>
  <td>31.9</td>
  <td>-3.0</td>
- </tr>
- <tr>
- <td>Casey</td>
+ </tr><tr><td>Casey</td>
  <td>PA</td>
  <td>R+1</td>
  <td>28.7</td>
  <td>50.8</td>
  <td>-22.1</td>
- </tr>
- <tr>
- <td>Hassan</td>
+ </tr><tr><td>Hassan</td>
  <td>NH</td>
  <td>EVEN</td>
  <td>28.7</td>
  <td>48.8</td>
  <td>-20.1</td>
- </tr>
- <tr>
- <td>Peters</td>
+ </tr><tr><td>Peters</td>
  <td>MI</td>
  <td>EVEN</td>
  <td>28.1</td>
  <td>49.8</td>
  <td>-21.7</td>
- </tr>
- <tr>
- <td>Cortez Masto</td>
+ </tr><tr><td>Cortez Masto</td>
  <td>NV</td>
  <td>D+2</td>
  <td>27.9</td>
  <td>45.1</td>
  <td>-17.1</td>
- </tr>
- <tr>
- <td>Stabenow</td>
+ </tr><tr><td>Stabenow</td>
  <td>MI</td>
  <td>EVEN</td>
  <td>27.9</td>
  <td>49.9</td>
  <td>-22.0</td>
- </tr>
- <tr>
- <td>Bennet</td>
+ </tr><tr><td>Bennet</td>
  <td>CO</td>
  <td>D+5</td>
  <td>27.3</td>
  <td>41.7</td>
  <td>-14.4</td>
- </tr>
- <tr>
- <td>Klobuchar</td>
+ </tr><tr><td>Klobuchar</td>
  <td>MN</td>
  <td>D+2</td>
  <td>26.7</td>
  <td>47.2</td>
  <td>-20.5</td>
- </tr>
- <tr>
- <td>Heinrich</td>
+ </tr><tr><td>Heinrich</td>
  <td>NM</td>
  <td>D+8</td>
  <td>26.6</td>
  <td>35.8</td>
  <td>-9.2</td>
- </tr>
- <tr>
- <td>Brown</td>
+ </tr><tr><td>Brown</td>
  <td>OH</td>
  <td>R+8</td>
  <td>25.8</td>
  <td>64.2</td>
  <td>-38.4</td>
- </tr>
- <tr>
- <td>Murphy</td>
+ </tr><tr><td>Murphy</td>
  <td>CT</td>
  <td>D+14</td>
  <td>25.2</td>
  <td>29.6</td>
  <td>-4.4</td>
- </tr>
- <tr>
- <td>Udall</td>
+ </tr><tr><td>Udall</td>
  <td>NM</td>
  <td>D+8</td>
  <td>25.2</td>
  <td>36.3</td>
  <td>-11.1</td>
- </tr>
- <tr>
- <td>Cardin</td>
+ </tr><tr><td>Cardin</td>
  <td>MD</td>
  <td>D+26</td>
  <td>25.0</td>
  <td>20.9</td>
  <td>+4.1</td>
- </tr>
- <tr>
- <td>Duckworth</td>
+ </tr><tr><td>Duckworth</td>
  <td>IL</td>
  <td>D+17</td>
  <td>25.0</td>
  <td>26.7</td>
  <td>-1.7</td>
- </tr>
- <tr>
- <td>Smith</td>
+ </tr><tr><td>Smith</td>
  <td>MN</td>
  <td>D+2</td>
  <td>25.0</td>
  <td>43.3</td>
  <td>-18.3</td>
- </tr>
- <tr>
- <td>Cantwell</td>
+ </tr><tr><td>Cantwell</td>
  <td>WA</td>
  <td>D+15</td>
  <td>24.2</td>
  <td>27.6</td>
  <td>-3.4</td>
- </tr>
- <tr>
- <td>Feinstein</td>
+ </tr><tr><td>Feinstein</td>
  <td>CA</td>
  <td>D+30</td>
  <td>24.2</td>
  <td>20.1</td>
  <td>+4.2</td>
- </tr>
- <tr>
- <td>Durbin</td>
+ </tr><tr><td>Durbin</td>
  <td>IL</td>
  <td>D+17</td>
  <td>23.8</td>
  <td>26.3</td>
  <td>-2.5</td>
- </tr>
- <tr>
- <td>Franken</td>
+ </tr><tr><td>Franken</td>
  <td>MN</td>
  <td>D+2</td>
  <td>23.6</td>
  <td>49.5</td>
  <td>-25.9</td>
- </tr>
- <tr>
- <td>Murray</td>
+ </tr><tr><td>Murray</td>
  <td>WA</td>
  <td>D+15</td>
  <td>23.6</td>
  <td>28.1</td>
  <td>-4.5</td>
- </tr>
- <tr>
- <td>Leahy</td>
+ </tr><tr><td>Leahy</td>
  <td>VT</td>
  <td>D+26</td>
  <td>23.4</td>
  <td>20.7</td>
  <td>+2.7</td>
- </tr>
- <tr>
- <td>Schatz</td>
+ </tr><tr><td>Schatz</td>
  <td>HI</td>
  <td>D+32</td>
  <td>23.4</td>
  <td>19.4</td>
  <td>+4.1</td>
- </tr>
- <tr>
- <td>Reed</td>
+ </tr><tr><td>Reed</td>
  <td>RI</td>
  <td>D+16</td>
  <td>23.3</td>
  <td>27.8</td>
  <td>-4.5</td>
- </tr>
- <tr>
- <td>Schumer</td>
+ </tr><tr><td>Schumer</td>
  <td>NY</td>
  <td>D+22</td>
  <td>23.3</td>
  <td>23.1</td>
  <td>+0.1</td>
- </tr>
- <tr>
- <td>Whitehouse</td>
+ </tr><tr><td>Whitehouse</td>
  <td>RI</td>
  <td>D+16</td>
  <td>22.8</td>
  <td>27.7</td>
  <td>-4.9</td>
- </tr>
- <tr>
- <td>Baldwin</td>
+ </tr><tr><td>Baldwin</td>
  <td>WI</td>
  <td>R+1</td>
  <td>22.7</td>
  <td>51.0</td>
  <td>-28.3</td>
- </tr>
- <tr>
- <td>Van Hollen</td>
+ </tr><tr><td>Van Hollen</td>
  <td>MD</td>
  <td>D+26</td>
  <td>22.7</td>
  <td>21.5</td>
  <td>+1.2</td>
- </tr>
- <tr>
- <td>Hirono</td>
+ </tr><tr><td>Hirono</td>
  <td>HI</td>
  <td>D+32</td>
  <td>22.5</td>
  <td>19.2</td>
  <td>+3.2</td>
- </tr>
- <tr>
- <td>Menendez</td>
+ </tr><tr><td>Menendez</td>
  <td>NJ</td>
  <td>D+14</td>
  <td>22.0</td>
  <td>28.0</td>
  <td>-5.9</td>
- </tr>
- <tr>
- <td>Blumenthal</td>
+ </tr><tr><td>Blumenthal</td>
  <td>CT</td>
  <td>D+14</td>
  <td>20.3</td>
  <td>29.4</td>
  <td>-9.1</td>
- </tr>
- <tr>
- <td>Kelly</td>
+ </tr><tr><td>Kelly</td>
  <td>AZ</td>
  <td>R+4</td>
  <td>20.0</td>
  <td>26.2</td>
  <td>-6.2</td>
- </tr>
- <tr>
- <td>Wyden</td>
+ </tr><tr><td>Wyden</td>
  <td>OR</td>
  <td>D+11</td>
  <td>18.6</td>
  <td>32.3</td>
  <td>-13.7</td>
- </tr>
- <tr>
- <td>Markey</td>
+ </tr><tr><td>Markey</td>
  <td>MA</td>
  <td>D+27</td>
  <td>16.5</td>
  <td>21.3</td>
  <td>-4.8</td>
- </tr>
- <tr>
- <td>Harris</td>
+ </tr><tr><td>Harris</td>
  <td>CA</td>
  <td>D+30</td>
  <td>16.4</td>
  <td>20.9</td>
  <td>-4.5</td>
- </tr>
- <tr>
- <td>Sanders</td>
+ </tr><tr><td>Sanders</td>
  <td>VT</td>
  <td>D+26</td>
  <td>16.1</td>
  <td>22.1</td>
  <td>-6.0</td>
- </tr>
- <tr>
- <td>Booker</td>
+ </tr><tr><td>Booker</td>
  <td>NJ</td>
  <td>D+14</td>
  <td>16.0</td>
  <td>29.0</td>
  <td>-13.1</td>
- </tr>
- <tr>
- <td>Warren</td>
+ </tr><tr><td>Warren</td>
  <td>MA</td>
  <td>D+27</td>
  <td>15.5</td>
  <td>21.6</td>
  <td>-6.0</td>
- </tr>
- <tr>
- <td>Merkley</td>
+ </tr><tr><td>Merkley</td>
  <td>OR</td>
  <td>D+11</td>
  <td>15.5</td>
  <td>32.3</td>
  <td>-16.8</td>
- </tr>
- <tr>
- <td>Gillibrand</td>
+ </tr><tr><td>Gillibrand</td>
  <td>NY</td>
  <td>D+22</td>
  <td>12.4</td>
  <td>24.2</td>
  <td>-11.8</td>
- </tr>
- <tr>
- <td>Luján</td>
+ </tr><tr><td>Luján</td>
  <td>NM</td>
  <td>D+8</td>
  <td>12.4</td>
  <td>24.3</td>
  <td>-12.0</td>
- </tr>
- <tr>
- <td>Hickenlooper</td>
+ </tr><tr><td>Hickenlooper</td>
  <td>CO</td>
  <td>D+5</td>
  <td>0.0</td>
  <td>3.0</td>
  <td>-3.0</td>
- </tr>
- </tbody>
- </table>
- </div>
- <footer>
- <p>Sources: ProPublica; Daily Kos; Cook Political Report; U.S. Senate; @unitedstates</p>
- </footer>
-</section>
-</div>
+ </tr></tbody></table></div>
+ <footer><p>Sources: ProPublica; Daily Kos; Cook Political Report; U.S. Senate; @unitedstates</p>
+ </footer></section></div>
 
 
 <p data-paragraph="main">In the <a href="https://projects.fivethirtyeight.com/biden-congress-votes/" target="_blank" rel="noopener">current congress</a>, Sinema has <a href="https://projects.fivethirtyeight.com/biden-congress-votes/kyrsten-sinema/" target="_blank" rel="noopener">voted perfectly in line</a> with the Biden administration and her party on bills <em>that came up for a vote</em>. But as we’ve seen with negotiations over the reconciliation bill and more, that leaves a lot out. Sinema still ranks as more ideologically conservative than other Democratic senators from once-red-but-trending-blue states: <a href="https://voteview.com/person/42103/thomas-jonathan-jon-ossoff" target="_blank" rel="noopener">Jon Ossoff</a> (who has a DW-Nominate score of -0.448 so far) and <a href="https://voteview.com/person/42105/raphael-gamaliel-warnock" target="_blank" rel="noopener">Raphael Warnock</a> (-0.380) of Georgia, and even her fellow Arizonan, <a href="https://voteview.com/person/41905/mark-edward-kelly" target="_blank" rel="noopener">Mark Kelly</a> (-0.186).</p>
@@ -597,75 +486,53 @@
 
 
 <div>
-<section>
- <header>
- <h5>Sinema is less popular than senators who lost primaries</h5>
+<section><header><h5>Sinema is less popular than senators who lost primaries</h5>
  <p>Favorability of elected incumbent senators who lost primaries since 2000 among voters in their own party, compared with Krysten Sinema’s average favorable and unfavorable ratings among Democrats in three 2021 polls</p>
- </header>
- <table data-carpenter-slug="rakich.sinema.2">
- <thead>
- <tr>
- <th colspan="1">Senator</th>
+ </header><table data-carpenter-slug="rakich.sinema.2"><thead><tr><th colspan="1">Senator</th>
  <th colspan="1">State</th>
  <th colspan="1">Party</th>
  <th colspan="1">Favorable</th>
  <th colspan="1">Unfavorable</th>
  <th colspan="1">Net</th>
- </tr>
- </thead>
- <tbody>
- <tr>
- <td>Arlen Specter</td>
+ </tr></thead><tbody><tr><td>Arlen Specter</td>
  <td>PA</td>
  <td><span>D</span></td>
  <td data-suffix="%" data-suffixpadding="1.1em">50%</td>
  <td data-suffix="%" data-suffixpadding="1.1em">33%</td>
  <td>+17</td>
- </tr>
- <tr>
- <td>Bob Smith</td>
+ </tr><tr><td>Bob Smith</td>
  <td>NH</td>
  <td><span>R</span></td>
  <td>45</td>
  <td>30</td>
  <td>+15</td>
- </tr>
- <tr>
- <td>Joe Lieberman</td>
+ </tr><tr><td>Joe Lieberman</td>
  <td>CT</td>
  <td><span>D</span></td>
  <td>40</td>
  <td>29</td>
  <td>+11</td>
- </tr>
- <tr>
- <td>Richard Lugar</td>
+ </tr><tr><td>Richard Lugar</td>
  <td>IN</td>
  <td><span>R</span></td>
  <td>43</td>
  <td>43</td>
  <td>0</td>
- </tr>
- <tr>
- <td>Kyrsten Sinema</td>
+ </tr><tr><td>Kyrsten Sinema</td>
  <td>AZ</td>
  <td><span>D</span></td>
  <td>40</td>
  <td>45</td>
  <td>-5</td>
- </tr>
- </tbody>
- </table>
- <footer>
- <p>Ratings are from the most recent poll before each primary. Lisa Murkowski lost in a Republican primary in 2010 but is not listed here because we could find no preelection poll of her favorability ratings among Alaska Republicans.</p>
+ </tr></tbody></table><footer><p>Ratings are from the most recent poll before each primary. Lisa Murkowski lost in a Republican primary in 2010 but is not listed here because we could find no preelection poll of her favorability ratings among Alaska Republicans.</p>
  <p>Sources: Greg Giroux, Quinnipiac, University of New Hampshire, Howey/DePauw, OH Predictive Insights, Morning Consult, Civiqs</p>
- </footer>
-</section>
-</div>
+ </footer></section></div>
 
 
 <p data-paragraph="main">Of course, Sinema’s primary is still almost three years away, so there is plenty of time for her numbers to improve — if she lets them. But if nothing changes, she could be vulnerable. And even if she prevails, a tough primary could make it harder to win the general election by sapping her resources and creating Democratic disunity. Arizona’s primary is relatively late on the calendar (August), which may not give primary winners enough time to recover and run a strong general election campaign. (Then-Rep. Martha McSally’s campaign <a href="https://www.azcentral.com/story/opinion/op-ed/laurieroberts/2018/11/28/martha-mcsally-campaign-not-her-fault-lost-kyrsten-sinema/2138224002/" target="_blank" rel="noopener">partly blamed</a> her tough Republican primary for her loss to Sinema in the 2018 general election.)</p>
 
+
+<p>Watch: https://abcnews.go.com/ThisWeek/video/buy-democrats-worried-virginia-gubernatorial-race-silver-80379206</p>
 
 
 <p data-paragraph="main">What’s the right balance for Sinema — or any senator, really — to strike between concern for the primary and concern for the general? It may depend on the partisanship of their state. The table below lists all the elected incumbent senators who have lost reelection since 2000 in either a primary or general election. Perhaps unsurprisingly, all the incumbents who lost primaries represented states that leaned toward their party (though some, like Specter and Smith, did represent swing states). All the incumbents who lost reelection on the opposite party’s home turf did so in the general.</p>
@@ -673,386 +540,284 @@
 
 <div>
 
-<section>
- <header>
- <h5>Senators who lost primaries weren’t in unsafe seats</h5>
+<section><header><h5>Senators who lost primaries weren’t in unsafe seats</h5>
  <p>Elected incumbent senators who have lost either primaries or general elections since 2000, plus Kyrsten Sinema, and the FiveThirtyEight partisan lean* of their state at the time</p>
- </header>
- <div>
- <table data-carpenter-slug="rakich.sinema.3">
- <thead>
- <tr>
- <th colspan="1">Incumbent</th>
+ </header><div>
+ <table data-carpenter-slug="rakich.sinema.3"><thead><tr><th colspan="1">Incumbent</th>
  <th colspan="1">Party</th>
  <th colspan="1">Year</th>
  <th colspan="1">State</th>
  <th colspan="1">Lost?</th>
  <th colspan="1">Partisan Lean</th>
- </tr>
- </thead>
- <tbody>
- <tr>
- <td>Lisa Murkowski</td>
+ </tr></thead><tbody><tr><td>Lisa Murkowski</td>
  <td><span>R</span></td>
  <td>2010</td>
  <td>AK</td>
  <td><span>Primary</span></td>
  <td>+24</td>
- </tr>
- <tr>
- <td>Ted Stevens</td>
+ </tr><tr><td>Ted Stevens</td>
  <td><span>R</span></td>
  <td>2008</td>
  <td>AK</td>
  <td><span>General</span></td>
  <td>+24</td>
- </tr>
- <tr>
- <td>Conrad Burns</td>
+ </tr><tr><td>Conrad Burns</td>
  <td><span>R</span></td>
  <td>2006</td>
  <td>MT</td>
  <td><span>General</span></td>
  <td>+17</td>
- </tr>
- <tr>
- <td>Joe Lieberman</td>
+ </tr><tr><td>Joe Lieberman</td>
  <td><span>D</span></td>
  <td>2006</td>
  <td>CT</td>
  <td><span>Primary</span></td>
  <td>+13</td>
- </tr>
- <tr>
- <td>David Perdue</td>
+ </tr><tr><td>David Perdue</td>
  <td><span>R</span></td>
  <td>2020</td>
  <td>GA</td>
  <td><span>General</span></td>
  <td>+12</td>
- </tr>
- <tr>
- <td>Richard Lugar</td>
+ </tr><tr><td>Richard Lugar</td>
  <td><span>R</span></td>
  <td>2012</td>
  <td>IN</td>
  <td><span>Primary</span></td>
  <td>+11</td>
- </tr>
- <tr>
- <td>Elizabeth Dole</td>
+ </tr><tr><td>Elizabeth Dole</td>
  <td><span>R</span></td>
  <td>2008</td>
  <td>NC</td>
  <td><span>General</span></td>
  <td>+10</td>
- </tr>
- <tr>
- <td>George Allen</td>
+ </tr><tr><td>George Allen</td>
  <td><span>R</span></td>
  <td>2006</td>
  <td>VA</td>
  <td><span>General</span></td>
  <td>+10</td>
- </tr>
- <tr>
- <td>Bob Smith</td>
+ </tr><tr><td>Bob Smith</td>
  <td><span>R</span></td>
  <td>2002</td>
  <td>NH</td>
  <td><span>Primary</span></td>
  <td>+5</td>
- </tr>
- <tr>
- <td>Jim Talent</td>
+ </tr><tr><td>Jim Talent</td>
  <td><span>R</span></td>
  <td>2006</td>
  <td>MO</td>
  <td><span>General</span></td>
  <td>+4</td>
- </tr>
- <tr>
- <td>Russ Feingold</td>
+ </tr><tr><td>Russ Feingold</td>
  <td><span>D</span></td>
  <td>2010</td>
  <td>WI</td>
  <td><span>General</span></td>
  <td>+4</td>
- </tr>
- <tr>
- <td>Mike DeWine</td>
+ </tr><tr><td>Mike DeWine</td>
  <td><span>R</span></td>
  <td>2006</td>
  <td>OH</td>
  <td><span>General</span></td>
  <td>+2</td>
- </tr>
- <tr>
- <td>Arlen Specter</td>
+ </tr><tr><td>Arlen Specter</td>
  <td><span>D</span></td>
  <td>2010</td>
  <td>PA</td>
  <td><span>Primary</span></td>
  <td>+2</td>
- </tr>
- <tr>
- <td>John Sununu</td>
+ </tr><tr><td>John Sununu</td>
  <td><span>R</span></td>
  <td>2008</td>
  <td>NH</td>
  <td><span>General</span></td>
  <td>+1</td>
- </tr>
- <tr>
- <td>Dean Heller</td>
+ </tr><tr><td>Dean Heller</td>
  <td><span>R</span></td>
  <td>2018</td>
  <td>NV</td>
  <td><span>General</span></td>
  <td>+1</td>
- </tr>
- <tr>
- <td>Mark Udall</td>
+ </tr><tr><td>Mark Udall</td>
  <td><span>D</span></td>
  <td>2014</td>
  <td>CO</td>
  <td><span>General</span></td>
  <td>+1</td>
- </tr>
- <tr>
- <td>William Roth</td>
+ </tr><tr><td>William Roth</td>
  <td><span>R</span></td>
  <td>2000</td>
  <td>DE</td>
  <td><span>General</span></td>
  <td>0</td>
- </tr>
- <tr>
- <td>John Ashcroft</td>
+ </tr><tr><td>John Ashcroft</td>
  <td><span>R</span></td>
  <td>2000</td>
  <td>MO</td>
  <td><span>General</span></td>
  <td>0</td>
- </tr>
- <tr>
- <td>Kelly Ayotte</td>
+ </tr><tr><td>Kelly Ayotte</td>
  <td><span>R</span></td>
  <td>2016</td>
  <td>NH</td>
  <td><span>General</span></td>
  <td>0</td>
- </tr>
- <tr>
- <td>Slade Gorton</td>
+ </tr><tr><td>Slade Gorton</td>
  <td><span>R</span></td>
  <td>2000</td>
  <td>WA</td>
  <td><span>General</span></td>
  <td>-2</td>
- </tr>
- <tr>
- <td>Spencer Abraham</td>
+ </tr><tr><td>Spencer Abraham</td>
  <td><span>R</span></td>
  <td>2000</td>
  <td>MI</td>
  <td><span>General</span></td>
  <td>-2</td>
- </tr>
- <tr>
- <td>Cory Gardner</td>
+ </tr><tr><td>Cory Gardner</td>
  <td><span>R</span></td>
  <td>2020</td>
  <td>CO</td>
  <td><span>General</span></td>
  <td>-2</td>
- </tr>
- <tr>
- <td>Rick Santorum</td>
+ </tr><tr><td>Rick Santorum</td>
  <td><span>R</span></td>
  <td>2006</td>
  <td>PA</td>
  <td><span>General</span></td>
  <td>-2</td>
- </tr>
- <tr>
- <td>Norm Coleman</td>
+ </tr><tr><td>Norm Coleman</td>
  <td><span>R</span></td>
  <td>2008</td>
  <td>MN</td>
  <td><span>General</span></td>
  <td>-4</td>
- </tr>
- <tr>
- <td>Gordon Smith</td>
+ </tr><tr><td>Gordon Smith</td>
  <td><span>R</span></td>
  <td>2008</td>
  <td>OR</td>
  <td><span>General</span></td>
  <td>-4</td>
- </tr>
- <tr>
- <td>Rod Grams</td>
+ </tr><tr><td>Rod Grams</td>
  <td><span>R</span></td>
  <td>2000</td>
  <td>MN</td>
  <td><span>General</span></td>
  <td>-4</td>
- </tr>
- <tr>
- <td>Bill Nelson</td>
+ </tr><tr><td>Bill Nelson</td>
  <td><span>D</span></td>
  <td>2018</td>
  <td>FL</td>
  <td><span>General</span></td>
  <td>-5</td>
- </tr>
- <tr>
- <td>Kay Hagan</td>
+ </tr><tr><td>Kay Hagan</td>
  <td><span>D</span></td>
  <td>2014</td>
  <td>NC</td>
  <td><span>General</span></td>
  <td>-6</td>
- </tr>
- <tr>
- <td>Blanche Lincoln</td>
+ </tr><tr><td>Blanche Lincoln</td>
  <td><span>D</span></td>
  <td>2010</td>
  <td>AR</td>
  <td><span>General</span></td>
  <td>-7</td>
- </tr>
- <tr>
- <td>Kyrsten Sinema</td>
+ </tr><tr><td>Kyrsten Sinema</td>
  <td><span>D</span></td>
  <td>2024</td>
  <td>AZ</td>
  <td>?</td>
  <td>-8†</td>
- </tr>
- <tr>
- <td>Tim Hutchinson</td>
+ </tr><tr><td>Tim Hutchinson</td>
  <td><span>R</span></td>
  <td>2002</td>
  <td>AR</td>
  <td><span>General</span></td>
  <td>-9</td>
- </tr>
- <tr>
- <td>Max Cleland</td>
+ </tr><tr><td>Max Cleland</td>
  <td><span>D</span></td>
  <td>2002</td>
  <td>GA</td>
  <td><span>General</span></td>
  <td>-10</td>
- </tr>
- <tr>
- <td>Chuck Robb</td>
+ </tr><tr><td>Chuck Robb</td>
  <td><span>D</span></td>
  <td>2000</td>
  <td>VA</td>
  <td><span>General</span></td>
  <td>-10</td>
- </tr>
- <tr>
- <td>Mark Kirk</td>
+ </tr><tr><td>Mark Kirk</td>
  <td><span>R</span></td>
  <td>2016</td>
  <td>IL</td>
  <td><span>General</span></td>
  <td>-13</td>
- </tr>
- <tr>
- <td>Mark Pryor</td>
+ </tr><tr><td>Mark Pryor</td>
  <td><span>D</span></td>
  <td>2014</td>
  <td>AR</td>
  <td><span>General</span></td>
  <td>-17</td>
- </tr>
- <tr>
- <td>Mary Landrieu</td>
+ </tr><tr><td>Mary Landrieu</td>
  <td><span>D</span></td>
  <td>2014</td>
  <td>LA</td>
  <td><span>General</span></td>
  <td>-18</td>
- </tr>
- <tr>
- <td>Joe Donnelly</td>
+ </tr><tr><td>Joe Donnelly</td>
  <td><span>D</span></td>
  <td>2018</td>
  <td>IN</td>
  <td><span>General</span></td>
  <td>-18</td>
- </tr>
- <tr>
- <td>Claire McCaskill</td>
+ </tr><tr><td>Claire McCaskill</td>
  <td><span>D</span></td>
  <td>2018</td>
  <td>MO</td>
  <td><span>General</span></td>
  <td>-19</td>
- </tr>
- <tr>
- <td>Mark Begich</td>
+ </tr><tr><td>Mark Begich</td>
  <td><span>D</span></td>
  <td>2014</td>
  <td>AK</td>
  <td><span>General</span></td>
  <td>-20</td>
- </tr>
- <tr>
- <td>Tom Daschle</td>
+ </tr><tr><td>Tom Daschle</td>
  <td><span>D</span></td>
  <td>2004</td>
  <td>SD</td>
  <td><span>General</span></td>
  <td>-21</td>
- </tr>
- <tr>
- <td>Doug Jones</td>
+ </tr><tr><td>Doug Jones</td>
  <td><span>D</span></td>
  <td>2020</td>
  <td>AL</td>
  <td><span>General</span></td>
  <td>-28</td>
- </tr>
- <tr>
- <td>Scott Brown</td>
+ </tr><tr><td>Scott Brown</td>
  <td><span>R</span></td>
  <td>2012</td>
  <td>MA</td>
  <td><span>General</span></td>
  <td>-28</td>
- </tr>
- <tr>
- <td>Lincoln Chafee</td>
+ </tr><tr><td>Lincoln Chafee</td>
  <td><span>R</span></td>
  <td>2006</td>
  <td>RI</td>
  <td><span>General</span></td>
  <td>-29</td>
- </tr>
- <tr>
- <td>Heidi Heitkamp</td>
+ </tr><tr><td>Heidi Heitkamp</td>
  <td><span>D</span></td>
  <td>2018</td>
  <td>ND</td>
  <td><span>General</span></td>
  <td>-31</td>
- </tr>
- </tbody>
- </table>
- </div>
- <footer>
- <p>*Partisan lean is the average margin difference between how a state or district votes and how the country votes overall. This version of partisan lean, meant to be used for congressional and gubernatorial elections, is calculated as 50 percent the state or district’s lean relative to the nation in the most recent presidential election, 25 percent its relative lean in the second-most-recent presidential election and 25 percent a custom state-legislative lean. In this case, positive numbers are toward the senator’s party.</p>
+ </tr></tbody></table></div>
+ <footer><p>*Partisan lean is the average margin difference between how a state or district votes and how the country votes overall. This version of partisan lean, meant to be used for congressional and gubernatorial elections, is calculated as 50 percent the state or district’s lean relative to the nation in the most recent presidential election, 25 percent its relative lean in the second-most-recent presidential election and 25 percent a custom state-legislative lean. In this case, positive numbers are toward the senator’s party.</p>
  <p>†Arizona’s partisan lean for 2024 is not yet available; this is the lean for 2022.</p>
  <p>Sources: Greg Giroux, election results</p>
- </footer>
-</section>
-</div>
+ </footer></section></div>
 
 
 <p data-paragraph="main">While Arizona is a swing state, it is still <a href="https://fivethirtyeight.com/features/how-red-or-blue-is-your-state-your-congressional-district/" target="_blank" rel="noopener">slightly Republican-leaning</a>. (Biden carried it by only a hair in 2020, suggesting that he would have lost there if the national environment hadn’t been so Democratic-leaning.) So perhaps Sinema is right not to fear a primary challenge; it would be unprecedented in recent history for someone in her position to lose renomination. Then again, few politicians have pushed the envelope of what their base will tolerate as much as Sinema has. It’s an obvious point, but while Arizona might be light red overall, the Democratic primary electorate will be mostly Democrats and Democratic leaners — a group that, in Arizona, self-identifies as <a href="https://www.cnn.com/election/2020/primaries-caucuses/entrance-and-exit-polls/arizona/democratic" target="_blank" rel="noopener">61 percent liberal and only 33 percent moderate</a>. </p>
@@ -1076,7 +841,12 @@
 
 
 
-<p data-paragraph="main">Another explanation for Sinema’s centrism could be that she genuinely believes in it. In her 2009 book “Unite and Conquer,” Sinema <a href="https://www.huffpost.com/entry/kyrsten-sinema-not-progressive_n_5bdca881e4b09d43e31edfa3" target="_blank" rel="noopener">described</a> how she was initially frustrated at her inability to get things done in the state legislature — so she decided to stop being a “bomb-thrower” and start working with Republicans. Perhaps now, after so many years of embedding with the GOP to get things done (this is the first time she has ever served in a legislative chamber controlled by Democrats), she has internalized the conservatism of her peers — and even <a href="https://www.politico.com/news/2019/10/29/kyrsten-sinema-arizona-democrats-060187" target="_blank" rel="noopener">embraced bipartisanship as a policy goal unto itself</a>. (That would explain her fierce opposition to ending the filibuster and her <a href="https://www.cnn.com/2021/07/30/politics/krysten-sinema-infrastructure-deal-backlash/index.html" target="_blank" rel="noopener">dogged negotiation</a> of a bipartisan $1 trillion infrastructure bill earlier this year.) What else, besides personal conviction, can explain why she has maintained her contrarianism in the face of <a href="https://www.huffpost.com/entry/kyrsten-sinema-biden-reconciliation_n_61548b6ae4b075408bd1e9fc" target="_blank" rel="noopener">frustrated colleagues</a>, <a href="https://cronkitenews.azpbs.org/2021/10/05/protesters-confront-sinema-directly-she-calls-the-move-unacceptable/" target="_blank" rel="noopener">aggressive protesters</a> and <a href="https://www.nytimes.com/2021/09/29/us/kyrsten-sinema-voters.html" target="_blank" rel="noopener">the potential end of her political career</a>? It could be that she really is acting on principle. Or it could be that she thinks this is her smartest move politically. Or it could be some combination of both. Unfortunately, we might never know for sure.</p>]]></description>
+<p data-paragraph="main">Another explanation for Sinema’s centrism could be that she genuinely believes in it. In her 2009 book “Unite and Conquer,” Sinema <a href="https://www.huffpost.com/entry/kyrsten-sinema-not-progressive_n_5bdca881e4b09d43e31edfa3" target="_blank" rel="noopener">described</a> how she was initially frustrated at her inability to get things done in the state legislature — so she decided to stop being a “bomb-thrower” and start working with Republicans. Perhaps now, after so many years of embedding with the GOP to get things done (this is the first time she has ever served in a legislative chamber controlled by Democrats), she has internalized the conservatism of her peers — and even <a href="https://www.politico.com/news/2019/10/29/kyrsten-sinema-arizona-democrats-060187" target="_blank" rel="noopener">embraced bipartisanship as a policy goal unto itself</a>. (That would explain her fierce opposition to ending the filibuster and her <a href="https://www.cnn.com/2021/07/30/politics/krysten-sinema-infrastructure-deal-backlash/index.html" target="_blank" rel="noopener">dogged negotiation</a> of a bipartisan $1 trillion infrastructure bill earlier this year.) What else, besides personal conviction, can explain why she has maintained her contrarianism in the face of <a href="https://www.huffpost.com/entry/kyrsten-sinema-biden-reconciliation_n_61548b6ae4b075408bd1e9fc" target="_blank" rel="noopener">frustrated colleagues</a>, <a href="https://cronkitenews.azpbs.org/2021/10/05/protesters-confront-sinema-directly-she-calls-the-move-unacceptable/" target="_blank" rel="noopener">aggressive protesters</a> and <a href="https://www.nytimes.com/2021/09/29/us/kyrsten-sinema-voters.html" target="_blank" rel="noopener">the potential end of her political career</a>? It could be that she really is acting on principle. Or it could be that she thinks this is her smartest move politically. Or it could be some combination of both. Unfortunately, we might never know for sure.</p>
+
+
+<p>Watch: https://abcnews.go.com/fivethirtyeight/video/white-evangelicals-rethinking-politics-fivethirtyeight-80316696</p>
+
+<p>Watch: https://abcnews.go.com/fivethirtyeight/video/latest-crime-data-us-fivethirtyeight-politics-podcast-80334237</p>]]></description>
 			<pubDate>Mon, 11 Oct 2021 11:00:00 +0100</pubDate>
 			<guid isPermaLink="false">1633950901847410</guid>
 		</item>
