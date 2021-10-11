@@ -3,9 +3,73 @@
 		<title>Main stream | FreshRSS</title>
 		<link>http://radon</link>
 		<description>RSS feed of Main stream | FreshRSS</description>
-		<pubDate>Tue, 12 Oct 2021 00:29:07 +0100</pubDate>
-		<lastBuildDate>Mon, 11 Oct 2021 23:29:07 GMT</lastBuildDate>
+		<pubDate>Tue, 12 Oct 2021 00:59:07 +0100</pubDate>
+		<lastBuildDate>Mon, 11 Oct 2021 23:59:07 GMT</lastBuildDate>
 		<atom:link href="http://radon/i/?a=rss" rel="self" type="application/rss+xml" />
+		<item>
+			<title>Politics Podcast: The Politics Of The Debt Ceiling</title>
+			<link>https://fivethirtyeight.com/features/politics-podcast-the-politics-of-the-debt-ceiling/</link>
+						<dc:creator>Galen Druke</dc:creator>
+			<dc:creator>FiveThirtyEight</dc:creator>
+			<category>Debt Ceiling</category>
+			<category>Facebook</category>
+			<category>FiveThirtyEight Podcasts</category>
+			<category>Politics Podcast</category>
+			<category>Polling</category>
+			<description><![CDATA[<div data-href="https://fivethirtyeight.com/features/politics-podcast-the-politics-of-the-debt-ceiling/">
+	<div data-podcast-id="317984" data-podcast-duration="0" data-podcast-title="Politics Podcast: The Politics Of The Debt Ceiling">
+
+					<span><span>FiveThirtyEight</span></span>
+			
+		
+		<button aria-label="Play"></button>
+
+					<div>
+		
+		
+							<div>
+					<div>
+						<div></div>
+					</div>
+
+					<div> </div>
+
+					<audio preload="none" controls="controls">
+						<source src="https://www.podtrac.com/pts/redirect.mp3/traffic.megaphone.fm/ESP2157664306.mp3?updated=1633992596">
+					</source></audio>
+				</div>
+			
+					</div>
+		
+	</div>
+</div>
+<aside>
+	<div>
+		More: <a href="https://itunes.apple.com/us/podcast/fivethirtyeight-elections/id1077418457">Apple Podcasts</a> |
+		<span><a data-android-url="" href="http://m.espn.com/general/cast?id=14554755">ESPN App</a> |</span>
+		<a href="https://www.espn.com/espnradio/feeds/rss/podcast.xml?id=14554755">RSS</a>
+			</div>
+	</aside>
+
+
+
+
+<p data-paragraph="main">Last week, the Senate voted to temporarily raise the debt ceiling through early December, but the political conflict over a longer-term increase continues. Senate Minority Leader Mitch McConnell said Republicans will not increase the debt limit again and Democrats say they won’t raise it on their own through budget reconciliation. Not raising the debt ceiling would have <a rel="noreferrer noopener" target="_blank" href="https://www.cbsnews.com/news/debt-ceiling-limit-congress-united-states-economy/">catastrophic economic consequences</a>. </p>
+
+
+
+<p data-paragraph="main">In this installment of the <a rel="noreferrer noopener" target="_blank" href="https://fivethirtyeight.com/tag/politics-podcast/">FiveThirtyEight Politics podcast</a>, the crew discusses the role of the debt ceiling in politics, why it exists in the first place, and the chances of it being abolished altogether. They also have a “good or bad use of polling” on the topic of <a rel="noreferrer noopener" target="_blank" href="https://yougov.co.uk/topics/lifestyle/articles-reports/2021/10/06/yougov-death-study-death-and-coronavirus-pandemic">death</a>. Lastly, they talk about whether a <a rel="noreferrer noopener" target="_blank" href="https://www.nytimes.com/live/2021/10/05/technology/facebook-whistleblower-frances-haugen">recent Facebook hearing</a> will lead to new regulations for the monolithic technology company.</p>
+
+
+
+<p data-paragraph="main"><em>You can listen to the episode by clicking the “play” button in the audio player above or by </em><a href="https://itunes.apple.com/us/podcast/fivethirtyeight-elections/id1077418457?mt=2" target="_blank" rel="noopener"><em>downloading it in iTunes</em></a><em>, the </em><a href="http://www.espn.com/espn/mobile/products/products/_/id/6857590" target="_blank" rel="noopener"><em>ESPN App</em></a><em> or your favorite podcast platform. If you are new to podcasts, </em><a href="https://fivethirtyeight.com/how-to-listen-to-fivethirtyeight-podcasts/" target="_blank" rel="noopener"><em>learn how to listen</em></a><em>.</em></p>
+
+
+
+<p data-paragraph="main"><em>The FiveThirtyEight Politics podcast is recorded Mondays and Thursdays. Help new listeners discover the show by </em><a href="https://itunes.apple.com/us/podcast/fivethirtyeight-elections/id1077418457?mt=2" target="_blank" rel="noopener"><em>leaving us a rating and review on iTunes</em></a><em>. Have a comment, question or suggestion for “good polling vs. bad polling”? Get in touch by email, </em><a href="https://twitter.com/FiveThirtyEight" target="_blank" rel="noopener"><em>on Twitter</em></a><em> or in the comments.</em></p>]]></description>
+			<pubDate>Mon, 11 Oct 2021 23:46:00 +0100</pubDate>
+			<guid isPermaLink="false">1633995902558670</guid>
+		</item>
 		<item>
 			<title>Kyrsten Sinema Is Confounding Her Own Party. But … Why?</title>
 			<link>https://fivethirtyeight.com/features/kyrsten-sinema-is-confounding-her-own-party-but-why/</link>
@@ -3000,73 +3064,6 @@ Some sectors have been able to adjust (more or less) to the realities of the pan
 <p data-paragraph="main">This is only the first draft of Texas’s new congressional map, so it could still change before it’s passed by the GOP-controlled legislature. The Senate Redistricting Committee is <a href="https://twitter.com/PatrickSvitek/status/1442570463155302408" target="_blank" rel="noopener">expected to take up</a> the congressional map on Thursday. But remember the GOP ultimately controls the redistricting process in Texas. That said, <a href="https://www.senate.mn/departments/scr/REDIST/Redsum/txsum.htm" target="_blank" rel="noopener">past congressional maps</a> proposed by Texas lawmakers <a href="https://redistricting.lls.edu/state/texas/?cycle=2020&amp;level=Congress&amp;startdate=" target="_blank" rel="noopener">have been endlessly litigated</a> — and it’s possible that <a href="https://twitter.com/marceelias/status/1442535597336190979" target="_blank" rel="noopener">could happen again</a> this time around.</p>]]></description>
 			<pubDate>Mon, 27 Sep 2021 23:33:00 +0100</pubDate>
 			<guid isPermaLink="false">1632785402027625</guid>
-		</item>
-		<item>
-			<title>Some COVID-19 Patients Want Ivermectin So Badly They’re Taking Hospitals To Court</title>
-			<link>https://fivethirtyeight.com/features/some-covid-19-patients-want-ivermectin-so-badly-theyre-taking-hospitals-to-court/</link>
-						<dc:creator>Kaleigh Rogers</dc:creator>
-			<dc:creator>Kaleigh Rogers</dc:creator>
-			<category>Coronavirus</category>
-			<category>COVID-19</category>
-			<category>Disinformation</category>
-			<description><![CDATA[<p data-paragraph="main">When the suburban Chicago hospital where her mother was being treated for COVID-19 refused to give her ivermectin, <a href="https://www.chicagotribune.com/news/breaking/ct-libertyville-hospital-covid-lawsuit-patient-ivermectin-20210922-g7tjh2sm3fdablpbzomuv26vvu-story.html" target="_blank" rel="noopener">Tiffany Wilson had her moved to another hospital</a>. The antiparasitic drug achieved a cult following as a treatment for COVID-19, <a href="https://fivethirtyeight.com/features/when-to-stop-hoping-for-a-covid-19-miracle-cure/" target="_blank" rel="noopener">despite no current evidence</a> it is effective. But that didn’t deter Wilson from suing when the next hospital also refused to give her mother, 68-year-old Leslie Pai, ivermectin. And she won. This week, after the hospital obliged a judge’s injunction ordering it to give Pai ivermectin, Pai’s heart rate plummeted, hospital doctors said in court documents. The hospital pushed back in court, and <a href="https://www.chicagotribune.com/news/breaking/ct-ivermectin-covid-lawsuit-dropped-libertyville-hospital-20210923-lqwfwls5orcqvdxfjk3lgtyale-story.html" target="_blank" rel="noopener">Wilson dropped the case</a>, with her lawyers asking the court to lift the injunction while continuing to argue that the ivermectin was, in fact, helping. </p>
-
-
-
-<p data-paragraph="main">What’s most remarkable about Wilson’s story is that it’s not the only one of its kind. In recent months, there have been multiple cases of patients or their families demanding ivermectin as a treatment for COVID-19, not only going to court but also harassing hospital staff. And in at least seven instances, judges have granted these requests, ordering hospitals to either administer the drug or allow other physicians into the facility to administer it. These incidents mark a new era of the pandemic: As hospitals struggle under the weight of new COVID-19 cases, they are also being forced to fight this new battle spurred by an avalanche of fear and online misinformation. The infodemic has officially arrived in the ICU. </p>
-
-
-
-<p data-paragraph="main">“I’ve never encountered this and I’ve been in practice over 40 years,” said Dr. Rodney Hood, who chairs the National Medical Association’s COVID-19 Task Force on Vaccines and Therapeutics. </p>
-
-
-
-<p data-paragraph="main">In some instances, hospitals refusing to treat patients with ivermectin have faced <a href="https://newstalk941.com/crmc-responds-to-protest-wanting-alternate-covid-treatments/" target="_blank" rel="noopener">protests</a>. One case in particular garnered a sizable public response. In 2016, Veronica Wolski, then a 59-year-old Chicagoan, <a href="https://www.chicagotribune.com/news/ct-bernie-sanders-bridge-chicago-inc-20161011-story.html" target="_blank" rel="noopener">first drew public attention</a> when she waved Bernie Sanders signs from a pedestrian bridge over a highway. Over the last five years, her occupation of the bridge continued but her message shifted to <a href="https://www.instagram.com/thepeoplesbridge/?hl=en" target="_blank" rel="noopener">promote the QAnon conspiracy theory</a>, the Big Lie and anti-vaccine sentiments — endearing her to the alt-right. And then recently, after Wolski was hospitalized with COVID-19, supporters on QAnon-focused Telegram channels shared contact information for the hospital and began a campaign of calling and emailing to demand Wolski receive ivermectin. This was amplified when L. Lin Wood, the pro-Trump lawyer who filed a number of lawsuits challenging the 2020 election results, got involved, encouraging his followers to do the same.<a data-footnote-id="22" href="https://fivethirtyeight.com/wp-json/wp/v2/espn_verticals/398#fn-22" data-footnote-content="&lt;p&gt;&lt;p&gt;Wood also shared a video of himself calling the hospital and warning that the staff would be “guilty of murder.”&lt;/p&gt;
-&lt;/p&gt;"><sup>22</sup></a> The <a href="https://www.nbcchicago.com/news/local/amita-hospital-targeted-with-hundreds-of-emails-calls-after-denying-patient-controversial-drug/2607957/" target="_blank" rel="noopener">hospital reported hundreds of emails and calls</a> “associated with one patient’s care,” and there was <a href="https://chicago.suntimes.com/news/2021/9/7/22661430/chicago-coronavirus-qanon-supporters-protest-amita-resurrection-hospital-ivermectin-patient" target="_blank" rel="noopener">even an in-person protest</a>. Wolski <a href="https://chicago.suntimes.com/coronavirus/2021/9/13/22671625/veronica-wolski-dies-covid-qanon-ivermectin-amita-hospital-protests-expressway-overpass-banners" target="_blank" rel="noopener">died on Sept. 13</a>. </p>
-
-
-<p>Watch: https://abcnews.go.com/fivethirtyeight/video/upcoming-elections-us-political-climate-80002422</p>
-
-
-<p data-paragraph="main">Along with demands and protests over ivermectin, there have been multiple cases of individuals suing hospitals to force them to treat a COVID-19 patient with the drug. In more than one case, these lawsuits have been successful. A <a href="https://www.chicagotribune.com/coronavirus/ct-elmhurst-hospital-covid-ivermectin-lawsuit-20210503-odktw5zntnarhnyvdemjbr2xfy-story.html" target="_blank" rel="noopener">judge in Illinois</a> (separate from the Wilson case) ordered a hospital to allow a patient with COVID-19 to receive ivermectin after her daughter sued for the treatment. In at least two cases in New York, <a href="https://buffalonews.com/news/local/2nd-wny-hospital-ordered-to-treat-covid-19-patient-with-experimental-drug/article_f32339f0-5d01-11eb-b752-4f8966804581.html" target="_blank" rel="noopener">judges made similar orders</a>. In Ohio, <a href="https://ohiocapitaljournal.com/2021/08/30/judge-orders-cinci-hospital-to-treat-covid-19-patient-with-ivermectin-despite-cdc-warnings/" target="_blank" rel="noopener">a judge ordered a hospital to administer</a> ivermectin to a patient with COVID-19 after his wife sued, but then a different judge <a href="https://ohiocapitaljournal.com/2021/09/06/judge-reverses-order-forcing-hospital-to-give-ivermectin-to-covid-19-patient/" target="_blank" rel="noopener">overturned that order.</a> Similar cases have been brought forward in <a href="https://www.mercurynews.com/2021/09/22/california-woman-wants-hospital-ordered-to-give-ivermectin-to-her-husband-a-covid-19-patient/" target="_blank" rel="noopener">California</a>, <a href="https://www.beckershospitalreview.com/legal-regulatory-issues/kentucky-hospital-doesn-t-have-to-give-patient-ivermectin-judge-rules.html" target="_blank" rel="noopener">Kentucky</a>, <a href="https://www.nola.com/news/article_6fe39414-05ed-11ec-b7da-db4559be0604.html" target="_blank" rel="noopener">Louisiana</a>, <a href="https://www.wdel.com/news/lawsuit-seeks-to-force-christianacare-to-administer-ivermectin-to-man-dying-of-covid/article_bb8fc6a8-1a29-11ec-a45a-3f37133b6501.html" target="_blank" rel="noopener">Delaware</a> and <a href="https://news4sanantonio.com/news/local/74-year-old-covid-patients-family-says-hospital-refused-court-order-to-give-ivermectin" target="_blank" rel="noopener">Texas</a>. (Many of these cases have even been brought forward by the same lawyer, as first <a href="https://www.thedailybeast.com/lawyer-ralph-lorigo-forces-ivermectin-on-hospitals-as-covid-treatment-and-drives-doctors-crazy" target="_blank" rel="noopener">reported by the Daily Beast</a>.) </p>
-
-
-
-<p data-paragraph="main">The fixation on ivermectin is largely driven by online misinformation and a misrepresentation of what we know about the drug. Ivermectin is an antiparasitic that has been around for decades and is very effective at treating certain <em>parasitic</em> infections, <a href="https://www.cdc.gov/parasites/onchocerciasis/treatment.html" target="_blank" rel="noopener">like river blindness</a>. Its effectiveness on viral infections, particularly COVID-19, is still being investigated. Unfortunately, there’s <a href="https://fivethirtyeight.com/features/when-to-stop-hoping-for-a-covid-19-miracle-cure/" target="_blank" rel="noopener">not yet good evidence showing it’s effective</a> in this case, and one of the biggest papers suggesting it could be effective <a href="https://www.theguardian.com/science/2021/jul/16/huge-study-supporting-ivermectin-as-covid-treatment-withdrawn-over-ethical-concerns" target="_blank" rel="noopener">was withdrawn due to ethical conflicts</a>. That said, it’s not as if ivermectin has been written off; clinical trials to test ivermectin’s effectiveness against COVID-19 are ongoing, and their results will be carefully monitored by federal agencies and professional groups that help create guidelines for treatment. That same process has led to other existing drugs, like <a href="https://www.fda.gov/drugs/drug-safety-and-availability/fdas-approval-veklury-remdesivir-treatment-covid-19-science-safety-and-effectiveness" target="_blank" rel="noopener">the antiviral remdesivir</a>, getting approval from the Food and Drug Administration for treating COVID-19. But neither the <a href="https://www.fda.gov/consumers/consumer-updates/why-you-should-not-use-ivermectin-treat-or-prevent-covid-19" target="_blank" rel="noopener">FDA</a> nor the <a href="https://www.who.int/news-room/feature-stories/detail/who-advises-that-ivermectin-only-be-used-to-treat-covid-19-within-clinical-trials" target="_blank" rel="noopener">World Health Organization</a> nor the <a href="https://www.covid19treatmentguidelines.nih.gov/therapies/antiviral-therapy/ivermectin/" target="_blank" rel="noopener">National Institutes of Health</a> currently approve of ivermectin for treating COVID-19. </p>
-
-
-<div>
-	<p>
-		<a href="https://fivethirtyeight.com/features/republicans-arent-new-to-the-anti-vaxx-movement/?cid=_inlinerelated"><img alt="A blue circle and a red circle with vaccines lying across them to create a “no” symbol." width="153" height="115" data-sizes="(min-width: 440px) 153px, 100vw" data-srcset="https://fivethirtyeight.com/wp-content/uploads/2021/09/ANTIVAX-CONFUSION-4x3-1.png?w=153&amp;quality=100&amp;strip=all 153w, https://fivethirtyeight.com/wp-content/uploads/2021/09/ANTIVAX-CONFUSION-4x3-1.png?w=306&amp;quality=100&amp;strip=all 306w, https://fivethirtyeight.com/wp-content/uploads/2021/09/ANTIVAX-CONFUSION-4x3-1.png?w=405&amp;quality=100&amp;strip=all 405w, https://fivethirtyeight.com/wp-content/uploads/2021/09/ANTIVAX-CONFUSION-4x3-1.png?w=810&amp;quality=100&amp;strip=all 810w"></a>
-	</p>
-	<p>
-				<strong>related:</strong>
-				Republicans Aren’t New To The Anti-Vaxx Movement <a href="https://fivethirtyeight.com/features/republicans-arent-new-to-the-anti-vaxx-movement/?cid=_inlinerelated">Read more. »</a>
-	</p>
-</div>
-
-
-
-<p data-paragraph="main">But misinformation has convinced many people that they know more about how to treat COVID-19 than the medical establishment and experts. The thing is, they don’t. “The number of studies and the quality of them and the different research methodologies in any field of medicine is always pretty overwhelming. That’s why we have professional societies and regulatory bodies who take all of that evidence into consideration,” said Carolyn Bramante, a professor of medicine at the University of Minnesota and the principal investigator on an <a href="https://covidout.umn.edu/" target="_blank" rel="noopener">ongoing randomized clinical trial of ivermectin</a> and other potential COVID-19 treatments. </p>
-
-
-
-<p data-paragraph="main">It can, of course, be a good thing for <a href="https://www.glamour.com/story/how-to-advocate-for-yourself-as-a-pregnant-black-woman" target="_blank" rel="noopener">patients to advocate for their own care</a>. The difference in ivermectin cases is that their advocacy is based on rumors and lies, not on scientific evidence. Though ivermectin has been around for decades, it’s still a drug and it can have side effects and potentially negative impacts, Bramante said. Not only is there not yet evidence that it works, we also don’t know if it could be harmful. That can also cause complications for a hospital system already stretched thin by the pandemic it’s trying to treat.</p>
-
-
-
-<p data-paragraph="main">“You don’t get treated based upon what you feel or think,” Hood said. “There are certain approved treatment regimens for certain diseases. If [what a patient is demanding] doesn’t fit within that regimen, then you cannot treat them.”</p>
-
-
-
-<p data-paragraph="main">Online, however, proponents of ivermectin <a href="https://www.nbcnews.com/tech/tech-news/ivermectin-demand-drives-trump-telemedicine-website-rcna1791" target="_blank" rel="noopener">tout it as both a prophylaxis and a cure</a> for COVID-19, cherry-picking data from preprint studies and sharing anecdotes of miraculous recoveries. It’s an infectious narrative that leads many people to believe the drug ought to be used widely — and to wonder if the fact that it isn’t is evidence of a conspiracy. Amid the desperate haze of the pandemic, this type of thinking is leading people to extreme actions. All this while another preventive medical intervention, one that has been shown to be highly effective and safe — the vaccine — is shunned by many of the same people. These lawsuits may represent a precedent of conspiracy-theory-influenced patients using the courts as a cudgel to force medical professionals to practice against their own expertise. Right now, it’s ivermectin, but what’s stopping patients from demanding to be treated with <a href="https://www.theatlantic.com/health/archive/2020/06/does-colloidal-silver-work-covid-19/613177/" target="_blank" rel="noopener">colloidal silver</a> or <a href="https://www.statnews.com/2020/06/05/cdc-misusing-bleach-try-kill-coronavirus/" target="_blank" rel="noopener">bleach</a>?</p>
-
-
-<p>Watch: https://abcnews.go.com/fivethirtyeight/video/spot-gerrymandering-state-fivethirtyeight-80189920</p>
-
-<p>Watch: https://abcnews.go.com/fivethirtyeight/video/gop-critics-trumps-big-lie-struggling-win-reelection-80138507</p>]]></description>
-			<pubDate>Mon, 27 Sep 2021 11:00:00 +0100</pubDate>
-			<guid isPermaLink="false">1632740401716739</guid>
 		</item>
 
 	</channel>
