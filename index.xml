@@ -3,9 +3,223 @@
 		<title>Main stream | FreshRSS</title>
 		<link>http://radon</link>
 		<description>RSS feed of Main stream | FreshRSS</description>
-		<pubDate>Tue, 12 Oct 2021 11:59:07 +0100</pubDate>
-		<lastBuildDate>Tue, 12 Oct 2021 10:59:07 GMT</lastBuildDate>
+		<pubDate>Tue, 12 Oct 2021 12:29:06 +0100</pubDate>
+		<lastBuildDate>Tue, 12 Oct 2021 11:29:06 GMT</lastBuildDate>
 		<atom:link href="http://radon/i/?a=rss" rel="self" type="application/rss+xml" />
+		<item>
+			<title>Why Has Biden’s Approval Rating Gotten So Low So Quickly?</title>
+			<link>https://fivethirtyeight.com/features/why-has-bidens-approval-rating-gotten-so-low-so-quickly/</link>
+						<dc:creator>Sarah Frostenson</dc:creator>
+			<dc:creator>A FiveThirtyEight Chat</dc:creator>
+			<category>Afghanistan</category>
+			<category>COVID-19</category>
+			<category>Economy</category>
+			<category>Independents</category>
+			<category>Joe Biden</category>
+			<category>Presidential Approval</category>
+			<category>Slack Chat</category>
+			<description><![CDATA[<p data-paragraph="main">Welcome to FiveThirtyEight’s <a href="https://fivethirtyeight.com/tag/slack-chat/" target="_blank" rel="noopener">politics chat</a>. The transcript below has been lightly edited.</p>
+
+
+
+<div><hr><span></span></div>
+
+
+
+
+<p data-paragraph="main"><strong>sarah </strong>(<a href="https://fivethirtyeight.com/contributors/sarah-frostenson/" target="_blank" rel="noopener">Sarah Frostenson</a>, politics editor): President Biden’s approval ratings are underwater — 49.2 percent disapprove of the job he is doing as president while 44.6 percent approve, according to <a href="https://projects.fivethirtyeight.com/biden-approval-rating/" target="_blank" rel="noopener">FiveThirtyEight’s presidential approval tracker</a>.<a data-footnote-id="1" href="https://fivethirtyeight.com/wp-json/wp/v2/espn_verticals/398#fn-1" data-footnote-content="&lt;p&gt;&lt;p&gt;As of 5 p.m. Eastern on Monday.&lt;/p&gt;
+&lt;/p&gt;"><sup>1</sup></a></p>
+
+
+
+<figure><img loading="lazy" width="1150" height="920" src="https://fivethirtyeight.com/wp-content/uploads/2021/10/biden-approval-rating-2-1.png" alt="" data-src="https://fivethirtyeight.com/wp-content/uploads/2021/10/biden-approval-rating-2-1.png" data-srcset="https://fivethirtyeight.com/wp-content/uploads/2021/10/biden-approval-rating-2-1.png?w=700 1x, https://fivethirtyeight.com/wp-content/uploads/2021/10/biden-approval-rating-2-1.png?w=1400 2x"></figure><p data-paragraph="main">This has been true for a while now, too. Since Aug. 30, more Americans have disapproved of Biden than have approved of him. </p>
+
+
+
+<p data-paragraph="main">So, let’s tackle Biden’s declining approval rating in three parts. First, what do we know about why his approval rating has dipped? Second, how should we think about this current dip? That is, is it unusually large or actually pretty normal? And, finally, how much do presidents’ approval ratings matter, especially at this point in their presidency?</p>
+
+
+
+<p data-paragraph="main">OK, first up, why has Biden’s approval rating dipped?</p>
+
+
+
+<p data-paragraph="main"><strong>alex </strong>(<a href="https://fivethirtyeight.com/contributors/alex-samuels/" target="_blank" rel="noopener">Alex Samuels</a>, politics reporter): Given the timing, the two biggest things that have contributed to this decline appear to be Biden’s handling of <a href="https://www.cnbc.com/2021/08/03/bidens-approval-rating-on-handling-of-covid-and-economy-fall-in-latest-cnbc-all-america-survey.html" target="_blank" rel="noopener">the COVID-19 pandemic</a> — specifically, how the situation has gotten worse due to the delta variant — and his administration’s <a href="https://www.npr.org/2021/09/02/1033433959/biden-approval-rating-afghanistan-withdrawal" target="_blank" rel="noopener">withdrawal of U.S. troops from Afghanistan</a>. </p>
+
+
+
+<p data-paragraph="main">I’d assume, though, that COVID-19 is likely to have a bigger impact on Biden in the long term because Afghanistan has largely faded from the news …</p>
+
+
+
+<figure><img loading="lazy" width="1150" height="1832" src="https://fivethirtyeight.com/wp-content/uploads/2021/10/RAKICH-BIDEN-APPROVAL-DOWN-1-DESKTOP@2x-1.png" alt="" data-src="https://fivethirtyeight.com/wp-content/uploads/2021/10/RAKICH-BIDEN-APPROVAL-DOWN-1-DESKTOP@2x-1.png" data-srcset="https://fivethirtyeight.com/wp-content/uploads/2021/10/RAKICH-BIDEN-APPROVAL-DOWN-1-DESKTOP@2x-1.png?w=700 1x, https://fivethirtyeight.com/wp-content/uploads/2021/10/RAKICH-BIDEN-APPROVAL-DOWN-1-DESKTOP@2x-1.png?w=1400 2x"></figure><p data-paragraph="main">… and the pandemic affects so much more, including the economy — and Biden’s ratings on the economy were <a href="https://apnews.com/article/joe-biden-government-and-politics-coronavirus-pandemic-economy-only-on-ap-4dafe5b7a4adf2502280bb23b775af07" target="_blank" rel="noopener">never super-high to begin with</a>. The delta variant itself, including its impact on people’s quality of life and on the economy — coupled with <a href="https://thehill.com/hilltv/what-americas-thinking/566297-poll-inflation-named-as-top-economic-concern-among-voters" target="_blank" rel="noopener">fears of inflation</a> — has hurt Biden’s standing. </p>
+
+
+
+<p data-paragraph="main"><strong>nrakich</strong> (<a href="https://fivethirtyeight.com/contributors/nathaniel-rakich/" target="_blank" rel="noopener">Nathaniel Rakich</a>, senior elections analyst): Yeah, Alex, it’s clearly a range of factors. Biden’s approval rating <a href="https://fivethirtyeight.com/features/whats-behind-bidens-declining-approval-rating/" target="_blank" rel="noopener">was already slipping</a> before Afghanistan fell to the Taliban, for instance, as the chart above shows.</p>
+
+
+
+<p data-paragraph="main">I agree that the rise of the delta variant has likely played the biggest role, though. America went from <a href="https://www.newsday.com/news/health/coronavirus/long-island-coronavirus-update-1.50285021" target="_blank" rel="noopener">feeling like the pandemic was behind it</a> in early summer to experiencing the <a href="https://www.nytimes.com/interactive/2021/us/covid-cases.html" target="_blank" rel="noopener">second-highest caseload of the pandemic</a> by September. And Biden’s <a href="https://projects.fivethirtyeight.com/coronavirus-polls/" target="_blank" rel="noopener">approval and disapproval ratings on the coronavirus</a> dipped from 62 percent and 33 percent, respectively, on July 1 to 49.6 percent and 42.0 percent today.</p>
+
+
+
+<figure><img loading="lazy" width="1495" height="564" src="https://fivethirtyeight.com/wp-content/uploads/2021/10/Screen-Shot-2021-10-11-at-3.31.05-PM.png" alt="" data-src="https://fivethirtyeight.com/wp-content/uploads/2021/10/Screen-Shot-2021-10-11-at-3.31.05-PM.png" data-srcset="https://fivethirtyeight.com/wp-content/uploads/2021/10/Screen-Shot-2021-10-11-at-3.31.05-PM.png?w=700 1x, https://fivethirtyeight.com/wp-content/uploads/2021/10/Screen-Shot-2021-10-11-at-3.31.05-PM.png?w=1400 2x"></figure><p data-paragraph="main">That said, I can’t shake the feeling that, if it hadn’t been for the delta variant or the coronavirus, something else would have caused a decline in Biden’s ratings. Presidents’ approval ratings <a href="https://cookpolitical.com/analysis/national/national-politics/cruel-summer" target="_blank" rel="noopener">tend to dip in the summer of their first year</a> as the honeymoon period wears off and people start to notice the problems that are still around them.  </p>
+
+
+
+<p data-paragraph="main"><strong>geoffrey.skelley </strong>(<a href="https://fivethirtyeight.com/contributors/geoffrey-skelley/" target="_blank" rel="noopener">Geoffrey Skelley</a>, elections analyst): Right, it’s possible that the situation in Afghanistan served as an inflection point. People who were already beginning to sour on Biden went ahead and said, “OK, that’s it.”</p>
+
+
+
+<p data-paragraph="main"><strong>nrakich:</strong> Yeah, I agree with that, Geoffrey. The decline in his approval rating <a href="https://fivethirtyeight.com/features/bidens-declining-approval-rating-is-not-just-about-afghanistan/" target="_blank" rel="noopener">really accelerated</a> after the fall of Kabul. My theory is that, for the first six months of Biden’s term, many Americans were enjoying the sense of calm that had fallen over the government after four tumultuous years under former President Donald Trump — and approved of Biden because, to them, he represented a more competent leader. But Afghanistan, and also the delta variant, shattered that calm and raised questions about whether Biden really was that competent after all.</p>
+
+
+
+<p data-paragraph="main"><strong>sarah:</strong> There was also evidence that, prior to the delta variant’s peak, Biden’s approval rating had <a href="https://morningconsult.com/2021/08/04/biden-approval-independents-covid-economy/" target="_blank" rel="noopener">already been dipping among independents</a>, so it certainly seems as if there’s no one answer for why Biden’s numbers have dropped.</p>
+
+
+
+<p data-paragraph="main">How big a deal is this slump, though? For over a month now, more Americans have disapproved of Biden than have approved of him. Is that unusual at this point in a president’s term?</p>
+
+
+
+<p data-paragraph="main"><strong>nraki</strong><strong>ch:</strong> Looking at the past several decades, it’s unusual. Only two other presidents since 1945 have had net negative approval ratings at this point in their terms: Gerald Ford (-9.1 points) and Trump (-18.2 points), and only one other president was below water at any point in his first 265 days (Bill Clinton).</p>
+
+
+
+<p data-paragraph="main">That said, I don’t think it’s reasonable to expect Biden to match the average approval rating of presidents at this point in their terms, which is 61 percent. American politics is more polarized now than at any other point in the past 80 years, so recent presidents have tended to have approval ratings closer to 50-50 at this point. In that sense, Biden should be graded on somewhat of a curve — but even then, he’s still doing worse than former President Barack Obama (+12.1 points) on Oct. 11, 2009.</p>
+
+
+
+<p data-paragraph="main"><strong>alex:</strong> Yeah, everyone expected Biden’s approval rating to drop at some point because every president except for Trump has benefited from a honeymoon period of above-average approval ratings when they first assumed the presidency. Those honeymoon periods invariably end.</p>
+
+
+
+<p data-paragraph="main">But certain things like the COVID-19 pandemic, immigration and Afghanistan probably accelerated the disapproval numbers we’re seeing now.</p>
+
+
+
+<p data-paragraph="main"><strong>geoffrey.skelley:</strong> For what it’s worth, though, Biden also started out at a lower number to begin with, undoubtedly in part because of how polarized our political environment is, as Nathaniel said. Biden has had <a href="https://news.gallup.com/poll/329384/presidential-approval-ratings-joe-biden.aspx" target="_blank" rel="noopener">an approval rating above 90 percent among Democrats</a>, but his approval among Republicans has been, at best, around 20 percent <a href="https://fivethirtyeight.com/features/why-bidens-approval-rating-has-barely-budged-in-his-first-6-months/" target="_blank" rel="noopener">in some polls</a>, and more like 10 percent in others.</p>
+
+
+
+<p data-paragraph="main">That polarization obviously also contributed to Trump’s circumstances. And because of it, some of the comparisons to presidents further back in time are harder to make. Nowadays, <a href="https://fivethirtyeight.com/features/what-should-we-expect-of-bidens-approval-rating-in-the-first-few-months/" target="_blank" rel="noopener">many Americans no longer tend</a> to give a new president from the other party some early benefit of the doubt. For instance, John F. Kennedy and Dwight Eisenhower both started their presidencies with approval ratings around 70 percent or higher. That’s not happening again anytime soon.</p>
+
+
+
+<p data-paragraph="main"><strong>nrakich:</strong> Right, I think the days of a president getting a 70 percent approval rating right out of the gate are clearly over. But we saw early on that Biden still had very low disapproval ratings — as low as 34 percent at one point. So, I think some people — specifically, Trump voters — were giving Biden the benefit of the doubt. But they eventually returned to their partisan corners. You can see how Biden’s disapproval rating has inched up for basically his whole term, though the rate of increase accelerated in August.</p>
+
+
+
+<p data-paragraph="main"><strong>sarah:</strong> On that note, we’ve found that presidents’ approval ratings <a href="https://fivethirtyeight.com/features/trumps-approval-rating-is-incredibly-steady-is-that-weird-or-the-new-normal/" target="_blank" rel="noopener">tend to revert to the mean</a>, and at least since Obama, these ratings have been pretty steady, moving within a fairly narrow band. Can the same be said of Biden at this point? Or is it a big deal that his approval rating has dipped by as much as it has for as long as it has? </p>
+
+
+
+<p data-paragraph="main"><strong>alex:</strong> It’s definitely something his administration (and all Democrats) will have to account for, especially as we get closer to next year’s midterm elections. I’d imagine that most Democrats seeking office right now are wondering this: “How do I engage my base without having an obvious bogeyman (Trump) to point to or a popular standard-bearer (Biden) to hitch my star to?” And what legislative victories will they be able to point to next year? </p>
+
+
+
+<p data-paragraph="main">And this probably puts more pressure on the Biden administration to figure things out with <a href="https://www.cnbc.com/2021/08/23/wall-street-says-to-prep-for-infrastructure-and-budget-reconciliations-bills.html" target="_blank" rel="noopener">the infrastructure and reconciliation bills</a>. I’m skeptical that passing either bill will significantly change Democrats’ <a href="https://fivethirtyeight.com/features/will-2022-be-a-good-year-for-republicans-yes-we-know-its-early/" target="_blank" rel="noopener">overall midterm outlook</a>, but doing so could shore up some enthusiasm among his base — which Biden <a href="https://morningconsult.com/2021/07/21/voter-enthusiasm-midterms-polling/" target="_blank" rel="noopener">could certainly use right now</a>. </p>
+
+
+
+<p data-paragraph="main"><strong>geoffrey.skelley:</strong> Biden’s approval has actually been pretty steady compared with that of past presidents in their early days. If you look at the middle-50 percent range of daily average approval ratings in FiveThirtyEight’s approval data for presidents in their first nine or so months, Biden and Trump have seen the least variation of any of them, with less than a 4 percentage point difference between the high and low ends of that middle-50 percent. More broadly, Biden’s approval rating has dropped as low as 44 percent, but even then, the range between his highest and lowest marks is only 11 points — the same went for Trump — while Obama and Clinton had differences of 17 and 24 points, respectively. (George W. Bush’s approval skyrocketed after the Sept. 11, 2001, terrorist attacks, making him a less useful comparison.)</p>
+
+
+
+<p data-paragraph="main"><strong>sarah:</strong> Do we have a sense of how strong some of this opposition to Biden now is? The Cook Political Report’s Amy Walter had <a href="https://cookpolitical.com/analysis/national/national-politics/intensity-opposition-biden-rises-solid-support-drops-august" target="_blank" rel="noopener">written earlier in September</a> that not only was Biden struggling with more Americans disapproving of the job he was doing as president, but more Americans were <em>strongly</em> disapproving of it. Is this still the case? What does that mean if some of the opposition is so baked in?</p>
+
+
+
+<p data-paragraph="main"><strong>nrakich:</strong> Yes. Just as with Trump, the vast majority of those who dislike Biden do so with a passion. In an average of polls conducted entirely in October so far, 42 percent of respondents <em>strongly</em> disapproved of his job performance, while only 10 percent<em> somewhat</em> disapproved. And his strong disapproval numbers are on the rise. Back in May, his average strong disapproval rating was only 32 percent, while his average somewhat disapproval rating was still 10 percent.</p>
+
+
+
+<p data-paragraph="main">(Of course, it’s probably that some people went from approving of Biden to somewhat disapproving of him, and others went from somewhat disapproving of him to strongly disapproving of him. But regardless, it’s not a good trend for him.)</p>
+
+
+
+<p data-paragraph="main"><strong>sarah:</strong> Of the possible reasons Biden’s approval rating has slumped, you all seem to agree that his handling of the pandemic might be his biggest liability. Does that mean if the pandemic turns a corner in the U.S. — as it’s showing signs of doing — that we should expect Biden’s numbers to bounce back?</p>
+
+
+
+<p data-paragraph="main"><strong>nrakich:</strong> I think probably? It seems likely that, in the best-case scenario where the pandemic goes away completely, everyone would be extremely happy, and happy people tend to like their presidents.</p>
+
+
+
+<p data-paragraph="main"><strong>alex:</strong> I think so too. At least among some constituencies. But I’m not sure that’ll happen, namely because we’re seeing some of the <a href="https://fivethirtyeight.com/features/vaccine-hesitancy-is-still-strong-in-many-covid-19-battered-states/" target="_blank" rel="noopener">highest vaccine-hesitancy rates in Republican-led states</a>, and it’s Republicans, not Democrats, who have been <a href="https://www.washingtonpost.com/health/2021/04/20/vaccine-hesitant-republicans/" target="_blank" rel="noopener">the most skeptical of vaccines and mask-wearing</a>. I’m not quite sure what Biden can do to combat that — it may not be something within his power to change.</p>
+
+
+
+<p data-paragraph="main">I wouldn’t expect an improving COVID-19 picture to solve all Biden’s problems either, as the pandemic isn’t the only thing tanking his approval now. </p>
+
+
+
+<p data-paragraph="main"><strong>geoffrey.skelley:</strong> If the public thinks things are going better, then sure, there’ll be some uptick. I wouldn’t expect many Republicans to approve of Biden, but it could cause his numbers among independents and Democrats to go back up some.</p>
+
+
+
+<p data-paragraph="main"><strong>nra</strong><strong>kich:</strong> <a href="https://www.nytimes.com/2021/10/01/us/politics/biden-approval-ratings.html" target="_blank" rel="noopener">Nate Cohn at The New York Times</a> found that much of the dip in Biden’s approval has been driven by historically Democratic voting blocs. Those groups might come back to the fold if happy times get here again.</p>
+
+
+
+<p data-paragraph="main"><strong>alex:</strong> Yeah, Nathaniel, some research also suggests that Biden’s standing among Black voters isn’t too great right now. The Washington Post <a href="https://www.washingtonpost.com/politics/biden-falling-poll-numbers-georgia/2021/10/10/3606c99e-2002-11ec-8200-5e3fd4c49f5e_story.html" target="_blank" rel="noopener">dove into this more</a>, but essentially, a Black man in Georgia who worked to help elect Biden in 2020 argued that the president’s lack of progress on police reform, a $15 minimum wage and voting-rights legislation might make it harder for him to appeal to Black voters in future elections. </p>
+
+
+
+<p data-paragraph="main">Obviously, Black voters are a key Democratic constituency, so this could have huge ramifications for Biden. A <a href="https://morningconsult.com/2021/09/22/biden-black-voters-vaccine-mandate-polling/" target="_blank" rel="noopener">Morning Consult poll from September</a> also seemed to show that some Black voters were turned off by Biden’s <a href="https://www.whitehouse.gov/briefing-room/presidential-actions/2021/09/09/executive-order-on-requiring-coronavirus-disease-2019-vaccination-for-federal-employees/" target="_blank" rel="noopener">vaccine mandate</a>. Per the survey, Biden’s net approval rating dropped 12 points among Black voters. Among unvaccinated Black voters, there was a 17-point drop.</p>
+
+
+
+<p data-paragraph="main"><strong>sarah:</strong> It’ll be interesting to see how long attrition among Democrats lasts given how polarized our politics are. But one reason we cover president’s approval ratings so extensively is that they can be useful for understanding a president’s reelection chances or how his party might fare in the midterms. </p>
+
+
+
+<p data-paragraph="main">What does Biden’s approval rating tell us at this point? And what will you be watching moving forward?</p>
+
+
+
+<p data-paragraph="main"><strong>alex:</strong> It’s probably too early to draw any big conclusions from Biden’s approval numbers now. But past elections indicate that the severity of midterm losses loosely correlates with the popularity of the president. Here’s <a href="https://fivethirtyeight.com/features/trumps-approval-rating-is-up-republican-house-chances-are-down-does-that-make-any-sense/" target="_blank" rel="noopener">a chart FiveThirtyEight published</a> in the run-up to the 2018 midterm elections, when Trump was unpopular and Republicans went on to lose the House:</p>
+
+
+
+<figure><img loading="lazy" width="1150" height="936" src="https://fivethirtyeight.com/wp-content/uploads/2021/10/SILVER-EU1022-1022-2.png" alt="" data-src="https://fivethirtyeight.com/wp-content/uploads/2021/10/SILVER-EU1022-1022-2.png" data-srcset="https://fivethirtyeight.com/wp-content/uploads/2021/10/SILVER-EU1022-1022-2.png?w=700 1x, https://fivethirtyeight.com/wp-content/uploads/2021/10/SILVER-EU1022-1022-2.png?w=1400 2x"></figure><p data-paragraph="main">To simplify things a bit, Gallup found <a href="https://news.gallup.com/poll/141812/avg-midterm-seat-loss-presidents-below-approval.aspx" target="_blank" rel="noopener">back in 2010</a> that when postwar presidents had an approval rating of 50 percent or more around the time of a midterm election, their party lost an average of only 14 seats in the House. But if a president’s approval rating was any lower than 50 percent, the average loss was 36 seats. Using more recent data, from 1970 to 2014, <a href="https://www.bloomberg.com/graphics/2018-midterm-elections-preview/" target="_blank" rel="noopener">Bloomberg put the average loss</a> at 33 seats for presidents with approval ratings below 50 percent. </p>
+
+
+
+<p data-paragraph="main">Fifty percent isn’t some magic inflection point. But, all else being equal, the more popular Biden is come election time in 2022, the better congressional Democrats’ prospects will be.</p>
+
+
+
+<p data-paragraph="main">I think there’s still time for Biden’s approval ratings to recover, but (i) whether that happens and (ii) by how much will have a big impact on how his party fares in both 2022 and 2024. I’ll be watching Biden’s approval among voters of color specifically, though, and whether Republicans use that to try to build on <a href="https://www.pewresearch.org/politics/2021/06/30/behind-bidens-2020-victory/" target="_blank" rel="noopener">their gains with Black and Hispanic voters</a> in 2020.</p>
+
+
+
+<p data-paragraph="main"><strong>nrakich:</strong> Yeah, if Biden has the same approval rating in November 2022 as he does now, Democrats will clearly be toast in the midterms. But there is ample time for it to either get better or get worse before then, so I don’t think the numbers mean much for now.</p>
+
+
+
+<p data-paragraph="main">That said, Democrats shouldn’t feel like they just have to get Biden’s approval rating back above 50 percent to avoid midterm losses. The president’s party loses seats in all but the most popular presidencies. The only recent presidents who gained House seats in a midterm election, Bill Clinton in 1998 and George W. Bush in 2002, <a href="https://fivethirtyeight.com/features/why-democrats-in-congress-need-bidens-approval-rating-to-stay-in-the-mid-50s/" target="_blank" rel="noopener">had approval ratings in the 60s</a>. </p>
+
+
+
+<p data-paragraph="main">So, basically, I think Republicans will gain seats in 2022, but I think it’s too early to tell how many.</p>
+
+
+
+<p data-paragraph="main"><strong>geoffrey.skelley:</strong> To Nathaniel’s point, it’s nearly impossible to imagine circumstances where Biden’s approval will top 60 percent in this polarized political environment. Perhaps the target figure should be more like 55 percent now because the band of possibilities for presidential approval has narrowed. </p>
+
+
+
+<p data-paragraph="main">Still, it will be challenging for Biden to even get back there to help Democrats hold or even gain ground. Of course, this is mostly about the House, which is a truly national election with all 435 seats up. But the Senate is harder to nail down in some ways because only about one-third of it is up in 2022, so the national political environment doesn’t have as much of a 1:1 effect on outcomes there. Take 2018, for example: Trump was way underwater and Republicans lost the House, but they <a href="https://fivethirtyeight.com/features/how-red-state-democrats-became-an-endangered-species-in-the-senate/" target="_blank" rel="noopener">actually gained ground in the Senate</a> because Democrats <a href="https://centerforpolitics.org/crystalball/articles/2018-senate-democrats-are-very-exposed/" target="_blank" rel="noopener">had to defend a sizable number of seats in red states</a>. </p>
+
+
+
+<p data-paragraph="main">Put another way, the relationship between presidential approval and seat loss for the president’s party is not as highly correlated in the Senate as it is in the House. </p>]]></description>
+			<pubDate>Tue, 12 Oct 2021 11:00:00 +0100</pubDate>
+			<guid isPermaLink="false">1634036402330534</guid>
+		</item>
 		<item>
 			<title>Politics Podcast: The Politics Of The Debt Ceiling</title>
 			<link>https://fivethirtyeight.com/features/politics-podcast-the-politics-of-the-debt-ceiling/</link>
@@ -135,18 +349,18 @@
 
 
 
-<p data-paragraph="main">But while no one denies that Arizona is a tough state for Democrats to win, it’s not nearly as tough as Manchin’s West Virginia, which Trump carried by a whopping <a href="https://services.sos.wv.gov/apps/elections/results/results.aspx?year=2016&amp;eid=23&amp;county=Statewide" target="_blank" rel="noopener">42 points</a> in 2016. West Virginia is no swing state; it’s one of the <a href="https://fivethirtyeight.com/features/how-red-or-blue-is-your-state-your-congressional-district/" target="_blank" rel="noopener">reddest states in the entire country</a>. And while six non-Sinema Democrats have won a statewide election in Arizona since 2018 — including Biden in 2020<a data-footnote-id="1" href="https://fivethirtyeight.com/wp-json/wp/v2/espn_verticals/398#fn-1" data-footnote-content="&lt;p&gt;&lt;p&gt;The other five are Sen. Mark Kelly, Secretary of State Katie Hobbs, Superintendent of Public Instruction Kathy Hoffman and Corporation Commissioners Sandra Kennedy and Anna Tovar.&lt;/p&gt;
-&lt;/p&gt;"><sup>1</sup></a> — Manchin is the only Democratic statewide elected official left in West Virginia.</p>
+<p data-paragraph="main">But while no one denies that Arizona is a tough state for Democrats to win, it’s not nearly as tough as Manchin’s West Virginia, which Trump carried by a whopping <a href="https://services.sos.wv.gov/apps/elections/results/results.aspx?year=2016&amp;eid=23&amp;county=Statewide" target="_blank" rel="noopener">42 points</a> in 2016. West Virginia is no swing state; it’s one of the <a href="https://fivethirtyeight.com/features/how-red-or-blue-is-your-state-your-congressional-district/" target="_blank" rel="noopener">reddest states in the entire country</a>. And while six non-Sinema Democrats have won a statewide election in Arizona since 2018 — including Biden in 2020<a data-footnote-id="2" href="https://fivethirtyeight.com/wp-json/wp/v2/espn_verticals/398#fn-2" data-footnote-content="&lt;p&gt;&lt;p&gt;The other five are Sen. Mark Kelly, Secretary of State Katie Hobbs, Superintendent of Public Instruction Kathy Hoffman and Corporation Commissioners Sandra Kennedy and Anna Tovar.&lt;/p&gt;
+&lt;/p&gt;"><sup>2</sup></a> — Manchin is the only Democratic statewide elected official left in West Virginia.</p>
 
 
 
-<p data-paragraph="main">In other words, Democrats are lucky that Manchin is in the Senate at all. Because of how red West Virginia is, a typical senator from the state would almost certainly be a Republican.<a data-footnote-id="2" href="https://fivethirtyeight.com/wp-json/wp/v2/espn_verticals/398#fn-2" data-footnote-content="&lt;p&gt;&lt;p&gt;And if so, that would hand Republicans control of the Senate, considering Democrats have the majority now only by dint of Vice President Kamala Harris’s tie-breaking vote.&lt;/p&gt;
-&lt;/p&gt;"><sup>2</sup></a> Indeed, based on Trump’s margin in West Virginia in 2016, <a href="https://fivethirtyeight.com/features/introducing-the-trump-score/" target="_blank" rel="noopener">we’d expect</a> that a generic replacement for Manchin would have voted in line with Trump’s position 89.3 percent of the time during his presidency. Manchin, though, voted with Trump just <a href="https://projects.fivethirtyeight.com/congress-trump-score/joe-manchin-iii/" target="_blank" rel="noopener">50.4 percent</a> of the time — a lot for a Democrat, but not a lot considering the partisanship of his home state.</p>
+<p data-paragraph="main">In other words, Democrats are lucky that Manchin is in the Senate at all. Because of how red West Virginia is, a typical senator from the state would almost certainly be a Republican.<a data-footnote-id="3" href="https://fivethirtyeight.com/wp-json/wp/v2/espn_verticals/398#fn-3" data-footnote-content="&lt;p&gt;&lt;p&gt;And if so, that would hand Republicans control of the Senate, considering Democrats have the majority now only by dint of Vice President Kamala Harris’s tie-breaking vote.&lt;/p&gt;
+&lt;/p&gt;"><sup>3</sup></a> Indeed, based on Trump’s margin in West Virginia in 2016, <a href="https://fivethirtyeight.com/features/introducing-the-trump-score/" target="_blank" rel="noopener">we’d expect</a> that a generic replacement for Manchin would have voted in line with Trump’s position 89.3 percent of the time during his presidency. Manchin, though, voted with Trump just <a href="https://projects.fivethirtyeight.com/congress-trump-score/joe-manchin-iii/" target="_blank" rel="noopener">50.4 percent</a> of the time — a lot for a Democrat, but not a lot considering the partisanship of his home state.</p>
 
 
 
-<p data-paragraph="main">Using the same methodology, we’d have expected a generic replacement for Sinema to vote with Trump just 39.8 percent of the time — a reflection of the purpler partisanship of her state and her congressional district at the time. Yet Sinema voted with him <a href="https://projects.fivethirtyeight.com/congress-trump-score/kyrsten-sinema/" target="_blank" rel="noopener">50.4 percent</a> of the time too, as much as Manchin. That made her the <a href="https://projects.fivethirtyeight.com/congress-trump-score/" target="_blank" rel="noopener">only Democratic senator</a> who voted with Trump significantly<a data-footnote-id="3" href="https://fivethirtyeight.com/wp-json/wp/v2/espn_verticals/398#fn-3" data-footnote-content="&lt;p&gt;&lt;p&gt;More than 5 percentage points more often.&lt;/p&gt;
-&lt;/p&gt;"><sup>3</sup></a> <em>more often</em> than expected based on the politics of senators’ states. Her voting record during the Trump years looked more like Manchin’s, Sen. Joe Donnelly’s, Sen. Heidi Heitkamp’s or Sen. Claire McCaskill’s — all Democrats from substantially redder states.</p>
+<p data-paragraph="main">Using the same methodology, we’d have expected a generic replacement for Sinema to vote with Trump just 39.8 percent of the time — a reflection of the purpler partisanship of her state and her congressional district at the time. Yet Sinema voted with him <a href="https://projects.fivethirtyeight.com/congress-trump-score/kyrsten-sinema/" target="_blank" rel="noopener">50.4 percent</a> of the time too, as much as Manchin. That made her the <a href="https://projects.fivethirtyeight.com/congress-trump-score/" target="_blank" rel="noopener">only Democratic senator</a> who voted with Trump significantly<a data-footnote-id="4" href="https://fivethirtyeight.com/wp-json/wp/v2/espn_verticals/398#fn-4" data-footnote-content="&lt;p&gt;&lt;p&gt;More than 5 percentage points more often.&lt;/p&gt;
+&lt;/p&gt;"><sup>4</sup></a> <em>more often</em> than expected based on the politics of senators’ states. Her voting record during the Trump years looked more like Manchin’s, Sen. Joe Donnelly’s, Sen. Heidi Heitkamp’s or Sen. Claire McCaskill’s — all Democrats from substantially redder states.</p>
 
 
 <div>
@@ -540,9 +754,9 @@
 
 
 
-<p data-paragraph="main">It’s extremely rare for elected incumbent senators to lose their primaries. <a href="https://docs.google.com/spreadsheets/d/1X97S6hUby6PPHAMoEwvAxkAUo8EUwLk8xMosx4hVd8c/htmlview?usp=sharing" target="_blank" rel="noopener">Only five have done so this century</a>: Republican Sen. Bob Smith in 2002, Democratic Sen. Joe Lieberman in 2006, Democratic Sen. Arlen Specter in 2010, Republican Sen. Lisa Murkowski in 2010<a data-footnote-id="4" href="https://fivethirtyeight.com/wp-json/wp/v2/espn_verticals/398#fn-4" data-footnote-content="&lt;p&gt;&lt;p&gt;Lieberman and Murkowski, however, went on to win their general elections as independents.&lt;/p&gt;
-&lt;/p&gt;"><sup>4</sup></a> and Republican Sen. Richard Lugar in 2012.<a data-footnote-id="5" href="https://fivethirtyeight.com/wp-json/wp/v2/espn_verticals/398#fn-5" data-footnote-content="&lt;p&gt;&lt;p&gt; In addition, appointed Sen. Luther Strange lost the Alabama Republican primary in 2017, and Sen. Bob Bennett lost renomination at the Utah Republican convention in 2010.&lt;/p&gt;
-&lt;/p&gt;"><sup>5</sup></a> But it’s also rare for incumbent senators to poll as poorly among their own party’s voters as Sinema does. In addition to the OH Predictive Insights poll, Democratic registered voters in Arizona gave her a 46 percent favorable rating and a 40 percent unfavorable rating in a <a href="https://morningconsult.com/2021/10/04/sinema-manchin-approval-rating/" target="_blank" rel="noopener">Morning Consult</a> survey conducted across July, August and September. And Democratic pollster <a href="https://www.dailykos.com/stories/2021/9/27/2054753/-Sinema-s-unforced-errors-have-cost-her-big-time-with-Arizona-Democrats" target="_blank" rel="noopener">Civiqs</a> recently found her severely underwater among the same population: 17 percent favorable to 65 percent unfavorable. </p>
+<p data-paragraph="main">It’s extremely rare for elected incumbent senators to lose their primaries. <a href="https://docs.google.com/spreadsheets/d/1X97S6hUby6PPHAMoEwvAxkAUo8EUwLk8xMosx4hVd8c/htmlview?usp=sharing" target="_blank" rel="noopener">Only five have done so this century</a>: Republican Sen. Bob Smith in 2002, Democratic Sen. Joe Lieberman in 2006, Democratic Sen. Arlen Specter in 2010, Republican Sen. Lisa Murkowski in 2010<a data-footnote-id="5" href="https://fivethirtyeight.com/wp-json/wp/v2/espn_verticals/398#fn-5" data-footnote-content="&lt;p&gt;&lt;p&gt;Lieberman and Murkowski, however, went on to win their general elections as independents.&lt;/p&gt;
+&lt;/p&gt;"><sup>5</sup></a> and Republican Sen. Richard Lugar in 2012.<a data-footnote-id="6" href="https://fivethirtyeight.com/wp-json/wp/v2/espn_verticals/398#fn-6" data-footnote-content="&lt;p&gt;&lt;p&gt; In addition, appointed Sen. Luther Strange lost the Alabama Republican primary in 2017, and Sen. Bob Bennett lost renomination at the Utah Republican convention in 2010.&lt;/p&gt;
+&lt;/p&gt;"><sup>6</sup></a> But it’s also rare for incumbent senators to poll as poorly among their own party’s voters as Sinema does. In addition to the OH Predictive Insights poll, Democratic registered voters in Arizona gave her a 46 percent favorable rating and a 40 percent unfavorable rating in a <a href="https://morningconsult.com/2021/10/04/sinema-manchin-approval-rating/" target="_blank" rel="noopener">Morning Consult</a> survey conducted across July, August and September. And Democratic pollster <a href="https://www.dailykos.com/stories/2021/9/27/2054753/-Sinema-s-unforced-errors-have-cost-her-big-time-with-Arizona-Democrats" target="_blank" rel="noopener">Civiqs</a> recently found her severely underwater among the same population: 17 percent favorable to 65 percent unfavorable. </p>
 
 
 
@@ -1147,13 +1361,13 @@ Some sectors have been able to adjust (more or less) to the realities of the pan
 
 
 
-<ul><li>A <a href="https://www.pewresearch.org/fact-tank/2021/10/06/two-thirds-of-republicans-want-trump-to-retain-major-political-role-44-want-him-to-run-again-in-2024/">Pew Research Center survey</a> from September found that 67 percent of Republicans would like to see former President Donald Trump remain as a major national political figure. That’s up 10 percentage points from a poll conducted by Pew just after the Jan. 6 insurrection at the U.S. Capitol. </li><li>A recent <a href="https://emersonpolling.reportablenews.com/pr/virginia-2021-dead-heat-in-governor-and-attorney-general-race">Emerson College/Nexstar Media poll</a> showed a tied race for Virginia’s upcoming gubernatorial election, with 49 percent of likely voters supporting Democrat Terry McAuliffe and 49 percent supporting Republican Glenn Youngkin. FiveThirtyEight’s updating average of <a href="https://projects.fivethirtyeight.com/polls/governor/virginia/">Virginia governor polls</a> currently has McAuliffe at 47.5 percent<strong> </strong>and Youngkin at 45 percent.<a data-footnote-id="6" href="https://fivethirtyeight.com/wp-json/wp/v2/espn_verticals/398#fn-6" data-footnote-content="&lt;p&gt;&lt;p&gt;As of 5 p.m. Eastern on Thursday.&lt;/p&gt;
-&lt;/p&gt;"><sup>6</sup></a></li><li>Americans want to get spooky again this Halloween. Per a <a href="https://morningconsult.com/2021/10/06/halloween-costumes-parties-candy-2021/">new Morning Consult poll</a>, 56 percent of adults said they planned to celebrate Halloween this year, up 14 points from those who planned to celebrate in 2020. This year’s share of celebrating adults is more in line with pre-COVID-19 levels — 57 percent of surveyed Americans said they celebrated Halloween in 2019. </li><li>A majority of Americans view both major political parties unfavorably. Per a <a href="https://news.gallup.com/poll/355280/party-favorable-ratings-near-parity-viewed-negatively.aspx">recently released Gallup poll</a>, 55 percent of surveyed adults said they had an unfavorable view of the Democratic Party and 56 percent an unfavorable view of the Republican Party. That being said, the GOP’s favorability rating (now 40 percent) increased 3 points between January and September, while the Democratic Party’s favorability (now 43 percent) dropped by 5 points during the same time period.</li><li>Arizona Sen. Kyrsten Sinema’s popularity may be suffering from her opposition to the Democrats’ proposed spending bill, according to <a href="https://morningconsult.com/2021/10/04/sinema-manchin-approval-rating/">a new Morning Consult poll</a>. Sinema’s approval among Arizona voters dropped 6 percentage points since the start of the year, from 48 percent to 42 percent. This drop left voter disapproval of Sinema equal to voter approval of her, at 42 percent. Sinema’s disapproval rating <em>among Democrats</em> dropped 20 points from the beginning of the year, to 40 percent now. But her disapproval among Democrats was somewhat offset by her improved approval rating among Republicans, which increased by 9 points.</li><li>As President Biden and the Democrats continue to negotiate the reconciliation bill — and hold off voting on the bipartisan infrastructure bill — approval of how Biden has handled rebuilding the country’s infrastructure has dipped, according to a new <a href="https://www.ipsos.com/sites/default/files/ct/news/documents/2021-09/topline-abc-biden-approval-09.29.21.pdf">ABC News/Ipsos poll</a>. A majority of Americans (55 percent) approved of Biden’s handling of U.S. infrastructure, but that’s down 7 points since August. Democrats are hoping to pass the bipartisan infrastructure bill and reconciliation bill <a href="https://www.cnbc.com/2021/10/04/schumer-aims-to-pass-biden-infrastructure-build-back-better-plans-in-october.html">by the end of October</a>.</li><li>Facebook <a href="https://about.instagram.com/blog/announcements/pausing-instagram-kids">paused its development of Instagram Kids</a> — a version of the app made specifically for children under 13 years old. The Sept. 27 pause followed the leak of internal studies — by recently revealed <a href="https://www.npr.org/2021/10/05/1043194385/whistleblowers-testimony-facebook-instagram">whistleblower Frances Haugen</a> — that had found that <a href="https://www.wsj.com/articles/facebook-knows-instagram-is-toxic-for-teen-girls-company-documents-show-11631620739">Instagram was negatively affecting the mental health of teen girls</a>. For some parents, the pause of Instagram Kids may come as a relief. A recent <a href="https://morningconsult.com/2021/10/05/instagram-kids-social-media-polling/">Morning Consult poll</a> found that 53 percent of parents with kids aged 5 to 13 either strongly or somewhat opposed the creation of Instagram Kids. Additionally, 87 percent of those parents said they were concerned about the impact of social media on the mental health of children. </li><li>A small majority of American adults (51 percent) said there shouldn’t be more government regulation for social media platforms like Facebook, Twitter and YouTube. Sixty-one percent of Republicans agreed with this sentiment, while 59 percent of Democrats disagreed and thought there should be more regulation of these platforms, per a recent <a href="https://poll.qu.edu/images/polling/us/us10052021_uype37.pdf">Quinnipiac University poll</a>.</li></ul><h2><strong>Biden approval</strong></h2>
+<ul><li>A <a href="https://www.pewresearch.org/fact-tank/2021/10/06/two-thirds-of-republicans-want-trump-to-retain-major-political-role-44-want-him-to-run-again-in-2024/">Pew Research Center survey</a> from September found that 67 percent of Republicans would like to see former President Donald Trump remain as a major national political figure. That’s up 10 percentage points from a poll conducted by Pew just after the Jan. 6 insurrection at the U.S. Capitol. </li><li>A recent <a href="https://emersonpolling.reportablenews.com/pr/virginia-2021-dead-heat-in-governor-and-attorney-general-race">Emerson College/Nexstar Media poll</a> showed a tied race for Virginia’s upcoming gubernatorial election, with 49 percent of likely voters supporting Democrat Terry McAuliffe and 49 percent supporting Republican Glenn Youngkin. FiveThirtyEight’s updating average of <a href="https://projects.fivethirtyeight.com/polls/governor/virginia/">Virginia governor polls</a> currently has McAuliffe at 47.5 percent<strong> </strong>and Youngkin at 45 percent.<a data-footnote-id="7" href="https://fivethirtyeight.com/wp-json/wp/v2/espn_verticals/398#fn-7" data-footnote-content="&lt;p&gt;&lt;p&gt;As of 5 p.m. Eastern on Thursday.&lt;/p&gt;
+&lt;/p&gt;"><sup>7</sup></a></li><li>Americans want to get spooky again this Halloween. Per a <a href="https://morningconsult.com/2021/10/06/halloween-costumes-parties-candy-2021/">new Morning Consult poll</a>, 56 percent of adults said they planned to celebrate Halloween this year, up 14 points from those who planned to celebrate in 2020. This year’s share of celebrating adults is more in line with pre-COVID-19 levels — 57 percent of surveyed Americans said they celebrated Halloween in 2019. </li><li>A majority of Americans view both major political parties unfavorably. Per a <a href="https://news.gallup.com/poll/355280/party-favorable-ratings-near-parity-viewed-negatively.aspx">recently released Gallup poll</a>, 55 percent of surveyed adults said they had an unfavorable view of the Democratic Party and 56 percent an unfavorable view of the Republican Party. That being said, the GOP’s favorability rating (now 40 percent) increased 3 points between January and September, while the Democratic Party’s favorability (now 43 percent) dropped by 5 points during the same time period.</li><li>Arizona Sen. Kyrsten Sinema’s popularity may be suffering from her opposition to the Democrats’ proposed spending bill, according to <a href="https://morningconsult.com/2021/10/04/sinema-manchin-approval-rating/">a new Morning Consult poll</a>. Sinema’s approval among Arizona voters dropped 6 percentage points since the start of the year, from 48 percent to 42 percent. This drop left voter disapproval of Sinema equal to voter approval of her, at 42 percent. Sinema’s disapproval rating <em>among Democrats</em> dropped 20 points from the beginning of the year, to 40 percent now. But her disapproval among Democrats was somewhat offset by her improved approval rating among Republicans, which increased by 9 points.</li><li>As President Biden and the Democrats continue to negotiate the reconciliation bill — and hold off voting on the bipartisan infrastructure bill — approval of how Biden has handled rebuilding the country’s infrastructure has dipped, according to a new <a href="https://www.ipsos.com/sites/default/files/ct/news/documents/2021-09/topline-abc-biden-approval-09.29.21.pdf">ABC News/Ipsos poll</a>. A majority of Americans (55 percent) approved of Biden’s handling of U.S. infrastructure, but that’s down 7 points since August. Democrats are hoping to pass the bipartisan infrastructure bill and reconciliation bill <a href="https://www.cnbc.com/2021/10/04/schumer-aims-to-pass-biden-infrastructure-build-back-better-plans-in-october.html">by the end of October</a>.</li><li>Facebook <a href="https://about.instagram.com/blog/announcements/pausing-instagram-kids">paused its development of Instagram Kids</a> — a version of the app made specifically for children under 13 years old. The Sept. 27 pause followed the leak of internal studies — by recently revealed <a href="https://www.npr.org/2021/10/05/1043194385/whistleblowers-testimony-facebook-instagram">whistleblower Frances Haugen</a> — that had found that <a href="https://www.wsj.com/articles/facebook-knows-instagram-is-toxic-for-teen-girls-company-documents-show-11631620739">Instagram was negatively affecting the mental health of teen girls</a>. For some parents, the pause of Instagram Kids may come as a relief. A recent <a href="https://morningconsult.com/2021/10/05/instagram-kids-social-media-polling/">Morning Consult poll</a> found that 53 percent of parents with kids aged 5 to 13 either strongly or somewhat opposed the creation of Instagram Kids. Additionally, 87 percent of those parents said they were concerned about the impact of social media on the mental health of children. </li><li>A small majority of American adults (51 percent) said there shouldn’t be more government regulation for social media platforms like Facebook, Twitter and YouTube. Sixty-one percent of Republicans agreed with this sentiment, while 59 percent of Democrats disagreed and thought there should be more regulation of these platforms, per a recent <a href="https://poll.qu.edu/images/polling/us/us10052021_uype37.pdf">Quinnipiac University poll</a>.</li></ul><h2><strong>Biden approval</strong></h2>
 
 
 
-<figure><img loading="lazy" width="1150" height="920" src="https://fivethirtyeight.com/wp-content/uploads/2021/10/biden-approval-rating-2.png" alt="" data-src="https://fivethirtyeight.com/wp-content/uploads/2021/10/biden-approval-rating-2.png" data-srcset="https://fivethirtyeight.com/wp-content/uploads/2021/10/biden-approval-rating-2.png?w=700 1x, https://fivethirtyeight.com/wp-content/uploads/2021/10/biden-approval-rating-2.png?w=1400 2x"></figure><p data-paragraph="main">According to FiveThirtyEight’s <a href="https://projects.fivethirtyeight.com/biden-approval-rating/" target="_blank" rel="noopener">presidential approval tracker</a>, 44.2 percent of Americans approve of the job Biden is doing as president, while 48.3 percent disapprove (a net approval rating of -4.1 points).<a data-footnote-id="7" href="https://fivethirtyeight.com/wp-json/wp/v2/espn_verticals/398#fn-7" data-footnote-content="&lt;p&gt;&lt;p&gt;As of 5 p.m. Eastern on Thursday.&lt;/p&gt;
-&lt;/p&gt;"><sup>7</sup></a> At this time <a href="https://fivethirtyeight.com/features/what-americans-think-about-the-fight-over-the-debt-ceiling/" target="_blank" rel="noopener">last week</a>, 44.8 percent approved and 48.6 percent disapproved (a net approval rating of -3.8 points). One month ago, Biden had an approval rating of 45.0 percent and a disapproval rating of 49.1 percent (a net approval rating of -4.1 points).</p>
+<figure><img loading="lazy" width="1150" height="920" src="https://fivethirtyeight.com/wp-content/uploads/2021/10/biden-approval-rating-2.png" alt="" data-src="https://fivethirtyeight.com/wp-content/uploads/2021/10/biden-approval-rating-2.png" data-srcset="https://fivethirtyeight.com/wp-content/uploads/2021/10/biden-approval-rating-2.png?w=700 1x, https://fivethirtyeight.com/wp-content/uploads/2021/10/biden-approval-rating-2.png?w=1400 2x"></figure><p data-paragraph="main">According to FiveThirtyEight’s <a href="https://projects.fivethirtyeight.com/biden-approval-rating/" target="_blank" rel="noopener">presidential approval tracker</a>, 44.2 percent of Americans approve of the job Biden is doing as president, while 48.3 percent disapprove (a net approval rating of -4.1 points).<a data-footnote-id="8" href="https://fivethirtyeight.com/wp-json/wp/v2/espn_verticals/398#fn-8" data-footnote-content="&lt;p&gt;&lt;p&gt;As of 5 p.m. Eastern on Thursday.&lt;/p&gt;
+&lt;/p&gt;"><sup>8</sup></a> At this time <a href="https://fivethirtyeight.com/features/what-americans-think-about-the-fight-over-the-debt-ceiling/" target="_blank" rel="noopener">last week</a>, 44.8 percent approved and 48.6 percent disapproved (a net approval rating of -3.8 points). One month ago, Biden had an approval rating of 45.0 percent and a disapproval rating of 49.1 percent (a net approval rating of -4.1 points).</p>
 
 
 
@@ -1161,8 +1375,8 @@ Some sectors have been able to adjust (more or less) to the realities of the pan
 
 
 
-<figure><img loading="lazy" width="1150" height="920" src="https://fivethirtyeight.com/wp-content/uploads/2021/10/generic-ballot-2.png" alt="" data-src="https://fivethirtyeight.com/wp-content/uploads/2021/10/generic-ballot-2.png" data-srcset="https://fivethirtyeight.com/wp-content/uploads/2021/10/generic-ballot-2.png?w=700 1x, https://fivethirtyeight.com/wp-content/uploads/2021/10/generic-ballot-2.png?w=1400 2x"></figure><p data-paragraph="main">In our average of polls of the <a href="https://projects.fivethirtyeight.com/congress-generic-ballot-polls/" target="_blank" rel="noopener">generic congressional ballot</a>, Democrats currently lead Republicans by 2.8 percentage points (44.7 percent to 41.9 percent, respectively).<a data-footnote-id="8" href="https://fivethirtyeight.com/wp-json/wp/v2/espn_verticals/398#fn-8" data-footnote-content="&lt;p&gt;&lt;p&gt;As of 5 p.m. Eastern on Thursday.&lt;/p&gt;
-&lt;/p&gt;"><sup>8</sup></a> <a href="https://fivethirtyeight.com/features/what-americans-think-about-the-fight-over-the-debt-ceiling/" target="_blank" rel="noopener">A week ago</a>, Democrats led Republicans by 3.3 points (45.0 percent to 41.7 percent). At this time last month, voters preferred Democrats over Republicans by 2.8 points (43.9 percent to 41.0 percent).</p>
+<figure><img loading="lazy" width="1150" height="920" src="https://fivethirtyeight.com/wp-content/uploads/2021/10/generic-ballot-2.png" alt="" data-src="https://fivethirtyeight.com/wp-content/uploads/2021/10/generic-ballot-2.png" data-srcset="https://fivethirtyeight.com/wp-content/uploads/2021/10/generic-ballot-2.png?w=700 1x, https://fivethirtyeight.com/wp-content/uploads/2021/10/generic-ballot-2.png?w=1400 2x"></figure><p data-paragraph="main">In our average of polls of the <a href="https://projects.fivethirtyeight.com/congress-generic-ballot-polls/" target="_blank" rel="noopener">generic congressional ballot</a>, Democrats currently lead Republicans by 2.8 percentage points (44.7 percent to 41.9 percent, respectively).<a data-footnote-id="9" href="https://fivethirtyeight.com/wp-json/wp/v2/espn_verticals/398#fn-9" data-footnote-content="&lt;p&gt;&lt;p&gt;As of 5 p.m. Eastern on Thursday.&lt;/p&gt;
+&lt;/p&gt;"><sup>9</sup></a> <a href="https://fivethirtyeight.com/features/what-americans-think-about-the-fight-over-the-debt-ceiling/" target="_blank" rel="noopener">A week ago</a>, Democrats led Republicans by 3.3 points (45.0 percent to 41.7 percent). At this time last month, voters preferred Democrats over Republicans by 2.8 points (43.9 percent to 41.0 percent).</p>
 
 
 
@@ -1822,8 +2036,8 @@ Some sectors have been able to adjust (more or less) to the realities of the pan
 <p>Watch: https://abcnews.go.com/ThisWeek/video/bidens-lower-approval-numbers-normal-dems-silver-79975518</p>
 
 
-<p data-paragraph="main">Accordingly, there may be no easy fix for Biden. Even an improvement in the COVID-19 situation may not improve his political fortunes: According to <a href="https://www.nytimes.com/interactive/2021/us/covid-cases.html" target="_blank" rel="noopener">data compiled by The New York Times</a>, the rolling average of newly detected COVID-19 cases nationally has decreased since mid-September, but <a href="https://projects.fivethirtyeight.com/coronavirus-polls/" target="_blank" rel="noopener">Biden’s average approval rating on the issue of the coronavirus</a> has remained steady. (As of Oct. 5,<a data-footnote-id="9" href="https://fivethirtyeight.com/wp-json/wp/v2/espn_verticals/398#fn-9" data-footnote-content="&lt;p&gt;&lt;p&gt;At 5 p.m. Eastern.&lt;/p&gt;
-&lt;/p&gt;"><sup>9</sup></a> 50.5 percent of Americans approved of his handling of the pandemic, and 40.7 percent disapproved.) </p>
+<p data-paragraph="main">Accordingly, there may be no easy fix for Biden. Even an improvement in the COVID-19 situation may not improve his political fortunes: According to <a href="https://www.nytimes.com/interactive/2021/us/covid-cases.html" target="_blank" rel="noopener">data compiled by The New York Times</a>, the rolling average of newly detected COVID-19 cases nationally has decreased since mid-September, but <a href="https://projects.fivethirtyeight.com/coronavirus-polls/" target="_blank" rel="noopener">Biden’s average approval rating on the issue of the coronavirus</a> has remained steady. (As of Oct. 5,<a data-footnote-id="10" href="https://fivethirtyeight.com/wp-json/wp/v2/espn_verticals/398#fn-10" data-footnote-content="&lt;p&gt;&lt;p&gt;At 5 p.m. Eastern.&lt;/p&gt;
+&lt;/p&gt;"><sup>10</sup></a> 50.5 percent of Americans approved of his handling of the pandemic, and 40.7 percent disapproved.) </p>
 
 
 
@@ -1831,8 +2045,8 @@ Some sectors have been able to adjust (more or less) to the realities of the pan
 
 
 
-<p data-paragraph="main">Other news developments could help or hurt Biden politically as well, such as whether Democrats in Congress pass their infrastructure and budget reconciliation bills or if the government defaults on its debt. So we’ll have to wait and see what happens to Biden’s approval rating going forward — which will be important for, among other reasons, assessing <a href="https://fivethirtyeight.com/features/why-democrats-in-congress-need-bidens-approval-rating-to-stay-in-the-mid-50s/" target="_blank" rel="noopener">how big of a shellacking Democrats will receive in the 2022 midterm elections</a> (or if they will receive one at all). But for now at least, Biden has a lower approval rating at this point in his term than all but two presidents<a data-footnote-id="10" href="https://fivethirtyeight.com/wp-json/wp/v2/espn_verticals/398#fn-10" data-footnote-content="&lt;p&gt;&lt;p&gt;Gerald Ford and Trump.&lt;/p&gt;
-&lt;/p&gt;"><sup>10</sup></a> since 1945, so if he’s going to regain his popularity, he’s got an unusually big hole to dig himself out of.</p>
+<p data-paragraph="main">Other news developments could help or hurt Biden politically as well, such as whether Democrats in Congress pass their infrastructure and budget reconciliation bills or if the government defaults on its debt. So we’ll have to wait and see what happens to Biden’s approval rating going forward — which will be important for, among other reasons, assessing <a href="https://fivethirtyeight.com/features/why-democrats-in-congress-need-bidens-approval-rating-to-stay-in-the-mid-50s/" target="_blank" rel="noopener">how big of a shellacking Democrats will receive in the 2022 midterm elections</a> (or if they will receive one at all). But for now at least, Biden has a lower approval rating at this point in his term than all but two presidents<a data-footnote-id="11" href="https://fivethirtyeight.com/wp-json/wp/v2/espn_verticals/398#fn-11" data-footnote-content="&lt;p&gt;&lt;p&gt;Gerald Ford and Trump.&lt;/p&gt;
+&lt;/p&gt;"><sup>11</sup></a> since 1945, so if he’s going to regain his popularity, he’s got an unusually big hole to dig himself out of.</p>
 
 
 <p>Watch: https://abcnews.go.com/fivethirtyeight/video/bidens-approval-rating-fallen-fivethirtyeight-politics-podcast-79388894</p>
@@ -2223,8 +2437,8 @@ Some sectors have been able to adjust (more or less) to the realities of the pan
 
 
 
-<figure><img loading="lazy" width="1150" height="920" src="https://fivethirtyeight.com/wp-content/uploads/2021/09/biden-approval-rating-2-5.png" alt="" data-src="https://fivethirtyeight.com/wp-content/uploads/2021/09/biden-approval-rating-2-5.png" data-srcset="https://fivethirtyeight.com/wp-content/uploads/2021/09/biden-approval-rating-2-5.png?w=700 1x, https://fivethirtyeight.com/wp-content/uploads/2021/09/biden-approval-rating-2-5.png?w=1400 2x"></figure><p data-paragraph="main">According to FiveThirtyEight’s <a href="https://projects.fivethirtyeight.com/biden-approval-rating/" target="_blank" rel="noopener">presidential approval tracker</a>,<a data-footnote-id="11" href="https://fivethirtyeight.com/wp-json/wp/v2/espn_verticals/398#fn-11" data-footnote-content="&lt;p&gt;&lt;p&gt;As of 5 p.m. Eastern on Thursday.&lt;/p&gt;
-&lt;/p&gt;"><sup>11</sup></a> 44.8 percent of Americans approve of the job Biden is doing as president, while 48.6 percent disapprove (a net approval rating of -3.8 points). At this time <a href="https://fivethirtyeight.com/features/after-nearly-16-years-as-germanys-chancellor-angela-merkel-has-no-clear-successor-in-sundays-election/" target="_blank" rel="noopener">last week</a>, 45.8 percent approved and 48.7 percent disapproved (a net approval rating of -2.9 points). One month ago, Biden had an approval rating of 47.0 percent and a disapproval rating of 47.6 percent (a net approval rating of -0.7 points).</p>
+<figure><img loading="lazy" width="1150" height="920" src="https://fivethirtyeight.com/wp-content/uploads/2021/09/biden-approval-rating-2-5.png" alt="" data-src="https://fivethirtyeight.com/wp-content/uploads/2021/09/biden-approval-rating-2-5.png" data-srcset="https://fivethirtyeight.com/wp-content/uploads/2021/09/biden-approval-rating-2-5.png?w=700 1x, https://fivethirtyeight.com/wp-content/uploads/2021/09/biden-approval-rating-2-5.png?w=1400 2x"></figure><p data-paragraph="main">According to FiveThirtyEight’s <a href="https://projects.fivethirtyeight.com/biden-approval-rating/" target="_blank" rel="noopener">presidential approval tracker</a>,<a data-footnote-id="12" href="https://fivethirtyeight.com/wp-json/wp/v2/espn_verticals/398#fn-12" data-footnote-content="&lt;p&gt;&lt;p&gt;As of 5 p.m. Eastern on Thursday.&lt;/p&gt;
+&lt;/p&gt;"><sup>12</sup></a> 44.8 percent of Americans approve of the job Biden is doing as president, while 48.6 percent disapprove (a net approval rating of -3.8 points). At this time <a href="https://fivethirtyeight.com/features/after-nearly-16-years-as-germanys-chancellor-angela-merkel-has-no-clear-successor-in-sundays-election/" target="_blank" rel="noopener">last week</a>, 45.8 percent approved and 48.7 percent disapproved (a net approval rating of -2.9 points). One month ago, Biden had an approval rating of 47.0 percent and a disapproval rating of 47.6 percent (a net approval rating of -0.7 points).</p>
 
 
 
@@ -2232,8 +2446,8 @@ Some sectors have been able to adjust (more or less) to the realities of the pan
 
 
 
-<figure><img loading="lazy" width="1150" height="920" src="https://fivethirtyeight.com/wp-content/uploads/2021/09/generic-ballot-2-1.png" alt="" data-src="https://fivethirtyeight.com/wp-content/uploads/2021/09/generic-ballot-2-1.png" data-srcset="https://fivethirtyeight.com/wp-content/uploads/2021/09/generic-ballot-2-1.png?w=700 1x, https://fivethirtyeight.com/wp-content/uploads/2021/09/generic-ballot-2-1.png?w=1400 2x"></figure><p data-paragraph="main">In our average of polls of the <a href="https://projects.fivethirtyeight.com/congress-generic-ballot-polls/" target="_blank" rel="noopener">generic congressional ballot</a>,<a data-footnote-id="12" href="https://fivethirtyeight.com/wp-json/wp/v2/espn_verticals/398#fn-12" data-footnote-content="&lt;p&gt;&lt;p&gt;As of 5 p.m. Eastern on Thursday.&lt;/p&gt;
-&lt;/p&gt;"><sup>12</sup></a> Democrats currently lead Republicans by 3.3 percentage points (45.0 percent to 41.7 percent, respectively). <a href="https://fivethirtyeight.com/features/after-nearly-16-years-as-germanys-chancellor-angela-merkel-has-no-clear-successor-in-sundays-election/" target="_blank" rel="noopener">A week ago</a>, Democrats led Republicans by 2.7 points (44.4 percent to 41.8 percent). At this time last month, voters preferred Democrats over Republicans by 3.4 points (43.8 percent to 40.4 percent).</p>
+<figure><img loading="lazy" width="1150" height="920" src="https://fivethirtyeight.com/wp-content/uploads/2021/09/generic-ballot-2-1.png" alt="" data-src="https://fivethirtyeight.com/wp-content/uploads/2021/09/generic-ballot-2-1.png" data-srcset="https://fivethirtyeight.com/wp-content/uploads/2021/09/generic-ballot-2-1.png?w=700 1x, https://fivethirtyeight.com/wp-content/uploads/2021/09/generic-ballot-2-1.png?w=1400 2x"></figure><p data-paragraph="main">In our average of polls of the <a href="https://projects.fivethirtyeight.com/congress-generic-ballot-polls/" target="_blank" rel="noopener">generic congressional ballot</a>,<a data-footnote-id="13" href="https://fivethirtyeight.com/wp-json/wp/v2/espn_verticals/398#fn-13" data-footnote-content="&lt;p&gt;&lt;p&gt;As of 5 p.m. Eastern on Thursday.&lt;/p&gt;
+&lt;/p&gt;"><sup>13</sup></a> Democrats currently lead Republicans by 3.3 percentage points (45.0 percent to 41.7 percent, respectively). <a href="https://fivethirtyeight.com/features/after-nearly-16-years-as-germanys-chancellor-angela-merkel-has-no-clear-successor-in-sundays-election/" target="_blank" rel="noopener">A week ago</a>, Democrats led Republicans by 2.7 points (44.4 percent to 41.8 percent). At this time last month, voters preferred Democrats over Republicans by 3.4 points (43.8 percent to 40.4 percent).</p>
 
 
 <p>Watch: https://abcnews.go.com/fivethirtyeight/video/white-evangelicals-rethinking-politics-fivethirtyeight-80316696</p>
@@ -2852,218 +3066,6 @@ Some sectors have been able to adjust (more or less) to the realities of the pan
 <p data-paragraph="main"><em>The FiveThirtyEight Politics podcast is recorded Mondays and Thursdays. Help new listeners discover the show by </em><a rel="noreferrer noopener" href="https://itunes.apple.com/us/podcast/fivethirtyeight-elections/id1077418457?mt=2" target="_blank"><em>leaving us a rating and review on iTunes</em></a><em>. Have a comment, question or suggestion for “good polling vs. bad polling”? Get in touch by email, </em><a rel="noreferrer noopener" href="https://twitter.com/FiveThirtyEight" target="_blank"><em>on Twitter</em></a><em> or in the comments.</em></p>]]></description>
 			<pubDate>Mon, 27 Sep 2021 23:35:00 +0100</pubDate>
 			<guid isPermaLink="false">1632785402027626</guid>
-		</item>
-		<item>
-			<title>Texas’s New Congressional Map Could Give A Huge Boost To GOP Incumbents</title>
-			<link>https://fivethirtyeight.com/features/texass-new-congressional-map-could-give-a-huge-boost-to-gop-incumbents/</link>
-						<dc:creator>Alex Samuels</dc:creator>
-			<dc:creator>Alex Samuels and Geoffrey Skelley</dc:creator>
-			<category>Redistricting</category>
-			<category>Texas</category>
-			<category>Texas Politics</category>
-			<description><![CDATA[<p data-paragraph="main">On Monday, Texas lawmakers <a href="https://projects.fivethirtyeight.com/redistricting-2022-maps/texas/" target="_blank" rel="noopener">gave a first glimpse</a> at what the state’s new congressional districts may look like. The redrawn map was highly anticipated given that Texas gained two additional congressional seats — <a href="https://fivethirtyeight.com/features/which-states-won-and-lost-seats-in-the-2020-census/" target="_blank" rel="noopener">the most of any state</a> — during the reapportionment process and because Republicans are fully in control of the state’s redistricting process. Yet the new map, if passed, would not substantially alter the topline partisan breakdown of Texas’s seats. It appears that Republican mapmakers prioritized defending the GOP’s current seat advantage over trying to significantly expand it.</p>
-
-
-
-<figure><a href="https://projects.fivethirtyeight.com/redistricting-2022-maps/texas/draft_plan_1/"><img src="https://fivethirtyeight.com/wp-content/uploads/2021/09/TX-Screenshot-1.png" alt="" data-src="https://fivethirtyeight.com/wp-content/uploads/2021/09/TX-Screenshot-1.png" data-srcset="https://fivethirtyeight.com/wp-content/uploads/2021/09/TX-Screenshot-1.png?w=700 1x, https://fivethirtyeight.com/wp-content/uploads/2021/09/TX-Screenshot-1.png?w=1400 2x"></a></figure><p data-paragraph="main">Overall, this map creates 24 solid or likely Republican seats, 13 solid or likely Democratic seats and one swing seat in the Rio Grande Valley. (The state’s two new districts will be placed in the Austin and Houston <a href="https://www.texastribune.org/2016/11/11/analysis-blue-dots-texas-red-political-sea/" target="_blank" rel="noopener">metropolitan areas</a>, as those two areas fueled much of the state’s population growth since 2010.) But this isn’t <em>that</em> much different than what Texas’s map currently looks like: At present, the delegation is made up of 23 Republicans and 13 Democrats.</p>
-
-
-
-<p data-paragraph="main">This is still a very good map for Republicans, though, because mapmakers strengthened the GOP’s advantage in the state by making a number of potentially vulnerable seats held by Republicans much redder, with the newest Houston-area seat also drawn so that it’s favorable to Republican candidates. As the table below shows, the current map has 11 Republican incumbents in seats that were less than 20 points more Republican than the country as a whole, according to FiveThirtyEight’s partisan lean metric.<a data-footnote-id="21" href="https://fivethirtyeight.com/wp-json/wp/v2/espn_verticals/398#fn-21" data-footnote-content="&lt;p&gt;&lt;p&gt;Partisan lean is the average margin difference between how a state or district votes and how the country votes overall. This version of partisan lean, meant to be used for congressional and gubernatorial elections, is calculated as 50 percent the state or district’s lean relative to the nation in the most recent presidential election, 25 percent its relative lean in the second-most-recent presidential election and 25 percent a custom state-legislative lean.&lt;/p&gt;
-&lt;/p&gt;"><sup>21</sup></a> But on the new map, all but one Republican-held seat would be R+20 or stronger for the GOP.</p>
-
-
-<div>
-<section><header><h5>GOP incumbents are protected in Texas’s new proposed map</h5>
- <p>Change in partisan lean in Texas congressional districts held by Republicans, from the current map to the first draft plan proposed by the Texas Legislature</p>
- </header><table data-carpenter-slug="samuels-skelley.texas-redist.1"><thead><tr><th colspan="1"></th>
- <th colspan="2">District</th>
- <th colspan="3">Partisan lean</th>
- </tr><tr><th colspan="1">GOP Incumbent</th>
- <th colspan="1">Old</th>
- <th colspan="1">New</th>
- <th colspan="1">Old</th>
- <th colspan="1">New</th>
- <th colspan="1">Change</th>
- </tr></thead><tbody><tr><td>Beth Van Duyne</td>
- <td>TX-24</td>
- <td>TX-24</td>
- <td>R+3.5</td>
- <td>R+22.3</td>
- <td>R+18.8</td>
- </tr><tr><td>Dan Crenshaw</td>
- <td>TX-02</td>
- <td>TX-38</td>
- <td>R+9.1</td>
- <td>R+26.6</td>
- <td>R+17.6</td>
- </tr><tr><td>John Carter</td>
- <td>TX-31</td>
- <td>TX-31</td>
- <td>R+11.2</td>
- <td>R+27.3</td>
- <td>R+16.1</td>
- </tr><tr><td>Roger Williams</td>
- <td>TX-25</td>
- <td>TX-25</td>
- <td>R+16.4</td>
- <td>R+31.8</td>
- <td>R+15.4</td>
- </tr><tr><td>Troy Nehls</td>
- <td>TX-22</td>
- <td>TX-22</td>
- <td>R+8.3</td>
- <td>R+23.7</td>
- <td>R+15.3</td>
- </tr><tr><td>Michael McCaul</td>
- <td>TX-10</td>
- <td>TX-10</td>
- <td>R+9.2</td>
- <td>R+24.5</td>
- <td>R+15.2</td>
- </tr><tr><td>Chip Roy</td>
- <td>TX-21</td>
- <td>TX-21</td>
- <td>R+10.2</td>
- <td>R+24.5</td>
- <td>R+14.2</td>
- </tr><tr><td>Van Taylor</td>
- <td>TX-03</td>
- <td>TX-03</td>
- <td>R+10.5</td>
- <td>R+23.6</td>
- <td>R+13.0</td>
- </tr><tr><td>Randy Weber</td>
- <td>TX-14</td>
- <td>TX-14</td>
- <td>R+24.6</td>
- <td>R+35.3</td>
- <td>R+10.6</td>
- </tr><tr><td>Jake Ellzey</td>
- <td>TX-06</td>
- <td>TX-06</td>
- <td>R+11.2</td>
- <td>R+21.0</td>
- <td>R+9.8</td>
- </tr><tr><td>Pete Sessions</td>
- <td>TX-17</td>
- <td>TX-17</td>
- <td>R+18.2</td>
- <td>R+26.2</td>
- <td>R+7.9</td>
- </tr><tr><td>Tony Gonzales</td>
- <td>TX-23</td>
- <td>TX-23</td>
- <td>R+5.1</td>
- <td>R+12.8</td>
- <td>R+7.7</td>
- </tr><tr><td>Michael Burgess</td>
- <td>TX-26</td>
- <td>TX-26</td>
- <td>R+23.3</td>
- <td>R+26.4</td>
- <td>R+3.0</td>
- </tr><tr><td>Jodey Arrington</td>
- <td>TX-19</td>
- <td>TX-19</td>
- <td>R+52.1</td>
- <td>R+53.3</td>
- <td>R+1.3</td>
- </tr><tr><td>Louie Gohmert</td>
- <td>TX-01</td>
- <td>TX-01</td>
- <td>R+50.3</td>
- <td>R+49.9</td>
- <td>D+0.4</td>
- </tr><tr><td>Michael Cloud</td>
- <td>TX-27</td>
- <td>TX-27</td>
- <td>R+28.8</td>
- <td>R+27.8</td>
- <td>D+1</td>
- </tr><tr><td>Lance Gooden</td>
- <td>TX-05</td>
- <td>TX-05</td>
- <td>R+29.8</td>
- <td>R+27.0</td>
- <td>D+2.8</td>
- </tr><tr><td>Kay Granger</td>
- <td>TX-12</td>
- <td>TX-12</td>
- <td>R+30.2</td>
- <td>R+24.3</td>
- <td>D+5.9</td>
- </tr><tr><td>Brian Babin</td>
- <td>TX-36</td>
- <td>TX-36</td>
- <td>R+50.7</td>
- <td>R+34.9</td>
- <td>D+15.8</td>
- </tr><tr><td>Kevin Brady*</td>
- <td>TX-08</td>
- <td>TX-02</td>
- <td>R+49.7</td>
- <td>R+29.9</td>
- <td>D+19.8</td>
- </tr><tr><td>Ronny Jackson</td>
- <td>TX-13</td>
- <td>TX-13</td>
- <td>R+65.9</td>
- <td>R+45.1</td>
- <td>D+20.8</td>
- </tr><tr><td>August Pfluger</td>
- <td>TX-11</td>
- <td>TX-11</td>
- <td>R+64.3</td>
- <td>R+41.0</td>
- <td>D+23.3</td>
- </tr><tr><td>Pat Fallon</td>
- <td>TX-04</td>
- <td>TX-04</td>
- <td>R+56.3</td>
- <td>R+29.7</td>
- <td>D+26.7</td>
- </tr></tbody></table><footer><p>*Incumbent is retiring.</p>
- <p>Incumbents were placed in the district that contains the largest population share of their old district. They may not necessarily seek reelection in that district.</p>
- <p>Partisan lean is the average margin difference between how a state or district votes and how the country votes overall. This version of partisan lean, meant to be used for congressional and gubernatorial elections, is calculated as 50 percent the state or district’s lean relative to the nation in the most recent presidential election, 25 percent its relative lean in the second-most-recent presidential election and 25 percent a custom state-legislative lean.</p>
- </footer></section></div>
-
-
-<p data-paragraph="main">Given that the GOP controls the redistricting process in Texas, it might seem strange that it wasn’t more aggressive in trying to flip a seat or two held by Democrats. But population growth and demographic shifts in Texas <a href="https://fivethirtyeight.com/features/where-america-lost-and-gained-population-could-throw-democrats-a-redistricting-lifeline/" target="_blank" rel="noopener">have arguably benefited Democrats</a> so significantly that Republican mapmakers were mostly left playing defense — concerned that some GOP incumbents might soon become vulnerable.</p>
-
-
-
-<p data-paragraph="main">At the top of that list is Rep. Beth Van Duyne, the only Texas Republican defending a seat that President Biden carried in 2020. The new map lines, however, would shift Van Duyne’s district between Dallas and Fort Worth nearly 20 points to the right, meaning that she likely has far more to worry about in a primary than in a general election now after winning by only <a href="https://www.nytimes.com/interactive/2020/11/03/us/elections/results-texas-house-district-24.html" target="_blank" rel="noopener">1.3 points</a> last November. </p>
-
-
-
-<p data-paragraph="main">Three other Republican incumbents in seats that were less than R+10 also saw their districts move at least 15 points to the right. Rep. Dan Crenshaw ranks among these members, although it’s not clear which seat he may run in: About one-third of his current district is in the new 38th District, but the same is true of the new 2nd District, too, which may also be open, considering Rep. Kevin Brady of the <a href="https://www.cnn.com/2021/04/14/politics/kevin-brady-retirement/index.html" target="_blank" rel="noopener">current 8th District is retiring</a>. Either way, Crenshaw — <a href="https://www.politico.com/magazine/story/2019/03/02/is-dan-crenshaw-the-future-of-the-gop-225257/" target="_blank" rel="noopener">a rising star in the GOP</a> — would be far safer than he is now. </p>
-
-
-
-<p data-paragraph="main">Rep. Tony Gonzales of the 23rd District is the only Republican incumbent who wouldn’t end up in a seat that’s at least R+20, but his perennial battleground district would be reforged into a relative GOP stronghold: His district would be R+13 under the new lines. Like Van Duyne, Gonzalez would breathe far easier under this new map, after he only won by <a href="https://www.nytimes.com/interactive/2020/11/03/us/elections/results-texas-house-district-23.html" target="_blank" rel="noopener">4 points</a> in 2020.</p>
-
-
-
-<p data-paragraph="main">In order to make many of these seats safer for Republicans, GOP lawmakers moved more Democratic voters into seats that the <a href="https://www.nrcc.org/2021/08/24/lizzie-fletcher-and-colin-allred-are-doomed/" target="_blank" rel="noopener">GOP had previously targeted</a> but now seem to have abandoned. For example, the seat held by Democrat Lizzie Fletcher, who <a href="https://www.texastribune.org/2018/11/06/democrat-lizzie-fletcher-against-texas-gop-congressman-john-culberson/" target="_blank" rel="noopener">unseated a Republican incumbent</a> in 2018, would go from D+1 to D+25. Meanwhile, the Dallas-area seat represented by Democrat Colin Allred, <a href="https://www.texastribune.org/2018/11/06/democrat-colin-allred-leads-gop-congressman-pete-sessions-texas/" target="_blank" rel="noopener">who similarly ousted</a> a Republican incumbent in 2018, would go from D+2 to D+25. It’s a similar story for almost every other Texas Democrat under this plan. (In some instances, Republican mapmakers also made some super-red seats a slightly paler shade, “unpacking” some GOP voters to boost Republican-held seats. For instance, Rep. Van Taylor’s 3rd District outside of Dallas shifted east to take some red turf from Rep. Pat Fallon’s 4th District.)</p>
-
-
-
-<p data-paragraph="main">One of the biggest takeaways from this map is that almost every seat — Democratic or Republican — would be uncompetitive at its baseline. All but two seats would lean at least 10 points more Democratic or Republican than the country as a whole. </p>
-
-
-
-<p data-paragraph="main">And it’s heavily Hispanic South Texas that holds both of those exceptions. This is a potentially important development as that region might hold opportunities for the GOP since Biden performed <a href="https://www.texastribune.org/2020/11/04/joe-biden-texas-border-democrats/" target="_blank" rel="noopener">worse there than past Democratic presidential candidates</a>. Most notably, the 15th District, represented by Democrat Vicente Gonzalez, would become more Republican-leaning on the new map. He was already facing a difficult reelection bid, as he narrowly won his 2020 race by <a href="https://www.nytimes.com/interactive/2020/11/03/us/elections/results-texas-house-district-15.html" target="_blank" rel="noopener">3 percentage points</a> after winning reelection by <a href="https://www.nytimes.com/elections/results/texas-house-district-15" target="_blank" rel="noopener">21 points in 2018</a>. But now under the new map, his district would go from D+2 to evenly split. Meanwhile, Rep. Henry Cuellar’s 28th District would actually become slightly bluer — it only moved from D+4 to D+7 — and could be in play in 2022. (Rep. Filemon Vela’s 34th District doesn’t fall neatly into this category because it went from D+5 to D+17, but it is the other border seat in Texas, and it seems to have gotten a little friendlier toward Democrats, although Vela <a href="https://www.politico.com/news/2021/03/22/texas-filemon-vela-retirement-477441" target="_blank" rel="noopener">won’t seek reelection</a>.) </p>
-
-
-
-<p data-paragraph="main">Another notable change under the new map is that it would result in a smaller share of districts with Hispanic majorities despite the addition of two new congressional districts. This could make the map vulnerable to a racial gerrymandering lawsuit considering Texas’s Hispanic population has <a href="https://www.texastribune.org/2021/08/12/texas-2020-census/" target="_blank" rel="noopener">driven the bulk of Texas’s population growth</a> since 2010. According to census data, the current congressional map included 18 districts with white majorities and nine with Hispanic majorities. But the newly proposed map doesn’t give Hispanic voters any more clout: There are now 19 districts that have white majorities and still nine districts with Hispanic majorities, based on the voting age population.</p>
-
-
-
-<p data-paragraph="main">This is only the first draft of Texas’s new congressional map, so it could still change before it’s passed by the GOP-controlled legislature. The Senate Redistricting Committee is <a href="https://twitter.com/PatrickSvitek/status/1442570463155302408" target="_blank" rel="noopener">expected to take up</a> the congressional map on Thursday. But remember the GOP ultimately controls the redistricting process in Texas. That said, <a href="https://www.senate.mn/departments/scr/REDIST/Redsum/txsum.htm" target="_blank" rel="noopener">past congressional maps</a> proposed by Texas lawmakers <a href="https://redistricting.lls.edu/state/texas/?cycle=2020&amp;level=Congress&amp;startdate=" target="_blank" rel="noopener">have been endlessly litigated</a> — and it’s possible that <a href="https://twitter.com/marceelias/status/1442535597336190979" target="_blank" rel="noopener">could happen again</a> this time around.</p>]]></description>
-			<pubDate>Mon, 27 Sep 2021 23:33:00 +0100</pubDate>
-			<guid isPermaLink="false">1632785402027625</guid>
 		</item>
 
 	</channel>
