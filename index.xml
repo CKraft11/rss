@@ -3,9 +3,208 @@
 		<title>Main stream | FreshRSS</title>
 		<link>http://radon</link>
 		<description>RSS feed of Main stream | FreshRSS</description>
-		<pubDate>Tue, 12 Oct 2021 22:59:07 +0100</pubDate>
-		<lastBuildDate>Tue, 12 Oct 2021 21:59:07 GMT</lastBuildDate>
+		<pubDate>Tue, 12 Oct 2021 23:29:06 +0100</pubDate>
+		<lastBuildDate>Tue, 12 Oct 2021 22:29:06 GMT</lastBuildDate>
 		<atom:link href="http://radon/i/?a=rss" rel="self" type="application/rss+xml" />
+		<item>
+			<title>It Looks Like House Democrats Are Worried About The 2022 Midterms</title>
+			<link>https://fivethirtyeight.com/features/it-looks-like-house-democrats-are-worried-about-the-2022-midterms/</link>
+						<dc:creator>Nathaniel Rakich</dc:creator>
+			<dc:creator>Nathaniel Rakich</dc:creator>
+			<category>Congress</category>
+			<category>Democratic Retirements</category>
+			<category>GOP Retirements</category>
+			<category>Republican Retirements</category>
+			<category>Retirements</category>
+			<category>U.S. House</category>
+			<description><![CDATA[<p data-paragraph="main">The number of U.S. representatives not seeking reelection is now up to 19. Since <a href="https://fivethirtyeight.com/features/what-all-those-house-retirements-mean-for-democrats-so-far/" target="_blank" rel="noopener">our last update</a>, GOP Rep. Anthony Gonzalez bowed out in the face of a <a href="https://fivethirtyeight.com/features/how-many-house-republicans-who-voted-to-impeach-trump-will-survive-the-midterms/" target="_blank" rel="noopener">Republican revolt in his district over his vote to impeach former President Donald Trump</a>, and Democratic Rep. Karen Bass announced her intention to <a href="https://www.latimes.com/california/story/2021-09-27/rep-karen-bass-officially-launches-la-mayor-campaign" target="_blank" rel="noopener">run for mayor of Los Angeles</a> in 2022. And just on Tuesday, Democratic Rep. John Yarmuth announced he would <a href="https://www.courier-journal.com/story/news/politics/2021/10/12/kentucky-democratic-rep-john-yarmuth-not-run-reelection/6103932001/" target="_blank" rel="noopener">retire from elected office</a> as well.</p>
+
+
+
+<p data-paragraph="main">House retirements are one metric we’re watching to give us a clue as to how the 2022 midterms will unfold, but on the surface at least, it doesn’t look like either party has an advantage in this regard: 10 Democrats are retiring compared with nine Republicans. However, when you dig into the specific reasons that are likely behind each retirement, it does look like Democrats are more worried than Republicans.</p>
+
+
+<div>
+<section>
+ <header>
+ <h5>19 House members are leaving office so far</h5>
+ <p>Members of the U.S. House of Representatives not running for reelection in 2022, as of Oct. 12, 2021</p>
+ </header>
+ <table data-carpenter-slug="rakich.yarmuth.1">
+ <thead>
+ <tr>
+ <th colspan="1">District</th>
+ <th colspan="1">Representative</th>
+ <th colspan="1">Party</th>
+ <th colspan="1">Why They’re Leaving</th>
+ <th colspan="1">Partisan Lean</th>
+ </tr>
+ </thead>
+ <tbody>
+ <tr>
+ <td>CA-37</td>
+ <td>Karen Bass</td>
+ <td><span>D</span></td>
+ <td>L.A. mayor run</td>
+ <td>D+68.5</td>
+ </tr>
+ <tr>
+ <td>FL-10</td>
+ <td>Val Demings</td>
+ <td><span>D</span></td>
+ <td>Senate run</td>
+ <td>D+20.8</td>
+ </tr>
+ <tr>
+ <td>KY-03</td>
+ <td>John Yarmuth</td>
+ <td><span>D</span></td>
+ <td>Retiring</td>
+ <td>D+19.9</td>
+ </tr>
+ <tr>
+ <td>TX-34</td>
+ <td>Filemon Vela</td>
+ <td><span>D</span></td>
+ <td>Retiring</td>
+ <td>D+4.8</td>
+ </tr>
+ <tr>
+ <td>AZ-02</td>
+ <td>Ann Kirkpatrick</td>
+ <td><span>D</span></td>
+ <td>Retiring</td>
+ <td>D+2.3</td>
+ </tr>
+ <tr>
+ <td>OH-13</td>
+ <td>Tim Ryan</td>
+ <td><span>D</span></td>
+ <td>Senate run</td>
+ <td>D+0.3</td>
+ </tr>
+ <tr>
+ <td>FL-13</td>
+ <td>Charlie Crist</td>
+ <td><span>D</span></td>
+ <td>Governor run</td>
+ <td>R+1.0</td>
+ </tr>
+ <tr>
+ <td>PA-17</td>
+ <td>Conor Lamb</td>
+ <td><span>D</span></td>
+ <td>Senate run</td>
+ <td>R+2.3</td>
+ </tr>
+ <tr>
+ <td>IL-17</td>
+ <td>Cheri Bustos</td>
+ <td><span>D</span></td>
+ <td>Retiring</td>
+ <td>R+4.7</td>
+ </tr>
+ <tr>
+ <td>WI-03</td>
+ <td>Ron Kind</td>
+ <td><span>D</span></td>
+ <td>Retiring</td>
+ <td>R+8.7</td>
+ </tr>
+ <tr>
+ <td>NY-01</td>
+ <td>Lee Zeldin</td>
+ <td><span>R</span></td>
+ <td>Governor run</td>
+ <td>R+9.6</td>
+ </tr>
+ <tr>
+ <td>NY-23</td>
+ <td>Tom Reed</td>
+ <td><span>R</span></td>
+ <td>Retiring</td>
+ <td>R+15.2</td>
+ </tr>
+ <tr>
+ <td>OH-16</td>
+ <td>Anthony Gonzalez</td>
+ <td><span>R</span></td>
+ <td>Retiring</td>
+ <td>R+19.2</td>
+ </tr>
+ <tr>
+ <td>GA-10</td>
+ <td>Jody Hice</td>
+ <td><span>R</span></td>
+ <td>Secretary of state run</td>
+ <td>R+27.8</td>
+ </tr>
+ <tr>
+ <td>AL-05</td>
+ <td>Mo Brooks</td>
+ <td><span>R</span></td>
+ <td>Senate run</td>
+ <td>R+32.4</td>
+ </tr>
+ <tr>
+ <td>NC-13</td>
+ <td>Ted Budd</td>
+ <td><span>R</span></td>
+ <td>Senate run</td>
+ <td>R+38.2</td>
+ </tr>
+ <tr>
+ <td>MO-04</td>
+ <td>Vicky Hartzler</td>
+ <td><span>R</span></td>
+ <td>Senate run</td>
+ <td>R+39.3</td>
+ </tr>
+ <tr>
+ <td>MO-07</td>
+ <td>Billy Long</td>
+ <td><span>R</span></td>
+ <td>Senate run</td>
+ <td>R+47.7</td>
+ </tr>
+ <tr>
+ <td>TX-08</td>
+ <td>Kevin Brady</td>
+ <td><span>R</span></td>
+ <td>Retiring</td>
+ <td>R+49.7</td>
+ </tr>
+ </tbody>
+ </table>
+ <footer>
+ <p>District numbers and partisan leans are for current districts, which are not necessarily the ones that will be in use during the 2022 midterms. </p>
+ <p>Partisan lean is the average margin difference between how a state or district votes and how the country votes overall. This version of partisan lean, meant to be used for congressional and gubernatorial elections, is calculated as 50 percent the state or district’s lean relative to the nation in the most recent presidential election, 25 percent its relative lean in the second-most-recent presidential election and 25 percent a custom state-legislative lean.</p>
+ <p>Sources: Daily Kos Elections, news reports</p>
+ </footer>
+</section>
+</div>
+
+
+<p data-paragraph="main">At this stage, six of the Republicans are leaving the House to run for another office. Of the other three, Gonzalez is probably leaving because he would have a hard time winning his Republican primary, Rep. Tom Reed appeared to retire in response to his <a href="https://www.fox6now.com/news/gop-us-rep-tom-reed-to-retire-after-sexual-misconduct-accusation" target="_blank" rel="noopener">sexual harassment scandal</a>, and Rep. Kevin Brady said he is leaving partly because he is <a href="https://www.texastribune.org/2021/04/14/kevin-brady-congress-texas-retirement/" target="_blank" rel="noopener">term-limited out of his position</a> as top Republican on the House Ways and Means Committee. Arguably, Reed and Rep. Lee Zeldin, who is running for governor, also decided to retire given Democrats’ control of redistricting in their home state of New York (which means they could be running on bluer turf next year). But considering they also had other factors playing into their retirements, one can argue at this point that no Republicans are retiring <em>primarily</em> out of fear of losing their general election next year.</p>
+
+
+
+<p data-paragraph="main">Retiring Democrats, however, appear to be more motivated by electoral concerns. Only five of the 10 retiring Democrats are running for another office, while four currently represent swing seats: Reps. Filemon Vela, Ann Kirkpatrick, Cheri Bustos and Ron Kind. And only Vela’s seat is likely to be made safely Democratic in redistricting, although he didn’t know that when he announced he was retiring. It’s reasonable, therefore, to theorize that fear of losing reelection was a key factor in their decisions to retire. </p>
+
+
+
+<p data-paragraph="main">The 10th retiring Democrat is Yarmuth, who currently represents a safely blue seat anchored by Louisville, Kentucky. But he may be retiring out of fear of losing reelection, too. That’s because Republicans, who control the redistricting process in Kentucky, could <a href="https://www.politico.com/news/2021/07/06/republicans-redistricting-doom-democrats-498232" target="_blank" rel="noopener">eliminate his seat</a> by giving slices of his dark-blue 3rd District to neighboring red districts that can absorb more Democratic voters without becoming competitive — a gerrymandering technique known as “cracking.” </p>
+
+
+
+<p data-paragraph="main"><a href="https://projects.fivethirtyeight.com/redistricting-2022-maps/kentucky/" target="_blank" rel="noopener">Kentucky</a> hasn’t begun the redistricting process yet (at least publicly), so we don’t yet know with certainty what its new map will look like. Yarmuth’s retirement, though, could suggest that he expected Republicans to force him out. But even if they hadn’t and the 3rd District remained intact, Yarmuth may have still retired for political reasons: He is currently chair of the House Budget Committee, but he stands to lose that considerable power if Republicans take back control of the House in 2022. His retirement may indicate that he’s not optimistic about Democrats’ chances next year. <a href="https://onlinelibrary.wiley.com/doi/abs/10.1111/j.1747-1346.1999.tb00521.x" target="_blank" rel="noopener">Political science research</a> has found that politicians are more likely to retire when they see a bad political environment for their party on the horizon.</p>
+
+
+
+<p data-paragraph="main">The good news for Democrats is that politicians make bad pundits: There has historically been a <a href="https://fivethirtyeight.com/features/the-recent-rush-of-gop-retirements-is-good-for-democrats/" target="_blank" rel="noopener">weak relationship</a> between which party sees the most retirements and which party does poorly the subsequent election. But the bad news for Democrats is that, whatever the specific motivation of Yarmuth’s retirement, <a href="https://fivethirtyeight.com/features/the-party-that-loses-this-year-could-still-win-a-big-consolation-prize/" target="_blank" rel="noopener">history is clearly on the side</a> of <a href="https://fivethirtyeight.com/features/our-best-tool-for-predicting-midterm-elections-doesnt-show-a-republican-wave-but-history-is-on-the-gops-side/" target="_blank" rel="noopener">Republicans having a strong performance</a> in the 2022 midterms.</p>]]></description>
+			<pubDate>Tue, 12 Oct 2021 22:24:00 +0100</pubDate>
+			<guid isPermaLink="false">1634076902215992</guid>
+		</item>
 		<item>
 			<title>Why Has Biden’s Approval Rating Gotten So Low So Quickly?</title>
 			<link>https://fivethirtyeight.com/features/why-has-bidens-approval-rating-gotten-so-low-so-quickly/</link>
@@ -2998,74 +3197,6 @@ Some sectors have been able to adjust (more or less) to the realities of the pan
 <p data-paragraph="main">All of that is to say that even on the issues that Americans seem the least politically divided on, existing partisan polarization is still likely to rule the day — if not factors outside of most Americans’ control. And if the past two decades of foreign policy are any lesson, there’s nothing that says that America's current bipartisan consensus on China is stable — or that it will lead to a less divided United States. </p>]]></description>
 			<pubDate>Tue, 28 Sep 2021 11:00:00 +0100</pubDate>
 			<guid isPermaLink="false">1632825902239189</guid>
-		</item>
-		<item>
-			<title>Politics Podcast: How To Poll People About Their Political Identity</title>
-			<link>https://fivethirtyeight.com/features/politics-podcast-how-to-poll-people-about-their-political-identity/</link>
-						<dc:creator>Galen Druke</dc:creator>
-			<dc:creator>FiveThirtyEight</dc:creator>
-			<category>Congress</category>
-			<category>Debt Ceiling</category>
-			<category>Democratic Party</category>
-			<category>FiveThirtyEight Podcasts</category>
-			<category>Government Shutdown</category>
-			<category>Identity</category>
-			<category>Infrastructure</category>
-			<category>Politics Podcast</category>
-			<category>Polling</category>
-			<description><![CDATA[<div data-href="https://fivethirtyeight.com/features/politics-podcast-how-to-poll-people-about-their-political-identity/">
-	<div data-podcast-id="317098" data-podcast-duration="0" data-podcast-title="Politics Podcast: How To Poll People About Their Political Identity">
-
-					<span><span>FiveThirtyEight</span></span>
-			
-		
-		<button aria-label="Play"></button>
-
-					<div>
-		
-		
-							<div>
-					<div>
-						<div></div>
-					</div>
-
-					<div> </div>
-
-					<audio preload="none" controls="controls">
-						<source src="https://www.podtrac.com/pts/redirect.mp3/traffic.megaphone.fm/ESP8522924014.mp3?updated=1632782126">
-					</source></audio>
-				</div>
-			
-					</div>
-		
-	</div>
-</div>
-<aside>
-	<div>
-		More: <a href="https://itunes.apple.com/us/podcast/fivethirtyeight-elections/id1077418457">Apple Podcasts</a> |
-		<span><a data-android-url="" href="http://m.espn.com/general/cast?id=14554755">ESPN App</a> |</span>
-		<a href="https://www.espn.com/espnradio/feeds/rss/podcast.xml?id=14554755">RSS</a>
-			</div>
-	</aside>
-
-
-
-
-<p data-paragraph="main">There’s a lot going on in Congress this week, and much of it is existential. The House is scheduled to vote on a $1 trillion bipartisan infrastructure bill on Thursday. But some Democratic lawmakers said they wouldn’t vote for the bill without an agreement on a multi-trillion-dollar partisan social programs bill. At the same time, the U.S. risks defaulting on its debt as Republicans refuse to help raise the debt ceiling. Oh, and the government might shut down by week’s end, too. </p>
-
-
-
-<p data-paragraph="main">In this installment of the <a rel="noreferrer noopener" target="_blank" href="https://fivethirtyeight.com/tag/politics-podcast/">FiveThirtyEight Politics podcast</a>, the crew talks about the threat of a government shutdown and how likely they think it will be for Democrats to get their agenda passed on both spending plans, immigration reform and voting rights. They also discuss what the best use of polling is when surveying people about the ways they identify themselves politically.</p>
-
-
-
-<p data-paragraph="main"><em>You can listen to the episode by clicking the “play” button in the audio player above or by </em><a rel="noreferrer noopener" href="https://itunes.apple.com/us/podcast/fivethirtyeight-elections/id1077418457?mt=2" target="_blank"><em>downloading it in iTunes</em></a><em>, the </em><a rel="noreferrer noopener" href="http://www.espn.com/espn/mobile/products/products/_/id/6857590" target="_blank"><em>ESPN App</em></a><em> or your favorite podcast platform. If you are new to podcasts, </em><a rel="noreferrer noopener" href="https://fivethirtyeight.com/how-to-listen-to-fivethirtyeight-podcasts/" target="_blank"><em>learn how to listen</em></a><em>.</em></p>
-
-
-
-<p data-paragraph="main"><em>The FiveThirtyEight Politics podcast is recorded Mondays and Thursdays. Help new listeners discover the show by </em><a rel="noreferrer noopener" href="https://itunes.apple.com/us/podcast/fivethirtyeight-elections/id1077418457?mt=2" target="_blank"><em>leaving us a rating and review on iTunes</em></a><em>. Have a comment, question or suggestion for “good polling vs. bad polling”? Get in touch by email, </em><a rel="noreferrer noopener" href="https://twitter.com/FiveThirtyEight" target="_blank"><em>on Twitter</em></a><em> or in the comments.</em></p>]]></description>
-			<pubDate>Mon, 27 Sep 2021 23:35:00 +0100</pubDate>
-			<guid isPermaLink="false">1632785402027626</guid>
 		</item>
 
 	</channel>
