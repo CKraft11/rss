@@ -3,9 +3,75 @@
 		<title>Main stream | FreshRSS</title>
 		<link>http://radon</link>
 		<description>RSS feed of Main stream | FreshRSS</description>
-		<pubDate>Thu, 14 Oct 2021 22:29:07 +0100</pubDate>
-		<lastBuildDate>Thu, 14 Oct 2021 21:29:07 GMT</lastBuildDate>
+		<pubDate>Thu, 14 Oct 2021 22:59:07 +0100</pubDate>
+		<lastBuildDate>Thu, 14 Oct 2021 21:59:07 GMT</lastBuildDate>
 		<atom:link href="http://radon/i/?a=rss" rel="self" type="application/rss+xml" />
+		<item>
+			<title>Politics Podcast: What Happens When Local News Disappears</title>
+			<link>https://fivethirtyeight.com/features/politics-podcast-what-happens-when-local-news-disappears/</link>
+						<dc:creator>Galen Druke</dc:creator>
+			<dc:creator>FiveThirtyEight</dc:creator>
+			<category>FiveThirtyEight Podcasts</category>
+			<category>Local Elections</category>
+			<category>Local Politics</category>
+			<category>News Media</category>
+			<category>Newspapers</category>
+			<category>Politics Podcast</category>
+			<category>Research Design</category>
+			<description><![CDATA[<div data-href="https://fivethirtyeight.com/features/politics-podcast-what-happens-when-local-news-disappears/">
+	<div data-podcast-id="318189" data-podcast-duration="0" data-podcast-title="Politics Podcast: What Happens When Local News Disappears">
+
+					<span><span>FiveThirtyEight</span></span>
+			
+		
+		<button aria-label="Play"></button>
+
+					<div>
+		
+		
+							<div>
+					<div>
+						<div></div>
+					</div>
+
+					<div> </div>
+
+					<audio preload="none" controls="controls">
+						<source src="https://www.podtrac.com/pts/redirect.mp3/traffic.megaphone.fm/ESP1871835555.mp3?updated=1634247491">
+					</source></audio>
+				</div>
+			
+					</div>
+		
+	</div>
+</div>
+<aside>
+	<div>
+		More: <a href="https://itunes.apple.com/us/podcast/fivethirtyeight-elections/id1077418457">Apple Podcasts</a> |
+		<span><a data-android-url="" href="http://m.espn.com/general/cast?id=14554755">ESPN App</a> |</span>
+		<a href="https://www.espn.com/espnradio/feeds/rss/podcast.xml?id=14554755">RSS</a>
+			</div>
+	</aside>
+
+
+
+
+<p data-paragraph="main">Local news is disappearing in towns across the country. From 2008 to 2019, the percentage of people who said they got their news from local papers <a rel="noreferrer noopener" target="_blank" href="https://news.gallup.com/poll/1663/media-use-evaluation.aspx">fell by more than half</a>. In the same time period, the number of newsroom jobs <a rel="noreferrer noopener" target="_blank" href="https://www.pewresearch.org/fact-tank/2021/07/13/u-s-newsroom-employment-has-fallen-26-since-2008/">plummeted</a>. The way Americans get their news has changed and that can have lasting social and political impacts. </p>
+
+
+
+<p data-paragraph="main">Elaine Godfrey, a staff writer at the Atlantic, joins the <a rel="noreferrer noopener" target="_blank" href="https://fivethirtyeight.com/tag/politics-podcast/">FiveThirtyEight Politics</a> podcast to discuss <a rel="noreferrer noopener" target="_blank" href="https://www.theatlantic.com/politics/archive/2021/10/gannett-local-newspaper-hawk-eye-iowa/619847/">her recent article</a> about what happened when a local paper disappeared from a small Iowa town. And Danny Hayes, a political science professor at George Washington University, also joins to talk about <a rel="noreferrer noopener" target="_blank" href="https://www.cambridge.org/core/books/news-hole/86C7B8933122EB6EC229E4B05BBAA27C">his research on the</a> role local news plays in society and what happens when it erodes.</p>
+
+
+
+<p data-paragraph="main"><em>You can listen to the episode by clicking the “play” button in the audio player above or by </em><a href="https://itunes.apple.com/us/podcast/fivethirtyeight-elections/id1077418457?mt=2" target="_blank" rel="noopener"><em>downloading it in iTunes</em></a><em>, the </em><a href="http://www.espn.com/espn/mobile/products/products/_/id/6857590" target="_blank" rel="noopener"><em>ESPN App</em></a><em> or your favorite podcast platform. If you are new to podcasts, </em><a href="https://fivethirtyeight.com/how-to-listen-to-fivethirtyeight-podcasts/" target="_blank" rel="noopener"><em>learn how to listen</em></a><em>.</em></p>
+
+
+
+<p data-paragraph="main"><em>The FiveThirtyEight Politics podcast is recorded Mondays and Thursdays. Help new listeners discover the show by </em><a href="https://itunes.apple.com/us/podcast/fivethirtyeight-elections/id1077418457?mt=2" target="_blank" rel="noopener"><em>leaving us a rating and review on iTunes</em></a><em>. Have a comment, question or suggestion for “good polling vs. bad polling”? Get in touch by email, </em><a href="https://twitter.com/FiveThirtyEight" target="_blank" rel="noopener"><em>on Twitter</em></a><em> or in the comments.</em></p>]]></description>
+			<pubDate>Thu, 14 Oct 2021 22:38:00 +0100</pubDate>
+			<guid isPermaLink="false">1634247902007595</guid>
+		</item>
 		<item>
 			<title>The Fight Over COVID-19 Vaccine Mandates Is Coming To Kids Next</title>
 			<link>https://fivethirtyeight.com/features/the-fight-over-covid-19-vaccine-mandates-is-coming-to-kids-next/</link>
@@ -2977,85 +3043,6 @@ Some sectors have been able to adjust (more or less) to the realities of the pan
 <p>Watch: https://abcnews.go.com/fivethirtyeight/video/gop-critics-trumps-big-lie-struggling-win-reelection-80138507</p>]]></description>
 			<pubDate>Thu, 30 Sep 2021 11:00:00 +0100</pubDate>
 			<guid isPermaLink="false">1632996901966857</guid>
-		</item>
-		<item>
-			<title>We Polled Members Of Congress … About Baseball</title>
-			<link>https://fivethirtyeight.com/features/we-polled-members-of-congress-about-baseball/</link>
-						<dc:creator>Nathaniel Rakich</dc:creator>
-			<dc:creator>Nathaniel Rakich</dc:creator>
-			<category>Automatic Umpires</category>
-			<category>Baseball</category>
-			<category>Congressional Baseball Game</category>
-			<category>Designated Hitters</category>
-			<category>Doubleheaders</category>
-			<category>MLB</category>
-			<description><![CDATA[<p data-paragraph="main">Once a year, members of Congress take a break from delivering grandiose speeches and passing historic legislation to do something significantly more humbling: play baseball. On Wednesday evening, Democrats and Republicans will face off in the <a href="https://history.house.gov/Exhibitions-and-Publications/Baseball-Game/Congressional-Baseball/" target="_blank" rel="noopener">Congressional Baseball Game</a>, an annual event<a data-footnote-id="13" href="https://fivethirtyeight.com/wp-json/wp/v2/espn_verticals/398#fn-13" data-footnote-content='&lt;p&gt;&lt;p&gt;Although the game was &lt;a href="https://www.rollcall.com/2020/07/16/canceled-annual-congressional-baseball-game-takes-a-hit/" target="_blank" rel="noopener"&gt;canceled&lt;/a&gt; last year for the first time in 60 years on account of the pandemic.&lt;/p&gt;
-&lt;/p&gt;'><sup>13</sup></a> that raises <a href="https://time.com/4820569/steve-scalise-shooting-congressional-baseball-game-raises-money/" target="_blank" rel="noopener">hundreds of thousands of dollars</a> for charity. Though the play is something less than major league quality, the game is beloved enough to fill the <a href="https://www.mlb.com/nationals/tickets/congressional" target="_blank" rel="noopener">lower seating bowl</a> at Nationals Park, inspire <a href="https://www.newyorker.com/sports/sporting-scene/rand-paul-at-bat" target="_blank" rel="noopener">creative signs and cheers</a>, and even <a href="https://fivethirtyeight.com/features/we-calculated-advanced-stats-for-the-congressional-baseball-game/" target="_blank" rel="noopener">attract its own sabermetricians</a>.<a data-footnote-id="14" href="https://fivethirtyeight.com/wp-json/wp/v2/espn_verticals/398#fn-14" data-footnote-content='&lt;p&gt;&lt;p&gt;If you’re looking for the stats entering this year’s game, &lt;a href="https://docs.google.com/spreadsheets/d/1ugXP6qar3m3jmKtjsUp-AFWLyVeQOOK-3b9DblPTRks/edit#gid=0" target="_blank" rel="noopener"&gt;look no further&lt;/a&gt;.&lt;/p&gt;
-&lt;/p&gt;'><sup>14</sup></a></p>
-
-
-
-<p data-paragraph="main">Part of the appeal of the Congressional Baseball Game is that it lets some of the most powerful people in the world unburden themselves for a night and enjoy participating in the national pastime. But we wondered: What if these political players had the same clout in their favorite sport as they have in their day jobs? What if the people who write the laws of the land also wrote the rules of Major League Baseball?</p>
-
-
-
-<p data-paragraph="main">So we asked them.</p>
-
-
-
-<p data-paragraph="main">We contacted the offices of all <a href="https://www.congressionalbaseball.org/teams/" target="_blank" rel="noopener">29 Democrats and 38 Republicans</a> on this year’s rosters and sent them seven questions about the biggest debates in Major League Baseball — everything from bat flips to bringing the designated hitter to the National League. Nineteen of them<a data-footnote-id="15" href="https://fivethirtyeight.com/wp-json/wp/v2/espn_verticals/398#fn-15" data-footnote-content="&lt;p&gt;&lt;p&gt;Democratic Reps. Mike Doyle, Jared Huffman, Tom Malinowski, Joe Morelle, Jimmy Panetta and Ed Perlmutter and Sen. Chris Murphy; Republican Reps. Mike Bost, Tim Burchett, Kat Cammack, Chuck Fleischmann, Mike Garcia, Kevin Hern, John Moolenaar, Barry Moore, Blake Moore, Pete Sessions, Greg Steube and Brad Wenstrup.&lt;/p&gt;
-&lt;/p&gt;"><sup>15</sup></a> got back to us — a 28 percent response rate that any pollster these days <a href="https://www.pewresearch.org/fact-tank/2019/02/27/response-rates-in-telephone-surveys-have-resumed-their-decline/" target="_blank" rel="noopener">would envy</a>. </p>
-
-
-
-<p data-paragraph="main">And it turns out that members of Congress — Republicans and Democrats alike — are traditionalists. (As Democratic Rep. Tom Malinowski put it, “I am a politics liberal but a baseball conservative.”) Though they’re OK with some of the cultural changes that have reshaped the game in recent years, they’re broadly opposed to the new or proposed rules that are currently hot topics in the league. What’s more, their opinions on baseball matters often run counter to the preferences of their constituents — the American people!</p>
-
-
-
-<p data-paragraph="main">First off, 13 of the 19 congresspeople we surveyed (68 percent) opposed the universal DH and wanted pitchers to continue hitting in the National League.<a data-footnote-id="16" href="https://fivethirtyeight.com/wp-json/wp/v2/espn_verticals/398#fn-16" data-footnote-content="&lt;p&gt;&lt;p&gt;The six who supported it were Malinowksi, Moolenaar, Barry Moore, Sessions, Steube and Wenstrup.&lt;/p&gt;
-&lt;/p&gt;"><sup>16</sup></a> “One of the things that makes baseball unique is that there are differences between the American and National League,” Democratic Sen. Chris Murphy told FiveThirtyEight. Republican Rep. Blake Moore agreed and used data to back up his point: “The World Series win count since 1973, when the designated hitter was implemented, is essentially equal between leagues (25 American League wins, 22 National League wins). These data suggest there is no inherent advantage for one league over the other.” Republican Rep. Brad Wenstrup, however, reluctantly disagreed. “I personally would like the AL to adopt pitcher hitting, rather than have the NL cave. But the rules should be the same.” And Wenstrup can rest easy knowing the public is on his side: A March 2021 <a href="https://theharrispoll.com/wp-content/uploads/2021/03/Wave-57-Data-Tabs.pdf" target="_blank" rel="noopener">Harris/The Athletic poll</a> found that 59 percent of adults who followed MLB supported bringing the DH to the National League, while only 41 percent opposed it. </p>
-
-
-
-<p data-paragraph="main">Second, 12 of the 19 (63 percent) said they disliked the new rule that each game in a doubleheader lasts only seven innings<a data-footnote-id="17" href="https://fivethirtyeight.com/wp-json/wp/v2/espn_verticals/398#fn-17" data-footnote-content="&lt;p&gt;&lt;p&gt;Five said they liked it — Burchett, Doyle, Blake Moore, Perlmutter and Steube — while Hern and Barry Moore were unsure or skipped this question.&lt;/p&gt;
-&lt;/p&gt;"><sup>17</sup></a> — even though, ironically, the Congressional Baseball Game itself is only seven innings long. “Seven inning contests involving a ball and bat are called softball games,” Democratic Rep. Joe Morelle insisted. “I don’t think Ernie Banks was ever heard to [say], ‘let’s play two — as long as they’re only seven innings each!’” However, Morelle’s own manager on the Democratic team, Rep. Mike Doyle, disagreed with this succinct note: “Have you ever tried to sit through a double-header … BORING!” For what it’s worth, the fans are on Doyle’s side: 70 percent of respondents to the Harris/The Athletic poll said they agreed with MLB’s decision to shorten doubleheaders in 2021.</p>
-
-
-
-<p data-paragraph="main">Similarly, 12 of our 19 respondents (63 percent) said they weren’t a fan of the new rule in which extra innings begin with a runner already on second base<a data-footnote-id="18" href="https://fivethirtyeight.com/wp-json/wp/v2/espn_verticals/398#fn-18" data-footnote-content="&lt;p&gt;&lt;p&gt;The six people who were OK with the change were Cammack, Hern, Blake Moore, Murphy, Panetta and Steube. Barry Moore didn’t answer.&lt;/p&gt;
-&lt;/p&gt;"><sup>18</sup></a> — and many of them felt strongly about it. Malinowski let out an audible shudder when we asked him this question over the phone. And Morelle quipped, “The innovator who created the rule that places runners on second base to start extra innings must have been the same genius that devised mini games for doubleheaders. … This is the classic case of a solution searching for a problem.” Fans oppose this rule change too: According to a <a href="https://morningconsult.com/2020/07/23/ahead-of-2020s-first-pitch-baseball-fans-largely-approve-of-mlb-rule-changes/" target="_blank" rel="noopener">Morning Consult poll</a> from July 2020 (just before the rule was implemented), only 34 percent of MLB fans had a favorable opinion of it, while 42 percent had an unfavorable one. Moore, though, proposed an interesting compromise: “I would prefer that rule to start after the 12th inning, and never during playoff elimination games.”</p>
-
-
-
-<p data-paragraph="main">Opposition ran even stronger to our fourth question: whether home-plate umpires should be replaced by an automated system to call balls and strikes. Seventeen of the 19 congressional baseball players (89 percent) said no.<a data-footnote-id="19" href="https://fivethirtyeight.com/wp-json/wp/v2/espn_verticals/398#fn-19" data-footnote-content="&lt;p&gt;&lt;p&gt;Huffman and Morelle were the two who liked the idea.&lt;/p&gt;
-&lt;/p&gt;"><sup>19</sup></a> “You can’t kick dirt on a balls and strikes machine,” Malinowski explained, echoing the sentiment of several other members. According to Harris/The Athletic, this is a divisive idea among followers of MLB, too, although it enjoys significantly stronger support with them (51 percent) than it does in Congress.</p>
-
-
-
-<p data-paragraph="main">And virtually no one liked the idea of moving the pitching mound back to encourage offense: 16 (84 percent) were against it, and the other three<a data-footnote-id="20" href="https://fivethirtyeight.com/wp-json/wp/v2/espn_verticals/398#fn-20" data-footnote-content="&lt;p&gt;&lt;p&gt;Barry Moore, Blake Moore and Murphy.&lt;/p&gt;
-&lt;/p&gt;"><sup>20</sup></a> didn’t express a definitive opinion either way. Ever the manager, Doyle feared that pitchers’ “arms would fall off!” Meanwhile, Morelle contended, “There’s magic in the 60 feet, 6 inches of distance between the pitcher’s mound and the plate! I would however consider lowering the mound.”</p>
-
-
-
-<p data-paragraph="main">Just when we thought members of Congress were going to oppose every recent change in MLB, they threw us a curveball. Twelve of 19 (63 percent) said they approved of hitters flipping their bats after a big home run. (Only three<a data-footnote-id="21" href="https://fivethirtyeight.com/wp-json/wp/v2/espn_verticals/398#fn-21" data-footnote-content="&lt;p&gt;&lt;p&gt;Burchett, Garcia and Morelle.&lt;/p&gt;
-&lt;/p&gt;"><sup>21</sup></a> said they disapproved, while the other four<a data-footnote-id="22" href="https://fivethirtyeight.com/wp-json/wp/v2/espn_verticals/398#fn-22" data-footnote-content="&lt;p&gt;&lt;p&gt;Fleischmann, Huffman, Panetta and Steube.&lt;/p&gt;
-&lt;/p&gt;"><sup>22</sup></a> had no opinion.) “Baseball needs more fun and less enforcement of stuffy unwritten rules,” Wenstrup declared, and Murphy went so far as to say, “I think it’s one of the best things about baseball.” According to a <a href="https://www.publicpolicypolling.com/wp-content/uploads/2017/09/PPP_Release_National_51216.pdf" target="_blank" rel="noopener">Public Policy Polling survey</a> from May 2016, many MLB fans, especially younger ones, agree: 48 percent overall said they approved of bat flips, while 31 percent disapproved. (Among 18- to 29-year-olds, 79 percent approved and only 9 percent disapproved.) Morelle, though, called bat flipping “amateurish and immature.” He went on to say: “My father admonished me a long time ago whether it was hitting safely in baseball, scoring a touchdown in football, or sinking a fade-away jumper in basketball to ‘act like you’ve done it before.’” </p>
-
-
-
-<p data-paragraph="main">And the question over which members of Congress have the most genuine disagreement? Whether advanced metrics have had a net positive or net negative impact on the game. Nine of 19 (47 percent) said positive; five<a data-footnote-id="23" href="https://fivethirtyeight.com/wp-json/wp/v2/espn_verticals/398#fn-23" data-footnote-content="&lt;p&gt;&lt;p&gt;Burchett, Doyle, Garcia, Huffman and Morelle.&lt;/p&gt;
-&lt;/p&gt;"><sup>23</sup></a> (26 percent) said negative; and the other five<a data-footnote-id="24" href="https://fivethirtyeight.com/wp-json/wp/v2/espn_verticals/398#fn-24" data-footnote-content="&lt;p&gt;&lt;p&gt;Moolenaar, Barry Moore, Blake Moore, Murphy and Wenstrup.&lt;/p&gt;
-&lt;/p&gt;"><sup>24</sup></a> didn’t come down one way or the other. “Look, I loved ‘Moneyball,’” Moore wrote in an email. “But the reason the Oakland A’s were so good that year was because they had three of the best aces in baseball (Mulder, Zito, &amp; Hudson). It wasn’t solely because of On Base Percentage.” Democratic Rep. Jared Huffman felt like “some of the soul of the game is lost when it becomes all about the numbers and the data.” And Doyle came out against sabermetrics too. “I’m old school,” the Democratic manager explained.</p>
-
-
-
-<p data-paragraph="main">Several of the congresspeople we contacted were so excited to talk about baseball that they didn’t want to stop at just the seven questions we asked. For instance, Wenstrup signed off with a succinct three-point platform: “Fire Manfred. <a href="https://chicago.suntimes.com/2021/4/20/22394351/pete-rose-major-league-baseball-hall-of-fame" target="_blank" rel="noopener">Let Pete in</a>. And bring back ten cent beer night.” And Malinowski spoke out, unprompted, against the infield shift — something that divides MLB fans exactly 50-50, according to the Harris/The Athletic poll. “I think infielders, like Americans, are shifting too far left and right, and I’d like to see them more down the middle,” he opined.</p>
-
-
-
-<p data-paragraph="main">Several congressional baseball players also lamented that MLB games these days are too slow, with two (Murphy and Morelle) advocating specifically for a pitch clock. “Pitchers used to get the ball back from the catcher and get ready to throw again. Today you can send out for pizza, wash the car, take a shower, and not miss a pitch,” Morelle complained. “Please, for the love of all that is holy institute a pitch clock!” Then, no doubt speaking for all our interviewees, he concluded: “I hope I can now look forward to a call from the Commissioner’s Office!” Considering that multiple MLB commissioners actually started their careers in politics, perhaps Rob Manfred should be looking over his shoulder.</p>]]></description>
-			<pubDate>Wed, 29 Sep 2021 15:00:00 +0100</pubDate>
-			<guid isPermaLink="false">1632924902289459</guid>
 		</item>
 
 	</channel>
