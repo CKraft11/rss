@@ -3,9 +3,187 @@
 		<title>Main stream | FreshRSS</title>
 		<link>http://radon</link>
 		<description>RSS feed of Main stream | FreshRSS</description>
-		<pubDate>Wed, 20 Oct 2021 10:59:06 +0100</pubDate>
-		<lastBuildDate>Wed, 20 Oct 2021 09:59:06 GMT</lastBuildDate>
+		<pubDate>Wed, 20 Oct 2021 11:29:06 +0100</pubDate>
+		<lastBuildDate>Wed, 20 Oct 2021 10:29:06 GMT</lastBuildDate>
 		<atom:link href="http://radon/i/?a=rss" rel="self" type="application/rss+xml" />
+		<item>
+			<title>The Roberts Court vs. The Trump Court</title>
+			<link>https://fivethirtyeight.com/features/the-roberts-court-vs-the-trump-court/</link>
+						<dc:creator>Amelia Thomson-DeVeaux</dc:creator>
+			<dc:creator>Amelia Thomson-DeVeaux and Laura Bronner</dc:creator>
+			<category>Abortion</category>
+			<category>Gun Rights</category>
+			<category>John Roberts</category>
+			<category>Religious Liberty</category>
+			<category>SCOTUS</category>
+			<category>Supreme Court</category>
+			<category>The Courts</category>
+			<category>The Supreme Court</category>
+			<description><![CDATA[<p data-paragraph="main">Everyone keeps waiting for the Supreme Court’s big right turn — especially this year. The justices have now begun their first full term with a 6-3 conservative majority, and the docket is full of culture-war issues, such as <a href="https://www.cnn.com/2021/09/20/politics/supreme-court-mississippi-abortion-law/index.html" target="_blank" rel="noopener">abortion</a>, <a href="https://www.npr.org/2021/04/26/990846329/supreme-court-to-take-up-first-major-gun-rights-case-in-more-than-a-decade" target="_blank" rel="noopener">gun rights</a> and <a href="https://www.npr.org/2021/07/02/1012586995/the-supreme-court-will-hear-a-case-on-the-funding-of-religious-schools" target="_blank" rel="noopener">religious liberty</a>.</p>
+
+
+
+<p data-paragraph="main">But in many ways, the Supreme Court’s conservative revolution is already here: The court hasn’t been <a href="https://fivethirtyeight.com/features/what-the-supreme-courts-unusually-big-jump-to-the-right-might-look-like/" target="_blank" rel="noopener">this ideologically tilted</a> in <a href="https://www.cnn.com/2020/09/26/politics/supreme-court-conservative/index.html" target="_blank" rel="noopener">almost 100 years</a>. Capturing the full breadth of this shift is difficult because the metrics we use to measure the court’s ideology are driven by hard-to-track factors like the types of cases the court takes up. For the first time in decades, too, a single justice isn’t holding the reins. The conservative justices can now assemble a majority more easily, giving them the power to push the court even further right.</p>
+
+
+
+<p data-paragraph="main">That power may take some adjusting to — for both the public and the justices. The past term showed that there will still be plenty of room for disagreement on the precise path forward. One example was <a href="https://fivethirtyeight.com/features/the-supreme-court-has-carved-out-one-religious-exemption-after-another-the-next-may-be-a-blow-to-lgbtq-rights/" target="_blank" rel="noopener">a high-profile religious liberty case</a> where the most conservative justices <a href="https://www.politico.com/news/2021/06/17/alito-supreme-court-trump-495121" target="_blank" rel="noopener">took their fellow GOP appointees to task</a> for issuing a ruling they saw as too timid. And the main priority of the liberal justices, now distinctly in the minority, <a href="https://www.cnn.com/2020/12/03/politics/supreme-court-breyer-sotomayor-kagan/index.html" target="_blank" rel="noopener">appeared to be damage control</a>. Moreover, some big decisions were taking place outside the public eye.</p>
+
+
+
+<p data-paragraph="main">“Right now, I see two courts in action,” said <a href="https://www.epstein.wustl.edu/" target="_blank" rel="noopener">Lee Epstein</a>, a political science professor at Washington University in St. Louis who studies the Supreme Court. “We see a standard Roberts court that leans conservative but has a serious amount of consensus and tries to look pretty nonpartisan. Then, within that court, we have an aggressive, socially conservative court led by the three Trump appointees plus [Justice Clarence] Thomas and [Justice Samuel] Alito.” Epstein told us that was likely why the justices decided to hear two extremely high-profile cases on abortion and gun rights this term — a signal that at least some conservative justices thought they now had the numbers to push the law to the right on those issues. </p>
+
+
+
+<p data-paragraph="main">We don’t know how those cases will come out, of course, but the justices don’t have to overturn Roe this year for the court to still be deeply conservative. Friction among the conservatives isn’t necessarily a sign that <a href="https://www.bloomberg.com/news/articles/2021-06-18/supreme-court-conservative-shift-hits-bump-with-moderate-rulings" target="_blank" rel="noopener">the court is moderating</a>; it may simply take time for the GOP-appointed justices to work out their plans for the enormous amount of power they now wield. Life tenure grants them plenty of space to hash out these differences. This means we need to start watching the court in new ways — and stop waiting for the justices to suddenly accomplish all of conservatives’ legal goals at once. It’s the overall trajectory of the court that matters, and there’s no sign that it will disappoint conservatives in the long term.</p>
+
+
+
+<h2><strong>The court is already very conservative</strong></h2>
+
+
+
+<p data-paragraph="main">Let’s get one thing out of the way: This is a very conservative Supreme Court. According to the <a href="http://scdb.wustl.edu/" target="_blank" rel="noopener">Supreme Court Database</a>, 60 percent of all decisions last term went in a conservative direction, as well as 59 percent of close decisions — which is to say, decisions in which the minority side had three or four votes. That makes the court’s previous term the most conservative term since 2008, just three years after John Roberts <a href="https://www.cnn.com/2005/POLITICS/09/29/roberts.nomination/index.html" target="_blank" rel="noopener">assumed his seat as chief justice</a>.</p>
+
+
+
+<figure><div>
+<div><iframe title="The Supreme Court's previous term was very conservative" aria-label="Interactive area chart" src="https://datawrapper.dwcdn.net/CvTLa/19/" scrolling="no" frameborder="0" height="500" sandbox="allow-scripts allow-same-origin"></iframe></div>
+</div></figure><p data-paragraph="main">Early in the Roberts years, the court was seen as <a href="https://www.nytimes.com/2010/07/25/us/25roberts.html" target="_blank" rel="noopener">the most conservative in decades</a>. After Roberts and <a href="https://www.npr.org/templates/story/story.php?storyId=5181091" target="_blank" rel="noopener">Alito</a> were nominated by then-President George W. Bush and confirmed by the Senate, the court issued a slew of highly conservative rulings, deciding to uphold <a href="https://www.pewforum.org/2007/06/06/the-high-court-upholds-the-federal-partial-birth-abortion-ban-act/" target="_blank" rel="noopener">a ban on second-trimester abortions</a>, to include <a href="https://www.nytimes.com/2008/06/27/washington/27scotus.html" target="_blank" rel="noopener">an individual right to bear arms</a> as a part of the Second Amendment and to <a href="https://www.nytimes.com/2013/06/26/us/supreme-court-ruling.html" target="_blank" rel="noopener">gut the Voting Rights Act</a>, freeing states with a history of racially discriminatory voting practices to change their election laws without federal approval. </p>
+
+
+
+<p data-paragraph="main">That pattern shifted somewhat abruptly around 2012. The share of cases that went in a conservative direction dropped below half in the 2013 and 2014 terms, and then hovered around 50 percent until last term, when the share of conservative court decisions skyrocketed. And this time the court’s sudden lurch to the right may last, as the court appears to be hearing increasingly conservative cases. </p>
+
+
+
+<p data-paragraph="main">The court is asked to hear <a href="https://www.supremecourt.gov/publicinfo/reportersguide.pdf" target="_blank" rel="noopener">thousands of cases each year</a>, which makes it very difficult to know whether the kinds of questions the justices are asked to contemplate are changing — if, for example, conservative legal advocates have begun bringing more cases that directly attack liberal precedents. There also isn’t any data to help us look for patterns in the pool of cases the court can pick from — or in the cases it ends up taking.</p>
+
+
+
+<p data-paragraph="main">But the court’s docket seems to be shifting, according to several legal experts we spoke with. <a href="http://polisci.emory.edu/home/people/biography/clark-tom.html" target="_blank" rel="noopener">Tom Clark</a>, a political scientist at Emory University who studies the judiciary, pointed to the fact that the justices agreed to hear a gun rights case for the first time in over a decade as evidence. “That’s not a case [the conservatives] take unless they think they can win,” he said.</p>
+
+
+
+<h2><strong>But the conservative justices might still disagree with each other</strong></h2>
+
+
+
+<p data-paragraph="main">That the court is increasingly tilting to the right, however, does not mean that the justices will deliver conservative victories on every high-profile issue — or that they’ll be unified about the best approach. Now that they have a solid six-justice majority, the GOP appointees have a new luxury or a new challenge, depending on how you look at it: They can disagree with each other. </p>
+
+
+
+<p data-paragraph="main">That’s because for the first time in decades we’re not in a situation where a single swing justice controls the court. Instead, several justices are bunched together around the median.</p>
+
+
+
+<figure><img loading="lazy" width="1150" height="1252" src="https://fivethirtyeight.com/wp-content/uploads/2021/10/ATD-bronner.SCOTUS-REVOLUTION.1020.2stepchart.png" alt="" data-src="https://fivethirtyeight.com/wp-content/uploads/2021/10/ATD-bronner.SCOTUS-REVOLUTION.1020.2stepchart.png" data-srcset="https://fivethirtyeight.com/wp-content/uploads/2021/10/ATD-bronner.SCOTUS-REVOLUTION.1020.2stepchart.png?w=700 1x, https://fivethirtyeight.com/wp-content/uploads/2021/10/ATD-bronner.SCOTUS-REVOLUTION.1020.2stepchart.png?w=1400 2x"></figure><p data-paragraph="main">Epstein said that between 2005 and 2017, when Justice Anthony Kennedy was the median justice, it was easier to foresee where the court would come down on a specific issue because in many cases where he was the deciding justice, his ideology was well-known. Similarly, when Roberts took over the role of swing justice around 2018, <a href="https://fivethirtyeight.com/features/roberts-is-the-new-swing-justice-that-doesnt-mean-hes-becoming-more-liberal/" target="_blank" rel="noopener">he appeared to take a more moderate stance</a> in cases where the court’s institutional reputation was at stake. But now there are <a href="https://fivethirtyeight.com/features/the-supreme-court-might-have-three-swing-justices-now/" target="_blank" rel="noopener">several potential “swing” justices</a>. To produce an outcome that sides with the liberal justices, it now takes <em>two</em> conservative justices to defect in close cases. This makes it much harder to predict how the court will rule.</p>
+
+
+
+<p data-paragraph="main">And fissures among the conservative justices could lead to some unpredictable and confusing outcomes. Consider the rate at which the justices joined the majority opinion last term. Even with a conservative majority, the GOP-appointed justices weren’t on the same page about every decision. </p>
+
+
+
+<p data-paragraph="main">If you look at how often each justice agreed fully with the majority opinion in close cases — which is to say, they signed onto the opinion without writing their own separate opinion outlining different reasoning or a disagreement — two factions among the conservatives emerge.<a data-footnote-id="1" href="https://fivethirtyeight.com/wp-json/wp/v2/espn_verticals/398#fn-1" data-footnote-content='&lt;p&gt;&lt;p&gt;&lt;a href="https://www.scotusblog.com/wp-content/uploads/2021/07/Agreement-7.2.21.pdf" target="_blank" rel="noopener"&gt;According to SCOTUSBlog&lt;/a&gt;, “Full agreement is defined as two justices joining the same opinion(s) in all parts, without writing separately,” and “Partial agreement is defined as two justices joining at least part of the same opinion, even if one writes separately.” A justice’s partial agreement score includes the share of opinions they agreed with fully.&lt;/p&gt;
+&lt;/p&gt;'><sup>1</sup></a> Justices Brett Kavanaugh, Roberts and Amy Coney Barrett are in one camp, much likelier to be in full agreement with the majority opinion. While Justices Alito, Neil Gorsuch and Thomas are far less in step. In fact, Thomas had the lowest rate of full agreement of any of the justices, including the liberal justices.</p>
+
+
+<div>
+<section><header><h5>The conservative justices don’t always fully agree</h5>
+ <p>Share of full and partial agreements with the majority opinion for close cases in the 2020 term, by justice</p>
+ </header><table data-carpenter-slug="atd-bronner.scotus-revolution.1"><thead><tr><th colspan="2"></th>
+ <th colspan="2">Agreement</th>
+ </tr><tr><th colspan="1">justice</th>
+ <th colspan="1">Party of Appointing President</th>
+ <th colspan="1">Full</th>
+ <th colspan="1">Partial</th>
+ </tr></thead><tbody><tr><td>Brett Kavanaugh</td>
+ <td><span>Republican</span></td>
+ <td data-suffix="%" data-suffixpadding="1.1em">83.3%</td>
+ <td data-suffix="%" data-suffixpadding="1.1em">88.9%</td>
+ </tr><tr><td>John Roberts</td>
+ <td><span>Republican</span></td>
+ <td>83.3</td>
+ <td>83.3</td>
+ </tr><tr><td>Amy Coney Barrett</td>
+ <td><span>Republican</span></td>
+ <td>68.8</td>
+ <td>68.8</td>
+ </tr><tr><td>Samuel Alito</td>
+ <td><span>Republican</span></td>
+ <td>55.6</td>
+ <td>66.7</td>
+ </tr><tr><td>Stephen Breyer</td>
+ <td><span>Democratic</span></td>
+ <td>50.0</td>
+ <td>50.0</td>
+ </tr><tr><td>Neil Gorsuch</td>
+ <td><span>Republican</span></td>
+ <td>44.4</td>
+ <td>72.2</td>
+ </tr><tr><td>Sonia Sotomayor</td>
+ <td><span>Democratic</span></td>
+ <td>44.4</td>
+ <td>44.4</td>
+ </tr><tr><td>Elena Kagan</td>
+ <td><span>Democratic</span></td>
+ <td>33.3</td>
+ <td>33.3</td>
+ </tr><tr><td>Clarence Thomas</td>
+ <td><span>Republican</span></td>
+ <td>22.2</td>
+ <td>50.0</td>
+ </tr></tbody></table><footer><p>Full agreements are when the justices join the majority opinion without writing a separate concurrence or dissent; partial agreements are when the justices are in agreement but may write separate opinions to explain how their perspective differs from the majority opinion. Close cases are those in which the minority side had 3 or 4 votes. This excludes cases without a signed majority, such as per curiam cases.</p>
+ <p>Data is based on 16 cases for Barrett and 18 cases for all other justices.</p>
+ <p>Source: SCOTUSblog</p>
+ </footer></section></div>
+
+
+<p data-paragraph="main">Notably, this picture shifts when we look at the number of times that justices <em>partially</em> agreed with the majority opinion — which is to say, they joined at least part of the opinion but might have written a separate opinion outlining a different perspective. Thomas is still somewhat of an outlier among the conservative justices, with an agreement rate of 50 percent, but Gorsuch and Alito’s agreement rate jumps very close to the other Republican appointees. That signals that Gorsuch and Alito weren’t fully at loggerheads with their fellow conservatives about the outcome in many close cases, though they still disagreed about some component of the majority opinion’s reasoning. </p>
+
+
+
+<p data-paragraph="main">This is why each justice’s perspective on specific issues could matter more in the upcoming term; their ability to persuade each other will be key, too. Take abortion rights. Five of the conservative justices may agree that Roe v. Wade, the 1973 opinion that established a constitutional right to abortion, should be overturned, but that wouldn't mean they’d be on the same page about <em>how</em> to do it. And that makes a difference for how far-reaching the court’s rulings will be. For instance, when it comes to abortion, the justices may end up with a compromise ruling that narrows the constitutional right to abortion without getting rid of it entirely.</p>
+
+
+
+<p data-paragraph="main">To be clear, that’s still bad news for the liberal justices. They’re likely to find themselves compromising a lot more since, ultimately, the conservatives are in the drivers’ seat. Clark pointed out that when Roberts was nominated to the Supreme Court, <a href="https://www.nytimes.com/2005/07/20/politics/politicsspecial1/in-pursuit-of-conservative-stamp-president.html" target="_blank" rel="noopener">he was criticized</a> as a Republican partisan and likely foe of abortion rights. “Now, he could end up in the minority of a case overturning Roe v. Wade,” Clark said. “That’s how conservative the court is right now.” </p>
+
+
+
+<p data-paragraph="main">The question, he added, isn’t whether liberals will lose on big cases — it’s how badly they will lose. </p>
+
+
+
+<p data-paragraph="main">And that can be a tricky thing to track because what looks like consensus among the justices may be the liberal justices moderating their stances in the hopes of keeping the conservative justices from going too far. That appears to have been what happened in <a href="https://www.nytimes.com/2021/06/17/us/supreme-court-gay-rights-foster-care.html" target="_blank" rel="noopener">that religious liberty case from last term</a>. The decision was ostensibly unanimous, but in reality, the court was split. In that case, the liberal justices “won” by preserving the status quo — a dynamic that might persist in future terms. </p>
+
+
+
+<h2><strong>Some important decisions are happening outside the public eye</strong></h2>
+
+
+
+<p data-paragraph="main">Increasingly, too, the justices are making big decisions without fully explaining their reasoning, through cases that have emerged through the court’s “<a href="https://www.nytimes.com/2021/09/02/us/politics/supreme-court-shadow-docket-texas-abortion.html" target="_blank" rel="noopener">shadow docket</a>,” where <a href="https://slate.com/news-and-politics/2020/08/supreme-court-shadow-docket.html" target="_blank" rel="noopener">the justices are asked to rule quickly</a>, without the extensive legal briefing or oral arguments that happen in normal Supreme Court cases. Sometimes, these orders are only one sentence long. And the justices don’t have to say how they voted or why.</p>
+
+
+
+<p data-paragraph="main">Normally, <a href="https://chicagounbound.uchicago.edu/cgi/viewcontent.cgi?article=1961&amp;context=public_law_and_legal_theory" target="_blank" rel="noopener">this swiftness and secrecy</a> isn’t especially newsworthy because the rulings that come out of the shadow docket just aren’t that significant. But that has changed in recent years. Some of the court’s biggest rulings in the past year — including its decision to <a href="https://www.washingtonpost.com/politics/courts_law/supreme-court-california-coronavirus-church/2021/04/10/182faec2-99e8-11eb-962b-78c1d8228819_story.html" target="_blank" rel="noopener">strike down COVID-19 restrictions</a> on religious gatherings and its decision to <a href="https://www.bloomberg.com/news/articles/2021-09-02/-shadow-docket-use-in-supreme-court-abortion-ruling-fuels-angst" target="_blank" rel="noopener">allow a highly restrictive abortion law to go into effect in Texas</a> — came out of the shadow docket. </p>
+
+
+
+<p data-paragraph="main">The shadow docket is very difficult to track, for obvious reasons — it’s hard to know what the justices are even doing. But scholars like <a href="https://law.utexas.edu/faculty/stephen-i-vladeck" target="_blank" rel="noopener">Stephen Vladeck,</a> a law professor at the University of Texas-Austin, have found evidence that the Supreme Court’s use of the shadow docket has changed over the past few years. For instance, <a href="https://www.whitehouse.gov/wp-content/uploads/2021/06/Vladeck-SCOTUS-Commission-Testimony-06-30-2021.pdf" target="_blank" rel="noopener">according to data collected by Vladeck</a>, the number of cases in which the justices changed the legal status quo — for example, lifting an injunction imposed by a lower court — used to be very low, numbering in the single digits each year. That has changed recently, though. In the 2019 term, the court disrupted the status quo in 19 shadow-docket cases, and the same thing happened in 17 shadow docket cases in last year’s term.</p>
+
+
+
+<p data-paragraph="main">What we don’t know is why this is happening or how this fits into the broader ideological shifts on the court. And that’s a big problem for making sense of what little data we do have. Many of the <a href="https://www.usatoday.com/story/news/politics/2020/07/24/supreme-court-nevada-covid-rules-can-favor-casinos-over-churches/5454128002/" target="_blank" rel="noopener">shadow-docket rulings</a> that <a href="https://www.npr.org/2020/10/28/928890290/supreme-court-allows-ballot-extensions-in-pennsylvania-north-carolina-for-now" target="_blank" rel="noopener">made news</a> did <a href="https://www.reuters.com/legal/government/bidens-supreme-court-losses-prompt-more-shadow-docket-scrutiny-2021-08-27/" target="_blank" rel="noopener">split along ideological lines</a>. But what these decisions mean for the overall tilt of the court is much harder to say.</p>
+
+
+
+<p data-paragraph="main">Those examples suggest that the Supreme Court — which was already quite conservative — has recently transformed into an even more ideologically extreme body. And to understand what the court is doing, we need to stop relying on outdated ways of thinking about the justices. We aren’t in the land of a single swing justice anymore. Now, a more complex negotiation among the conservative justices will determine the outcome in important cases. There is a distinct possibility that we are heading into a blockbuster term with some significant victories for the conservatives, too. But more than anything, this term will tell us a lot about <em>how</em> the conservatives intend to move forward — because it’s pretty clear already what direction they’re heading.</p>]]></description>
+			<pubDate>Wed, 20 Oct 2021 11:00:00 +0100</pubDate>
+			<guid isPermaLink="false">1634724902535266</guid>
+		</item>
 		<item>
 			<title>Why Democratic Gains In Texas’s Big Metro Areas Could Outweigh Republican Success In South Texas</title>
 			<link>https://fivethirtyeight.com/features/why-democratic-gains-in-texass-big-metro-areas-could-outweigh-republican-success-in-south-texas/</link>
@@ -32,8 +210,8 @@
 
 
 
-<p data-paragraph="main">The state as a whole has <a href="https://www.politifact.com/article/2012/sep/26/texas-democrats-have-lost-statewide-elections-long/" target="_blank" rel="noopener">long voted reliably Republican</a>, but about two-thirds of Texas’s population lives in one of the state’s four huge metropolitan areas — Dallas-Fort Worth, Houston, San Antonio and Austin. If you combine all the votes there, Democrats improved their margin by more than 5 percentage points between 2016 and 2020, carrying these areas 52 percent to 47 percent in November. This shift is significant because even though Texas’s border counties moved sharply to the right in 2020 — Starr County, for instance, swung a staggering 55 points toward Republicans — Democrats’ gains in those four big cities and their suburbs added almost five times as many votes as Republicans’ gains in 28 counties along or near Texas’s border with Mexico.<a data-footnote-id="1" href="https://fivethirtyeight.com/wp-json/wp/v2/espn_verticals/398#fn-1" data-footnote-content="&lt;p&gt;&lt;p&gt;Brewster, Brooks, Cameron, Culberson, Dimmit, Duval, El Paso, Frio, Hidalgo, Hudspeth, Jeff Davis, Jim Hogg, Jim Wells, Kenedy, Kinney, Kleberg, La Salle, Maverick, Nueces, Presidio, Reeves, Starr, Terrell, Val Verde, Webb, Willacy, Zapata and Zavala.&lt;/p&gt;
-&lt;/p&gt;"><sup>1</sup></a></p>
+<p data-paragraph="main">The state as a whole has <a href="https://www.politifact.com/article/2012/sep/26/texas-democrats-have-lost-statewide-elections-long/" target="_blank" rel="noopener">long voted reliably Republican</a>, but about two-thirds of Texas’s population lives in one of the state’s four huge metropolitan areas — Dallas-Fort Worth, Houston, San Antonio and Austin. If you combine all the votes there, Democrats improved their margin by more than 5 percentage points between 2016 and 2020, carrying these areas 52 percent to 47 percent in November. This shift is significant because even though Texas’s border counties moved sharply to the right in 2020 — Starr County, for instance, swung a staggering 55 points toward Republicans — Democrats’ gains in those four big cities and their suburbs added almost five times as many votes as Republicans’ gains in 28 counties along or near Texas’s border with Mexico.<a data-footnote-id="2" href="https://fivethirtyeight.com/wp-json/wp/v2/espn_verticals/398#fn-2" data-footnote-content="&lt;p&gt;&lt;p&gt;Brewster, Brooks, Cameron, Culberson, Dimmit, Duval, El Paso, Frio, Hidalgo, Hudspeth, Jeff Davis, Jim Hogg, Jim Wells, Kenedy, Kinney, Kleberg, La Salle, Maverick, Nueces, Presidio, Reeves, Starr, Terrell, Val Verde, Webb, Willacy, Zapata and Zavala.&lt;/p&gt;
+&lt;/p&gt;"><sup>2</sup></a></p>
 
 
 
@@ -366,8 +544,8 @@
 
 
 
-<p data-paragraph="main">I sent the three products to KCA Labs, a Kentucky laboratory that is considered a national leader in testing hemp-derived products. Their test results showed that the Delta-8 I bought could get someone high, but it would come laced with compounds so mysterious a lab couldn’t identify them.<a data-footnote-id="2" href="https://fivethirtyeight.com/wp-json/wp/v2/espn_verticals/398#fn-2" data-footnote-content="&lt;p&gt;&lt;p&gt;KCA Labs ran two tests on each product.&lt;/p&gt;
-&lt;/p&gt;"><sup>2</sup></a></p>
+<p data-paragraph="main">I sent the three products to KCA Labs, a Kentucky laboratory that is considered a national leader in testing hemp-derived products. Their test results showed that the Delta-8 I bought could get someone high, but it would come laced with compounds so mysterious a lab couldn’t identify them.<a data-footnote-id="3" href="https://fivethirtyeight.com/wp-json/wp/v2/espn_verticals/398#fn-3" data-footnote-content="&lt;p&gt;&lt;p&gt;KCA Labs ran two tests on each product.&lt;/p&gt;
+&lt;/p&gt;"><sup>3</sup></a></p>
 
 
 
@@ -485,8 +663,8 @@
 
 
 
-<p data-paragraph="main">Terry McAuliffe, a former governor, aims to regain his old job and continue a 13-election winning streak for Democrats in Virginia statewide races since 2012,<a data-footnote-id="3" href="https://fivethirtyeight.com/wp-json/wp/v2/espn_verticals/398#fn-3" data-footnote-content="&lt;p&gt;&lt;p&gt;President and U.S. Senate in 2012; governor, lieutenant governor and attorney general in 2013; U.S. Senate in 2014; president in 2016; governor, lieutenant governor and attorney general in 2017; U.S. Senate in 2018; and president and U.S. Senate in 2020.&lt;/p&gt;
-&lt;/p&gt;"><sup>3</sup></a> while Glenn Youngkin hopes to break that run and deliver a gubernatorial election victory to the GOP for the <a href="https://www.nytimes.com/2009/11/04/us/04vote.html" target="_blank" rel="noopener">first time since 2009</a>. And according to <a href="https://projects.fivethirtyeight.com/polls/governor/virginia/" target="_blank" rel="noopener">FiveThirtyEight’s Virginia polling average</a>, it really is either candidate’s race to win. McAuliffe leads by only a few percentage points, suggesting a close, competitive race that, while somewhat likelier to result in a Democratic victory, could go either way.</p>
+<p data-paragraph="main">Terry McAuliffe, a former governor, aims to regain his old job and continue a 13-election winning streak for Democrats in Virginia statewide races since 2012,<a data-footnote-id="4" href="https://fivethirtyeight.com/wp-json/wp/v2/espn_verticals/398#fn-4" data-footnote-content="&lt;p&gt;&lt;p&gt;President and U.S. Senate in 2012; governor, lieutenant governor and attorney general in 2013; U.S. Senate in 2014; president in 2016; governor, lieutenant governor and attorney general in 2017; U.S. Senate in 2018; and president and U.S. Senate in 2020.&lt;/p&gt;
+&lt;/p&gt;"><sup>4</sup></a> while Glenn Youngkin hopes to break that run and deliver a gubernatorial election victory to the GOP for the <a href="https://www.nytimes.com/2009/11/04/us/04vote.html" target="_blank" rel="noopener">first time since 2009</a>. And according to <a href="https://projects.fivethirtyeight.com/polls/governor/virginia/" target="_blank" rel="noopener">FiveThirtyEight’s Virginia polling average</a>, it really is either candidate’s race to win. McAuliffe leads by only a few percentage points, suggesting a close, competitive race that, while somewhat likelier to result in a Democratic victory, could go either way.</p>
 
 
 
@@ -547,8 +725,8 @@
 
 
 
-<figure><img loading="lazy" width="1150" height="920" src="https://fivethirtyeight.com/wp-content/uploads/2021/10/biden-approval-rating-2-2.png" alt="" data-src="https://fivethirtyeight.com/wp-content/uploads/2021/10/biden-approval-rating-2-2.png" data-srcset="https://fivethirtyeight.com/wp-content/uploads/2021/10/biden-approval-rating-2-2.png?w=700 1x, https://fivethirtyeight.com/wp-content/uploads/2021/10/biden-approval-rating-2-2.png?w=1400 2x"></figure><p data-paragraph="main">According to FiveThirtyEight’s <a href="https://projects.fivethirtyeight.com/biden-approval-rating/" target="_blank" rel="noopener">presidential approval tracker</a>, 44.7 percent of Americans approve of the job Biden is doing as president, while 49.7 percent disapprove (a net approval rating of -5.0 points).<a data-footnote-id="4" href="https://fivethirtyeight.com/wp-json/wp/v2/espn_verticals/398#fn-4" data-footnote-content="&lt;p&gt;&lt;p&gt;As of 5 p.m. Eastern on Thursday.&lt;/p&gt;
-&lt;/p&gt;"><sup>4</sup></a> At this time <a href="https://fivethirtyeight.com/features/americans-want-the-government-to-act-on-climate-change-whats-the-hold-up/" target="_blank" rel="noopener">last week</a>, 44.2 percent approved and 48.3 percent disapproved (a net approval rating of -4.1 points). One month ago, Biden had an approval rating of 45.9 percent and a disapproval rating of 49.2 percent (a net approval rating of -3.3 points).</p>
+<figure><img loading="lazy" width="1150" height="920" src="https://fivethirtyeight.com/wp-content/uploads/2021/10/biden-approval-rating-2-2.png" alt="" data-src="https://fivethirtyeight.com/wp-content/uploads/2021/10/biden-approval-rating-2-2.png" data-srcset="https://fivethirtyeight.com/wp-content/uploads/2021/10/biden-approval-rating-2-2.png?w=700 1x, https://fivethirtyeight.com/wp-content/uploads/2021/10/biden-approval-rating-2-2.png?w=1400 2x"></figure><p data-paragraph="main">According to FiveThirtyEight’s <a href="https://projects.fivethirtyeight.com/biden-approval-rating/" target="_blank" rel="noopener">presidential approval tracker</a>, 44.7 percent of Americans approve of the job Biden is doing as president, while 49.7 percent disapprove (a net approval rating of -5.0 points).<a data-footnote-id="5" href="https://fivethirtyeight.com/wp-json/wp/v2/espn_verticals/398#fn-5" data-footnote-content="&lt;p&gt;&lt;p&gt;As of 5 p.m. Eastern on Thursday.&lt;/p&gt;
+&lt;/p&gt;"><sup>5</sup></a> At this time <a href="https://fivethirtyeight.com/features/americans-want-the-government-to-act-on-climate-change-whats-the-hold-up/" target="_blank" rel="noopener">last week</a>, 44.2 percent approved and 48.3 percent disapproved (a net approval rating of -4.1 points). One month ago, Biden had an approval rating of 45.9 percent and a disapproval rating of 49.2 percent (a net approval rating of -3.3 points).</p>
 
 
 
@@ -556,8 +734,8 @@
 
 
 
-<figure><img loading="lazy" width="1150" height="920" src="https://fivethirtyeight.com/wp-content/uploads/2021/10/generic-ballot-2-1.png" alt="" data-src="https://fivethirtyeight.com/wp-content/uploads/2021/10/generic-ballot-2-1.png" data-srcset="https://fivethirtyeight.com/wp-content/uploads/2021/10/generic-ballot-2-1.png?w=700 1x, https://fivethirtyeight.com/wp-content/uploads/2021/10/generic-ballot-2-1.png?w=1400 2x"></figure><p data-paragraph="main">In our average of polls of the <a href="https://projects.fivethirtyeight.com/congress-generic-ballot-polls/" target="_blank" rel="noopener">generic congressional ballot</a>, Democrats currently lead Republicans by 2.9 percentage points (44.4 percent to 41.5 percent, respectively).<a data-footnote-id="5" href="https://fivethirtyeight.com/wp-json/wp/v2/espn_verticals/398#fn-5" data-footnote-content="&lt;p&gt;&lt;p&gt;As of 5 p.m. Eastern on Thursday.&lt;/p&gt;
-&lt;/p&gt;"><sup>5</sup></a> A week ago, Democrats led Republicans by 2.8 points (44.7 percent to 41.9 percent). At this time last month, voters preferred Democrats over Republicans by 2.5 points (43.8 percent to 41.4 percent).</p>]]></description>
+<figure><img loading="lazy" width="1150" height="920" src="https://fivethirtyeight.com/wp-content/uploads/2021/10/generic-ballot-2-1.png" alt="" data-src="https://fivethirtyeight.com/wp-content/uploads/2021/10/generic-ballot-2-1.png" data-srcset="https://fivethirtyeight.com/wp-content/uploads/2021/10/generic-ballot-2-1.png?w=700 1x, https://fivethirtyeight.com/wp-content/uploads/2021/10/generic-ballot-2-1.png?w=1400 2x"></figure><p data-paragraph="main">In our average of polls of the <a href="https://projects.fivethirtyeight.com/congress-generic-ballot-polls/" target="_blank" rel="noopener">generic congressional ballot</a>, Democrats currently lead Republicans by 2.9 percentage points (44.4 percent to 41.5 percent, respectively).<a data-footnote-id="6" href="https://fivethirtyeight.com/wp-json/wp/v2/espn_verticals/398#fn-6" data-footnote-content="&lt;p&gt;&lt;p&gt;As of 5 p.m. Eastern on Thursday.&lt;/p&gt;
+&lt;/p&gt;"><sup>6</sup></a> A week ago, Democrats led Republicans by 2.8 points (44.7 percent to 41.9 percent). At this time last month, voters preferred Democrats over Republicans by 2.5 points (43.8 percent to 41.4 percent).</p>]]></description>
 			<pubDate>Fri, 15 Oct 2021 11:00:00 +0100</pubDate>
 			<guid isPermaLink="false">1634292901921709</guid>
 		</item>
@@ -757,8 +935,8 @@
 <p>Watch: https://abcnews.go.com/fivethirtyeight/video/texas-abortion-ban-rest-country-fivethirtyeight-79824406</p>
 
 
-<p data-paragraph="main">Democrats were also almost twice as likely as Republicans to have heard “a lot” about new restrictive abortion laws in both Texas and Mississippi (49 percent vs. 26 percent, respectively in an <a href="https://docs.cdn.yougov.com/j46zs8picp/econTabReport.pdf" target="_blank" rel="noopener">Oct. 3-5 Economist/YouGov poll</a>). This is likely due to how little airtime Texas’s law has gotten both <a href="https://www.theatlantic.com/ideas/archive/2021/09/why-right-so-quiet-about-texass-abortion-law/619991/" target="_blank" rel="noopener">among Republican politicians</a> and conservative media outlets like Fox News. Consider that Fox News <a href="https://api.gdeltproject.org/api/v2/summary/summary?d=iatv&amp;t=summary&amp;k=abortion&amp;ts=custom&amp;sdt=20210901000000&amp;edt=20210930235959&amp;fs=station%3ACNN&amp;fs=station%3AFOXNEWS&amp;fs=station%3AMSNBC&amp;fdn=raw&amp;svt=zoom&amp;svts=zoom&amp;swvt=zoom&amp;ssc=yes&amp;sshc=yes&amp;swc=yes&amp;stcl=yes&amp;c=1" target="_blank" rel="noopener">mentioned</a> “abortion” 392 times in September, compared with 1,326 and 2,969 respective mentions on CNN and MSNBC.<a data-footnote-id="6" href="https://fivethirtyeight.com/wp-json/wp/v2/espn_verticals/398#fn-6" data-footnote-content="&lt;p&gt;&lt;p&gt;We ran a search of CNN, Fox News and MSNBC coverage from Sept. 1 to Sept. 30 in the Television News Archive using the GDELT 2.0 TV API. The database splits daily news footage into 15-second clips, and returned those that contained a mention of our search query (“abortion”).&lt;/p&gt;
-&lt;/p&gt;"><sup>6</sup></a> Republican politicians and conservative media organizations are <a href="https://www.politico.com/news/magazine/2021/09/17/why-republicans-scared-texas-abortion-512554" target="_blank" rel="noopener">reportedly fearful</a> of the potential backlash from the <a href="https://www.monmouth.edu/polling-institute/reports/monmouthpoll_us_092021/" target="_blank" rel="noopener">unpopular Texas law</a>.</p>
+<p data-paragraph="main">Democrats were also almost twice as likely as Republicans to have heard “a lot” about new restrictive abortion laws in both Texas and Mississippi (49 percent vs. 26 percent, respectively in an <a href="https://docs.cdn.yougov.com/j46zs8picp/econTabReport.pdf" target="_blank" rel="noopener">Oct. 3-5 Economist/YouGov poll</a>). This is likely due to how little airtime Texas’s law has gotten both <a href="https://www.theatlantic.com/ideas/archive/2021/09/why-right-so-quiet-about-texass-abortion-law/619991/" target="_blank" rel="noopener">among Republican politicians</a> and conservative media outlets like Fox News. Consider that Fox News <a href="https://api.gdeltproject.org/api/v2/summary/summary?d=iatv&amp;t=summary&amp;k=abortion&amp;ts=custom&amp;sdt=20210901000000&amp;edt=20210930235959&amp;fs=station%3ACNN&amp;fs=station%3AFOXNEWS&amp;fs=station%3AMSNBC&amp;fdn=raw&amp;svt=zoom&amp;svts=zoom&amp;swvt=zoom&amp;ssc=yes&amp;sshc=yes&amp;swc=yes&amp;stcl=yes&amp;c=1" target="_blank" rel="noopener">mentioned</a> “abortion” 392 times in September, compared with 1,326 and 2,969 respective mentions on CNN and MSNBC.<a data-footnote-id="7" href="https://fivethirtyeight.com/wp-json/wp/v2/espn_verticals/398#fn-7" data-footnote-content="&lt;p&gt;&lt;p&gt;We ran a search of CNN, Fox News and MSNBC coverage from Sept. 1 to Sept. 30 in the Television News Archive using the GDELT 2.0 TV API. The database splits daily news footage into 15-second clips, and returned those that contained a mention of our search query (“abortion”).&lt;/p&gt;
+&lt;/p&gt;"><sup>7</sup></a> Republican politicians and conservative media organizations are <a href="https://www.politico.com/news/magazine/2021/09/17/why-republicans-scared-texas-abortion-512554" target="_blank" rel="noopener">reportedly fearful</a> of the potential backlash from the <a href="https://www.monmouth.edu/polling-institute/reports/monmouthpoll_us_092021/" target="_blank" rel="noopener">unpopular Texas law</a>.</p>
 
 
 
@@ -958,8 +1136,8 @@
 
 
 
-<p data-paragraph="main"><strong>sarah </strong>(<a href="https://fivethirtyeight.com/contributors/sarah-frostenson/" target="_blank" rel="noopener">Sarah Frostenson</a>, politics editor): President Biden’s approval ratings are underwater — 49.2 percent disapprove of the job he is doing as president while 44.6 percent approve, according to <a href="https://projects.fivethirtyeight.com/biden-approval-rating/" target="_blank" rel="noopener">FiveThirtyEight’s presidential approval tracker</a>.<a data-footnote-id="7" href="https://fivethirtyeight.com/wp-json/wp/v2/espn_verticals/398#fn-7" data-footnote-content="&lt;p&gt;&lt;p&gt;As of 5 p.m. Eastern on Monday.&lt;/p&gt;
-&lt;/p&gt;"><sup>7</sup></a></p>
+<p data-paragraph="main"><strong>sarah </strong>(<a href="https://fivethirtyeight.com/contributors/sarah-frostenson/" target="_blank" rel="noopener">Sarah Frostenson</a>, politics editor): President Biden’s approval ratings are underwater — 49.2 percent disapprove of the job he is doing as president while 44.6 percent approve, according to <a href="https://projects.fivethirtyeight.com/biden-approval-rating/" target="_blank" rel="noopener">FiveThirtyEight’s presidential approval tracker</a>.<a data-footnote-id="8" href="https://fivethirtyeight.com/wp-json/wp/v2/espn_verticals/398#fn-8" data-footnote-content="&lt;p&gt;&lt;p&gt;As of 5 p.m. Eastern on Monday.&lt;/p&gt;
+&lt;/p&gt;"><sup>8</sup></a></p>
 
 
 
@@ -1300,18 +1478,18 @@
 
 
 
-<p data-paragraph="main">But while no one denies that Arizona is a tough state for Democrats to win, it’s not nearly as tough as Manchin’s West Virginia, which Trump carried by a whopping <a href="https://services.sos.wv.gov/apps/elections/results/results.aspx?year=2016&amp;eid=23&amp;county=Statewide" target="_blank" rel="noopener">42 points</a> in 2016. West Virginia is no swing state; it’s one of the <a href="https://fivethirtyeight.com/features/how-red-or-blue-is-your-state-your-congressional-district/" target="_blank" rel="noopener">reddest states in the entire country</a>. And while six non-Sinema Democrats have won a statewide election in Arizona since 2018 — including Biden in 2020<a data-footnote-id="8" href="https://fivethirtyeight.com/wp-json/wp/v2/espn_verticals/398#fn-8" data-footnote-content="&lt;p&gt;&lt;p&gt;The other five are Sen. Mark Kelly, Secretary of State Katie Hobbs, Superintendent of Public Instruction Kathy Hoffman and Corporation Commissioners Sandra Kennedy and Anna Tovar.&lt;/p&gt;
-&lt;/p&gt;"><sup>8</sup></a> — Manchin is the only Democratic statewide elected official left in West Virginia.</p>
+<p data-paragraph="main">But while no one denies that Arizona is a tough state for Democrats to win, it’s not nearly as tough as Manchin’s West Virginia, which Trump carried by a whopping <a href="https://services.sos.wv.gov/apps/elections/results/results.aspx?year=2016&amp;eid=23&amp;county=Statewide" target="_blank" rel="noopener">42 points</a> in 2016. West Virginia is no swing state; it’s one of the <a href="https://fivethirtyeight.com/features/how-red-or-blue-is-your-state-your-congressional-district/" target="_blank" rel="noopener">reddest states in the entire country</a>. And while six non-Sinema Democrats have won a statewide election in Arizona since 2018 — including Biden in 2020<a data-footnote-id="9" href="https://fivethirtyeight.com/wp-json/wp/v2/espn_verticals/398#fn-9" data-footnote-content="&lt;p&gt;&lt;p&gt;The other five are Sen. Mark Kelly, Secretary of State Katie Hobbs, Superintendent of Public Instruction Kathy Hoffman and Corporation Commissioners Sandra Kennedy and Anna Tovar.&lt;/p&gt;
+&lt;/p&gt;"><sup>9</sup></a> — Manchin is the only Democratic statewide elected official left in West Virginia.</p>
 
 
 
-<p data-paragraph="main">In other words, Democrats are lucky that Manchin is in the Senate at all. Because of how red West Virginia is, a typical senator from the state would almost certainly be a Republican.<a data-footnote-id="9" href="https://fivethirtyeight.com/wp-json/wp/v2/espn_verticals/398#fn-9" data-footnote-content="&lt;p&gt;&lt;p&gt;And if so, that would hand Republicans control of the Senate, considering Democrats have the majority now only by dint of Vice President Kamala Harris’s tie-breaking vote.&lt;/p&gt;
-&lt;/p&gt;"><sup>9</sup></a> Indeed, based on Trump’s margin in West Virginia in 2016, <a href="https://fivethirtyeight.com/features/introducing-the-trump-score/" target="_blank" rel="noopener">we’d expect</a> that a generic replacement for Manchin would have voted in line with Trump’s position 89.3 percent of the time during his presidency. Manchin, though, voted with Trump just <a href="https://projects.fivethirtyeight.com/congress-trump-score/joe-manchin-iii/" target="_blank" rel="noopener">50.4 percent</a> of the time — a lot for a Democrat, but not a lot considering the partisanship of his home state.</p>
+<p data-paragraph="main">In other words, Democrats are lucky that Manchin is in the Senate at all. Because of how red West Virginia is, a typical senator from the state would almost certainly be a Republican.<a data-footnote-id="10" href="https://fivethirtyeight.com/wp-json/wp/v2/espn_verticals/398#fn-10" data-footnote-content="&lt;p&gt;&lt;p&gt;And if so, that would hand Republicans control of the Senate, considering Democrats have the majority now only by dint of Vice President Kamala Harris’s tie-breaking vote.&lt;/p&gt;
+&lt;/p&gt;"><sup>10</sup></a> Indeed, based on Trump’s margin in West Virginia in 2016, <a href="https://fivethirtyeight.com/features/introducing-the-trump-score/" target="_blank" rel="noopener">we’d expect</a> that a generic replacement for Manchin would have voted in line with Trump’s position 89.3 percent of the time during his presidency. Manchin, though, voted with Trump just <a href="https://projects.fivethirtyeight.com/congress-trump-score/joe-manchin-iii/" target="_blank" rel="noopener">50.4 percent</a> of the time — a lot for a Democrat, but not a lot considering the partisanship of his home state.</p>
 
 
 
-<p data-paragraph="main">Using the same methodology, we’d have expected a generic replacement for Sinema to vote with Trump just 39.8 percent of the time — a reflection of the purpler partisanship of her state and her congressional district at the time. Yet Sinema voted with him <a href="https://projects.fivethirtyeight.com/congress-trump-score/kyrsten-sinema/" target="_blank" rel="noopener">50.4 percent</a> of the time too, as much as Manchin. That made her the <a href="https://projects.fivethirtyeight.com/congress-trump-score/" target="_blank" rel="noopener">only Democratic senator</a> who voted with Trump significantly<a data-footnote-id="10" href="https://fivethirtyeight.com/wp-json/wp/v2/espn_verticals/398#fn-10" data-footnote-content="&lt;p&gt;&lt;p&gt;More than 5 percentage points more often.&lt;/p&gt;
-&lt;/p&gt;"><sup>10</sup></a> <em>more often</em> than expected based on the politics of senators’ states. Her voting record during the Trump years looked more like Manchin’s, Sen. Joe Donnelly’s, Sen. Heidi Heitkamp’s or Sen. Claire McCaskill’s — all Democrats from substantially redder states.</p>
+<p data-paragraph="main">Using the same methodology, we’d have expected a generic replacement for Sinema to vote with Trump just 39.8 percent of the time — a reflection of the purpler partisanship of her state and her congressional district at the time. Yet Sinema voted with him <a href="https://projects.fivethirtyeight.com/congress-trump-score/kyrsten-sinema/" target="_blank" rel="noopener">50.4 percent</a> of the time too, as much as Manchin. That made her the <a href="https://projects.fivethirtyeight.com/congress-trump-score/" target="_blank" rel="noopener">only Democratic senator</a> who voted with Trump significantly<a data-footnote-id="11" href="https://fivethirtyeight.com/wp-json/wp/v2/espn_verticals/398#fn-11" data-footnote-content="&lt;p&gt;&lt;p&gt;More than 5 percentage points more often.&lt;/p&gt;
+&lt;/p&gt;"><sup>11</sup></a> <em>more often</em> than expected based on the politics of senators’ states. Her voting record during the Trump years looked more like Manchin’s, Sen. Joe Donnelly’s, Sen. Heidi Heitkamp’s or Sen. Claire McCaskill’s — all Democrats from substantially redder states.</p>
 
 
 <div>
@@ -1705,9 +1883,9 @@
 
 
 
-<p data-paragraph="main">It’s extremely rare for elected incumbent senators to lose their primaries. <a href="https://docs.google.com/spreadsheets/d/1X97S6hUby6PPHAMoEwvAxkAUo8EUwLk8xMosx4hVd8c/htmlview?usp=sharing" target="_blank" rel="noopener">Only five have done so this century</a>: Republican Sen. Bob Smith in 2002, Democratic Sen. Joe Lieberman in 2006, Democratic Sen. Arlen Specter in 2010, Republican Sen. Lisa Murkowski in 2010<a data-footnote-id="11" href="https://fivethirtyeight.com/wp-json/wp/v2/espn_verticals/398#fn-11" data-footnote-content="&lt;p&gt;&lt;p&gt;Lieberman and Murkowski, however, went on to win their general elections as independents.&lt;/p&gt;
-&lt;/p&gt;"><sup>11</sup></a> and Republican Sen. Richard Lugar in 2012.<a data-footnote-id="12" href="https://fivethirtyeight.com/wp-json/wp/v2/espn_verticals/398#fn-12" data-footnote-content="&lt;p&gt;&lt;p&gt; In addition, appointed Sen. Luther Strange lost the Alabama Republican primary in 2017, and Sen. Bob Bennett lost renomination at the Utah Republican convention in 2010.&lt;/p&gt;
-&lt;/p&gt;"><sup>12</sup></a> But it’s also rare for incumbent senators to poll as poorly among their own party’s voters as Sinema does. In addition to the OH Predictive Insights poll, Democratic registered voters in Arizona gave her a 46 percent favorable rating and a 40 percent unfavorable rating in a <a href="https://morningconsult.com/2021/10/04/sinema-manchin-approval-rating/" target="_blank" rel="noopener">Morning Consult</a> survey conducted across July, August and September. And Democratic pollster <a href="https://www.dailykos.com/stories/2021/9/27/2054753/-Sinema-s-unforced-errors-have-cost-her-big-time-with-Arizona-Democrats" target="_blank" rel="noopener">Civiqs</a> recently found her severely underwater among the same population: 17 percent favorable to 65 percent unfavorable. </p>
+<p data-paragraph="main">It’s extremely rare for elected incumbent senators to lose their primaries. <a href="https://docs.google.com/spreadsheets/d/1X97S6hUby6PPHAMoEwvAxkAUo8EUwLk8xMosx4hVd8c/htmlview?usp=sharing" target="_blank" rel="noopener">Only five have done so this century</a>: Republican Sen. Bob Smith in 2002, Democratic Sen. Joe Lieberman in 2006, Democratic Sen. Arlen Specter in 2010, Republican Sen. Lisa Murkowski in 2010<a data-footnote-id="12" href="https://fivethirtyeight.com/wp-json/wp/v2/espn_verticals/398#fn-12" data-footnote-content="&lt;p&gt;&lt;p&gt;Lieberman and Murkowski, however, went on to win their general elections as independents.&lt;/p&gt;
+&lt;/p&gt;"><sup>12</sup></a> and Republican Sen. Richard Lugar in 2012.<a data-footnote-id="13" href="https://fivethirtyeight.com/wp-json/wp/v2/espn_verticals/398#fn-13" data-footnote-content="&lt;p&gt;&lt;p&gt; In addition, appointed Sen. Luther Strange lost the Alabama Republican primary in 2017, and Sen. Bob Bennett lost renomination at the Utah Republican convention in 2010.&lt;/p&gt;
+&lt;/p&gt;"><sup>13</sup></a> But it’s also rare for incumbent senators to poll as poorly among their own party’s voters as Sinema does. In addition to the OH Predictive Insights poll, Democratic registered voters in Arizona gave her a 46 percent favorable rating and a 40 percent unfavorable rating in a <a href="https://morningconsult.com/2021/10/04/sinema-manchin-approval-rating/" target="_blank" rel="noopener">Morning Consult</a> survey conducted across July, August and September. And Democratic pollster <a href="https://www.dailykos.com/stories/2021/9/27/2054753/-Sinema-s-unforced-errors-have-cost-her-big-time-with-Arizona-Democrats" target="_blank" rel="noopener">Civiqs</a> recently found her severely underwater among the same population: 17 percent favorable to 65 percent unfavorable. </p>
 
 
 
@@ -2312,13 +2490,13 @@ Some sectors have been able to adjust (more or less) to the realities of the pan
 
 
 
-<ul><li>A <a href="https://www.pewresearch.org/fact-tank/2021/10/06/two-thirds-of-republicans-want-trump-to-retain-major-political-role-44-want-him-to-run-again-in-2024/">Pew Research Center survey</a> from September found that 67 percent of Republicans would like to see former President Donald Trump remain as a major national political figure. That’s up 10 percentage points from a poll conducted by Pew just after the Jan. 6 insurrection at the U.S. Capitol. </li><li>A recent <a href="https://emersonpolling.reportablenews.com/pr/virginia-2021-dead-heat-in-governor-and-attorney-general-race">Emerson College/Nexstar Media poll</a> showed a tied race for Virginia’s upcoming gubernatorial election, with 49 percent of likely voters supporting Democrat Terry McAuliffe and 49 percent supporting Republican Glenn Youngkin. FiveThirtyEight’s updating average of <a href="https://projects.fivethirtyeight.com/polls/governor/virginia/">Virginia governor polls</a> currently has McAuliffe at 47.5 percent<strong> </strong>and Youngkin at 45 percent.<a data-footnote-id="13" href="https://fivethirtyeight.com/wp-json/wp/v2/espn_verticals/398#fn-13" data-footnote-content="&lt;p&gt;&lt;p&gt;As of 5 p.m. Eastern on Thursday.&lt;/p&gt;
-&lt;/p&gt;"><sup>13</sup></a></li><li>Americans want to get spooky again this Halloween. Per a <a href="https://morningconsult.com/2021/10/06/halloween-costumes-parties-candy-2021/">new Morning Consult poll</a>, 56 percent of adults said they planned to celebrate Halloween this year, up 14 points from those who planned to celebrate in 2020. This year’s share of celebrating adults is more in line with pre-COVID-19 levels — 57 percent of surveyed Americans said they celebrated Halloween in 2019. </li><li>A majority of Americans view both major political parties unfavorably. Per a <a href="https://news.gallup.com/poll/355280/party-favorable-ratings-near-parity-viewed-negatively.aspx">recently released Gallup poll</a>, 55 percent of surveyed adults said they had an unfavorable view of the Democratic Party and 56 percent an unfavorable view of the Republican Party. That being said, the GOP’s favorability rating (now 40 percent) increased 3 points between January and September, while the Democratic Party’s favorability (now 43 percent) dropped by 5 points during the same time period.</li><li>Arizona Sen. Kyrsten Sinema’s popularity may be suffering from her opposition to the Democrats’ proposed spending bill, according to <a href="https://morningconsult.com/2021/10/04/sinema-manchin-approval-rating/">a new Morning Consult poll</a>. Sinema’s approval among Arizona voters dropped 6 percentage points since the start of the year, from 48 percent to 42 percent. This drop left voter disapproval of Sinema equal to voter approval of her, at 42 percent. Sinema’s disapproval rating <em>among Democrats</em> dropped 20 points from the beginning of the year, to 40 percent now. But her disapproval among Democrats was somewhat offset by her improved approval rating among Republicans, which increased by 9 points.</li><li>As President Biden and the Democrats continue to negotiate the reconciliation bill — and hold off voting on the bipartisan infrastructure bill — approval of how Biden has handled rebuilding the country’s infrastructure has dipped, according to a new <a href="https://www.ipsos.com/sites/default/files/ct/news/documents/2021-09/topline-abc-biden-approval-09.29.21.pdf">ABC News/Ipsos poll</a>. A majority of Americans (55 percent) approved of Biden’s handling of U.S. infrastructure, but that’s down 7 points since August. Democrats are hoping to pass the bipartisan infrastructure bill and reconciliation bill <a href="https://www.cnbc.com/2021/10/04/schumer-aims-to-pass-biden-infrastructure-build-back-better-plans-in-october.html">by the end of October</a>.</li><li>Facebook <a href="https://about.instagram.com/blog/announcements/pausing-instagram-kids">paused its development of Instagram Kids</a> — a version of the app made specifically for children under 13 years old. The Sept. 27 pause followed the leak of internal studies — by recently revealed <a href="https://www.npr.org/2021/10/05/1043194385/whistleblowers-testimony-facebook-instagram">whistleblower Frances Haugen</a> — that had found that <a href="https://www.wsj.com/articles/facebook-knows-instagram-is-toxic-for-teen-girls-company-documents-show-11631620739">Instagram was negatively affecting the mental health of teen girls</a>. For some parents, the pause of Instagram Kids may come as a relief. A recent <a href="https://morningconsult.com/2021/10/05/instagram-kids-social-media-polling/">Morning Consult poll</a> found that 53 percent of parents with kids aged 5 to 13 either strongly or somewhat opposed the creation of Instagram Kids. Additionally, 87 percent of those parents said they were concerned about the impact of social media on the mental health of children. </li><li>A small majority of American adults (51 percent) said there shouldn’t be more government regulation for social media platforms like Facebook, Twitter and YouTube. Sixty-one percent of Republicans agreed with this sentiment, while 59 percent of Democrats disagreed and thought there should be more regulation of these platforms, per a recent <a href="https://poll.qu.edu/images/polling/us/us10052021_uype37.pdf">Quinnipiac University poll</a>.</li></ul><h2><strong>Biden approval</strong></h2>
+<ul><li>A <a href="https://www.pewresearch.org/fact-tank/2021/10/06/two-thirds-of-republicans-want-trump-to-retain-major-political-role-44-want-him-to-run-again-in-2024/">Pew Research Center survey</a> from September found that 67 percent of Republicans would like to see former President Donald Trump remain as a major national political figure. That’s up 10 percentage points from a poll conducted by Pew just after the Jan. 6 insurrection at the U.S. Capitol. </li><li>A recent <a href="https://emersonpolling.reportablenews.com/pr/virginia-2021-dead-heat-in-governor-and-attorney-general-race">Emerson College/Nexstar Media poll</a> showed a tied race for Virginia’s upcoming gubernatorial election, with 49 percent of likely voters supporting Democrat Terry McAuliffe and 49 percent supporting Republican Glenn Youngkin. FiveThirtyEight’s updating average of <a href="https://projects.fivethirtyeight.com/polls/governor/virginia/">Virginia governor polls</a> currently has McAuliffe at 47.5 percent<strong> </strong>and Youngkin at 45 percent.<a data-footnote-id="14" href="https://fivethirtyeight.com/wp-json/wp/v2/espn_verticals/398#fn-14" data-footnote-content="&lt;p&gt;&lt;p&gt;As of 5 p.m. Eastern on Thursday.&lt;/p&gt;
+&lt;/p&gt;"><sup>14</sup></a></li><li>Americans want to get spooky again this Halloween. Per a <a href="https://morningconsult.com/2021/10/06/halloween-costumes-parties-candy-2021/">new Morning Consult poll</a>, 56 percent of adults said they planned to celebrate Halloween this year, up 14 points from those who planned to celebrate in 2020. This year’s share of celebrating adults is more in line with pre-COVID-19 levels — 57 percent of surveyed Americans said they celebrated Halloween in 2019. </li><li>A majority of Americans view both major political parties unfavorably. Per a <a href="https://news.gallup.com/poll/355280/party-favorable-ratings-near-parity-viewed-negatively.aspx">recently released Gallup poll</a>, 55 percent of surveyed adults said they had an unfavorable view of the Democratic Party and 56 percent an unfavorable view of the Republican Party. That being said, the GOP’s favorability rating (now 40 percent) increased 3 points between January and September, while the Democratic Party’s favorability (now 43 percent) dropped by 5 points during the same time period.</li><li>Arizona Sen. Kyrsten Sinema’s popularity may be suffering from her opposition to the Democrats’ proposed spending bill, according to <a href="https://morningconsult.com/2021/10/04/sinema-manchin-approval-rating/">a new Morning Consult poll</a>. Sinema’s approval among Arizona voters dropped 6 percentage points since the start of the year, from 48 percent to 42 percent. This drop left voter disapproval of Sinema equal to voter approval of her, at 42 percent. Sinema’s disapproval rating <em>among Democrats</em> dropped 20 points from the beginning of the year, to 40 percent now. But her disapproval among Democrats was somewhat offset by her improved approval rating among Republicans, which increased by 9 points.</li><li>As President Biden and the Democrats continue to negotiate the reconciliation bill — and hold off voting on the bipartisan infrastructure bill — approval of how Biden has handled rebuilding the country’s infrastructure has dipped, according to a new <a href="https://www.ipsos.com/sites/default/files/ct/news/documents/2021-09/topline-abc-biden-approval-09.29.21.pdf">ABC News/Ipsos poll</a>. A majority of Americans (55 percent) approved of Biden’s handling of U.S. infrastructure, but that’s down 7 points since August. Democrats are hoping to pass the bipartisan infrastructure bill and reconciliation bill <a href="https://www.cnbc.com/2021/10/04/schumer-aims-to-pass-biden-infrastructure-build-back-better-plans-in-october.html">by the end of October</a>.</li><li>Facebook <a href="https://about.instagram.com/blog/announcements/pausing-instagram-kids">paused its development of Instagram Kids</a> — a version of the app made specifically for children under 13 years old. The Sept. 27 pause followed the leak of internal studies — by recently revealed <a href="https://www.npr.org/2021/10/05/1043194385/whistleblowers-testimony-facebook-instagram">whistleblower Frances Haugen</a> — that had found that <a href="https://www.wsj.com/articles/facebook-knows-instagram-is-toxic-for-teen-girls-company-documents-show-11631620739">Instagram was negatively affecting the mental health of teen girls</a>. For some parents, the pause of Instagram Kids may come as a relief. A recent <a href="https://morningconsult.com/2021/10/05/instagram-kids-social-media-polling/">Morning Consult poll</a> found that 53 percent of parents with kids aged 5 to 13 either strongly or somewhat opposed the creation of Instagram Kids. Additionally, 87 percent of those parents said they were concerned about the impact of social media on the mental health of children. </li><li>A small majority of American adults (51 percent) said there shouldn’t be more government regulation for social media platforms like Facebook, Twitter and YouTube. Sixty-one percent of Republicans agreed with this sentiment, while 59 percent of Democrats disagreed and thought there should be more regulation of these platforms, per a recent <a href="https://poll.qu.edu/images/polling/us/us10052021_uype37.pdf">Quinnipiac University poll</a>.</li></ul><h2><strong>Biden approval</strong></h2>
 
 
 
-<figure><img loading="lazy" width="1150" height="920" src="https://fivethirtyeight.com/wp-content/uploads/2021/10/biden-approval-rating-2.png" alt="" data-src="https://fivethirtyeight.com/wp-content/uploads/2021/10/biden-approval-rating-2.png" data-srcset="https://fivethirtyeight.com/wp-content/uploads/2021/10/biden-approval-rating-2.png?w=700 1x, https://fivethirtyeight.com/wp-content/uploads/2021/10/biden-approval-rating-2.png?w=1400 2x"></figure><p data-paragraph="main">According to FiveThirtyEight’s <a href="https://projects.fivethirtyeight.com/biden-approval-rating/" target="_blank" rel="noopener">presidential approval tracker</a>, 44.2 percent of Americans approve of the job Biden is doing as president, while 48.3 percent disapprove (a net approval rating of -4.1 points).<a data-footnote-id="14" href="https://fivethirtyeight.com/wp-json/wp/v2/espn_verticals/398#fn-14" data-footnote-content="&lt;p&gt;&lt;p&gt;As of 5 p.m. Eastern on Thursday.&lt;/p&gt;
-&lt;/p&gt;"><sup>14</sup></a> At this time <a href="https://fivethirtyeight.com/features/what-americans-think-about-the-fight-over-the-debt-ceiling/" target="_blank" rel="noopener">last week</a>, 44.8 percent approved and 48.6 percent disapproved (a net approval rating of -3.8 points). One month ago, Biden had an approval rating of 45.0 percent and a disapproval rating of 49.1 percent (a net approval rating of -4.1 points).</p>
+<figure><img loading="lazy" width="1150" height="920" src="https://fivethirtyeight.com/wp-content/uploads/2021/10/biden-approval-rating-2.png" alt="" data-src="https://fivethirtyeight.com/wp-content/uploads/2021/10/biden-approval-rating-2.png" data-srcset="https://fivethirtyeight.com/wp-content/uploads/2021/10/biden-approval-rating-2.png?w=700 1x, https://fivethirtyeight.com/wp-content/uploads/2021/10/biden-approval-rating-2.png?w=1400 2x"></figure><p data-paragraph="main">According to FiveThirtyEight’s <a href="https://projects.fivethirtyeight.com/biden-approval-rating/" target="_blank" rel="noopener">presidential approval tracker</a>, 44.2 percent of Americans approve of the job Biden is doing as president, while 48.3 percent disapprove (a net approval rating of -4.1 points).<a data-footnote-id="15" href="https://fivethirtyeight.com/wp-json/wp/v2/espn_verticals/398#fn-15" data-footnote-content="&lt;p&gt;&lt;p&gt;As of 5 p.m. Eastern on Thursday.&lt;/p&gt;
+&lt;/p&gt;"><sup>15</sup></a> At this time <a href="https://fivethirtyeight.com/features/what-americans-think-about-the-fight-over-the-debt-ceiling/" target="_blank" rel="noopener">last week</a>, 44.8 percent approved and 48.6 percent disapproved (a net approval rating of -3.8 points). One month ago, Biden had an approval rating of 45.0 percent and a disapproval rating of 49.1 percent (a net approval rating of -4.1 points).</p>
 
 
 
@@ -2326,8 +2504,8 @@ Some sectors have been able to adjust (more or less) to the realities of the pan
 
 
 
-<figure><img loading="lazy" width="1150" height="920" src="https://fivethirtyeight.com/wp-content/uploads/2021/10/generic-ballot-2.png" alt="" data-src="https://fivethirtyeight.com/wp-content/uploads/2021/10/generic-ballot-2.png" data-srcset="https://fivethirtyeight.com/wp-content/uploads/2021/10/generic-ballot-2.png?w=700 1x, https://fivethirtyeight.com/wp-content/uploads/2021/10/generic-ballot-2.png?w=1400 2x"></figure><p data-paragraph="main">In our average of polls of the <a href="https://projects.fivethirtyeight.com/congress-generic-ballot-polls/" target="_blank" rel="noopener">generic congressional ballot</a>, Democrats currently lead Republicans by 2.8 percentage points (44.7 percent to 41.9 percent, respectively).<a data-footnote-id="15" href="https://fivethirtyeight.com/wp-json/wp/v2/espn_verticals/398#fn-15" data-footnote-content="&lt;p&gt;&lt;p&gt;As of 5 p.m. Eastern on Thursday.&lt;/p&gt;
-&lt;/p&gt;"><sup>15</sup></a> <a href="https://fivethirtyeight.com/features/what-americans-think-about-the-fight-over-the-debt-ceiling/" target="_blank" rel="noopener">A week ago</a>, Democrats led Republicans by 3.3 points (45.0 percent to 41.7 percent). At this time last month, voters preferred Democrats over Republicans by 2.8 points (43.9 percent to 41.0 percent).</p>
+<figure><img loading="lazy" width="1150" height="920" src="https://fivethirtyeight.com/wp-content/uploads/2021/10/generic-ballot-2.png" alt="" data-src="https://fivethirtyeight.com/wp-content/uploads/2021/10/generic-ballot-2.png" data-srcset="https://fivethirtyeight.com/wp-content/uploads/2021/10/generic-ballot-2.png?w=700 1x, https://fivethirtyeight.com/wp-content/uploads/2021/10/generic-ballot-2.png?w=1400 2x"></figure><p data-paragraph="main">In our average of polls of the <a href="https://projects.fivethirtyeight.com/congress-generic-ballot-polls/" target="_blank" rel="noopener">generic congressional ballot</a>, Democrats currently lead Republicans by 2.8 percentage points (44.7 percent to 41.9 percent, respectively).<a data-footnote-id="16" href="https://fivethirtyeight.com/wp-json/wp/v2/espn_verticals/398#fn-16" data-footnote-content="&lt;p&gt;&lt;p&gt;As of 5 p.m. Eastern on Thursday.&lt;/p&gt;
+&lt;/p&gt;"><sup>16</sup></a> <a href="https://fivethirtyeight.com/features/what-americans-think-about-the-fight-over-the-debt-ceiling/" target="_blank" rel="noopener">A week ago</a>, Democrats led Republicans by 3.3 points (45.0 percent to 41.7 percent). At this time last month, voters preferred Democrats over Republicans by 2.8 points (43.9 percent to 41.0 percent).</p>
 
 
 
@@ -3147,88 +3325,6 @@ Some sectors have been able to adjust (more or less) to the realities of the pan
 <p data-paragraph="main"><em>The FiveThirtyEight Politics podcast is recorded Mondays and Thursdays. Help new listeners discover the show by </em><a href="https://itunes.apple.com/us/podcast/fivethirtyeight-elections/id1077418457?mt=2" target="_blank" rel="noopener"><em>leaving us a rating and review on iTunes</em></a><em>. Have a comment, question or suggestion for “good polling vs. bad polling”? Get in touch by email, </em><a href="https://twitter.com/FiveThirtyEight" target="_blank" rel="noopener"><em>on Twitter</em></a><em> or in the comments.</em></p>]]></description>
 			<pubDate>Tue, 05 Oct 2021 00:10:00 +0100</pubDate>
 			<guid isPermaLink="false">1633392902019973</guid>
-		</item>
-		<item>
-			<title>Why The Supreme Court Probably Doesn’t Care What Most Americans Think About Abortion Or Gun Rights</title>
-			<link>https://fivethirtyeight.com/features/why-the-supreme-court-probably-doesnt-care-what-most-americans-think-about-abortion-or-gun-rights/</link>
-						<dc:creator>Amelia Thomson-DeVeaux</dc:creator>
-			<dc:creator>Amelia Thomson-DeVeaux</dc:creator>
-			<category>Abortion</category>
-			<category>Gun Rights</category>
-			<category>John Roberts</category>
-			<category>SCOTUS</category>
-			<category>Supreme Court</category>
-			<description><![CDATA[<p data-paragraph="main">The Supreme Court is more conservative than it’s been in <a href="https://www.cnn.com/2020/09/26/politics/supreme-court-conservative/index.html" target="_blank" rel="noopener">almost a century</a>. ​​Its new term begins today, and by next June, when the term ends, Americans might finally understand what that means. Public opinion of the court is already <a href="https://news.gallup.com/poll/354908/approval-supreme-court-down-new-low.aspx" target="_blank" rel="noopener">at a record low</a> after the court allowed <a href="https://fivethirtyeight.com/features/why-texass-abortion-law-may-go-too-far-for-most-americans/" target="_blank" rel="noopener">a strict abortion law to go into effect in Texas</a> in early September. Now, the justices are preparing to hear the court’s <a href="https://www.npr.org/2021/04/26/990846329/supreme-court-to-take-up-first-major-gun-rights-case-in-more-than-a-decade" target="_blank" rel="noopener">first major gun rights case since 2010</a> as well as a case on <a href="https://www.cnn.com/2021/09/20/politics/supreme-court-mississippi-abortion-law/index.html" target="_blank" rel="noopener">the future of abortion in the U.S.</a> Both cases could result in decisions that are far more extreme than most Americans want. </p>
-
-
-
-<p data-paragraph="main">In the past, a desire to preserve the court’s apolitical reputation <a href="https://fivethirtyeight.com/features/who-can-stop-the-supreme-court/" target="_blank" rel="noopener">kept the justices</a> from straying too far from public opinion. That could happen again — in fact, Chief Justice John Roberts <a href="https://fivethirtyeight.com/features/the-supreme-courts-big-rulings-were-surprisingly-mainstream-this-year/" target="_blank" rel="noopener">has so far proven remarkably adept</a> at producing decisions that protect the court’s reputation and that <a href="https://apnews.com/article/ab215fc5f71b8d24e0360f69f011cf67" target="_blank" rel="noopener">are often portrayed</a> as more moderate and mainstream than they really are. </p>
-
-
-
-<p data-paragraph="main">This term, though, the other conservative justices might be fine with taking a very public right turn. Neither <a href="https://fivethirtyeight.com/features/how-views-on-gun-control-have-changed-in-the-last-30-years/" target="_blank" rel="noopener">expanding gun rights</a> nor <a href="https://fivethirtyeight.com/features/most-americans-dont-want-roe-v-wade-repealed-but-many-also-support-restrictions-on-abortion/" target="_blank" rel="noopener">overturning Roe v. Wade</a> would be popular, yet the court is considering both — a sign of how conservative it has already become. The question now is whether the risk of a backlash is enough to keep the conservative majority from, say, overturning Roe in an election year. </p>
-
-
-
-<p data-paragraph="main">“The justices are plainly conscious of public attitudes toward the court,” said <a href="https://polisci.osu.edu/people/baum.4" target="_blank" rel="noopener">Lawrence Baum</a>, a political science professor at Ohio State University. “But that’s only one consideration for the justices and not necessarily the most important one — particularly on issues like abortion or gun rights where they may have intense personal preferences about the right outcome.”</p>
-
-
-<p>Watch: https://abcnews.go.com/fivethirtyeight/video/texas-abortion-ban-rest-country-fivethirtyeight-79824406</p>
-
-
-<p data-paragraph="main">The justices are already entering the term with mixed reviews from the general public. <a href="https://www.jsonline.com/story/news/politics/2021/09/22/poll-support-u-s-supreme-court-drops/5804331001/" target="_blank" rel="noopener">A Marquette University Law School poll conducted in September</a> found that only 49 percent of Americans approved of the court, down from 60 percent just a year earlier. A <a href="https://news.gallup.com/poll/354908/approval-supreme-court-down-new-low.aspx" target="_blank" rel="noopener">Gallup poll conducted in September</a> found a similar drop: Only 40 percent of U.S. adults approved of the court, down from 53 percent a year earlier. According to Gallup, a majority (53 percent) of U.S. adults now disapprove of the way the court is handling its job.</p>
-
-
-
-<figure><div>
-<div><iframe title="Approval of the Supreme Court is at a record low" aria-label="Interactive line chart" src="https://datawrapper.dwcdn.net/Erg3e/5/" scrolling="no" frameborder="0" height="400" sandbox="allow-scripts allow-same-origin"></iframe></div>
-</div></figure><p data-paragraph="main">In theory, the justices should have no reason to watch their polling numbers. Our system is actually designed that way: Federal judges have life tenure in part <a href="https://avalon.law.yale.edu/18th_century/fed78.asp" target="_blank" rel="noopener">to insulate them from the vagaries of politics</a>. But research suggests that the justices are influenced by what Americans think, at least to a certain extent. For example, <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2087255" target="_blank" rel="noopener">several studies</a> <a href="https://onlinelibrary.wiley.com/doi/abs/10.1111/j.1540-5907.2010.00485.x" target="_blank" rel="noopener">have found</a> that the Supreme Court’s ideological tilt tracks with public opinion over time, which is unlikely to be coincidental. And <a href="http://polisci.emory.edu/home/people/biography/clark-tom.html" target="_blank" rel="noopener">Tom Clark</a>, a political scientist at Emory University, found in <a href="https://onlinelibrary.wiley.com/doi/abs/10.1111/j.1540-5907.2009.00411.x" target="_blank" rel="noopener">a separate review</a> of congressional bills that when Congress introduced more bills designed to curb the court, the justices struck down fewer laws. According to Clark, that suggests that the court saw the bills as a signal from Congress that they were going too far, even though the bills were unlikely to pass.</p>
-
-
-
-<p data-paragraph="main">Earlier this year, President Biden arguably introduced his own version of a court-curbing bill, in the form of <a href="https://www.nytimes.com/2021/04/09/us/politics/biden-supreme-court-packing.html" target="_blank" rel="noopener">a commission to study</a> expanding the Supreme Court. But the conservatives don’t have a lot to fear there, at least for now, because the commission seems <a href="https://www.vox.com/2021/4/10/22375792/supreme-court-biden-commission-reform-court-packing-federalist-society" target="_blank" rel="noopener">unlikely to recommend</a> big changes. And even if it did, GOP senators won’t support court reform, which means Democrats <a href="https://www.bbc.com/news/world-us-canada-56893296" target="_blank" rel="noopener">would have to abolish the filibuster</a> to make that happen — currently <a href="https://www.vox.com/22319564/filibuster-reform-manchin-democrats-nuclear-option" target="_blank" rel="noopener">a no-go in the Senate</a>. All in all, the conservative justices don't have a lot of reason to see Biden's move as a threat.</p>
-
-
-<div>
-	<p>
-		<a href="https://fivethirtyeight.com/features/how-the-fight-over-abortion-access-might-affect-the-2022-midterms/?cid=_inlinerelated"><img alt="Blue grid background with a person cut off by the frame at the torso holding a sign that says “Abortion is healthcare”, filtered with a blue filter." width="153" height="115" data-sizes="(min-width: 440px) 153px, 100vw" data-srcset="https://fivethirtyeight.com/wp-content/uploads/2021/09/0917_POLLA-4x3-1.png?w=153&amp;quality=100&amp;strip=all 153w, https://fivethirtyeight.com/wp-content/uploads/2021/09/0917_POLLA-4x3-1.png?w=306&amp;quality=100&amp;strip=all 306w, https://fivethirtyeight.com/wp-content/uploads/2021/09/0917_POLLA-4x3-1.png?w=405&amp;quality=100&amp;strip=all 405w, https://fivethirtyeight.com/wp-content/uploads/2021/09/0917_POLLA-4x3-1.png?w=810&amp;quality=100&amp;strip=all 810w"></a>
-	</p>
-	<p>
-				<strong>related:</strong>
-				How The Fight Over Abortion Access Might Affect The 2022 Midterms <a href="https://fivethirtyeight.com/features/how-the-fight-over-abortion-access-might-affect-the-2022-midterms/?cid=_inlinerelated">Read more. »</a>
-	</p>
-</div>
-
-
-
-<p data-paragraph="main">It's also possible that Supreme Court justices mostly care about their reputation among a select group of Americans. Baum and <a href="https://law2.wm.edu/faculty/bios/fulltime/nedevi.php" target="_blank" rel="noopener">Neal Devins</a>, a professor of law and government at the College of William &amp; Mary, <a href="https://global.oup.com/academic/product/the-company-they-keep-9780190278052?cc=us&amp;lang=en&amp;" target="_blank" rel="noopener">have argued</a> that Supreme Court justices are more interested in how they’re regarded by elites. </p>
-
-
-
-<p data-paragraph="main">This is significant for understanding why the conservative justices’ behavior has become more predictably right-wing. Baum and Devins argue that as elites have grown more politically polarized, the justices’ partisan tendencies have hardened as well. In other words, the people influencing the conservative justices' thoughts are probably much more right-wing than the public at large. On top of that, some of the justices may be willing to risk backlash for the outcome they believe is correct. “Is legitimacy something that’s enough to get a justice to move away from something [he or she] strongly feels?” Baum told me. With the possible exception of Roberts, <a href="https://www.nytimes.com/2020/06/30/us/john-roberts-supreme-court.html" target="_blank" rel="noopener">who is particularly focused on the court’s image</a>, Baum doesn’t think the public’s views will be enough to sway a justice who cares deeply about the issue they’re deciding.</p>
-
-
-
-<p data-paragraph="main">And this might be right. On one hand, it’s not obvious that a single unpopular ruling -- even if it’s high-profile -- would be enough to sow widespread doubt in the Supreme Court’s legitimacy. Take the outcome in Bush v. Gore, <a href="https://www.nytimes.com/2000/12/13/us/bush-prevails-single-vote-justices-end-recount-blocking-gore-after-5-week.html" target="_blank" rel="noopener">where a divided Supreme Court</a>, split along partisan lines, effectively handed the presidency to George W. Bush. The ruling was intensely controversial at the time, but it <a href="https://www.jstor.org/stable/4092195" target="_blank" rel="noopener">appears to have had</a> little lasting impact on the court’s image. And although it might be hard to imagine, the same could be true of a decision that overturns or reshapes Roe — particularly if the justices  merely limit the constitutional right to abortion, rather than eliminate it. </p>
-
-
-
-<p data-paragraph="main">But the question of how a highly conservative Supreme Court majority will navigate public opinion isn’t going away. And it becomes even more relevant if the conservatives maintain control of the court for years or even decades. </p>
-
-
-
-<p data-paragraph="main">“In the past, even if the court was trending conservative overall, it wasn’t like the conservatives always won and the liberals always lost,” said <a href="https://pppa.wsu.edu/michael-salamone/" target="_blank" rel="noopener">Michael Salamone</a>, a political science professor at Washington State University who studies the Supreme Court and public opinion. “Now it’s looking like conservative victories are going to be a lot more consistent and a lot more far-reaching.”</p>
-
-
-
-<p data-paragraph="main">In that sense, this new term might be a turning point — and not just because of the importance of the cases or the risk of a backlash to an individual decision. The next few months might be the beginning of a new era in which the conservative justices move sharply away from where most Americans stand on major issues, and dare politicians to do something about it.</p>
-
-
-<p>Watch: https://abcnews.go.com/fivethirtyeight/video/white-evangelicals-rethinking-politics-fivethirtyeight-80316696</p>
-
-<p>Watch: https://abcnews.go.com/fivethirtyeight/video/latest-crime-data-us-fivethirtyeight-politics-podcast-80334237</p>]]></description>
-			<pubDate>Mon, 04 Oct 2021 11:00:00 +0100</pubDate>
-			<guid isPermaLink="false">1633343402421328</guid>
 		</item>
 
 	</channel>
