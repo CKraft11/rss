@@ -3,9 +3,444 @@
 		<title>Main stream | FreshRSS</title>
 		<link>http://radon</link>
 		<description>RSS feed of Main stream | FreshRSS</description>
-		<pubDate>Mon, 25 Oct 2021 10:59:07 +0100</pubDate>
-		<lastBuildDate>Mon, 25 Oct 2021 09:59:07 GMT</lastBuildDate>
+		<pubDate>Mon, 25 Oct 2021 11:29:06 +0100</pubDate>
+		<lastBuildDate>Mon, 25 Oct 2021 10:29:06 GMT</lastBuildDate>
 		<atom:link href="http://radon/i/?a=rss" rel="self" type="application/rss+xml" />
+		<item>
+			<title>Could Manchin Actually Leave The Democratic Party?</title>
+			<link>https://fivethirtyeight.com/features/could-manchin-actually-leave-the-democratic-party/</link>
+						<dc:creator>Geoffrey Skelley</dc:creator>
+			<dc:creator>Geoffrey Skelley</dc:creator>
+			<category>Congress</category>
+			<category>Democrats</category>
+			<category>Independents</category>
+			<category>Joe Manchin</category>
+			<category>Senate</category>
+			<description><![CDATA[<p data-paragraph="main">Sen. Joe Manchin told reporters Wednesday that <a href="https://www.motherjones.com/politics/2021/10/senator-joe-manchin-democratic-party-exit-plan-biden-infrastructure-deal-exclusive/" target="_blank" rel="noopener">suggestions he would leave the Democratic Party</a> were <a href="https://twitter.com/frankthorp/status/1450888630977892357?s=20" target="_blank" rel="noopener">“bullshit” with a “capital B.”</a> He’d previously <a href="https://www.npr.org/2021/10/21/1048121435/manchin-says-he-offered-to-change-political-parties-if-he-was-a-problem-for-dems" target="_blank" rel="noopener">told Democratic leaders</a> that <a href="https://thehill.com/homenews/senate/577764-exclusive-manchin-says-hes-not-leaving-democrats" target="_blank" rel="noopener">he’d consider becoming an independent</a> if they felt it would help them explain to the public why the party was having such a hard time coming to an agreement on its social spending plans, but he denied that he’d made threats about leaving the party.</p>
+
+
+
+<p data-paragraph="main">But what if Manchin <em>did</em> leave the Democratic Party? </p>
+
+
+
+<p data-paragraph="main">A Manchin exit would undoubtedly scramble the status quo — Democrats control the Senate only because of Vice President Kamala Harris’s tiebreaking vote — and it could even give Republicans control if Manchin caucused with them. But considering Manchin is often <a href="https://fivethirtyeight.com/features/why-joe-manchin-is-so-willing-and-able-to-block-his-partys-goals/" target="_blank" rel="noopener">at loggerheads with his party</a>, it’s not that wild an idea that he might abandon the Democrats and run as an independent in deep red West Virginia. After all, the move might make electoral sense for him if he decides to run again in 2024. But at the same time, if Manchin did switch parties, it would, more likely than not, mean an immediate loss of clout for him in Congress, which is perhaps the biggest reason Manchin is likely to stay put. </p>
+
+
+
+<p data-paragraph="main">For starters, party switches are actually rare. Since 1951, just 34 sitting members of Congress have switched parties (four did so twice, for a total of 38 switches). And as the table below shows, most members who switched parties still ran for reelection or another office after changing their partisan stripes.</p>
+
+
+<div>
+<section>
+ <header>
+ <h5>Few senators or representatives have flipped parties</h5>
+ <p>Sitting members of Congress who switched parties, since 1951</p>
+ </header>
+ <table data-carpenter-slug="skelley.manchin-1025.2">
+ <thead>
+ <tr>
+ <th colspan="5"></th>
+ <th colspan="2">Ran again?*</th>
+ </tr>
+ <tr>
+ <th colspan="1">Member</th>
+ <th colspan="1">State</th>
+ <th colspan="1">Chamber</th>
+ <th colspan="1">Party switch</th>
+ <th colspan="1">Switch Year</th>
+ <th colspan="1">Ran</th>
+ <th colspan="1">Won</th>
+ </tr>
+ </thead>
+ <tbody>
+ <tr>
+ <td>Wayne Morse</td>
+ <td>OR</td>
+ <td>Senate</td>
+ <td>R to I</td>
+ <td>1952</td>
+ <td></td>
+ <td></td>
+ </tr>
+ <tr>
+ <td></td>
+ <td>OR</td>
+ <td>Senate</td>
+ <td>I to D</td>
+ <td>1955</td>
+ <td>✓</td>
+ <td>✓</td>
+ </tr>
+ <tr>
+ <td>Vincent Dellay</td>
+ <td>NJ</td>
+ <td>House</td>
+ <td>R to D</td>
+ <td>1958</td>
+ <td></td>
+ <td></td>
+ </tr>
+ <tr>
+ <td>Strom Thurmond</td>
+ <td>SC</td>
+ <td>Senate</td>
+ <td>D to R</td>
+ <td>1964</td>
+ <td>✓</td>
+ <td>✓</td>
+ </tr>
+ <tr>
+ <td>Albert Watson**</td>
+ <td>SC</td>
+ <td>House</td>
+ <td>D to R</td>
+ <td>1965</td>
+ <td>✓</td>
+ <td>✓</td>
+ </tr>
+ <tr>
+ <td>Harry Byrd Jr.</td>
+ <td>VA</td>
+ <td>Senate</td>
+ <td>D to I</td>
+ <td>1970</td>
+ <td>✓</td>
+ <td>✓</td>
+ </tr>
+ <tr>
+ <td>Ogden Reid</td>
+ <td>NY</td>
+ <td>House</td>
+ <td>R to D</td>
+ <td>1972</td>
+ <td>✓</td>
+ <td>✓</td>
+ </tr>
+ <tr>
+ <td>Don Riegle</td>
+ <td>MI</td>
+ <td>House</td>
+ <td>R to D</td>
+ <td>1973</td>
+ <td>✓</td>
+ <td>✓</td>
+ </tr>
+ <tr>
+ <td>John Jarman</td>
+ <td>OK</td>
+ <td>House</td>
+ <td>D to R</td>
+ <td>1975</td>
+ <td></td>
+ <td></td>
+ </tr>
+ <tr>
+ <td>Bob Stump</td>
+ <td>AZ</td>
+ <td>House</td>
+ <td>D to R</td>
+ <td>1981</td>
+ <td>✓</td>
+ <td>✓</td>
+ </tr>
+ <tr>
+ <td>Eugene Atkinson</td>
+ <td>PA</td>
+ <td>House</td>
+ <td>D to R</td>
+ <td>1981</td>
+ <td>✓</td>
+ <td></td>
+ </tr>
+ <tr>
+ <td>Phil Gramm**</td>
+ <td>TX</td>
+ <td>House</td>
+ <td>D to R</td>
+ <td>1983</td>
+ <td>✓</td>
+ <td>✓</td>
+ </tr>
+ <tr>
+ <td>Andy Ireland</td>
+ <td>FL</td>
+ <td>House</td>
+ <td>D to R</td>
+ <td>1984</td>
+ <td>✓</td>
+ <td>✓</td>
+ </tr>
+ <tr>
+ <td>Bill Grant</td>
+ <td>FL</td>
+ <td>House</td>
+ <td>D to R</td>
+ <td>1989</td>
+ <td>✓</td>
+ <td></td>
+ </tr>
+ <tr>
+ <td>Tommy Robinson</td>
+ <td>AR</td>
+ <td>House</td>
+ <td>D to R</td>
+ <td>1989</td>
+ <td>✓</td>
+ <td></td>
+ </tr>
+ <tr>
+ <td>Richard Shelby</td>
+ <td>AL</td>
+ <td>Senate</td>
+ <td>D to R</td>
+ <td>1994</td>
+ <td>✓</td>
+ <td>✓</td>
+ </tr>
+ <tr>
+ <td>Ben N. Campbell</td>
+ <td>CO</td>
+ <td>Senate</td>
+ <td>D to R</td>
+ <td>1995</td>
+ <td>✓</td>
+ <td>✓</td>
+ </tr>
+ <tr>
+ <td>Nathan Deal</td>
+ <td>GA</td>
+ <td>House</td>
+ <td>D to R</td>
+ <td>1995</td>
+ <td>✓</td>
+ <td>✓</td>
+ </tr>
+ <tr>
+ <td>Greg Laughlin</td>
+ <td>TX</td>
+ <td>House</td>
+ <td>D to R</td>
+ <td>1995</td>
+ <td>✓</td>
+ <td></td>
+ </tr>
+ <tr>
+ <td>Billy Tauzin</td>
+ <td>LA</td>
+ <td>House</td>
+ <td>D to R</td>
+ <td>1995</td>
+ <td>✓</td>
+ <td>✓</td>
+ </tr>
+ <tr>
+ <td>Mike Parker</td>
+ <td>MS</td>
+ <td>House</td>
+ <td>D to R</td>
+ <td>1995</td>
+ <td>✓</td>
+ <td>✓</td>
+ </tr>
+ <tr>
+ <td>Jimmy Hayes</td>
+ <td>LA</td>
+ <td>House</td>
+ <td>D to R</td>
+ <td>1995</td>
+ <td>✓</td>
+ <td></td>
+ </tr>
+ <tr>
+ <td>Bob Smith</td>
+ <td>NH</td>
+ <td>Senate</td>
+ <td>R to I</td>
+ <td>1999</td>
+ <td></td>
+ <td></td>
+ </tr>
+ <tr>
+ <td></td>
+ <td>NH</td>
+ <td>Senate</td>
+ <td>I to R</td>
+ <td>1999</td>
+ <td>✓</td>
+ <td></td>
+ </tr>
+ <tr>
+ <td>Michael Forbes</td>
+ <td>NY</td>
+ <td>House</td>
+ <td>R to D</td>
+ <td>1999</td>
+ <td>✓</td>
+ <td></td>
+ </tr>
+ <tr>
+ <td>Virgil Goode</td>
+ <td>VA</td>
+ <td>House</td>
+ <td>D to I</td>
+ <td>2000</td>
+ <td>✓</td>
+ <td>✓</td>
+ </tr>
+ <tr>
+ <td>Matthew Martinez†</td>
+ <td>CA</td>
+ <td>House</td>
+ <td>D to R</td>
+ <td>2000</td>
+ <td></td>
+ <td></td>
+ </tr>
+ <tr>
+ <td>Jim Jeffords</td>
+ <td>VT</td>
+ <td>Senate</td>
+ <td>R to I</td>
+ <td>2001</td>
+ <td></td>
+ <td></td>
+ </tr>
+ <tr>
+ <td>Virgil Goode</td>
+ <td>VA</td>
+ <td>House</td>
+ <td>I to R</td>
+ <td>2002</td>
+ <td>✓</td>
+ <td>✓</td>
+ </tr>
+ <tr>
+ <td>Ralph Hall</td>
+ <td>TX</td>
+ <td>House</td>
+ <td>D to R</td>
+ <td>2004</td>
+ <td>✓</td>
+ <td>✓</td>
+ </tr>
+ <tr>
+ <td>Rodney Alexander</td>
+ <td>LA</td>
+ <td>House</td>
+ <td>D to R</td>
+ <td>2004</td>
+ <td>✓</td>
+ <td>✓</td>
+ </tr>
+ <tr>
+ <td>Joe Lieberman</td>
+ <td>CT</td>
+ <td>Senate</td>
+ <td>D to I</td>
+ <td>2006</td>
+ <td>✓</td>
+ <td>✓</td>
+ </tr>
+ <tr>
+ <td>Arlen Specter</td>
+ <td>PA</td>
+ <td>Senate</td>
+ <td>R to D</td>
+ <td>2009</td>
+ <td>✓</td>
+ <td></td>
+ </tr>
+ <tr>
+ <td>Parker Griffith</td>
+ <td>AL</td>
+ <td>House</td>
+ <td>D to R</td>
+ <td>2009</td>
+ <td>✓</td>
+ <td></td>
+ </tr>
+ <tr>
+ <td>Justin Amash</td>
+ <td>MI</td>
+ <td>House</td>
+ <td>R to I</td>
+ <td>2019</td>
+ <td></td>
+ <td></td>
+ </tr>
+ <tr>
+ <td></td>
+ <td>MI</td>
+ <td>House</td>
+ <td>I to L</td>
+ <td>2020</td>
+ <td></td>
+ <td></td>
+ </tr>
+ <tr>
+ <td>Jeff Van Drew</td>
+ <td>NJ</td>
+ <td>House</td>
+ <td>D to R</td>
+ <td>2020</td>
+ <td>✓</td>
+ <td>✓</td>
+ </tr>
+ <tr>
+ <td>Paul Mitchell†</td>
+ <td>MI</td>
+ <td>House</td>
+ <td>R to I</td>
+ <td>2020</td>
+ <td></td>
+ <td></td>
+ </tr>
+ </tbody>
+ </table>
+ <footer>
+ <p>The chart includes members who switched parties while in Congress. It excludes members who switched parties while out of office but later returned to Congress, as well as members who were elected under a different party label but immediately joined or rejoined one of the two major parties in Congress.</p>
+ <p>*Includes members who ran for reelection or new offices.</p>
+ <p>**Watson and Gramm resigned from their seats and won ensuing special elections under their new party’s banner to fill their own vacancy in the same Congress.</p>
+ <p>†Martinez and Mitchell switched parties after they were already leaving Congress. Martinez became a Republican after losing his primary as a Democrat, while Mitchell didn’t seek reelection and left the GOP three weeks before the start of the next Congress.</p>
+ <p>Sources: ANTOINE YOSHINAKA, BIOGRAPHICAL DIRECTORY OF THE U.S. CONGRESS</p>
+ </footer>
+</section>
+</div>
+
+
+<p data-paragraph="main">Electoral calculations seem to have guided many of these members’ decisions to change parties, too. In his <a href="https://www.cambridge.org/core/books/crossing-the-aisle/519F5A3C501380C42ABB4B1E041DC946" target="_blank" rel="noopener">study of party switchers</a>, political scientist Antoine Yoshinaka found that members were more likely to switch parties when they represented areas where their old party performed poorly — though they were most likely to switch if they intended on seeking a higher office in the future. However, troublingly for Manchin, Yoshinaka didn’t find that these switches necessarily paid off. In fact, he found party-switchers performed 4 to 9 percentage points <em>worse</em> in their next general election than non-switchers between 1952 and 2010. </p>
+
+
+
+<p data-paragraph="main">That said, Manchin might be better off if he left the Democratic Party and ran as an independent. It will just be really hard for Manchin to win otherwise. Only Wyoming voted more Republican than West Virginia <a href="https://uselectionatlas.org/RESULTS/national.php?year=2020&amp;f=0&amp;off=0&amp;elect=0" target="_blank" rel="noopener">i</a>n the <a href="https://uselectionatlas.org/RESULTS/national.php?year=2020&amp;f=0&amp;off=0&amp;elect=0" target="_blank" rel="noopener">2020 presidential election</a>. And despite a <a href="https://fivethirtyeight.com/features/yes-it-was-a-blue-wave/" target="_blank" rel="noopener">blue wave in the 2018 midterm elections</a>, Manchin <a href="https://results.enr.clarityelections.com/WV/92360/Web02-state.222648/#/" target="_blank" rel="noopener">won reelection</a> by his slimmest margin yet — about 3 points. Moreover, running as a Republican isn’t really an option for Manchin. It’s true that he scores well among Republican voters in West Virginia — a <a href="https://morningconsult.com/2021/10/04/sinema-manchin-approval-rating/" target="_blank" rel="noopener">Morning Consult poll</a> recently found 44 percent approved of him — but he would undoubtedly have a challenging time winning a GOP primary, having <a href="https://www.senate.gov/legislative/LIS/roll_call_lists/roll_call_vote_cfm.cfm?congress=117&amp;session=1&amp;vote=00059" target="_blank" rel="noopener">voted to impeach former President Donald Trump</a> in February. </p>
+
+
+
+<p data-paragraph="main">So there’s clearly some appeal for Manchin to run as an independent, as he would avoid having to run in a GOP primary while also shedding the national Democratic Party label that’s become toxic to many West Virginians. But this formula is no guarantee of success, as it could easily be upset if a more liberal Democrat ran as the Democratic standard-bearer and garnered a decent chunk of the Democratic vote, likely ensuring a GOP victory.</p>
+
+
+
+<p data-paragraph="main">Yet while one can make a fairly convincing electoral case for why Manchin should consider switching parties, it’s most likely he’ll stay where he is considering the enormous amount of leverage he has. He essentially can <a href="https://www.cnn.com/2021/09/12/politics/joe-manchin-democratic-bill-3-trillion-climate-provisions/index.html" target="_blank" rel="noopener">veto any proposal he disagrees with</a> while also working within his party to adjust legislation to better reflect what he wants. And because Democrats have full control of government, he’s more likely to get laws passed that are agreeable to him. </p>
+
+
+
+<p data-paragraph="main">Granted, if Manchin were part of a 51-member Republican caucus, he would wield a similar amount of veto power. But outside of that, it’s unlikely he would be as influential as he is right now. He’d likely lose his post as <a href="https://www.energy.senate.gov/chair" target="_blank" rel="noopener">chair of the Energy and Natural Resources Committee</a>, a politically advantageous position for a senator from a state <a href="https://www.wvgazettemail.com/news/energy_and_environment/manchins-pushback-against-key-climate-policy-leaves-wv-coal-industry-satisfied-climate-advocates-wanting-answers/article_6e62ecaa-d580-5949-a0de-ccbbeb6f973e.html" target="_blank" rel="noopener">deeply invested in the coal industry</a>. And he’d also be unlikely to influence the trajectory of GOP legislation in the way he does as a longstanding member of the Democratic caucus.</p>
+
+
+
+<p data-paragraph="main">It’s possible Manchin could leave the Democratic Party while continuing to caucus with it and retain his chairmanship, but a public separation from his party would also strain relationships Manchin has spent years building. At home, for instance, Democratic activists might choose to work against Manchin by backing a more liberal challenger despite the difficulty such a candidate would have in winning. Meanwhile, in Washington, a switch could damage Manchin’s trustworthiness with his Senate colleagues and hinder future cooperation with them. </p>
+
+
+
+<p data-paragraph="main">All this sounds like a much greater headache than using his current position to get more of what he wants. Moreover, when push comes to shove, leaving the party you’ve belonged to for years is simply very hard to do. Manchin <a href="https://thehill.com/homenews/senate/438503-manchin-says-he-supports-collins-reelection" target="_blank" rel="noopener">has said</a> that his stances on taxes and health care would make it difficult for him to join the GOP, and he’s <a href="https://www.wsaz.com/content/news/Senator-Manchin-refutes-speculation-of-a-party-switch--400628491.html" target="_blank" rel="noopener">pushed back</a> on <a href="https://www.politico.com/magazine/story/2017/12/19/joe-manchin-interview-trump-franken-podcast-216118/" target="_blank" rel="noopener">the idea</a> of <a href="https://www.realclearpolitics.com/video/2021/01/11/manchin_on_changing_parties_im_a_good_old_west_virginia_conservative_democrat.html" target="_blank" rel="noopener">leaving the Democratic Party</a> many times over the past few years.</p>
+
+
+
+<p data-paragraph="main">Long story short, Manchin could switch parties, but it’s unlikely that he will. And in the end, the main result of the party-switching storyline is yet another news clip of Manchin distancing himself from his party, which demonstrates his independence to voters in deep-red West Virginia.</p>]]></description>
+			<pubDate>Mon, 25 Oct 2021 11:00:00 +0100</pubDate>
+			<guid isPermaLink="false">1635156901592301</guid>
+		</item>
 		<item>
 			<title>Politics Podcast: Adam Schiff Is Worried About American Democracy</title>
 			<link>https://fivethirtyeight.com/features/politics-podcast-adam-schiff-is-worried-about-american-democracy/</link>
@@ -2961,143 +3396,6 @@ Some sectors have been able to adjust (more or less) to the realities of the pan
 <p data-paragraph="main"><em>The FiveThirtyEight Politics podcast is recorded Mondays and Thursdays. Help new listeners discover the show by </em><a href="https://itunes.apple.com/us/podcast/fivethirtyeight-elections/id1077418457?mt=2" target="_blank" rel="noopener"><em>leaving us a rating and review on iTunes</em></a><em>. Have a comment, question or suggestion for “good polling vs. bad polling”? Get in touch by email, </em><a href="https://twitter.com/FiveThirtyEight" target="_blank" rel="noopener"><em>on Twitter</em></a><em> or in the comments.</em></p>]]></description>
 			<pubDate>Thu, 07 Oct 2021 21:25:00 +0100</pubDate>
 			<guid isPermaLink="false">1633640402136801</guid>
-		</item>
-		<item>
-			<title>The Debt Ceiling Is Dangerous. Here’s Why It Probably Isn’t Going Anywhere.</title>
-			<link>https://fivethirtyeight.com/features/the-debt-ceiling-is-dangerous-but-its-probably-not-going-away-anytime-soon/</link>
-						<dc:creator>Geoffrey Skelley</dc:creator>
-			<dc:creator>Geoffrey Skelley</dc:creator>
-			<category>Congress</category>
-			<category>Debt Ceiling</category>
-			<category>Filibuster</category>
-			<category>Joe Biden</category>
-			<category>The Biden Administration</category>
-			<description><![CDATA[<p data-paragraph="main">All-out partisan conflict has jammed the gears in the U.S. Senate in recent years, causing a virtual standstill. We’ve seen the Republican Party <a href="https://www.npr.org/2018/06/29/624467256/what-happened-with-merrick-garland-in-2016-and-why-it-matters-now" target="_blank" rel="noopener">block a presidential nominee to the Supreme Court</a> without a hearing or vote. We’ve seen both parties <a href="https://www.senate.gov/legislative/cloture/clotureCounts.htm" target="_blank" rel="noopener">increasingly use the filibuster</a> when they’re in the minority to impede the opposition from passing legislation. And <a href="https://sgp.fas.org/crs/misc/R43389.pdf" target="_blank" rel="noopener">we’ve seen a ratcheting up</a> of brinkmanship over the debt ceiling, which <a href="https://home.treasury.gov/policy-issues/financial-markets-financial-institutions-and-fiscal-service/debt-limit" target="_blank" rel="noopener">establishes how much money the federal government can borrow</a> to pay its existing financial obligations. </p>
-
-
-
-<p data-paragraph="main">The use of the debt ceiling as a <a href="https://www.washingtonpost.com/politics/in-debt-deal-the-triumph-of-the-old-washington/2011/08/02/gIQARSFfqI_story.html" target="_blank" rel="noopener">legislative hostage</a> started in earnest in 2011, when a divided government in Washington <a href="https://www.theatlantic.com/politics/archive/2012/07/the-not-so-happy-anniversary-of-the-debt-ceiling-crisis/260458/" target="_blank" rel="noopener">nearly caused a debt default</a>. Energized by the tea party movement, Republicans <a href="https://gai.georgetown.edu/a-familiar-landmine-the-looming-debt-ceiling/" target="_blank" rel="noopener">refused to back an increase in the debt ceiling</a> unless then-President Barack Obama agreed to budget cuts, and they also refused to raise taxes as part of a bipartisan bargain. A last-minute agreement followed, but the delay still led to a downgrade in the country’s credit rating. Yet we’ve seen <a href="https://bipartisanpolicy.org/debt-limit-through-the-years/" target="_blank" rel="noopener">continued clashes over the cap ever since</a>. </p>
-
-
-
-<p data-paragraph="main">Those conflicts have escalated further in the current round. Although Democrats and Republicans <a href="https://www.nytimes.com/2021/10/06/us/politics/debt-ceiling-congress-republicans.html?" target="_blank" rel="noopener">have just about reached a deal</a> to go ahead with a simple majority vote on a short-term debt ceiling increase, <a href="https://abcnews.go.com/Politics/biden-calls-republicans-refusing-raise-debt-ceiling/story?id=80394658" target="_blank" rel="noopener">Republicans remain intent on filibustering</a> a straight up-or-down vote on a longer-term suspension or increase of the limit in December. Democrats control the Senate, which is split 50-50, through Vice President Kamala Harris’s tie-breaking vote. But that’s well short of the 60 votes required by the filibuster to advance to a final vote.</p>
-
-
-
-<p data-paragraph="main">“What I see as new here is filibustering debt limit increases and forcing a Senate majority party that doesn’t have 60 seats to try to come up with some way to raise the debt ceiling — even though it doesn’t have 60 seats and can’t get any help from the minority party,” said <a href="https://politics.princeton.edu/people/frances-lee" target="_blank" rel="noopener">Frances Lee</a>, a political scientist at Princeton University who studies congressional politics.</p>
-
-
-<p>Watch: https://abcnews.go.com/fivethirtyeight/video/democrats-passing-bidens-agenda-fivethirtyeight-politics-podcast-80405623</p>
-
-
-<p data-paragraph="main">Failing to raise the debt limit would result in a default on U.S. debt, which <a href="https://www.cnn.com/2021/10/01/economy/debt-ceiling-next-steps/index.html" target="_blank" rel="noopener">could cripple the economy</a> and <a href="https://www.crfb.org/papers/qa-everything-you-should-know-about-debt-ceiling#_Hlk431978571" target="_blank" rel="noopener">cause terrible repercussions for everyday Americans</a>. The date the country runs out of money is quickly approaching: Treasury Secretary Janet Yellen <a href="https://abcnews.go.com/Politics/treasury-secretary-warns-calamity-congress-raise-debt-limit/story?id=80283655" target="_blank" rel="noopener">recently said</a> it could be as soon as Oct. 18. While the parties seem set on a short-term agreement to push that deadline back to at least December, Republicans continue to say that, for a longer-term increase, Democrats <a href="https://abcnews.go.com/Politics/republicans-play-debt-limit-brinksmanship-nation-barrels-default/story?id=80417215" target="_blank" rel="noopener">must raise the cap on their own</a> using the more complex <a href="https://www.cbpp.org/research/federal-budget/introduction-to-budget-reconciliation" target="_blank" rel="noopener">reconciliation process</a>, which allows passage of certain fiscal legislation with only a simple majority. And, while there are paths out of this predicament, this amplified disagreement is emblematic of the dangers the debt ceiling presents to our political system, especially <a href="https://fivethirtyeight.com/features/how-hatred-negative-partisanship-came-to-dominate-american-politics/" target="_blank" rel="noopener">when partisan enmity is so high</a>. </p>
-
-
-
-<p data-paragraph="main">Here, then, is a look at how we got here; what could prevent politicians from using the debt ceiling to put Congress in a political stranglehold; and why it’s unlikely that the debt ceiling will go away anytime soon.</p>
-
-
-<div>
-	<p>
-		<a href="https://fivethirtyeight.com/features/are-democrats-dysfunctional-or-just-disagreeing/?cid=_inlinerelated"><img alt="Sens. Kyrsten Sinema and Joe Manchin in an elevator as the doors close in front of them." width="153" height="115" data-sizes="(min-width: 440px) 153px, 100vw" data-srcset="https://fivethirtyeight.com/wp-content/uploads/2021/10/GettyImages-1235615308-4x3-1.jpg?w=153&amp;quality=100&amp;strip=all 153w, https://fivethirtyeight.com/wp-content/uploads/2021/10/GettyImages-1235615308-4x3-1.jpg?w=306&amp;quality=100&amp;strip=all 306w, https://fivethirtyeight.com/wp-content/uploads/2021/10/GettyImages-1235615308-4x3-1.jpg?w=405&amp;quality=100&amp;strip=all 405w, https://fivethirtyeight.com/wp-content/uploads/2021/10/GettyImages-1235615308-4x3-1.jpg?w=810&amp;quality=100&amp;strip=all 810w"></a>
-	</p>
-	<p>
-				<strong>related:</strong>
-				Are Democrats Dysfunctional Or Just Disagreeing? <a href="https://fivethirtyeight.com/features/are-democrats-dysfunctional-or-just-disagreeing/?cid=_inlinerelated">Read more. »</a>
-	</p>
-</div>
-
-
-
-<h2><strong>How the battle over the debt ceiling escalated</strong></h2>
-
-
-
-<p data-paragraph="main">Congress has always placed limits on federal debt, but it <a href="https://www.crfb.org/papers/qa-everything-you-should-know-about-debt-ceiling#established" target="_blank" rel="noopener">first established the debt ceiling</a> in 1917 over concerns about debt piling up during World War I. About two decades later, in 1939, <a href="https://www.everycrsreport.com/files/20151102_RL31967_4040b7fa5a66b382fbc01594e94477dfa8bacf46.pdf" target="_blank" rel="noopener">the cap came into its modern form</a> after modifications applied it to nearly all federal debt. The idea was that aggregating most debt would give the Treasury Department more flexibility to manage it while maintaining Congress’s <a href="https://history.house.gov/institution/origins-development/power-of-the-purse/" target="_blank" rel="noopener">constitutionally mandated control of the nation’s finances</a>. Over time, the state of the debt ceiling has also come to symbolize the federal government’s frugality or wastefulness.</p>
-
-
-
-<p data-paragraph="main">Yet the limit’s means as a check on spending is questionable considering that the national debt <a href="https://fred.stlouisfed.org/series/FYGFD" target="_blank" rel="noopener">has only gone up</a> since the late 1930s. More importantly, as a share of the nation’s gross domestic product, debt has surged since the 1980s, following a long-running decrease after World War II, as the chart below shows. In other words, the country’s <a href="https://www.investopedia.com/terms/d/debtgdpratio.asp" target="_blank" rel="noopener">debt-to-GDP ratio</a> — a measure of our debt that factors in our ability to pay it off by looking at it relative to the size of the nation’s economy — has grown immensely.</p>
-
-
-
-<figure><div>
-<div><iframe title="Both Republicans and Democrats own the national debt  " aria-label="Interactive line chart" src="https://datawrapper.dwcdn.net/Z8PQ5/1/" scrolling="no" frameborder="0" height="400" sandbox="allow-scripts allow-same-origin"></iframe></div>
-</div></figure><p data-paragraph="main">Who’s to blame? Well, both parties, and … circumstances. The steepest rises in debt-to-GDP ratio came during the presidencies of two Republicans (Ronald Reagan and Donald Trump) and one Democrat (Barack Obama). However, some of these increases happened partly because of crises. When Obama came into office during the Great Recession, a loss of tax revenues due to the economic downturn and a <a href="https://www.govtrack.us/congress/bills/111/hr1" target="_blank" rel="noopener">$831 billion stimulus package</a> led to <a href="https://www.brookings.edu/blog/future-development/2018/06/25/10-years-later-4-fiscal-policy-lessons-from-the-global-financial-crisis/" target="_blank" rel="noopener">large budget deficits</a>. And in 2020, during Trump’s presidency, <a href="https://www.investopedia.com/government-stimulus-efforts-to-fight-the-covid-19-crisis-4799723" target="_blank" rel="noopener">stimulus efforts to combat</a> the negative economic effects of the COVID-19 pandemic contributed to a further rise. Yet much of this was of their own making, such as the <a href="https://www.taxpolicycenter.org/taxvox/tax-cuts-wont-make-america-great-again" target="_blank" rel="noopener">tax cuts passed</a> during the presidencies of Reagan and Trump that ballooned deficits and increased the national debt.</p>
-
-
-
-<p data-paragraph="main">It’s never been an easy vote, but Congress has raised the debt ceiling more than 100 times. Its history as a political tinderbox <a href="https://www.econstor.eu/bitstream/10419/146682/1/862691109.pdf" target="_blank" rel="noopener">long predates our current era</a>. “The debt ceiling has been a problem going back to the 1950s, because it’s difficult for Congress to support an increase,” said Lee. “It looks to their constituents like they are free spending, don't care about the deficit, that they're voting themselves a blank check. That's how it gets understood.” This misunderstanding of the debt ceiling -- which affects only our ability to pay what we already owe -- <a href="https://fivethirtyeight.com/features/what-americans-think-about-the-fight-over-the-debt-ceiling/" target="_blank" rel="noopener">continues to be a problem</a>, too, as many Americans still mistakenly believe it authorizes new spending.</p>
-
-
-
-<h2><strong>What’s different in the latest debt-ceiling fight</strong></h2>
-
-
-
-<p data-paragraph="main">Prior to this current fight, if one party had full control but lacked 60 seats in the Senate, the minority party <a href="https://onlinelibrary.wiley.com/doi/abs/10.1111/psq.12066" target="_blank" rel="noopener">wouldn’t block the majority from advancing</a> debt ceiling legislation. With a looming deal to allow a short-term increase, that has remained true -- for now. But later this year, Republican opposition may compel Democrats to raise the cap on their own <a href="https://www.rollcall.com/2021/09/22/potential-fallback-for-debt-ceiling-fraught-with-complications/" target="_blank" rel="noopener">using reconciliation</a>, a special legislative process that requires just a simple majority but can only be used sparingly. While <a href="https://www.politico.com/news/2021/09/27/democrats-reject-grueling-debt-limit-514256" target="_blank" rel="noopener">it’s not unheard of</a> to increase the limit via reconciliation, having the minority <em>force</em> the majority to raise it this way is new.</p>
-
-
-
-<p data-paragraph="main"><a href="https://gai.georgetown.edu/laura-blessing-ph-d/" target="_blank" rel="noopener">Laura Blessing</a>, a senior fellow at Georgetown University’s Government Affairs Institute who studies budgetary politics, viewed this fight as potentially “a new era of just insane levels of brinkmanship” because there doesn’t appear to be any path to a bipartisan agreement on a long-term debt ceiling increase. Blessing noted that it was then-Vice President Biden and Senate Minority Leader Mitch McConnell who came together at the last minute to salvage things in 2011. But McConnell “has changed his tune in terms of how he thinks the debt ceiling should work,” she observed, as he now argues the party in power has sole responsibility for raising it. “And there is not, at least not publicly, any sort of negotiating position that [Republicans are] using this for,” said Blessing. </p>
-
-
-
-<p data-paragraph="main">“It seems that de facto, they're attempting to slow down the Biden administration legislative train by putting this kind of a roadblock in the works. It’s just the most dangerous roadblock that you can possibly imagine.”</p>
-
-
-<div>
-	<p>
-		<a href="https://fivethirtyeight.com/features/what-americans-think-about-the-fight-over-the-debt-ceiling/?cid=_inlinerelated"><img alt="A pile of money cut out and placed against a blue grid background with a blue filter over it" width="153" height="115" data-sizes="(min-width: 440px) 153px, 100vw" data-srcset="https://fivethirtyeight.com/wp-content/uploads/2021/09/1001_POLLA-4x3-1.png?w=153&amp;quality=100&amp;strip=all 153w, https://fivethirtyeight.com/wp-content/uploads/2021/09/1001_POLLA-4x3-1.png?w=306&amp;quality=100&amp;strip=all 306w, https://fivethirtyeight.com/wp-content/uploads/2021/09/1001_POLLA-4x3-1.png?w=405&amp;quality=100&amp;strip=all 405w, https://fivethirtyeight.com/wp-content/uploads/2021/09/1001_POLLA-4x3-1.png?w=810&amp;quality=100&amp;strip=all 810w"></a>
-	</p>
-	<p>
-				<strong>related:</strong>
-				What Americans Think About The Fight Over The Debt Ceiling <a href="https://fivethirtyeight.com/features/what-americans-think-about-the-fight-over-the-debt-ceiling/?cid=_inlinerelated">Read more. »</a>
-	</p>
-</div>
-
-
-
-<h2><strong>Why it’s going to be hard to remove the debt ceiling cudgel from our politics</strong></h2>
-
-
-
-<p data-paragraph="main">As we’ve seen, the debt ceiling has done little to reduce federal spending, in part because the cap affects the country’s ability to pay off already-existing financial obligations and is handled separately from legislation that actually authorizes expenditures. Additionally, the debt ceiling has provided opportunities for partisan maneuvering that can take us to the brink of default. So it’s probably past time to rethink the debt ceiling. “You've got this fiscal tool that is antiquated and can only harm people and that <a href="https://www.vox.com/policy-and-politics/22684328/us-debt-ceiling-government-shutdown-biden-democrats" target="_blank" rel="noopener">virtually no other country around the world has</a>,” said Blessing. “You could procedurally blunt this.”</p>
-
-
-
-<p data-paragraph="main">One move would be to reinstitute some version of the <a href="https://www.wsj.com/articles/debt-ceiling-reconciliation-partisan-budget-negotiations-spending-federal-deficit-11629753688" target="_blank" rel="noopener">Gephardt Rule</a>, which from 1979 to 1995 linked an increase in the debt ceiling to the passage of the budget. When Congress passed its fiscal plan, it simultaneously authorized any necessary borrowing. But after the GOP captured all of Congress in the 1994 election, it mostly did away with this rule. Unfortunately, reinstating this rule might not be enough, in part because the budgetary process <a href="https://www.taxpolicycenter.org/taxvox/its-not-news-congresss-budget-process-wreck-it-should-be" target="_blank" rel="noopener">hasn’t functioned properly</a> for years now. “The federal budget process has been broken for the past 10 years. We have not passed a budget resolution most of the time,” observed Blessing. “So even if you went back to a classic fix, that classic fix would be a problem because things have broken down so much.” In fact, after Democrats captured the House in 2018, <a href="https://www.rollcall.com/2019/01/03/rules-package-would-renew-gephardt-rule-with-a-major-twist-2/" target="_blank" rel="noopener">they implemented a new version of the Gephardt Rule</a> that suspends the debt limit rather than establishing a new ceiling. That hasn’t fixed things, partly because the Senate still has to approve of the suspension. Blessing said that Senate rules could also be adjusted to include something similar to the Gephardt Rule, but that could be difficult to do in such a narrowly divided chamber.</p>
-
-
-
-<p data-paragraph="main">In a similar but more ambitious vein, Georgetown University law professor David Super <a href="https://www.washingtonpost.com/opinions/2021/09/20/only-language-mcconnell-understands-is-power-act-accordingly-democrats/" target="_blank" rel="noopener">has argued that</a> Senate Democrats could use a stand-alone reconciliation vote to pass legislation that directly ties the debt ceiling to whatever the national debt happens to be. And with Senate Republicans opposed to assisting a long-term debt ceiling hike, Democrats <a href="https://twitter.com/mkraju/status/1445111822483345411" target="_blank" rel="noopener">may indeed have to raise it</a> via reconciliation. In a bit of good news for Democrats, though, Punchbowl News <a href="https://email.punchbowl.news/t/ViewEmail/t/DD8030506F7149122540EF23F30FEDED/0D79378D1BBC29E51D419C9787CC9684" target="_blank" rel="noopener">reported earlier this week</a> that the Senate parliamentarian has ruled that a separate reconciliation vote on the debt ceiling wouldn’t disrupt Democrats’ ongoing legislative efforts to pass a large social spending package, which is also being done via reconciliation. Democrats could try to mimic Super’s plan or raise the debt ceiling to an astronomically high number that would essentially make it meaningless for the foreseeable future. Democratic Rep. John Yarmuth of Kentucky, chairman of the House Budget Committee, <a href="https://about.bgov.com/news/debt-creativity-includes-mint-the-coin-gazillion-dollar-limit/" target="_blank" rel="noopener">said in late September</a> that he was in favor of “eliminating the law or raising the debt limit to a gazillion dollars.”</p>
-
-
-
-<p data-paragraph="main">However, it’s not clear whether Super’s approach or raising the debt ceiling to an extreme might be palatable to many Democrats, who may instead prefer a smaller increase. “It's a painful vote for members of Congress,” said Lee. “They don't want to have to vote for it because it makes them look irresponsible to their constituents.” And sure enough, Republicans are licking their chops at the prospect of using this vote in the 2022 midterms, especially by linking it to the Democrats’ ambitious spending plans. For instance, Florida Sen. Rick Scott, who leads the National Republican Senatorial Committee, <a href="https://twitter.com/sahilkapur/status/1441066579496685568" target="_blank" rel="noopener">recently said</a> that the committee’s midterm election ads will hit Democrats on a debt limit increase.</p>
-
-
-
-<p data-paragraph="main">And therein lies the rub with the debt ceiling: It’s really a political tool, not a fiscal instrument. “A reason why it's hard to reform is that it's a valuable mechanism for forcing a conversation about deficits and gives Congress leverage to demand concessions,” said Lee. “In the case of unified government, it’s the chance for the party out of power to make some political headway against the party in power, to say they're governing in an irresponsible manner.” </p>
-
-
-
-<p data-paragraph="main">Moreover, even if many Democrats want to change how the debt ceiling works, Blessing pointed out that such a reform could be too much for members of Congress to take on while Democrats are also trying to pass a <a href="https://www.reuters.com/world/us/democrats-will-be-disappointed-party-pares-agenda-white-house-2021-10-03/" target="_blank" rel="noopener">still-developing social spending plan</a>. “I don't see them having the bandwidth to do that right now,” said Blessing. “You're asking a lot of people to take votes that are going to make them a little squeamish, particularly for well-known and moderate Democrats, and asking them to deal with debt limit reform on top of that. That is kind of a big ask.” The short-term deal to raise the debt ceiling does give Democrats a little more space to work out the party’s exact social spending legislation, but it’s unclear <a href="https://email.punchbowl.news/t/ViewEmail/t/C16F789594BD16622540EF23F30FEDED/CFF70EDA230965EECE63909E3969C05F" target="_blank" rel="noopener">whether they’ll have enough time</a> to finish those deliberations before the debt issue once again becomes pressing.</p>
-
-
-
-<p data-paragraph="main">Yet another wrinkle is that the Republican filibuster of a long-term debt ceiling hike has also <a href="https://www.nytimes.com/2021/10/06/us/debt-ceiling-filibuster.html" target="_blank" rel="noopener">reanimated discussions</a> within the Democratic caucus over changes to the traditional filibuster. Some Democrats, <a href="https://www.cnn.com/2021/10/06/politics/biden-debt-ceiling-filibuster/index.html" target="_blank" rel="noopener">including President Biden</a>, have raised the idea of altering the rules to allow a simple majority vote to raise the debt ceiling, or even something less specific, such as a <a href="https://twitter.com/lindsaywise/status/1445487774698672132" target="_blank" rel="noopener">one-day elimination of the filibuster</a>. However, West Virginia Sen. Joe Manchin and Arizona Sen. Kyrsten Sinema <a href="https://www.vox.com/22319564/filibuster-reform-manchin-democrats-nuclear-option" target="_blank" rel="noopener">have publicly opposed</a> changes to the filibuster rules. And earlier this week, Manchin <a href="https://twitter.com/mkraju/status/1445122612665933826?s=21" target="_blank" rel="noopener">pushed back</a> on adjusting the filibuster for a debt ceiling hike. Still, Lee wondered if there may have been some calculation by the Democratic leadership in not trying to address the debt limit earlier this year, even though everyone knew well ahead of time that the fight was coming. “This is not a surprise, so why are they letting it come to crisis now at the same time as they have to deal with the infrastructure bill and the reconciliation negotiations on the Build Back Better plan?” asked Lee. “I'm totally speculating, but it is a pressure point for the filibuster.” The filibuster’s future may have played into McConnell’s decision to yield on a short-term increase, as forcing senators such as Manchin and Sinema to choose between defending the filibuster and avoiding default <a href="https://twitter.com/LPDonovan/status/1445887228266307584" target="_blank" rel="noopener">could have generated</a> enough pressure to truly threaten the filibuster.</p>
-
-
-
-<p data-paragraph="main">However, changes to the filibuster remain unlikely, and while there are other, <a href="https://www.axios.com/trillion-dollar-platinum-coin-mint-janet-yellen-223e7722-d7ba-47c9-b5f6-49a841d181de.html" target="_blank" rel="noopener">more outrageous ideas</a> for overcoming the debt ceiling, <a href="https://www.npr.org/sections/itsallpolitics/2014/07/20/333032601/kicking-the-can-down-the-road-a-habit-thats-hard-to-kick" target="_blank" rel="noopener">it’s not at all a surprise</a> that Congress has opted to kick the can a few feet down the road with a short-term increase. Come December, Congress will be right back at this same juncture. But as long as the debt ceiling exists in its current form, Congress will keep having these fights over raising it -- even if doing so seems to align with <a href="https://www.scientificamerican.com/article/einstein-s-parable-of-quantum-insanity/#:~:text=%E2%80%9CInsanity%20is%20doing%20the%20same,usually%20attributed%20to%20Albert%20Einstein." target="_blank" rel="noopener">Einstein’s definition of insanity</a>. “As a good governance person, I would like them to procedurally blunt this thing, because I don't think that they have the votes to get rid of it,” said Blessing. “It's just, how do you crowbar that into the congressional calendar with everything else that they're handling, I think is the real question.”</p>
-
-
-<p>Watch: https://abcnews.go.com/ThisWeek/video/buy-democrats-worried-virginia-gubernatorial-race-silver-80379206</p>
-
-<p>Watch: https://abcnews.go.com/fivethirtyeight/video/latest-crime-data-us-fivethirtyeight-politics-podcast-80334237</p>]]></description>
-			<pubDate>Thu, 07 Oct 2021 15:59:00 +0100</pubDate>
-			<guid isPermaLink="false">1633622401835563</guid>
 		</item>
 
 	</channel>
