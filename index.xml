@@ -3,9 +3,33 @@
 		<title>Main stream | FreshRSS</title>
 		<link>http://radon</link>
 		<description>RSS feed of Main stream | FreshRSS</description>
-		<pubDate>Tue, 26 Oct 2021 18:29:06 +0100</pubDate>
-		<lastBuildDate>Tue, 26 Oct 2021 17:29:06 GMT</lastBuildDate>
+		<pubDate>Tue, 26 Oct 2021 18:59:07 +0100</pubDate>
+		<lastBuildDate>Tue, 26 Oct 2021 17:59:07 GMT</lastBuildDate>
 		<atom:link href="http://radon/i/?a=rss" rel="self" type="application/rss+xml" />
+		<item>
+			<title>What Do You Think Abortion Access Should Look Like In America? We Want To Hear From You.</title>
+			<link>https://fivethirtyeight.com/features/what-do-you-think-abortion-access-should-look-like-in-america-we-want-to-hear-from-you/</link>
+						<dc:creator>Amelia Thomson-DeVeaux</dc:creator>
+			<dc:creator>Amelia Thomson-DeVeaux</dc:creator>
+			<category>Abortion</category>
+			<category>Access To Abortion</category>
+			<description><![CDATA[<p data-paragraph="main"></p>
+
+
+
+<p data-paragraph="main">Abortion is one of the thorniest political issues in America, and it’s been that way for years. But it’s also an area where Americans’ views are complex and often contradictory. What people really think about abortion access is notoriously difficult to capture in a poll. And how people feel about the issue is influenced by all kinds of hard-to-quantify factors — their own personal experiences, the political landscape and more.</p>
+
+
+
+<p data-paragraph="main">So we want to capture some of that complexity by talking to you. Think you have a perspective on abortion that’s not represented in the news? Believe we should be talking or thinking about abortion differently? Not sure when you think abortion should be legal or under what circumstances? Fill out the form below to tell us a little about your perspective on abortion, and we might follow up to hear more.</p>
+
+
+<div>
+<iframe sandbox="allow-scripts allow-same-origin">Loading…</iframe>
+</div>]]></description>
+			<pubDate>Tue, 26 Oct 2021 18:15:00 +0100</pubDate>
+			<guid isPermaLink="false">1635269401217147</guid>
+		</item>
 		<item>
 			<title>Americans Don’t Trust Their Congressional Maps To Be Drawn Fairly. Can Anything Change That?</title>
 			<link>https://fivethirtyeight.com/features/americans-dont-trust-their-congressional-maps-to-be-drawn-fairly-can-anything-change-that/</link>
@@ -3177,157 +3201,6 @@
 <p>Watch: https://abcnews.go.com/fivethirtyeight/video/latest-crime-data-us-fivethirtyeight-politics-podcast-80334237</p>]]></description>
 			<pubDate>Mon, 11 Oct 2021 11:00:00 +0100</pubDate>
 			<guid isPermaLink="false">1633950901847410</guid>
-		</item>
-		<item>
-			<title>How Fast Is The Economy Recovering?</title>
-			<link>https://projects.fivethirtyeight.com/us-economy-coronavirus/</link>
-						<dc:creator>Julia Wolfe</dc:creator>
-			<dc:creator>Julia Wolfe and Amelia Thomson-DeVeaux</dc:creator>
-			<category>Jobs Report</category>
-			<description><![CDATA[<p>How Fast Is The Economy Recovering?<br>
-By Julia Wolfe and Amelia Thomson-DeVeaux</p>
-<p>For nearly a year, the economy has been on a long, exhausting slog toward post-pandemic “normalcy.” And it isn’t over yet.</p>
-<p>This page — which we plan to update every month — will tell us how far we still have to go before the economy is back where it was before the pandemic shut down much of American life.</p>
-<p>We have made significant progress, of course: After hitting the highest level of unemployment the country has seen since the Great Depression in April, the unemployment rate has steadily fallen.</p>
-<p>But as of this month, we’re still 3.2 percentage points higher than the pre-pandemic unemployment rate.</p>
-<p>Change from January 2020 in the seasonally adjusted unemployment rate<br>
-Jan.<br>
-Dec.<br>
-+11.3<br>
-+3.2<br>
-The unemployment rate in December was 6.7%, according to the latest jobs report, unchanged from 6.7% in November.</p>
-<p>Crucially, the recovery isn’t affecting all workers equally. Just as Black and Hispanic communities have struggled with higher rates of infection and death since the beginning of the COVID-19 pandemic, communities of color are continuing to bear the brunt of high unemployment and economic insecurity, even as the overall numbers fall.</p>
-<p>A persistent gap<br>
-Change from January 2020 in the seasonally adjusted unemployment rate, by race<br>
-Jan.<br>
-Feb.<br>
-March<br>
-April<br>
-May<br>
-June<br>
-July<br>
-Aug.<br>
-Sept.<br>
-Oct.<br>
-Nov.<br>
-Dec.<br>
-0<br>
-+5<br>
-+10<br>
-+15<br>
-HISPANIC<br>
-HISPANIC<br>
-BLACK<br>
-BLACK<br>
-WHITE<br>
-WHITE<br>
-At its peak, this recession increased the unemployment gap between Hispanic and white workers by 3.5 points<br>
-Jan.<br>
-Dec.<br>
-0<br>
-+5<br>
-+10<br>
-+15<br>
-HISPANIC<br>
-HISPANIC<br>
-WHITE<br>
-WHITE<br>
-Jan.<br>
-Dec.<br>
-0<br>
-+5<br>
-+10<br>
-+15<br>
-BLACK<br>
-BLACK<br>
-WHITE<br>
-WHITE<br>
-Even in good times, Black unemployment often hovers at levels much higher than for white Americans. But the pandemic has exacerbated that stubborn inequality, and now we’re in the midst of a profoundly unequal economic crisis. Low-wage workers — who are disproportionately likely to be Black and Hispanic — have been hardest hit by the pandemic because they generally work in sectors, like retail and hospitality, where their work can’t be done from home. Those workplaces pose significant public health risks in a pandemic, and have been subjected to full or partial shutdowns as infections ebb and flow.</p>
-<p>As a result, we’re much closer to economic normalcy in sectors like construction and professional and business services than we are in sectors like leisure and hospitality.</p>
-<p>A long way to zero<br>
-Change from January 2020 in seasonally adjusted nonfarm jobs added or lost for six major private sectors<br>
-Jan.<br>
-Feb.<br>
-March<br>
-April<br>
-May<br>
-June<br>
-July<br>
-Aug.<br>
-Sept.<br>
-Oct.<br>
-Nov.<br>
-Dec.<br>
--20<br>
--15<br>
--10<br>
-” “-5m<br>
-0<br>
-Leisure and Hospitality<br>
-Jan.<br>
-Dec.<br>
--20<br>
--15<br>
--10<br>
-” “-5m<br>
-0<br>
--8.3<br>
--3.8<br>
-Trade, Transportation and Utilities<br>
-Jan.<br>
-Dec.<br>
--20<br>
--15<br>
--10<br>
-” “-5m<br>
-0<br>
--3.4<br>
--0.8<br>
-Education and Health Services<br>
-Jan.<br>
-Dec.<br>
--20<br>
--15<br>
--10<br>
-” “-5m<br>
-0<br>
--2.7<br>
--1.2<br>
-Professional and Business Services<br>
-Jan.<br>
-Dec.<br>
--20<br>
--15<br>
--10<br>
-” “-5m<br>
-0<br>
--2.3<br>
--0.8<br>
-Manufacturing<br>
-Jan.<br>
-Dec.<br>
--20<br>
--15<br>
--10<br>
-” “-5m<br>
-0<br>
--1.4<br>
--0.5<br>
-Construction<br>
-Jan.<br>
-Dec.<br>
--20<br>
--15<br>
--10<br>
-” “-5m<br>
-0<br>
--1<br>
--0.2<br>
-Some sectors have been able to adjust (more or less) to the realities of the pandemic, but others, like leisure and hospitality and education and health services, have left their workers in a painful no-win situation. They face precarious employment, with temporary furloughs or permanent layoffs always on the horizon, plus the unenviable prospect of going to work every day with the risk of infection hanging over their heads.</p>
-<p>These disparities are important to remember because even when employment appears to be approaching pre-pandemic normalcy, a lot of people aren’t part of that economic rebound — and those workers are still disproportionately likely to be people of color, young and low-wage.</p>
-<p>Check back next month for an update on how close — or far — we are to the levels of unemployment we saw before the pandemic.</p>]]></description>
-			<pubDate>Fri, 08 Oct 2021 14:11:00 +0100</pubDate>
-			<guid isPermaLink="false">1633703402534177</guid>
 		</item>
 
 	</channel>
