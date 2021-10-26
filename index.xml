@@ -3,8 +3,8 @@
 		<title>Main stream | FreshRSS</title>
 		<link>http://radon</link>
 		<description>RSS feed of Main stream | FreshRSS</description>
-		<pubDate>Tue, 26 Oct 2021 16:59:07 +0100</pubDate>
-		<lastBuildDate>Tue, 26 Oct 2021 15:59:07 GMT</lastBuildDate>
+		<pubDate>Tue, 26 Oct 2021 17:29:07 +0100</pubDate>
+		<lastBuildDate>Tue, 26 Oct 2021 16:29:07 GMT</lastBuildDate>
 		<atom:link href="http://radon/i/?a=rss" rel="self" type="application/rss+xml" />
 		<item>
 			<title>Americans Don’t Trust Their Congressional Maps To Be Drawn Fairly. Can Anything Change That?</title>
@@ -44,6 +44,17 @@
 <p data-paragraph="main">Redistricting has been a problem in a number of states, to the extent that the court has had to intervene. According to the nonpartisan redistricting website <a href="https://redistricting.lls.edu/national-overview/?colorby=Court%20Action&amp;level=Congress&amp;cycle=2010" target="_blank" rel="noopener">All About Redistricting</a>, the courts rejected all or part of the maps in five states and drew new maps in 12 other states. And there is already <a href="https://redistricting.lls.edu/national-overview/?colorby=Plan%20Status&amp;level=Congress&amp;cycle=2020" target="_blank" rel="noopener">one lawsuit pending this year</a>.</p>
 
 
+<div>
+	<p>
+		<a href="https://projects.fivethirtyeight.com/redistricting-2022-maps/"><img alt="Redistricting map" width="153" height="115" data-sizes="(min-width: 440px) 153px, 100vw" data-srcset="https://fivethirtyeight.com/wp-content/uploads/2021/08/REDISTRICTING-TRACKER-4x3-1.png?w=153&amp;quality=100&amp;strip=all 153w, https://fivethirtyeight.com/wp-content/uploads/2021/08/REDISTRICTING-TRACKER-4x3-1.png?w=306&amp;quality=100&amp;strip=all 306w, https://fivethirtyeight.com/wp-content/uploads/2021/08/REDISTRICTING-TRACKER-4x3-1.png?w=405&amp;quality=100&amp;strip=all 405w, https://fivethirtyeight.com/wp-content/uploads/2021/08/REDISTRICTING-TRACKER-4x3-1.png?w=810&amp;quality=100&amp;strip=all 810w"></a>
+	</p>
+	<p>
+				<strong>Related:</strong>
+				What Redistricting Looks Like In Every State <a href="https://projects.fivethirtyeight.com/redistricting-2022-maps/">Read more. »</a>
+	</p>
+</div>
+
+
 
 <p data-paragraph="main">In states like North Carolina, where gerrymandering has particularly been an issue, trust in the redistricting process is extremely low. In the past decade, the state has had to draw its congressional districts three different times. After the initial drawing in 2011, the courts found in a 2016 ruling that the state’s map had been racially gerrymandered to disadvantage Black voters in the state, a decision that was <a href="https://www.theatlantic.com/politics/archive/2017/05/north-carolina-gerrymandering/527592/" target="_blank" rel="noopener">upheld by the Supreme Court</a>. Following the lower court’s decision, Public Policy Polling found in a 2017 survey that <a href="https://democracync.org/wp-content/uploads/2017/07/NorthCarolinaRedistrictingPollResults2017.pdf" target="_blank" rel="noopener">86 percent of North Carolina voters</a> were either “somewhat” or “very” concerned about the effect of partisan politics on the state’s maps. Then, in 2019, a state court panel threw out North Carolina’s 2016 map because it was ruled <a href="https://www.nbcnews.com/politics/elections/court-throws-out-north-carolina-s-congressional-district-maps-n1073081" target="_blank" rel="noopener">a partisan gerrymander</a> that gave Republicans an upper hand.</p>
 
@@ -71,6 +82,8 @@
 
 <p data-paragraph="main">It’s why in some states, voters are trying to address redistricting themselves in the form of independent redistricting commissions.</p>
 
+
+<p>Watch: https://abcnews.go.com/fivethirtyeight/video/adam-schiff-worried-american-democracy-fivethirtyeight-politics-podcast-80716056</p>
 
 
 <p data-paragraph="main">Independent commissions are designed to keep partisan politics out of the redistricting process by putting the power to draw lines in the hands of ordinary citizens — although in some states, these commissions comprise a bipartisan group of lawmakers. And research has found that independent commissions can improve voters’ trust in the redistricting process. For instance, <a href="https://drive.google.com/file/d/1bSI442jvLJrndLT6waMZ_48QyrAobqxn/view?usp=sharing" target="_blank" rel="noopener">researchers at the University of Southern California</a> found that when California voters were told the state uses independent commissions (which it does) and the process was explained to them, 73 percent of respondents thought the process was fair. But when they were told the state legislature draws the lines (which it doesn’t) just 32 percent thought the process was fair.</p>
