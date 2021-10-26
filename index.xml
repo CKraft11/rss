@@ -3,8 +3,8 @@
 		<title>Main stream | FreshRSS</title>
 		<link>http://radon</link>
 		<description>RSS feed of Main stream | FreshRSS</description>
-		<pubDate>Tue, 26 Oct 2021 15:59:07 +0100</pubDate>
-		<lastBuildDate>Tue, 26 Oct 2021 14:59:07 GMT</lastBuildDate>
+		<pubDate>Tue, 26 Oct 2021 16:29:06 +0100</pubDate>
+		<lastBuildDate>Tue, 26 Oct 2021 15:29:06 GMT</lastBuildDate>
 		<atom:link href="http://radon/i/?a=rss" rel="self" type="application/rss+xml" />
 		<item>
 			<title>Americans Don’t Trust Their Congressional Maps To Be Drawn Fairly. Can Anything Change That?</title>
@@ -167,7 +167,12 @@
 
 
 
-<p data-paragraph="main"><em>The FiveThirtyEight Politics podcast is recorded Mondays and Thursdays. Help new listeners discover the show by </em><a href="https://itunes.apple.com/us/podcast/fivethirtyeight-elections/id1077418457?mt=2" target="_blank" rel="noopener"><em>leaving us a rating and review on iTunes</em></a><em>. Have a comment, question or suggestion for “good polling vs. bad polling”? Get in touch by email, </em><a href="https://twitter.com/FiveThirtyEight" target="_blank" rel="noopener"><em>on Twitter</em></a><em> or in the comments.</em></p>]]></description>
+<p data-paragraph="main"><em>The FiveThirtyEight Politics podcast is recorded Mondays and Thursdays. Help new listeners discover the show by </em><a href="https://itunes.apple.com/us/podcast/fivethirtyeight-elections/id1077418457?mt=2" target="_blank" rel="noopener"><em>leaving us a rating and review on iTunes</em></a><em>. Have a comment, question or suggestion for “good polling vs. bad polling”? Get in touch by email, </em><a href="https://twitter.com/FiveThirtyEight" target="_blank" rel="noopener"><em>on Twitter</em></a><em> or in the comments.</em></p>
+
+
+<p>Watch: https://abcnews.go.com/fivethirtyeight/video/guess-americans-democrats-spending-bill-80782414</p>
+
+<p>Watch: https://abcnews.go.com/fivethirtyeight/video/adam-schiff-worried-american-democracy-fivethirtyeight-politics-podcast-80716056</p>]]></description>
 			<pubDate>Mon, 25 Oct 2021 23:53:00 +0100</pubDate>
 			<guid isPermaLink="false">1635206402042491</guid>
 		</item>
@@ -197,381 +202,289 @@
 
 
 <div>
-<section>
- <header>
- <h5>Few senators or representatives have flipped parties</h5>
+<section><header><h5>Few senators or representatives have flipped parties</h5>
  <p>Sitting members of Congress who switched parties, since 1951</p>
- </header>
- <table data-carpenter-slug="skelley.manchin-1025.2">
- <thead>
- <tr>
- <th colspan="5"></th>
+ </header><table data-carpenter-slug="skelley.manchin-1025.2"><thead><tr><th colspan="5"></th>
  <th colspan="2">Ran again?*</th>
- </tr>
- <tr>
- <th colspan="1">Member</th>
+ </tr><tr><th colspan="1">Member</th>
  <th colspan="1">State</th>
  <th colspan="1">Chamber</th>
  <th colspan="1">Party switch</th>
  <th colspan="1">Switch Year</th>
  <th colspan="1">Ran</th>
  <th colspan="1">Won</th>
- </tr>
- </thead>
- <tbody>
- <tr>
- <td>Wayne Morse</td>
+ </tr></thead><tbody><tr><td>Wayne Morse</td>
  <td>OR</td>
  <td>Senate</td>
  <td>R to I</td>
  <td>1952</td>
  <td></td>
  <td></td>
- </tr>
- <tr>
- <td></td>
+ </tr><tr><td></td>
  <td>OR</td>
  <td>Senate</td>
  <td>I to D</td>
  <td>1955</td>
  <td>✓</td>
  <td>✓</td>
- </tr>
- <tr>
- <td>Vincent Dellay</td>
+ </tr><tr><td>Vincent Dellay</td>
  <td>NJ</td>
  <td>House</td>
  <td>R to D</td>
  <td>1958</td>
  <td></td>
  <td></td>
- </tr>
- <tr>
- <td>Strom Thurmond</td>
+ </tr><tr><td>Strom Thurmond</td>
  <td>SC</td>
  <td>Senate</td>
  <td>D to R</td>
  <td>1964</td>
  <td>✓</td>
  <td>✓</td>
- </tr>
- <tr>
- <td>Albert Watson**</td>
+ </tr><tr><td>Albert Watson**</td>
  <td>SC</td>
  <td>House</td>
  <td>D to R</td>
  <td>1965</td>
  <td>✓</td>
  <td>✓</td>
- </tr>
- <tr>
- <td>Harry Byrd Jr.</td>
+ </tr><tr><td>Harry Byrd Jr.</td>
  <td>VA</td>
  <td>Senate</td>
  <td>D to I</td>
  <td>1970</td>
  <td>✓</td>
  <td>✓</td>
- </tr>
- <tr>
- <td>Ogden Reid</td>
+ </tr><tr><td>Ogden Reid</td>
  <td>NY</td>
  <td>House</td>
  <td>R to D</td>
  <td>1972</td>
  <td>✓</td>
  <td>✓</td>
- </tr>
- <tr>
- <td>Don Riegle</td>
+ </tr><tr><td>Don Riegle</td>
  <td>MI</td>
  <td>House</td>
  <td>R to D</td>
  <td>1973</td>
  <td>✓</td>
  <td>✓</td>
- </tr>
- <tr>
- <td>John Jarman</td>
+ </tr><tr><td>John Jarman</td>
  <td>OK</td>
  <td>House</td>
  <td>D to R</td>
  <td>1975</td>
  <td></td>
  <td></td>
- </tr>
- <tr>
- <td>Bob Stump</td>
+ </tr><tr><td>Bob Stump</td>
  <td>AZ</td>
  <td>House</td>
  <td>D to R</td>
  <td>1981</td>
  <td>✓</td>
  <td>✓</td>
- </tr>
- <tr>
- <td>Eugene Atkinson</td>
+ </tr><tr><td>Eugene Atkinson</td>
  <td>PA</td>
  <td>House</td>
  <td>D to R</td>
  <td>1981</td>
  <td>✓</td>
  <td></td>
- </tr>
- <tr>
- <td>Phil Gramm**</td>
+ </tr><tr><td>Phil Gramm**</td>
  <td>TX</td>
  <td>House</td>
  <td>D to R</td>
  <td>1983</td>
  <td>✓</td>
  <td>✓</td>
- </tr>
- <tr>
- <td>Andy Ireland</td>
+ </tr><tr><td>Andy Ireland</td>
  <td>FL</td>
  <td>House</td>
  <td>D to R</td>
  <td>1984</td>
  <td>✓</td>
  <td>✓</td>
- </tr>
- <tr>
- <td>Bill Grant</td>
+ </tr><tr><td>Bill Grant</td>
  <td>FL</td>
  <td>House</td>
  <td>D to R</td>
  <td>1989</td>
  <td>✓</td>
  <td></td>
- </tr>
- <tr>
- <td>Tommy Robinson</td>
+ </tr><tr><td>Tommy Robinson</td>
  <td>AR</td>
  <td>House</td>
  <td>D to R</td>
  <td>1989</td>
  <td>✓</td>
  <td></td>
- </tr>
- <tr>
- <td>Richard Shelby</td>
+ </tr><tr><td>Richard Shelby</td>
  <td>AL</td>
  <td>Senate</td>
  <td>D to R</td>
  <td>1994</td>
  <td>✓</td>
  <td>✓</td>
- </tr>
- <tr>
- <td>Ben N. Campbell</td>
+ </tr><tr><td>Ben N. Campbell</td>
  <td>CO</td>
  <td>Senate</td>
  <td>D to R</td>
  <td>1995</td>
  <td>✓</td>
  <td>✓</td>
- </tr>
- <tr>
- <td>Nathan Deal</td>
+ </tr><tr><td>Nathan Deal</td>
  <td>GA</td>
  <td>House</td>
  <td>D to R</td>
  <td>1995</td>
  <td>✓</td>
  <td>✓</td>
- </tr>
- <tr>
- <td>Greg Laughlin</td>
+ </tr><tr><td>Greg Laughlin</td>
  <td>TX</td>
  <td>House</td>
  <td>D to R</td>
  <td>1995</td>
  <td>✓</td>
  <td></td>
- </tr>
- <tr>
- <td>Billy Tauzin</td>
+ </tr><tr><td>Billy Tauzin</td>
  <td>LA</td>
  <td>House</td>
  <td>D to R</td>
  <td>1995</td>
  <td>✓</td>
  <td>✓</td>
- </tr>
- <tr>
- <td>Mike Parker</td>
+ </tr><tr><td>Mike Parker</td>
  <td>MS</td>
  <td>House</td>
  <td>D to R</td>
  <td>1995</td>
  <td>✓</td>
  <td>✓</td>
- </tr>
- <tr>
- <td>Jimmy Hayes</td>
+ </tr><tr><td>Jimmy Hayes</td>
  <td>LA</td>
  <td>House</td>
  <td>D to R</td>
  <td>1995</td>
  <td>✓</td>
  <td></td>
- </tr>
- <tr>
- <td>Bob Smith</td>
+ </tr><tr><td>Bob Smith</td>
  <td>NH</td>
  <td>Senate</td>
  <td>R to I</td>
  <td>1999</td>
  <td></td>
  <td></td>
- </tr>
- <tr>
- <td></td>
+ </tr><tr><td></td>
  <td>NH</td>
  <td>Senate</td>
  <td>I to R</td>
  <td>1999</td>
  <td>✓</td>
  <td></td>
- </tr>
- <tr>
- <td>Michael Forbes</td>
+ </tr><tr><td>Michael Forbes</td>
  <td>NY</td>
  <td>House</td>
  <td>R to D</td>
  <td>1999</td>
  <td>✓</td>
  <td></td>
- </tr>
- <tr>
- <td>Virgil Goode</td>
+ </tr><tr><td>Virgil Goode</td>
  <td>VA</td>
  <td>House</td>
  <td>D to I</td>
  <td>2000</td>
  <td>✓</td>
  <td>✓</td>
- </tr>
- <tr>
- <td>Matthew Martinez†</td>
+ </tr><tr><td>Matthew Martinez†</td>
  <td>CA</td>
  <td>House</td>
  <td>D to R</td>
  <td>2000</td>
  <td></td>
  <td></td>
- </tr>
- <tr>
- <td>Jim Jeffords</td>
+ </tr><tr><td>Jim Jeffords</td>
  <td>VT</td>
  <td>Senate</td>
  <td>R to I</td>
  <td>2001</td>
  <td></td>
  <td></td>
- </tr>
- <tr>
- <td>Virgil Goode</td>
+ </tr><tr><td>Virgil Goode</td>
  <td>VA</td>
  <td>House</td>
  <td>I to R</td>
  <td>2002</td>
  <td>✓</td>
  <td>✓</td>
- </tr>
- <tr>
- <td>Ralph Hall</td>
+ </tr><tr><td>Ralph Hall</td>
  <td>TX</td>
  <td>House</td>
  <td>D to R</td>
  <td>2004</td>
  <td>✓</td>
  <td>✓</td>
- </tr>
- <tr>
- <td>Rodney Alexander</td>
+ </tr><tr><td>Rodney Alexander</td>
  <td>LA</td>
  <td>House</td>
  <td>D to R</td>
  <td>2004</td>
  <td>✓</td>
  <td>✓</td>
- </tr>
- <tr>
- <td>Joe Lieberman</td>
+ </tr><tr><td>Joe Lieberman</td>
  <td>CT</td>
  <td>Senate</td>
  <td>D to I</td>
  <td>2006</td>
  <td>✓</td>
  <td>✓</td>
- </tr>
- <tr>
- <td>Arlen Specter</td>
+ </tr><tr><td>Arlen Specter</td>
  <td>PA</td>
  <td>Senate</td>
  <td>R to D</td>
  <td>2009</td>
  <td>✓</td>
  <td></td>
- </tr>
- <tr>
- <td>Parker Griffith</td>
+ </tr><tr><td>Parker Griffith</td>
  <td>AL</td>
  <td>House</td>
  <td>D to R</td>
  <td>2009</td>
  <td>✓</td>
  <td></td>
- </tr>
- <tr>
- <td>Justin Amash</td>
+ </tr><tr><td>Justin Amash</td>
  <td>MI</td>
  <td>House</td>
  <td>R to I</td>
  <td>2019</td>
  <td></td>
  <td></td>
- </tr>
- <tr>
- <td></td>
+ </tr><tr><td></td>
  <td>MI</td>
  <td>House</td>
  <td>I to L</td>
  <td>2020</td>
  <td></td>
  <td></td>
- </tr>
- <tr>
- <td>Jeff Van Drew</td>
+ </tr><tr><td>Jeff Van Drew</td>
  <td>NJ</td>
  <td>House</td>
  <td>D to R</td>
  <td>2020</td>
  <td>✓</td>
  <td>✓</td>
- </tr>
- <tr>
- <td>Paul Mitchell†</td>
+ </tr><tr><td>Paul Mitchell†</td>
  <td>MI</td>
  <td>House</td>
  <td>R to I</td>
  <td>2020</td>
  <td></td>
  <td></td>
- </tr>
- </tbody>
- </table>
- <footer>
- <p>The chart includes members who switched parties while in Congress. It excludes members who switched parties while out of office but later returned to Congress, as well as members who were elected under a different party label but immediately joined or rejoined one of the two major parties in Congress.</p>
+ </tr></tbody></table><footer><p>The chart includes members who switched parties while in Congress. It excludes members who switched parties while out of office but later returned to Congress, as well as members who were elected under a different party label but immediately joined or rejoined one of the two major parties in Congress.</p>
  <p>*Includes members who ran for reelection or new offices.</p>
  <p>**Watson and Gramm resigned from their seats and won ensuing special elections under their new party’s banner to fill their own vacancy in the same Congress.</p>
  <p>†Martinez and Mitchell switched parties after they were already leaving Congress. Martinez became a Republican after losing his primary as a Democrat, while Mitchell didn’t seek reelection and left the GOP three weeks before the start of the next Congress.</p>
  <p>Sources: ANTOINE YOSHINAKA, BIOGRAPHICAL DIRECTORY OF THE U.S. CONGRESS</p>
- </footer>
-</section>
-</div>
+ </footer></section></div>
 
 
 <p data-paragraph="main">Electoral calculations seem to have guided many of these members’ decisions to change parties, too. In his <a href="https://www.cambridge.org/core/books/crossing-the-aisle/519F5A3C501380C42ABB4B1E041DC946" target="_blank" rel="noopener">study of party switchers</a>, political scientist Antoine Yoshinaka found that members were more likely to switch parties when they represented areas where their old party performed poorly — though they were most likely to switch if they intended on seeking a higher office in the future. However, troublingly for Manchin, Yoshinaka didn’t find that these switches necessarily paid off. In fact, he found party-switchers performed 4 to 9 percentage points <em>worse</em> in their next general election than non-switchers between 1952 and 2010. </p>
@@ -579,6 +492,16 @@
 
 
 <p data-paragraph="main">That said, Manchin might be better off if he left the Democratic Party and ran as an independent. It will just be really hard for Manchin to win otherwise. Only Wyoming voted more Republican than West Virginia <a href="https://uselectionatlas.org/RESULTS/national.php?year=2020&amp;f=0&amp;off=0&amp;elect=0" target="_blank" rel="noopener">i</a>n the <a href="https://uselectionatlas.org/RESULTS/national.php?year=2020&amp;f=0&amp;off=0&amp;elect=0" target="_blank" rel="noopener">2020 presidential election</a>. And despite a <a href="https://fivethirtyeight.com/features/yes-it-was-a-blue-wave/" target="_blank" rel="noopener">blue wave in the 2018 midterm elections</a>, Manchin <a href="https://results.enr.clarityelections.com/WV/92360/Web02-state.222648/#/" target="_blank" rel="noopener">won reelection</a> by his slimmest margin yet — about 3 points. Moreover, running as a Republican isn’t really an option for Manchin. It’s true that he scores well among Republican voters in West Virginia — a <a href="https://morningconsult.com/2021/10/04/sinema-manchin-approval-rating/" target="_blank" rel="noopener">Morning Consult poll</a> recently found 44 percent approved of him — but he would undoubtedly have a challenging time winning a GOP primary, having <a href="https://www.senate.gov/legislative/LIS/roll_call_lists/roll_call_vote_cfm.cfm?congress=117&amp;session=1&amp;vote=00059" target="_blank" rel="noopener">voted to impeach former President Donald Trump</a> in February. </p>
+
+
+<div>
+	<p>
+		<a href="https://fivethirtyeight.com/features/americans-dont-trust-their-congressional-maps-to-be-drawn-fairly-can-anything-change-that/"><img alt="Two people look over a map of the current South Carolina Senate districts." width="153" height="115" data-sizes="(min-width: 440px) 153px, 100vw" data-srcset="https://fivethirtyeight.com/wp-content/uploads/2021/10/AP21285636135881-4x3-1.jpg?w=153&amp;quality=100&amp;strip=all 153w, https://fivethirtyeight.com/wp-content/uploads/2021/10/AP21285636135881-4x3-1.jpg?w=306&amp;quality=100&amp;strip=all 306w, https://fivethirtyeight.com/wp-content/uploads/2021/10/AP21285636135881-4x3-1.jpg?w=405&amp;quality=100&amp;strip=all 405w, https://fivethirtyeight.com/wp-content/uploads/2021/10/AP21285636135881-4x3-1.jpg?w=810&amp;quality=100&amp;strip=all 810w"></a>
+	</p>
+	<p>
+				Americans Don’t Trust Their Congressional Maps To Be Drawn Fairly. Can Anything Change That? <a href="https://fivethirtyeight.com/features/americans-dont-trust-their-congressional-maps-to-be-drawn-fairly-can-anything-change-that/">Read more. »</a>
+	</p>
+</div>
 
 
 
@@ -594,8 +517,10 @@
 
 
 
-<p data-paragraph="main">It’s possible Manchin could leave the Democratic Party while continuing to caucus with it and retain his chairmanship, but a public separation from his party would also strain relationships Manchin has spent years building. At home, for instance, Democratic activists might choose to work against Manchin by backing a more liberal challenger despite the difficulty such a candidate would have in winning. Meanwhile, in Washington, a switch could damage Manchin’s trustworthiness with his Senate colleagues and hinder future cooperation with them. </p>
+<p data-paragraph="main">It’s possible Manchin could leave the Democratic Party while continuing to caucus with it and retain his chairmanship, but a public separation from his party would also strain relationships Manchin has spent years building. At home, for instance, Democratic activists might choose to work against Manchin by backing a more liberal challenger despite the difficulty such a candidate would have in winning. Meanwhile, in Washington, a switch could damage Manchin’s trustworthiness with his Senate colleagues and hinder future cooperation with them. </p>
 
+
+<p>Watch: https://abcnews.go.com/fivethirtyeight/video/guess-americans-democrats-spending-bill-80782414</p>
 
 
 <p data-paragraph="main">All this sounds like a much greater headache than using his current position to get more of what he wants. Moreover, when push comes to shove, leaving the party you’ve belonged to for years is simply very hard to do. Manchin <a href="https://thehill.com/homenews/senate/438503-manchin-says-he-supports-collins-reelection" target="_blank" rel="noopener">has said</a> that his stances on taxes and health care would make it difficult for him to join the GOP, and he’s <a href="https://www.wsaz.com/content/news/Senator-Manchin-refutes-speculation-of-a-party-switch--400628491.html" target="_blank" rel="noopener">pushed back</a> on <a href="https://www.politico.com/magazine/story/2017/12/19/joe-manchin-interview-trump-franken-podcast-216118/" target="_blank" rel="noopener">the idea</a> of <a href="https://www.realclearpolitics.com/video/2021/01/11/manchin_on_changing_parties_im_a_good_old_west_virginia_conservative_democrat.html" target="_blank" rel="noopener">leaving the Democratic Party</a> many times over the past few years.</p>
