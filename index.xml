@@ -3,9 +3,53 @@
 		<title>Main stream | FreshRSS</title>
 		<link>http://radon</link>
 		<description>RSS feed of Main stream | FreshRSS</description>
-		<pubDate>Tue, 02 Nov 2021 19:29:07 +0000</pubDate>
-		<lastBuildDate>Tue, 02 Nov 2021 19:29:07 GMT</lastBuildDate>
+		<pubDate>Tue, 02 Nov 2021 19:59:08 +0000</pubDate>
+		<lastBuildDate>Tue, 02 Nov 2021 19:59:08 GMT</lastBuildDate>
 		<atom:link href="http://radon/i/?a=rss" rel="self" type="application/rss+xml" />
+		<item>
+			<title>We’re Hiring A Data Editor</title>
+			<link>https://fivethirtyeight.com/features/were-hiring-a-data-editor/</link>
+						<dc:creator>Jennifer Mason</dc:creator>
+			<dc:creator>Jennifer Mason</dc:creator>
+			<category>FiveThirtyEight Jobs</category>
+			<category>Housekeeping</category>
+			<category>Meta</category>
+			<description><![CDATA[<h4></h4>
+
+
+
+<p data-paragraph="main">FiveThirtyEight is seeking an organized, process-savvy and detail-oriented Data Editor to empower some of our newsroom’s most ambitious work. This full-time role is an opportunity to apply your analytical, programming and creative skills to all stages of a story’s evolution, from conception to publication. In particular, the Data Editor will be responsible for reviewing the methodological and statistical choices made in our stories, checking the accuracy of statistical and empirical claims made across all areas of coverage (politics, sports, science, etc.), publishing datasets we’ve created and maintaining internal reference databases. This role will be focused primarily on quantitative editing (including of our predictive models), but the Data Editor will also have the opportunity to create original statistical analysis and pitch stories of their own.</p>
+
+
+
+<p data-paragraph="main">This full-time role with benefits is a U.S.-based position, and remote work may be considered. The Data Editor will report to the Copy Chief. To apply, please submit a cover letter and résumé through the <a href="https://jobs.disneycareers.com/job/new-york/data-editor-fivethirtyeight/391/19816721" data-type="URL" data-id="https://jobs.disneycareers.com/job/new-york/data-editor-fivethirtyeight/391/19816721" target="_blank" rel="noopener">Disney Careers portal</a>. Due to the number of applications we receive, individual emails to the hiring manager cannot be answered.</p>
+
+
+
+<h2>Responsibilities</h2>
+
+
+
+<ul><li>Function as the quantitative editor on daily and feature stories — i.e., evaluate the methodological choices underlying our reporters’ and freelancers’ data analysis and statistical modeling, verify that any code used in that analysis is correct, and audit the statistical and empirical claims being made.</li><li>Collaborate with the Copy Desk to manage daily and weekly editorial workflow, ensuring that quantitative edits are completed in a timely manner.</li><li>Use statistical programming languages, such as R, to create original analyses and models to tell stories.</li><li>Publish datasets to our public-data repository and work with the Interactives Team to maintain and improve those pages as resources for the public and our own work.</li><li>Collaborate with reporters and the Interactives Team to create nuanced, statistically literate data visualizations and interactive projects.</li></ul>
+
+
+
+<h2>Basic Qualifications</h2>
+
+
+
+<ul><li>Experience conducting original data analysis, creating statistical models and critically evaluating others’ work.</li><li>A deep understanding of traditional statistics (particularly causal inference) and, at a minimum, a conversational understanding of machine-learning techniques.</li><li>Fluency with spreadsheets and at least one statistical programming language (ideally R) plus an enthusiasm for learning new technologies as needed.</li><li>Familiarity with survey methodologies and the uses of public-opinion polling.</li><li>Demonstrated success collaborating with kindness and generosity on large, multi-stakeholder projects and completing complex work under deadline pressure.</li><li>The ability to derive satisfaction from patiently and incrementally improving and documenting evergreen data resources.</li></ul>
+
+
+
+<h2>Preferred Qualifications</h2>
+
+
+
+<ul><li>Journalism experience or a robust understanding of the editorial process. If your experience was working with databases in a newsroom (or similar environment) or as a copy editor or fact-checker, that’s even better, as having meticulous attention to detail is key.</li><li>Experience reviewing and evaluating academic papers to identify and correct methodological flaws.</li><li>A solid understanding of U.S. politics, particularly electoral politics, and/or U.S. sports and sports statistics.</li><li>A robust understanding of statistical models, such as those used to forecast sports or election results.</li><li>Experience collaborating with developers on large statistical programming projects.</li></ul>]]></description>
+			<pubDate>Tue, 02 Nov 2021 19:17:00 +0000</pubDate>
+			<guid isPermaLink="false">1635881401790718</guid>
+		</item>
 		<item>
 			<title>2021 Elections: Live Updates And Results</title>
 			<link>https://fivethirtyeight.com/live-blog/2021-elections-live-updates-and-results/</link>
@@ -825,8 +869,8 @@
 
 
 
-<figure><img loading="lazy" width="1150" height="920" src="https://fivethirtyeight.com/wp-content/uploads/2021/10/biden-approval-rating-2-4.png" alt="" data-src="https://fivethirtyeight.com/wp-content/uploads/2021/10/biden-approval-rating-2-4.png" data-srcset="https://fivethirtyeight.com/wp-content/uploads/2021/10/biden-approval-rating-2-4.png?w=700 1x, https://fivethirtyeight.com/wp-content/uploads/2021/10/biden-approval-rating-2-4.png?w=1400 2x"></figure><p data-paragraph="main">According to FiveThirtyEight’s <a href="https://projects.fivethirtyeight.com/biden-approval-rating/" target="_blank" rel="noopener">presidential approval tracker</a><a data-footnote-id="6" href="https://fivethirtyeight.com/wp-json/wp/v2/espn_verticals/398#fn-6" data-footnote-content="&lt;p&gt;&lt;p&gt;As of 5 p.m. Eastern on Thursday.&lt;/p&gt;
-&lt;/p&gt;"><sup>6</sup></a>, 43.7 percent of Americans approve of the job Biden is doing as president, while 51 percent disapprove (a net approval rating of -7.3 points). At this time <a href="https://fivethirtyeight.com/features/a-majority-of-republican-voters-actively-want-trump-to-run-for-president-again/" target="_blank" rel="noopener">last week</a>, 43.7 percent approved and 50.0 percent disapproved (a net approval rating of -6.4 points). One month ago, Biden had an approval rating of 45.3 percent and a disapproval rating of 48.9 percent, for a net approval rating of -3.6 points.</p>
+<figure><img loading="lazy" width="1150" height="920" src="https://fivethirtyeight.com/wp-content/uploads/2021/10/biden-approval-rating-2-4.png" alt="" data-src="https://fivethirtyeight.com/wp-content/uploads/2021/10/biden-approval-rating-2-4.png" data-srcset="https://fivethirtyeight.com/wp-content/uploads/2021/10/biden-approval-rating-2-4.png?w=700 1x, https://fivethirtyeight.com/wp-content/uploads/2021/10/biden-approval-rating-2-4.png?w=1400 2x"></figure><p data-paragraph="main">According to FiveThirtyEight’s <a href="https://projects.fivethirtyeight.com/biden-approval-rating/" target="_blank" rel="noopener">presidential approval tracker</a><a data-footnote-id="9" href="https://fivethirtyeight.com/wp-json/wp/v2/espn_verticals/398#fn-9" data-footnote-content="&lt;p&gt;&lt;p&gt;As of 5 p.m. Eastern on Thursday.&lt;/p&gt;
+&lt;/p&gt;"><sup>9</sup></a>, 43.7 percent of Americans approve of the job Biden is doing as president, while 51 percent disapprove (a net approval rating of -7.3 points). At this time <a href="https://fivethirtyeight.com/features/a-majority-of-republican-voters-actively-want-trump-to-run-for-president-again/" target="_blank" rel="noopener">last week</a>, 43.7 percent approved and 50.0 percent disapproved (a net approval rating of -6.4 points). One month ago, Biden had an approval rating of 45.3 percent and a disapproval rating of 48.9 percent, for a net approval rating of -3.6 points.</p>
 
 
 
@@ -834,8 +878,8 @@
 
 
 
-<figure><img loading="lazy" width="1150" height="920" src="https://fivethirtyeight.com/wp-content/uploads/2021/10/generic-ballot-2-3.png" alt="" data-src="https://fivethirtyeight.com/wp-content/uploads/2021/10/generic-ballot-2-3.png" data-srcset="https://fivethirtyeight.com/wp-content/uploads/2021/10/generic-ballot-2-3.png?w=700 1x, https://fivethirtyeight.com/wp-content/uploads/2021/10/generic-ballot-2-3.png?w=1400 2x"></figure><p data-paragraph="main"><br>In our average of polls of the <a href="https://projects.fivethirtyeight.com/congress-generic-ballot-polls/" target="_blank" rel="noopener">generic congressional ballot</a><a data-footnote-id="7" href="https://fivethirtyeight.com/wp-json/wp/v2/espn_verticals/398#fn-7" data-footnote-content="&lt;p&gt;&lt;p&gt;As of 5 p.m. Eastern on Thursday.&lt;/p&gt;
-&lt;/p&gt;"><sup>7</sup></a>, Democrats currently lead by 2.5 percentage points (43.9 percent to 41.4 percent). A week ago, Democrats led Republicans by 2.6 points (44.1 percent to 41.6 percent). At this time last month, voters preferred Democrats by 3 points (44.7 percent to 41.7 percent).</p>
+<figure><img loading="lazy" width="1150" height="920" src="https://fivethirtyeight.com/wp-content/uploads/2021/10/generic-ballot-2-3.png" alt="" data-src="https://fivethirtyeight.com/wp-content/uploads/2021/10/generic-ballot-2-3.png" data-srcset="https://fivethirtyeight.com/wp-content/uploads/2021/10/generic-ballot-2-3.png?w=700 1x, https://fivethirtyeight.com/wp-content/uploads/2021/10/generic-ballot-2-3.png?w=1400 2x"></figure><p data-paragraph="main"><br>In our average of polls of the <a href="https://projects.fivethirtyeight.com/congress-generic-ballot-polls/" target="_blank" rel="noopener">generic congressional ballot</a><a data-footnote-id="10" href="https://fivethirtyeight.com/wp-json/wp/v2/espn_verticals/398#fn-10" data-footnote-content="&lt;p&gt;&lt;p&gt;As of 5 p.m. Eastern on Thursday.&lt;/p&gt;
+&lt;/p&gt;"><sup>10</sup></a>, Democrats currently lead by 2.5 percentage points (43.9 percent to 41.4 percent). A week ago, Democrats led Republicans by 2.6 points (44.1 percent to 41.6 percent). At this time last month, voters preferred Democrats by 3 points (44.7 percent to 41.7 percent).</p>
 
 
 <p>Watch: https://abcnews.go.com/ThisWeek/video/dont-buy-trump-winning-gop-nomination-inevitable-silver-80757404</p>]]></description>
@@ -865,8 +909,8 @@
 
 
 
-<p data-paragraph="main"><a href="https://www.nature.com/articles/nclimate2583" target="_blank" rel="noopener">According to a study</a> from the Yale Program on Climate Change Communication and the George Mason Center for Climate Change Communication,<a data-footnote-id="8" href="https://fivethirtyeight.com/wp-json/wp/v2/espn_verticals/398#fn-8" data-footnote-content='&lt;p&gt;&lt;p&gt;The data from the survey was taken from a dataset of representative climate surveys with a sample size over 25,000 U.S. adults. Researchers &lt;a href="https://climatecommunication.yale.edu/visualizations-data/ycom-us/" target="_blank" rel="noopener"&gt;applied a statistical model to obtain subnational estimates&lt;/a&gt; considering demographic and geographic characteristics from the U.S. Census, such as gender, race and ethnicity, and level of education.&lt;/p&gt;
-&lt;/p&gt;'><sup>8</sup></a> exactly <em>who</em> wants the government to act depends on <em>where</em> you ask.</p>
+<p data-paragraph="main"><a href="https://www.nature.com/articles/nclimate2583" target="_blank" rel="noopener">According to a study</a> from the Yale Program on Climate Change Communication and the George Mason Center for Climate Change Communication,<a data-footnote-id="6" href="https://fivethirtyeight.com/wp-json/wp/v2/espn_verticals/398#fn-6" data-footnote-content='&lt;p&gt;&lt;p&gt;The data from the survey was taken from a dataset of representative climate surveys with a sample size over 25,000 U.S. adults. Researchers &lt;a href="https://climatecommunication.yale.edu/visualizations-data/ycom-us/" target="_blank" rel="noopener"&gt;applied a statistical model to obtain subnational estimates&lt;/a&gt; considering demographic and geographic characteristics from the U.S. Census, such as gender, race and ethnicity, and level of education.&lt;/p&gt;
+&lt;/p&gt;'><sup>6</sup></a> exactly <em>who</em> wants the government to act depends on <em>where</em> you ask.</p>
 
 
 
@@ -880,9 +924,9 @@
 
 
 
-<p data-paragraph="main">Sixty-two percent of U.S. adults said climate change <a href="https://www.pewresearch.org/science/wp-content/uploads/sites/16/2019/11/PS_11.25.19_climate.energy-00-013.png" target="_blank" rel="noopener">was affecting their local communities</a> at least “some,” according to an October 2019 Pew survey. At a more granular level, Americans from different regions say that climate change is affecting their neighborhoods in disparate ways. For example, Americans living in the Pacific West<a data-footnote-id="9" href="https://fivethirtyeight.com/wp-json/wp/v2/espn_verticals/398#fn-9" data-footnote-content="&lt;p&gt;&lt;p&gt;California, Washington, Oregon, Hawaii and Alaska.&lt;/p&gt;
-&lt;/p&gt;"><sup>9</sup></a> and Mountain West<a data-footnote-id="10" href="https://fivethirtyeight.com/wp-json/wp/v2/espn_verticals/398#fn-10" data-footnote-content="&lt;p&gt;&lt;p&gt;Arizona, Colorado, New Mexico, Montana, Idaho, Wyoming, Nevada and Utah.&lt;/p&gt;
-&lt;/p&gt;"><sup>10</sup></a> were more likely than Americans in the Northeast and Midwest to say wildfires and threatened water sources are some of the major ways climate change is affecting their lives. <a href="https://www.pewresearch.org/science/2020/06/23/two-thirds-of-americans-think-government-should-do-more-on-climate/" target="_blank" rel="noopener">A Pew survey from 2020</a> found that 70 percent of Americans who lived within 25 miles of a coastline <a href="https://www.pewresearch.org/science/2019/11/25/u-s-public-views-on-climate-and-energy/" target="_blank" rel="noopener">said climate change was directly affecting them</a> at least “some” — that included 45 percent of Republicans, a higher share compared to Republicans living further from the coast.</p>
+<p data-paragraph="main">Sixty-two percent of U.S. adults said climate change <a href="https://www.pewresearch.org/science/wp-content/uploads/sites/16/2019/11/PS_11.25.19_climate.energy-00-013.png" target="_blank" rel="noopener">was affecting their local communities</a> at least “some,” according to an October 2019 Pew survey. At a more granular level, Americans from different regions say that climate change is affecting their neighborhoods in disparate ways. For example, Americans living in the Pacific West<a data-footnote-id="7" href="https://fivethirtyeight.com/wp-json/wp/v2/espn_verticals/398#fn-7" data-footnote-content="&lt;p&gt;&lt;p&gt;California, Washington, Oregon, Hawaii and Alaska.&lt;/p&gt;
+&lt;/p&gt;"><sup>7</sup></a> and Mountain West<a data-footnote-id="8" href="https://fivethirtyeight.com/wp-json/wp/v2/espn_verticals/398#fn-8" data-footnote-content="&lt;p&gt;&lt;p&gt;Arizona, Colorado, New Mexico, Montana, Idaho, Wyoming, Nevada and Utah.&lt;/p&gt;
+&lt;/p&gt;"><sup>8</sup></a> were more likely than Americans in the Northeast and Midwest to say wildfires and threatened water sources are some of the major ways climate change is affecting their lives. <a href="https://www.pewresearch.org/science/2020/06/23/two-thirds-of-americans-think-government-should-do-more-on-climate/" target="_blank" rel="noopener">A Pew survey from 2020</a> found that 70 percent of Americans who lived within 25 miles of a coastline <a href="https://www.pewresearch.org/science/2019/11/25/u-s-public-views-on-climate-and-energy/" target="_blank" rel="noopener">said climate change was directly affecting them</a> at least “some” — that included 45 percent of Republicans, a higher share compared to Republicans living further from the coast.</p>
 
 
 
@@ -2316,154 +2360,6 @@
 <p data-paragraph="main">Those examples suggest that the Supreme Court — which was already quite conservative — has recently transformed into an even more ideologically extreme body. And to understand what the court is doing, we need to stop relying on outdated ways of thinking about the justices. We aren’t in the land of a single swing justice anymore. Now, a more complex negotiation among the conservative justices will determine the outcome in important cases. There is a distinct possibility that we are heading into a blockbuster term with some significant victories for the conservatives, too. But more than anything, this term will tell us a lot about <em>how</em> the conservatives intend to move forward — because it’s pretty clear already what direction they’re heading.</p>]]></description>
 			<pubDate>Wed, 20 Oct 2021 11:00:00 +0100</pubDate>
 			<guid isPermaLink="false">1634724902535266</guid>
-		</item>
-		<item>
-			<title>Why Democratic Gains In Texas’s Big Metro Areas Could Outweigh Republican Success In South Texas</title>
-			<link>https://fivethirtyeight.com/features/why-democratic-gains-in-texass-big-metro-areas-could-outweigh-republican-success-in-south-texas/</link>
-						<dc:creator>Alex Samuels</dc:creator>
-			<dc:creator>Alex Samuels and Geoffrey Skelley</dc:creator>
-			<category>2020 Election</category>
-			<category>Donald Trump</category>
-			<category>Hispanic Voters</category>
-			<category>Joe Biden</category>
-			<category>Latino Voters</category>
-			<category>Rural</category>
-			<category>Suburbs</category>
-			<category>Texas</category>
-			<category>Texas Politics</category>
-			<description><![CDATA[<p data-paragraph="main">In his <a href="https://apnews.com/article/trump-us-capitol-riot-no-responsibility-03eccd4b09d7acb6f5cce304a0afdf42" target="_blank" rel="noopener">first public appearance</a> after the <a href="https://fivethirtyeight.com/features/politics-podcast-what-led-to-the-attack-on-the-capitol/" target="_blank" rel="noopener">attack on the U.S. Capitol</a>, then-President Donald Trump sought respite in South Texas. His visit was billed as a way to <a href="https://www.texastribune.org/2021/01/09/donald-trump-texas-rio-grande-valley/" target="_blank" rel="noopener">promote the construction of a wall along the border with Mexico</a>, but it also gave him a welcome escape from the turmoil in Washington. That’s because, just months prior, voters in Texas’s border region <a href="https://www.nytimes.com/interactive/2020/11/05/us/texas-election-results.html" target="_blank" rel="noopener">shifted sharply toward Trump</a>. </p>
-
-
-
-<p data-paragraph="main">And Trump isn’t the only Republican to see success in South Texas. In June, Javier Villalobos, a former Hidalgo County GOP chair, <a href="https://spectrumlocalnews.com/tx/south-texas-el-paso/news/2021/06/08/texas-republicans-celebrate-mayoral-win-in-mcallen-" target="_blank" rel="noopener">narrowly bested Veronica Vela Whitacre</a> in a McAllen municipal election. Though the race was technically nonpartisan, <a href="https://www.texastribune.org/2021/06/11/texas-republicans-mcallen-south-texas/" target="_blank" rel="noopener">local GOP officials insisted</a> Villalobos was the first registered Republican elected mayor of the city this century. “The macro realignment accelerates in South Texas, and elsewhere, as Hispanics rally to America First,” former Trump campaign adviser Steve Cortes <a href="https://twitter.com/CortesSteve/status/1401506899602907138" target="_blank" rel="noopener">tweeted at the time</a>. </p>
-
-
-
-<p data-paragraph="main">It’s why Republicans, headed into the 2022 midterms, <a href="https://www.texastribune.org/2021/02/10/2022-texas-congressional-races/" target="_blank" rel="noopener">plan to campaign in the area more heavily</a> now than they did before. Moreover, through the redistricting process, <a href="https://projects.fivethirtyeight.com/redistricting-2022-maps/texas/" target="_blank" rel="noopener">which Republicans control</a> in Texas, they have positioned themselves to hold a sizable and long-term majority of House seats, including by making it easier to win <a href="https://fivethirtyeight.com/features/texass-new-congressional-map-could-give-a-huge-boost-to-gop-incumbents/" target="_blank" rel="noopener">at least one border-area district</a> currently represented by a Democrat. Whether Republicans will continue to make inroads in the Texas counties along or near the border is unclear — there is <a href="https://www.politico.com/news/magazine/2020/11/17/trump-latinos-south-texas-tejanos-437027" target="_blank" rel="noopener">conflicting evidence</a> over <a href="https://www.vox.com/21551025/latino-national-vote-biden-trump-2020-florida-texas" target="_blank" rel="noopener">just how much</a> Hispanic voters moved toward the GOP in 2020 — but if Republicans are successful there, it might not mean a death knell for Democrats hoping to turn Texas blue. That’s because Democrats have made sizable gains in the Texas suburbs. </p>
-
-
-
-<p data-paragraph="main">The state as a whole has <a href="https://www.politifact.com/article/2012/sep/26/texas-democrats-have-lost-statewide-elections-long/" target="_blank" rel="noopener">long voted reliably Republican</a>, but about two-thirds of Texas’s population lives in one of the state’s four huge metropolitan areas — Dallas-Fort Worth, Houston, San Antonio and Austin. If you combine all the votes there, Democrats improved their margin by more than 5 percentage points between 2016 and 2020, carrying these areas 52 percent to 47 percent in November. This shift is significant because even though Texas’s border counties moved sharply to the right in 2020 — Starr County, for instance, swung a staggering 55 points toward Republicans — Democrats’ gains in those four big cities and their suburbs added almost five times as many votes as Republicans’ gains in 28 counties along or near Texas’s border with Mexico.<a data-footnote-id="10" href="https://fivethirtyeight.com/wp-json/wp/v2/espn_verticals/398#fn-10" data-footnote-content="&lt;p&gt;&lt;p&gt;Brewster, Brooks, Cameron, Culberson, Dimmit, Duval, El Paso, Frio, Hidalgo, Hudspeth, Jeff Davis, Jim Hogg, Jim Wells, Kenedy, Kinney, Kleberg, La Salle, Maverick, Nueces, Presidio, Reeves, Starr, Terrell, Val Verde, Webb, Willacy, Zapata and Zavala.&lt;/p&gt;
-&lt;/p&gt;"><sup>10</sup></a></p>
-
-
-
-<figure><div>
-<div><iframe title="Will southern Texas negate suburban Democratic gains?" aria-label="map" src="https://datawrapper.dwcdn.net/JhOM9/12/" scrolling="no" frameborder="0" height="676" sandbox="allow-scripts allow-same-origin"></iframe></div>
-</div></figure><p data-paragraph="main">This is not to downplay Republicans’ gains along the border and in South Texas. Trump ultimately won 14 of these 28 counties — eight of which he flipped from 2016 — with many more counties than Starr lurching to the right: Maverick County moved 46 points to the right, Zapata County moved 38 points, Webb County moved 28 points and Hidalgo County moved 23 points. Hidalgo, with around 871,000 people, is the most populous county in the border area (edging out El Paso County’s 866,000), which made its shift toward Trump especially impactful in terms of raw vote totals. To be clear, President Biden still won the overall vote across the border and South Texas counties by 17 points, but this was about half the margin Hillary Clinton had in 2016, when she won the region by 33 points.</p>
-
-
-
-<p data-paragraph="main">Why Texas’s border region shifted so dramatically toward Republicans compared with the rest of the state has no one answer. According to Jason Villalba, the chairman and CEO of the Texas Hispanic Policy Foundation and a former GOP representative in the state House, some national Democrats’ leftward shift on issues like <a href="https://apnews.com/article/election-2020-joe-biden-donald-trump-technology-climate-26908b855045d5ce7342fd01be8bcc10" target="_blank" rel="noopener">clean energy and fossil fuels</a> and <a href="https://www.politico.com/news/2021/03/23/defund-the-police-democrats-477609" target="_blank" rel="noopener">policing</a> — including <a href="https://www.washingtonpost.com/graphics/politics/policy-2020/immigration/abolish-ice/" target="_blank" rel="noopener">calls to abolish or restructure</a> U.S. Immigration and Customs Enforcement — likely turned off Hispanics along the Texas-Mexico border, who make up 85 percent of the population in those 28 counties and 23 percent of all Hispanics in the state. “Being labeled as against fossil fuels and supportive of defunding the police is not a winning message when the majority of the communities in the region are economically impacted by those two drivers,” Villalba said. “Then, layer on a cult of personality figure like Trump — and the Democrats are going to have a real problem, which they did.” </p>
-
-
-
-<p data-paragraph="main">Of course, Hispanic voters aren’t a monolith, and without Trump’s name on the ballot, it’s hard to tell whether Republican gains in South Texas will last. But so far, Biden isn’t polling particularly well with Hispanic voters in the state. A September poll from The Dallas Morning News/University of Texas-Tyler put Biden <a href="https://www.scribd.com/document/526125317/The-Dallas-Morning-News-University-of-Texas-Tyler-poll" target="_blank" rel="noopener">19 points underwater with Hispanic voters in Texas</a>, while a separate <a href="https://poll.qu.edu/poll-release?releaseid=3821" target="_blank" rel="noopener">Quinnipiac University poll</a> the same month had him down 18 points among Hispanic registered voters in Texas. On top of that, Villalba said Democrats took the border region for granted in 2020, focusing much of their campaign on turning out Democrats in the state’s suburbs <a href="https://www.texastribune.org/2020/11/04/joe-biden-texas-border-democrats/" target="_blank" rel="noopener">rather than Hispanic voters at the border</a> with Mexico. </p>
-
-
-<div>
-	<p>
-		<a href="https://fivethirtyeight.com/features/texass-new-congressional-map-could-give-a-huge-boost-to-gop-incumbents/"><img alt="The partisan breakdown of this proposed map in Texas." width="153" height="115" data-sizes="(min-width: 440px) 153px, 100vw" data-srcset="https://fivethirtyeight.com/wp-content/uploads/2021/09/TX-Social-4x3-1.png?w=153&amp;quality=100&amp;strip=all 153w, https://fivethirtyeight.com/wp-content/uploads/2021/09/TX-Social-4x3-1.png?w=306&amp;quality=100&amp;strip=all 306w, https://fivethirtyeight.com/wp-content/uploads/2021/09/TX-Social-4x3-1.png?w=405&amp;quality=100&amp;strip=all 405w, https://fivethirtyeight.com/wp-content/uploads/2021/09/TX-Social-4x3-1.png?w=810&amp;quality=100&amp;strip=all 810w"></a>
-	</p>
-	<p>
-				<strong>related:</strong>
-				Texas’s New Congressional Map Could Give A Huge Boost To GOP Incumbents <a href="https://fivethirtyeight.com/features/texass-new-congressional-map-could-give-a-huge-boost-to-gop-incumbents/">Read more. »</a>
-	</p>
-</div>
-
-
-
-<p data-paragraph="main">South Texas and the border area is also very rural, which may also have played an outsize role in why Republicans gained so much ground there. In 2020, the more rural the area, <a href="https://fivethirtyeight.com/features/where-america-lost-and-gained-population-could-throw-democrats-a-redistricting-lifeline/" target="_blank" rel="noopener">the better Trump tended to do</a>, and places with <a href="https://fivethirtyeight.com/features/what-we-know-about-how-white-and-latino-americans-voted-in-2020/" target="_blank" rel="noopener">large Hispanic populations were no exception</a>. This may explain in part why Trump performed so much better in more rural Starr and Maverick counties than in El Paso County, where Trump did only about 8 points better in 2020 than in 2016. This can’t explain all the differences, however, as Hidalgo and Webb counties are also more urban, yet Trump improved by more than 20 points in both. </p>
-
-
-
-<p data-paragraph="main">Another factor driving what we saw in 2020 could be educational attainment among Hispanics. Polarization by education has been a trend among white voters for years now, as Democrats have steadily picked up support among those with at least a four-year degree while losing support among those without one. But this trend may be affecting Latino voters, too, as <a href="https://www.pewresearch.org/politics/2021/06/30/behind-bidens-2020-victory/" target="_blank" rel="noopener">Pew Research Center found</a> Biden won 69 percent of Hispanics with a college degree nationally, but only 55 percent among those with some college or less. As a whole, the Texas border area isn’t as highly educated as the state’s metro areas, so this also may have played into the disparate shift to the right in many parts of the border region and South Texas. However, the share of Hispanics with a college degree in the border area is actually similar to that of the major metro areas as a whole, so this is far from clear-cut.</p>
-
-
-
-<p data-paragraph="main">But Democratic losses in the border areas may not frustrate their efforts to eventually turn Texas blue, primarily because the state’s four most populous metropolitan areas have trended Democratic over the past four years. These opposing trends potentially form a favorable tradeoff for Democrats because a lot more voters live in and around Dallas-Fort Worth, Houston, San Antonio and Austin than in the border regions. As the table below shows, those four big cities and their surroundings contributed nearly 70 percent of Texas’s 2020 presidential vote total, and all of them shifted left.</p>
-
-
-<div>
-<p><section><header><h5>Texas metro areas got bluer in 2020</h5>
- <p>Shift in presidential election vote from 2016 to 2020, by metropolitan area or region</p>
- </header><table data-carpenter-slug="samuels-skelley.texas.1"><thead><tr><th colspan="2"></th>
- <th colspan="3">Presidential Margin</th>
- </tr><tr><th colspan="1">Metro area/region</th>
- <th colspan="1">Share of 2020 TX vote</th>
- <th colspan="1">2016</th>
- <th colspan="1">2020</th>
- <th colspan="1">Swing</th>
- </tr></thead><tbody><tr><td>Dallas-Fort Worth</td>
- <td data-suffix="%" data-suffixpadding="1.1em">27.2%</td>
- <td>R+6.3</td>
- <td>D+1.3</td>
- <td><span>D+7.6</span></td>
- </tr><tr><td>Austin</td>
- <td>9.4</td>
- <td>D+19.5</td>
- <td>D+26.8</td>
- <td><span>D+7.3</span></td>
- </tr><tr><td>San Antonio</td>
- <td>9.2</td>
- <td>R+1.1</td>
- <td>D+3.3</td>
- <td><span>D+4.4</span></td>
- </tr><tr><td>Houston</td>
- <td>23.6</td>
- <td>R+1.0</td>
- <td>D+1.0</td>
- <td><span>D+2.1</span></td>
- </tr><tr><td>Rest of Texas</td>
- <td>22.5</td>
- <td>R+47.6</td>
- <td>R+46.2</td>
- <td><span>D+1.5</span></td>
- </tr><tr><td>Border/South Texas*</td>
- <td>8.1</td>
- <td>D+33.1</td>
- <td>D+17.2</td>
- <td><span>R+15.8</span></td>
- </tr></tbody></table><footer><p>*This region consists of the following 28 counties near or along the state’s border with Mexico: Brewster, Brooks, Cameron, Culberson, Dimmit, Duval, El Paso, Frio, Hidalgo, Hudspeth, Jeff Davis, Jim Hogg, Jim Wells, Kenedy, Kinney, Kleberg, La Salle, Maverick, Nueces, Presidio, Reeves, Starr, Terrell, Val Verde, Webb, Willacy, Zapata and Zavala.</p>
- <p>Source: Dave Leip’s Atlas of U.S. Presidential Elections</p>
- </footer></section></p>
-</div>
-
-
-<p data-paragraph="main">These shifts allowed Biden to narrowly carry the Dallas-Fort Worth, Houston and San Antonio metropolitan areas after Trump won them in 2016. It also boosted the Democrats’ edge in the Austin region. And what this did in terms of raw vote totals is telling: Compared with the 2016 election, Democrats added around 416,000 net votes — the total Biden gained over Clinton minus the total Trump gained — from these four metro areas. In contrast, Trump’s improvement in the 28 counties along the border and in South Texas produced only about 89,000 more net votes for the GOP. Although Trump was also helped by the rest of the state, which gave him about 151,000 additional net votes, the Democrats’ showing in those four big population centers outpaced what was happening outside them. This wasn’t enough to turn Texas blue — <a href="https://uselectionatlas.org/RESULTS/state.php?year=2020&amp;fips=48&amp;f=0&amp;off=0&amp;elect=0" target="_blank" rel="noopener">Trump still won the state</a> by about 631,000 votes — but it could point to a favorable trend for Democrats in the long run.</p>
-
-
-
-<p data-paragraph="main">Biden didn’t make gains just in the core cities in these metropolitan areas, though. He also fared better in the suburban and exurban counties around them. In this way, Texas was a microcosm of what we saw across the nation in 2020, as <a href="https://www.bloomberg.com/graphics/2020-suburban-density-election/" target="_blank" rel="noopener">Democrats made gains in the inner and outer rings surrounding cities</a>, which proved critical to Biden’s victory. As the second-most-populous state in the country, Texas has many suburban and exurban areas, too, and there were many striking examples of red areas becoming bluer. With nearly 2 million people between them, Collin and Denton counties, north of Dallas-Fort Worth, shifted markedly to the left: Biden did about 12 points better than Clinton in each, converting places that Trump won in 2016 by 17 and 20 points, respectively, into only single-digit wins in 2020. With 609,000 inhabitants, Williamson County, which contains a small portion of northern Austin and a lot of suburban turf, even went from red to blue, going from about a 10-point Trump win in 2016 to a 1-point Biden win in 2020. Not every suburban or exurban county moved as much, but almost every county in the four big Texas metros got bluer in 2020.</p>
-
-
-
-<p data-paragraph="main">“In the suburban and exurban areas, there’s been a movement away from Trump and to the left. He’s really been a cancer for moderate-type voters, educated voters and voters who have typically been centrists,” Villalba said.</p>
-
-
-<div>
-	<p>
-		<a href="https://fivethirtyeight.com/features/why-texass-abortion-law-may-go-too-far-for-most-americans/"><img alt="Demonstrations for abortion rights have taken place across Texas in light of the nation’s most restrictive abortion law." width="153" height="115" data-sizes="(min-width: 440px) 153px, 100vw" data-srcset="https://fivethirtyeight.com/wp-content/uploads/2021/09/AP21245115792038-4x3-1.jpg?w=153&amp;quality=100&amp;strip=all 153w, https://fivethirtyeight.com/wp-content/uploads/2021/09/AP21245115792038-4x3-1.jpg?w=306&amp;quality=100&amp;strip=all 306w, https://fivethirtyeight.com/wp-content/uploads/2021/09/AP21245115792038-4x3-1.jpg?w=405&amp;quality=100&amp;strip=all 405w, https://fivethirtyeight.com/wp-content/uploads/2021/09/AP21245115792038-4x3-1.jpg?w=810&amp;quality=100&amp;strip=all 810w"></a>
-	</p>
-	<p>
-				<strong>realted:</strong>
-				Why Texas’s Abortion Law May Go Too Far For Most Americans <a href="https://fivethirtyeight.com/features/why-texass-abortion-law-may-go-too-far-for-most-americans/">Read more. »</a>
-	</p>
-</div>
-
-
-
-<p data-paragraph="main">In fact, Democratic gains and changing demographic trends in the Texas suburbs have become such a force that <a href="https://fivethirtyeight.com/features/texass-new-congressional-map-could-give-a-huge-boost-to-gop-incumbents/" target="_blank" rel="noopener">Republicans have opted to cede some of that turf</a> to Democrats to ensure overall GOP control. While Republicans are hoping to win over some of those South Texas seats in the U.S. House, <a href="https://projects.fivethirtyeight.com/redistricting-2022-maps/texas/senate_passed/" target="_blank" rel="noopener">their likely congressional map</a> intentionally draws Democratic Reps. Colin Allred of Dallas and Lizzie Pannill Fletcher of Houston into safely Democratic districts that had formerly been <a href="https://www.texastribune.org/2018/11/07/congressional-districts-texas-Democrats/" target="_blank" rel="noopener">competitive suburban seats</a>. The GOP-controlled state legislature also <a href="https://www.statesman.com/story/news/2021/09/27/austin-gop-census-texas-congressional-district-redistricting-map-new/5886079001/" target="_blank" rel="noopener">placed one of Texas’s new districts in Austin</a>, a Democratic stronghold, <a href="https://www.fairelectionsproject.org/gerrymandering-101/" target="_blank" rel="noopener">to pack in as many Democrats</a> as they could to help make surrounding seats redder. </p>
-
-
-
-<p data-paragraph="main">With all that being said, Hispanic voters trending further to the right in the big metro areas could be an obstacle for Democrats. While Republicans made big gains in South Texas and along the border, heavily Hispanic neighborhoods in <a href="https://www.chron.com/houston/article/Five-maps-illustrating-Houston-s-racial-breakdown-12711221.php" target="_blank" rel="noopener">cities like Houston</a> also <a href="https://twitter.com/JMilesColeman/status/1325267759769546753" target="_blank" rel="noopener">inched toward the GOP</a>, although they still voted overwhelmingly Democratic. Should that trend continue, however, it would complicate Democrats’ ability to add more votes from the big metro areas. As such, it’s certainly in the GOP’s interest not only to make gains along the border <a href="https://www.nbcnews.com/news/latino/republicans-target-latino-voters-2022-community-centers-rcna2567" target="_blank" rel="noopener">but also to make inroads in Hispanic communities</a> in more populous areas that still lean Democratic.</p>
-
-
-
-<p data-paragraph="main">After all, elections are won at the margins, and that’ll be true in Texas moving forward. Considering the magnitude of the Democratic gains in the major metropolitan areas, especially in the suburbs and exurbs, Republicans’ hold on Texas might be weakening. But depending on how electoral and demographic trends evolve, the GOP’s grip could tighten again — or slip entirely.</p>]]></description>
-			<pubDate>Tue, 19 Oct 2021 11:00:00 +0100</pubDate>
-			<guid isPermaLink="false">1634639401828498</guid>
 		</item>
 
 	</channel>
