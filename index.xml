@@ -3,9 +3,1169 @@
 		<title>Main stream | FreshRSS</title>
 		<link>http://radon</link>
 		<description>RSS feed of Main stream | FreshRSS</description>
-		<pubDate>Wed, 03 Nov 2021 11:29:06 +0000</pubDate>
-		<lastBuildDate>Wed, 03 Nov 2021 11:29:06 GMT</lastBuildDate>
+		<pubDate>Wed, 03 Nov 2021 11:59:06 +0000</pubDate>
+		<lastBuildDate>Wed, 03 Nov 2021 11:59:06 GMT</lastBuildDate>
 		<atom:link href="http://radon/i/?a=rss" rel="self" type="application/rss+xml" />
+		<item>
+			<title>How Republicans Won The Virginia Governor’s Race</title>
+			<link>https://fivethirtyeight.com/features/how-republicans-won-the-virginia-governors-race/</link>
+						<dc:creator>Geoffrey Skelley</dc:creator>
+			<dc:creator>Geoffrey Skelley</dc:creator>
+			<category>2021 Elections</category>
+			<category>Glenn Youngkin</category>
+			<category>Polling</category>
+			<category>Terry McAuliffe</category>
+			<category>Virginia</category>
+			<category>Virginia Governor</category>
+			<description><![CDATA[<p data-paragraph="main">Despite what you may have heard, Virginia can still be a purple state. Republican Glenn Youngkin defeated Democrat and former Gov. Terry McAuliffe in <a href="https://abcnews.go.com/Politics/republican-glenn-youngkin-projected-win-virginia-governors-race/story?id=80864529" target="_blank" rel="noopener">Virginia’s gubernatorial contest</a> on Tuesday, becoming the first Republican to win a statewide office in Virginia since 2009. As of Wednesday morning, Youngkin led by around 2.5 percentage points — pretty much in line with <a href="https://projects.fivethirtyeight.com/polls/governor/virginia/" target="_blank" rel="noopener">what pre-election polls showed</a> and good enough to become the Old Dominon’s next governor.</p>
+
+
+
+<p data-paragraph="main">Coming into the election, FiveThirtyEight put together benchmark margins in <a href="https://en.wikipedia.org/wiki/List_of_cities_and_counties_in_Virginia" target="_blank" rel="noopener">all 133</a> of Virginia’s counties and independent cities based on <a href="https://uselectionatlas.org/RESULTS/state.php?year=2020&amp;fips=51&amp;f=0&amp;off=0&amp;elect=0" target="_blank" rel="noopener">the 2020 election result</a> to provide a roadmap to show which way the race was trending as the votes came in.<a data-footnote-id="1" href="https://fivethirtyeight.com/wp-json/wp/v2/espn_verticals/398#fn-1" data-footnote-content="&lt;p&gt;&lt;p&gt;Put simply, we uniformly adjusted the 2020 margins to comprise a tied, 50-50 race &lt;em&gt;statewide&lt;/em&gt;. That way, the county-level margins marked what Youngkin or McAuliffe needed to beat in any particular county or independent city to win overall.&lt;/p&gt;
+&lt;/p&gt;"><sup>1</sup></a> And we can use those now, with almost all the votes counted, to unpack how Youngkin won. In the near-final analysis, Youngkin prevailed by outperforming those benchmarks in most parts of the commonwealth — and beating former President Donald Trump’s performance in every locality in the state. The map and table below lay out how each county and city voted compared to the benchmarks, and they show the relative breadth of Youngkin’s gains.</p>
+
+
+
+<figure><div>
+<div><iframe title="Where Youngkin hit the marks he needed to win" aria-label="map" src="https://datawrapper.dwcdn.net/Yn6Up/4/" scrolling="no" frameborder="0" height="475" sandbox="allow-scripts allow-same-origin"></iframe></div>
+</div></figure>
+
+
+<div>
+
+<section>
+ <header>
+ <h5>Youngkin overperformed across Virginia</h5>
+ <p>Benchmarks for the 2021 governor’s race, based on each city’s or county’s two-party vote margin relative to Joe Biden’s statewide two-party vote margin in the 2020 presidential election, as of 1:45 a.m. on Nov. 3, 2021</p>
+ </header>
+ <table data-carpenter-slug="skelley.va-prebake-benchmark.2" data-expandable-rows="24">
+ <thead>
+ <tr>
+ <th colspan="1"></th>
+ <th colspan="2">2020 result</th>
+ <th colspan="3">2021 result</th>
+ </tr>
+ <tr>
+ <th colspan="1">Locality</th>
+ <th colspan="1">Share of statewide vote</th>
+ <th colspan="1">Benchmark two-party vote margin</th>
+ <th colspan="1">Exp. vote</th>
+ <th colspan="1">Two-party Vote Margin</th>
+ <th colspan="1">Shift from Benchmark</th>
+ </tr>
+ </thead>
+ <tbody>
+ <tr>
+ <td>Fairfax Co.</td>
+ <td data-suffix="%" data-suffixpadding="1.1em">13.47%</td>
+ <td><span>D+32.4</span></td>
+ <td data-suffix="%" data-suffixpadding="1.1em">95%</td>
+ <td><span>D+29.8</span></td>
+ <td>R+2.6</td>
+ </tr>
+ <tr>
+ <td>Pr. William Co.</td>
+ <td>5.11</td>
+ <td><span>D+17.2</span></td>
+ <td>99</td>
+ <td><span>D+17.5</span></td>
+ <td>D+0.3</td>
+ </tr>
+ <tr>
+ <td>Va. Beach city</td>
+ <td>5.10</td>
+ <td><span>R+4.8</span></td>
+ <td>99</td>
+ <td><span>R+8.4</span></td>
+ <td>R+3.6</td>
+ </tr>
+ <tr>
+ <td>Loudoun Co.</td>
+ <td>5.04</td>
+ <td><span>D+15.2</span></td>
+ <td>95</td>
+ <td><span>D+10.6</span></td>
+ <td>R+4.7</td>
+ </tr>
+ <tr>
+ <td>Chesterfield Co.</td>
+ <td>4.57</td>
+ <td><span>R+3.5</span></td>
+ <td>95</td>
+ <td><span>R+9.7</span></td>
+ <td>R+6.2</td>
+ </tr>
+ <tr>
+ <td>Henrico Co.</td>
+ <td>4.11</td>
+ <td><span>D+19.2</span></td>
+ <td>95</td>
+ <td><span>D+18.1</span></td>
+ <td>R+1.2</td>
+ </tr>
+ <tr>
+ <td>Arlington Co.</td>
+ <td>2.93</td>
+ <td><span>D+54.7</span></td>
+ <td>95</td>
+ <td><span>D+54.0</span></td>
+ <td>R+0.7</td>
+ </tr>
+ <tr>
+ <td>Chesapeake city</td>
+ <td>2.85</td>
+ <td><span>R+3.7</span></td>
+ <td>95</td>
+ <td><span>R+6.1</span></td>
+ <td>R+2.4</td>
+ </tr>
+ <tr>
+ <td>Richmond city</td>
+ <td>2.49</td>
+ <td><span>D+59.2</span></td>
+ <td>95</td>
+ <td><span>D+59.2</span></td>
+ <td>D+0.1</td>
+ </tr>
+ <tr>
+ <td>Norfolk city</td>
+ <td>2.02</td>
+ <td><span>D+36.3</span></td>
+ <td>95</td>
+ <td><span>D+35.9</span></td>
+ <td>R+0.5</td>
+ </tr>
+ <tr>
+ <td>Alexandria city</td>
+ <td>1.85</td>
+ <td><span>D+53.7</span></td>
+ <td>95</td>
+ <td><span>D+51.2</span></td>
+ <td>R+2.5</td>
+ </tr>
+ <tr>
+ <td>Newport News city</td>
+ <td>1.82</td>
+ <td><span>D+23.3</span></td>
+ <td>95</td>
+ <td><span>D+20.7</span></td>
+ <td>R+2.6</td>
+ </tr>
+ <tr>
+ <td>Stafford Co.</td>
+ <td>1.79</td>
+ <td><span>R+7.0</span></td>
+ <td>99</td>
+ <td><span>R+11.2</span></td>
+ <td>R+4.2</td>
+ </tr>
+ <tr>
+ <td>Spotsylvania Co.</td>
+ <td>1.69</td>
+ <td><span>R+17.2</span></td>
+ <td>99</td>
+ <td><span>R+21.7</span></td>
+ <td>R+4.5</td>
+ </tr>
+ <tr>
+ <td>Hanover Co.</td>
+ <td>1.59</td>
+ <td><span>R+37.6</span></td>
+ <td>99</td>
+ <td><span>R+37.4</span></td>
+ <td>D+0.2</td>
+ </tr>
+ <tr>
+ <td>Hampton city</td>
+ <td>1.48</td>
+ <td><span>D+32.7</span></td>
+ <td>95</td>
+ <td><span>D+34.1</span></td>
+ <td>D+1.4</td>
+ </tr>
+ <tr>
+ <td>Albemarle Co.</td>
+ <td>1.45</td>
+ <td><span>D+23.9</span></td>
+ <td>99</td>
+ <td><span>D+24.6</span></td>
+ <td>D+0.6</td>
+ </tr>
+ <tr>
+ <td>Roanoke Co.</td>
+ <td>1.28</td>
+ <td><span>R+32.5</span></td>
+ <td>99</td>
+ <td><span>R+32.6</span></td>
+ <td>R+0.1</td>
+ </tr>
+ <tr>
+ <td>Suffolk city</td>
+ <td>1.11</td>
+ <td><span>D+7.3</span></td>
+ <td>95</td>
+ <td><span>D+4.4</span></td>
+ <td>R+2.9</td>
+ </tr>
+ <tr>
+ <td>James City Co.</td>
+ <td>1.11</td>
+ <td><span>R+5.4</span></td>
+ <td>95</td>
+ <td><span>R+5.9</span></td>
+ <td>R+0.5</td>
+ </tr>
+ <tr>
+ <td>Frederick Co.</td>
+ <td>1.09</td>
+ <td><span>R+38.3</span></td>
+ <td>95</td>
+ <td><span>R+39.1</span></td>
+ <td>R+0.9</td>
+ </tr>
+ <tr>
+ <td>Bedford Co.</td>
+ <td>1.09</td>
+ <td><span>R+59.3</span></td>
+ <td>99</td>
+ <td><span>R+59.2</span></td>
+ <td>D+0.1</td>
+ </tr>
+ <tr>
+ <td>Montgomery Co.</td>
+ <td>1.01</td>
+ <td><span>R+4.4</span></td>
+ <td>94</td>
+ <td><span>R+5.9</span></td>
+ <td>R+1.5</td>
+ </tr>
+ <tr>
+ <td>Portsmouth city</td>
+ <td>1.00</td>
+ <td><span>D+31.3</span></td>
+ <td>95</td>
+ <td><span>D+32.2</span></td>
+ <td>D+0.8</td>
+ </tr>
+ <tr>
+ <td>Rockingham Co.</td>
+ <td>0.98</td>
+ <td><span>R+51.5</span></td>
+ <td>93</td>
+ <td><span>R+56.5</span></td>
+ <td>R+5.0</td>
+ </tr>
+ <tr>
+ <td>Fauquier Co.</td>
+ <td>0.98</td>
+ <td><span>R+28.0</span></td>
+ <td>99</td>
+ <td><span>R+31.9</span></td>
+ <td>R+3.9</td>
+ </tr>
+ <tr>
+ <td>Roanoke city</td>
+ <td>0.97</td>
+ <td><span>D+16.0</span></td>
+ <td>95</td>
+ <td><span>D+16.2</span></td>
+ <td>D+0.1</td>
+ </tr>
+ <tr>
+ <td>Augusta Co.</td>
+ <td>0.95</td>
+ <td><span>R+58.1</span></td>
+ <td>99</td>
+ <td><span>R+57.0</span></td>
+ <td>D+1.2</td>
+ </tr>
+ <tr>
+ <td>York Co.</td>
+ <td>0.87</td>
+ <td><span>R+17.1</span></td>
+ <td>99</td>
+ <td><span>R+18.1</span></td>
+ <td>R+1.1</td>
+ </tr>
+ <tr>
+ <td>Lynchburg city</td>
+ <td>0.82</td>
+ <td><span>R+7.6</span></td>
+ <td>95</td>
+ <td><span>R+11.3</span></td>
+ <td>R+3.7</td>
+ </tr>
+ <tr>
+ <td>Pittsylvania Co.</td>
+ <td>0.77</td>
+ <td><span>R+50.6</span></td>
+ <td>99</td>
+ <td><span>R+51.4</span></td>
+ <td>R+0.8</td>
+ </tr>
+ <tr>
+ <td>Campbell Co.</td>
+ <td>0.67</td>
+ <td><span>R+55.3</span></td>
+ <td>99</td>
+ <td><span>R+57.6</span></td>
+ <td>R+2.3</td>
+ </tr>
+ <tr>
+ <td>Franklin Co.</td>
+ <td>0.67</td>
+ <td><span>R+53.1</span></td>
+ <td>99</td>
+ <td><span>R+50.6</span></td>
+ <td>D+2.5</td>
+ </tr>
+ <tr>
+ <td>Washington Co.</td>
+ <td>0.64</td>
+ <td><span>R+63.5</span></td>
+ <td>99</td>
+ <td><span>R+59.2</span></td>
+ <td>D+4.4</td>
+ </tr>
+ <tr>
+ <td>Culpeper Co.</td>
+ <td>0.61</td>
+ <td><span>R+30.6</span></td>
+ <td>99</td>
+ <td><span>R+34.1</span></td>
+ <td>R+3.6</td>
+ </tr>
+ <tr>
+ <td>Henry Co.</td>
+ <td>0.59</td>
+ <td><span>R+39.7</span></td>
+ <td>95</td>
+ <td><span>R+40.2</span></td>
+ <td>R+0.5</td>
+ </tr>
+ <tr>
+ <td>Charl'ville city</td>
+ <td>0.54</td>
+ <td><span>D+63.7</span></td>
+ <td>99</td>
+ <td><span>D+67.4</span></td>
+ <td>D+3.7</td>
+ </tr>
+ <tr>
+ <td>Shenandoah Co.</td>
+ <td>0.53</td>
+ <td><span>R+51.6</span></td>
+ <td>99</td>
+ <td><span>R+50.6</span></td>
+ <td>D+1.1</td>
+ </tr>
+ <tr>
+ <td>Isle of Wight Co.</td>
+ <td>0.53</td>
+ <td><span>R+29.0</span></td>
+ <td>99</td>
+ <td><span>R+29.7</span></td>
+ <td>R+0.8</td>
+ </tr>
+ <tr>
+ <td>Gloucester Co.</td>
+ <td>0.50</td>
+ <td><span>R+46.5</span></td>
+ <td>99</td>
+ <td><span>R+45.8</span></td>
+ <td>D+0.7</td>
+ </tr>
+ <tr>
+ <td>Louisa Co.</td>
+ <td>0.49</td>
+ <td><span>R+33.6</span></td>
+ <td>99</td>
+ <td><span>R+33.4</span></td>
+ <td>D+0.2</td>
+ </tr>
+ <tr>
+ <td>Warren Co.</td>
+ <td>0.47</td>
+ <td><span>R+46.4</span></td>
+ <td>99</td>
+ <td><span>R+45.0</span></td>
+ <td>D+1.4</td>
+ </tr>
+ <tr>
+ <td>Botetourt Co.</td>
+ <td>0.47</td>
+ <td><span>R+55.5</span></td>
+ <td>99</td>
+ <td><span>R+53.5</span></td>
+ <td>D+2.0</td>
+ </tr>
+ <tr>
+ <td>Orange Co.</td>
+ <td>0.47</td>
+ <td><span>R+32.0</span></td>
+ <td>99</td>
+ <td><span>R+33.8</span></td>
+ <td>R+1.8</td>
+ </tr>
+ <tr>
+ <td>Tazewell Co.</td>
+ <td>0.45</td>
+ <td><span>R+78.2</span></td>
+ <td>99</td>
+ <td><span>R+74.1</span></td>
+ <td>D+4.1</td>
+ </tr>
+ <tr>
+ <td>Powhatan Co.</td>
+ <td>0.44</td>
+ <td><span>R+55.4</span></td>
+ <td>99</td>
+ <td><span>R+54.5</span></td>
+ <td>D+0.9</td>
+ </tr>
+ <tr>
+ <td>Danville city</td>
+ <td>0.43</td>
+ <td><span>D+12.1</span></td>
+ <td>99</td>
+ <td><span>D+7.1</span></td>
+ <td>R+5.0</td>
+ </tr>
+ <tr>
+ <td>Halifax Co.</td>
+ <td>0.41</td>
+ <td><span>R+25.5</span></td>
+ <td>99</td>
+ <td><span>R+29.0</span></td>
+ <td>R+3.5</td>
+ </tr>
+ <tr>
+ <td>Pr. George Co.</td>
+ <td>0.39</td>
+ <td><span>R+27.7</span></td>
+ <td>99</td>
+ <td><span>R+30.6</span></td>
+ <td>R+2.9</td>
+ </tr>
+ <tr>
+ <td>Pulaski Co.</td>
+ <td>0.39</td>
+ <td><span>R+52.5</span></td>
+ <td>99</td>
+ <td><span>R+49.7</span></td>
+ <td>D+2.8</td>
+ </tr>
+ <tr>
+ <td>Harrisonburg city</td>
+ <td>0.38</td>
+ <td><span>D+22.4</span></td>
+ <td>95</td>
+ <td><span>D+21.0</span></td>
+ <td>R+1.4</td>
+ </tr>
+ <tr>
+ <td>Amherst Co.</td>
+ <td>0.38</td>
+ <td><span>R+42.4</span></td>
+ <td>99</td>
+ <td><span>R+43.2</span></td>
+ <td>R+0.7</td>
+ </tr>
+ <tr>
+ <td>Manassas city</td>
+ <td>0.38</td>
+ <td><span>D+14.4</span></td>
+ <td>99</td>
+ <td><span>D+9.7</span></td>
+ <td>R+4.7</td>
+ </tr>
+ <tr>
+ <td>Accomack Co.</td>
+ <td>0.38</td>
+ <td><span>R+19.8</span></td>
+ <td>95</td>
+ <td><span>R+22.4</span></td>
+ <td>R+2.6</td>
+ </tr>
+ <tr>
+ <td>Goochland Co.</td>
+ <td>0.38</td>
+ <td><span>R+30.0</span></td>
+ <td>99</td>
+ <td><span>R+32.8</span></td>
+ <td>R+2.8</td>
+ </tr>
+ <tr>
+ <td>Wise Co.</td>
+ <td>0.37</td>
+ <td><span>R+72.6</span></td>
+ <td>99</td>
+ <td><span>R+69.0</span></td>
+ <td>D+3.6</td>
+ </tr>
+ <tr>
+ <td>Caroline Co.</td>
+ <td>0.37</td>
+ <td><span>R+14.6</span></td>
+ <td>99</td>
+ <td><span>R+16.0</span></td>
+ <td>R+1.4</td>
+ </tr>
+ <tr>
+ <td>Mecklenburg Co.</td>
+ <td>0.36</td>
+ <td><span>R+25.6</span></td>
+ <td>99</td>
+ <td><span>R+30.5</span></td>
+ <td>R+4.8</td>
+ </tr>
+ <tr>
+ <td>Fluvanna Co.</td>
+ <td>0.36</td>
+ <td><span>R+15.1</span></td>
+ <td>99</td>
+ <td><span>R+14.8</span></td>
+ <td>D+0.3</td>
+ </tr>
+ <tr>
+ <td>Carroll Co.</td>
+ <td>0.35</td>
+ <td><span>R+73.6</span></td>
+ <td>99</td>
+ <td><span>R+67.9</span></td>
+ <td>D+5.7</td>
+ </tr>
+ <tr>
+ <td>Dinwiddie Co.</td>
+ <td>0.34</td>
+ <td><span>R+26.9</span></td>
+ <td>99</td>
+ <td><span>R+27.9</span></td>
+ <td>R+1.1</td>
+ </tr>
+ <tr>
+ <td>Wythe Co.</td>
+ <td>0.34</td>
+ <td><span>R+68.1</span></td>
+ <td>99</td>
+ <td><span>R+64.7</span></td>
+ <td>D+3.3</td>
+ </tr>
+ <tr>
+ <td>New Kent Co.</td>
+ <td>0.32</td>
+ <td><span>R+45.5</span></td>
+ <td>95</td>
+ <td><span>R+48.4</span></td>
+ <td>R+2.9</td>
+ </tr>
+ <tr>
+ <td>King George Co.</td>
+ <td>0.32</td>
+ <td><span>R+32.3</span></td>
+ <td>99</td>
+ <td><span>R+37.9</span></td>
+ <td>R+5.6</td>
+ </tr>
+ <tr>
+ <td>Smyth Co.</td>
+ <td>0.32</td>
+ <td><span>R+67.2</span></td>
+ <td>99</td>
+ <td><span>R+66.2</span></td>
+ <td>D+1.0</td>
+ </tr>
+ <tr>
+ <td>Petersburg city</td>
+ <td>0.32</td>
+ <td><span>D+67.0</span></td>
+ <td>99</td>
+ <td><span>D+72.2</span></td>
+ <td>D+5.2</td>
+ </tr>
+ <tr>
+ <td>Fairfax city</td>
+ <td>0.30</td>
+ <td><span>D+28.9</span></td>
+ <td>95</td>
+ <td><span>D+27.8</span></td>
+ <td>R+1.1</td>
+ </tr>
+ <tr>
+ <td>Russell Co.</td>
+ <td>0.30</td>
+ <td><span>R+74.5</span></td>
+ <td>99</td>
+ <td><span>R+70.7</span></td>
+ <td>D+3.8</td>
+ </tr>
+ <tr>
+ <td>Salem city</td>
+ <td>0.29</td>
+ <td><span>R+30.1</span></td>
+ <td>99</td>
+ <td><span>R+30.1</span></td>
+ <td>EVEN</td>
+ </tr>
+ <tr>
+ <td>Staunton city</td>
+ <td>0.29</td>
+ <td><span>R+0.2</span></td>
+ <td>99</td>
+ <td><span>D+3.0</span></td>
+ <td>D+3.2</td>
+ </tr>
+ <tr>
+ <td>Fred'burg city</td>
+ <td>0.29</td>
+ <td><span>D+25.4</span></td>
+ <td>95</td>
+ <td><span>D+20.7</span></td>
+ <td>R+4.7</td>
+ </tr>
+ <tr>
+ <td>Page Co.</td>
+ <td>0.28</td>
+ <td><span>R+61.6</span></td>
+ <td>99</td>
+ <td><span>R+58.8</span></td>
+ <td>D+2.8</td>
+ </tr>
+ <tr>
+ <td>Rockbridge Co.</td>
+ <td>0.28</td>
+ <td><span>R+43.2</span></td>
+ <td>99</td>
+ <td><span>R+39.1</span></td>
+ <td>D+4.1</td>
+ </tr>
+ <tr>
+ <td>Winchester city</td>
+ <td>0.27</td>
+ <td><span>D+1.4</span></td>
+ <td>95</td>
+ <td><span>D+1.0</span></td>
+ <td>R+0.5</td>
+ </tr>
+ <tr>
+ <td>Greene Co.</td>
+ <td>0.25</td>
+ <td><span>R+34.8</span></td>
+ <td>99</td>
+ <td><span>R+36.7</span></td>
+ <td>R+1.9</td>
+ </tr>
+ <tr>
+ <td>Scott Co.</td>
+ <td>0.24</td>
+ <td><span>R+78.8</span></td>
+ <td>99</td>
+ <td><span>R+74.8</span></td>
+ <td>D+4.0</td>
+ </tr>
+ <tr>
+ <td>King William Co.</td>
+ <td>0.24</td>
+ <td><span>R+48.7</span></td>
+ <td>99</td>
+ <td><span>R+47.8</span></td>
+ <td>D+0.9</td>
+ </tr>
+ <tr>
+ <td>Waynesboro city</td>
+ <td>0.24</td>
+ <td><span>R+15.5</span></td>
+ <td>95</td>
+ <td><span>R+16.4</span></td>
+ <td>R+0.8</td>
+ </tr>
+ <tr>
+ <td>Buchanan Co.</td>
+ <td>0.22</td>
+ <td><span>R+78.2</span></td>
+ <td>87</td>
+ <td><span>R+70.2</span></td>
+ <td>D+8.0</td>
+ </tr>
+ <tr>
+ <td>Lee Co.</td>
+ <td>0.22</td>
+ <td><span>R+80.1</span></td>
+ <td>99</td>
+ <td><span>R+76.1</span></td>
+ <td>D+4.0</td>
+ </tr>
+ <tr>
+ <td>Westmoreland Co.</td>
+ <td>0.22</td>
+ <td><span>R+18.6</span></td>
+ <td>99</td>
+ <td><span>R+22.4</span></td>
+ <td>R+3.8</td>
+ </tr>
+ <tr>
+ <td>Southampton Co.</td>
+ <td>0.22</td>
+ <td><span>R+28.5</span></td>
+ <td>99</td>
+ <td><span>R+31.0</span></td>
+ <td>R+2.5</td>
+ </tr>
+ <tr>
+ <td>Hopewell city</td>
+ <td>0.22</td>
+ <td><span>D+4.6</span></td>
+ <td>93</td>
+ <td><span>R+1.1</span></td>
+ <td>R+5.7</td>
+ </tr>
+ <tr>
+ <td>Pr. Edward Co.</td>
+ <td>0.21</td>
+ <td><span>R+4.6</span></td>
+ <td>99</td>
+ <td><span>R+10.3</span></td>
+ <td>R+5.7</td>
+ </tr>
+ <tr>
+ <td>Patrick Co.</td>
+ <td>0.21</td>
+ <td><span>R+68.9</span></td>
+ <td>99</td>
+ <td><span>R+65.7</span></td>
+ <td>D+3.2</td>
+ </tr>
+ <tr>
+ <td>Floyd Co.</td>
+ <td>0.21</td>
+ <td><span>R+45.2</span></td>
+ <td>99</td>
+ <td><span>R+41.5</span></td>
+ <td>D+3.7</td>
+ </tr>
+ <tr>
+ <td>Clarke Co.</td>
+ <td>0.21</td>
+ <td><span>R+24.3</span></td>
+ <td>99</td>
+ <td><span>R+26.5</span></td>
+ <td>R+2.2</td>
+ </tr>
+ <tr>
+ <td>Nelson Co.</td>
+ <td>0.21</td>
+ <td><span>R+15.6</span></td>
+ <td>99</td>
+ <td><span>R+12.9</span></td>
+ <td>D+2.7</td>
+ </tr>
+ <tr>
+ <td>Appomattox Co.</td>
+ <td>0.21</td>
+ <td><span>R+57.3</span></td>
+ <td>99</td>
+ <td><span>R+61.7</span></td>
+ <td>R+4.4</td>
+ </tr>
+ <tr>
+ <td>Giles Co.</td>
+ <td>0.21</td>
+ <td><span>R+62.6</span></td>
+ <td>99</td>
+ <td><span>R+58.6</span></td>
+ <td>D+4.0</td>
+ </tr>
+ <tr>
+ <td>Col. Heights city</td>
+ <td>0.21</td>
+ <td><span>R+44.1</span></td>
+ <td>95</td>
+ <td><span>R+48.7</span></td>
+ <td>R+4.6</td>
+ </tr>
+ <tr>
+ <td>Falls Church city</td>
+ <td>0.20</td>
+ <td><span>D+55.2</span></td>
+ <td>95</td>
+ <td><span>D+53.9</span></td>
+ <td>R+1.3</td>
+ </tr>
+ <tr>
+ <td>Alleghany Co.</td>
+ <td>0.18</td>
+ <td><span>R+54.9</span></td>
+ <td>95</td>
+ <td><span>R+50.5</span></td>
+ <td>D+4.4</td>
+ </tr>
+ <tr>
+ <td>Grayson Co.</td>
+ <td>0.18</td>
+ <td><span>R+72.2</span></td>
+ <td>99</td>
+ <td><span>R+66.3</span></td>
+ <td>D+6.0</td>
+ </tr>
+ <tr>
+ <td>Madison Co.</td>
+ <td>0.18</td>
+ <td><span>R+42.8</span></td>
+ <td>95</td>
+ <td><span>R+41.8</span></td>
+ <td>D+1.0</td>
+ </tr>
+ <tr>
+ <td>Buckingham Co.</td>
+ <td>0.18</td>
+ <td><span>R+23.7</span></td>
+ <td>99</td>
+ <td><span>R+28.2</span></td>
+ <td>R+4.5</td>
+ </tr>
+ <tr>
+ <td>Brunswick Co.</td>
+ <td>0.18</td>
+ <td><span>D+4.8</span></td>
+ <td>99</td>
+ <td><span>D+3.9</span></td>
+ <td>R+0.9</td>
+ </tr>
+ <tr>
+ <td>Amelia Co.</td>
+ <td>0.18</td>
+ <td><span>R+48.5</span></td>
+ <td>95</td>
+ <td><span>R+49.8</span></td>
+ <td>R+1.3</td>
+ </tr>
+ <tr>
+ <td>Poquoson city</td>
+ <td>0.18</td>
+ <td><span>R+56.7</span></td>
+ <td>95</td>
+ <td><span>R+57.2</span></td>
+ <td>R+0.5</td>
+ </tr>
+ <tr>
+ <td>North'berland Co.</td>
+ <td>0.18</td>
+ <td><span>R+26.2</span></td>
+ <td>99</td>
+ <td><span>R+29.5</span></td>
+ <td>R+3.3</td>
+ </tr>
+ <tr>
+ <td>Bristol city</td>
+ <td>0.18</td>
+ <td><span>R+49.9</span></td>
+ <td>99</td>
+ <td><span>R+48.3</span></td>
+ <td>D+1.6</td>
+ </tr>
+ <tr>
+ <td>Dickenson Co.</td>
+ <td>0.16</td>
+ <td><span>R+68.9</span></td>
+ <td>99</td>
+ <td><span>R+61.9</span></td>
+ <td>D+6.9</td>
+ </tr>
+ <tr>
+ <td>Lancaster Co.</td>
+ <td>0.16</td>
+ <td><span>R+15.0</span></td>
+ <td>99</td>
+ <td><span>R+18.6</span></td>
+ <td>R+3.7</td>
+ </tr>
+ <tr>
+ <td>Nottoway Co.</td>
+ <td>0.16</td>
+ <td><span>R+25.4</span></td>
+ <td>99</td>
+ <td><span>R+30.7</span></td>
+ <td>R+5.3</td>
+ </tr>
+ <tr>
+ <td>Williamsburg city</td>
+ <td>0.15</td>
+ <td><span>D+31.6</span></td>
+ <td>95</td>
+ <td><span>D+29.3</span></td>
+ <td>R+2.3</td>
+ </tr>
+ <tr>
+ <td>Middlesex Co.</td>
+ <td>0.15</td>
+ <td><span>R+35.8</span></td>
+ <td>99</td>
+ <td><span>R+34.0</span></td>
+ <td>D+1.8</td>
+ </tr>
+ <tr>
+ <td>Northampton Co.</td>
+ <td>0.15</td>
+ <td><span>D+0.4</span></td>
+ <td>99</td>
+ <td><span>R+2.9</span></td>
+ <td>R+3.4</td>
+ </tr>
+ <tr>
+ <td>Radford city</td>
+ <td>0.14</td>
+ <td><span>R+1.0</span></td>
+ <td>95</td>
+ <td><span>R+10.6</span></td>
+ <td>R+9.6</td>
+ </tr>
+ <tr>
+ <td>Charlotte Co.</td>
+ <td>0.14</td>
+ <td><span>R+34.7</span></td>
+ <td>99</td>
+ <td><span>R+42.1</span></td>
+ <td>R+7.4</td>
+ </tr>
+ <tr>
+ <td>Essex Co.</td>
+ <td>0.14</td>
+ <td><span>R+10.9</span></td>
+ <td>99</td>
+ <td><span>R+16.2</span></td>
+ <td>R+5.3</td>
+ </tr>
+ <tr>
+ <td>Man. Park city</td>
+ <td>0.14</td>
+ <td><span>D+23.4</span></td>
+ <td>84</td>
+ <td><span>D+20.8</span></td>
+ <td>R+2.6</td>
+ </tr>
+ <tr>
+ <td>Martinsville city</td>
+ <td>0.13</td>
+ <td><span>D+16.7</span></td>
+ <td>94</td>
+ <td><span>D+12.4</span></td>
+ <td>R+4.2</td>
+ </tr>
+ <tr>
+ <td>Lunenburg Co.</td>
+ <td>0.13</td>
+ <td><span>R+29.1</span></td>
+ <td>99</td>
+ <td><span>R+32.6</span></td>
+ <td>R+3.5</td>
+ </tr>
+ <tr>
+ <td>Mathews Co.</td>
+ <td>0.13</td>
+ <td><span>R+46.6</span></td>
+ <td>99</td>
+ <td><span>R+44.8</span></td>
+ <td>D+1.8</td>
+ </tr>
+ <tr>
+ <td>Cumberland Co.</td>
+ <td>0.12</td>
+ <td><span>R+25.4</span></td>
+ <td>99</td>
+ <td><span>R+28.9</span></td>
+ <td>R+3.5</td>
+ </tr>
+ <tr>
+ <td>Sussex Co.</td>
+ <td>0.11</td>
+ <td><span>D+1.7</span></td>
+ <td>99</td>
+ <td><span>R+0.0</span></td>
+ <td>R+1.7</td>
+ </tr>
+ <tr>
+ <td>Rappahannock Co.</td>
+ <td>0.11</td>
+ <td><span>R+24.9</span></td>
+ <td>99</td>
+ <td><span>R+21.1</span></td>
+ <td>D+3.8</td>
+ </tr>
+ <tr>
+ <td>Greensville Co.</td>
+ <td>0.10</td>
+ <td><span>D+5.4</span></td>
+ <td>99</td>
+ <td><span>D+4.3</span></td>
+ <td>R+1.1</td>
+ </tr>
+ <tr>
+ <td>Surry Co.</td>
+ <td>0.10</td>
+ <td><span>R+1.9</span></td>
+ <td>99</td>
+ <td><span>R+2.2</span></td>
+ <td>R+0.3</td>
+ </tr>
+ <tr>
+ <td>Charles City Co.</td>
+ <td>0.10</td>
+ <td><span>D+9.4</span></td>
+ <td>95</td>
+ <td><span>D+0.5</span></td>
+ <td>R+8.9</td>
+ </tr>
+ <tr>
+ <td>King &amp; Queen Co.</td>
+ <td>0.09</td>
+ <td><span>R+31.6</span></td>
+ <td>99</td>
+ <td><span>R+31.9</span></td>
+ <td>R+0.3</td>
+ </tr>
+ <tr>
+ <td>Richmond Co.</td>
+ <td>0.09</td>
+ <td><span>R+35.8</span></td>
+ <td>91</td>
+ <td><span>R+42.1</span></td>
+ <td>R+6.3</td>
+ </tr>
+ <tr>
+ <td>Franklin city</td>
+ <td>0.09</td>
+ <td><span>D+15.6</span></td>
+ <td>95</td>
+ <td><span>D+12.2</span></td>
+ <td>R+3.4</td>
+ </tr>
+ <tr>
+ <td>Bland Co.</td>
+ <td>0.08</td>
+ <td><span>R+79.3</span></td>
+ <td>99</td>
+ <td><span>R+73.3</span></td>
+ <td>D+6.1</td>
+ </tr>
+ <tr>
+ <td>Craig Co.</td>
+ <td>0.07</td>
+ <td><span>R+72.7</span></td>
+ <td>99</td>
+ <td><span>R+67.9</span></td>
+ <td>D+4.9</td>
+ </tr>
+ <tr>
+ <td>Buena Vista city</td>
+ <td>0.06</td>
+ <td><span>R+48.9</span></td>
+ <td>99</td>
+ <td><span>R+52.6</span></td>
+ <td>R+3.6</td>
+ </tr>
+ <tr>
+ <td>Lexington city</td>
+ <td>0.06</td>
+ <td><span>D+22.5</span></td>
+ <td>99</td>
+ <td><span>D+22.3</span></td>
+ <td>R+0.2</td>
+ </tr>
+ <tr>
+ <td>Galax city</td>
+ <td>0.06</td>
+ <td><span>R+50.9</span></td>
+ <td>99</td>
+ <td><span>R+50.7</span></td>
+ <td>D+0.2</td>
+ </tr>
+ <tr>
+ <td>Covington city</td>
+ <td>0.06</td>
+ <td><span>R+34.5</span></td>
+ <td>95</td>
+ <td><span>R+37.3</span></td>
+ <td>R+2.8</td>
+ </tr>
+ <tr>
+ <td>Bath Co.</td>
+ <td>0.06</td>
+ <td><span>R+58.2</span></td>
+ <td>99</td>
+ <td><span>R+60.7</span></td>
+ <td>R+2.4</td>
+ </tr>
+ <tr>
+ <td>Emporia city</td>
+ <td>0.05</td>
+ <td><span>D+26.0</span></td>
+ <td>99</td>
+ <td><span>D+17.6</span></td>
+ <td>R+8.4</td>
+ </tr>
+ <tr>
+ <td>Norton city</td>
+ <td>0.04</td>
+ <td><span>R+51.3</span></td>
+ <td>99</td>
+ <td><span>R+49.1</span></td>
+ <td>D+2.2</td>
+ </tr>
+ <tr>
+ <td>Highland Co.</td>
+ <td>0.03</td>
+ <td><span>R+55.0</span></td>
+ <td>99</td>
+ <td><span>R+52.6</span></td>
+ <td>D+2.4</td>
+ </tr>
+ </tbody>
+ </table>
+ <div><a>Show more rows</a></div>
+ <footer>
+ <p>Vote margin calculated based on the two-party vote, which uses just the Democratic and Republican vote totals. Together, the share of the statewide vote and the benchmark margins produce a 50-50 tie, so performance relative to these benchmarks could signal which party is performing better on election night.</p>
+ <p>Sources: Dave Leip’s Atlas of U.S. Presidential Elections, ABC News</p>
+ </footer>
+</section>
+</div>
+
+
+<p data-paragraph="main">Performing well in the suburbs, where <a href="https://www.politico.com/news/2021/10/21/trump-broke-suburbs-gop-virginia-516412" target="_blank" rel="noopener">Trump struggled</a>, is key to unlocking Virginia, and Youngkin made serious inroads in those parts of the state. Take Loudoun and Chesterfield counties, two of the largest suburban counties in the state. Loudoun, which sits outside of Washington, D.C., still went for McAuliffe by about 11 percentage points, but that marked a huge deterioration for Democrats in comparison to Biden’s 25-point edge there last November. This was an example of Youngkin not necessarily needing to win a fairly blue municipality, but doing enough to cut the margins to help his cause overall. Chesterfield, meanwhile, has <a href="https://www.wtvr.com/news/election-2020/democrats-flip-chesterfield-blue-for-first-time-in-72-years" target="_blank" rel="noopener">traditionally been a Republican-leaning county</a> that sits just south of the state capital of Richmond. Biden won it by about 7 points in 2020, but Chesterfield returned to its formerly red ways as Youngkin carried it by close to 10 points.</p>
+
+
+
+<p data-paragraph="main">Conversely, the main areas where Youngkin didn’t improve as markedly (and ran behind our benchmarks) tended to be very red localities in the western part of the state. But Youngkin still won all those strongly Republican places by huge margins anyway, outperforming Trump. And as land, rocks and trees can’t vote, Youngkin’s tremendous showing in the more populous parts of Virginia really gave him his victory on Tuesday.</p>
+
+
+
+<p data-paragraph="main">With the sizable shifts toward the GOP across the commonwealth, Virginia’s result wasn’t just about Youngkin, however. One inescapable fact about this election is that it took place in an environment that was favorable to Republicans. There’s no better indicator of that than President Biden’s poor approval rating, which stood at about 43 percent coming into Election Day in <a href="https://projects.fivethirtyeight.com/biden-approval-rating/" target="_blank" rel="noopener">FiveThirtyEight’s presidential approval tracker</a>. Republicans were already more likely to <a href="https://www.tandfonline.com/doi/abs/10.1080/07343469.2014.944286" target="_blank" rel="noopener">show up in reaction</a> to having a Democratic president, and Biden’s struggles likely turned off some independent voters, too, as the exit poll found they went for Youngkin by 9 points, 54 percent to 45 percent.</p>
+
+
+
+<p data-paragraph="main">Youngkin improved on Trump’s performance with white voters (both men and especially women), who also made up a bigger share of the electorate this year compared to 2020, according to the <a href="https://www.washingtonpost.com/elections/interactive/2021/exit-polls-virginia-governor/" target="_blank" rel="noopener">Virginia exit polls</a>. White Virginians accounted for 74 percent of voters, up from 67 percent last year. In particular, Youngkin did significantly better than Trump among white women with “some college or less,” per the exit polls: He carried that group 75 percent to 25 percent, greatly improving on Trump’s 56 percent to 44 percent performance with them.</p>
+
+
+
+<p data-paragraph="main">The simplest way, though, to describe how Youngkin won is basically that he just performed better across the board, and did so via both turn out and vote choice. At least according to the exit polls (which aren’t always reliable, so we’ll be looking at this question in other ways in the coming days), the electorate that turned out in 2021 was older and whiter than the one that turned out in 2020, and more friendly to Republicans in other ways. And Youngkin improved on Trump’s performance with a host of demographic groups across that electorate.</p>
+
+
+
+<p data-paragraph="main">Overall, just over 3.3 million Virginians cast a ballot, which works out to around 52 to 53 percent of the voting-eligible population -- record turnout for a modern Virginia governor’s race. If the competitiveness of the 2020 presidential election with a <a href="https://graphics.reuters.com/USA-ELECTIONS/oakvendenpr/" target="_blank" rel="noopener">the highest turnout</a> since women got the right to vote didn’t convince you that Republicans can benefit as much or even more from high-turnout elections than Democrats, perhaps the Virginia election will be the nail in the coffin for the belief that high turnout is only good for Democrats.</p>
+
+
+
+<p data-paragraph="main">The support Youngkin attracted also materialized down the ballot at a similar rate, too, as the Republican candidates for lieutenant governor and attorney general <a href="https://www.vpap.org/electionresults/20211102/statewide/" target="_blank" rel="noopener">won nearly identical shares of the vote to Youngkin</a> (as of this writing, only the lieutenant governor race <a href="https://wjla.com/news/local/winsome-sears-voted-virginias-next-lieutenant-governor-first-woman-to-hold-position" target="_blank" rel="noopener">had been projected for the GOP</a>). The similarity in results is unsurprising in a <a href="https://fivethirtyeight.com/features/how-hatred-negative-partisanship-came-to-dominate-american-politics/" target="_blank" rel="noopener">polarized age</a> with <a href="https://fivethirtyeight.com/features/there-wasnt-that-much-split-ticket-voting-in-2020/" target="_blank" rel="noopener">little ticket-splitting</a>, and those factors appear to have potentially given <a href="https://www.vpap.org/electionresults/20211102/house/" target="_blank" rel="noopener">Republicans the edge in the Virginia House of Delegates</a>, too, as they led 51 seats to 49 seats in still-to-be-finalized results.</p>
+
+
+
+<p data-paragraph="main">In the wake of this victory, many Republicans are sure to <a href="https://fivethirtyeight.com/features/everything-you-need-to-know-about-the-2021-elections/" target="_blank" rel="noopener">embrace the campaign strategy and chief issues</a> that Youngkin used in his victorious effort. That means trying to straddle being pro-Trump but not so Trump-y that you repel suburban voters, while also talking about “education” and the economy. (For a discussion of how education became an umbrella term that includes race, racism, COVID-19 school closures and more, please <a href="https://fivethirtyeight.com/live-blog/2021-elections-live-updates-and-results/" target="_blank" rel="noopener">check out our election live blog</a>.) The exit polls in Virginia found those were the two most important topics for voters, with Youngkin winning voters who prioritized those issues by a little more than 10 points. This approach is not guaranteed to work for every Republican candidate in 2022, but it could be a useful roadmap for them.</p>
+
+
+
+<p data-paragraph="main">We <a href="https://fivethirtyeight.com/features/the-virginia-governors-race-is-not-a-good-political-barometer/" target="_blank" rel="noopener">can’t know with absolute certainty</a> that the Virginia race is a harbinger of things to come in the 2022 midterm elections, but the result does show how damaging an electoral environment like the current one could be for the Democrats next year. History suggests they, as the party that holds the White House, have a hard roud to keep control of Congress in 2022, but the Virginia race demonstrates how even seemingly winnable races could be lost if Biden remains as unpopular as he is now. How much Biden rights the ship of state in the coming months will be critical to determining just how ripe of an environment Republicans have next year.</p>]]></description>
+			<pubDate>Wed, 03 Nov 2021 11:28:00 +0000</pubDate>
+			<guid isPermaLink="false">1635939901959732</guid>
+		</item>
 		<item>
 			<title>How The Supreme Court Could Make It Easier To Carry Guns In Public</title>
 			<link>https://fivethirtyeight.com/features/how-the-supreme-court-could-make-it-easier-to-carry-guns-in-public/</link>
@@ -554,14 +1714,14 @@
 
 
 
-<figure><img loading="lazy" width="1766" height="1234" src="https://fivethirtyeight.com/wp-content/uploads/2021/10/Screen-Shot-2021-10-31-at-6.55.57-PM.png" alt="" data-src="https://fivethirtyeight.com/wp-content/uploads/2021/10/Screen-Shot-2021-10-31-at-6.55.57-PM.png" data-srcset="https://fivethirtyeight.com/wp-content/uploads/2021/10/Screen-Shot-2021-10-31-at-6.55.57-PM.png?w=700 1x, https://fivethirtyeight.com/wp-content/uploads/2021/10/Screen-Shot-2021-10-31-at-6.55.57-PM.png?w=1400 2x"></figure><p data-paragraph="main">On one hand, the competitiveness of the race is a bit surprising as Virginia has <a href="https://projects.fivethirtyeight.com/2020-swing-states/" target="_blank" rel="noopener">leaned Democratic in recent years.</a> It <a href="https://uselectionatlas.org/RESULTS/state.php?year=2020&amp;fips=51&amp;f=0&amp;off=0&amp;elect=0" target="_blank" rel="noopener">voted for President Biden by 10 points in 2020</a>, and it has elected a Democrat in every statewide election dating back to 2012.<a data-footnote-id="1" href="https://fivethirtyeight.com/wp-json/wp/v2/espn_verticals/398#fn-1" data-footnote-content="&lt;p&gt;&lt;p&gt;President and U.S. Senate in 2012; governor, lieutenant governor and attorney general in 2013; U.S. Senate in 2014; president in 2016; governor, lieutenant governor and attorney general in 2017; U.S. Senate in 2018; and president and U.S. Senate in 2020.&lt;/p&gt;
-&lt;/p&gt;"><sup>1</sup></a> But on the other hand, this D+5 state, according to <a href="https://fivethirtyeight.com/features/how-red-or-blue-is-your-state-your-congressional-district/" target="_blank" rel="noopener">FiveThirtyEight’s partisan lean</a>,<a data-footnote-id="2" href="https://fivethirtyeight.com/wp-json/wp/v2/espn_verticals/398#fn-2" data-footnote-content="&lt;p&gt;&lt;p&gt;Partisan lean is the average margin difference between how a state or district votes and how the country votes overall. This version of partisan lean, meant to be used for congressional and gubernatorial elections, is calculated as 50 percent the state or district’s lean relative to the nation in the most recent presidential election, 25 percent its relative lean in the second-most-recent presidential election and 25 percent a custom state-legislative lean.&lt;/p&gt;
-&lt;/p&gt;"><sup>2</sup></a> is still very susceptible to shifts in the national environment. And thanks to <a href="https://fivethirtyeight.com/features/biden-has-lost-support-across-all-groups-of-americans-but-especially-independents-and-hispanics/" target="_blank" rel="noopener">an unpopular Democratic president in the White House</a>, the electoral environment currently favors the GOP. </p>
+<figure><img loading="lazy" width="1766" height="1234" src="https://fivethirtyeight.com/wp-content/uploads/2021/10/Screen-Shot-2021-10-31-at-6.55.57-PM.png" alt="" data-src="https://fivethirtyeight.com/wp-content/uploads/2021/10/Screen-Shot-2021-10-31-at-6.55.57-PM.png" data-srcset="https://fivethirtyeight.com/wp-content/uploads/2021/10/Screen-Shot-2021-10-31-at-6.55.57-PM.png?w=700 1x, https://fivethirtyeight.com/wp-content/uploads/2021/10/Screen-Shot-2021-10-31-at-6.55.57-PM.png?w=1400 2x"></figure><p data-paragraph="main">On one hand, the competitiveness of the race is a bit surprising as Virginia has <a href="https://projects.fivethirtyeight.com/2020-swing-states/" target="_blank" rel="noopener">leaned Democratic in recent years.</a> It <a href="https://uselectionatlas.org/RESULTS/state.php?year=2020&amp;fips=51&amp;f=0&amp;off=0&amp;elect=0" target="_blank" rel="noopener">voted for President Biden by 10 points in 2020</a>, and it has elected a Democrat in every statewide election dating back to 2012.<a data-footnote-id="2" href="https://fivethirtyeight.com/wp-json/wp/v2/espn_verticals/398#fn-2" data-footnote-content="&lt;p&gt;&lt;p&gt;President and U.S. Senate in 2012; governor, lieutenant governor and attorney general in 2013; U.S. Senate in 2014; president in 2016; governor, lieutenant governor and attorney general in 2017; U.S. Senate in 2018; and president and U.S. Senate in 2020.&lt;/p&gt;
+&lt;/p&gt;"><sup>2</sup></a> But on the other hand, this D+5 state, according to <a href="https://fivethirtyeight.com/features/how-red-or-blue-is-your-state-your-congressional-district/" target="_blank" rel="noopener">FiveThirtyEight’s partisan lean</a>,<a data-footnote-id="3" href="https://fivethirtyeight.com/wp-json/wp/v2/espn_verticals/398#fn-3" data-footnote-content="&lt;p&gt;&lt;p&gt;Partisan lean is the average margin difference between how a state or district votes and how the country votes overall. This version of partisan lean, meant to be used for congressional and gubernatorial elections, is calculated as 50 percent the state or district’s lean relative to the nation in the most recent presidential election, 25 percent its relative lean in the second-most-recent presidential election and 25 percent a custom state-legislative lean.&lt;/p&gt;
+&lt;/p&gt;"><sup>3</sup></a> is still very susceptible to shifts in the national environment. And thanks to <a href="https://fivethirtyeight.com/features/biden-has-lost-support-across-all-groups-of-americans-but-especially-independents-and-hispanics/" target="_blank" rel="noopener">an unpopular Democratic president in the White House</a>, the electoral environment currently favors the GOP. </p>
 
 
 
-<p data-paragraph="main">Headed into the election, Biden’s approval rating sits at about 43 percent and his disapproval rating at about 51 percent, <a href="https://projects.fivethirtyeight.com/biden-approval-rating/" target="_blank" rel="noopener">according to FiveThirtyEight’s presidential approval tracker</a>.<a data-footnote-id="3" href="https://fivethirtyeight.com/wp-json/wp/v2/espn_verticals/398#fn-3" data-footnote-content="&lt;p&gt;&lt;p&gt;As of 5 p.m. Eastern on Sunday.&lt;/p&gt;
-&lt;/p&gt;"><sup>3</sup></a> It’s underwater in Virginia, too. Recent polls from <a href="https://www.suffolk.edu/-/media/suffolk/documents/academics/research-at-suffolk/suprc/polls/other-states/2021/10_26_2021_marginals.pdf?la=en&amp;hash=C18DD5B48B481336D2DC949F917376F13E0F8BE2" target="_blank" rel="noopener">USA Today/Suffolk University</a>, <a href="https://static.foxnews.com/foxnews.com/content/uploads/2021/10/Fox_October-24-27_Virginia_Topline_October-28-Release.pdf" target="_blank" rel="noopener">Fox News</a> and <a href="https://www.washingtonpost.com/dc-md-va/2021/10/29/virginia-governors-race-poll/" target="_blank" rel="noopener">The Washington Post/Schar School</a> found Biden’s approval rating in the mid-to-low 40s. This may galvanize Republicans — who were already more likely to show up at the polls <a href="https://www.tandfonline.com/doi/abs/10.1080/07343469.2014.944286" target="_blank" rel="noopener">in reaction to having a Democratic president</a> — while also potentially <a href="https://morningconsult.com/2021/10/18/biden-approval-rating-virginia-gubernatorial-race/" target="_blank" rel="noopener">repelling some independents</a> who backed Biden last November. It’s also dampened enthusiasm among Democrats. <a href="https://cnu.edu/wasoncenter/surveys/archive/2021-10-27.html" target="_blank" rel="noopener">The final poll</a> from Christopher Newport University’s Wason Center found that 80 percent of Republicans were “very enthusiastic” about voting, compared with just 65 percent of Democrats.</p>
+<p data-paragraph="main">Headed into the election, Biden’s approval rating sits at about 43 percent and his disapproval rating at about 51 percent, <a href="https://projects.fivethirtyeight.com/biden-approval-rating/" target="_blank" rel="noopener">according to FiveThirtyEight’s presidential approval tracker</a>.<a data-footnote-id="4" href="https://fivethirtyeight.com/wp-json/wp/v2/espn_verticals/398#fn-4" data-footnote-content="&lt;p&gt;&lt;p&gt;As of 5 p.m. Eastern on Sunday.&lt;/p&gt;
+&lt;/p&gt;"><sup>4</sup></a> It’s underwater in Virginia, too. Recent polls from <a href="https://www.suffolk.edu/-/media/suffolk/documents/academics/research-at-suffolk/suprc/polls/other-states/2021/10_26_2021_marginals.pdf?la=en&amp;hash=C18DD5B48B481336D2DC949F917376F13E0F8BE2" target="_blank" rel="noopener">USA Today/Suffolk University</a>, <a href="https://static.foxnews.com/foxnews.com/content/uploads/2021/10/Fox_October-24-27_Virginia_Topline_October-28-Release.pdf" target="_blank" rel="noopener">Fox News</a> and <a href="https://www.washingtonpost.com/dc-md-va/2021/10/29/virginia-governors-race-poll/" target="_blank" rel="noopener">The Washington Post/Schar School</a> found Biden’s approval rating in the mid-to-low 40s. This may galvanize Republicans — who were already more likely to show up at the polls <a href="https://www.tandfonline.com/doi/abs/10.1080/07343469.2014.944286" target="_blank" rel="noopener">in reaction to having a Democratic president</a> — while also potentially <a href="https://morningconsult.com/2021/10/18/biden-approval-rating-virginia-gubernatorial-race/" target="_blank" rel="noopener">repelling some independents</a> who backed Biden last November. It’s also dampened enthusiasm among Democrats. <a href="https://cnu.edu/wasoncenter/surveys/archive/2021-10-27.html" target="_blank" rel="noopener">The final poll</a> from Christopher Newport University’s Wason Center found that 80 percent of Republicans were “very enthusiastic” about voting, compared with just 65 percent of Democrats.</p>
 
 
 
@@ -616,8 +1776,8 @@
 
 
 
-<p data-paragraph="main">Last week, a survey from <a href="https://www.monmouth.edu/polling-institute/reports/monmouthpoll_nj_102721/" target="_blank" rel="noopener">Monmouth University</a> — which calls New Jersey home — found Murphy leading by 11 points among registered voters, with the incumbent leading by 8 to 14 points in its likely voter model — a smaller advantage than in Monmouth’s previous polls (9 to 19 points). Additionally, a <a href="https://stockton.edu/hughes-center/polling/documents/2021-1028-stockton-poll-shows-murphy-maintains-lead-over-ciattarelli.pdf" target="_blank" rel="noopener">Stockton University poll</a> found Murphy ahead by 9 points among likely voters, while a <a href="https://www.fdu.edu/news/murphy-retains-lead-builds-momentum-among-independents/" target="_blank" rel="noopener">Fairleigh Dickinson University survey</a> of registered voters put Murphy up by 9 points, but the pollster didn’t release a likely voter figure. But another recent nonpartisan survey, from <a href="https://emersonpolling.reportablenews.com/pr/new-jersey-2021-gov-murphy-with-six-point-lead-over-republican-challenger-ciattarelli" target="_blank" rel="noopener">PIX 11/Emerson College</a>, found a closer contest with Murphy ahead by about 4 points among likely voters.<a data-footnote-id="4" href="https://fivethirtyeight.com/wp-json/wp/v2/espn_verticals/398#fn-4" data-footnote-content="&lt;p&gt;&lt;p&gt;Including undecideds who leaned toward a candidate.&lt;/p&gt;
-&lt;/p&gt;"><sup>4</sup></a> The latest Monmouth and Emerson polls found Murphy remains more popular than not, however, as Monmouth put his approval at 52 percent and his disapproval at 39 percent, while Emerson found 49 percent had a favorable view of the governor versus 47 percent who had an unfavorable impression.</p>
+<p data-paragraph="main">Last week, a survey from <a href="https://www.monmouth.edu/polling-institute/reports/monmouthpoll_nj_102721/" target="_blank" rel="noopener">Monmouth University</a> — which calls New Jersey home — found Murphy leading by 11 points among registered voters, with the incumbent leading by 8 to 14 points in its likely voter model — a smaller advantage than in Monmouth’s previous polls (9 to 19 points). Additionally, a <a href="https://stockton.edu/hughes-center/polling/documents/2021-1028-stockton-poll-shows-murphy-maintains-lead-over-ciattarelli.pdf" target="_blank" rel="noopener">Stockton University poll</a> found Murphy ahead by 9 points among likely voters, while a <a href="https://www.fdu.edu/news/murphy-retains-lead-builds-momentum-among-independents/" target="_blank" rel="noopener">Fairleigh Dickinson University survey</a> of registered voters put Murphy up by 9 points, but the pollster didn’t release a likely voter figure. But another recent nonpartisan survey, from <a href="https://emersonpolling.reportablenews.com/pr/new-jersey-2021-gov-murphy-with-six-point-lead-over-republican-challenger-ciattarelli" target="_blank" rel="noopener">PIX 11/Emerson College</a>, found a closer contest with Murphy ahead by about 4 points among likely voters.<a data-footnote-id="5" href="https://fivethirtyeight.com/wp-json/wp/v2/espn_verticals/398#fn-5" data-footnote-content="&lt;p&gt;&lt;p&gt;Including undecideds who leaned toward a candidate.&lt;/p&gt;
+&lt;/p&gt;"><sup>5</sup></a> The latest Monmouth and Emerson polls found Murphy remains more popular than not, however, as Monmouth put his approval at 52 percent and his disapproval at 39 percent, while Emerson found 49 percent had a favorable view of the governor versus 47 percent who had an unfavorable impression.</p>
 
 
 <p>Watch: https://abcnews.go.com/ThisWeek/video/buy-us-political-forces-aligned-climate-change-silver-80888230</p>
@@ -685,8 +1845,8 @@
 
 
 
-<p data-paragraph="main">There are also three special elections for Congress taking place on Tuesday. The two general elections in Ohio — one in the dark-blue <strong>11th District</strong>, one in the solidly red <strong>15th District</strong> — are uncompetitive,<a data-footnote-id="5" href="https://fivethirtyeight.com/wp-json/wp/v2/espn_verticals/398#fn-5" data-footnote-content='&lt;p&gt;&lt;p&gt;The primaries, which you might remember from August, were &lt;a href="https://fivethirtyeight.com/features/everything-you-need-to-know-about-ohios-two-special-primary-elections/" target="_blank" rel="noopener"&gt;much more interesting&lt;/a&gt;.&lt;/p&gt;
-&lt;/p&gt;'><sup>5</sup></a> although the winning candidates’ margins will give us more data about whether Democrats or Republicans are <a href="https://fivethirtyeight.com/features/what-the-new-mexico-1st-special-election-can-and-cant-tell-us-about-2022/" target="_blank" rel="noopener">outperforming expectations</a> so far in the 2022 election cycle. </p>
+<p data-paragraph="main">There are also three special elections for Congress taking place on Tuesday. The two general elections in Ohio — one in the dark-blue <strong>11th District</strong>, one in the solidly red <strong>15th District</strong> — are uncompetitive,<a data-footnote-id="6" href="https://fivethirtyeight.com/wp-json/wp/v2/espn_verticals/398#fn-6" data-footnote-content='&lt;p&gt;&lt;p&gt;The primaries, which you might remember from August, were &lt;a href="https://fivethirtyeight.com/features/everything-you-need-to-know-about-ohios-two-special-primary-elections/" target="_blank" rel="noopener"&gt;much more interesting&lt;/a&gt;.&lt;/p&gt;
+&lt;/p&gt;'><sup>6</sup></a> although the winning candidates’ margins will give us more data about whether Democrats or Republicans are <a href="https://fivethirtyeight.com/features/what-the-new-mexico-1st-special-election-can-and-cant-tell-us-about-2022/" target="_blank" rel="noopener">outperforming expectations</a> so far in the 2022 election cycle. </p>
 
 
 
@@ -1023,8 +2183,8 @@
 
 
 
-<figure><img loading="lazy" width="1150" height="920" src="https://fivethirtyeight.com/wp-content/uploads/2021/10/biden-approval-rating-2-4.png" alt="" data-src="https://fivethirtyeight.com/wp-content/uploads/2021/10/biden-approval-rating-2-4.png" data-srcset="https://fivethirtyeight.com/wp-content/uploads/2021/10/biden-approval-rating-2-4.png?w=700 1x, https://fivethirtyeight.com/wp-content/uploads/2021/10/biden-approval-rating-2-4.png?w=1400 2x"></figure><p data-paragraph="main">According to FiveThirtyEight’s <a href="https://projects.fivethirtyeight.com/biden-approval-rating/" target="_blank" rel="noopener">presidential approval tracker</a><a data-footnote-id="6" href="https://fivethirtyeight.com/wp-json/wp/v2/espn_verticals/398#fn-6" data-footnote-content="&lt;p&gt;&lt;p&gt;As of 5 p.m. Eastern on Thursday.&lt;/p&gt;
-&lt;/p&gt;"><sup>6</sup></a>, 43.7 percent of Americans approve of the job Biden is doing as president, while 51 percent disapprove (a net approval rating of -7.3 points). At this time <a href="https://fivethirtyeight.com/features/a-majority-of-republican-voters-actively-want-trump-to-run-for-president-again/" target="_blank" rel="noopener">last week</a>, 43.7 percent approved and 50.0 percent disapproved (a net approval rating of -6.4 points). One month ago, Biden had an approval rating of 45.3 percent and a disapproval rating of 48.9 percent, for a net approval rating of -3.6 points.</p>
+<figure><img loading="lazy" width="1150" height="920" src="https://fivethirtyeight.com/wp-content/uploads/2021/10/biden-approval-rating-2-4.png" alt="" data-src="https://fivethirtyeight.com/wp-content/uploads/2021/10/biden-approval-rating-2-4.png" data-srcset="https://fivethirtyeight.com/wp-content/uploads/2021/10/biden-approval-rating-2-4.png?w=700 1x, https://fivethirtyeight.com/wp-content/uploads/2021/10/biden-approval-rating-2-4.png?w=1400 2x"></figure><p data-paragraph="main">According to FiveThirtyEight’s <a href="https://projects.fivethirtyeight.com/biden-approval-rating/" target="_blank" rel="noopener">presidential approval tracker</a><a data-footnote-id="7" href="https://fivethirtyeight.com/wp-json/wp/v2/espn_verticals/398#fn-7" data-footnote-content="&lt;p&gt;&lt;p&gt;As of 5 p.m. Eastern on Thursday.&lt;/p&gt;
+&lt;/p&gt;"><sup>7</sup></a>, 43.7 percent of Americans approve of the job Biden is doing as president, while 51 percent disapprove (a net approval rating of -7.3 points). At this time <a href="https://fivethirtyeight.com/features/a-majority-of-republican-voters-actively-want-trump-to-run-for-president-again/" target="_blank" rel="noopener">last week</a>, 43.7 percent approved and 50.0 percent disapproved (a net approval rating of -6.4 points). One month ago, Biden had an approval rating of 45.3 percent and a disapproval rating of 48.9 percent, for a net approval rating of -3.6 points.</p>
 
 
 
@@ -1032,8 +2192,8 @@
 
 
 
-<figure><img loading="lazy" width="1150" height="920" src="https://fivethirtyeight.com/wp-content/uploads/2021/10/generic-ballot-2-3.png" alt="" data-src="https://fivethirtyeight.com/wp-content/uploads/2021/10/generic-ballot-2-3.png" data-srcset="https://fivethirtyeight.com/wp-content/uploads/2021/10/generic-ballot-2-3.png?w=700 1x, https://fivethirtyeight.com/wp-content/uploads/2021/10/generic-ballot-2-3.png?w=1400 2x"></figure><p data-paragraph="main"><br>In our average of polls of the <a href="https://projects.fivethirtyeight.com/congress-generic-ballot-polls/" target="_blank" rel="noopener">generic congressional ballot</a><a data-footnote-id="7" href="https://fivethirtyeight.com/wp-json/wp/v2/espn_verticals/398#fn-7" data-footnote-content="&lt;p&gt;&lt;p&gt;As of 5 p.m. Eastern on Thursday.&lt;/p&gt;
-&lt;/p&gt;"><sup>7</sup></a>, Democrats currently lead by 2.5 percentage points (43.9 percent to 41.4 percent). A week ago, Democrats led Republicans by 2.6 points (44.1 percent to 41.6 percent). At this time last month, voters preferred Democrats by 3 points (44.7 percent to 41.7 percent).</p>
+<figure><img loading="lazy" width="1150" height="920" src="https://fivethirtyeight.com/wp-content/uploads/2021/10/generic-ballot-2-3.png" alt="" data-src="https://fivethirtyeight.com/wp-content/uploads/2021/10/generic-ballot-2-3.png" data-srcset="https://fivethirtyeight.com/wp-content/uploads/2021/10/generic-ballot-2-3.png?w=700 1x, https://fivethirtyeight.com/wp-content/uploads/2021/10/generic-ballot-2-3.png?w=1400 2x"></figure><p data-paragraph="main"><br>In our average of polls of the <a href="https://projects.fivethirtyeight.com/congress-generic-ballot-polls/" target="_blank" rel="noopener">generic congressional ballot</a><a data-footnote-id="8" href="https://fivethirtyeight.com/wp-json/wp/v2/espn_verticals/398#fn-8" data-footnote-content="&lt;p&gt;&lt;p&gt;As of 5 p.m. Eastern on Thursday.&lt;/p&gt;
+&lt;/p&gt;"><sup>8</sup></a>, Democrats currently lead by 2.5 percentage points (43.9 percent to 41.4 percent). A week ago, Democrats led Republicans by 2.6 points (44.1 percent to 41.6 percent). At this time last month, voters preferred Democrats by 3 points (44.7 percent to 41.7 percent).</p>
 
 
 <p>Watch: https://abcnews.go.com/ThisWeek/video/dont-buy-trump-winning-gop-nomination-inevitable-silver-80757404</p>]]></description>
@@ -1063,8 +2223,8 @@
 
 
 
-<p data-paragraph="main"><a href="https://www.nature.com/articles/nclimate2583" target="_blank" rel="noopener">According to a study</a> from the Yale Program on Climate Change Communication and the George Mason Center for Climate Change Communication,<a data-footnote-id="8" href="https://fivethirtyeight.com/wp-json/wp/v2/espn_verticals/398#fn-8" data-footnote-content='&lt;p&gt;&lt;p&gt;The data from the survey was taken from a dataset of representative climate surveys with a sample size over 25,000 U.S. adults. Researchers &lt;a href="https://climatecommunication.yale.edu/visualizations-data/ycom-us/" target="_blank" rel="noopener"&gt;applied a statistical model to obtain subnational estimates&lt;/a&gt; considering demographic and geographic characteristics from the U.S. Census, such as gender, race and ethnicity, and level of education.&lt;/p&gt;
-&lt;/p&gt;'><sup>8</sup></a> exactly <em>who</em> wants the government to act depends on <em>where</em> you ask.</p>
+<p data-paragraph="main"><a href="https://www.nature.com/articles/nclimate2583" target="_blank" rel="noopener">According to a study</a> from the Yale Program on Climate Change Communication and the George Mason Center for Climate Change Communication,<a data-footnote-id="9" href="https://fivethirtyeight.com/wp-json/wp/v2/espn_verticals/398#fn-9" data-footnote-content='&lt;p&gt;&lt;p&gt;The data from the survey was taken from a dataset of representative climate surveys with a sample size over 25,000 U.S. adults. Researchers &lt;a href="https://climatecommunication.yale.edu/visualizations-data/ycom-us/" target="_blank" rel="noopener"&gt;applied a statistical model to obtain subnational estimates&lt;/a&gt; considering demographic and geographic characteristics from the U.S. Census, such as gender, race and ethnicity, and level of education.&lt;/p&gt;
+&lt;/p&gt;'><sup>9</sup></a> exactly <em>who</em> wants the government to act depends on <em>where</em> you ask.</p>
 
 
 
@@ -1078,9 +2238,9 @@
 
 
 
-<p data-paragraph="main">Sixty-two percent of U.S. adults said climate change <a href="https://www.pewresearch.org/science/wp-content/uploads/sites/16/2019/11/PS_11.25.19_climate.energy-00-013.png" target="_blank" rel="noopener">was affecting their local communities</a> at least “some,” according to an October 2019 Pew survey. At a more granular level, Americans from different regions say that climate change is affecting their neighborhoods in disparate ways. For example, Americans living in the Pacific West<a data-footnote-id="9" href="https://fivethirtyeight.com/wp-json/wp/v2/espn_verticals/398#fn-9" data-footnote-content="&lt;p&gt;&lt;p&gt;California, Washington, Oregon, Hawaii and Alaska.&lt;/p&gt;
-&lt;/p&gt;"><sup>9</sup></a> and Mountain West<a data-footnote-id="10" href="https://fivethirtyeight.com/wp-json/wp/v2/espn_verticals/398#fn-10" data-footnote-content="&lt;p&gt;&lt;p&gt;Arizona, Colorado, New Mexico, Montana, Idaho, Wyoming, Nevada and Utah.&lt;/p&gt;
-&lt;/p&gt;"><sup>10</sup></a> were more likely than Americans in the Northeast and Midwest to say wildfires and threatened water sources are some of the major ways climate change is affecting their lives. <a href="https://www.pewresearch.org/science/2020/06/23/two-thirds-of-americans-think-government-should-do-more-on-climate/" target="_blank" rel="noopener">A Pew survey from 2020</a> found that 70 percent of Americans who lived within 25 miles of a coastline <a href="https://www.pewresearch.org/science/2019/11/25/u-s-public-views-on-climate-and-energy/" target="_blank" rel="noopener">said climate change was directly affecting them</a> at least “some” — that included 45 percent of Republicans, a higher share compared to Republicans living further from the coast.</p>
+<p data-paragraph="main">Sixty-two percent of U.S. adults said climate change <a href="https://www.pewresearch.org/science/wp-content/uploads/sites/16/2019/11/PS_11.25.19_climate.energy-00-013.png" target="_blank" rel="noopener">was affecting their local communities</a> at least “some,” according to an October 2019 Pew survey. At a more granular level, Americans from different regions say that climate change is affecting their neighborhoods in disparate ways. For example, Americans living in the Pacific West<a data-footnote-id="10" href="https://fivethirtyeight.com/wp-json/wp/v2/espn_verticals/398#fn-10" data-footnote-content="&lt;p&gt;&lt;p&gt;California, Washington, Oregon, Hawaii and Alaska.&lt;/p&gt;
+&lt;/p&gt;"><sup>10</sup></a> and Mountain West<a data-footnote-id="11" href="https://fivethirtyeight.com/wp-json/wp/v2/espn_verticals/398#fn-11" data-footnote-content="&lt;p&gt;&lt;p&gt;Arizona, Colorado, New Mexico, Montana, Idaho, Wyoming, Nevada and Utah.&lt;/p&gt;
+&lt;/p&gt;"><sup>11</sup></a> were more likely than Americans in the Northeast and Midwest to say wildfires and threatened water sources are some of the major ways climate change is affecting their lives. <a href="https://www.pewresearch.org/science/2020/06/23/two-thirds-of-americans-think-government-should-do-more-on-climate/" target="_blank" rel="noopener">A Pew survey from 2020</a> found that 70 percent of Americans who lived within 25 miles of a coastline <a href="https://www.pewresearch.org/science/2019/11/25/u-s-public-views-on-climate-and-energy/" target="_blank" rel="noopener">said climate change was directly affecting them</a> at least “some” — that included 45 percent of Republicans, a higher share compared to Republicans living further from the coast.</p>
 
 
 
@@ -1434,8 +2594,8 @@
 			<category>North Carolina</category>
 			<category>Redistricting</category>
 			<category>Wisconsin</category>
-			<description><![CDATA[<p data-paragraph="main">The United States is in the middle of a once-in-a-decade process: redistricting. And although it’s early yet — 19 states aren’t expected to finalize their maps until next year — <a href="https://projects.fivethirtyeight.com/redistricting-2022-maps/" target="_blank" rel="noopener">a number of states have proposed maps</a>, and there are debates happening all across the country over which ones to pass. <a href="https://projects.fivethirtyeight.com/redistricting-2022-maps/?cid=rrpromo" target="_blank" rel="noopener">Six states have finalized maps</a>.<a data-footnote-id="11" href="https://fivethirtyeight.com/wp-json/wp/v2/espn_verticals/398#fn-11" data-footnote-content="&lt;p&gt;&lt;p&gt;As of 5 p.m. on Oct. 25.&lt;/p&gt;
-&lt;/p&gt;"><sup>11</sup></a></p>
+			<description><![CDATA[<p data-paragraph="main">The United States is in the middle of a once-in-a-decade process: redistricting. And although it’s early yet — 19 states aren’t expected to finalize their maps until next year — <a href="https://projects.fivethirtyeight.com/redistricting-2022-maps/" target="_blank" rel="noopener">a number of states have proposed maps</a>, and there are debates happening all across the country over which ones to pass. <a href="https://projects.fivethirtyeight.com/redistricting-2022-maps/?cid=rrpromo" target="_blank" rel="noopener">Six states have finalized maps</a>.<a data-footnote-id="12" href="https://fivethirtyeight.com/wp-json/wp/v2/espn_verticals/398#fn-12" data-footnote-content="&lt;p&gt;&lt;p&gt;As of 5 p.m. on Oct. 25.&lt;/p&gt;
+&lt;/p&gt;"><sup>12</sup></a></p>
 
 
 
@@ -2174,81 +3334,6 @@
 &lt;/p&gt;"><sup>13</sup></a> Democrats currently lead by 2.6 percentage points (44.1 percent to 41.6 percent). A week ago, Democrats led Republicans by 2.9 points (44.4 percent to 41.5 percent). At this time last month, voters preferred Democrats by 2.6 points (43.8 percent to 41.2 percent).</p>]]></description>
 			<pubDate>Fri, 22 Oct 2021 11:00:00 +0100</pubDate>
 			<guid isPermaLink="false">1634900402321047</guid>
-		</item>
-		<item>
-			<title>Biden Has Lost Support Across All Groups Of Americans — But Especially Independents And Hispanics</title>
-			<link>https://fivethirtyeight.com/features/biden-has-lost-support-across-all-groups-of-americans-but-especially-independents-and-hispanics/</link>
-						<dc:creator>Geoffrey Skelley</dc:creator>
-			<dc:creator>Geoffrey Skelley</dc:creator>
-			<category>Barack Obama</category>
-			<category>Bill Clinton</category>
-			<category>Black Voters</category>
-			<category>COVID-19</category>
-			<category>Donald Trump</category>
-			<category>Economy</category>
-			<category>George W. Bush</category>
-			<category>Hispanic Voters</category>
-			<category>Independents</category>
-			<category>Joe Biden</category>
-			<category>Presidential Approval</category>
-			<category>The Biden Administration</category>
-			<description><![CDATA[<p data-paragraph="main">Over his first nine months in office, President Biden <a href="https://www.pewresearch.org/politics/2021/09/23/views-of-biden-and-congressional-leaders/" target="_blank" rel="noopener">has lost support</a> among Americans of all stripes — men and women, Black voters and white voters, Zoomers and Baby Boomers. Even Democrats writ large are more disenchanted. But two groups with whom Biden has lost support stand out: independents and Hispanics. <a href="https://www.cnn.com/2021/10/08/politics/independents-biden-losing-fast/index.html" target="_blank" rel="noopener">Independents have soured</a> on Biden to the extent that his approval ratings among this group approach the <a href="https://elections.huffingtonpost.com/pollster/trump-job-approval/edit#!minpct=0&amp;maxpct=100&amp;mindate=2000-01-01&amp;maxdate=2021-10-19&amp;smoothing=moderate&amp;showpoints=no&amp;showsplines=yes&amp;hiddenpollsters=&amp;hiddensubpops=A,A%20-%20D,A%20-%20R,RV,RV%20-%20D,RV%20-%20R,LV,LV%20-%20D,LV%20-%20R&amp;partisanship=S,P,N&amp;parties=D,R,I,N&amp;selected=approve,disapprove&amp;fudge=1" target="_blank" rel="noopener">strongly negative ratings they gave then-President Donald Trump</a> at the same point in his presidency, while increased disapproval of Biden among Hispanics <a href="https://www.washingtonpost.com/opinions/2021/10/13/biden-is-bleeding-support-hispanic-voters-democrats-should-be-petrified/" target="_blank" rel="noopener">could signal they are moving further away from Democrats</a> after they <a href="https://fivethirtyeight.com/features/what-we-know-about-how-white-and-latino-americans-voted-in-2020/" target="_blank" rel="noopener">shifted somewhat toward Trump and the GOP</a> last November.</p>
-
-
-
-<p data-paragraph="main">Of course, it’s not that unusual for a president’s approval rating to drop over the course of the first nine months in office. A president’s “<a href="https://fivethirtyeight.com/features/what-should-we-expect-of-bidens-approval-rating-in-the-first-few-months/" target="_blank" rel="noopener">honeymoon period</a>” has usually ended by then, as opposition to the president’s agenda coalesces and the new administration’s actions spark criticism. As the chart below shows, most recent presidents have seen their approval ratings fall after their first few months in office, although there have been some notable exceptions.</p>
-
-
-
-<figure><img loading="lazy" width="1150" height="1036" src="https://fivethirtyeight.com/wp-content/uploads/2021/10/skelley.BIDEN-APPROVAL.1021.1-1.png" alt="" data-src="https://fivethirtyeight.com/wp-content/uploads/2021/10/skelley.BIDEN-APPROVAL.1021.1-1.png" data-srcset="https://fivethirtyeight.com/wp-content/uploads/2021/10/skelley.BIDEN-APPROVAL.1021.1-1.png?w=700 1x, https://fivethirtyeight.com/wp-content/uploads/2021/10/skelley.BIDEN-APPROVAL.1021.1-1.png?w=1400 2x"></figure><p data-paragraph="main">For instance, Biden, Trump and Barack Obama all experienced clear descents during their first nine months in office, albeit from different starting points: Biden has fallen from the mid-50s to the mid-40s, Obama fell from the mid-to-high 60s to the low 50s, and Trump fell from the mid-40s to the high 30s. But former Presidents Bill Clinton and George W. Bush didn’t really follow this pattern. Clinton’s approval rating did <a href="https://www.theguardian.com/commentisfree/2012/sep/06/bill-clinton-fickle-favours-presidential-popularity" target="_blank" rel="noopener">decline a few months into his presidency</a>, but in a possible sign of hope for Biden, Clinton’s approval rating ticked back up after hitting the summer doldrums. Meanwhile, in 2001, Bush’s approval rating didn’t change much until it skyrocketed following the Sept. 11 terrorist attacks, a textbook example of the “<a href="https://fivethirtyeight.com/features/what-explains-the-bump-in-trumps-approval-ratings/" target="_blank" rel="noopener">rally-around-the-flag effect</a>.”</p>
-
-
-<div>
-	<p>
-		<a href="https://fivethirtyeight.com/features/how-democrats-failure-to-pass-a-voting-rights-bill-fits-a-pattern-of-failing-voters-of-color/"><img alt="Demonstrators in Washington, DC hold up signs that read “Black Voters Matter.”" width="153" height="115" data-sizes="(min-width: 440px) 153px, 100vw" data-srcset="https://fivethirtyeight.com/wp-content/uploads/2021/10/GettyImages-1336527370-4x3-1.jpg?w=153&amp;quality=100&amp;strip=all 153w, https://fivethirtyeight.com/wp-content/uploads/2021/10/GettyImages-1336527370-4x3-1.jpg?w=306&amp;quality=100&amp;strip=all 306w, https://fivethirtyeight.com/wp-content/uploads/2021/10/GettyImages-1336527370-4x3-1.jpg?w=405&amp;quality=100&amp;strip=all 405w, https://fivethirtyeight.com/wp-content/uploads/2021/10/GettyImages-1336527370-4x3-1.jpg?w=810&amp;quality=100&amp;strip=all 810w"></a>
-	</p>
-	<p>
-				<strong>Related:</strong>
-				How Democrats’ Failure To Pass A Voting Rights Bill Fits A Pattern Of Failing Voters Of Color <a href="https://fivethirtyeight.com/features/how-democrats-failure-to-pass-a-voting-rights-bill-fits-a-pattern-of-failing-voters-of-color/">Read more. »</a>
-	</p>
-</div>
-
-
-
-<p data-paragraph="main">But our hyperpolarized political environment <a href="https://fivethirtyeight.com/features/why-you-should-still-pay-attention-to-joe-bidens-approval-rating/" target="_blank" rel="noopener">could make it challenging</a> for Biden to regain the support he’s lost since taking office. In fact, while Biden’s approval rating has seemingly stabilized in the mid-to-low 40s, there’s also <a href="https://fivethirtyeight.com/features/bidens-approval-rating-isnt-bouncing-back/" target="_blank" rel="noopener">no indication that his approval rating is about to bounce back</a>. And part of that comes down to Biden’s rough numbers among independents and Hispanics, in addition to his standing on important issues like COVID-19 and the economy.</p>
-
-
-
-<p data-paragraph="main">Perhaps the most obvious place where Biden has lost support is among independents. Across the polls we collected that measured support by party ID, Biden’s approval has dropped from 50 percent among independents in the late spring and early summer, to below 35 percent now, as the chart below details. His slides among Democrats and Republicans haven’t been nearly as sizable.</p>
-
-
-
-<figure><img loading="lazy" width="1150" height="1038" src="https://fivethirtyeight.com/wp-content/uploads/2021/10/skelley.BIDEN-APPROVAL.1021.2-1.png" alt="" data-src="https://fivethirtyeight.com/wp-content/uploads/2021/10/skelley.BIDEN-APPROVAL.1021.2-1.png" data-srcset="https://fivethirtyeight.com/wp-content/uploads/2021/10/skelley.BIDEN-APPROVAL.1021.2-1.png?w=700 1x, https://fivethirtyeight.com/wp-content/uploads/2021/10/skelley.BIDEN-APPROVAL.1021.2-1.png?w=1400 2x"></figure><p data-paragraph="main">It’s true that Republicans never gave Biden much of a chance and that <a href="https://fivethirtyeight.com/features/few-americans-who-identify-as-independent-are-actually-independent-thats-really-bad-for-politics/" target="_blank" rel="noopener">most independents lean toward one party</a>, but independents are still <a href="https://fivethirtyeight.com/features/just-how-many-swing-voters-are-there/" target="_blank" rel="noopener">more politically malleable</a> than Democrats or Republicans. In that sense, it’s a real problem for Biden that the most moveable group of voters now largely disapproves of the job he is doing as president. </p>
-
-
-
-<p data-paragraph="main">Biden’s sharp decline among independents also seems related to what has often been Americans’ <a href="https://news.gallup.com/poll/1675/most-important-problem.aspx" target="_blank" rel="noopener">number-one concern</a> since <a href="https://news.gallup.com/poll/353012/coronavirus-ticks-important-problem.aspx" target="_blank" rel="noopener">Biden took office</a>: the COVID-19 pandemic. This has surely hurt Biden with most groups of Americans, but independents’ dissatisfaction with Biden’s handling of the pandemic has been particularly pronounced. In early June, almost 60 percent of independents approved of Biden’s response to the coronavirus, but that has now fallen to just below 42 percent, according to <a href="https://projects.fivethirtyeight.com/coronavirus-polls/" target="_blank" rel="noopener">FiveThirtyEight’s coronavirus approval tracker</a>.</p>
-
-
-
-<figure><img loading="lazy" width="1388" height="670" src="https://fivethirtyeight.com/wp-content/uploads/2021/10/skelley_BIDENAPPROVAL_1021_screenshot.png" alt="" data-src="https://fivethirtyeight.com/wp-content/uploads/2021/10/skelley_BIDENAPPROVAL_1021_screenshot.png" data-srcset="https://fivethirtyeight.com/wp-content/uploads/2021/10/skelley_BIDENAPPROVAL_1021_screenshot.png?w=700 1x, https://fivethirtyeight.com/wp-content/uploads/2021/10/skelley_BIDENAPPROVAL_1021_screenshot.png?w=1400 2x"></figure><p data-paragraph="main">Independents are also especially dissatisfied with how Biden is handling the economy. Granted, this week <a href="https://docs.cdn.yougov.com/mzvq4c7ty8/econTabReport.pdf" target="_blank" rel="noopener">The Economist/YouGov</a> found only 41 percent of Americans approved of Biden’s handling of jobs and the economy, while a brand-new <a href="https://assets.morningconsult.com/wp-uploads/2021/10/20054637/2110084_crosstabs_POLITICO_RVs_v1_SH.pdf" target="_blank" rel="noopener">Politico/Morning Consult survey</a> found just 41 percent of registered voters approved of his handling of the economy. But this is a drop from where his numbers stood on these issues in early June, when <a href="https://docs.cdn.yougov.com/y3gecetbxy/econTabReport.pdf" target="_blank" rel="noopener">The Economist/YouGov</a> polling had him 8 percentage points higher and <a href="https://assets.morningconsult.com/wp-uploads/2021/06/16051615/210691_crosstabs_POLITICO_RVs_v1_LM-1.pdf" target="_blank" rel="noopener">Politico/Morning Consult</a> polling had him 6 points higher. Yet independents have been even more displeased with Biden’s handling of the economy, as their approval on that issue fell from the low 40s in June to around 30 percent more recently.</p>
-
-
-
-<p data-paragraph="main">Garnering support from independents is important because it helps a president achieve overall popularity, but support from the base is vital too — and it’s another spot where Biden is in trouble. While his job approval rating among Democrats remains very high, it has dipped from 90 percent in the early summer to the low 80s now, with signs of deteriorating support among Black and Hispanic Americans, who are <a href="https://www.pewresearch.org/politics/2020/06/02/democratic-edge-in-party-identification-narrows-slightly/" target="_blank" rel="noopener">more likely to identify as Democratic</a> than white Americans. As the chart below shows, there has been a drop in support for Biden among all three racial and ethnic groups we measured, but the drop among Hispanics — from the high 60s to slightly below 50 percent — marks Biden’s most precipitous decline.</p>
-
-
-
-<figure><img loading="lazy" width="1150" height="1062" src="https://fivethirtyeight.com/wp-content/uploads/2021/10/skelley.BIDEN-APPROVAL.1021.3.png" alt="" data-src="https://fivethirtyeight.com/wp-content/uploads/2021/10/skelley.BIDEN-APPROVAL.1021.3.png" data-srcset="https://fivethirtyeight.com/wp-content/uploads/2021/10/skelley.BIDEN-APPROVAL.1021.3.png?w=700 1x, https://fivethirtyeight.com/wp-content/uploads/2021/10/skelley.BIDEN-APPROVAL.1021.3.png?w=1400 2x"></figure><p data-paragraph="main">Recent polling suggests that Hispanic approval of Biden’s handling of the pandemic and the economy has fallen sharply. The latest poll from The Economist/YouGov found just 45 percent of Hispanics approved of Biden’s handling of the pandemic, compared with 65 percent in early June. And Politico/Morning Consult’s new survey found Hispanic approval of Biden’s handling of the economy has dropped to 42 percent, compared with 60 percent back in June. Hispanics are also frustrated with how Biden has dealt with immigration — long <a href="https://fivethirtyeight.com/features/why-bidens-handling-of-the-pandemic-polls-better-than-his-overall-approval/" target="_blank" rel="noopener">one of Biden’s weakest issues in the public’s eyes</a> — and although it isn’t <a href="https://fivethirtyeight.com/features/why-latino-voters-havent-completely-abandoned-the-gop/" target="_blank" rel="noopener">the most important issue for Hispanic voters</a>, it is often a highly salient one. Earlier this month, <a href="https://poll.qu.edu/poll-release?releaseid=3824" target="_blank" rel="noopener">Quinnipiac University found</a> that only 23 percent of Hispanic Americans approved of Biden’s work on immigration, down from 49 percent <a href="https://poll.qu.edu/poll-release?releaseid=3810" target="_blank" rel="noopener">in late May</a>. Even if that might be on the low end for Biden, the new Politico/Morning Consult survey also found him performing more poorly on the issue among Hispanic voters, as just 40 percent approved, compared with 51 percent in June.</p>
-
-
-
-<p data-paragraph="main">Biden has lost ground among almost every single demographic group over the past few months, but independents and Hispanics stick out as two key groups where Biden’s standing has especially faltered. For Democrats looking ahead to the 2022 midterms, <a href="https://fivethirtyeight.com/features/why-democrats-in-congress-need-bidens-approval-rating-to-stay-in-the-mid-50s/" target="_blank" rel="noopener">Biden’s overall approval rating is concerning enough</a>, but if Biden is struggling to win independents and Hispanics, that could snuff out any hope Democrats have of holding either chamber of Congress. After all, independents backed Democrats <a href="https://medium.com/@yghitza_48326/revisiting-what-happened-in-the-2018-election-c532feb51c0" target="_blank" rel="noopener">in the 2018 midterms</a> and <a href="https://www.pewresearch.org/politics/2021/06/30/behind-bidens-2020-victory/" target="_blank" rel="noopener">Biden last November</a>, and even though Republicans made gains with Hispanics in places like <a href="https://fivethirtyeight.com/features/why-democratic-gains-in-texass-big-metro-areas-could-outweigh-republican-success-in-south-texas/" target="_blank" rel="noopener">Texas’s Rio Grande Valley</a>, Hispanics still largely backed Biden and helped him win in key swing states, <a href="https://abcnews.go.com/Elections/arizona-exit-polls-2020-us-presidential-election-results-analysis" target="_blank" rel="noopener">like Arizona</a>. But if Republicans can capitalize on Biden’s weakness among these groups, that could be their ticket back to controlling Congress next year.</p>
-
-
-<p>Watch: https://abcnews.go.com/ThisWeek/video/buy-limiting-abortion-access-mobilize-democrats-polls-silver-80630624</p>]]></description>
-			<pubDate>Thu, 21 Oct 2021 11:00:00 +0100</pubDate>
-			<guid isPermaLink="false">1634814901862171</guid>
 		</item>
 
 	</channel>
