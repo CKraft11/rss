@@ -3,8 +3,8 @@
 		<title>Main stream | FreshRSS</title>
 		<link>http://radon</link>
 		<description>RSS feed of Main stream | FreshRSS</description>
-		<pubDate>Wed, 17 Nov 2021 15:29:06 +0000</pubDate>
-		<lastBuildDate>Wed, 17 Nov 2021 15:29:06 GMT</lastBuildDate>
+		<pubDate>Wed, 17 Nov 2021 15:59:07 +0000</pubDate>
+		<lastBuildDate>Wed, 17 Nov 2021 15:59:07 GMT</lastBuildDate>
 		<atom:link href="http://radon/i/?a=rss" rel="self" type="application/rss+xml" />
 		<item>
 			<title>We’re Looking For A Politics Intern</title>
@@ -56,7 +56,7 @@
 			<guid isPermaLink="false">1637159402121105</guid>
 		</item>
 		<item>
-			<title>Why Teachers Haven’t Joined ‘The Great Resignation’</title>
+			<title>Why There Hasn’t Been A Mass Exodus Of Teachers</title>
 			<link>https://fivethirtyeight.com/features/why-teachers-havent-joined-the-great-resignation/</link>
 						<dc:creator>Rebecca Klein</dc:creator>
 			<dc:creator>Rebecca Klein</dc:creator>
@@ -227,7 +227,7 @@
 			<guid isPermaLink="false">1637150401919035</guid>
 		</item>
 		<item>
-			<title>Facebook’s Algorithm Is Broken. We Collected Some Spicy Suggestions On How To Fix It.</title>
+			<title>Facebook’s Algorithm Is Broken. We Collected Some Suggestions On How To Fix It.</title>
 			<link>https://fivethirtyeight.com/features/facebooks-algorithm-is-broken-we-collected-some-spicy-suggestions-on-how-to-fix-it/</link>
 						<dc:creator>Kaleigh Rogers</dc:creator>
 			<dc:creator>Kaleigh Rogers</dc:creator>
