@@ -3,9 +3,58 @@
 		<title>Main stream | FreshRSS</title>
 		<link>http://radon</link>
 		<description>RSS feed of Main stream | FreshRSS</description>
-		<pubDate>Wed, 17 Nov 2021 14:29:07 +0000</pubDate>
-		<lastBuildDate>Wed, 17 Nov 2021 14:29:07 GMT</lastBuildDate>
+		<pubDate>Wed, 17 Nov 2021 14:59:06 +0000</pubDate>
+		<lastBuildDate>Wed, 17 Nov 2021 14:59:06 GMT</lastBuildDate>
 		<atom:link href="http://radon/i/?a=rss" rel="self" type="application/rss+xml" />
+		<item>
+			<title>We’re Looking For A Politics Intern</title>
+			<link>https://fivethirtyeight.com/features/were-looking-for-a-politics-intern-2/</link>
+						<dc:creator>Sarah Frostenson</dc:creator>
+			<dc:creator>Sarah Frostenson</dc:creator>
+			<category>FiveThirtyEight Internships</category>
+			<category>FiveThirtyEight Jobs</category>
+			<category>Housekeeping</category>
+			<category>Job Openings</category>
+			<description><![CDATA[<p data-paragraph="main">FiveThirtyEight is seeking an intern to join our politics team for spring 2022. We’re looking for a current student or recent graduate who has experience using data to tell stories about politics — ranging from how Americans feel about an important political issue to unpacking big political and electoral trends.</p>
+
+
+
+<p data-paragraph="main">The intern’s main role will be to report and write stories, but the internship will also involve working closely with the politics team and other parts of the newsroom on a number of collaborative projects. See FiveThirtyEight’s <a href="https://fivethirtyeight.com/audio-features/when-women-run/" target="_blank" rel="noopener">“When Women Run” project</a> or our <a href="https://fivethirtyeight.com/features/police-misconduct-costs-cities-millions-every-year-but-thats-where-the-accountability-ends/" target="_blank" rel="noopener">deep dive into police misconduct and settlements</a> for examples of big, cross-newsroom projects that interns have contributed to.</p>
+
+
+
+<p data-paragraph="main">The ideal candidate will have journalism experience and a background in data analysis in addition to some experience covering or analyzing American politics (whether from a journalism class, school paper, job or internship). But “politics” doesn’t just mean electoral politics. It could mean you have experience reporting on policy issues, social movements, polarization in your community or something else. Interpret it broadly because we will too!</p>
+
+
+
+<p data-paragraph="main">The Politics Intern will report to the Politics Editor, but as a small newsroom, we’re looking for someone eager to collaborate with colleagues across the newsroom. The Politics Intern is a U.S.-based remote position. Applicants should be able to commit to a full-time schedule from January until May and must be a current student or have graduated in the past 18 months. Apply with a cover letter and resume at the <a href="https://jobs.disneycareers.com/job/united-states/politics-data-reporting-internship-fivethirtyeight-spring-2022-remote/391/19822982" target="_blank" rel="noopener">Disney jobs portal</a>.</p>
+
+
+
+<h2><strong>Responsibilities</strong></h2>
+
+
+
+<ul><li>Pitch, report and write stories on American politics.</li><li>Conduct original data analysis for stories and bigger features and projects.</li><li>Collaborate with other reporters and teams across the newsroom, including our visual journalists, video journalists and copy desk.</li></ul>
+
+
+
+<h2><strong>Basic Qualifications</strong></h2>
+
+
+
+<ul><li>Journalism experience, whether from a class, working at a student publication or through a job or internship.</li><li>Experience analyzing data — again, experience from a class, student publication or previous job or internship is absolutely fine!</li><li>Some experience reporting on politics.</li><li>Knowledge of FiveThirtyEight and the kinds of journalism we create.</li></ul>
+
+
+
+<h2><strong>Preferred Qualifications</strong></h2>
+
+
+
+<ul><li>A background in statistics or experience working with R.</li></ul>]]></description>
+			<pubDate>Wed, 17 Nov 2021 13:37:00 +0000</pubDate>
+			<guid isPermaLink="false">1637159402121105</guid>
+		</item>
 		<item>
 			<title>Why Teachers Haven’t Joined ‘The Great Resignation’</title>
 			<link>https://fivethirtyeight.com/features/why-teachers-havent-joined-the-great-resignation/</link>
@@ -4770,25 +4819,6 @@
 <ul><li>Journalism experience or a robust understanding of the editorial process. If your experience was working with databases in a newsroom (or similar environment) or as a copy editor or fact-checker, that’s even better, as having meticulous attention to detail is key.</li><li>Experience reviewing and evaluating academic papers to identify and correct methodological flaws.</li><li>A solid understanding of U.S. politics, particularly electoral politics, and/or U.S. sports and sports statistics.</li><li>A robust understanding of statistical models, such as those used to forecast sports or election results.</li><li>Experience collaborating with developers on large statistical programming projects.</li></ul>]]></description>
 			<pubDate>Tue, 02 Nov 2021 19:17:00 +0000</pubDate>
 			<guid isPermaLink="false">1635881401790718</guid>
-		</item>
-		<item>
-			<title>What Went Down During The 2021 Elections</title>
-			<link>https://fivethirtyeight.com/live-blog/2021-elections-live-updates-and-results/</link>
-						<dc:creator>FiveThirtyEight</dc:creator>
-			<dc:creator>FiveThirtyEight</dc:creator>
-			<category>2021 Elections</category>
-			<category>2021 Governors Elections</category>
-			<category>Election Administration</category>
-			<category>Election Results</category>
-			<category>Glenn Youngkin</category>
-			<category>New Jersey Governor</category>
-			<category>Polling</category>
-			<category>Polls</category>
-			<category>Terry McAuliffe</category>
-			<category>Virginia Governor</category>
-			<description><![CDATA[]]></description>
-			<pubDate>Tue, 02 Nov 2021 14:00:00 +0000</pubDate>
-			<guid isPermaLink="false">1635863401538716</guid>
 		</item>
 
 	</channel>
