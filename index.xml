@@ -3,9 +3,206 @@
 		<title>Main stream | FreshRSS</title>
 		<link>http://radon</link>
 		<description>RSS feed of Main stream | FreshRSS</description>
-		<pubDate>Tue, 30 Nov 2021 10:59:07 +0000</pubDate>
-		<lastBuildDate>Tue, 30 Nov 2021 10:59:07 GMT</lastBuildDate>
+		<pubDate>Tue, 30 Nov 2021 11:29:07 +0000</pubDate>
+		<lastBuildDate>Tue, 30 Nov 2021 11:29:07 GMT</lastBuildDate>
 		<atom:link href="http://radon/i/?a=rss" rel="self" type="application/rss+xml" />
+		<item>
+			<title>Which House Republicans Who Voted For Biden’s Infrastructure Bill Could Face Serious Primary Challengers?</title>
+			<link>https://fivethirtyeight.com/features/which-house-republicans-who-voted-for-bidens-infrastructure-bill-could-face-serious-primary-challengers/</link>
+						<dc:creator>Geoffrey Skelley</dc:creator>
+			<dc:creator>Geoffrey Skelley</dc:creator>
+			<category>2022 Election</category>
+			<category>Donald Trump</category>
+			<category>Impeachment</category>
+			<category>Infrastructure</category>
+			<category>Primary Challenges</category>
+			<description><![CDATA[<p data-paragraph="main">In today’s hyperpartisan political climate, members of Congress risk losing support when they deviate from their party’s position on important votes. In fact, over the past year, we’ve already seen this play out twice for Republicans in the House of Representatives.</p>
+
+
+
+<p data-paragraph="main">First, 10 House Republicans <a href="https://fivethirtyeight.com/features/9-of-the-10-house-republicans-who-voted-for-impeachment-already-have-primary-challengers/" target="_blank" rel="noopener">infuriated their colleagues and the party’s base</a> by voting to impeach outgoing President Trump after his incitement of the Jan. 6 insurrection. Then in early November, 13 House Republicans voted for a <a href="https://www.washingtonpost.com/us-policy/2021/11/05/house-infrastructure-reconciliation-vote/" target="_blank" rel="noopener">$1.2 trillion infrastructure bill</a> put forward by Democrats. They have faced <a href="https://www.washingtonpost.com/politics/2021/11/06/fix-gop-infrastructure-defections/" target="_blank" rel="noopener">fiery denunciations from within the GOP</a> for backing it, with many Republicans accusing the representatives of helping President Biden and Democrats move their agenda forward.</p>
+
+
+
+<p data-paragraph="main">The repercussions for crossing party lines have been swift. In the case of the 10 Republicans who voted for impeachment, all attracted <a href="https://fivethirtyeight.com/features/how-many-house-republicans-who-voted-to-impeach-trump-will-survive-the-midterms/" target="_blank" rel="noopener">at least one intraparty challenger</a> — of these challengers, Trump has endorsed five — and two even called it quits, knowing they’d struggle to win reelection. The fallout for the 13 Republicans who backed the infrastructure bill hasn’t been as widespread, but already two of the nine who voted for the infrastructure bill alone <a href="https://abcnews.go.com/Politics/gop-house-members-voted-infrastructure-paying-political-price/story?id=81114299" target="_blank" rel="noopener">have attracted notable primary opponents</a>. And it’s possible that more primary opposition could emerge in the coming weeks, as many on the right <a href="https://www.washingtonpost.com/politics/greene-boebert-gosar-gaetz/2021/11/20/c77dc78a-47dd-11ec-973c-be864f938c72_story.html" target="_blank" rel="noopener">have called for the ouster of the pro-infrastructure House Republicans</a>, <a href="https://www.foxnews.com/politics/trump-primary-battles-against-rinos-infrastructure-bill" target="_blank" rel="noopener">including Trump himself</a>.</p>
+
+
+
+<p data-paragraph="main">At this point, though, it’s mostly the four Republicans who also voted to impeach Trump who face serious primary challenges. To be sure, five Republicans who voted for just the infrastructure bill do face a primary challenger, but only two of them are serious by our count.</p>
+
+
+<div>
+<section>
+ <header>
+ <h5>Pro-infrastructure Republicans could face primary trouble</h5>
+ <p>The 13 House Republicans who voted for the bipartisan infrastructure bill, including whether they also voted to impeach former President Trump, have attracted a primary challenger and, if so, whether Trump has endorsed</p>
+ </header>
+ <table data-carpenter-slug="skelley.gop-challengers.7">
+ <thead>
+ <tr>
+ <th colspan="3"></th>
+ <th colspan="2">2022 situation</th>
+ </tr>
+ <tr>
+ <th colspan="1">Representative</th>
+ <th colspan="1">Current District</th>
+ <th colspan="1">Voted to impeach Trump</th>
+ <th colspan="1">Primary opponent</th>
+ <th colspan="1">Trump- endorsed primary opp.</th>
+ </tr>
+ </thead>
+ <tbody>
+ <tr>
+ <td>Anthony Gonzalez*</td>
+ <td>OH-16</td>
+ <td><span>✓</span></td>
+ <td><span>✓</span></td>
+ <td><span>✓</span></td>
+ </tr>
+ <tr>
+ <td>John Katko</td>
+ <td>NY-24</td>
+ <td><span>✓</span></td>
+ <td><span>✓</span></td>
+ <td></td>
+ </tr>
+ <tr>
+ <td>Adam Kinzinger*</td>
+ <td>IL-16</td>
+ <td><span>✓</span></td>
+ <td><span>✓</span></td>
+ <td></td>
+ </tr>
+ <tr>
+ <td>Fred Upton</td>
+ <td>MI-06</td>
+ <td><span>✓</span></td>
+ <td><span>✓</span></td>
+ <td><span>✓</span></td>
+ </tr>
+ <tr>
+ <td>Brian Fitzpatrick</td>
+ <td>PA-01</td>
+ <td></td>
+ <td><span>✓</span></td>
+ <td></td>
+ </tr>
+ <tr>
+ <td>David McKinley†</td>
+ <td>WV-01</td>
+ <td></td>
+ <td><span>✓</span></td>
+ <td><span>✓</span></td>
+ </tr>
+ <tr>
+ <td>Chris Smith</td>
+ <td>NJ-04</td>
+ <td></td>
+ <td><span>✓</span></td>
+ <td></td>
+ </tr>
+ <tr>
+ <td>Jeff Van Drew</td>
+ <td>NJ-02</td>
+ <td></td>
+ <td><span>✓</span></td>
+ <td></td>
+ </tr>
+ <tr>
+ <td>Don Young</td>
+ <td>AK-AL</td>
+ <td></td>
+ <td><span>✓</span></td>
+ <td></td>
+ </tr>
+ <tr>
+ <td>Don Bacon</td>
+ <td>NE-02</td>
+ <td></td>
+ <td></td>
+ <td></td>
+ </tr>
+ <tr>
+ <td>Andrew Garbarino</td>
+ <td>NY-02</td>
+ <td></td>
+ <td></td>
+ <td></td>
+ </tr>
+ <tr>
+ <td>Nicole Malliotakis</td>
+ <td>NY-11</td>
+ <td></td>
+ <td></td>
+ <td></td>
+ </tr>
+ <tr>
+ <td>Tom Reed*</td>
+ <td>NY-23</td>
+ <td></td>
+ <td></td>
+ <td></td>
+ </tr>
+ </tbody>
+ </table>
+ <footer>
+ <p>*Announced they are retiring. Primary opponents and/or Trump-endorsed primary opponents for retiring members are based on whether they had challengers before they announced their retirement.</p>
+ <p>†McKinley faces fellow Republican Rep. Alex Mooney in a member-versus-member primary after the two were drawn into the same district on West Virginia’s new congressional map.</p>
+ <p>Sources: Federal Election Commission, News reports</p>
+ </footer>
+</section>
+</div>
+
+
+<p data-paragraph="main">Much of the opposition to the four who backed impeachment long predated the infrastructure vote, too. The principal primary challengers to Reps. Anthony Gonzalez of Ohio and Adam Kinzinger of Illinois <a href="https://www.chicagotribune.com/politics/ct-catalina-lauf-challenge-kinzinger-congress-16th-district-20210224-rohj5knnhvfknnxxdjslqzzkny-story.html" target="_blank" rel="noopener">announced their campaigns in February 2021</a>, and <a href="https://www.nytimes.com/2021/09/16/us/politics/anthony-gonzalez-ohio-trump.html" target="_blank" rel="noopener">Gonzalez</a> and <a href="https://www.npr.org/2021/10/29/1050454729/gop-rep-adam-kinzinger-who-voted-to-impeach-trump-wont-run-for-reelection" target="_blank" rel="noopener">Kinzinger announced</a> their retirements in mid-September and late October, respectively — before the infrastructure vote. Meanwhile, Reps. Fred Upton of Michigan and John Katko of New York are still seeking reelection, but their primary challengers announced <a href="https://www.sturgisjournal.com/story/news/2021/04/08/steve-carra-announces-2022-bid-district-6-congressional-seat/7141372002/" target="_blank" rel="noopener">in the spring</a> and <a href="https://auburnpub.com/news/local/govt-and-politics/rep-john-katko-gets-gop-primary-challenger/article_51667a90-228b-5604-89f1-d2759b84e642.html" target="_blank" rel="noopener">summer</a>.</p>
+
+
+
+<p data-paragraph="main">Of the nine Republicans who voted for the infrastructure bill but not impeachment, most have avoided high-profile intraparty challengers. One of them — New York Rep. Tom Reed — actually decided to retire earlier this year after <a href="https://www.washingtonpost.com/investigations/tom-reed-lobbyist-nicolette-davis/2021/03/19/10717562-84f3-11eb-8a67-f314e5fcf88d_story.html" target="_blank" rel="noopener">allegations of sexual misconduct</a>, and of the remaining eight, only two have more than nominal primary opposition at this point.</p>
+
+
+
+<p data-paragraph="main">But of that pair, West Virginia Rep. David McKinley is probably the most endangered because he now faces a <a href="https://apnews.com/article/wv-state-wire-west-virginia-charleston-redistricting-david-mckinley-8223ba3a5f15351c98d1dcc8e7098dfb" target="_blank" rel="noopener">primary battle</a> against fellow GOP Rep. Alex Mooney.<a data-footnote-id="1" href="https://fivethirtyeight.com/wp-json/wp/v2/espn_verticals/398#fn-1" data-footnote-content='&lt;p&gt;&lt;p&gt;McKinley does have at least one other minor primary challenger &lt;a href="https://www.fec.gov/data/committee/C00775155/?cycle=2022&amp;amp;tab=filings" target="_blank" rel="noopener"&gt;who filed back in April&lt;/a&gt;, but the primary will mainly be a contest between McKinley and Mooney.&lt;/p&gt;
+&lt;/p&gt;'><sup>1</sup></a> <a href="https://projects.fivethirtyeight.com/redistricting-2022-maps/west-virginia/" target="_blank" rel="noopener">West Virginia lost a congressional district</a> in the <a href="https://fivethirtyeight.com/features/which-states-won-and-lost-seats-in-the-2020-census/" target="_blank" rel="noopener">once-in-a-decade redistricting process</a>, which means McKinley and Mooney will now face off against each other in a district that merges most of their previous districts, and troublingly for McKinley in a state that <a href="https://uselectionatlas.org/RESULTS/state.php?year=2020&amp;fips=54&amp;f=0&amp;off=0&amp;elect=0" target="_blank" rel="noopener">voted for Trump by 39 percentage points</a>, Mooney has earned <a href="https://www.politico.com/news/2021/11/15/trump-west-virginia-mooney-mckinley-522608" target="_blank" rel="noopener">Trump’s backing</a>. </p>
+
+
+
+<p data-paragraph="main">It’s likely the infrastructure vote played a part in the timing of Trump’s endorsement, too. The former president announced he’d back Mooney just two days after he <a href="https://www.foxnews.com/politics/trump-primary-battles-against-rinos-infrastructure-bill" target="_blank" rel="noopener">released a statement</a> encouraging “America First Republican Patriots” to run against the Republicans who voted for the infrastructure deal. McKinley’s vote may have been the final straw for the former president, who praised Mooney’s vote against the infrastructure bill in his endorsement.</p>
+
+
+
+<p data-paragraph="main">It’s not yet clear how much Alaska Rep. Don Young’s infrastructure vote will be a problem for him as his most notable challenger launched <a href="https://www.adn.com/politics/2021/10/28/in-wasilla-nick-begich-iii-officially-launches-campaign-for-don-youngs-us-house-seat/" target="_blank" rel="noopener">his campaign</a> before the infrastructure vote, but Young, the House’s longest-serving current member, might finally have a serious challenger in Nick Begich III.</p>
+
+
+
+<p data-paragraph="main">Begich is the grandson of the man Young replaced in 1973, Democratic Rep. Nick Begich, <a href="https://www.adn.com/nation-world/2019/09/18/plane-carrying-cokie-roberts-father-disappeared-in-alaska-in-1972-it-was-never-found/" target="_blank" rel="noopener">who disappeared in a plane while campaigning</a> just before the 1972 election. Unlike his grandfather and <a href="https://www.adn.com/politics/2021/10/22/nick-begich-republican-son-of-alaskas-leading-democratic-family-will-run-for-us-house/" target="_blank" rel="noopener">much of his family</a>, however, the younger Begich is a Republican. So far, he’s centered his campaign against the 88-year-old Young around a message of generational change. </p>
+
+
+
+<p data-paragraph="main">Notably, too, Begich <a href="https://clubforgrowthfoundation.org/fellow/nicholas-begich-iii/" target="_blank" rel="noopener">is a fellow</a> at the Club for Growth Foundation. That might matter because the limited-government-oriented Club for Growth <a href="https://www.clubforgrowth.org/scorecards/legislator/Y000033/Don-Young/" target="_blank" rel="noopener">has never rated Young highly</a> and <a href="https://www.politico.com/blogs/politico-now/2008/06/club-for-growth-endorses-challenger-to-young-009501" target="_blank" rel="noopener">has previously endorsed at least one of his past primary challengers</a>. The Club’s <a href="https://www.factcheck.org/2020/01/club-for-growth-action-5/" target="_blank" rel="noopener">campaign arm often spends large sums</a> on behalf of its endorsed candidates, too, although it has not yet offered a 2022 Alaska endorsement. But even if the Club for Growth doesn’t endorse Begich, Alaska’s new <a href="https://fivethirtyeight.com/features/changing-how-primaries-work-probably-wont-make-politics-less-divisive/" target="_blank" rel="noopener">nonpartisan top-four primary</a> means Begich could still advance, as his challenge won’t happen in the confines of a traditional party primary. Instead, they’ll be competing in a primary where candidates from all parties are running together on the same ballot, so <em>both</em> Young and Begich could advance to the general election if they finish among the top-four vote-getters.</p>
+
+
+
+<p data-paragraph="main">As for the other six House Republicans who backed only the infrastructure bill and are set to run again in 2022, it’s possible that they may not attract serious primary opposition. After all, voting for infrastructure funding is not as politically risky as voting to impeach a president from one’s own party. Plus, all 13 Republicans who backed the infrastructure bill <a href="https://voteview.com/congress/house/-1/text" target="_blank" rel="noopener">rank as fairly moderate</a>, so a vote for infrastructure wasn’t exactly a departure from their past voting behavior, especially as most of them represent districts in or around major metropolitan areas that <a href="https://www.foxnews.com/media/rep-malliotakis-the-1-2-infrastructure-bill-is-incredibly-important-for-aging-cities-like-new-york" target="_blank" rel="noopener">need infrastructure dollars</a>. </p>
+
+
+
+<p data-paragraph="main">These Republicans’ infrastructure votes might rankle some Republicans, but that may be a feature, not a bug, because many of these members also represent (potentially) competitive turf where winning over swing voters helps ensure victory. As Nebraska Rep. Don Bacon <a href="https://www.axios.com/house-republicans-votes-infrastructure-biden-9d3ea43c-835e-4a85-a3d8-6071287b9688.html" target="_blank" rel="noopener">told Axios</a>, “You vote one way, maybe it hurts in the primary. You vote the other way … in my district, it’d hurt me in the general.”</p>
+
+
+
+<p data-paragraph="main">Additionally, Reps. Jeff Van Drew of New Jersey, Nicole Malliotakis of New York and Brian Fitzpatrick of Pennsylvania might avoid a major primary challenge because Trump hasn’t targeted them in the same way as other pro-infrastructure House Republicans. In his Nov. 13 statement <a href="https://twitter.com/EricMGarcia/status/1459673729584312320?s=20" target="_blank" rel="noopener">listing off House Republicans he felt should be taken down</a>, Trump notably left off their names. Trump also recently said that, despite her vote, <a href="https://nypost.com/2021/11/21/rep-nicole-malliotakis-still-backed-by-trump-after-infrastructure-vote/" target="_blank" rel="noopener">he still supports Malliotakis</a>, whose district includes Staten Island, where Trump still holds a strong appeal. And Van Drew <a href="https://www.politico.com/news/2019/12/19/trump-meet-party-switching-van-drew-087976" target="_blank" rel="noopener">famously switched parties</a> in December 2019 after opposing Trump’s impeachment, which may well have been why Trump didn’t mention him.</p>
+
+
+
+<p data-paragraph="main">On the other hand, the <a href="https://www.nytimes.com/2021/11/10/us/politics/republicans-backlash-infrastructure-bill.html" target="_blank" rel="noopener">fury directed</a> at these relatively moderate, pro-infracture Republicans might still yield a few serious, Trump-minded challenges from the right. After all, political scientists <a href="http://www.cfinst.org/pdf/papers/Boatright_2014_Primaries_in_Context_9-30-14.pdf" target="_blank" rel="noopener">have observed an increase in ideologically based primary challenges</a> in recent years. To be clear, those efforts have mostly been unsuccessful — <a href="https://www.brookings.edu/wp-content/uploads/2019/03/2-7-Full.pdf" target="_blank" rel="noopener">few House incumbents lose renomination</a> — but the infrastructure vote could provide an impetus for a primary opponent. It’s also been less than a month since the infrastructure vote, so prospective candidates looking to answer the call for primary challengers may still be ramping up their campaigns. The <a href="https://www.dailykos.com/stories/2021/11/11/2062095/-Daily-Kos-Elections-2022-primary-calendar" target="_blank" rel="noopener">candidate filing deadline</a> hasn’t passed in a single state where a Republican backed the infrastructure bill; most aren’t until March 2022 at the earliest. Moreover, states like New Jersey, New York and Pennsylvania <a href="https://projects.fivethirtyeight.com/redistricting-2022-maps/" target="_blank" rel="noopener">have yet to finish redistricting</a>, so there might still be big changes in store for these incumbents that <a href="https://c62a1cd8-e60b-4682-b2c5-a937642d5637.filesusr.com/ugd/7d6421_47efef1c597a49baa040b1f1c80b5461.pdf" target="_blank" rel="noopener">make them more vulnerable in a primary</a>.</p>
+
+
+
+<p data-paragraph="main">Right now, though, it doesn’t appear that the House Republicans who voted for infrastructure but not impeachment will face the same degree of primary opposition as those who voted to impeach Trump. However, that doesn’t mean we won’t see the emergence of a few more serious primary challengers who cite the infrastructure vote as a key motivation for getting into a race. We’ll be watching to see if the infrastructure vote joins impeachment as a major factor in determining which incumbents face the gloomiest primary prospects in 2022.</p>]]></description>
+			<pubDate>Tue, 30 Nov 2021 11:00:00 +0000</pubDate>
+			<guid isPermaLink="false">1638270902004183</guid>
+		</item>
 		<item>
 			<title>Politics Podcast: About Those 2024 Polls …</title>
 			<link>https://fivethirtyeight.com/features/politics-podcast-about-those-2024-polls/</link>
@@ -157,8 +354,8 @@
 
 
 
-<p data-paragraph="main">Republicans and right-wing media have taken advantage of Rittenhouse’s darling status among both the mainstream and far right. Fox News already has a widely promoted one-on-one interview with Rittenhouse set to air during “Tucker Carlson Tonight” on Monday.<a data-footnote-id="1" href="https://fivethirtyeight.com/wp-json/wp/v2/espn_verticals/398#fn-1" data-footnote-content='&lt;p&gt;&lt;p&gt;An early &lt;a href="https://www.foxnews.com/media/kyle-rittenhouse-tucker-carlson-first-interview-after-acquittal" target="_blank" rel="noopener"&gt;clip of this interview&lt;/a&gt;, in which Rittenhouse says “I support the BLM movement,” caused some consternation among the far right, which largely opposes the movement, with some going so far as to call it a &lt;a href="https://www.economist.com/open-future/2018/08/09/black-lives-matter-is-not-a-terrorist-organisation" target="_blank" rel="noopener"&gt;terrorist organization&lt;/a&gt;.&lt;/p&gt;
-&lt;/p&gt;'><sup>1</sup></a> Fox News also published a story Saturday suggesting Rittenhouse could have a <a href="https://www.foxnews.com/us/rittenhouse-defamation-biden-tweet" data-type="URL" data-id="https://www.foxnews.com/us/rittenhouse-defamation-biden-tweet" target="_blank" rel="noopener">defamation case</a> against President Biden. Meanwhile, Republican politicians have praised the verdict and Rittenhouse. Former President Donald Trump <a href="https://www.youtube.com/watch?v=b0lReIesfZE" target="_blank" rel="noopener">called into Fox News Friday evening</a> to say he thought that Rittenhouse was “brave” for testifying and that the verdict was a “great decision”; Trump also asserted that the case was baseless to begin with — a common refrain on the far right. Republican Reps. Matt Gaetz, Paul Gosar, and Madison Cawthorn all seemed to <a href="https://www.rollingstone.com/politics/politics-news/republicans-celebrate-rittenhouse-verdict-1260353/" target="_blank" rel="noopener">offer Rittenhouse internships</a>. (No word on whether they’re paid or unpaid.) Sen. Ron Johnson of Wisconsin, the state where the shootings took place, <a href="https://twitter.com/SenRonJohnson/status/1461766292080316427?ref_src=twsrc%5Etfw%7Ctwcamp%5Etweetembed%7Ctwterm%5E1461766292080316427%7Ctwgr%5E%7Ctwcon%5Es1_&amp;ref_url=https%3A%2F%2Fwww.rollingstone.com%2Fpolitics%2Fpolitics-news%2Frepublicans-celebrate-rittenhouse-verdict-1260353%2F" target="_blank" rel="noopener">tweeted that justice had been served</a>, and Rep. Thomas Massie of Kentucky <a href="https://twitter.com/RepThomasMassie/status/1461763089876017152?ref_src=twsrc%5Etfw%7Ctwcamp%5Etweetembed%7Ctwterm%5E1461763089876017152%7Ctwgr%5E%7Ctwcon%5Es1_&amp;ref_url=https%3A%2F%2Fwww.rollingstone.com%2Fpolitics%2Fpolitics-news%2Frepublicans-celebrate-rittenhouse-verdict-1260353%2F" target="_blank" rel="noopener">tweeted a video of the verdict</a> being read with the caption: “There is hope for this country.”</p>
+<p data-paragraph="main">Republicans and right-wing media have taken advantage of Rittenhouse’s darling status among both the mainstream and far right. Fox News already has a widely promoted one-on-one interview with Rittenhouse set to air during “Tucker Carlson Tonight” on Monday.<a data-footnote-id="2" href="https://fivethirtyeight.com/wp-json/wp/v2/espn_verticals/398#fn-2" data-footnote-content='&lt;p&gt;&lt;p&gt;An early &lt;a href="https://www.foxnews.com/media/kyle-rittenhouse-tucker-carlson-first-interview-after-acquittal" target="_blank" rel="noopener"&gt;clip of this interview&lt;/a&gt;, in which Rittenhouse says “I support the BLM movement,” caused some consternation among the far right, which largely opposes the movement, with some going so far as to call it a &lt;a href="https://www.economist.com/open-future/2018/08/09/black-lives-matter-is-not-a-terrorist-organisation" target="_blank" rel="noopener"&gt;terrorist organization&lt;/a&gt;.&lt;/p&gt;
+&lt;/p&gt;'><sup>2</sup></a> Fox News also published a story Saturday suggesting Rittenhouse could have a <a href="https://www.foxnews.com/us/rittenhouse-defamation-biden-tweet" data-type="URL" data-id="https://www.foxnews.com/us/rittenhouse-defamation-biden-tweet" target="_blank" rel="noopener">defamation case</a> against President Biden. Meanwhile, Republican politicians have praised the verdict and Rittenhouse. Former President Donald Trump <a href="https://www.youtube.com/watch?v=b0lReIesfZE" target="_blank" rel="noopener">called into Fox News Friday evening</a> to say he thought that Rittenhouse was “brave” for testifying and that the verdict was a “great decision”; Trump also asserted that the case was baseless to begin with — a common refrain on the far right. Republican Reps. Matt Gaetz, Paul Gosar, and Madison Cawthorn all seemed to <a href="https://www.rollingstone.com/politics/politics-news/republicans-celebrate-rittenhouse-verdict-1260353/" target="_blank" rel="noopener">offer Rittenhouse internships</a>. (No word on whether they’re paid or unpaid.) Sen. Ron Johnson of Wisconsin, the state where the shootings took place, <a href="https://twitter.com/SenRonJohnson/status/1461766292080316427?ref_src=twsrc%5Etfw%7Ctwcamp%5Etweetembed%7Ctwterm%5E1461766292080316427%7Ctwgr%5E%7Ctwcon%5Es1_&amp;ref_url=https%3A%2F%2Fwww.rollingstone.com%2Fpolitics%2Fpolitics-news%2Frepublicans-celebrate-rittenhouse-verdict-1260353%2F" target="_blank" rel="noopener">tweeted that justice had been served</a>, and Rep. Thomas Massie of Kentucky <a href="https://twitter.com/RepThomasMassie/status/1461763089876017152?ref_src=twsrc%5Etfw%7Ctwcamp%5Etweetembed%7Ctwterm%5E1461763089876017152%7Ctwgr%5E%7Ctwcon%5Es1_&amp;ref_url=https%3A%2F%2Fwww.rollingstone.com%2Fpolitics%2Fpolitics-news%2Frepublicans-celebrate-rittenhouse-verdict-1260353%2F" target="_blank" rel="noopener">tweeted a video of the verdict</a> being read with the caption: “There is hope for this country.”</p>
 
 
 
@@ -268,8 +465,8 @@
 
 
 
-<p data-paragraph="main">In seeking to explain the result, <a href="https://www.washingtonpost.com/opinions/ocasio-cortez-just-did-democrats-a-big-favor/2018/06/27/dafdc498-7a4c-11e8-aeee-4d04c8ac6158_story.html" target="_blank" rel="noopener">commentators</a> at the time <a href="https://slate.com/news-and-politics/2018/07/midterms-alexandria-ocasio-cortez-won-in-part-because-of-demographics-and-thats-a-good-thing.html" target="_blank" rel="noopener">pointed to</a> the district’s changing demographics: Ocasio-Cortez, like 47 percent of the 14th District’s voting-age population, is Hispanic, while Crowley, like only 23 percent of the district’s VAP, is non-Hispanic white.<a data-footnote-id="2" href="https://fivethirtyeight.com/wp-json/wp/v2/espn_verticals/398#fn-2" data-footnote-content="&lt;p&gt;&lt;p&gt;All demographic data in this article is from the 2020 census.&lt;/p&gt;
-&lt;/p&gt;"><sup>2</sup></a> However, this explanation doesn’t tell the whole story as Ocasio-Cortez performed well in both white and Hispanic corners of the district. According to <a href="https://www.dataforprogress.org/who-we-are" target="_blank" rel="noopener">Sean McElwee</a>, the co-founder and executive director of Data for Progress, Ocasio-Cortez “benefited from a situation where very highly engaged liberal people were the big constituency that were turning out.”</p>
+<p data-paragraph="main">In seeking to explain the result, <a href="https://www.washingtonpost.com/opinions/ocasio-cortez-just-did-democrats-a-big-favor/2018/06/27/dafdc498-7a4c-11e8-aeee-4d04c8ac6158_story.html" target="_blank" rel="noopener">commentators</a> at the time <a href="https://slate.com/news-and-politics/2018/07/midterms-alexandria-ocasio-cortez-won-in-part-because-of-demographics-and-thats-a-good-thing.html" target="_blank" rel="noopener">pointed to</a> the district’s changing demographics: Ocasio-Cortez, like 47 percent of the 14th District’s voting-age population, is Hispanic, while Crowley, like only 23 percent of the district’s VAP, is non-Hispanic white.<a data-footnote-id="3" href="https://fivethirtyeight.com/wp-json/wp/v2/espn_verticals/398#fn-3" data-footnote-content="&lt;p&gt;&lt;p&gt;All demographic data in this article is from the 2020 census.&lt;/p&gt;
+&lt;/p&gt;"><sup>3</sup></a> However, this explanation doesn’t tell the whole story as Ocasio-Cortez performed well in both white and Hispanic corners of the district. According to <a href="https://www.dataforprogress.org/who-we-are" target="_blank" rel="noopener">Sean McElwee</a>, the co-founder and executive director of Data for Progress, Ocasio-Cortez “benefited from a situation where very highly engaged liberal people were the big constituency that were turning out.”</p>
 
 
 
@@ -281,8 +478,8 @@
 
 
 
-<p data-paragraph="main">A few weeks after Ocasio-Cortez, the second member of the Squad eked out a win in her primary. On Aug. 7, 2018, former state Rep. Rashida Tlaib edged out Detroit City Council President Brenda Jones, another woman of color, in the regularly scheduled Democratic primary for Michigan’s open 13th District, 31 percent to 30 percent.<a data-footnote-id="3" href="https://fivethirtyeight.com/wp-json/wp/v2/espn_verticals/398#fn-3" data-footnote-content="&lt;p&gt;&lt;p&gt;There was also a concurrent special election to fill the remainder of Rep. John Conyers’s term, and Jones actually won that primary 38 percent to 36 percent.&lt;/p&gt;
-&lt;/p&gt;"><sup>3</sup></a> </p>
+<p data-paragraph="main">A few weeks after Ocasio-Cortez, the second member of the Squad eked out a win in her primary. On Aug. 7, 2018, former state Rep. Rashida Tlaib edged out Detroit City Council President Brenda Jones, another woman of color, in the regularly scheduled Democratic primary for Michigan’s open 13th District, 31 percent to 30 percent.<a data-footnote-id="4" href="https://fivethirtyeight.com/wp-json/wp/v2/espn_verticals/398#fn-4" data-footnote-content="&lt;p&gt;&lt;p&gt;There was also a concurrent special election to fill the remainder of Rep. John Conyers’s term, and Jones actually won that primary 38 percent to 36 percent.&lt;/p&gt;
+&lt;/p&gt;"><sup>4</sup></a> </p>
 
 
 
@@ -488,8 +685,8 @@
 
 
 
-<figure><img loading="lazy" width="1150" height="920" src="https://fivethirtyeight.com/wp-content/uploads/2021/11/biden-approval-rating-2-1.png" alt="" data-src="https://fivethirtyeight.com/wp-content/uploads/2021/11/biden-approval-rating-2-1.png" data-srcset="https://fivethirtyeight.com/wp-content/uploads/2021/11/biden-approval-rating-2-1.png?w=700 1x, https://fivethirtyeight.com/wp-content/uploads/2021/11/biden-approval-rating-2-1.png?w=1400 2x"></figure><p data-paragraph="main">According to FiveThirtyEight’s <a href="https://projects.fivethirtyeight.com/biden-approval-rating/" target="_blank" rel="noopener">presidential approval tracker</a>, 42.5 percent of Americans approve of the job Biden is doing as president, while 51.6 percent disapprove (a net approval rating of -9.1 points).<a data-footnote-id="4" href="https://fivethirtyeight.com/wp-json/wp/v2/espn_verticals/398#fn-4" data-footnote-content="&lt;p&gt;&lt;p&gt;As of 5 p.m. Eastern on Thursday.&lt;/p&gt;
-&lt;/p&gt;"><sup>4</sup></a> At this time <a href="https://fivethirtyeight.com/features/most-americans-are-afraid-of-inflation/" target="_blank" rel="noopener">last week</a>, 42.5 percent approved and 51.6 percent disapproved (a net approval rating of -9.1 points). One month ago, Biden had an approval rating of 44.8 percent and a disapproval rating of 49.5 percent (a net approval rating of -4.7 points).</p>
+<figure><img loading="lazy" width="1150" height="920" src="https://fivethirtyeight.com/wp-content/uploads/2021/11/biden-approval-rating-2-1.png" alt="" data-src="https://fivethirtyeight.com/wp-content/uploads/2021/11/biden-approval-rating-2-1.png" data-srcset="https://fivethirtyeight.com/wp-content/uploads/2021/11/biden-approval-rating-2-1.png?w=700 1x, https://fivethirtyeight.com/wp-content/uploads/2021/11/biden-approval-rating-2-1.png?w=1400 2x"></figure><p data-paragraph="main">According to FiveThirtyEight’s <a href="https://projects.fivethirtyeight.com/biden-approval-rating/" target="_blank" rel="noopener">presidential approval tracker</a>, 42.5 percent of Americans approve of the job Biden is doing as president, while 51.6 percent disapprove (a net approval rating of -9.1 points).<a data-footnote-id="5" href="https://fivethirtyeight.com/wp-json/wp/v2/espn_verticals/398#fn-5" data-footnote-content="&lt;p&gt;&lt;p&gt;As of 5 p.m. Eastern on Thursday.&lt;/p&gt;
+&lt;/p&gt;"><sup>5</sup></a> At this time <a href="https://fivethirtyeight.com/features/most-americans-are-afraid-of-inflation/" target="_blank" rel="noopener">last week</a>, 42.5 percent approved and 51.6 percent disapproved (a net approval rating of -9.1 points). One month ago, Biden had an approval rating of 44.8 percent and a disapproval rating of 49.5 percent (a net approval rating of -4.7 points).</p>
 
 
 
@@ -497,8 +694,8 @@
 
 
 
-<figure><img loading="lazy" width="1150" height="920" src="https://fivethirtyeight.com/wp-content/uploads/2021/11/generic-ballot-2-1.png" alt="" data-src="https://fivethirtyeight.com/wp-content/uploads/2021/11/generic-ballot-2-1.png" data-srcset="https://fivethirtyeight.com/wp-content/uploads/2021/11/generic-ballot-2-1.png?w=700 1x, https://fivethirtyeight.com/wp-content/uploads/2021/11/generic-ballot-2-1.png?w=1400 2x"></figure><p data-paragraph="main">In our average of polls of the <a href="https://projects.fivethirtyeight.com/congress-generic-ballot-polls/" target="_blank" rel="noopener">generic congressional ballot</a>, Republicans currently lead Democrats by 0.6 percentage points (42.5 percent to 41.9 percent, respectively).<a data-footnote-id="5" href="https://fivethirtyeight.com/wp-json/wp/v2/espn_verticals/398#fn-5" data-footnote-content="&lt;p&gt;&lt;p&gt;As of 5 p.m. Eastern on Thursday.&lt;/p&gt;
-&lt;/p&gt;"><sup>5</sup></a> A week ago, Democrats led Republicans by 1.3 percentage points (42.5 percent to 41.2 percent, respectively). At this time last month, voters preferred Democrats over Republicans by 2.8 points (44.3 percent to 41.5 percent).</p>]]></description>
+<figure><img loading="lazy" width="1150" height="920" src="https://fivethirtyeight.com/wp-content/uploads/2021/11/generic-ballot-2-1.png" alt="" data-src="https://fivethirtyeight.com/wp-content/uploads/2021/11/generic-ballot-2-1.png" data-srcset="https://fivethirtyeight.com/wp-content/uploads/2021/11/generic-ballot-2-1.png?w=700 1x, https://fivethirtyeight.com/wp-content/uploads/2021/11/generic-ballot-2-1.png?w=1400 2x"></figure><p data-paragraph="main">In our average of polls of the <a href="https://projects.fivethirtyeight.com/congress-generic-ballot-polls/" target="_blank" rel="noopener">generic congressional ballot</a>, Republicans currently lead Democrats by 0.6 percentage points (42.5 percent to 41.9 percent, respectively).<a data-footnote-id="6" href="https://fivethirtyeight.com/wp-json/wp/v2/espn_verticals/398#fn-6" data-footnote-content="&lt;p&gt;&lt;p&gt;As of 5 p.m. Eastern on Thursday.&lt;/p&gt;
+&lt;/p&gt;"><sup>6</sup></a> A week ago, Democrats led Republicans by 1.3 percentage points (42.5 percent to 41.2 percent, respectively). At this time last month, voters preferred Democrats over Republicans by 2.8 points (44.3 percent to 41.5 percent).</p>]]></description>
 			<pubDate>Fri, 19 Nov 2021 11:00:00 +0000</pubDate>
 			<guid isPermaLink="false">1637321401825799</guid>
 		</item>
@@ -609,8 +806,8 @@
 
 
 
-<p data-paragraph="main">Numerous scholars from both inside and outside of academia have studied how policy decisions over the previous several decades created these conditions. In one early study conducted in the 1980s, for instance, the U.S. Government Accountability Office<a data-footnote-id="6" href="https://fivethirtyeight.com/wp-json/wp/v2/espn_verticals/398#fn-6" data-footnote-content="&lt;p&gt;&lt;p&gt;Then known as the General Accounting Office.&lt;/p&gt;
-&lt;/p&gt;"><sup>6</sup></a> found that <a href="https://www.gao.gov/products/rced-83-168" target="_blank" rel="noopener">a disproportionate number of waste sites</a> were placed in African American communities in the South. A few years later, <a href="https://www.nrc.gov/docs/ML1310/ML13109A339.pdf" target="_blank" rel="noopener">another study</a> built on the GAO results and found that the percentage of racial and ethnic minorities in a community was a large predictor of where commercial hazardous waste facilities were placed around the country. </p>
+<p data-paragraph="main">Numerous scholars from both inside and outside of academia have studied how policy decisions over the previous several decades created these conditions. In one early study conducted in the 1980s, for instance, the U.S. Government Accountability Office<a data-footnote-id="7" href="https://fivethirtyeight.com/wp-json/wp/v2/espn_verticals/398#fn-7" data-footnote-content="&lt;p&gt;&lt;p&gt;Then known as the General Accounting Office.&lt;/p&gt;
+&lt;/p&gt;"><sup>7</sup></a> found that <a href="https://www.gao.gov/products/rced-83-168" target="_blank" rel="noopener">a disproportionate number of waste sites</a> were placed in African American communities in the South. A few years later, <a href="https://www.nrc.gov/docs/ML1310/ML13109A339.pdf" target="_blank" rel="noopener">another study</a> built on the GAO results and found that the percentage of racial and ethnic minorities in a community was a large predictor of where commercial hazardous waste facilities were placed around the country. </p>
 
 
 
@@ -923,8 +1120,8 @@
 			<category>Big Tech</category>
 			<category>Facebook</category>
 			<category>Technology</category>
-			<description><![CDATA[<p data-paragraph="main">Facebook’s algorithm<a data-footnote-id="7" href="https://fivethirtyeight.com/wp-json/wp/v2/espn_verticals/398#fn-7" data-footnote-content="&lt;p&gt;&lt;p&gt;Facebook’s platform runs on a system of many algorithms that all have different functions and interact with one another. This system is colloquially referred to as “the algorithm.”&lt;/p&gt;
-&lt;/p&gt;"><sup>7</sup></a> is its superpower — and its kryptonite. Yes, it <a href="https://www.cnn.com/2021/10/10/tech/facebook-whistleblower-algorithms-fix/index.html" target="_blank" rel="noopener">leads to higher engagement</a> that earns the company <a href="https://www.nbcnews.com/tech/tech-news/facebook-reports-9-billion-profit-day-documents-highlight-internal-ang-rcna3757" target="_blank" rel="noopener">billions of dollars</a>, but it’s also tied to some of <a href="https://www.theguardian.com/technology/2018/mar/17/facebook-cambridge-analytica-kogan-data-algorithm" target="_blank" rel="noopener">the company’s biggest scandals</a>. Last month, when the Facebook Papers — a <a href="https://abcnews.go.com/Politics/wireStory/explainer-facebook-papers-80766584" target="_blank" rel="noopener">trove of leaked corporate documents</a> provided to reporters and Congress — were released, a mountain of news coverage blamed the algorithm for <a href="https://www.washingtonpost.com/technology/2021/10/26/facebook-angry-emoji-algorithm/" target="_blank" rel="noopener">the spread of misinformation</a> and divisive content, <a href="https://www.nbcnews.com/tech/tech-news/facebook-knew-radicalized-users-rcna3581" target="_blank" rel="noopener">radicalizing users</a> and <a href="https://www.bloomberg.com/news/articles/2021-10-23/how-facebook-s-algorithm-led-a-new-india-user-to-fake-news-violence" target="_blank" rel="noopener">failing to protect them</a> from some of the most graphic content on the site.</p>
+			<description><![CDATA[<p data-paragraph="main">Facebook’s algorithm<a data-footnote-id="8" href="https://fivethirtyeight.com/wp-json/wp/v2/espn_verticals/398#fn-8" data-footnote-content="&lt;p&gt;&lt;p&gt;Facebook’s platform runs on a system of many algorithms that all have different functions and interact with one another. This system is colloquially referred to as “the algorithm.”&lt;/p&gt;
+&lt;/p&gt;"><sup>8</sup></a> is its superpower — and its kryptonite. Yes, it <a href="https://www.cnn.com/2021/10/10/tech/facebook-whistleblower-algorithms-fix/index.html" target="_blank" rel="noopener">leads to higher engagement</a> that earns the company <a href="https://www.nbcnews.com/tech/tech-news/facebook-reports-9-billion-profit-day-documents-highlight-internal-ang-rcna3757" target="_blank" rel="noopener">billions of dollars</a>, but it’s also tied to some of <a href="https://www.theguardian.com/technology/2018/mar/17/facebook-cambridge-analytica-kogan-data-algorithm" target="_blank" rel="noopener">the company’s biggest scandals</a>. Last month, when the Facebook Papers — a <a href="https://abcnews.go.com/Politics/wireStory/explainer-facebook-papers-80766584" target="_blank" rel="noopener">trove of leaked corporate documents</a> provided to reporters and Congress — were released, a mountain of news coverage blamed the algorithm for <a href="https://www.washingtonpost.com/technology/2021/10/26/facebook-angry-emoji-algorithm/" target="_blank" rel="noopener">the spread of misinformation</a> and divisive content, <a href="https://www.nbcnews.com/tech/tech-news/facebook-knew-radicalized-users-rcna3581" target="_blank" rel="noopener">radicalizing users</a> and <a href="https://www.bloomberg.com/news/articles/2021-10-23/how-facebook-s-algorithm-led-a-new-india-user-to-fake-news-violence" target="_blank" rel="noopener">failing to protect them</a> from some of the most graphic content on the site.</p>
 
 
 
@@ -1143,13 +1340,13 @@
 
 
 
-<p data-paragraph="main">It was 1996, when he was living in Pennsylvania’s 14th District, long represented by William Coyne, a Democrat. The Republican candidate, Bill Ravotti, didn’t really stand a chance of defeating Coyne, but Leonardon still couldn’t bring himself to vote for Ravotti. Instead, Leonardon wrote his own name on the ballot.<a data-footnote-id="8" href="https://fivethirtyeight.com/wp-json/wp/v2/espn_verticals/398#fn-8" data-footnote-content="&lt;p&gt;&lt;p&gt;That year, the only other candidate on the ballot was Paul Scherrer of the Socialist Equality Party.&lt;/p&gt;
-&lt;/p&gt;"><sup>8</sup></a> That’s because, as a gay man, Leonardon found certain <a href="http://old.post-gazette.com/regionstate/19981024debate5.asp" target="_blank" rel="noopener">comments Ravotti made about gays and lesbians</a> unsettling. Leonardon stressed that “someone does not have to be very ‘pro-gay’ to get my vote.” He just doesn’t want politicians to espouse openly anti-gay views, adding that his policy when assessing political candidates is generally “I won’t discuss it if you won’t discuss it.”</p>
+<p data-paragraph="main">It was 1996, when he was living in Pennsylvania’s 14th District, long represented by William Coyne, a Democrat. The Republican candidate, Bill Ravotti, didn’t really stand a chance of defeating Coyne, but Leonardon still couldn’t bring himself to vote for Ravotti. Instead, Leonardon wrote his own name on the ballot.<a data-footnote-id="9" href="https://fivethirtyeight.com/wp-json/wp/v2/espn_verticals/398#fn-9" data-footnote-content="&lt;p&gt;&lt;p&gt;That year, the only other candidate on the ballot was Paul Scherrer of the Socialist Equality Party.&lt;/p&gt;
+&lt;/p&gt;"><sup>9</sup></a> That’s because, as a gay man, Leonardon found certain <a href="http://old.post-gazette.com/regionstate/19981024debate5.asp" target="_blank" rel="noopener">comments Ravotti made about gays and lesbians</a> unsettling. Leonardon stressed that “someone does not have to be very ‘pro-gay’ to get my vote.” He just doesn’t want politicians to espouse openly anti-gay views, adding that his policy when assessing political candidates is generally “I won’t discuss it if you won’t discuss it.”</p>
 
 
 
-<p data-paragraph="main">But the fact that Leonardon voted for a Republican even once — and has continued to support Republican or independent candidates — is notable because most lesbian, gay and bisexual voters tend to identify as Democrats.<a data-footnote-id="9" href="https://fivethirtyeight.com/wp-json/wp/v2/espn_verticals/398#fn-9" data-footnote-content="&lt;p&gt;&lt;p&gt;FiveThirtyEight did not look at transgender Americans’ political beliefs for this story. Polling data for this segment of the electorate is sparse; plus, whether someone is transgender is separate from their sexual orientation. We also were not able to look at the political beliefs of Americans who identify as queer because of a lack of polling data.&lt;/p&gt;
-&lt;/p&gt;"><sup>9</sup></a> Lesbian, gay and bisexual Americans still represent a <a href="https://news.gallup.com/poll/329708/lgbt-identification-rises-latest-estimate.aspx" target="_blank" rel="noopener">small share of the adult population</a> (about 5 percent), but a 2016 <a href="https://www.pewresearch.org/fact-tank/2016/10/25/lesbian-gay-and-bisexual-voters-remain-a-solidly-democratic-bloc/" target="_blank" rel="noopener">Pew Research Center</a> study found that 82 percent of LGB voters identified as or leaned Democratic while only 18 percent identified as or leaned toward the GOP. Moreover, LGB voters were much more likely than the electorate overall to hold broadly liberal political beliefs. </p>
+<p data-paragraph="main">But the fact that Leonardon voted for a Republican even once — and has continued to support Republican or independent candidates — is notable because most lesbian, gay and bisexual voters tend to identify as Democrats.<a data-footnote-id="10" href="https://fivethirtyeight.com/wp-json/wp/v2/espn_verticals/398#fn-10" data-footnote-content="&lt;p&gt;&lt;p&gt;FiveThirtyEight did not look at transgender Americans’ political beliefs for this story. Polling data for this segment of the electorate is sparse; plus, whether someone is transgender is separate from their sexual orientation. We also were not able to look at the political beliefs of Americans who identify as queer because of a lack of polling data.&lt;/p&gt;
+&lt;/p&gt;"><sup>10</sup></a> Lesbian, gay and bisexual Americans still represent a <a href="https://news.gallup.com/poll/329708/lgbt-identification-rises-latest-estimate.aspx" target="_blank" rel="noopener">small share of the adult population</a> (about 5 percent), but a 2016 <a href="https://www.pewresearch.org/fact-tank/2016/10/25/lesbian-gay-and-bisexual-voters-remain-a-solidly-democratic-bloc/" target="_blank" rel="noopener">Pew Research Center</a> study found that 82 percent of LGB voters identified as or leaned Democratic while only 18 percent identified as or leaned toward the GOP. Moreover, LGB voters were much more likely than the electorate overall to hold broadly liberal political beliefs. </p>
 
 
 
@@ -1399,8 +1596,8 @@
 
 
 
-<figure><img loading="lazy" width="1150" height="920" src="https://fivethirtyeight.com/wp-content/uploads/2021/11/biden-approval-rating-2.png" alt="" data-src="https://fivethirtyeight.com/wp-content/uploads/2021/11/biden-approval-rating-2.png" data-srcset="https://fivethirtyeight.com/wp-content/uploads/2021/11/biden-approval-rating-2.png?w=700 1x, https://fivethirtyeight.com/wp-content/uploads/2021/11/biden-approval-rating-2.png?w=1400 2x"></figure><p data-paragraph="main">According to FiveThirtyEight’s <a href="https://projects.fivethirtyeight.com/biden-approval-rating/" target="_blank" rel="noopener">presidential approval tracker</a>, 42.5 percent of Americans approve of the job Biden is doing as president, while 51.6 percent disapprove (a net approval rating of -9.1 points).<a data-footnote-id="10" href="https://fivethirtyeight.com/wp-json/wp/v2/espn_verticals/398#fn-10" data-footnote-content="&lt;p&gt;&lt;p&gt;As of 5 p.m. Eastern on Thursday.&lt;/p&gt;
-&lt;/p&gt;"><sup>10</sup></a> At this time <a href="https://fivethirtyeight.com/features/how-virginias-electorate-shifted-toward-republicans/" target="_blank" rel="noopener">last week</a>, 42.7 percent approved and 50.5 percent disapproved (a net approval rating of -7.8 points). One month ago, Biden had an approval rating of 44.6 percent and a disapproval rating of 49.2 percent (a net approval rating of -4.6 points).</p>
+<figure><img loading="lazy" width="1150" height="920" src="https://fivethirtyeight.com/wp-content/uploads/2021/11/biden-approval-rating-2.png" alt="" data-src="https://fivethirtyeight.com/wp-content/uploads/2021/11/biden-approval-rating-2.png" data-srcset="https://fivethirtyeight.com/wp-content/uploads/2021/11/biden-approval-rating-2.png?w=700 1x, https://fivethirtyeight.com/wp-content/uploads/2021/11/biden-approval-rating-2.png?w=1400 2x"></figure><p data-paragraph="main">According to FiveThirtyEight’s <a href="https://projects.fivethirtyeight.com/biden-approval-rating/" target="_blank" rel="noopener">presidential approval tracker</a>, 42.5 percent of Americans approve of the job Biden is doing as president, while 51.6 percent disapprove (a net approval rating of -9.1 points).<a data-footnote-id="11" href="https://fivethirtyeight.com/wp-json/wp/v2/espn_verticals/398#fn-11" data-footnote-content="&lt;p&gt;&lt;p&gt;As of 5 p.m. Eastern on Thursday.&lt;/p&gt;
+&lt;/p&gt;"><sup>11</sup></a> At this time <a href="https://fivethirtyeight.com/features/how-virginias-electorate-shifted-toward-republicans/" target="_blank" rel="noopener">last week</a>, 42.7 percent approved and 50.5 percent disapproved (a net approval rating of -7.8 points). One month ago, Biden had an approval rating of 44.6 percent and a disapproval rating of 49.2 percent (a net approval rating of -4.6 points).</p>
 
 
 
@@ -1408,8 +1605,8 @@
 
 
 
-<figure><img loading="lazy" width="1150" height="920" src="https://fivethirtyeight.com/wp-content/uploads/2021/11/generic-ballot-2.png" alt="" data-src="https://fivethirtyeight.com/wp-content/uploads/2021/11/generic-ballot-2.png" data-srcset="https://fivethirtyeight.com/wp-content/uploads/2021/11/generic-ballot-2.png?w=700 1x, https://fivethirtyeight.com/wp-content/uploads/2021/11/generic-ballot-2.png?w=1400 2x"></figure><p data-paragraph="main">In our average of polls of the <a href="https://projects.fivethirtyeight.com/congress-generic-ballot-polls/" target="_blank" rel="noopener">generic congressional ballot</a>, Democrats currently lead Republicans by 1.3 percentage points (42.5 percent to 41.2 percent, respectively).<a data-footnote-id="11" href="https://fivethirtyeight.com/wp-json/wp/v2/espn_verticals/398#fn-11" data-footnote-content="&lt;p&gt;&lt;p&gt;As of 5 p.m. Eastern on Thursday.&lt;/p&gt;
-&lt;/p&gt;"><sup>11</sup></a> A week ago, Democrats led Republicans by 2.3 percentage points (43.4 percent to 41.2 percent, respectively). At this time last month, voters preferred Democrats over Republicans by 2.9 points (44.4 percent to 41.6 percent).</p>
+<figure><img loading="lazy" width="1150" height="920" src="https://fivethirtyeight.com/wp-content/uploads/2021/11/generic-ballot-2.png" alt="" data-src="https://fivethirtyeight.com/wp-content/uploads/2021/11/generic-ballot-2.png" data-srcset="https://fivethirtyeight.com/wp-content/uploads/2021/11/generic-ballot-2.png?w=700 1x, https://fivethirtyeight.com/wp-content/uploads/2021/11/generic-ballot-2.png?w=1400 2x"></figure><p data-paragraph="main">In our average of polls of the <a href="https://projects.fivethirtyeight.com/congress-generic-ballot-polls/" target="_blank" rel="noopener">generic congressional ballot</a>, Democrats currently lead Republicans by 1.3 percentage points (42.5 percent to 41.2 percent, respectively).<a data-footnote-id="12" href="https://fivethirtyeight.com/wp-json/wp/v2/espn_verticals/398#fn-12" data-footnote-content="&lt;p&gt;&lt;p&gt;As of 5 p.m. Eastern on Thursday.&lt;/p&gt;
+&lt;/p&gt;"><sup>12</sup></a> A week ago, Democrats led Republicans by 2.3 percentage points (43.4 percent to 41.2 percent, respectively). At this time last month, voters preferred Democrats over Republicans by 2.9 points (44.4 percent to 41.6 percent).</p>
 
 
 <p>Watch: https://abcnews.go.com/fivethirtyeight/video/guess-americans-democrats-spending-bill-80782414</p>]]></description>
@@ -2170,79 +2367,6 @@
 <p>Watch: https://abcnews.go.com/Health/video/covid-19-vaccines-work-74654465</p>]]></description>
 			<pubDate>Wed, 10 Nov 2021 18:00:00 +0000</pubDate>
 			<guid isPermaLink="false">1636569901598820</guid>
-		</item>
-		<item>
-			<title>North Carolina Republicans Passed A Heavily Skewed Congressional Map. How Will The Courts Respond?</title>
-			<link>https://fivethirtyeight.com/features/north-carolina-republicans-passed-a-heavily-skewed-congressional-map-how-will-the-courts-respond/</link>
-						<dc:creator>Mackenzie Wilkes</dc:creator>
-			<dc:creator>Mackenzie Wilkes</dc:creator>
-			<category>Gerrymandering</category>
-			<category>North Carolina</category>
-			<category>Redistricting</category>
-			<description><![CDATA[<p data-paragraph="main">After considering at least 11 proposals, the North Carolina General Assembly finally <a href="https://spectrumlocalnews.com/nc/charlotte/politics/2021/11/04/redistricting-in-n-c---new-maps-approved--favoring-gop" target="_blank" rel="noopener">passed a new congressional map</a> on Nov. 4 — and it’s one of the most Republican-biased maps they could have chosen. But this likely isn’t the end of the redistricting saga in the Tar Heel State. </p>
-
-
-
-<p data-paragraph="main">Redistricting is usually a once-a-decade process, but in North Carolina, courts have repeatedly ordered the drawing of new congressional maps due to extreme gerrymandering. And given that both racial and partisan gerrymandering <a href="https://www.newsobserver.com/news/politics-government/article255621116.html" target="_blank" rel="noopener">lawsuits have already been filed</a> against this new map, it remains to be seen whether it will survive either. </p>
-
-
-
-<p data-paragraph="main">North Carolina’s previous congressional map — which is to say, the one used in last year’s election — already gave <a href="https://fivethirtyeight.com/features/north-carolinas-new-house-map-hands-democrats-two-seats-but-it-still-leans-republican/" target="_blank" rel="noopener">Republicans eight seats and Democrats five seats</a> in a state President Biden lost by just 1 percentage point, but the new map gives the GOP an even greater advantage. According to <a href="https://projects.fivethirtyeight.com/redistricting-2022-maps/north-carolina/" target="_blank" rel="noopener">our analysis</a>, it creates 10 Republican seats, three Democratic seats and one highly competitive seat.</p>
-
-
-
-<figure><img loading="lazy" width="1796" height="1248" src="https://fivethirtyeight.com/wp-content/uploads/2021/11/Screen-Shot-2021-11-10-at-12.34.55-PM.png" alt="" data-src="https://fivethirtyeight.com/wp-content/uploads/2021/11/Screen-Shot-2021-11-10-at-12.34.55-PM.png" data-srcset="https://fivethirtyeight.com/wp-content/uploads/2021/11/Screen-Shot-2021-11-10-at-12.34.55-PM.png?w=700 1x, https://fivethirtyeight.com/wp-content/uploads/2021/11/Screen-Shot-2021-11-10-at-12.34.55-PM.png?w=1400 2x"></figure><p data-paragraph="main">The approved map has an efficiency gap of R+20.1, up 11.6 points from the old map, which had an efficiency gap of R+8.5. (<a href="https://www.brennancenter.org/sites/default/files/legal-work/How_the_Efficiency_Gap_Standard_Works.pdf" target="_blank" rel="noopener">Efficiency gap</a> is a measure of which party has more “wasted” votes, i.e., votes that don’t contribute toward a candidate winning. This means that the new map is more than twice as efficient for Republicans as the old map, which was already pretty efficient for them.) Under the new map, North Carolina’s median congressional district is also now 11.4 points redder than the state as a whole. In other words, Democrats would have to win North Carolina by 11.4 points just to win half its congressional seats. </p>
-
-
-
-<p data-paragraph="main">The new map boosts Republicans in the state through reapportionment, both by <a href="https://fivethirtyeight.com/features/which-states-won-and-lost-seats-in-the-2020-census/" target="_blank" rel="noopener">giving the state a 14th district, which the Republican-majority General Assembly used to give their party a double-digit advantage,</a> and by making two currently Democratic-held seats much less blue. One of those seats is the 6th District, which previously encompassed all of Guilford County and part of Forsyth County. The new map splits the old 6th into four districts, which contradicts House Redistricting Committee Chair Destin Hall’s <a href="https://repdestinhall.com/2021/11/04/north-carolina-house-passes-2021-redistricting-maps/" target="_blank" rel="noopener">claim</a> that the committee “focused only on traditional criteria like keeping counties and cities whole” when drawing maps. This change will surely make for an improbable reelection for Democratic Rep. Kathy Manning. In the new map, Manning represents the new 11th District, which leans Republican by 16 points.</p>
-
-
-
-<p data-paragraph="main">The other Democratic seat the new map undermines is Democratic Rep. G.K. Butterfield’s 1st District, which is now numbered the 2nd District in the approved map. Butterfield’s district goes from leaning Democratic by 7 points to leaning Democratic by just 1 point.</p>
-
-
-<div>
-	<p>
-		<a href="https://fivethirtyeight.com/features/resist-the-pundits-what-the-2021-elections-can-and-cant-tell-us-about-2022/"><img alt="Supporters of Virginia Republican gubernatorial candidate Glenn Youngkin celebrate during an election night rally." width="153" height="115" data-sizes="(min-width: 440px) 153px, 100vw" data-srcset="https://fivethirtyeight.com/wp-content/uploads/2021/11/GettyImages-1350959916-4x3-1.jpg?w=153&amp;quality=100&amp;strip=all 153w, https://fivethirtyeight.com/wp-content/uploads/2021/11/GettyImages-1350959916-4x3-1.jpg?w=306&amp;quality=100&amp;strip=all 306w, https://fivethirtyeight.com/wp-content/uploads/2021/11/GettyImages-1350959916-4x3-1.jpg?w=405&amp;quality=100&amp;strip=all 405w, https://fivethirtyeight.com/wp-content/uploads/2021/11/GettyImages-1350959916-4x3-1.jpg?w=810&amp;quality=100&amp;strip=all 810w"></a>
-	</p>
-	<p>
-				<strong>Related:</strong>
-				What The 2021 Elections Can (And Can’t) Tell Us About 2022 <a href="https://fivethirtyeight.com/features/resist-the-pundits-what-the-2021-elections-can-and-cant-tell-us-about-2022/">Read more. »</a>
-	</p>
-</div>
-
-
-
-<p data-paragraph="main">This isn’t the first time North Carolina has drawn maps that favor one group over others. During the 2010s, the state had two maps thrown out in court due to racial and partisan gerrymandering. Following the initial map in 2011, the courts ruled in 2016 that the state’s map had been racially gerrymandered to disadvantage Black voters in the state, a decision that was <a href="https://www.theatlantic.com/politics/archive/2017/05/north-carolina-gerrymandering/527592/" target="_blank" rel="noopener">upheld by the Supreme Court</a>. Then, in 2019, a state court panel threw out North Carolina’s 2016 map because it was ruled <a href="https://www.nbcnews.com/politics/politics-news/north-carolina-judges-toss-maps-slam-gerrymandering-stinging-ruling-n1049411" target="_blank" rel="noopener">a partisan gerrymander</a> that gave Republicans an advantage. </p>
-
-
-
-<p data-paragraph="main">This time around, likely in an attempt to <a href="https://www.wunc.org/politics/2021-08-12/nc-lawmakers-adopt-criteria-for-next-round-of-redistricting" target="_blank" rel="noopener">insulate themselves from more gerrymandering lawsuits</a>, legislative map-drawers <a href="https://ncleg.gov/documentsites/committees/Senate2021-154/2021/08-09-2021/2021%20Joint%20Redistricting%20Committee%20Plan%20Proposed%20Criteria.pdf" target="_blank" rel="noopener">announced their redistricting criteria</a> in advance, which included adhering to the 2019 court’s decree that they not use partisan or racial data when crafting the new maps. But as we’ve seen, the 2021 congressional map gives Republicans an even greater advantage than before. And by omitting racial data, lawmakers may be running afoul of the <a href="http://www.publicmapping.org/what-is-redistricting/redistricting-criteria-the-voting-rights-act" target="_blank" rel="noopener">Voting Rights Act</a>, which requires states to draw heavily nonwhite districts in areas where there is racially polarized voting so that those communities have a voice in Congress. </p>
-
-
-
-<p data-paragraph="main">Specifically, the new map could imperil the ability of Black residents in the new 2nd District (Butterfield’s district) to elect the representative of their choice. The new district has a voting-age population that is just 38 percent Black — down from 41 percent under the old map. It’s also 51 percent white, which is up from 48 percent. While this may appear to be a small difference, it’s enough to change the district from one that would likely elect a Democrat to one that could easily elect a Republican instead. </p>
-
-
-
-<p data-paragraph="main">Legal challenges to the state’s new map have already begun. Considering the partisan skew of the map and its possible Voting Rights Act violations, the 2021 map could join last decade’s maps and get thrown out by the courts.</p>
-
-
-
-<p data-paragraph="main">Even before the map was approved, the North Carolina NAACP, Common Cause and state residents <a href="https://southerncoalition.org/wp-content/uploads/2021/10/NC-NAACP-v.-Berger-Complaint-10.29.2021-2.pdf" target="_blank" rel="noopener">filed a lawsuit</a> arguing that the new map disenfranchises voters of color precisely <em>because</em> lawmakers decided not to consider racial data when drawing it. The lawsuit argues that the legislature must consider racial data to ensure that voters of color can elect their candidate of choice. For their part, Republican lawmakers <a href="https://www.newsobserver.com/news/politics-government/article255621116.html" target="_blank" rel="noopener">say there is a precedent for not using racial data</a>: The 2019 map was approved without using it.</p>
-
-
-<p>Watch: https://abcnews.go.com/fivethirtyeight/video/exit-polls-explain-voters-vote-81047251</p>
-
-
-<p data-paragraph="main">The map also <a href="https://static1.squarespace.com/static/5e909f4422f7a40a188de597/t/61859e7b8789a02515e620e2/1636146812238/2021.11.05+Supplemental+Complaint.pdf" target="_blank" rel="noopener">faces a lawsuit</a> on the grounds that it is a partisan gerrymander. The suit’s plaintiffs, who have regularly voted for Democrats, argue that the new map packs Democrats into districts like the Charlotte-area 9th District (to waste as many Democratic votes as possible) and cracks other Democratic strongholds like the Piedmont Triad (Manning’s current district) to minimize their voting power. Although <a href="https://www.npr.org/2019/06/27/731847977/supreme-court-rules-partisan-gerrymandering-is-beyond-the-reach-of-federal-court?utm_campaign=storyshare&amp;utm_source=twitter.com&amp;utm_medium=social" target="_blank" rel="noopener">the Supreme Court has ruled</a> (in a case concerning North Carolina) that partisan gerrymandering is a political question <a href="https://fivethirtyeight.com/features/partisan-gerrymandering-isnt-the-supreme-courts-problem-anymore/" target="_blank" rel="noopener">outside the purview of federal courts</a>, this lawsuit will be decided by state courts, many of which have not been shy about striking down maps for reasons of partisan gerrymandering — including in North Carolina in 2019. And since Democrats currently hold a 4-3 majority on the North Carolina Supreme Court, this lawsuit may find a receptive audience.</p>
-
-
-
-<p data-paragraph="main">It remains to be seen if the courts will overturn North Carolina’s new map, but the legal fight over them could further erode North Carolinians’ trust in the redistricting process. Both in the Tar Heel State and nationwide, <a href="https://fivethirtyeight.com/features/americans-dont-trust-their-congressional-maps-to-be-drawn-fairly-can-anything-change-that/" target="_blank" rel="noopener">voters view gerrymandering as a serious problem</a> and are skeptical that their maps will be fair due to the partisan nature of the process. Based on North Carolina’s new map, that skepticism appears well-founded.</p>]]></description>
-			<pubDate>Wed, 10 Nov 2021 17:56:00 +0000</pubDate>
-			<guid isPermaLink="false">1636569901598819</guid>
 		</item>
 
 	</channel>
