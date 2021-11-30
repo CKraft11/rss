@@ -3,9 +3,74 @@
 		<title>Main stream | FreshRSS</title>
 		<link>http://radon</link>
 		<description>RSS feed of Main stream | FreshRSS</description>
-		<pubDate>Tue, 30 Nov 2021 00:59:07 +0000</pubDate>
-		<lastBuildDate>Tue, 30 Nov 2021 00:59:07 GMT</lastBuildDate>
+		<pubDate>Tue, 30 Nov 2021 01:29:07 +0000</pubDate>
+		<lastBuildDate>Tue, 30 Nov 2021 01:29:07 GMT</lastBuildDate>
 		<atom:link href="http://radon/i/?a=rss" rel="self" type="application/rss+xml" />
+		<item>
+			<title>Politics Podcast: About Those 2024 Polls …</title>
+			<link>https://fivethirtyeight.com/features/politics-podcast-about-those-2024-polls/</link>
+						<dc:creator>Galen Druke</dc:creator>
+			<dc:creator>FiveThirtyEight</dc:creator>
+			<category>2024 Presidential Election</category>
+			<category>2024 Republican Primary</category>
+			<category>FiveThirtyEight Podcasts</category>
+			<category>Politics Podcast</category>
+			<category>Seasons</category>
+			<category>The Biden Administration</category>
+			<description><![CDATA[<div data-href="https://fivethirtyeight.com/features/politics-podcast-about-those-2024-polls/">
+	<div data-podcast-id="321525" data-podcast-duration="0" data-podcast-title="Politics Podcast: About Those 2024 Polls ...">
+
+					<span><span>FiveThirtyEight</span></span>
+			
+		
+		<button aria-label="Play"></button>
+
+					<div>
+		
+		
+							<div>
+					<div>
+						<div></div>
+					</div>
+
+					<div> </div>
+
+					<audio preload="none" controls="controls">
+						<source src="https://www.podtrac.com/pts/redirect.mp3/traffic.megaphone.fm/ESP2508893883.mp3?updated=1638230345">
+					</source></audio>
+				</div>
+			
+					</div>
+		
+	</div>
+</div>
+<aside>
+	<div>
+		More: <a href="https://itunes.apple.com/us/podcast/fivethirtyeight-elections/id1077418457">Apple Podcasts</a> |
+		<span><a data-android-url="" href="http://m.espn.com/general/cast?id=14554755">ESPN App</a> |</span>
+		<a href="https://www.espn.com/espnradio/feeds/rss/podcast.xml?id=14554755">RSS</a>
+			</div>
+	</aside>
+
+
+
+
+<p data-paragraph="main">Pollsters are already turning their attention to 2024, and they want to know if voters want a rematch between President Biden and former president Trump. Polls show that solid majorities of Americans overall — in the range of <a href="https://www.suffolk.edu/-/media/suffolk/documents/academics/research-at-suffolk/suprc/polls/national/2021/11_10_2021_tables.pdf?la=en&amp;hash=21DA13926A698BE7C00BBD01E6C64B8F5D9BB574" target="_blank" rel="noopener">60</a> to <a href="https://law.marquette.edu/poll/" target="_blank" rel="noopener">70 percent</a> — don’t want either President Biden or former President Trump to run in 2024. But, of course, presidential nominations are party affairs and Republicans and Democrats will have to decide that for themselves. </p>
+
+
+
+<p data-paragraph="main">In this installment of the FiveThirtyEight Politics podcast, the crew debates whether 2024 primary polling can tell us anything this far out from any primaries. They also review the results of an unscientific poll conducted by FiveThirtyEight <a href="https://fivethirtyeight.com/features/our-very-unscientific-poll-on-when-each-season-starts/" target="_blank" rel="noopener">that asked readers when they think the seasons begin</a>.</p>
+
+
+
+<p data-paragraph="main"><em>You can listen to the episode by clicking the “play” button in the audio player above or by </em><a href="https://itunes.apple.com/us/podcast/fivethirtyeight-elections/id1077418457?mt=2" target="_blank" rel="noopener"><em>downloading it in iTunes</em></a><em>, the </em><a href="http://www.espn.com/espn/mobile/products/products/_/id/6857590" target="_blank" rel="noopener"><em>ESPN App</em></a><em> or your favorite podcast platform. If you are new to podcasts, </em><a href="https://fivethirtyeight.com/how-to-listen-to-fivethirtyeight-podcasts/" target="_blank" rel="noopener"><em>learn how to listen</em></a><em>.</em></p>
+
+
+
+<p data-paragraph="main"><em>The FiveThirtyEight Politics podcast is recorded Mondays and Thursdays. Help new listeners discover the show by </em><a href="https://itunes.apple.com/us/podcast/fivethirtyeight-elections/id1077418457?mt=2" target="_blank" rel="noopener"><em>leaving us a rating and review on iTunes</em></a><em>. Have a comment, question or suggestion for “good polling vs. bad polling”? Get in touch by email, </em><a href="https://twitter.com/FiveThirtyEight" target="_blank" rel="noopener"><em>on Twitter</em></a><em> or in the comments.</em></p>]]></description>
+			<pubDate>Mon, 29 Nov 2021 23:56:00 +0000</pubDate>
+			<guid isPermaLink="false">1638234901859022</guid>
+		</item>
 		<item>
 			<title>Why Crime Likely Won’t Be An Issue In The 2022 Midterms</title>
 			<link>https://fivethirtyeight.com/features/why-crime-likely-wont-be-an-issue-in-the-2022-midterms/</link>
@@ -2178,75 +2243,6 @@
 <p data-paragraph="main">It remains to be seen if the courts will overturn North Carolina’s new map, but the legal fight over them could further erode North Carolinians’ trust in the redistricting process. Both in the Tar Heel State and nationwide, <a href="https://fivethirtyeight.com/features/americans-dont-trust-their-congressional-maps-to-be-drawn-fairly-can-anything-change-that/" target="_blank" rel="noopener">voters view gerrymandering as a serious problem</a> and are skeptical that their maps will be fair due to the partisan nature of the process. Based on North Carolina’s new map, that skepticism appears well-founded.</p>]]></description>
 			<pubDate>Wed, 10 Nov 2021 17:56:00 +0000</pubDate>
 			<guid isPermaLink="false">1636569901598819</guid>
-		</item>
-		<item>
-			<title>Politics Podcast: Which Election Day Hot Takes Do You Buy?</title>
-			<link>https://fivethirtyeight.com/features/politics-podcast-which-election-day-hot-takes-do-you-buy/</link>
-						<dc:creator>Galen Druke</dc:creator>
-			<dc:creator>FiveThirtyEight</dc:creator>
-			<category>2022 Election</category>
-			<category>FiveThirtyEight Podcasts</category>
-			<category>New Jersey Governor</category>
-			<category>Politics Podcast</category>
-			<category>Virginia Governor</category>
-			<description><![CDATA[<div data-href="https://fivethirtyeight.com/features/politics-podcast-which-election-day-hot-takes-do-you-buy/">
-	<div data-podcast-id="320448" data-podcast-duration="0" data-podcast-title="Politics Podcast: Which Election Day Hot Takes Do You Buy?">
-
-					<span><span>FiveThirtyEight</span></span>
-			
-		
-		<button aria-label="Play"></button>
-
-					<div>
-		
-		
-							<div>
-					<div>
-						<div></div>
-					</div>
-
-					<div> </div>
-
-					<audio preload="none" controls="controls">
-						<source src="https://www.podtrac.com/pts/redirect.mp3/traffic.megaphone.fm/ESP4617335065.mp3?updated=1636415626">
-					</source></audio>
-				</div>
-			
-					</div>
-		
-	</div>
-</div>
-<aside>
-	<div>
-		More: <a href="https://itunes.apple.com/us/podcast/fivethirtyeight-elections/id1077418457">Apple Podcasts</a> |
-		<span><a data-android-url="" href="http://m.espn.com/general/cast?id=14554755">ESPN App</a> |</span>
-		<a href="https://www.espn.com/espnradio/feeds/rss/podcast.xml?id=14554755">RSS</a>
-			</div>
-	</aside>
-
-
-
-
-<p data-paragraph="main">Nearly a week after Virginia’s and New Jersey’s elections, Democrats are still debating what went wrong for them. Pundits have given lots of hot takes on why Democrats did so poorly and what it portends for the 2022 midterms. In this installment of the <a href="https://fivethirtyeight.com/tag/politics-podcast/" target="_blank" rel="noopener">Politics podcast</a>, the FiveThirtyEight crew runs down a list of theories in a game of Buy, Sell or Hold to discuss what evidence, if any, supports some of these arguments. </p>
-
-
-
-<p data-paragraph="main">They also debate how reliable exit polls are in determining what motivates voters and consider how Democrats were able to overcome intraparty disagreements to <a href="https://www.nytimes.com/2021/11/06/us/politics/infrastructure-black-caucus-vote.html" target="_blank" rel="noopener">pass a $1 trillion infrastructure bill</a>.</p>
-
-
-
-<p data-paragraph="main"><em>You can listen to the episode by clicking the “play” button in the audio player above or by </em><a href="https://itunes.apple.com/us/podcast/fivethirtyeight-elections/id1077418457?mt=2" target="_blank" rel="noopener"><em>downloading it in iTunes</em></a><em>, the </em><a href="http://www.espn.com/espn/mobile/products/products/_/id/6857590" target="_blank" rel="noopener"><em>ESPN App</em></a><em> or your favorite podcast platform. If you are new to podcasts, </em><a href="https://fivethirtyeight.com/how-to-listen-to-fivethirtyeight-podcasts/" target="_blank" rel="noopener"><em>learn how to listen</em></a><em>.</em></p>
-
-
-
-<p data-paragraph="main"><em>The FiveThirtyEight Politics podcast is recorded Mondays and Thursdays. Help new listeners discover the show by </em><a href="https://itunes.apple.com/us/podcast/fivethirtyeight-elections/id1077418457?mt=2" target="_blank" rel="noopener"><em>leaving us a rating and review on iTunes</em></a><em>. Have a comment, question or suggestion for “good polling vs. bad polling”? Get in touch by email, </em><a href="https://twitter.com/FiveThirtyEight" target="_blank" rel="noopener"><em>on Twitter</em></a><em> or in the comments.</em></p>
-
-
-<p>Watch: https://abcnews.go.com/ThisWeek/video/buy-tuesdays-election-night-good-trumps-2024-prospects-81022758</p>
-
-<p>Watch: https://abcnews.go.com/fivethirtyeight/video/exit-polls-explain-voters-vote-81047251</p>]]></description>
-			<pubDate>Mon, 08 Nov 2021 23:50:00 +0000</pubDate>
-			<guid isPermaLink="false">1636416901759534</guid>
 		</item>
 
 	</channel>
