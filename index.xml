@@ -3,9 +3,246 @@
 		<title>Main stream | FreshRSS</title>
 		<link>http://radon</link>
 		<description>RSS feed of Main stream | FreshRSS</description>
-		<pubDate>Thu, 02 Dec 2021 11:59:07 +0000</pubDate>
-		<lastBuildDate>Thu, 02 Dec 2021 11:59:07 GMT</lastBuildDate>
+		<pubDate>Thu, 02 Dec 2021 12:29:06 +0000</pubDate>
+		<lastBuildDate>Thu, 02 Dec 2021 12:29:06 GMT</lastBuildDate>
 		<atom:link href="http://radon/i/?a=rss" rel="self" type="application/rss+xml" />
+		<item>
+			<title>Redistricting Has Maintained The Status Quo So Far. That’s Good For Republicans.</title>
+			<link>https://fivethirtyeight.com/features/redistricting-has-maintained-the-status-quo-so-far-thats-good-for-republicans/</link>
+						<dc:creator>Nathaniel Rakich</dc:creator>
+			<dc:creator>Nathaniel Rakich</dc:creator>
+			<category>2022 House Elections</category>
+			<category>Gerrymandering</category>
+			<category>Redistricting</category>
+			<description><![CDATA[<p data-paragraph="main">The “2021 redistricting cycle” is about to become the “2022 redistricting cycle.” As we enter the final month of the year, only 18 states are finished redrawing their congressional districts (not counting the six states with only one district), a consequence of the <a href="https://fivethirtyeight.com/features/how-the-delayed-census-has-affected-redistricting/" target="_blank" rel="noopener">delayed release of census data</a>. Nevertheless, our view of the U.S. House battlefield for 2022 (and beyond) is starting to come into focus. </p>
+
+
+
+<p data-paragraph="main">As detailed on the <a href="https://projects.fivethirtyeight.com/redistricting-2022-maps/" target="_blank" rel="noopener">FiveThirtyEight redistricting tracker</a>, 157 congressional districts have been drawn so far. Ninety have a <a href="https://fivethirtyeight.com/features/how-red-or-blue-is-your-state-your-congressional-district/" target="_blank" rel="noopener">FiveThirtyEight partisan lean</a><a data-footnote-id="1" href="https://fivethirtyeight.com/wp-json/wp/v2/espn_verticals/398#fn-1" data-footnote-content="&lt;p&gt;&lt;p&gt;Partisan lean is the average margin difference between how a state or district votes and how the country votes overall. This version of partisan lean, meant to be used for congressional and gubernatorial elections, is calculated as 50 percent the state or district’s lean relative to the nation in the most recent presidential election, 25 percent its relative lean in the second-most-recent presidential election and 25 percent a custom state-legislative lean.&lt;/p&gt;
+&lt;/p&gt;"><sup>1</sup></a> of R+5 or redder, 55 have a partisan lean of D+5 or bluer and only 12 are in the “highly competitive” zone between R+5 and D+5. Compared with the old lines, this represents a net gain of six Democratic-leaning seats and two Republican-leaning seats and a net loss of five highly competitive seats.</p>
+
+
+
+<figure><img loading="lazy" width="1150" height="1130" src="https://fivethirtyeight.com/wp-content/uploads/2021/12/image001.png" alt="" data-src="https://fivethirtyeight.com/wp-content/uploads/2021/12/image001.png" data-srcset="https://fivethirtyeight.com/wp-content/uploads/2021/12/image001.png?w=700 1x, https://fivethirtyeight.com/wp-content/uploads/2021/12/image001.png?w=1400 2x"></figure><p data-paragraph="main">That Democrats have picked up more seats than Republicans at this point is unexpected. Going into this redistricting cycle, Republicans had <a href="https://fivethirtyeight.com/features/which-states-won-and-lost-seats-in-the-2020-census/" target="_blank" rel="noopener">2.5 times as many districts as Democrats</a> to redraw (187 versus 75), yet that hasn’t translated into big GOP gains so far. Republicans have pulled their punches somewhat in states such as <a href="https://projects.fivethirtyeight.com/redistricting-2022-maps/indiana/" target="_blank" rel="noopener">Indiana</a>, where they could have converted the Democratic-leaning 1st District into a red seat (they didn’t), and <a href="https://projects.fivethirtyeight.com/redistricting-2022-maps/iowa/" target="_blank" rel="noopener">Iowa</a>, where they could have overridden the state’s nonpartisan redistricting agency to draw more solidly red seats (they didn’t do that, either). </p>
+
+
+
+<p data-paragraph="main">At the same time, Democrats have gone for the jugular in each of the few opportunities they’ve had so far to gain seats. They used <a href="https://www.opb.org/article/2021/09/20/after-slow-start-redistricting-proposals-get-moving-in-salem/" target="_blank" rel="noopener">hardball tactics</a> to push through a map for <a href="https://projects.fivethirtyeight.com/redistricting-2022-maps/oregon/" target="_blank" rel="noopener">Oregon</a> that eliminates one highly competitive seat and adds two Democratic-leaning seats. And they turned <a href="https://projects.fivethirtyeight.com/redistricting-2022-maps/illinois/" target="_blank" rel="noopener">Illinois</a>’s map from one with 11 Democratic-leaning seats, five Republican-leaning seats and two highly competitive (but slightly Republican-leaning) seats to one with 13 Democratic-leaning seats, three Republican-leaning seats and one highly competitive (but slightly Democratic-leaning) seat.</p>
+
+
+
+<p data-paragraph="main">That said, our definitions of what is a “Republican-leaning” or “Democratic-leaning” seat are only one way of calculating each party’s net gains and losses. You can also look at who represents the newly drawn seats, and this method suggests more of an edge for Republicans in redistricting so far this year. </p>
+
+
+
+<p data-paragraph="main">For example, a lot of those newly added Democratic seats are already represented by Democrats (they’re swing seats that the party won thanks to their strong performance in the 2018 and 2020 elections), so they don’t represent opportunities for Democrats to <em>pick up</em> House seats. In fact, if we just factor in which party currently holds the seat, I calculate that Republicans have already picked up two or three seats through redistricting alone. They’ve gained three seats via reapportionment (one each in Montana, North Carolina and Texas) and also turned two existing Democratic districts red (Rep. Kathy Manning’s seat in North Carolina and Rep. Marcy Kaptur’s seat in Ohio). However, they’ve also lost two seats via reapportionment (one each in Illinois and West Virginia), and one other (the Illinois 13th) was turned blue by Democratic cartographers. (That’s a net gain of two. The possibility for a third gained seat comes in Colorado, whose new 8th District has a partisan lean of R+3. Theoretically, that district would elect a Republican in a neutral political environment, but it’s close enough to be uncertain.)</p>
+
+
+
+<p data-paragraph="main">Meanwhile, Democrats have come out even. They’ve gained two seats via reapportionment (one in Oregon, one in Texas) and redrawn one existing Republican district (the Illinois 13th, again) to favor Democrats. However, they’ve also lost one seat in reapportionment (in Ohio), and two of their seats have been redrawn to be red (again, Manning’s and Kaptur’s).</p>
+
+
+
+<p data-paragraph="main">However, any redistricting assessment that focuses on gains and losses — whether based on the change in a district’s partisan lean or who now controls the seat — obscures an important way in which Republicans have benefited from redistricting this year: They’ve taken already Republican-leaning seats and moved them totally out of Democrats’ reach. If you look under the hood of the GOP’s two-seat gain, you can see that although they have lost nine light-red seats (which we define as having a partisan lean between R+5 and R+15), they have <em>gained</em> 11 dark-red seats (R+15 or redder).</p>
+
+
+<div>
+<section><header><h5>Republican seats have gotten safer in redistricting</h5>
+ <p>The number of “solid” and “competitive” Republican-leaning seats under the old and new House maps, in states that have completed congressional redistricting, as of Dec. 1, 2021, at 5 p.m. Eastern</p>
+ </header><table data-carpenter-slug="rakich.redistricting-overview.2"><thead><tr><th colspan="1">Map</th>
+ <th colspan="1"><span></span>Competitive R</th>
+ <th colspan="1"><span></span>Solid R</th>
+ <th colspan="1">Total R</th>
+ </tr></thead><tbody><tr><td>Old</td>
+ <td>21</td>
+ <td>67</td>
+ <td>88</td>
+ </tr><tr><td>New</td>
+ <td>12</td>
+ <td>78</td>
+ <td>90</td>
+ </tr><tr><td>Net Change</td>
+ <td>-9</td>
+ <td>+11</td>
+ <td>+2</td>
+ </tr></tbody></table><footer><p>“Solid Republican” seats have FiveThirtyEight partisan leans of R+15 or redder; “competitive Republican” seats have partisan leans between R+5 and R+15.</p>
+ <p>Partisan lean is the average margin difference between how a state or district votes and how the country votes overall. This version of partisan lean, meant to be used for congressional and gubernatorial elections, is calculated as 50 percent the state or district’s lean relative to the nation in the most recent presidential election, 25 percent its relative lean in the second-most-recent presidential election and 25 percent a custom state-legislative lean.</p>
+ <p>Sources: U.S. Census Bureau, The Upshot, Voting Election and Science Team, Ryne Rohla/Decision Desk HQ</p>
+ </footer></section></div>
+
+
+<p data-paragraph="main">Some districts where Republicans pulled this trick include Indiana’s 5th District, which went from a R+8 partisan lean to R+22, as well as <a href="https://projects.fivethirtyeight.com/redistricting-2022-maps/oklahoma/" target="_blank" rel="noopener">Oklahoma</a>’s 5th District and <a href="https://projects.fivethirtyeight.com/redistricting-2022-maps/utah/" target="_blank" rel="noopener">Utah</a>’s 4th District, two seats that Democrats won in 2018 but narrowly lost in 2020. But they turned it into an Olympic sport in <a href="https://projects.fivethirtyeight.com/redistricting-2022-maps/texas/" target="_blank" rel="noopener">Texas</a>, where Republicans turned seven light-red seats (plus one Republican-held purple seat) into <a href="https://fivethirtyeight.com/features/texass-new-congressional-map-could-give-a-huge-boost-to-gop-incumbents/" target="_blank" rel="noopener">safe Republican seats</a>.</p>
+
+
+
+<p data-paragraph="main">Meanwhile, Democrats haven’t added any dark-blue seats on net; all six of the seats they have gained on net have partisan leans between D+5 and D+15.</p>
+
+
+<div>
+<section><header><h5>Democrats have added light-blue seats in redistricting</h5>
+ <p>The number of “solid” and “competitive” Democratic-leaning seats under the old and new House maps, in states that have completed congressional redistricting, as of Dec. 1, 2021, at 5 p.m. Eastern</p>
+ </header><table data-carpenter-slug="rakich.redistricting-overview.3"><thead><tr><th colspan="1">Map</th>
+ <th colspan="1"><span></span>Competitive D</th>
+ <th colspan="1"><span></span>Solid D</th>
+ <th colspan="1">Total D</th>
+ </tr></thead><tbody><tr><td>Old</td>
+ <td>6</td>
+ <td>43</td>
+ <td>49</td>
+ </tr><tr><td>New</td>
+ <td>12</td>
+ <td>43</td>
+ <td>55</td>
+ </tr><tr><td>Net Change</td>
+ <td>+6</td>
+ <td>EVEN</td>
+ <td>+6</td>
+ </tr></tbody></table><footer><p>“Solid Democratic” seats have FiveThirtyEight partisan leans of D+15 or bluer; “competitive Democratic” seats have partisan leans between D+5 and D+15.</p>
+ <p>Partisan lean is the average margin difference between how a state or district votes and how the country votes overall. This version of partisan lean, meant to be used for congressional and gubernatorial elections, is calculated as 50 percent the state or district’s lean relative to the nation in the most recent presidential election, 25 percent its relative lean in the second-most-recent presidential election and 25 percent a custom state-legislative lean.</p>
+ <p>Sources: U.S. Census Bureau, The Upshot, Voting Election and Science Team, Ryne Rohla/Decision Desk HQ</p>
+ </footer></section></div>
+
+
+<p data-paragraph="main">In other words, the seats they’ve added so far in this redistricting cycle are less safe than the ones Republicans have added. In a twist, this is actually by Democrats’ own choice: Both seats they gained in Oregon are light blue, and in Illinois they shed one solidly Democratic seat in service of adding three competitive Democratic ones. </p>
+
+
+
+<p data-paragraph="main">Though counterintuitive, this is a sound strategy if Democrats want to eliminate the overall Republican bias in the House of Representatives. If you have only a finite number of Democratic voters, it’s more efficient to spread them out over a greater number of light-blue districts than a smaller number of dark-blue districts. </p>
+
+
+
+<p data-paragraph="main">The new Democratic-drawn map in <a href="https://projects.fivethirtyeight.com/redistricting-2022-maps/nevada/" target="_blank" rel="noopener">Nevada</a> is a perfect example of this: It moves the partisan lean of the Las Vegas-based 1st District from D+22 to D+4 — but two neighboring swing districts get more Democratic as a result (the 3rd goes from R+5 to D+2; the 4th goes from R+1 to D+5). In a strong election year for Republicans (which 2022 is likely to be), this makes all three Democratic-held districts (including the formerly safe 1st) vulnerable to the GOP. But Democrats might be OK with that tradeoff, as any election that results in the loss of slightly Democratic-leaning seats is probably an election in which Republicans have already won the House handily. Instead, the goal of these new maps in Illinois, Nevada and Oregon seems to be to maximize the number of Democratic wins in neutral political environments, when the House is genuinely competitive.</p>
+
+
+
+<p data-paragraph="main">Overall, the question of which party has gained ground in redistricting so far is pretty muddled. Any way you slice it, though, there are two clear takeaways from the maps that have already been drawn. First, the number of competitive House districts — which has been <a href="https://fivethirtyeight.com/features/as-swing-districts-dwindle-can-a-divided-house-stand/" target="_blank" rel="noopener">on the decline for several decades now</a> — is on track to hit a new low. Only 8 percent of the districts drawn so far fall into our “highly competitive” category, which, if it holds, could mean the House will be fought on a historically small battlefield over the next decade. (Election nerds, get ready to become very familiar with <a href="https://projects.fivethirtyeight.com/redistricting-2022-maps/nebraska/" target="_blank" rel="noopener">Nebraska</a>’s 2nd District!) </p>
+
+
+
+<p data-paragraph="main">That said, there’s some reason to think the share of swing seats will increase from here. Eighty-seven percent of the districts that have been enacted so far were enacted under single-party rule, but 55 percent of the districts that have yet to be enacted will be drawn via independent or bipartisan means, such as redistricting commissions or the courts.</p>
+
+
+<div>
+<section><header><h5>Neither party will draw most of the remaining districts</h5>
+ <p>Which party controlled the redrawing of congressional districts that have already been enacted vs. which party controls the redrawing of congressional districts not yet enacted, as of Dec. 1, 2021, at 5 p.m. Eastern</p>
+ </header><table data-carpenter-slug="rakich.redistricting-overview.4"><thead><tr><th colspan="1">Party in Control</th>
+ <th colspan="1">Finished Districts</th>
+ <th colspan="1">Unfinished Districts</th>
+ </tr></thead><tbody><tr><td>Democrats</td>
+ <td>36</td>
+ <td>39</td>
+ </tr><tr><td>Republicans</td>
+ <td>101</td>
+ <td>86</td>
+ </tr><tr><td>Neither</td>
+ <td>20</td>
+ <td>153</td>
+ </tr></tbody></table><footer><p>Sources: U.S. Census Bureau, news reports</p>
+ </footer></section></div>
+
+
+<p data-paragraph="main">Second, the new House maps still have an overall bias toward the GOP. The partisan balance of power may not have changed much from the old maps to the new, but the old maps were hardly a neutral baseline: They were disproportionately drawn by Republicans during the 2011 redistricting cycle, after the red-wave election of 2010. So a 2021 redistricting cycle that largely maintains the status quo is good news for Republicans.</p>
+
+
+
+<p data-paragraph="main">Our redistricting tracker uses <a href="https://fivethirtyeight.com/features/how-fivethirtyeights-redistricting-tracker-works/" target="_blank" rel="noopener">a couple of different metrics</a> to measure the bias of congressional maps: the efficiency gap (the difference between the two parties’ “wasted votes” divided by the total number of voters)<a data-footnote-id="2" href="https://fivethirtyeight.com/wp-json/wp/v2/espn_verticals/398#fn-2" data-footnote-content="&lt;p&gt;&lt;p&gt;“Wasted votes” are defined as all votes cast for the losing party in a district as well as votes for the winning party in excess of a majority. To take a simple example, imagine a state with three districts — two of which Republicans win 60 votes to 40 votes, and one of which Democrats win 90 votes to 10 votes. Democrats have 40 wasted votes in each of the first two districts and 39 in the third (because they won 39 more votes than 51, the district’s majority threshold), for a total of 119. Meanwhile, Republicans have nine wasted votes in each of the first two districts and 10 in the third district, for a total of 28. The map’s efficiency gap is therefore 91 (119 minus 28) divided by 300 (the total number of votes in all three districts), or 30.3 percentage points in favor of Republicans. Since there have been no House elections under the new maps yet, we calculate the efficiency gap for all maps based on the results of the 2020 presidential election.&lt;/p&gt;
+&lt;/p&gt;"><sup>2</sup></a> and the difference between a state’s partisan lean and that of its median congressional district. And on both measures, Republican-biased maps are both more numerous and more severe in their bias than Democratic-biased maps.</p>
+
+
+<div>
+
+<section><header><h5>New congressional maps mostly have a bias toward the GOP</h5>
+ <p>The median-seat bias and efficiency gap (two measures of map fairness) of new congressional maps enacted as of Dec. 1, 2021, at 5 p.m. Eastern</p>
+ </header><table data-carpenter-slug="rakich.redistricting-overview.5"><thead><tr><th colspan="1" data-sort-index="0"><span>State<span><span>▲</span><span>▼</span></span>
+ </span>
+ </th>
+ <th colspan="1" data-sort-index="1">Party in <span>Control<span><span>▲</span><span>▼</span></span>
+ </span>
+ </th>
+ <th colspan="1" data-sort-index="2" data-sort-method="number">Median <span>seat<span><span>▲</span><span>▼</span></span>
+ </span>
+ </th>
+ <th colspan="1" data-sort-index="3" data-sort-method="number" aria-sort="ascending" data-sort-default="true">Efficiency <span>gap<span><span>▲</span><span>▼</span></span>
+ </span>
+ </th>
+ </tr></thead><tbody><tr><td data-sort="NaN">Iowa</td>
+ <td data-sort="NaN"><span></span>R</td>
+ <td data-sort="-5">D+5</td>
+ <td data-sort="42">R+42</td>
+ </tr><tr><td data-sort="NaN">Utah</td>
+ <td data-sort="NaN"><span></span>R</td>
+ <td data-sort="-1">D+1</td>
+ <td data-sort="29">R+29</td>
+ </tr><tr><td data-sort="NaN">North Carolina</td>
+ <td data-sort="NaN"><span></span>R</td>
+ <td data-sort="11">R+11</td>
+ <td data-sort="20">R+20</td>
+ </tr><tr><td data-sort="NaN">Ohio</td>
+ <td data-sort="NaN"><span></span>R</td>
+ <td data-sort="3">R+3</td>
+ <td data-sort="16">R+16</td>
+ </tr><tr><td data-sort="NaN">Oklahoma</td>
+ <td data-sort="NaN"><span></span>R</td>
+ <td data-sort="-2">D+2</td>
+ <td data-sort="16">R+16</td>
+ </tr><tr><td data-sort="NaN">Texas</td>
+ <td data-sort="NaN"><span></span>R</td>
+ <td data-sort="12">R+12</td>
+ <td data-sort="15">R+15</td>
+ </tr><tr><td data-sort="NaN">Indiana</td>
+ <td data-sort="NaN"><span></span>R</td>
+ <td data-sort="10">R+10</td>
+ <td data-sort="12">R+12</td>
+ </tr><tr><td data-sort="NaN">Alabama</td>
+ <td data-sort="NaN"><span></span>R</td>
+ <td data-sort="4">R+4</td>
+ <td data-sort="10">R+10</td>
+ </tr><tr><td data-sort="NaN">Colorado</td>
+ <td data-sort="NaN"><span></span>I</td>
+ <td data-sort="5">R+5</td>
+ <td data-sort="2">R+2</td>
+ </tr><tr><td data-sort="NaN">Nebraska</td>
+ <td data-sort="NaN"><span></span>R</td>
+ <td data-sort="-8">D+8</td>
+ <td data-sort="-3">D+3</td>
+ </tr><tr><td data-sort="NaN">Illinois</td>
+ <td data-sort="NaN"><span></span>D</td>
+ <td data-sort="2">R+2</td>
+ <td data-sort="-13">D+13</td>
+ </tr><tr><td data-sort="NaN">Massachusetts</td>
+ <td data-sort="NaN"><span></span>D</td>
+ <td data-sort="5">R+5</td>
+ <td data-sort="-16">D+16</td>
+ </tr><tr><td data-sort="NaN">Oregon</td>
+ <td data-sort="NaN"><span></span>D</td>
+ <td data-sort="3">R+3</td>
+ <td data-sort="-17">D+17</td>
+ </tr><tr><td data-sort="NaN">Nevada</td>
+ <td data-sort="NaN"><span></span>D</td>
+ <td data-sort="-6">D+6</td>
+ <td data-sort="-19">D+19</td>
+ </tr></tbody></table><footer><p>Includes states with more than two congressional districts.</p>
+ <p>Sources: U.S. Census Bureau, The Upshot, Voting Election and Science Team, Ryne Rohla/Decision Desk HQ</p>
+ </footer></section></div>
+
+
+<p data-paragraph="main">All four maps that have been enacted so far in states where Democrats control redistricting (Illinois, Massachusetts, Nevada and Oregon) have heavy Democratic biases going by efficiency gap (though, interestingly, Nevada is alone among them in having a Democratic median-seat bias). But eight GOP-controlled states have passed maps with significantly pro-Republican efficiency gaps, and most of those have Republican-leaning median seats too. </p>
+
+
+
+<p data-paragraph="main">There’s no foolproof statistical test for gerrymandering, but our metrics suggest the maps in <a href="https://projects.fivethirtyeight.com/redistricting-2022-maps/north-carolina/" target="_blank" rel="noopener">North Carolina</a> (R+20 efficiency gap, R+11 median-seat bias), Utah (R+29 efficiency gap, albeit a D+1 median-seat bias) and Texas (R+15 efficiency gap, R+12 median-seat bias) are some of the most egregious of the cycle so far.<a data-footnote-id="3" href="https://fivethirtyeight.com/wp-json/wp/v2/espn_verticals/398#fn-3" data-footnote-content="&lt;p&gt;&lt;p&gt;In an illustration of why not to put all your eggs in the basket of any one metric, I wouldn’t consider Iowa an unfair map even though it has the highest efficiency gap of all, R+42. That’s because three of its four districts are at least somewhat competitive. Its efficiency gap is so skewed because all four districts voted for former President Donald Trump in 2020, and therefore, every vote for President Biden in Iowa was “wasted” by efficiency gap’s definition. But in a different election — say, 2018, when Democrats won three of the state’s four House seats — it would be a different story.&lt;/p&gt;
+&lt;/p&gt;"><sup>3</sup></a></p>
+
+
+
+<p data-paragraph="main">Some of these maps, in fact, are so egregious that they may not survive long enough to get used in the 2022 elections (much less beyond that). Democrats have already filed lawsuits against several Republican-enacted congressional maps, including <a href="https://fivethirtyeight.com/features/north-carolina-republicans-passed-a-heavily-skewed-congressional-map-how-will-the-courts-respond/" target="_blank" rel="noopener">both partisan gerrymandering and racial gerrymandering suits in North Carolina</a>. They’re also arguing that <a href="https://projects.fivethirtyeight.com/redistricting-2022-maps/ohio/" target="_blank" rel="noopener">Ohio</a>’s new map (which has an R+16 efficiency gap and makes 11 of the state’s 15 districts Republican-leaning) violates the <a href="https://www.dispatch.com/story/news/politics/2021/11/22/redistricting-eric-holder-backed-lawsuit-challenges-ohio-congressional-map/8710272002/" target="_blank" rel="noopener">partisan-fairness requirement for redistricting</a> in the state constitution, and that <a href="https://projects.fivethirtyeight.com/redistricting-2022-maps/alabama/" target="_blank" rel="noopener">Alabama</a> ought to give Black voters the chance to elect a candidate of their choice in <a href="https://apnews.com/article/alabama-lawsuits-race-and-ethnicity-redistricting-montgomery-38e76cb85abe91e9007db0f278764c4d" target="_blank" rel="noopener">two districts, not just one</a>. </p>
+
+
+
+<p data-paragraph="main">If any of these lawsuits are successful, fairer replacement maps could wind up tilting the 2021 redistricting scales toward Democrats in a more unambiguous way. So, going forward, make sure you keep checking our <a href="https://projects.fivethirtyeight.com/redistricting-2022-maps/" target="_blank" rel="noopener">redistricting tracker</a>, which we’ll update in real time with any such developments.</p>]]></description>
+			<pubDate>Thu, 02 Dec 2021 11:00:00 +0000</pubDate>
+			<guid isPermaLink="false">1638446401884503</guid>
+		</item>
 		<item>
 			<title>What Americans Really Think About Abortion</title>
 			<link>https://fivethirtyeight.com/features/what-americans-really-think-about-abortion/</link>
@@ -294,8 +531,8 @@
 
 
 
-<p data-paragraph="main">But of that pair, West Virginia Rep. David McKinley is probably the most endangered because he now faces a <a href="https://apnews.com/article/wv-state-wire-west-virginia-charleston-redistricting-david-mckinley-8223ba3a5f15351c98d1dcc8e7098dfb" target="_blank" rel="noopener">primary battle</a> against fellow GOP Rep. Alex Mooney.<a data-footnote-id="1" href="https://fivethirtyeight.com/wp-json/wp/v2/espn_verticals/398#fn-1" data-footnote-content='&lt;p&gt;&lt;p&gt;McKinley does have at least one other minor primary challenger &lt;a href="https://www.fec.gov/data/committee/C00775155/?cycle=2022&amp;amp;tab=filings" target="_blank" rel="noopener"&gt;who filed back in April&lt;/a&gt;, but the primary will mainly be a contest between McKinley and Mooney.&lt;/p&gt;
-&lt;/p&gt;'><sup>1</sup></a> <a href="https://projects.fivethirtyeight.com/redistricting-2022-maps/west-virginia/" target="_blank" rel="noopener">West Virginia lost a congressional district</a> in the <a href="https://fivethirtyeight.com/features/which-states-won-and-lost-seats-in-the-2020-census/" target="_blank" rel="noopener">once-in-a-decade redistricting process</a>, which means McKinley and Mooney will now face off against each other in a district that merges most of their previous districts, and troublingly for McKinley in a state that <a href="https://uselectionatlas.org/RESULTS/state.php?year=2020&amp;fips=54&amp;f=0&amp;off=0&amp;elect=0" target="_blank" rel="noopener">voted for Trump by 39 percentage points</a>, Mooney has earned <a href="https://www.politico.com/news/2021/11/15/trump-west-virginia-mooney-mckinley-522608" target="_blank" rel="noopener">Trump’s backing</a>. </p>
+<p data-paragraph="main">But of that pair, West Virginia Rep. David McKinley is probably the most endangered because he now faces a <a href="https://apnews.com/article/wv-state-wire-west-virginia-charleston-redistricting-david-mckinley-8223ba3a5f15351c98d1dcc8e7098dfb" target="_blank" rel="noopener">primary battle</a> against fellow GOP Rep. Alex Mooney.<a data-footnote-id="4" href="https://fivethirtyeight.com/wp-json/wp/v2/espn_verticals/398#fn-4" data-footnote-content='&lt;p&gt;&lt;p&gt;McKinley does have at least one other minor primary challenger &lt;a href="https://www.fec.gov/data/committee/C00775155/?cycle=2022&amp;amp;tab=filings" target="_blank" rel="noopener"&gt;who filed back in April&lt;/a&gt;, but the primary will mainly be a contest between McKinley and Mooney.&lt;/p&gt;
+&lt;/p&gt;'><sup>4</sup></a> <a href="https://projects.fivethirtyeight.com/redistricting-2022-maps/west-virginia/" target="_blank" rel="noopener">West Virginia lost a congressional district</a> in the <a href="https://fivethirtyeight.com/features/which-states-won-and-lost-seats-in-the-2020-census/" target="_blank" rel="noopener">once-in-a-decade redistricting process</a>, which means McKinley and Mooney will now face off against each other in a district that merges most of their previous districts, and troublingly for McKinley in a state that <a href="https://uselectionatlas.org/RESULTS/state.php?year=2020&amp;fips=54&amp;f=0&amp;off=0&amp;elect=0" target="_blank" rel="noopener">voted for Trump by 39 percentage points</a>, Mooney has earned <a href="https://www.politico.com/news/2021/11/15/trump-west-virginia-mooney-mckinley-522608" target="_blank" rel="noopener">Trump’s backing</a>. </p>
 
 
 
@@ -486,8 +723,8 @@
 
 
 
-<p data-paragraph="main">Republicans and right-wing media have taken advantage of Rittenhouse’s darling status among both the mainstream and far right. Fox News already has a widely promoted one-on-one interview with Rittenhouse set to air during “Tucker Carlson Tonight” on Monday.<a data-footnote-id="2" href="https://fivethirtyeight.com/wp-json/wp/v2/espn_verticals/398#fn-2" data-footnote-content='&lt;p&gt;&lt;p&gt;An early &lt;a href="https://www.foxnews.com/media/kyle-rittenhouse-tucker-carlson-first-interview-after-acquittal" target="_blank" rel="noopener"&gt;clip of this interview&lt;/a&gt;, in which Rittenhouse says “I support the BLM movement,” caused some consternation among the far right, which largely opposes the movement, with some going so far as to call it a &lt;a href="https://www.economist.com/open-future/2018/08/09/black-lives-matter-is-not-a-terrorist-organisation" target="_blank" rel="noopener"&gt;terrorist organization&lt;/a&gt;.&lt;/p&gt;
-&lt;/p&gt;'><sup>2</sup></a> Fox News also published a story Saturday suggesting Rittenhouse could have a <a href="https://www.foxnews.com/us/rittenhouse-defamation-biden-tweet" data-type="URL" data-id="https://www.foxnews.com/us/rittenhouse-defamation-biden-tweet" target="_blank" rel="noopener">defamation case</a> against President Biden. Meanwhile, Republican politicians have praised the verdict and Rittenhouse. Former President Donald Trump <a href="https://www.youtube.com/watch?v=b0lReIesfZE" target="_blank" rel="noopener">called into Fox News Friday evening</a> to say he thought that Rittenhouse was “brave” for testifying and that the verdict was a “great decision”; Trump also asserted that the case was baseless to begin with — a common refrain on the far right. Republican Reps. Matt Gaetz, Paul Gosar, and Madison Cawthorn all seemed to <a href="https://www.rollingstone.com/politics/politics-news/republicans-celebrate-rittenhouse-verdict-1260353/" target="_blank" rel="noopener">offer Rittenhouse internships</a>. (No word on whether they’re paid or unpaid.) Sen. Ron Johnson of Wisconsin, the state where the shootings took place, <a href="https://twitter.com/SenRonJohnson/status/1461766292080316427?ref_src=twsrc%5Etfw%7Ctwcamp%5Etweetembed%7Ctwterm%5E1461766292080316427%7Ctwgr%5E%7Ctwcon%5Es1_&amp;ref_url=https%3A%2F%2Fwww.rollingstone.com%2Fpolitics%2Fpolitics-news%2Frepublicans-celebrate-rittenhouse-verdict-1260353%2F" target="_blank" rel="noopener">tweeted that justice had been served</a>, and Rep. Thomas Massie of Kentucky <a href="https://twitter.com/RepThomasMassie/status/1461763089876017152?ref_src=twsrc%5Etfw%7Ctwcamp%5Etweetembed%7Ctwterm%5E1461763089876017152%7Ctwgr%5E%7Ctwcon%5Es1_&amp;ref_url=https%3A%2F%2Fwww.rollingstone.com%2Fpolitics%2Fpolitics-news%2Frepublicans-celebrate-rittenhouse-verdict-1260353%2F" target="_blank" rel="noopener">tweeted a video of the verdict</a> being read with the caption: “There is hope for this country.”</p>
+<p data-paragraph="main">Republicans and right-wing media have taken advantage of Rittenhouse’s darling status among both the mainstream and far right. Fox News already has a widely promoted one-on-one interview with Rittenhouse set to air during “Tucker Carlson Tonight” on Monday.<a data-footnote-id="5" href="https://fivethirtyeight.com/wp-json/wp/v2/espn_verticals/398#fn-5" data-footnote-content='&lt;p&gt;&lt;p&gt;An early &lt;a href="https://www.foxnews.com/media/kyle-rittenhouse-tucker-carlson-first-interview-after-acquittal" target="_blank" rel="noopener"&gt;clip of this interview&lt;/a&gt;, in which Rittenhouse says “I support the BLM movement,” caused some consternation among the far right, which largely opposes the movement, with some going so far as to call it a &lt;a href="https://www.economist.com/open-future/2018/08/09/black-lives-matter-is-not-a-terrorist-organisation" target="_blank" rel="noopener"&gt;terrorist organization&lt;/a&gt;.&lt;/p&gt;
+&lt;/p&gt;'><sup>5</sup></a> Fox News also published a story Saturday suggesting Rittenhouse could have a <a href="https://www.foxnews.com/us/rittenhouse-defamation-biden-tweet" data-type="URL" data-id="https://www.foxnews.com/us/rittenhouse-defamation-biden-tweet" target="_blank" rel="noopener">defamation case</a> against President Biden. Meanwhile, Republican politicians have praised the verdict and Rittenhouse. Former President Donald Trump <a href="https://www.youtube.com/watch?v=b0lReIesfZE" target="_blank" rel="noopener">called into Fox News Friday evening</a> to say he thought that Rittenhouse was “brave” for testifying and that the verdict was a “great decision”; Trump also asserted that the case was baseless to begin with — a common refrain on the far right. Republican Reps. Matt Gaetz, Paul Gosar, and Madison Cawthorn all seemed to <a href="https://www.rollingstone.com/politics/politics-news/republicans-celebrate-rittenhouse-verdict-1260353/" target="_blank" rel="noopener">offer Rittenhouse internships</a>. (No word on whether they’re paid or unpaid.) Sen. Ron Johnson of Wisconsin, the state where the shootings took place, <a href="https://twitter.com/SenRonJohnson/status/1461766292080316427?ref_src=twsrc%5Etfw%7Ctwcamp%5Etweetembed%7Ctwterm%5E1461766292080316427%7Ctwgr%5E%7Ctwcon%5Es1_&amp;ref_url=https%3A%2F%2Fwww.rollingstone.com%2Fpolitics%2Fpolitics-news%2Frepublicans-celebrate-rittenhouse-verdict-1260353%2F" target="_blank" rel="noopener">tweeted that justice had been served</a>, and Rep. Thomas Massie of Kentucky <a href="https://twitter.com/RepThomasMassie/status/1461763089876017152?ref_src=twsrc%5Etfw%7Ctwcamp%5Etweetembed%7Ctwterm%5E1461763089876017152%7Ctwgr%5E%7Ctwcon%5Es1_&amp;ref_url=https%3A%2F%2Fwww.rollingstone.com%2Fpolitics%2Fpolitics-news%2Frepublicans-celebrate-rittenhouse-verdict-1260353%2F" target="_blank" rel="noopener">tweeted a video of the verdict</a> being read with the caption: “There is hope for this country.”</p>
 
 
 
@@ -597,8 +834,8 @@
 
 
 
-<p data-paragraph="main">In seeking to explain the result, <a href="https://www.washingtonpost.com/opinions/ocasio-cortez-just-did-democrats-a-big-favor/2018/06/27/dafdc498-7a4c-11e8-aeee-4d04c8ac6158_story.html" target="_blank" rel="noopener">commentators</a> at the time <a href="https://slate.com/news-and-politics/2018/07/midterms-alexandria-ocasio-cortez-won-in-part-because-of-demographics-and-thats-a-good-thing.html" target="_blank" rel="noopener">pointed to</a> the district’s changing demographics: Ocasio-Cortez, like 47 percent of the 14th District’s voting-age population, is Hispanic, while Crowley, like only 23 percent of the district’s VAP, is non-Hispanic white.<a data-footnote-id="3" href="https://fivethirtyeight.com/wp-json/wp/v2/espn_verticals/398#fn-3" data-footnote-content="&lt;p&gt;&lt;p&gt;All demographic data in this article is from the 2020 census.&lt;/p&gt;
-&lt;/p&gt;"><sup>3</sup></a> However, this explanation doesn’t tell the whole story as Ocasio-Cortez performed well in both white and Hispanic corners of the district. According to <a href="https://www.dataforprogress.org/who-we-are" target="_blank" rel="noopener">Sean McElwee</a>, the co-founder and executive director of Data for Progress, Ocasio-Cortez “benefited from a situation where very highly engaged liberal people were the big constituency that were turning out.”</p>
+<p data-paragraph="main">In seeking to explain the result, <a href="https://www.washingtonpost.com/opinions/ocasio-cortez-just-did-democrats-a-big-favor/2018/06/27/dafdc498-7a4c-11e8-aeee-4d04c8ac6158_story.html" target="_blank" rel="noopener">commentators</a> at the time <a href="https://slate.com/news-and-politics/2018/07/midterms-alexandria-ocasio-cortez-won-in-part-because-of-demographics-and-thats-a-good-thing.html" target="_blank" rel="noopener">pointed to</a> the district’s changing demographics: Ocasio-Cortez, like 47 percent of the 14th District’s voting-age population, is Hispanic, while Crowley, like only 23 percent of the district’s VAP, is non-Hispanic white.<a data-footnote-id="6" href="https://fivethirtyeight.com/wp-json/wp/v2/espn_verticals/398#fn-6" data-footnote-content="&lt;p&gt;&lt;p&gt;All demographic data in this article is from the 2020 census.&lt;/p&gt;
+&lt;/p&gt;"><sup>6</sup></a> However, this explanation doesn’t tell the whole story as Ocasio-Cortez performed well in both white and Hispanic corners of the district. According to <a href="https://www.dataforprogress.org/who-we-are" target="_blank" rel="noopener">Sean McElwee</a>, the co-founder and executive director of Data for Progress, Ocasio-Cortez “benefited from a situation where very highly engaged liberal people were the big constituency that were turning out.”</p>
 
 
 
@@ -610,8 +847,8 @@
 
 
 
-<p data-paragraph="main">A few weeks after Ocasio-Cortez, the second member of the Squad eked out a win in her primary. On Aug. 7, 2018, former state Rep. Rashida Tlaib edged out Detroit City Council President Brenda Jones, another woman of color, in the regularly scheduled Democratic primary for Michigan’s open 13th District, 31 percent to 30 percent.<a data-footnote-id="4" href="https://fivethirtyeight.com/wp-json/wp/v2/espn_verticals/398#fn-4" data-footnote-content="&lt;p&gt;&lt;p&gt;There was also a concurrent special election to fill the remainder of Rep. John Conyers’s term, and Jones actually won that primary 38 percent to 36 percent.&lt;/p&gt;
-&lt;/p&gt;"><sup>4</sup></a> </p>
+<p data-paragraph="main">A few weeks after Ocasio-Cortez, the second member of the Squad eked out a win in her primary. On Aug. 7, 2018, former state Rep. Rashida Tlaib edged out Detroit City Council President Brenda Jones, another woman of color, in the regularly scheduled Democratic primary for Michigan’s open 13th District, 31 percent to 30 percent.<a data-footnote-id="7" href="https://fivethirtyeight.com/wp-json/wp/v2/espn_verticals/398#fn-7" data-footnote-content="&lt;p&gt;&lt;p&gt;There was also a concurrent special election to fill the remainder of Rep. John Conyers’s term, and Jones actually won that primary 38 percent to 36 percent.&lt;/p&gt;
+&lt;/p&gt;"><sup>7</sup></a> </p>
 
 
 
@@ -817,8 +1054,8 @@
 
 
 
-<figure><img loading="lazy" width="1150" height="920" src="https://fivethirtyeight.com/wp-content/uploads/2021/11/biden-approval-rating-2-1.png" alt="" data-src="https://fivethirtyeight.com/wp-content/uploads/2021/11/biden-approval-rating-2-1.png" data-srcset="https://fivethirtyeight.com/wp-content/uploads/2021/11/biden-approval-rating-2-1.png?w=700 1x, https://fivethirtyeight.com/wp-content/uploads/2021/11/biden-approval-rating-2-1.png?w=1400 2x"></figure><p data-paragraph="main">According to FiveThirtyEight’s <a href="https://projects.fivethirtyeight.com/biden-approval-rating/" target="_blank" rel="noopener">presidential approval tracker</a>, 42.5 percent of Americans approve of the job Biden is doing as president, while 51.6 percent disapprove (a net approval rating of -9.1 points).<a data-footnote-id="5" href="https://fivethirtyeight.com/wp-json/wp/v2/espn_verticals/398#fn-5" data-footnote-content="&lt;p&gt;&lt;p&gt;As of 5 p.m. Eastern on Thursday.&lt;/p&gt;
-&lt;/p&gt;"><sup>5</sup></a> At this time <a href="https://fivethirtyeight.com/features/most-americans-are-afraid-of-inflation/" target="_blank" rel="noopener">last week</a>, 42.5 percent approved and 51.6 percent disapproved (a net approval rating of -9.1 points). One month ago, Biden had an approval rating of 44.8 percent and a disapproval rating of 49.5 percent (a net approval rating of -4.7 points).</p>
+<figure><img loading="lazy" width="1150" height="920" src="https://fivethirtyeight.com/wp-content/uploads/2021/11/biden-approval-rating-2-1.png" alt="" data-src="https://fivethirtyeight.com/wp-content/uploads/2021/11/biden-approval-rating-2-1.png" data-srcset="https://fivethirtyeight.com/wp-content/uploads/2021/11/biden-approval-rating-2-1.png?w=700 1x, https://fivethirtyeight.com/wp-content/uploads/2021/11/biden-approval-rating-2-1.png?w=1400 2x"></figure><p data-paragraph="main">According to FiveThirtyEight’s <a href="https://projects.fivethirtyeight.com/biden-approval-rating/" target="_blank" rel="noopener">presidential approval tracker</a>, 42.5 percent of Americans approve of the job Biden is doing as president, while 51.6 percent disapprove (a net approval rating of -9.1 points).<a data-footnote-id="8" href="https://fivethirtyeight.com/wp-json/wp/v2/espn_verticals/398#fn-8" data-footnote-content="&lt;p&gt;&lt;p&gt;As of 5 p.m. Eastern on Thursday.&lt;/p&gt;
+&lt;/p&gt;"><sup>8</sup></a> At this time <a href="https://fivethirtyeight.com/features/most-americans-are-afraid-of-inflation/" target="_blank" rel="noopener">last week</a>, 42.5 percent approved and 51.6 percent disapproved (a net approval rating of -9.1 points). One month ago, Biden had an approval rating of 44.8 percent and a disapproval rating of 49.5 percent (a net approval rating of -4.7 points).</p>
 
 
 
@@ -826,8 +1063,8 @@
 
 
 
-<figure><img loading="lazy" width="1150" height="920" src="https://fivethirtyeight.com/wp-content/uploads/2021/11/generic-ballot-2-1.png" alt="" data-src="https://fivethirtyeight.com/wp-content/uploads/2021/11/generic-ballot-2-1.png" data-srcset="https://fivethirtyeight.com/wp-content/uploads/2021/11/generic-ballot-2-1.png?w=700 1x, https://fivethirtyeight.com/wp-content/uploads/2021/11/generic-ballot-2-1.png?w=1400 2x"></figure><p data-paragraph="main">In our average of polls of the <a href="https://projects.fivethirtyeight.com/congress-generic-ballot-polls/" target="_blank" rel="noopener">generic congressional ballot</a>, Republicans currently lead Democrats by 0.6 percentage points (42.5 percent to 41.9 percent, respectively).<a data-footnote-id="6" href="https://fivethirtyeight.com/wp-json/wp/v2/espn_verticals/398#fn-6" data-footnote-content="&lt;p&gt;&lt;p&gt;As of 5 p.m. Eastern on Thursday.&lt;/p&gt;
-&lt;/p&gt;"><sup>6</sup></a> A week ago, Democrats led Republicans by 1.3 percentage points (42.5 percent to 41.2 percent, respectively). At this time last month, voters preferred Democrats over Republicans by 2.8 points (44.3 percent to 41.5 percent).</p>]]></description>
+<figure><img loading="lazy" width="1150" height="920" src="https://fivethirtyeight.com/wp-content/uploads/2021/11/generic-ballot-2-1.png" alt="" data-src="https://fivethirtyeight.com/wp-content/uploads/2021/11/generic-ballot-2-1.png" data-srcset="https://fivethirtyeight.com/wp-content/uploads/2021/11/generic-ballot-2-1.png?w=700 1x, https://fivethirtyeight.com/wp-content/uploads/2021/11/generic-ballot-2-1.png?w=1400 2x"></figure><p data-paragraph="main">In our average of polls of the <a href="https://projects.fivethirtyeight.com/congress-generic-ballot-polls/" target="_blank" rel="noopener">generic congressional ballot</a>, Republicans currently lead Democrats by 0.6 percentage points (42.5 percent to 41.9 percent, respectively).<a data-footnote-id="9" href="https://fivethirtyeight.com/wp-json/wp/v2/espn_verticals/398#fn-9" data-footnote-content="&lt;p&gt;&lt;p&gt;As of 5 p.m. Eastern on Thursday.&lt;/p&gt;
+&lt;/p&gt;"><sup>9</sup></a> A week ago, Democrats led Republicans by 1.3 percentage points (42.5 percent to 41.2 percent, respectively). At this time last month, voters preferred Democrats over Republicans by 2.8 points (44.3 percent to 41.5 percent).</p>]]></description>
 			<pubDate>Fri, 19 Nov 2021 11:00:00 +0000</pubDate>
 			<guid isPermaLink="false">1637321401825799</guid>
 		</item>
@@ -938,8 +1175,8 @@
 
 
 
-<p data-paragraph="main">Numerous scholars from both inside and outside of academia have studied how policy decisions over the previous several decades created these conditions. In one early study conducted in the 1980s, for instance, the U.S. Government Accountability Office<a data-footnote-id="7" href="https://fivethirtyeight.com/wp-json/wp/v2/espn_verticals/398#fn-7" data-footnote-content="&lt;p&gt;&lt;p&gt;Then known as the General Accounting Office.&lt;/p&gt;
-&lt;/p&gt;"><sup>7</sup></a> found that <a href="https://www.gao.gov/products/rced-83-168" target="_blank" rel="noopener">a disproportionate number of waste sites</a> were placed in African American communities in the South. A few years later, <a href="https://www.nrc.gov/docs/ML1310/ML13109A339.pdf" target="_blank" rel="noopener">another study</a> built on the GAO results and found that the percentage of racial and ethnic minorities in a community was a large predictor of where commercial hazardous waste facilities were placed around the country. </p>
+<p data-paragraph="main">Numerous scholars from both inside and outside of academia have studied how policy decisions over the previous several decades created these conditions. In one early study conducted in the 1980s, for instance, the U.S. Government Accountability Office<a data-footnote-id="10" href="https://fivethirtyeight.com/wp-json/wp/v2/espn_verticals/398#fn-10" data-footnote-content="&lt;p&gt;&lt;p&gt;Then known as the General Accounting Office.&lt;/p&gt;
+&lt;/p&gt;"><sup>10</sup></a> found that <a href="https://www.gao.gov/products/rced-83-168" target="_blank" rel="noopener">a disproportionate number of waste sites</a> were placed in African American communities in the South. A few years later, <a href="https://www.nrc.gov/docs/ML1310/ML13109A339.pdf" target="_blank" rel="noopener">another study</a> built on the GAO results and found that the percentage of racial and ethnic minorities in a community was a large predictor of where commercial hazardous waste facilities were placed around the country. </p>
 
 
 
@@ -1252,8 +1489,8 @@
 			<category>Big Tech</category>
 			<category>Facebook</category>
 			<category>Technology</category>
-			<description><![CDATA[<p data-paragraph="main">Facebook’s algorithm<a data-footnote-id="8" href="https://fivethirtyeight.com/wp-json/wp/v2/espn_verticals/398#fn-8" data-footnote-content="&lt;p&gt;&lt;p&gt;Facebook’s platform runs on a system of many algorithms that all have different functions and interact with one another. This system is colloquially referred to as “the algorithm.”&lt;/p&gt;
-&lt;/p&gt;"><sup>8</sup></a> is its superpower — and its kryptonite. Yes, it <a href="https://www.cnn.com/2021/10/10/tech/facebook-whistleblower-algorithms-fix/index.html" target="_blank" rel="noopener">leads to higher engagement</a> that earns the company <a href="https://www.nbcnews.com/tech/tech-news/facebook-reports-9-billion-profit-day-documents-highlight-internal-ang-rcna3757" target="_blank" rel="noopener">billions of dollars</a>, but it’s also tied to some of <a href="https://www.theguardian.com/technology/2018/mar/17/facebook-cambridge-analytica-kogan-data-algorithm" target="_blank" rel="noopener">the company’s biggest scandals</a>. Last month, when the Facebook Papers — a <a href="https://abcnews.go.com/Politics/wireStory/explainer-facebook-papers-80766584" target="_blank" rel="noopener">trove of leaked corporate documents</a> provided to reporters and Congress — were released, a mountain of news coverage blamed the algorithm for <a href="https://www.washingtonpost.com/technology/2021/10/26/facebook-angry-emoji-algorithm/" target="_blank" rel="noopener">the spread of misinformation</a> and divisive content, <a href="https://www.nbcnews.com/tech/tech-news/facebook-knew-radicalized-users-rcna3581" target="_blank" rel="noopener">radicalizing users</a> and <a href="https://www.bloomberg.com/news/articles/2021-10-23/how-facebook-s-algorithm-led-a-new-india-user-to-fake-news-violence" target="_blank" rel="noopener">failing to protect them</a> from some of the most graphic content on the site.</p>
+			<description><![CDATA[<p data-paragraph="main">Facebook’s algorithm<a data-footnote-id="11" href="https://fivethirtyeight.com/wp-json/wp/v2/espn_verticals/398#fn-11" data-footnote-content="&lt;p&gt;&lt;p&gt;Facebook’s platform runs on a system of many algorithms that all have different functions and interact with one another. This system is colloquially referred to as “the algorithm.”&lt;/p&gt;
+&lt;/p&gt;"><sup>11</sup></a> is its superpower — and its kryptonite. Yes, it <a href="https://www.cnn.com/2021/10/10/tech/facebook-whistleblower-algorithms-fix/index.html" target="_blank" rel="noopener">leads to higher engagement</a> that earns the company <a href="https://www.nbcnews.com/tech/tech-news/facebook-reports-9-billion-profit-day-documents-highlight-internal-ang-rcna3757" target="_blank" rel="noopener">billions of dollars</a>, but it’s also tied to some of <a href="https://www.theguardian.com/technology/2018/mar/17/facebook-cambridge-analytica-kogan-data-algorithm" target="_blank" rel="noopener">the company’s biggest scandals</a>. Last month, when the Facebook Papers — a <a href="https://abcnews.go.com/Politics/wireStory/explainer-facebook-papers-80766584" target="_blank" rel="noopener">trove of leaked corporate documents</a> provided to reporters and Congress — were released, a mountain of news coverage blamed the algorithm for <a href="https://www.washingtonpost.com/technology/2021/10/26/facebook-angry-emoji-algorithm/" target="_blank" rel="noopener">the spread of misinformation</a> and divisive content, <a href="https://www.nbcnews.com/tech/tech-news/facebook-knew-radicalized-users-rcna3581" target="_blank" rel="noopener">radicalizing users</a> and <a href="https://www.bloomberg.com/news/articles/2021-10-23/how-facebook-s-algorithm-led-a-new-india-user-to-fake-news-violence" target="_blank" rel="noopener">failing to protect them</a> from some of the most graphic content on the site.</p>
 
 
 
@@ -1472,13 +1709,13 @@
 
 
 
-<p data-paragraph="main">It was 1996, when he was living in Pennsylvania’s 14th District, long represented by William Coyne, a Democrat. The Republican candidate, Bill Ravotti, didn’t really stand a chance of defeating Coyne, but Leonardon still couldn’t bring himself to vote for Ravotti. Instead, Leonardon wrote his own name on the ballot.<a data-footnote-id="9" href="https://fivethirtyeight.com/wp-json/wp/v2/espn_verticals/398#fn-9" data-footnote-content="&lt;p&gt;&lt;p&gt;That year, the only other candidate on the ballot was Paul Scherrer of the Socialist Equality Party.&lt;/p&gt;
-&lt;/p&gt;"><sup>9</sup></a> That’s because, as a gay man, Leonardon found certain <a href="http://old.post-gazette.com/regionstate/19981024debate5.asp" target="_blank" rel="noopener">comments Ravotti made about gays and lesbians</a> unsettling. Leonardon stressed that “someone does not have to be very ‘pro-gay’ to get my vote.” He just doesn’t want politicians to espouse openly anti-gay views, adding that his policy when assessing political candidates is generally “I won’t discuss it if you won’t discuss it.”</p>
+<p data-paragraph="main">It was 1996, when he was living in Pennsylvania’s 14th District, long represented by William Coyne, a Democrat. The Republican candidate, Bill Ravotti, didn’t really stand a chance of defeating Coyne, but Leonardon still couldn’t bring himself to vote for Ravotti. Instead, Leonardon wrote his own name on the ballot.<a data-footnote-id="12" href="https://fivethirtyeight.com/wp-json/wp/v2/espn_verticals/398#fn-12" data-footnote-content="&lt;p&gt;&lt;p&gt;That year, the only other candidate on the ballot was Paul Scherrer of the Socialist Equality Party.&lt;/p&gt;
+&lt;/p&gt;"><sup>12</sup></a> That’s because, as a gay man, Leonardon found certain <a href="http://old.post-gazette.com/regionstate/19981024debate5.asp" target="_blank" rel="noopener">comments Ravotti made about gays and lesbians</a> unsettling. Leonardon stressed that “someone does not have to be very ‘pro-gay’ to get my vote.” He just doesn’t want politicians to espouse openly anti-gay views, adding that his policy when assessing political candidates is generally “I won’t discuss it if you won’t discuss it.”</p>
 
 
 
-<p data-paragraph="main">But the fact that Leonardon voted for a Republican even once — and has continued to support Republican or independent candidates — is notable because most lesbian, gay and bisexual voters tend to identify as Democrats.<a data-footnote-id="10" href="https://fivethirtyeight.com/wp-json/wp/v2/espn_verticals/398#fn-10" data-footnote-content="&lt;p&gt;&lt;p&gt;FiveThirtyEight did not look at transgender Americans’ political beliefs for this story. Polling data for this segment of the electorate is sparse; plus, whether someone is transgender is separate from their sexual orientation. We also were not able to look at the political beliefs of Americans who identify as queer because of a lack of polling data.&lt;/p&gt;
-&lt;/p&gt;"><sup>10</sup></a> Lesbian, gay and bisexual Americans still represent a <a href="https://news.gallup.com/poll/329708/lgbt-identification-rises-latest-estimate.aspx" target="_blank" rel="noopener">small share of the adult population</a> (about 5 percent), but a 2016 <a href="https://www.pewresearch.org/fact-tank/2016/10/25/lesbian-gay-and-bisexual-voters-remain-a-solidly-democratic-bloc/" target="_blank" rel="noopener">Pew Research Center</a> study found that 82 percent of LGB voters identified as or leaned Democratic while only 18 percent identified as or leaned toward the GOP. Moreover, LGB voters were much more likely than the electorate overall to hold broadly liberal political beliefs. </p>
+<p data-paragraph="main">But the fact that Leonardon voted for a Republican even once — and has continued to support Republican or independent candidates — is notable because most lesbian, gay and bisexual voters tend to identify as Democrats.<a data-footnote-id="13" href="https://fivethirtyeight.com/wp-json/wp/v2/espn_verticals/398#fn-13" data-footnote-content="&lt;p&gt;&lt;p&gt;FiveThirtyEight did not look at transgender Americans’ political beliefs for this story. Polling data for this segment of the electorate is sparse; plus, whether someone is transgender is separate from their sexual orientation. We also were not able to look at the political beliefs of Americans who identify as queer because of a lack of polling data.&lt;/p&gt;
+&lt;/p&gt;"><sup>13</sup></a> Lesbian, gay and bisexual Americans still represent a <a href="https://news.gallup.com/poll/329708/lgbt-identification-rises-latest-estimate.aspx" target="_blank" rel="noopener">small share of the adult population</a> (about 5 percent), but a 2016 <a href="https://www.pewresearch.org/fact-tank/2016/10/25/lesbian-gay-and-bisexual-voters-remain-a-solidly-democratic-bloc/" target="_blank" rel="noopener">Pew Research Center</a> study found that 82 percent of LGB voters identified as or leaned Democratic while only 18 percent identified as or leaned toward the GOP. Moreover, LGB voters were much more likely than the electorate overall to hold broadly liberal political beliefs. </p>
 
 
 
@@ -2247,95 +2484,6 @@
 <p>Watch: https://abcnews.go.com/ThisWeek/video/buy-tuesdays-election-night-good-trumps-2024-prospects-81022758</p>]]></description>
 			<pubDate>Thu, 11 Nov 2021 11:00:00 +0000</pubDate>
 			<guid isPermaLink="false">1636632902046195</guid>
-		</item>
-		<item>
-			<title>Why White Voters With Racist Views Often Still Support Black Republicans</title>
-			<link>https://fivethirtyeight.com/features/why-racist-white-voters-often-favor-black-republicans/</link>
-						<dc:creator>Hakeem Jefferson</dc:creator>
-			<dc:creator>Hakeem Jefferson and Michael Tesler</dc:creator>
-			<category>2021 Elections</category>
-			<category>2021 Governors Elections</category>
-			<category>2022 Election</category>
-			<category>Barack Obama</category>
-			<category>Ben Carson</category>
-			<category>Race</category>
-			<category>Race and Ethnicity</category>
-			<category>Virginia</category>
-			<category>White Identity</category>
-			<description><![CDATA[<p data-paragraph="main">Can white voters who back a Black candidate still hold racist beliefs and views?</p>
-
-
-
-<p data-paragraph="main">That question has come to the fore in the wake of Glenn Youngkin’s <a href="https://fivethirtyeight.com/features/how-republicans-won-the-virginia-governors-race/" target="_blank" rel="noopener">gubernatorial victory in the blueish state of Virginia</a>. Conservatives were quick to <a href="https://www.nationalreview.com/2021/11/progressives-cry-racism-to-excuse-democratic-losses-in-virginia/" target="_blank" rel="noopener">counter claims</a> that Youngkin’s win <a href="https://www.theguardian.com/us-news/2021/nov/03/republicans-critical-race-theory-winning-electoral-issue" target="_blank" rel="noopener">represented the effectiveness of stoking racial fears</a> with results from Virginia’s down-ballot election for lieutenant governor — a contest where the Republican candidate, Winsome Sears, made history by becoming the first Black woman elected to statewide office in Virginia. The Wall Street Journal’s <a href="https://www.wsj.com/articles/virginia-governor-election-glenn-youngkin-race-11635979212" target="_blank" rel="noopener">editorial board</a>, for example, emphatically mocked the notion that “voters called white supremacists elected a Black Lt. Gov.” Conservative commentators on <a href="https://www.foxnews.com/media/the-five-media-glenn-youngkin-winsome-sears-virginia-critical-race-theory" target="_blank" rel="noopener">Fox News and Twitter</a>, including <a href="https://www.foxnews.com/media/jemele-hill-roasted-for-tweet-alleging-this-country-simply-loves-white-supremacy" target="_blank" rel="noopener">Sears herself</a>, also used the historic victory as an ostensible shield against accusations of Republican racism.</p>
-
-
-
-<p data-paragraph="main">But supporting a Black candidate hardly precludes voters from harboring racist beliefs and motivations. Republicans are <a href="https://press.princeton.edu/books/paperback/9780691196435/identity-crisis" target="_blank" rel="noopener">increasingly more likely than Democrats</a> to hold prejudiced views of minorities, so Black Republicans like Sears often draw especially strong support from white Americans with otherwise anti-Black views simply because they draw most of their support from Republican voters.</p>
-
-
-
-<p data-paragraph="main">A clear example of this was in the 2016 Republican presidential primary, when Ben Carson made a bid to become the GOP’s first African American presidential nominee. Support for Carson was positively correlated with the belief that Black Americans have too much influence on U.S. politics, according to data from <a href="https://wc.wustl.edu/taps-data-archive" target="_blank" rel="noopener">Washington University in St. Louis’s American Panel Survey (TAPS)</a> in late 2015:</p>
-
-
-
-<figure><img loading="lazy" width="1150" height="1194" src="https://fivethirtyeight.com/wp-content/uploads/2021/11/jefferson-tesler.BLACK-CANDIDATES.1110-1-1.png" alt="" data-src="https://fivethirtyeight.com/wp-content/uploads/2021/11/jefferson-tesler.BLACK-CANDIDATES.1110-1-1.png" data-srcset="https://fivethirtyeight.com/wp-content/uploads/2021/11/jefferson-tesler.BLACK-CANDIDATES.1110-1-1.png?w=700 1x, https://fivethirtyeight.com/wp-content/uploads/2021/11/jefferson-tesler.BLACK-CANDIDATES.1110-1-1.png?w=1400 2x"></figure><p data-paragraph="main">Whites who thought African Americans had “far too little” influence disliked Carson and preferred Hillary Clinton by 60 percentage points in a hypothetical general election matchup. Meanwhile, Carson was very popular among whites who were most concerned about African Americans having “too much” influence in politics. So much so that whites who thought African Americans have “far too much” influence preferred Carson to Clinton by 45 points.   </p>
-
-
-
-<p data-paragraph="main">Again, much of that relationship is down to partisanship — Republicans are more likely to hold prejudiced views and also more likely to support a Republican candidate. But that’s the point: For many white GOP voters, anti-Black views don’t seem to get in the way of supporting a Black Republican.</p>
-
-
-
-<p data-paragraph="main">You can see a similar pattern in the January <a href="https://electionstudies.org/data-center/anes-2016-pilot-study/" target="_blank" rel="noopener">2016 American National Election Studies Pilot Study</a>. Carson received more favorable evaluations among the sizable minority (40 percent) of overtly prejudiced whites who agreed with the racist stereotype that “most African Americans are more violent than most whites.” This group rated Carson significantly more favorably on a 0-100 scale than the white moderate Republican presidential candidate, Jeb Bush (52 to 39, respectively). Then-candidate Donald Trump was the only politician in the survey who was rated higher than Carson among overtly prejudiced whites.<a data-footnote-id="19" href="https://fivethirtyeight.com/wp-json/wp/v2/espn_verticals/398#fn-19" data-footnote-content="&lt;p&gt;&lt;p&gt;The politicians evaluated in the 2016 ANES Pilot Study were: Barack Obama, Hillary Clinton, Bernie Sanders, Marco Rubio, Ted Cruz, Carly Fiorina, Donald Trump, Jeb Bush and Ben Carson.&lt;/p&gt;
-&lt;/p&gt;"><sup>19</sup></a>                </p>
-
-
-
-<figure><img loading="lazy" width="1150" height="1002" src="https://fivethirtyeight.com/wp-content/uploads/2021/11/jefferson-tesler.BLACK-CANDIDATES.1110-2-1.png" alt="" data-src="https://fivethirtyeight.com/wp-content/uploads/2021/11/jefferson-tesler.BLACK-CANDIDATES.1110-2-1.png" data-srcset="https://fivethirtyeight.com/wp-content/uploads/2021/11/jefferson-tesler.BLACK-CANDIDATES.1110-2-1.png?w=700 1x, https://fivethirtyeight.com/wp-content/uploads/2021/11/jefferson-tesler.BLACK-CANDIDATES.1110-2-1.png?w=1400 2x"></figure><p data-paragraph="main">The contrast between how prejudiced whites rated Carson and Obama is rather revealing, as well. The sharp negative relationship between support for Obama and the endorsement of anti-Black stereotypes is consistent with <a href="https://yalebooks.yale.edu/book/9780300175196/end-race" target="_blank" rel="noopener">several</a> <a href="https://press.uchicago.edu/ucp/books/book/chicago/O/bo10443910.html" target="_blank" rel="noopener">studies</a> <a href="https://www.journals.uchicago.edu/doi/abs/10.1017/s0022381612000904" target="_blank" rel="noopener">showing</a> <a href="https://onlinelibrary.wiley.com/doi/abs/10.1111/j.1540-5907.2011.00564.x" target="_blank" rel="noopener">that</a> <a href="https://link.springer.com/article/10.1007/s11109-010-9108-y" target="_blank" rel="noopener">prejudice</a> was an <a href="https://www.jstor.org/stable/41319767" target="_blank" rel="noopener">unusually strong</a> <a href="https://www.sciencedirect.com/science/article/abs/pii/S0047272714000929" target="_blank" rel="noopener">predictor</a> of opposition to Obama from the 2008 election <a href="https://www.amazon.com/Post-Racial-Most-Racial-Politics-Chicago-American/dp/022635301X" target="_blank" rel="noopener">through the end of his presidency</a>. These patterns also fit well with <a href="https://www.jstor.org/stable/2749510" target="_blank" rel="noopener">other</a> <a href="https://www.cambridge.org/core/books/changing-white-attitudes-toward-black-political-leadership/D118208EC01BDF5B0FF0A99C92D3BA2E" target="_blank" rel="noopener">political science</a> <a href="http://www.stanfordlawreview.org/wp-content/uploads/sites/3/2016/06/8_-_Ansolabehere_-_68_Stan._L._Rev.pdf" target="_blank" rel="noopener">research</a> showing that racially prejudiced whites tend to be more opposed to Black Democrats than to white Democrats.          </p>
-
-
-
-<p data-paragraph="main">To make sense of why racially prejudiced white Americans are willing to support some Black candidates, it is worth considering why they so strongly oppose Black Democrats in the first place. Given the <a href="https://press.princeton.edu/books/paperback/9780691153889/racial-realignment" target="_blank" rel="noopener">racialized nature of the two-party system</a> in the United States, most Black political candidates are Democrats who embrace liberal positions on issues of race and justice. When asked whether they would support such a candidate, <a href="https://global.oup.com/academic/product/voting-hopes-or-fears-9780195101621?cc=us&amp;lang=en&amp;" target="_blank" rel="noopener">research shows</a> that racially prejudiced white voters worry that these candidates will represent the interests of Black Americans, both because of a shared African American identity  and because Democrats are <a href="https://press.princeton.edu/books/paperback/9780691196435/identity-crisis" target="_blank" rel="noopener">perceived as the party more supportive of Black interests</a>. So, it makes sense that racially resentful white Americans oppose candidates like Obama, as his racial identity <em>and</em> partisanship signaled to voters that he was <a href="https://www.amazon.com/Post-Racial-Most-Racial-Politics-Chicago-American/dp/022635301X" target="_blank" rel="noopener">more supportive of Black interests</a> than prior presidents. </p>
-
-
-
-<p data-paragraph="main">Put another way: Racially prejudiced white voters are not opposed to Black candidates simply because they are Black, but because they believe that most Black candidates will fight for “those people” and not “people like us.”</p>
-
-
-
-<p data-paragraph="main">Black Republicans, on the other hand, are <a href="https://academic.oup.com/poq/article/70/2/139/1912448" target="_blank" rel="noopener">perceived differently</a> by racially prejudiced white Americans. Their embrace of the Republican Party and its conservative ideology help assure racially prejudiced whites that, unlike Black Democrats, they are not in the business of carrying water for their own racial group. Instead, they are viewed as distinct from other Black elites. If Blackness is viewed as intertwined with a kind of racial liberalism that is antagonistic to the interests of white Americans, Black Republicans’ partisan and ideological commitments allay concerns that they are for “them,” not “us.”</p>
-
-
-<div>
-	<p>
-		<a href="https://fivethirtyeight.com/features/resist-the-pundits-what-the-2021-elections-can-and-cant-tell-us-about-2022/"><img alt="Supporters of Virginia Republican gubernatorial candidate Glenn Youngkin celebrate during an election night rally." width="153" height="115" data-sizes="(min-width: 440px) 153px, 100vw" data-srcset="https://fivethirtyeight.com/wp-content/uploads/2021/11/GettyImages-1350959916-4x3-1.jpg?w=153&amp;quality=100&amp;strip=all 153w, https://fivethirtyeight.com/wp-content/uploads/2021/11/GettyImages-1350959916-4x3-1.jpg?w=306&amp;quality=100&amp;strip=all 306w, https://fivethirtyeight.com/wp-content/uploads/2021/11/GettyImages-1350959916-4x3-1.jpg?w=405&amp;quality=100&amp;strip=all 405w, https://fivethirtyeight.com/wp-content/uploads/2021/11/GettyImages-1350959916-4x3-1.jpg?w=810&amp;quality=100&amp;strip=all 810w"></a>
-	</p>
-	<p>
-				<strong>Related:</strong>
-				What The 2021 Elections Can (And Can’t) Tell Us About 2022 <a href="https://fivethirtyeight.com/features/resist-the-pundits-what-the-2021-elections-can-and-cant-tell-us-about-2022/">Read more. »</a>
-	</p>
-</div>
-
-
-
-<p data-paragraph="main">This argument is buttressed by more <a href="https://www.journals.uchicago.edu/doi/abs/10.1086/708952?journalCode=jop" target="_blank" rel="noopener">recent scholarship</a> in political science, which has found that Black candidates who embrace a “bootstrap” ideology — an ideology that focuses on individual versus structural explanations of inequality — are more positively evaluated by racially prejudiced whites relative to their white competitors. Explaining this finding, the authors note that racially prejudiced white voters “might find black Republicans delivering an individualism message more favorable than they might find other candidates delivering a similar message precisely because the aesthetic character and the partisan affiliation of the messenger contradict racial and political expectations.” LaFleur Stephens-Dougan, a professor of political science at Princeton University, similarly shows in her book “<a href="https://press.uchicago.edu/ucp/books/book/chicago/R/bo50271574.html" target="_blank" rel="noopener">Race to the Bottom</a>” that racially resentful whites respond well to Black candidates who take stances against the expected positions of their racial group — a phenomenon she calls “<a href="https://news.harvard.edu/gazette/story/2020/11/how-politicians-practice-racial-distancing/" target="_blank" rel="noopener">racial distancing</a>.”</p>
-
-
-
-<p data-paragraph="main">Finally, voting for Black Republicans may also be especially appealing to racially prejudiced whites because it <a href="https://fivethirtyeight.com/features/how-the-politics-of-white-liberals-and-white-conservatives-are-shaped-by-whiteness/" target="_blank" rel="noopener">assuages concerns of being seen as racist</a> by enabling them to say, in essence, “I can’t be racist! I voted for a Black candidate!” Psychologists call this “<a href="https://journals.sagepub.com/doi/pdf/10.1177/0146167210385920?casa_token=ZYs_NQsQ6UUAAAAA:cYTNozXMv1BaxUXXgOFltZuDZbaMbQDoQ45nK4DO8O1RR3iuzEtNjEBlTDK5SI9Ztd7x9JYXZFKsjg" target="_blank" rel="noopener">moral credentialing</a>,” and there’s even <a href="https://news.stanford.edu/news/2009/march4/obama-moral-credentials-favor-whites-030409.html" target="_blank" rel="noopener">some evidence</a> that voters who expressed support for Obama shortly after the 2008 election felt more justified in favoring white Americans over Black Americans. Electing a Black Republican like Sears, who <a href="https://www.foxnews.com/media/virginia-republican-winsome-sears-critical-race-theory-nonsense" target="_blank" rel="noopener">railed against critical race theory</a> during the run-up to the election and <a href="https://twitter.com/winsomesears/status/1372941065007816705?lang=en" target="_blank" rel="noopener">supports voting restrictions</a> that <a href="https://www.brennancenter.org/our-work/research-reports/new-voter-suppression" target="_blank" rel="noopener">adversely affect racial minorities</a>, is similarly used as a symbolic shield by the entire party from inevitable charges of championing racist policies. As we mentioned earlier, conservative media outlets and politicians are already weaponizing her victory against anyone who would dare suggest so.    </p>
-
-
-
-<p data-paragraph="main">But, of course, the role race and racism play in American politics is much more nuanced than those simplistic defenses suggest. When racially prejudiced whites oppose Black candidates, it’s not just because of the candidate’s skin color. It’s also because they perceive (<a href="https://www.jstor.org/stable/pdf/3791741.pdf?casa_token=uYKOesmYykcAAAAA:d-YnnVbpIrcuvW4LXifNINvlzmidnOyOxQTynx6PA_gCzCM6mTgTsKU5yeFrYkwWdm1L-cw0WCe0ZpC-6v1hvBAvigo5Du16GgvF0TcyZevRA9wrRw_C" target="_blank" rel="noopener">sometimes wrongly</a>) that Black candidates, especially Black Democrats, have ideological commitments that are at odds with the interests of white Americans. Likewise, when racially prejudiced whites support Black Republicans, it’s hardly the case that they’ve become progressive on race. Racially prejudiced whites did not vote for Sears because they appreciated her attachment and commitment to Black people. They were willing to support her because they discounted it. </p>
-
-
-
-<p data-paragraph="main">Race, after all, is a social construct. It has meaning because we imbue it with meaning. Racially prejudiced whites are not hostile to Blackness, per se. They are hostile to a particular manifestation of Blackness — one that reflects a commitment to racial justice and the advancement of the group’s collective goals. Racially prejudiced whites are not bothered much by a manifestation of Blackness that is ideologically consistent with their own identities and attitudes. Why would they be? Sears’s conservative politics don’t threaten the racial hierarchy, and her candidacy provides cover for a party that’s often antagonistic to racial minorities. For racially prejudiced whites, the real question is what is there <em>not</em> to love about Black politicians like Sears?</p>
-
-
-<p>Watch: https://abcnews.go.com/fivethirtyeight/video/exit-polls-explain-voters-vote-81047251</p>]]></description>
-			<pubDate>Wed, 10 Nov 2021 18:18:00 +0000</pubDate>
-			<guid isPermaLink="false">1636569901598821</guid>
 		</item>
 
 	</channel>
