@@ -3,8 +3,8 @@
 		<title>Main stream | FreshRSS</title>
 		<link>http://radon</link>
 		<description>RSS feed of Main stream | FreshRSS</description>
-		<pubDate>Mon, 07 Feb 2022 22:59:07 +0000</pubDate>
-		<lastBuildDate>Mon, 07 Feb 2022 22:59:07 GMT</lastBuildDate>
+		<pubDate>Mon, 07 Feb 2022 23:29:06 +0000</pubDate>
+		<lastBuildDate>Mon, 07 Feb 2022 23:29:06 GMT</lastBuildDate>
 		<atom:link href="http://radon/i/?a=rss" rel="self" type="application/rss+xml" />
 		<item>
 			<title>What’s It Like Being A Democrat In Trump Country?</title>
@@ -242,7 +242,7 @@
 			<guid isPermaLink="false">1644208201877168</guid>
 		</item>
 		<item>
-			<title>How A Court Ruling In Alabama Could Boost Black Political Power Throughout The South</title>
+			<title>How A Court Ruling In Alabama Could Have Wider Implications For Racial Gerrymandering</title>
 			<link>https://fivethirtyeight.com/features/how-a-court-ruling-in-alabama-could-boost-black-political-power-throughout-the-south/</link>
 						<dc:creator>Nathaniel Rakich</dc:creator>
 			<dc:creator>Nathaniel Rakich</dc:creator>
@@ -250,7 +250,16 @@
 			<category>Redistricting</category>
 			<category>Supreme Court</category>
 			<category>Voting Rights Act</category>
-			<description><![CDATA[<p data-paragraph="main">On Jan. 24, Alabama became the second state (after Ohio) to have its new congressional map <a href="https://www.montgomeryadvertiser.com/story/news/2022/01/24/alabama-congressional-map-blocked-federal-court/9205925002/" target="_blank" rel="noopener">struck down in court</a>. But while Ohio’s map was <a href="https://fivethirtyeight.com/features/ohios-overturned-congressional-map-shows-how-lawsuits-might-scramble-redistricting/" target="_blank" rel="noopener">thrown out</a> by the state Supreme Court for violating the state constitution, Alabama’s was overturned by three federal judges who determined the map short-changed Black voters of representation in Congress. That’s a significant difference because it will require the Supreme Court to weigh in, potentially reshaping federal law in the process. As a result, the ruling could reverberate far beyond Alabama. It could open the door for increased nonwhite representation in other states, too — if it holds up on appeal.</p>
+			<description><![CDATA[<p data-paragraph="main"><strong>UPDATE (Feb. 7, 5:43 p.m. Eastern):</strong> On Feb. 7, the U.S. Supreme Court <a href="https://www.supremecourt.gov/opinions/21pdf/21a375_d18f.pdf" target="_blank" rel="noopener">reinstated</a> the congressional map passed by Alabama’s Republican-controlled legislature for the 2022 elections, pending a final decision on the merits of the case at a later date. The court’s ultimate ruling could still have broad implications for the Voting Rights Act’s protections against racial gerrymandering.</p>
+
+
+
+<div><hr><span></span></div>
+
+
+
+
+<p data-paragraph="main">On Jan. 24, Alabama became the second state (after Ohio) to have its new congressional map <a href="https://www.montgomeryadvertiser.com/story/news/2022/01/24/alabama-congressional-map-blocked-federal-court/9205925002/" target="_blank" rel="noopener">struck down in court</a>. But while Ohio’s map was <a href="https://fivethirtyeight.com/features/ohios-overturned-congressional-map-shows-how-lawsuits-might-scramble-redistricting/" target="_blank" rel="noopener">thrown out</a> by the state Supreme Court for violating the state constitution, Alabama’s was overturned by three federal judges who determined the map short-changed Black voters of representation in Congress. That’s a significant difference because it will require the Supreme Court to weigh in, potentially reshaping federal law in the process. As a result, the ruling could reverberate far beyond Alabama. It could open the door for increased nonwhite representation in other states, too — if it holds up on appeal.</p>
 
 
 
