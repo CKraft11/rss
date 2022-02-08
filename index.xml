@@ -3,9 +3,76 @@
 		<title>Main stream | FreshRSS</title>
 		<link>http://radon</link>
 		<description>RSS feed of Main stream | FreshRSS</description>
-		<pubDate>Tue, 08 Feb 2022 00:29:07 +0000</pubDate>
-		<lastBuildDate>Tue, 08 Feb 2022 00:29:07 GMT</lastBuildDate>
+		<pubDate>Tue, 08 Feb 2022 00:59:06 +0000</pubDate>
+		<lastBuildDate>Tue, 08 Feb 2022 00:59:06 GMT</lastBuildDate>
 		<atom:link href="http://radon/i/?a=rss" rel="self" type="application/rss+xml" />
+		<item>
+			<title>Politics Podcast: Americans Say They’re Over COVID-19. What Does That Mean?</title>
+			<link>https://fivethirtyeight.com/features/politics-podcast-americans-say-theyre-over-covid-19-what-does-that-mean/</link>
+						<dc:creator>Galen Druke</dc:creator>
+			<dc:creator>FiveThirtyEight</dc:creator>
+			<category>COVID-19</category>
+			<category>FiveThirtyEight Podcasts</category>
+			<category>Gerrymandering</category>
+			<category>Masks</category>
+			<category>Politics Podcast</category>
+			<category>Polling</category>
+			<category>Redistricting</category>
+			<category>Vaccine</category>
+			<description><![CDATA[<div data-href="https://fivethirtyeight.com/features/politics-podcast-americans-say-theyre-over-covid-19-what-does-that-mean/">
+	<div data-podcast-id="325134" data-podcast-duration="0" data-podcast-title="Politics Podcast: Americans Say They're Over COVID-19. What Does That Mean?">
+
+					<span><span>FiveThirtyEight</span></span>
+			
+		
+		<button aria-label="Play"></button>
+
+					<div>
+		
+		
+							<div>
+					<div>
+						<div></div>
+					</div>
+
+					<div> </div>
+
+					<audio preload="none" controls="controls">
+						<source src="https://www.podtrac.com/pts/redirect.mp3/traffic.megaphone.fm/ESP5201194401.mp3?updated=1644276336">
+					</source></audio>
+				</div>
+			
+					</div>
+		
+	</div>
+</div>
+<aside>
+	<div>
+		More: <a href="https://itunes.apple.com/us/podcast/fivethirtyeight-elections/id1077418457">Apple Podcasts</a> |
+		<span><a data-android-url="" href="http://m.espn.com/general/cast?id=14554755">ESPN App</a> |</span>
+		<a href="https://www.espn.com/espnradio/feeds/rss/podcast.xml?id=14554755">RSS</a>
+			</div>
+	</aside>
+
+
+
+
+<p data-paragraph="main">We are approaching the two-year mark of living with the COVID-19 pandemic in the U.S. Though the omicron wave is receding, the virus will unlikely just disappear, and people are unhappy and angry — about COVID-19 and plenty else. In surveys, <a href="https://www.dailywire.com/news/record-number-of-americans-report-being-unhappy" target="_blank" rel="noopener">more Americans</a> are saying they’re unhappy in their own lives, about two-thirds think the country is on the <a href="https://www.realclearpolitics.com/epolls/other/direction_of_country-902.html" target="_blank" rel="noopener">wrong track</a>, and Biden is <a href="https://projects.fivethirtyeight.com/biden-approval-rating/?ex_cid=rrpromo" target="_blank" rel="noopener">a percentage point away</a> from Trump’s record for being the least popular postwar president at this point in his term. In this installment of the <a href="https://fivethirtyeight.com/tag/politics-podcast/" target="_blank" rel="noopener">FiveThirtyEight Politics podcast</a>, the crew discusses how Americans are feeling and which types of COVID-19 restrictions they do and don’t support. </p>
+
+
+
+<p data-paragraph="main">The podcast also covers some big recent developments in the redistricting process happening around the country now. New York signed into law a map that aggressively advantages Democrats, and elsewhere, state and federal courts have struck down maps they consider gerrymanders.</p>
+
+
+
+<p data-paragraph="main"><em>You can listen to the episode by clicking the “play” button in the audio player above or by </em><a href="https://itunes.apple.com/us/podcast/fivethirtyeight-elections/id1077418457?mt=2" target="_blank" rel="noopener"><em>downloading it in iTunes</em></a><em>, the </em><a href="http://www.espn.com/espn/mobile/products/products/_/id/6857590" target="_blank" rel="noopener"><em>ESPN App</em></a><em> or your favorite podcast platform. If you are new to podcasts, </em><a href="https://fivethirtyeight.com/how-to-listen-to-fivethirtyeight-podcasts/" target="_blank" rel="noopener"><em>learn how to listen</em></a><em>.</em></p>
+
+
+
+<p data-paragraph="main"><em>The FiveThirtyEight Politics podcast is recorded Mondays and Thursdays. Help new listeners discover the show by </em><a href="https://itunes.apple.com/us/podcast/fivethirtyeight-elections/id1077418457?mt=2" target="_blank" rel="noopener"><em>leaving us a rating and review on iTunes</em></a><em>. Have a comment, question or suggestion for “good polling vs. bad polling”? Get in touch by email, </em><a href="https://twitter.com/FiveThirtyEight" target="_blank" rel="noopener"><em>on Twitter</em></a><em> or in the comments.</em></p>]]></description>
+			<pubDate>Mon, 07 Feb 2022 23:21:00 +0000</pubDate>
+			<guid isPermaLink="false">1644280201510526</guid>
+		</item>
 		<item>
 			<title>What’s It Like Being A Democrat In Trump Country?</title>
 			<link>https://fivethirtyeight.com/features/whats-it-like-being-a-democrat-in-trump-country/</link>
@@ -4011,257 +4078,6 @@
 <p>Watch: https://abcnews.go.com/fivethirtyeight/video/texas-abortion-ban-rest-country-fivethirtyeight-79824406</p>]]></description>
 			<pubDate>Thu, 02 Dec 2021 16:29:00 +0000</pubDate>
 			<guid isPermaLink="false">1638464401912275</guid>
-		</item>
-		<item>
-			<title>Redistricting Has Maintained The Status Quo So Far. That’s Good For Republicans.</title>
-			<link>https://fivethirtyeight.com/features/redistricting-has-maintained-the-status-quo-so-far-thats-good-for-republicans/</link>
-						<dc:creator>Nathaniel Rakich</dc:creator>
-			<dc:creator>Nathaniel Rakich</dc:creator>
-			<category>2022 House Elections</category>
-			<category>Gerrymandering</category>
-			<category>Redistricting</category>
-			<description><![CDATA[<p data-paragraph="main">The “2021 redistricting cycle” is about to become the “2022 redistricting cycle.” As we enter the final month of the year, only 18 states are finished redrawing their congressional districts (not counting the six states with only one district), a consequence of the <a href="https://fivethirtyeight.com/features/how-the-delayed-census-has-affected-redistricting/" target="_blank" rel="noopener">delayed release of census data</a>. Nevertheless, our view of the U.S. House battlefield for 2022 (and beyond) is starting to come into focus. </p>
-
-
-
-<p data-paragraph="main">As detailed on the <a href="https://projects.fivethirtyeight.com/redistricting-2022-maps/" target="_blank" rel="noopener">FiveThirtyEight redistricting tracker</a>, 157 congressional districts have been drawn so far. Ninety have a <a href="https://fivethirtyeight.com/features/how-red-or-blue-is-your-state-your-congressional-district/" target="_blank" rel="noopener">FiveThirtyEight partisan lean</a><a data-footnote-id="7" href="https://fivethirtyeight.com/wp-json/wp/v2/espn_verticals/398#fn-7" data-footnote-content="&lt;p&gt;&lt;p&gt;Partisan lean is the average margin difference between how a state or district votes and how the country votes overall. This version of partisan lean, meant to be used for congressional and gubernatorial elections, is calculated as 50 percent the state or district’s lean relative to the nation in the most recent presidential election, 25 percent its relative lean in the second-most-recent presidential election and 25 percent a custom state-legislative lean.&lt;/p&gt;
-&lt;/p&gt;"><sup>7</sup></a> of R+5 or redder, 55 have a partisan lean of D+5 or bluer and only 12 are in the “highly competitive” zone between R+5 and D+5. Compared with the old lines, this represents a net gain of six Democratic-leaning seats and two Republican-leaning seats and a net loss of five highly competitive seats.</p>
-
-
-
-<figure><img loading="lazy" width="1150" height="1130" src="https://fivethirtyeight.com/wp-content/uploads/2021/12/image001.png" alt="" data-src="https://fivethirtyeight.com/wp-content/uploads/2021/12/image001.png" data-srcset="https://fivethirtyeight.com/wp-content/uploads/2021/12/image001.png?w=700 1x, https://fivethirtyeight.com/wp-content/uploads/2021/12/image001.png?w=1400 2x"></figure><p data-paragraph="main">That Democrats have picked up more seats than Republicans at this point is unexpected. Going into this redistricting cycle, Republicans had <a href="https://fivethirtyeight.com/features/which-states-won-and-lost-seats-in-the-2020-census/" target="_blank" rel="noopener">2.5 times as many districts as Democrats</a> to redraw (187 versus 75), yet that hasn’t translated into big GOP gains so far. Republicans have pulled their punches somewhat in states such as <a href="https://projects.fivethirtyeight.com/redistricting-2022-maps/indiana/" target="_blank" rel="noopener">Indiana</a>, where they could have converted the Democratic-leaning 1st District into a red seat (they didn’t), and <a href="https://projects.fivethirtyeight.com/redistricting-2022-maps/iowa/" target="_blank" rel="noopener">Iowa</a>, where they could have overridden the state’s nonpartisan redistricting agency to draw more solidly red seats (they didn’t do that, either). </p>
-
-
-
-<p data-paragraph="main">At the same time, Democrats have gone for the jugular in each of the few opportunities they’ve had so far to gain seats. They used <a href="https://www.opb.org/article/2021/09/20/after-slow-start-redistricting-proposals-get-moving-in-salem/" target="_blank" rel="noopener">hardball tactics</a> to push through a map for <a href="https://projects.fivethirtyeight.com/redistricting-2022-maps/oregon/" target="_blank" rel="noopener">Oregon</a> that eliminates one highly competitive seat and adds two Democratic-leaning seats. And they turned <a href="https://projects.fivethirtyeight.com/redistricting-2022-maps/illinois/" target="_blank" rel="noopener">Illinois</a>’s map from one with 11 Democratic-leaning seats, five Republican-leaning seats and two highly competitive (but slightly Republican-leaning) seats to one with 13 Democratic-leaning seats, three Republican-leaning seats and one highly competitive (but slightly Democratic-leaning) seat.</p>
-
-
-
-<p data-paragraph="main">That said, our definitions of what is a “Republican-leaning” or “Democratic-leaning” seat are only one way of calculating each party’s net gains and losses. You can also look at who represents the newly drawn seats, and this method suggests more of an edge for Republicans in redistricting so far this year. </p>
-
-
-<div>
-	<p>
-		<a href="https://projects.fivethirtyeight.com/redistricting-2022-maps/"><img alt="Map of the United States" width="153" height="115" data-sizes="(min-width: 440px) 153px, 100vw" data-srcset="https://fivethirtyeight.com/wp-content/uploads/2021/12/redistricting-promo-site.png?w=153&amp;quality=100&amp;strip=all 153w, https://fivethirtyeight.com/wp-content/uploads/2021/12/redistricting-promo-site.png?w=306&amp;quality=100&amp;strip=all 306w, https://fivethirtyeight.com/wp-content/uploads/2021/12/redistricting-promo-site.png?w=405&amp;quality=100&amp;strip=all 405w, https://fivethirtyeight.com/wp-content/uploads/2021/12/redistricting-promo-site.png?w=810&amp;quality=100&amp;strip=all 810w"></a>
-	</p>
-	<p>
-				<strong>Related:</strong>
-				What Redistricting Looks Like In Every State <a href="https://projects.fivethirtyeight.com/redistricting-2022-maps/">Read more. »</a>
-	</p>
-</div>
-
-
-
-<p data-paragraph="main">For example, a lot of those newly added Democratic seats are already represented by Democrats (they’re swing seats that the party won thanks to their strong performance in the 2018 and 2020 elections), so they don’t represent opportunities for Democrats to <em>pick up</em> House seats. In fact, if we just factor in which party currently holds the seat, I calculate that Republicans have already picked up two or three seats through redistricting alone. They’ve gained three seats via reapportionment (one each in Montana, North Carolina and Texas) and also turned two existing Democratic districts red (Rep. Kathy Manning’s seat in North Carolina and Rep. Marcy Kaptur’s seat in Ohio). However, they’ve also lost two seats via reapportionment (one each in Illinois and West Virginia), and one other (the Illinois 13th) was turned blue by Democratic cartographers. (That’s a net gain of two. The possibility for a third gained seat comes in Colorado, whose new 8th District has a partisan lean of R+3. Theoretically, that district would elect a Republican in a neutral political environment, but it’s close enough to be uncertain.)</p>
-
-
-
-<p data-paragraph="main">Meanwhile, Democrats have come out even. They’ve gained two seats via reapportionment (one in Oregon, one in Texas) and redrawn one existing Republican district (the Illinois 13th, again) to favor Democrats. However, they’ve also lost one seat in reapportionment (in Ohio), and two of their seats have been redrawn to be red (again, Manning’s and Kaptur’s).</p>
-
-
-
-<p data-paragraph="main">However, any redistricting assessment that focuses on gains and losses — whether based on the change in a district’s partisan lean or who now controls the seat — obscures an important way in which Republicans have benefited from redistricting this year: They’ve taken already Republican-leaning seats and moved them totally out of Democrats’ reach. If you look under the hood of the GOP’s two-seat gain, you can see that although they have lost nine light-red seats (which we define as having a partisan lean between R+5 and R+15), they have <em>gained</em> 11 dark-red seats (R+15 or redder).</p>
-
-
-<div>
-<section><header><h5>Republican seats have gotten safer in redistricting</h5>
- <p>The number of “solid” and “competitive” Republican-leaning seats under the old and new House maps, in states that have completed congressional redistricting, as of Dec. 1, 2021, at 5 p.m. Eastern</p>
- </header><table data-carpenter-slug="rakich.redistricting-overview.2"><thead><tr><th colspan="1">Map</th>
- <th colspan="1"><span></span>Competitive R</th>
- <th colspan="1"><span></span>Solid R</th>
- <th colspan="1">Total R</th>
- </tr></thead><tbody><tr><td>Old</td>
- <td>21</td>
- <td>67</td>
- <td>88</td>
- </tr><tr><td>New</td>
- <td>12</td>
- <td>78</td>
- <td>90</td>
- </tr><tr><td>Net Change</td>
- <td>-9</td>
- <td>+11</td>
- <td>+2</td>
- </tr></tbody></table><footer><p>“Solid Republican” seats have FiveThirtyEight partisan leans of R+15 or redder; “competitive Republican” seats have partisan leans between R+5 and R+15.</p>
- <p>Partisan lean is the average margin difference between how a state or district votes and how the country votes overall. This version of partisan lean, meant to be used for congressional and gubernatorial elections, is calculated as 50 percent the state or district’s lean relative to the nation in the most recent presidential election, 25 percent its relative lean in the second-most-recent presidential election and 25 percent a custom state-legislative lean.</p>
- <p>Sources: U.S. Census Bureau, The Upshot, Voting Election and Science Team, Ryne Rohla/Decision Desk HQ</p>
- </footer></section></div>
-
-
-<p data-paragraph="main">Some districts where Republicans pulled this trick include Indiana’s 5th District, which went from a R+8 partisan lean to R+22, as well as <a href="https://projects.fivethirtyeight.com/redistricting-2022-maps/oklahoma/" target="_blank" rel="noopener">Oklahoma</a>’s 5th District and <a href="https://projects.fivethirtyeight.com/redistricting-2022-maps/utah/" target="_blank" rel="noopener">Utah</a>’s 4th District, two seats that Democrats won in 2018 but narrowly lost in 2020. But they turned it into an Olympic sport in <a href="https://projects.fivethirtyeight.com/redistricting-2022-maps/texas/" target="_blank" rel="noopener">Texas</a>, where Republicans turned seven light-red seats (plus one Republican-held purple seat) into <a href="https://fivethirtyeight.com/features/texass-new-congressional-map-could-give-a-huge-boost-to-gop-incumbents/" target="_blank" rel="noopener">safe Republican seats</a>.</p>
-
-
-
-<p data-paragraph="main">Meanwhile, Democrats haven’t added any dark-blue seats on net; all six of the seats they have gained on net have partisan leans between D+5 and D+15.</p>
-
-
-<div>
-<section><header><h5>Democrats have added light-blue seats in redistricting</h5>
- <p>The number of “solid” and “competitive” Democratic-leaning seats under the old and new House maps, in states that have completed congressional redistricting, as of Dec. 1, 2021, at 5 p.m. Eastern</p>
- </header><table data-carpenter-slug="rakich.redistricting-overview.3"><thead><tr><th colspan="1">Map</th>
- <th colspan="1"><span></span>Competitive D</th>
- <th colspan="1"><span></span>Solid D</th>
- <th colspan="1">Total D</th>
- </tr></thead><tbody><tr><td>Old</td>
- <td>6</td>
- <td>43</td>
- <td>49</td>
- </tr><tr><td>New</td>
- <td>12</td>
- <td>43</td>
- <td>55</td>
- </tr><tr><td>Net Change</td>
- <td>+6</td>
- <td>EVEN</td>
- <td>+6</td>
- </tr></tbody></table><footer><p>“Solid Democratic” seats have FiveThirtyEight partisan leans of D+15 or bluer; “competitive Democratic” seats have partisan leans between D+5 and D+15.</p>
- <p>Partisan lean is the average margin difference between how a state or district votes and how the country votes overall. This version of partisan lean, meant to be used for congressional and gubernatorial elections, is calculated as 50 percent the state or district’s lean relative to the nation in the most recent presidential election, 25 percent its relative lean in the second-most-recent presidential election and 25 percent a custom state-legislative lean.</p>
- <p>Sources: U.S. Census Bureau, The Upshot, Voting Election and Science Team, Ryne Rohla/Decision Desk HQ</p>
- </footer></section></div>
-
-
-<p data-paragraph="main">In other words, the seats they’ve added so far in this redistricting cycle are less safe than the ones Republicans have added. In a twist, this is actually by Democrats’ own choice: Both seats they gained in Oregon are light blue, and in Illinois they shed one solidly Democratic seat in service of adding three competitive Democratic ones. </p>
-
-
-
-<p data-paragraph="main">Though counterintuitive, this is a sound strategy if Democrats want to eliminate the overall Republican bias in the House of Representatives. If you have only a finite number of Democratic voters, it’s more efficient to spread them out over a greater number of light-blue districts than a smaller number of dark-blue districts. </p>
-
-
-
-<p data-paragraph="main">The new Democratic-drawn map in <a href="https://projects.fivethirtyeight.com/redistricting-2022-maps/nevada/" target="_blank" rel="noopener">Nevada</a> is a perfect example of this: It moves the partisan lean of the Las Vegas-based 1st District from D+22 to D+4 — but two neighboring swing districts get more Democratic as a result (the 3rd goes from R+5 to D+2; the 4th goes from R+1 to D+5). In a strong election year for Republicans (which 2022 is likely to be), this makes all three Democratic-held districts (including the formerly safe 1st) vulnerable to the GOP. But Democrats might be OK with that tradeoff, as any election that results in the loss of slightly Democratic-leaning seats is probably an election in which Republicans have already won the House handily. Instead, the goal of these new maps in Illinois, Nevada and Oregon seems to be to maximize the number of Democratic wins in neutral political environments, when the House is genuinely competitive.</p>
-
-
-
-<p data-paragraph="main">Overall, the question of which party has gained ground in redistricting so far is pretty muddled. Any way you slice it, though, there are two clear takeaways from the maps that have already been drawn. First, the number of competitive House districts — which has been <a href="https://fivethirtyeight.com/features/as-swing-districts-dwindle-can-a-divided-house-stand/" target="_blank" rel="noopener">on the decline for several decades now</a> — is on track to hit a new low. Only 8 percent of the districts drawn so far fall into our “highly competitive” category, which, if it holds, could mean the House will be fought on a historically small battlefield over the next decade. (Election nerds, get ready to become very familiar with <a href="https://projects.fivethirtyeight.com/redistricting-2022-maps/nebraska/" target="_blank" rel="noopener">Nebraska</a>’s 2nd District!) </p>
-
-
-
-<p data-paragraph="main">That said, there’s some reason to think the share of swing seats will increase from here. Eighty-seven percent of the districts that have been enacted so far were enacted under single-party rule, but 55 percent of the districts that have yet to be enacted will be drawn via independent or bipartisan means, such as redistricting commissions or the courts.</p>
-
-
-<div>
-<section><header><h5>Neither party will draw most of the remaining districts</h5>
- <p>Which party controlled the redrawing of congressional districts that have already been enacted vs. which party controls the redrawing of congressional districts not yet enacted, as of Dec. 1, 2021, at 5 p.m. Eastern</p>
- </header><table data-carpenter-slug="rakich.redistricting-overview.4"><thead><tr><th colspan="1">Party in Control</th>
- <th colspan="1">Finished Districts</th>
- <th colspan="1">Unfinished Districts</th>
- </tr></thead><tbody><tr><td>Democrats</td>
- <td>36</td>
- <td>39</td>
- </tr><tr><td>Republicans</td>
- <td>101</td>
- <td>86</td>
- </tr><tr><td>Neither</td>
- <td>20</td>
- <td>153</td>
- </tr></tbody></table><footer><p>Sources: U.S. Census Bureau, news reports</p>
- </footer></section></div>
-
-
-<p data-paragraph="main">Second, the new House maps still have an overall bias toward the GOP. The partisan balance of power may not have changed much from the old maps to the new, but the old maps were hardly a neutral baseline: They were disproportionately drawn by Republicans during the 2011 redistricting cycle, after the red-wave election of 2010. So a 2021 redistricting cycle that largely maintains the status quo is good news for Republicans.</p>
-
-
-
-<p data-paragraph="main">Our redistricting tracker uses <a href="https://fivethirtyeight.com/features/how-fivethirtyeights-redistricting-tracker-works/" target="_blank" rel="noopener">a couple of different metrics</a> to measure the bias of congressional maps: the efficiency gap (the difference between the two parties’ “wasted votes” divided by the total number of voters)<a data-footnote-id="8" href="https://fivethirtyeight.com/wp-json/wp/v2/espn_verticals/398#fn-8" data-footnote-content="&lt;p&gt;&lt;p&gt;“Wasted votes” are defined as all votes cast for the losing party in a district as well as votes for the winning party in excess of a majority. To take a simple example, imagine a state with three districts — two of which Republicans win 60 votes to 40 votes, and one of which Democrats win 90 votes to 10 votes. Democrats have 40 wasted votes in each of the first two districts and 39 in the third (because they won 39 more votes than 51, the district’s majority threshold), for a total of 119. Meanwhile, Republicans have nine wasted votes in each of the first two districts and 10 in the third district, for a total of 28. The map’s efficiency gap is therefore 91 (119 minus 28) divided by 300 (the total number of votes in all three districts), or 30.3 percentage points in favor of Republicans. Since there have been no House elections under the new maps yet, we calculate the efficiency gap for all maps based on the results of the 2020 presidential election.&lt;/p&gt;
-&lt;/p&gt;"><sup>8</sup></a> and the difference between a state’s partisan lean and that of its median congressional district. And on both measures, Republican-biased maps are both more numerous and more severe in their bias than Democratic-biased maps.</p>
-
-
-<div>
-
-<section><header><h5>New congressional maps mostly have a bias toward the GOP</h5>
- <p>The median-seat bias and efficiency gap (two measures of map fairness) of new congressional maps enacted as of Dec. 1, 2021, at 5 p.m. Eastern</p>
- </header><table data-carpenter-slug="rakich.redistricting-overview.5"><thead><tr><th colspan="1" data-sort-index="0"><span>State<span><span>▲</span><span>▼</span></span>
- </span>
- </th>
- <th colspan="1" data-sort-index="1">Party in <span>Control<span><span>▲</span><span>▼</span></span>
- </span>
- </th>
- <th colspan="1" data-sort-index="2" data-sort-method="number">Median <span>seat<span><span>▲</span><span>▼</span></span>
- </span>
- </th>
- <th colspan="1" data-sort-index="3" data-sort-method="number" aria-sort="ascending" data-sort-default="true">Efficiency <span>gap<span><span>▲</span><span>▼</span></span>
- </span>
- </th>
- </tr></thead><tbody><tr><td data-sort="NaN">Iowa</td>
- <td data-sort="NaN"><span></span>R</td>
- <td data-sort="-5">D+5</td>
- <td data-sort="42">R+42</td>
- </tr><tr><td data-sort="NaN">Utah</td>
- <td data-sort="NaN"><span></span>R</td>
- <td data-sort="-1">D+1</td>
- <td data-sort="29">R+29</td>
- </tr><tr><td data-sort="NaN">North Carolina</td>
- <td data-sort="NaN"><span></span>R</td>
- <td data-sort="11">R+11</td>
- <td data-sort="20">R+20</td>
- </tr><tr><td data-sort="NaN">Ohio</td>
- <td data-sort="NaN"><span></span>R</td>
- <td data-sort="3">R+3</td>
- <td data-sort="16">R+16</td>
- </tr><tr><td data-sort="NaN">Oklahoma</td>
- <td data-sort="NaN"><span></span>R</td>
- <td data-sort="-2">D+2</td>
- <td data-sort="16">R+16</td>
- </tr><tr><td data-sort="NaN">Texas</td>
- <td data-sort="NaN"><span></span>R</td>
- <td data-sort="12">R+12</td>
- <td data-sort="15">R+15</td>
- </tr><tr><td data-sort="NaN">Indiana</td>
- <td data-sort="NaN"><span></span>R</td>
- <td data-sort="10">R+10</td>
- <td data-sort="12">R+12</td>
- </tr><tr><td data-sort="NaN">Alabama</td>
- <td data-sort="NaN"><span></span>R</td>
- <td data-sort="4">R+4</td>
- <td data-sort="10">R+10</td>
- </tr><tr><td data-sort="NaN">Colorado</td>
- <td data-sort="NaN"><span></span>I</td>
- <td data-sort="5">R+5</td>
- <td data-sort="2">R+2</td>
- </tr><tr><td data-sort="NaN">Nebraska</td>
- <td data-sort="NaN"><span></span>R</td>
- <td data-sort="-8">D+8</td>
- <td data-sort="-3">D+3</td>
- </tr><tr><td data-sort="NaN">Illinois</td>
- <td data-sort="NaN"><span></span>D</td>
- <td data-sort="2">R+2</td>
- <td data-sort="-13">D+13</td>
- </tr><tr><td data-sort="NaN">Massachusetts</td>
- <td data-sort="NaN"><span></span>D</td>
- <td data-sort="5">R+5</td>
- <td data-sort="-16">D+16</td>
- </tr><tr><td data-sort="NaN">Oregon</td>
- <td data-sort="NaN"><span></span>D</td>
- <td data-sort="3">R+3</td>
- <td data-sort="-17">D+17</td>
- </tr><tr><td data-sort="NaN">Nevada</td>
- <td data-sort="NaN"><span></span>D</td>
- <td data-sort="-6">D+6</td>
- <td data-sort="-19">D+19</td>
- </tr></tbody></table><footer><p>Includes states with more than two congressional districts.</p>
- <p>Sources: U.S. Census Bureau, The Upshot, Voting Election and Science Team, Ryne Rohla/Decision Desk HQ</p>
- </footer></section></div>
-
-
-<p data-paragraph="main">All four maps that have been enacted so far in states where Democrats control redistricting (Illinois, Massachusetts, Nevada and Oregon) have heavy Democratic biases going by efficiency gap (though, interestingly, Nevada is alone among them in having a Democratic median-seat bias). But eight GOP-controlled states have passed maps with significantly pro-Republican efficiency gaps, and most of those have Republican-leaning median seats too. </p>
-
-
-
-<p data-paragraph="main">There’s no foolproof statistical test for gerrymandering, but our metrics suggest the maps in <a href="https://projects.fivethirtyeight.com/redistricting-2022-maps/north-carolina/" target="_blank" rel="noopener">North Carolina</a> (R+20 efficiency gap, R+11 median-seat bias), Utah (R+29 efficiency gap, albeit a D+1 median-seat bias) and Texas (R+15 efficiency gap, R+12 median-seat bias) are some of the most egregious of the cycle so far.<a data-footnote-id="9" href="https://fivethirtyeight.com/wp-json/wp/v2/espn_verticals/398#fn-9" data-footnote-content="&lt;p&gt;&lt;p&gt;In an illustration of why not to put all your eggs in the basket of any one metric, I wouldn’t consider Iowa an unfair map even though it has the highest efficiency gap of all, R+42. That’s because three of its four districts are at least somewhat competitive. Its efficiency gap is so skewed because all four districts voted for former President Donald Trump in 2020, and therefore, every vote for President Biden in Iowa was “wasted” by efficiency gap’s definition. But in a different election — say, 2018, when Democrats won three of the state’s four House seats — it would be a different story.&lt;/p&gt;
-&lt;/p&gt;"><sup>9</sup></a></p>
-
-
-
-<p data-paragraph="main">Some of these maps, in fact, are so egregious that they may not survive long enough to get used in the 2022 elections (much less beyond that). Democrats have already filed lawsuits against several Republican-enacted congressional maps, including <a href="https://fivethirtyeight.com/features/north-carolina-republicans-passed-a-heavily-skewed-congressional-map-how-will-the-courts-respond/" target="_blank" rel="noopener">both partisan gerrymandering and racial gerrymandering suits in North Carolina</a>. They’re also arguing that <a href="https://projects.fivethirtyeight.com/redistricting-2022-maps/ohio/" target="_blank" rel="noopener">Ohio</a>’s new map (which has an R+16 efficiency gap and makes 11 of the state’s 15 districts Republican-leaning) violates the <a href="https://www.dispatch.com/story/news/politics/2021/11/22/redistricting-eric-holder-backed-lawsuit-challenges-ohio-congressional-map/8710272002/" target="_blank" rel="noopener">partisan-fairness requirement for redistricting</a> in the state constitution, and that <a href="https://projects.fivethirtyeight.com/redistricting-2022-maps/alabama/" target="_blank" rel="noopener">Alabama</a> ought to give Black voters the chance to elect a candidate of their choice in <a href="https://apnews.com/article/alabama-lawsuits-race-and-ethnicity-redistricting-montgomery-38e76cb85abe91e9007db0f278764c4d" target="_blank" rel="noopener">two districts, not just one</a>. </p>
-
-
-
-<p data-paragraph="main">If any of these lawsuits are successful, fairer replacement maps could wind up tilting the 2021 redistricting scales toward Democrats in a more unambiguous way. So, going forward, make sure you keep checking our <a href="https://projects.fivethirtyeight.com/redistricting-2022-maps/" target="_blank" rel="noopener">redistricting tracker</a>, which we’ll update in real time with any such developments.</p>
-
-
-<p>Watch: https://abcnews.go.com/fivethirtyeight/video/parties-thankful-fivethirtyeight-politics-podcast-81343950</p>]]></description>
-			<pubDate>Thu, 02 Dec 2021 11:00:00 +0000</pubDate>
-			<guid isPermaLink="false">1638446401884503</guid>
 		</item>
 
 	</channel>
