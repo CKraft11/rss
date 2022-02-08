@@ -3,9 +3,64 @@
 		<title>Main stream | FreshRSS</title>
 		<link>http://radon</link>
 		<description>RSS feed of Main stream | FreshRSS</description>
-		<pubDate>Tue, 08 Feb 2022 11:29:06 +0000</pubDate>
-		<lastBuildDate>Tue, 08 Feb 2022 11:29:06 GMT</lastBuildDate>
+		<pubDate>Tue, 08 Feb 2022 11:59:06 +0000</pubDate>
+		<lastBuildDate>Tue, 08 Feb 2022 11:59:06 GMT</lastBuildDate>
 		<atom:link href="http://radon/i/?a=rss" rel="self" type="application/rss+xml" />
+		<item>
+			<title>What To Make Of Polls That Show Americans Are Trending Toward The GOP</title>
+			<link>https://fivethirtyeight.com/features/what-to-make-of-polls-that-show-americans-are-trending-toward-the-gop/</link>
+						<dc:creator>Geoffrey Skelley</dc:creator>
+			<dc:creator>Geoffrey Skelley and Mary Radcliffe</dc:creator>
+			<category>2022 Election</category>
+			<category>Democrats</category>
+			<category>Party Identification</category>
+			<category>Republicans</category>
+			<description><![CDATA[<p data-paragraph="main">Are there really more Americans identifying as Republicans than Democrats now? For decades, more Americans <a href="https://electionstudies.org/resources/anes-guide/top-tables/?id=22" target="_blank" rel="noopener">have tended to identify</a> as Democrats than as Republicans, even if the gap has sometimes been small. But in January, Gallup found that <a href="https://news.gallup.com/poll/388781/political-party-preferences-shifted-greatly-during-2021.aspx" target="_blank" rel="noopener">Republicans had taken the lead</a> in party ID during the last three months of 2021: On average, 47 percent identified as a Republican or said they leaned toward the GOP, while 42 percent identified as a Democrat or leaned toward the Democratic Party. Given we’re headed into what will be a competitive midterm election year, this finding <a href="https://www.nytimes.com/2022/01/25/opinion/gallup-poll-democrats.html" target="_blank" rel="noopener">sparked a flurry</a> of <a href="https://www.npr.org/2022/01/18/1073774921/americans-political-party-preferences-shifted-to-republicans-in-recent-months" target="_blank" rel="noopener">headlines in the days</a> following <a href="https://www.foxnews.com/politics/us-shifts-party-preference-from-democratic-to-republican-in-2021-with-gop-holding-largest-lead-since-1995" target="_blank" rel="noopener">the release of Gallup’s report</a>.</p>
+
+
+
+<p data-paragraph="main">But it’s still too soon to know whether more Americans are actually identifying as Republicans. Gallup’s finding could portend a lasting change, or it could also be a short-term reaction to an unpopular Democratic president, or it could be an artifact of lower response rates by Democrats frustrated with bad news for their party — or it could relate to all of the above. After all, political science research has found that <a href="https://oxfordre.com/politics/view/10.1093/acrefore/9780190228637.001.0001/acrefore-9780190228637-e-72?print=pdf" target="_blank" rel="noopener">an individual’s party identification can fluctuate</a>. That said, party ID also tends to be pretty stable in the long run, such that we’d expect changes across the population to be gradual.</p>
+
+
+
+<p data-paragraph="main">To that point, there are two ways of looking at Gallup’s party ID data: quarterly and annually. In the quarterly data, you can see that party ID is volatile. In general, it favors Democrats, but there are numerous spikes in the data as well as instances when Republicans have had the advantage. In the yearly data, meanwhile, it’s easier to see that more Americans have consistently identified as Democrats than Republicans, although there were periods in the early 2000s and early 2010s when party ID was more evenly matched — perhaps not coincidentally, those years featured strong Republican electoral performances — and in 1991 when Republicans even held an advantage, thanks in part to a <a href="https://news.gallup.com/opinion/gallup/234971/george-bush-retrospective.aspx" target="_blank" rel="noopener">very popular GOP president</a> in the White House.</p>
+
+
+
+<figure><img width="2048" height="1036" src="https://fivethirtyeight.com/wp-content/uploads/2022/02/skelley-radcliffe.PARTY-ID.0201DESK.png" alt="" data-src="https://fivethirtyeight.com/wp-content/uploads/2022/02/skelley-radcliffe.PARTY-ID.0201DESK.png" data-srcset="https://fivethirtyeight.com/wp-content/uploads/2022/02/skelley-radcliffe.PARTY-ID.0201DESK.png?w=700 1x, https://fivethirtyeight.com/wp-content/uploads/2022/02/skelley-radcliffe.PARTY-ID.0201DESK.png?w=1400 2x"></figure><figure><img loading="lazy" width="620" height="1828" src="https://fivethirtyeight.com/wp-content/uploads/2022/02/skelley-radcliffe.PARTY-ID.0201MOBILE.png" alt="" data-src="https://fivethirtyeight.com/wp-content/uploads/2022/02/skelley-radcliffe.PARTY-ID.0201MOBILE.png" data-srcset="https://fivethirtyeight.com/wp-content/uploads/2022/02/skelley-radcliffe.PARTY-ID.0201MOBILE.png?w=620 1x, https://fivethirtyeight.com/wp-content/uploads/2022/02/skelley-radcliffe.PARTY-ID.0201MOBILE.png?w=1240 2x"></figure><p data-paragraph="main">And that’s what makes interpreting party ID data so hard. Annual Gallup data suggests that the most recent quarterly numbers might have been a blip and that we should expect Democratic party ID <a href="http://www.stat.columbia.edu/~gelman/research/unpublished/kaplan.park.gelman.110728.pdf" target="_blank" rel="noopener">to rebound soon</a>. After all, in the last 30 years, Gallup’s annual data has found, on average, that 47 percent of Americans identified as Democrats versus 42 percent as Republicans (including independents who leaned toward each party). Then again, it’s possible that this quarterly data is pointing to a longer-lasting gain in party ID for Republicans, as was the case in the early 2000s and 2010s. This could have potentially major consequences for the upcoming midterm election, too. </p>
+
+
+
+<p data-paragraph="main">In <a href="https://journals.sagepub.com/doi/abs/10.1177/1065912918784215" target="_blank" rel="noopener">research published in 2018</a>, political scientists Patrick Tucker, Jacob Montgomery and Steven Smith used longitudinal data from the <a href="https://wc.wustl.edu/american-panel-survey" target="_blank" rel="noopener">American Panel Survey</a> to study partisan identification from 2011 to 2016, finding that changes in presidential approval and favorability of the two parties often preceded changes in party affiliation in the short term, particularly among Americans who did not have strong ties to their party. Considering that <a href="https://projects.fivethirtyeight.com/biden-approval-rating/" target="_blank" rel="noopener">President Biden’s job approval</a> has suffered in recent months, it could be that the short-term changes we see in Gallup’s data indeed indicate the electorate’s movement away from the Democratic Party. </p>
+
+
+
+<p data-paragraph="main">Along the same lines, <a href="https://law.marquette.edu/poll/about-the-poll/" target="_blank" rel="noopener">Charles Franklin</a>, the director of the Marquette Law School poll, recently analyzed <a href="https://pollsandvotes.com/?p=217" target="_blank" rel="noopener">movement in party ID across a number of major pollsters</a>, and he broadly found a decrease in those identifying as Democratic — although not the same degree of swing toward the GOP as in Gallup’s quarterly data. However, it is worth noting that Franklin was looking at party ID that did <em>not</em> include independents that lean toward a party, because many pollsters don’t publish party ID data with leaners. </p>
+
+
+
+<p data-paragraph="main">However, that study by Tucker, Montgomery and Smith also found that changes in party ID tended to revert over time as voters’ evaluations of the parties and the president stabilize, so the initial movement we see in Gallup’s data may not last. In fact, Gallup found the two parties were running close to even in December, perhaps suggesting that the shift toward the GOP was already abating.</p>
+
+
+
+<p data-paragraph="main">This tendency for people to shift their party ID in the short term only to then <a href="https://www.pewresearch.org/politics/2020/08/04/voters-rarely-switch-parties-but-recent-shifts-further-educational-racial-divergence/" target="_blank" rel="noopener">revert back</a> is evident in the Pew Research Center’s party ID numbers, which are <a href="https://www.pewresearch.org/politics/2020/06/02/democratic-edge-in-party-identification-narrows-slightly/" target="_blank" rel="noopener">very similar overall to Gallup’s yearly numbers</a>. For instance, between September 2018 and July 2020, Pew found that about one in five Americans in their <a href="https://www.pewresearch.org/our-methods/u-s-surveys/the-american-trends-panel/" target="_blank" rel="noopener">American Trends Panel</a> made some change to their party identification, but nearly nine in 10 identified or leaned toward the same party in 2020 as in 2018. In other words, nearly half of those who had switched parties ultimately switched back.<a data-footnote-id="1" href="https://fivethirtyeight.com/wp-json/wp/v2/espn_verticals/398#fn-1" data-footnote-content="&lt;p&gt;&lt;p&gt;This includes those who switched between the parties, and those who switched to independent and then switched back to their previous party.&lt;/p&gt;
+&lt;/p&gt;"><sup>1</sup></a></p>
+
+
+
+<p data-paragraph="main">And of course, as is the case anytime we’re talking about polling, there are methodological differences among pollsters that can further muddy the waters of how Americans see themselves in the political landscape. As Marquette Law School’s Franklin noted, differences in question wording can contribute to differences in partisan identification; Gallup’s party ID question <a href="https://news.gallup.com/poll/15370/party-affiliation.aspx" target="_blank" rel="noopener">asks respondents</a> how they identify “as of today,” for instance, whereas <a href="https://www.documentcloud.org/documents/21182470-220027-survey-1-20-22-release" target="_blank" rel="noopener">some other pollsters</a> ask <a href="https://poll.qu.edu/images/polling/us/us01122022_demos_ubjw88.pdf" target="_blank" rel="noopener">how respondents</a> identify “generally speaking.” And in a <a href="https://www.acsu.buffalo.edu/~jcampbel/documents/AbramsonOstromAPSR1991.pdf" target="_blank" rel="noopener">1991 study</a>, political scientists Paul Abramson and Charles Ostrom found that from 1952 to 1988, Gallup’s version of the question did produce more volatility in party ID than other pollsters’ versions of this question. That may still be the case, considering that Franklin found smaller shifts among other pollsters’ versions of this question in January.</p>
+
+
+
+<p data-paragraph="main">It’s also possible that the large swing in party ID toward the GOP that Gallup observed could be partly due to Democratic-leaning Americans responding at lower rates. Democrats might have been more discouraged by what’s going on in Washington, what with Biden’s dismal approval rating and Democrats having failed to pass their much-ballyhooed social spending and voting rights legislation. There’s even a term for this — <a href="https://www.formpl.us/blog/response-non-response-bias#:~:text=Non-response%20bias%20is%20a,for%20the%20lack%20of%20response." target="_blank" rel="noopener">nonresponse bias</a> — and we’ve seen it happen before: Lower response rates among Republican-leaning voters ahead of the 2020 election <a href="https://www.cnn.com/2021/05/13/politics/2020-polling-error-research/index.html" target="_blank" rel="noopener">may have contributed</a> to the <a href="https://fivethirtyeight.com/features/the-death-of-polling-is-greatly-exaggerated/" target="_blank" rel="noopener">polling error</a> that underestimated GOP support. But it’s also possible that some pollsters are weighting their polls in ways that could diminish the impact of nonresponse bias or other short-term factors. For instance, YouGov <a href="https://docs.cdn.yougov.com/idsbkknia1/econTabReport.pdf" target="_blank" rel="noopener">weights its polls to match</a> the 2016 and 2020 election results, which means that while they <a href="https://twitter.com/gelliottmorris/status/1485632944463036424?s=20&amp;t=fMW-rcvwguf44mK78i2wjg" target="_blank" rel="noopener">also found a Republican-leaning trend</a> in party ID across 2021, the magnitude of that shift was much, much smaller.<a data-footnote-id="2" href="https://fivethirtyeight.com/wp-json/wp/v2/espn_verticals/398#fn-2" data-footnote-content='&lt;p&gt;&lt;p&gt;YouGov conducts online polls using &lt;a href="https://www.pewresearch.org/fact-tank/2018/08/06/what-are-nonprobability-surveys/" target="_blank" rel="noopener"&gt;nonprobability samples&lt;/a&gt;. This means their samples aren’t totally random, but it’s possible their approach of using past presidential results to weight results may be less error-prone than other methods. For instance, a 2016 &lt;a href="https://www.pewresearch.org/methods/2016/05/02/assessing-the-accuracy-of-online-nonprobability-surveys/" target="_blank" rel="noopener"&gt;Pew study&lt;/a&gt; compared the error of different nonprobability surveys, and it found that a sample weighted by party ID — similar to YouGov’s practice of weighting to past presidential vote — produced the smallest amount of polling error across a number of known benchmarks. But Pew did flag some concerns regarding online pollsters using such approaches — specifically, if done poorly, weighting by a predetermined result could unduly influence other findings in the survey.&lt;/p&gt;
+&lt;/p&gt;'><sup>2</sup></a></p>
+
+
+
+<p data-paragraph="main">Overall, it’s probably too early to say how much of the Republican shift in partisan identification is real, or how long it will last. However, it’s also not clear whether this particular data point tells us much more about the electorate than we already know from Biden’s job approval, generic congressional ballot polling and other political polls. In their study, Abramson and Ostrom did show that party identification polls were moderately predictive of electoral outcomes for the House and presidency, but direct measures such as the <a href="https://projects.fivethirtyeight.com/congress-generic-ballot-polls/" target="_blank" rel="noopener">generic congressional ballot</a> and head-to-head polling are <a href="https://fivethirtyeight.com/features/our-best-tool-for-predicting-midterm-elections-doesnt-show-a-republican-wave-but-history-is-on-the-gops-side/" target="_blank" rel="noopener">still much better indicators</a> of what to expect in elections. All things considered, this may be just one more data point that directs us toward what we already expect: Things are <a href="https://fivethirtyeight.com/features/some-early-clues-about-how-the-midterms-will-go/" target="_blank" rel="noopener">looking pretty tough</a> for the Democrats in November.</p>]]></description>
+			<pubDate>Tue, 08 Feb 2022 11:00:00 +0000</pubDate>
+			<guid isPermaLink="false">1644320701732276</guid>
+		</item>
 		<item>
 			<title>Politics Podcast: Americans Say They’re Over COVID-19. What Does That Mean?</title>
 			<link>https://fivethirtyeight.com/features/politics-podcast-americans-say-theyre-over-covid-19-what-does-that-mean/</link>
@@ -126,7 +181,7 @@
 
 
 
-<figure><img width="1150" height="1506" src="https://fivethirtyeight.com/wp-content/uploads/2022/02/Samuels.PoliticalOutliers.0207-1.png" alt="" data-src="https://fivethirtyeight.com/wp-content/uploads/2022/02/Samuels.PoliticalOutliers.0207-1.png" data-srcset="https://fivethirtyeight.com/wp-content/uploads/2022/02/Samuels.PoliticalOutliers.0207-1.png?w=700 1x, https://fivethirtyeight.com/wp-content/uploads/2022/02/Samuels.PoliticalOutliers.0207-1.png?w=1400 2x"></figure><p data-paragraph="main">As the chart above shows, rural Americans, on average, tend to hold more conservative views than their urban counterparts. For example, on immigration, <a href="https://www.pewresearch.org/social-trends/2018/05/22/urban-suburban-and-rural-residents-views-on-key-social-and-political-issues/" target="_blank" rel="noopener">Pew found in 2018</a> that Republicans and Republican-leaners living in rural areas were more likely than their urban and suburban counterparts to see a growing immigrant population as a threat to “traditional American customs and values.” And on racial justice issues, rural residents were the <em>least </em>likely to think that white Americans benefit from societal advantages that Black citizens don’t have. </p>
+<figure><img loading="lazy" width="1150" height="1506" src="https://fivethirtyeight.com/wp-content/uploads/2022/02/Samuels.PoliticalOutliers.0207-1.png" alt="" data-src="https://fivethirtyeight.com/wp-content/uploads/2022/02/Samuels.PoliticalOutliers.0207-1.png" data-srcset="https://fivethirtyeight.com/wp-content/uploads/2022/02/Samuels.PoliticalOutliers.0207-1.png?w=700 1x, https://fivethirtyeight.com/wp-content/uploads/2022/02/Samuels.PoliticalOutliers.0207-1.png?w=1400 2x"></figure><p data-paragraph="main">As the chart above shows, rural Americans, on average, tend to hold more conservative views than their urban counterparts. For example, on immigration, <a href="https://www.pewresearch.org/social-trends/2018/05/22/urban-suburban-and-rural-residents-views-on-key-social-and-political-issues/" target="_blank" rel="noopener">Pew found in 2018</a> that Republicans and Republican-leaners living in rural areas were more likely than their urban and suburban counterparts to see a growing immigrant population as a threat to “traditional American customs and values.” And on racial justice issues, rural residents were the <em>least </em>likely to think that white Americans benefit from societal advantages that Black citizens don’t have. </p>
 
 
 
@@ -233,8 +288,8 @@
 
 
 
-<figure><img loading="lazy" width="1150" height="920" src="https://fivethirtyeight.com/wp-content/uploads/2022/02/biden-approval-rating-2-1.png" alt="" data-src="https://fivethirtyeight.com/wp-content/uploads/2022/02/biden-approval-rating-2-1.png" data-srcset="https://fivethirtyeight.com/wp-content/uploads/2022/02/biden-approval-rating-2-1.png?w=700 1x, https://fivethirtyeight.com/wp-content/uploads/2022/02/biden-approval-rating-2-1.png?w=1400 2x"></figure><p data-paragraph="main">According to FiveThirtyEight’s <a href="https://projects.fivethirtyeight.com/biden-approval-rating/" target="_blank" rel="noopener">presidential approval tracker</a>,<a data-footnote-id="1" href="https://fivethirtyeight.com/wp-json/wp/v2/espn_verticals/398#fn-1" data-footnote-content="&lt;p&gt;&lt;p&gt;As of 5 p.m. Eastern on Thursday.&lt;/p&gt;
-&lt;/p&gt;"><sup>1</sup></a><strong> </strong>41.7 percent of Americans approve of the job Biden is doing as president, while 52.6 percent disapprove (a net approval rating of -10.9 points). At this time <a href="https://fivethirtyeight.com/features/war-with-russia-has-pushed-ukrainians-toward-the-west/" target="_blank" rel="noopener">last week</a>, 41.7 percent approved and 53.3 percent disapproved (a net approval rating of -11.6 points). One month ago, Biden had an approval rating of 43.3 percent and a disapproval rating of 51.7 percent, for a net approval rating of -8.4 points.</p>
+<figure><img loading="lazy" width="1150" height="920" src="https://fivethirtyeight.com/wp-content/uploads/2022/02/biden-approval-rating-2-1.png" alt="" data-src="https://fivethirtyeight.com/wp-content/uploads/2022/02/biden-approval-rating-2-1.png" data-srcset="https://fivethirtyeight.com/wp-content/uploads/2022/02/biden-approval-rating-2-1.png?w=700 1x, https://fivethirtyeight.com/wp-content/uploads/2022/02/biden-approval-rating-2-1.png?w=1400 2x"></figure><p data-paragraph="main">According to FiveThirtyEight’s <a href="https://projects.fivethirtyeight.com/biden-approval-rating/" target="_blank" rel="noopener">presidential approval tracker</a>,<a data-footnote-id="3" href="https://fivethirtyeight.com/wp-json/wp/v2/espn_verticals/398#fn-3" data-footnote-content="&lt;p&gt;&lt;p&gt;As of 5 p.m. Eastern on Thursday.&lt;/p&gt;
+&lt;/p&gt;"><sup>3</sup></a><strong> </strong>41.7 percent of Americans approve of the job Biden is doing as president, while 52.6 percent disapprove (a net approval rating of -10.9 points). At this time <a href="https://fivethirtyeight.com/features/war-with-russia-has-pushed-ukrainians-toward-the-west/" target="_blank" rel="noopener">last week</a>, 41.7 percent approved and 53.3 percent disapproved (a net approval rating of -11.6 points). One month ago, Biden had an approval rating of 43.3 percent and a disapproval rating of 51.7 percent, for a net approval rating of -8.4 points.</p>
 
 
 
@@ -242,8 +297,8 @@
 
 
 
-<figure><img loading="lazy" width="1150" height="920" src="https://fivethirtyeight.com/wp-content/uploads/2022/02/generic-ballot-2-1.png" alt="" data-src="https://fivethirtyeight.com/wp-content/uploads/2022/02/generic-ballot-2-1.png" data-srcset="https://fivethirtyeight.com/wp-content/uploads/2022/02/generic-ballot-2-1.png?w=700 1x, https://fivethirtyeight.com/wp-content/uploads/2022/02/generic-ballot-2-1.png?w=1400 2x"></figure><p data-paragraph="main">In our average of polls of the <a href="https://projects.fivethirtyeight.com/congress-generic-ballot-polls/" target="_blank" rel="noopener">generic congressional ballot</a>,<a data-footnote-id="2" href="https://fivethirtyeight.com/wp-json/wp/v2/espn_verticals/398#fn-2" data-footnote-content="&lt;p&gt;&lt;p&gt;As of 5 p.m. Eastern on Thursday.&lt;/p&gt;
-&lt;/p&gt;"><sup>2</sup></a> Republicans currently lead by 1.9 percentage points (44.3 percent to 42.4 percent). A week ago, Republicans led Democrats by 1.9 points (44.2 percent to 42.2 percent). At this time last month, voters preferred Republicans by 0.5 points (42.4 percent to 41.9 percent).</p>]]></description>
+<figure><img loading="lazy" width="1150" height="920" src="https://fivethirtyeight.com/wp-content/uploads/2022/02/generic-ballot-2-1.png" alt="" data-src="https://fivethirtyeight.com/wp-content/uploads/2022/02/generic-ballot-2-1.png" data-srcset="https://fivethirtyeight.com/wp-content/uploads/2022/02/generic-ballot-2-1.png?w=700 1x, https://fivethirtyeight.com/wp-content/uploads/2022/02/generic-ballot-2-1.png?w=1400 2x"></figure><p data-paragraph="main">In our average of polls of the <a href="https://projects.fivethirtyeight.com/congress-generic-ballot-polls/" target="_blank" rel="noopener">generic congressional ballot</a>,<a data-footnote-id="4" href="https://fivethirtyeight.com/wp-json/wp/v2/espn_verticals/398#fn-4" data-footnote-content="&lt;p&gt;&lt;p&gt;As of 5 p.m. Eastern on Thursday.&lt;/p&gt;
+&lt;/p&gt;"><sup>4</sup></a> Republicans currently lead by 1.9 percentage points (44.3 percent to 42.4 percent). A week ago, Republicans led Democrats by 1.9 points (44.2 percent to 42.2 percent). At this time last month, voters preferred Republicans by 0.5 points (42.4 percent to 41.9 percent).</p>]]></description>
 			<pubDate>Fri, 04 Feb 2022 11:00:00 +0000</pubDate>
 			<guid isPermaLink="false">1644208201877170</guid>
 		</item>
@@ -334,8 +389,8 @@
 
 
 
-<p data-paragraph="main">Under <a href="https://www.justice.gov/crt/section-2-voting-rights-act" target="_blank" rel="noopener">Section 2 of the VRA</a>, it’s illegal to deny members of a racial minority equal opportunity to elect representatives of their choice. This has been <a href="http://www.publicmapping.org/what-is-redistricting/redistricting-criteria-the-voting-rights-act" target="_blank" rel="noopener">widely interpreted</a> to mean that, when possible,<a data-footnote-id="3" href="https://fivethirtyeight.com/wp-json/wp/v2/espn_verticals/398#fn-3" data-footnote-content='&lt;p&gt;&lt;p&gt;Court decisions and congressional guidelines have, over the years, settled on some &lt;a href="https://www.justice.gov/crt/case-document/file/1429826/download" target="_blank" rel="noopener"&gt;fundamental criteria&lt;/a&gt; for determining when this requirement kicks in, such as that a minority group must be large and compact enough to constitute a majority of a district and that voting in the area must be polarized by race.&lt;/p&gt;
-&lt;/p&gt;'><sup>3</sup></a> states must draw congressional districts where nonwhite voters are the dominant voting bloc, so as to reasonably ensure they can elect their preferred candidate. </p>
+<p data-paragraph="main">Under <a href="https://www.justice.gov/crt/section-2-voting-rights-act" target="_blank" rel="noopener">Section 2 of the VRA</a>, it’s illegal to deny members of a racial minority equal opportunity to elect representatives of their choice. This has been <a href="http://www.publicmapping.org/what-is-redistricting/redistricting-criteria-the-voting-rights-act" target="_blank" rel="noopener">widely interpreted</a> to mean that, when possible,<a data-footnote-id="5" href="https://fivethirtyeight.com/wp-json/wp/v2/espn_verticals/398#fn-5" data-footnote-content='&lt;p&gt;&lt;p&gt;Court decisions and congressional guidelines have, over the years, settled on some &lt;a href="https://www.justice.gov/crt/case-document/file/1429826/download" target="_blank" rel="noopener"&gt;fundamental criteria&lt;/a&gt; for determining when this requirement kicks in, such as that a minority group must be large and compact enough to constitute a majority of a district and that voting in the area must be polarized by race.&lt;/p&gt;
+&lt;/p&gt;'><sup>5</sup></a> states must draw congressional districts where nonwhite voters are the dominant voting bloc, so as to reasonably ensure they can elect their preferred candidate. </p>
 
 
 
@@ -371,13 +426,13 @@
 
 
 
-<p data-paragraph="main">According to <a href="https://www.oyez.org/cases/1985/83-1968" target="_blank" rel="noopener">Supreme Court precedent</a>, plaintiffs in a VRA redistricting case must show that the minority group is “sufficiently large and geographically compact to constitute a majority in a single-member district.” (Confusingly, a district doesn’t have to be majority-minority in order to <em>comply</em> with the VRA,<a data-footnote-id="4" href="https://fivethirtyeight.com/wp-json/wp/v2/espn_verticals/398#fn-4" data-footnote-content="&lt;p&gt;&lt;p&gt;For instance, if Black voters constitute a majority of the primary electorate in a heavily Democratic district, that district is likely to elect Black voters’ candidate of choice even if Black voters don’t constitute a majority of the entire electorate.&lt;/p&gt;
-&lt;/p&gt;"><sup>4</sup></a> but it has to be possible to draw one in order for a non-majority-minority district to <em>violate</em> it.) South Carolina may not satisfy this test in a court’s eyes — though, in the event of a favorable outcome at the Supreme Court, liberals may very well try their luck just in case.</p>
+<p data-paragraph="main">According to <a href="https://www.oyez.org/cases/1985/83-1968" target="_blank" rel="noopener">Supreme Court precedent</a>, plaintiffs in a VRA redistricting case must show that the minority group is “sufficiently large and geographically compact to constitute a majority in a single-member district.” (Confusingly, a district doesn’t have to be majority-minority in order to <em>comply</em> with the VRA,<a data-footnote-id="6" href="https://fivethirtyeight.com/wp-json/wp/v2/espn_verticals/398#fn-6" data-footnote-content="&lt;p&gt;&lt;p&gt;For instance, if Black voters constitute a majority of the primary electorate in a heavily Democratic district, that district is likely to elect Black voters’ candidate of choice even if Black voters don’t constitute a majority of the entire electorate.&lt;/p&gt;
+&lt;/p&gt;"><sup>6</sup></a> but it has to be possible to draw one in order for a non-majority-minority district to <em>violate</em> it.) South Carolina may not satisfy this test in a court’s eyes — though, in the event of a favorable outcome at the Supreme Court, liberals may very well try their luck just in case.</p>
 
 
 
-<p data-paragraph="main">With or without South Carolina, though, the Supreme Court letting the Alabama ruling stand would be a significant boon to Black representation in Congress — and from a region that has historically suppressed Black voters to boot. It could potentially lead to two, maybe three, new Black members of Congress from the Deep South. As a result, as many as 18 percent of U.S. representatives from states that constituted the former Confederacy could be Black — the most in U.S. history.<a data-footnote-id="5" href="https://fivethirtyeight.com/wp-json/wp/v2/espn_verticals/398#fn-5" data-footnote-content="&lt;p&gt;&lt;p&gt;Assuming all current Black representatives from the region either win reelection or are replaced with another Black representative.&lt;/p&gt;
-&lt;/p&gt;"><sup>5</sup></a></p>
+<p data-paragraph="main">With or without South Carolina, though, the Supreme Court letting the Alabama ruling stand would be a significant boon to Black representation in Congress — and from a region that has historically suppressed Black voters to boot. It could potentially lead to two, maybe three, new Black members of Congress from the Deep South. As a result, as many as 18 percent of U.S. representatives from states that constituted the former Confederacy could be Black — the most in U.S. history.<a data-footnote-id="7" href="https://fivethirtyeight.com/wp-json/wp/v2/espn_verticals/398#fn-7" data-footnote-content="&lt;p&gt;&lt;p&gt;Assuming all current Black representatives from the region either win reelection or are replaced with another Black representative.&lt;/p&gt;
+&lt;/p&gt;"><sup>7</sup></a></p>
 
 
 
@@ -408,8 +463,8 @@
 			<category>Messaging</category>
 			<category>Misinformation</category>
 			<category>Republican Party</category>
-			<description><![CDATA[<p data-paragraph="main">Virginia’s new governor, Glenn Youngkin, kicked off his term with a political magic trick. In the first of <a href="https://www.governor.virginia.gov/media/governorvirginiagov/governor-of-virginia/pdf/74---eo/74---eo/EO-1---ENDING-THE-USE-OF-INHERENTLY-DIVISIVE-CONCEPTS,-INCLUDING-CRITICAL-RACE-THEORY,-AND-RESTORING-EXCELLEN.pdf" target="_blank" rel="noopener">nine executive orders</a> issued on Jan. 15, the day he took office,<a data-footnote-id="6" href="https://fivethirtyeight.com/wp-json/wp/v2/espn_verticals/398#fn-6" data-footnote-content='&lt;p&gt;&lt;p&gt;Youngkin issued &lt;a href="https://www.governor.virginia.gov/executive-actions/#directives" target="_blank" rel="noopener"&gt;two executive directives&lt;/a&gt; that day too.&lt;/p&gt;
-&lt;/p&gt;'><sup>6</sup></a> he banned the teaching of “inherently divisive concepts, including critical race theory” in K-12 public schools. It was a smart way to show his base he’s already jumping on <a href="https://www.bloomberg.com/news/articles/2021-12-03/gop-seizes-on-hot-button-school-issues-as-2022-election-weapons" target="_blank" rel="noopener">issues they care about</a>. Education policy, particularly the <a href="https://www.pbs.org/newshour/education/so-much-buzz-but-what-is-critical-race-theory" target="_blank" rel="noopener">alleged role critical race theory</a> plays in public school curricula, was a <a href="https://www.washingtonpost.com/opinions/2021/09/25/youngkin-is-using-critical-race-theory-bogeyman-rile-up-trumpian-base/" target="_blank" rel="noopener">centerpiece of Youngkin’s campaign</a>. But the impact of this executive order is less straightforward than it seems, because critical race theory <a href="https://www.politifact.com/factchecks/2021/nov/16/rick-scott/critical-race-theory-isnt-virginias-curriculum/" target="_blank" rel="noopener">isn’t actually taught</a> in Virginia public schools. </p>
+			<description><![CDATA[<p data-paragraph="main">Virginia’s new governor, Glenn Youngkin, kicked off his term with a political magic trick. In the first of <a href="https://www.governor.virginia.gov/media/governorvirginiagov/governor-of-virginia/pdf/74---eo/74---eo/EO-1---ENDING-THE-USE-OF-INHERENTLY-DIVISIVE-CONCEPTS,-INCLUDING-CRITICAL-RACE-THEORY,-AND-RESTORING-EXCELLEN.pdf" target="_blank" rel="noopener">nine executive orders</a> issued on Jan. 15, the day he took office,<a data-footnote-id="8" href="https://fivethirtyeight.com/wp-json/wp/v2/espn_verticals/398#fn-8" data-footnote-content='&lt;p&gt;&lt;p&gt;Youngkin issued &lt;a href="https://www.governor.virginia.gov/executive-actions/#directives" target="_blank" rel="noopener"&gt;two executive directives&lt;/a&gt; that day too.&lt;/p&gt;
+&lt;/p&gt;'><sup>8</sup></a> he banned the teaching of “inherently divisive concepts, including critical race theory” in K-12 public schools. It was a smart way to show his base he’s already jumping on <a href="https://www.bloomberg.com/news/articles/2021-12-03/gop-seizes-on-hot-button-school-issues-as-2022-election-weapons" target="_blank" rel="noopener">issues they care about</a>. Education policy, particularly the <a href="https://www.pbs.org/newshour/education/so-much-buzz-but-what-is-critical-race-theory" target="_blank" rel="noopener">alleged role critical race theory</a> plays in public school curricula, was a <a href="https://www.washingtonpost.com/opinions/2021/09/25/youngkin-is-using-critical-race-theory-bogeyman-rile-up-trumpian-base/" target="_blank" rel="noopener">centerpiece of Youngkin’s campaign</a>. But the impact of this executive order is less straightforward than it seems, because critical race theory <a href="https://www.politifact.com/factchecks/2021/nov/16/rick-scott/critical-race-theory-isnt-virginias-curriculum/" target="_blank" rel="noopener">isn’t actually taught</a> in Virginia public schools. </p>
 
 
 
@@ -515,8 +570,8 @@
 
 
 
-<p data-paragraph="main">That kind of overwhelming and bipartisan support for a president’s Supreme Court nominee wasn’t unusual at the time, but it ended up marking the end of an era. Breyer received more than 90 percent of the votes cast on his confirmation, in line with about three-fourths of Supreme Court nominees in U.S. history up to that point.<a data-footnote-id="7" href="https://fivethirtyeight.com/wp-json/wp/v2/espn_verticals/398#fn-7" data-footnote-content="&lt;p&gt;&lt;p&gt;Including voice votes, where no vote tally is recorded.&lt;/p&gt;
-&lt;/p&gt;"><sup>7</sup></a> But as the chart below shows, only one of the seven justices confirmed since Breyer — Chief Justice John Roberts — has received more than 69 percent of the Senate’s votes, and Roberts is also the only one to have earned the backing of a majority of the other party’s senators.</p>
+<p data-paragraph="main">That kind of overwhelming and bipartisan support for a president’s Supreme Court nominee wasn’t unusual at the time, but it ended up marking the end of an era. Breyer received more than 90 percent of the votes cast on his confirmation, in line with about three-fourths of Supreme Court nominees in U.S. history up to that point.<a data-footnote-id="9" href="https://fivethirtyeight.com/wp-json/wp/v2/espn_verticals/398#fn-9" data-footnote-content="&lt;p&gt;&lt;p&gt;Including voice votes, where no vote tally is recorded.&lt;/p&gt;
+&lt;/p&gt;"><sup>9</sup></a> But as the chart below shows, only one of the seven justices confirmed since Breyer — Chief Justice John Roberts — has received more than 69 percent of the Senate’s votes, and Roberts is also the only one to have earned the backing of a majority of the other party’s senators.</p>
 
 
 
@@ -534,8 +589,8 @@
 
 
 
-<p data-paragraph="main">Now it's Democrats’ turn to push their nominee, but they have even less margin for error than Republicans did during Trump’s tenure. Whereas Republicans always had at least one vote they could afford to lose, Democrats in a 50-50 Senate can’t spare a single vote.<a data-footnote-id="8" href="https://fivethirtyeight.com/wp-json/wp/v2/espn_verticals/398#fn-8" data-footnote-content="&lt;p&gt;&lt;p&gt;This includes two independent senators, Angus King of Maine and Bernie Sanders of Vermont, who caucus with the Democrats. Democrats have the majority thanks to Vice President Kamala Harris’s tie-breaking vote.&lt;/p&gt;
-&lt;/p&gt;"><sup>8</sup></a> It’s why <a href="https://www.npr.org/2018/03/30/598115811/the-fall-of-harriet-miers-a-cautionary-tale-for-dr-ronny-jackson" target="_blank" rel="noopener">any hiccup in the nomination process</a>, including <a href="https://www.nytimes.com/2021/05/10/upshot/democrats-agenda-hinges-health.html" target="_blank" rel="noopener">some sort of health issue</a> for a Democratic senator, could create real problems for Democrats.</p>
+<p data-paragraph="main">Now it's Democrats’ turn to push their nominee, but they have even less margin for error than Republicans did during Trump’s tenure. Whereas Republicans always had at least one vote they could afford to lose, Democrats in a 50-50 Senate can’t spare a single vote.<a data-footnote-id="10" href="https://fivethirtyeight.com/wp-json/wp/v2/espn_verticals/398#fn-10" data-footnote-content="&lt;p&gt;&lt;p&gt;This includes two independent senators, Angus King of Maine and Bernie Sanders of Vermont, who caucus with the Democrats. Democrats have the majority thanks to Vice President Kamala Harris’s tie-breaking vote.&lt;/p&gt;
+&lt;/p&gt;"><sup>10</sup></a> It’s why <a href="https://www.npr.org/2018/03/30/598115811/the-fall-of-harriet-miers-a-cautionary-tale-for-dr-ronny-jackson" target="_blank" rel="noopener">any hiccup in the nomination process</a>, including <a href="https://www.nytimes.com/2021/05/10/upshot/democrats-agenda-hinges-health.html" target="_blank" rel="noopener">some sort of health issue</a> for a Democratic senator, could create real problems for Democrats.</p>
 
 
 
@@ -726,8 +781,8 @@
  </footer></section></div>
 
 
-<p data-paragraph="main">Rather than being less qualified than their white counterparts, Black women are actually <em>more</em> highly credentialed than the average Biden judge. We found that Black women were particularly likely to have attended an elite institution. More than one-third (36 percent) of Black women that Biden named to the courts attended an Ivy League university, and 82 percent attended a top-ranked law school.<a data-footnote-id="9" href="https://fivethirtyeight.com/wp-json/wp/v2/espn_verticals/398#fn-9" data-footnote-content='&lt;p&gt;&lt;p&gt;For top-ranked law schools, we used the top-14 schools that appear on the &lt;a href="https://www.usnews.com/best-graduate-schools/top-law-schools/law-rankings" target="_blank" rel="noopener"&gt;2022 list&lt;/a&gt; compiled by U.S. News and World Report.&lt;/p&gt;
-&lt;/p&gt;'><sup>9</sup></a> Black women also stood out among Biden’s appointees on another metric commonly used to assess judges: <a href="https://www.americanbar.org/groups/committees/federal_judiciary/ratings/" target="_blank" rel="noopener">ratings produced by the American Bar Association</a> for federal judicial nominees. </p>
+<p data-paragraph="main">Rather than being less qualified than their white counterparts, Black women are actually <em>more</em> highly credentialed than the average Biden judge. We found that Black women were particularly likely to have attended an elite institution. More than one-third (36 percent) of Black women that Biden named to the courts attended an Ivy League university, and 82 percent attended a top-ranked law school.<a data-footnote-id="11" href="https://fivethirtyeight.com/wp-json/wp/v2/espn_verticals/398#fn-11" data-footnote-content='&lt;p&gt;&lt;p&gt;For top-ranked law schools, we used the top-14 schools that appear on the &lt;a href="https://www.usnews.com/best-graduate-schools/top-law-schools/law-rankings" target="_blank" rel="noopener"&gt;2022 list&lt;/a&gt; compiled by U.S. News and World Report.&lt;/p&gt;
+&lt;/p&gt;'><sup>11</sup></a> Black women also stood out among Biden’s appointees on another metric commonly used to assess judges: <a href="https://www.americanbar.org/groups/committees/federal_judiciary/ratings/" target="_blank" rel="noopener">ratings produced by the American Bar Association</a> for federal judicial nominees. </p>
 
 
 
@@ -829,8 +884,8 @@
 
 
 
-<p data-paragraph="main">New York is, of course, a blue state; it gave President Biden 61 percent of the vote in the 2020 presidential election. But if it becomes law (a good possibility but far from a certainty; read on), this map would put Democrats in position to win between 77 percent and 85 percent of New York’s congressional seats. The map creates 20 districts with a <a href="https://fivethirtyeight.com/features/how-red-or-blue-is-your-state-your-congressional-district/" target="_blank" rel="noopener">FiveThirtyEight partisan lean</a><a data-footnote-id="10" href="https://fivethirtyeight.com/wp-json/wp/v2/espn_verticals/398#fn-10" data-footnote-content="&lt;p&gt;&lt;p&gt;Partisan lean is the average margin difference between how a state or district votes and how the country votes overall. This version of partisan lean, meant to be used for congressional and gubernatorial elections, is calculated as 50 percent the state or district’s lean relative to the nation in the most recent presidential election, 25 percent its relative lean in the second-most-recent presidential election and 25 percent a custom state-legislative lean.&lt;/p&gt;
-&lt;/p&gt;"><sup>10</sup></a> of D+5 or bluer and only four districts with partisan leans of R+5 or redder. There would also be only two highly competitive districts (between D+5 and R+5), and both of those would tilt toward Democrats too (with partisan leans of D+3 and D+4).</p>
+<p data-paragraph="main">New York is, of course, a blue state; it gave President Biden 61 percent of the vote in the 2020 presidential election. But if it becomes law (a good possibility but far from a certainty; read on), this map would put Democrats in position to win between 77 percent and 85 percent of New York’s congressional seats. The map creates 20 districts with a <a href="https://fivethirtyeight.com/features/how-red-or-blue-is-your-state-your-congressional-district/" target="_blank" rel="noopener">FiveThirtyEight partisan lean</a><a data-footnote-id="12" href="https://fivethirtyeight.com/wp-json/wp/v2/espn_verticals/398#fn-12" data-footnote-content="&lt;p&gt;&lt;p&gt;Partisan lean is the average margin difference between how a state or district votes and how the country votes overall. This version of partisan lean, meant to be used for congressional and gubernatorial elections, is calculated as 50 percent the state or district’s lean relative to the nation in the most recent presidential election, 25 percent its relative lean in the second-most-recent presidential election and 25 percent a custom state-legislative lean.&lt;/p&gt;
+&lt;/p&gt;"><sup>12</sup></a> of D+5 or bluer and only four districts with partisan leans of R+5 or redder. There would also be only two highly competitive districts (between D+5 and R+5), and both of those would tilt toward Democrats too (with partisan leans of D+3 and D+4).</p>
 
 
 
@@ -846,8 +901,8 @@
 
 
 
-<p data-paragraph="main">That’s because this map puts New York Democrats in good position to flip two Republican-held open seats: the 1st District on Long Island (which moves from a partisan lean of R+10 to D+6) and the new 22nd District<a data-footnote-id="11" href="https://fivethirtyeight.com/wp-json/wp/v2/espn_verticals/398#fn-11" data-footnote-content="&lt;p&gt;&lt;p&gt;Formerly numbered the 24th District.&lt;/p&gt;
-&lt;/p&gt;"><sup>11</sup></a> around Syracuse (which moves from D+4 to D+13). It also all but dooms Republican Rep. Nicole Malliotakis in the Staten Island-based 11th District (which moves from R+13 to D+7) and dismantles Republican Rep. Claudia Tenney’s old, heavily Republican district. (She <a href="https://www.syracuse.com/politics/2022/01/rep-claudia-tenney-will-run-in-new-gop-leaning-district-giving-up-utica-area.html" target="_blank" rel="noopener">said on Monday</a> she would seek reelection in the open 23rd District instead.)</p>
+<p data-paragraph="main">That’s because this map puts New York Democrats in good position to flip two Republican-held open seats: the 1st District on Long Island (which moves from a partisan lean of R+10 to D+6) and the new 22nd District<a data-footnote-id="13" href="https://fivethirtyeight.com/wp-json/wp/v2/espn_verticals/398#fn-13" data-footnote-content="&lt;p&gt;&lt;p&gt;Formerly numbered the 24th District.&lt;/p&gt;
+&lt;/p&gt;"><sup>13</sup></a> around Syracuse (which moves from D+4 to D+13). It also all but dooms Republican Rep. Nicole Malliotakis in the Staten Island-based 11th District (which moves from R+13 to D+7) and dismantles Republican Rep. Claudia Tenney’s old, heavily Republican district. (She <a href="https://www.syracuse.com/politics/2022/01/rep-claudia-tenney-will-run-in-new-gop-leaning-district-giving-up-utica-area.html" target="_blank" rel="noopener">said on Monday</a> she would seek reelection in the open 23rd District instead.)</p>
 
 
 
@@ -863,8 +918,8 @@
 
 
 
-<p data-paragraph="main">Because the same party (Democrats) controls both the New York state Senate and state Assembly, this map most likely<a data-footnote-id="12" href="https://fivethirtyeight.com/wp-json/wp/v2/espn_verticals/398#fn-12" data-footnote-content='&lt;p&gt;&lt;p&gt;The law is &lt;a href="https://twitter.com/_justinlevitt_/status/1157144826363572224" target="_blank" rel="noopener"&gt;somewhat ambiguous&lt;/a&gt;.&lt;/p&gt;
-&lt;/p&gt;'><sup>12</sup></a> needs to receive two-thirds support in both chambers in order to pass. This is another provision of that 2014 ballot measure meant to get new maps to pass with bipartisan support — except it, too, was fundamentally flawed, since if the party in power had a legislative supermajority, no opposition-party votes would be required. And right now, New York Democrats do indeed have supermajorities in both chambers.</p>
+<p data-paragraph="main">Because the same party (Democrats) controls both the New York state Senate and state Assembly, this map most likely<a data-footnote-id="14" href="https://fivethirtyeight.com/wp-json/wp/v2/espn_verticals/398#fn-14" data-footnote-content='&lt;p&gt;&lt;p&gt;The law is &lt;a href="https://twitter.com/_justinlevitt_/status/1157144826363572224" target="_blank" rel="noopener"&gt;somewhat ambiguous&lt;/a&gt;.&lt;/p&gt;
+&lt;/p&gt;'><sup>14</sup></a> needs to receive two-thirds support in both chambers in order to pass. This is another provision of that 2014 ballot measure meant to get new maps to pass with bipartisan support — except it, too, was fundamentally flawed, since if the party in power had a legislative supermajority, no opposition-party votes would be required. And right now, New York Democrats do indeed have supermajorities in both chambers.</p>
 
 
 
@@ -2030,8 +2085,8 @@
 
 
 
-<figure><img loading="lazy" width="1150" height="920" src="https://fivethirtyeight.com/wp-content/uploads/2022/01/biden-approval-rating-2-3.png" alt="" data-src="https://fivethirtyeight.com/wp-content/uploads/2022/01/biden-approval-rating-2-3.png" data-srcset="https://fivethirtyeight.com/wp-content/uploads/2022/01/biden-approval-rating-2-3.png?w=700 1x, https://fivethirtyeight.com/wp-content/uploads/2022/01/biden-approval-rating-2-3.png?w=1400 2x"></figure><p data-paragraph="main">According to FiveThirtyEight’s <a href="https://projects.fivethirtyeight.com/biden-approval-rating/" target="_blank" rel="noopener">presidential approval tracker</a>,<a data-footnote-id="13" href="https://fivethirtyeight.com/wp-json/wp/v2/espn_verticals/398#fn-13" data-footnote-content="&lt;p&gt;&lt;p&gt;As of 5 p.m. Eastern on Thursday.&lt;/p&gt;
-&lt;/p&gt;"><sup>13</sup></a><strong> </strong>41.7 percent of Americans approve of the job Biden is doing as president, while 53.3 percent disapprove (a net approval rating of -11.6 points). At this time <a href="https://fivethirtyeight.com/features/americans-feel-burnt-out-personally-and-politically/" target="_blank" rel="noopener">last week</a>, 41.9 percent approved and 53.4 percent disapproved (a net approval rating of -11.5 points). One month ago, Biden had an approval rating of 43.0 percent and a disapproval rating of 51.7 percent, for a net approval rating of -8.8 points.</p>
+<figure><img loading="lazy" width="1150" height="920" src="https://fivethirtyeight.com/wp-content/uploads/2022/01/biden-approval-rating-2-3.png" alt="" data-src="https://fivethirtyeight.com/wp-content/uploads/2022/01/biden-approval-rating-2-3.png" data-srcset="https://fivethirtyeight.com/wp-content/uploads/2022/01/biden-approval-rating-2-3.png?w=700 1x, https://fivethirtyeight.com/wp-content/uploads/2022/01/biden-approval-rating-2-3.png?w=1400 2x"></figure><p data-paragraph="main">According to FiveThirtyEight’s <a href="https://projects.fivethirtyeight.com/biden-approval-rating/" target="_blank" rel="noopener">presidential approval tracker</a>,<a data-footnote-id="15" href="https://fivethirtyeight.com/wp-json/wp/v2/espn_verticals/398#fn-15" data-footnote-content="&lt;p&gt;&lt;p&gt;As of 5 p.m. Eastern on Thursday.&lt;/p&gt;
+&lt;/p&gt;"><sup>15</sup></a><strong> </strong>41.7 percent of Americans approve of the job Biden is doing as president, while 53.3 percent disapprove (a net approval rating of -11.6 points). At this time <a href="https://fivethirtyeight.com/features/americans-feel-burnt-out-personally-and-politically/" target="_blank" rel="noopener">last week</a>, 41.9 percent approved and 53.4 percent disapproved (a net approval rating of -11.5 points). One month ago, Biden had an approval rating of 43.0 percent and a disapproval rating of 51.7 percent, for a net approval rating of -8.8 points.</p>
 
 
 
@@ -2039,8 +2094,8 @@
 
 
 
-<figure><img loading="lazy" width="1150" height="920" src="https://fivethirtyeight.com/wp-content/uploads/2022/01/generic-ballot-2-3.png" alt="" data-src="https://fivethirtyeight.com/wp-content/uploads/2022/01/generic-ballot-2-3.png" data-srcset="https://fivethirtyeight.com/wp-content/uploads/2022/01/generic-ballot-2-3.png?w=700 1x, https://fivethirtyeight.com/wp-content/uploads/2022/01/generic-ballot-2-3.png?w=1400 2x"></figure><p data-paragraph="main">In our average of polls of the <a href="https://projects.fivethirtyeight.com/congress-generic-ballot-polls/" target="_blank" rel="noopener">generic congressional ballot</a>,<a data-footnote-id="14" href="https://fivethirtyeight.com/wp-json/wp/v2/espn_verticals/398#fn-14" data-footnote-content="&lt;p&gt;&lt;p&gt;As of 5 p.m. Eastern on Thursday.&lt;/p&gt;
-&lt;/p&gt;"><sup>14</sup></a> Republicans currently lead by 1.9 percentage points (44.2 percent to 42.2 percent). A week ago, Republicans led Democrats by 1.6 points (43.3 percent to 41.7 percent). At this time last month, voters preferred Republicans by 1.3 points (41.9 percent to 43.2 percent).</p>
+<figure><img loading="lazy" width="1150" height="920" src="https://fivethirtyeight.com/wp-content/uploads/2022/01/generic-ballot-2-3.png" alt="" data-src="https://fivethirtyeight.com/wp-content/uploads/2022/01/generic-ballot-2-3.png" data-srcset="https://fivethirtyeight.com/wp-content/uploads/2022/01/generic-ballot-2-3.png?w=700 1x, https://fivethirtyeight.com/wp-content/uploads/2022/01/generic-ballot-2-3.png?w=1400 2x"></figure><p data-paragraph="main">In our average of polls of the <a href="https://projects.fivethirtyeight.com/congress-generic-ballot-polls/" target="_blank" rel="noopener">generic congressional ballot</a>,<a data-footnote-id="16" href="https://fivethirtyeight.com/wp-json/wp/v2/espn_verticals/398#fn-16" data-footnote-content="&lt;p&gt;&lt;p&gt;As of 5 p.m. Eastern on Thursday.&lt;/p&gt;
+&lt;/p&gt;"><sup>16</sup></a> Republicans currently lead by 1.9 percentage points (44.2 percent to 42.2 percent). A week ago, Republicans led Democrats by 1.6 points (43.3 percent to 41.7 percent). At this time last month, voters preferred Republicans by 1.3 points (41.9 percent to 43.2 percent).</p>
 
 
 
@@ -4008,76 +4063,6 @@
 &lt;/p&gt;"><sup>6</sup></a> A week ago, Republicans led Democrats by 0.5 percentage points (42.6 percent to 42.1 percent, respectively). At this time last month, voters preferred Democrats over Republicans by 2.7 points (43.5 percent to 40.9 percent).</p>]]></description>
 			<pubDate>Fri, 03 Dec 2021 11:00:00 +0000</pubDate>
 			<guid isPermaLink="false">1638531901292906</guid>
-		</item>
-		<item>
-			<title>Politics Podcast: What The Supreme Court — And Americans — Think About Overturning Roe v. Wade</title>
-			<link>https://fivethirtyeight.com/features/politics-podcast-what-the-supreme-court-and-americans-think-about-overturning-roe-v-wade/</link>
-						<dc:creator>Galen Druke</dc:creator>
-			<dc:creator>FiveThirtyEight</dc:creator>
-			<category>Abortion</category>
-			<category>FiveThirtyEight Podcasts</category>
-			<category>Politics Podcast</category>
-			<category>Public Opinion</category>
-			<category>Roe V. Wade</category>
-			<category>Supreme Court</category>
-			<description><![CDATA[<div data-href="https://fivethirtyeight.com/features/politics-podcast-what-the-supreme-court-and-americans-think-about-overturning-roe-v-wade/">
-	<div data-podcast-id="321752" data-podcast-duration="0" data-podcast-title="Politics Podcast: What The Supreme Court -- And Americans -- Think About Overturning Roe v. Wade">
-
-					<span><span>FiveThirtyEight</span></span>
-			
-		
-		<button aria-label="Play"></button>
-
-					<div>
-		
-		
-							<div>
-					<div>
-						<div></div>
-					</div>
-
-					<div> </div>
-
-					<audio preload="none" controls="controls">
-						<source src="https://www.podtrac.com/pts/redirect.mp3/traffic.megaphone.fm/ESP6069676856.mp3?updated=1638462759">
-					</source></audio>
-				</div>
-			
-					</div>
-		
-	</div>
-</div>
-<aside>
-	<div>
-		More: <a href="https://itunes.apple.com/us/podcast/fivethirtyeight-elections/id1077418457">Apple Podcasts</a> |
-		<span><a data-android-url="" href="http://m.espn.com/general/cast?id=14554755">ESPN App</a> |</span>
-		<a href="https://www.espn.com/espnradio/feeds/rss/podcast.xml?id=14554755">RSS</a>
-			</div>
-	</aside>
-
-
-
-
-<p data-paragraph="main">On Wednesday, the Supreme Court heard oral arguments in one of the highest-profile cases of the term, and the question now before the court is whether Mississippi’s law banning most abortions after 15 weeks of pregnancy is constitutional. So far, the law has been blocked from going into effect because of the legal precedent from Roe v. Wade, which grants the constitutional right to abortion. And subsequent decisions by the court have meant that states may not ban abortion before fetal viability, which happens at around 24 weeks, but that is being tested now.</p>
-
-
-
-<p data-paragraph="main">In this installment of the FiveThirtyEight Politics podcast, senior politics writer and legal reporter Amelia Thomson-DeVeaux discusses how the justices approached the question during oral arguments and what Americans think about abortion policy. The conventional wisdom is that Americans’ views are highly polarized and deeply entrenched, but the reality is more complicated than that.</p>
-
-
-
-<p data-paragraph="main"><em>You can listen to the episode by clicking the “play” button in the audio player above or by </em><a href="https://itunes.apple.com/us/podcast/fivethirtyeight-elections/id1077418457?mt=2" target="_blank" rel="noopener"><em>downloading it in iTunes</em></a><em>, the </em><a href="http://www.espn.com/espn/mobile/products/products/_/id/6857590" target="_blank" rel="noopener"><em>ESPN App</em></a><em> or your favorite podcast platform. If you are new to podcasts, </em><a href="https://fivethirtyeight.com/how-to-listen-to-fivethirtyeight-podcasts/" target="_blank" rel="noopener"><em>learn how to listen</em></a><em>.</em></p>
-
-
-
-<p data-paragraph="main"><em>The FiveThirtyEight Politics podcast is recorded Mondays and Thursdays. Help new listeners discover the show by </em><a href="https://itunes.apple.com/us/podcast/fivethirtyeight-elections/id1077418457?mt=2" target="_blank" rel="noopener"><em>leaving us a rating and review on iTunes</em></a><em>. Have a comment, question or suggestion for “good polling vs. bad polling”? Get in touch by email, </em><a href="https://twitter.com/FiveThirtyEight" target="_blank" rel="noopener"><em>on Twitter</em></a><em> or in the comments.</em></p>
-
-
-<p>Watch: https://abcnews.go.com/ThisWeek/video/buy-limiting-abortion-access-mobilize-democrats-polls-silver-80630624</p>
-
-<p>Watch: https://abcnews.go.com/fivethirtyeight/video/texas-abortion-ban-rest-country-fivethirtyeight-79824406</p>]]></description>
-			<pubDate>Thu, 02 Dec 2021 16:29:00 +0000</pubDate>
-			<guid isPermaLink="false">1638464401912275</guid>
 		</item>
 
 	</channel>
