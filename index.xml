@@ -3,9 +3,779 @@
 		<title>Main stream | FreshRSS</title>
 		<link>http://radon</link>
 		<description>RSS feed of Main stream | FreshRSS</description>
-		<pubDate>Fri, 11 Feb 2022 11:59:06 +0000</pubDate>
-		<lastBuildDate>Fri, 11 Feb 2022 11:59:06 GMT</lastBuildDate>
+		<pubDate>Fri, 11 Feb 2022 12:29:07 +0000</pubDate>
+		<lastBuildDate>Fri, 11 Feb 2022 12:29:07 GMT</lastBuildDate>
 		<atom:link href="http://radon/i/?a=rss" rel="self" type="application/rss+xml" />
+		<item>
+			<title>Most Primary Polls So Far Are Internal Polls. That’s A Problem.</title>
+			<link>https://fivethirtyeight.com/features/most-primary-polls-so-far-are-internal-polls-thats-a-problem/</link>
+						<dc:creator>Nathaniel Rakich</dc:creator>
+			<dc:creator>Nathaniel Rakich and Jean Yi</dc:creator>
+			<category>2022 Primaries</category>
+			<category>Internal Polls</category>
+			<category>Pollapalooza</category>
+			<category>Primaries</category>
+			<description><![CDATA[<p data-paragraph="main">Welcome to <a href="https://fivethirtyeight.com/tag/pollapalooza/" target="_blank" rel="noopener">Pollapalooza</a>, our weekly polling roundup.</p>
+
+
+
+<div><hr><span></span></div>
+
+
+
+
+<p data-paragraph="main">Interested in who’s going to win the Republican primary for U.S. Senate in Ohio in a few months? Well, we’ve got good news and bad news for you. The good news is that there are already 22 polls of the race! But the bad news is that 21 of them are <a href="https://fivethirtyeight.com/features/is-don-blankenship-really-surging-in-west-virginia/" target="_blank" rel="noopener">internal polls</a>.</p>
+
+
+
+<p data-paragraph="main">Internal polls are polls sponsored by either a candidate running in the race or an outside group that has endorsed one of the candidates. In other words, these are polls that have an agenda behind them — and that agenda is usually to make their preferred candidate look good. As a result, they are usually too good to be true for their sponsor. FiveThirtyEight editor-in-chief Nate Silver <a href="https://fivethirtyeight.com/features/why-you-shouldnt-always-trust-the-inside-scoop/" target="_blank" rel="noopener">found in 2017</a> that internal and partisan polls conducted during the last three weeks of U.S. House general elections overstated their party’s candidate by an average of 4 or 5 percentage points.</p>
+
+
+
+<p data-paragraph="main">This poses a serious problem for people (like us) just trying to get an honest read of a race — especially if internal polls are all (or most) of what we have to go off. And unfortunately, that’s not just the case in Ohio this year; it’s true in primaries nationwide. </p>
+
+
+
+<p data-paragraph="main">We hunted down every poll we could find of 2022’s Senate, House and governor primaries (as of Feb. 10 at 3 p.m. Eastern), and a majority of them (at least 118 out of 229) are internal polls. And while we have polling data for a healthy 78 primaries so far (<a href="https://www.youtube.com/watch?v=i73-lpVV-Jo" target="_blank" rel="noopener">that’s good</a>), that polling is 100 percent internal in 23 of those primaries (<a href="https://www.youtube.com/watch?v=i73-lpVV-Jo" target="_blank" rel="noopener">that’s bad</a>).</p>
+
+
+<div>
+
+<section><header><h5>So far, more than half of primary polls have been internal</h5>
+ <p>Share of polls sponsored by a candidate or biased interest group from all polls in 2022 Senate, House and governor primaries, as of Feb. 10, 2022, at 3 p.m. Eastern</p>
+ </header><table data-carpenter-slug="rakich-yi.pollapalooza.2" data-expandable-rows="26"><thead><tr><th colspan="3"></th>
+ <th colspan="2">No. of Polls</th>
+ <th colspan="2"></th>
+ </tr><tr><th colspan="1" data-sort-index="0" aria-sort="descending" data-sort-default="true"><span>State<span><span>▲</span><span>▼</span></span>
+ </span>
+ </th>
+ <th colspan="1" data-sort-index="1"><span>Race<span><span>▲</span><span>▼</span></span>
+ </span>
+ </th>
+ <th colspan="1" data-sort-index="2"><span>Primary<span><span>▲</span><span>▼</span></span>
+ </span>
+ </th>
+ <th colspan="1" data-sort-index="3" data-sort-method="number"><span>Internal<span><span>▲</span><span>▼</span></span>
+ </span>
+ </th>
+ <th colspan="1" data-sort-index="4" data-sort-method="number"><span>All<span><span>▲</span><span>▼</span></span>
+ </span>
+ </th>
+ <th colspan="2" data-sort-index="5" data-sort-method="number"><span>Share<span><span>▲</span><span>▼</span></span>
+ </span>
+ </th>
+ </tr></thead><tbody><tr><td>AL</td>
+ <td>House (2nd)</td>
+ <td><span>R</span></td>
+ <td>1</td>
+ <td>1</td>
+ <td data-suffix="%" data-suffixpadding="1.1em">100%</td>
+ <td>
+ <div>–</div>
+ </td>
+ </tr><tr><td>CA</td>
+ <td>House (15th)</td>
+ <td>*</td>
+ <td>1</td>
+ <td>1</td>
+ <td>100</td>
+ <td>
+ <div>–</div>
+ </td>
+ </tr><tr><td>FL</td>
+ <td>House (13th)</td>
+ <td><span>D</span></td>
+ <td>1</td>
+ <td>1</td>
+ <td>100</td>
+ <td>
+ <div>–</div>
+ </td>
+ </tr><tr><td>GA</td>
+ <td>House (7th)</td>
+ <td><span>D</span></td>
+ <td>2</td>
+ <td>2</td>
+ <td>100</td>
+ <td>
+ <div>–</div>
+ </td>
+ </tr><tr><td>GA</td>
+ <td>House (14th)</td>
+ <td><span>R</span></td>
+ <td>2</td>
+ <td>2</td>
+ <td>100</td>
+ <td>
+ <div>–</div>
+ </td>
+ </tr><tr><td>MD</td>
+ <td>House (4th)</td>
+ <td><span>D</span></td>
+ <td>1</td>
+ <td>1</td>
+ <td>100</td>
+ <td>
+ <div>–</div>
+ </td>
+ </tr><tr><td>MD</td>
+ <td>Governor</td>
+ <td><span>D</span></td>
+ <td>3</td>
+ <td>3</td>
+ <td>100</td>
+ <td>
+ <div>–</div>
+ </td>
+ </tr><tr><td>ME</td>
+ <td>Governor</td>
+ <td><span>D</span></td>
+ <td>1</td>
+ <td>1</td>
+ <td>100</td>
+ <td>
+ <div>–</div>
+ </td>
+ </tr><tr><td>MI</td>
+ <td>Governor</td>
+ <td><span>R</span></td>
+ <td>1</td>
+ <td>1</td>
+ <td>100</td>
+ <td>
+ <div>–</div>
+ </td>
+ </tr><tr><td>MS</td>
+ <td>House (4th)</td>
+ <td><span>R</span></td>
+ <td>1</td>
+ <td>1</td>
+ <td>100</td>
+ <td>
+ <div>–</div>
+ </td>
+ </tr><tr><td>NH</td>
+ <td>House (1st)</td>
+ <td><span>R</span></td>
+ <td>1</td>
+ <td>1</td>
+ <td>100</td>
+ <td>
+ <div>–</div>
+ </td>
+ </tr><tr><td>NM</td>
+ <td>Governor</td>
+ <td><span>R</span></td>
+ <td>1</td>
+ <td>1</td>
+ <td>100</td>
+ <td>
+ <div>–</div>
+ </td>
+ </tr><tr><td>OH</td>
+ <td>Governor</td>
+ <td><span>D</span></td>
+ <td>1</td>
+ <td>1</td>
+ <td>100</td>
+ <td>
+ <div>–</div>
+ </td>
+ </tr><tr><td>OR</td>
+ <td>Governor</td>
+ <td><span>R</span></td>
+ <td>2</td>
+ <td>2</td>
+ <td>100</td>
+ <td>
+ <div>–</div>
+ </td>
+ </tr><tr><td>RI</td>
+ <td>Governor</td>
+ <td><span>D</span></td>
+ <td>1</td>
+ <td>1</td>
+ <td>100</td>
+ <td>
+ <div>–</div>
+ </td>
+ </tr><tr><td>SD</td>
+ <td>House</td>
+ <td><span>R</span></td>
+ <td>1</td>
+ <td>1</td>
+ <td>100</td>
+ <td>
+ <div>–</div>
+ </td>
+ </tr><tr><td>TX</td>
+ <td>House (28th)</td>
+ <td><span>D</span></td>
+ <td>1</td>
+ <td>1</td>
+ <td>100</td>
+ <td>
+ <div>–</div>
+ </td>
+ </tr><tr><td>TX</td>
+ <td>House (30th)</td>
+ <td><span>D</span></td>
+ <td>1</td>
+ <td>1</td>
+ <td>100</td>
+ <td>
+ <div>–</div>
+ </td>
+ </tr><tr><td>TX</td>
+ <td>House (35th)</td>
+ <td><span>D</span></td>
+ <td>2</td>
+ <td>2</td>
+ <td>100</td>
+ <td>
+ <div>–</div>
+ </td>
+ </tr><tr><td>TX</td>
+ <td>House (38th)</td>
+ <td><span>R</span></td>
+ <td>1</td>
+ <td>1</td>
+ <td>100</td>
+ <td>
+ <div>–</div>
+ </td>
+ </tr><tr><td>WA</td>
+ <td>House (4th)</td>
+ <td>*</td>
+ <td>1</td>
+ <td>1</td>
+ <td>100</td>
+ <td>
+ <div>–</div>
+ </td>
+ </tr><tr><td>WI</td>
+ <td>Governor</td>
+ <td><span>R</span></td>
+ <td>1</td>
+ <td>1</td>
+ <td>100</td>
+ <td>
+ <div>–</div>
+ </td>
+ </tr><tr><td>WV</td>
+ <td>House (2nd)</td>
+ <td><span>R</span></td>
+ <td>3</td>
+ <td>3</td>
+ <td>100</td>
+ <td>
+ <div>–</div>
+ </td>
+ </tr><tr><td>OH</td>
+ <td>Senate</td>
+ <td><span>R</span></td>
+ <td>21</td>
+ <td>22</td>
+ <td>95</td>
+ <td>
+ <div>–</div>
+ </td>
+ </tr><tr><td>WY</td>
+ <td>House</td>
+ <td><span>R</span></td>
+ <td>5</td>
+ <td>6</td>
+ <td>83</td>
+ <td>
+ <div>–</div>
+ </td>
+ </tr><tr><td>OH</td>
+ <td>Governor</td>
+ <td><span>R</span></td>
+ <td>5</td>
+ <td>7</td>
+ <td>71</td>
+ <td>
+ <div>–</div>
+ </td>
+ </tr><tr><td>WI</td>
+ <td>Senate</td>
+ <td><span>D</span></td>
+ <td>2</td>
+ <td>3</td>
+ <td>67</td>
+ <td>
+ <div>–</div>
+ </td>
+ </tr><tr><td>AL</td>
+ <td>Senate</td>
+ <td><span>R</span></td>
+ <td>7</td>
+ <td>11</td>
+ <td>64</td>
+ <td>
+ <div>–</div>
+ </td>
+ </tr><tr><td>NC</td>
+ <td>Senate</td>
+ <td><span>D</span></td>
+ <td>3</td>
+ <td>5</td>
+ <td>60</td>
+ <td>
+ <div>–</div>
+ </td>
+ </tr><tr><td>PA</td>
+ <td>Senate</td>
+ <td><span>D</span></td>
+ <td>3</td>
+ <td>5</td>
+ <td>60</td>
+ <td>
+ <div>–</div>
+ </td>
+ </tr><tr><td>NC</td>
+ <td>Senate</td>
+ <td><span>R</span></td>
+ <td>7</td>
+ <td>12</td>
+ <td>58</td>
+ <td>
+ <div>–</div>
+ </td>
+ </tr><tr><td>FL</td>
+ <td>Governor</td>
+ <td><span>D</span></td>
+ <td>4</td>
+ <td>7</td>
+ <td>57</td>
+ <td>
+ <div>–</div>
+ </td>
+ </tr><tr><td>AK</td>
+ <td>Senate</td>
+ <td>*</td>
+ <td>1</td>
+ <td>2</td>
+ <td>50</td>
+ <td>
+ <div>–</div>
+ </td>
+ </tr><tr><td>AZ</td>
+ <td>Senate</td>
+ <td><span>R</span></td>
+ <td>3</td>
+ <td>6</td>
+ <td>50</td>
+ <td>
+ <div>–</div>
+ </td>
+ </tr><tr><td>GA</td>
+ <td>Senate</td>
+ <td><span>R</span></td>
+ <td>2</td>
+ <td>4</td>
+ <td>50</td>
+ <td>
+ <div>–</div>
+ </td>
+ </tr><tr><td>GA</td>
+ <td>Governor</td>
+ <td><span>R</span></td>
+ <td>4</td>
+ <td>8</td>
+ <td>50</td>
+ <td>
+ <div>–</div>
+ </td>
+ </tr><tr><td>HI</td>
+ <td>Governor</td>
+ <td><span>D</span></td>
+ <td>1</td>
+ <td>2</td>
+ <td>50</td>
+ <td>
+ <div>–</div>
+ </td>
+ </tr><tr><td>MI</td>
+ <td>House (11th)</td>
+ <td><span>D</span></td>
+ <td>1</td>
+ <td>2</td>
+ <td>50</td>
+ <td>
+ <div>–</div>
+ </td>
+ </tr><tr><td>NV</td>
+ <td>Senate</td>
+ <td><span>R</span></td>
+ <td>1</td>
+ <td>2</td>
+ <td>50</td>
+ <td>
+ <div>–</div>
+ </td>
+ </tr><tr><td>NV</td>
+ <td>Governor</td>
+ <td><span>R</span></td>
+ <td>2</td>
+ <td>4</td>
+ <td>50</td>
+ <td>
+ <div>–</div>
+ </td>
+ </tr><tr><td>TX</td>
+ <td>Governor</td>
+ <td><span>R</span></td>
+ <td>7</td>
+ <td>14</td>
+ <td>50</td>
+ <td>
+ <div>–</div>
+ </td>
+ </tr><tr><td>WA</td>
+ <td>House (3rd)</td>
+ <td>*</td>
+ <td>2</td>
+ <td>5</td>
+ <td>40</td>
+ <td>
+ <div>–</div>
+ </td>
+ </tr><tr><td>AL</td>
+ <td>Governor</td>
+ <td><span>R</span></td>
+ <td>1</td>
+ <td>3</td>
+ <td>33</td>
+ <td>
+ <div>–</div>
+ </td>
+ </tr><tr><td>MO</td>
+ <td>Senate</td>
+ <td><span>R</span></td>
+ <td>2</td>
+ <td>8</td>
+ <td>25</td>
+ <td>
+ <div>–</div>
+ </td>
+ </tr><tr><td>PA</td>
+ <td>Governor</td>
+ <td><span>R</span></td>
+ <td>1</td>
+ <td>4</td>
+ <td>25</td>
+ <td>
+ <div>–</div>
+ </td>
+ </tr><tr><td>PA</td>
+ <td>Senate</td>
+ <td><span>R</span></td>
+ <td>1</td>
+ <td>5</td>
+ <td>20</td>
+ <td>
+ <div>–</div>
+ </td>
+ </tr><tr><td>NY</td>
+ <td>Governor</td>
+ <td><span>D</span></td>
+ <td>1</td>
+ <td>10</td>
+ <td>10</td>
+ <td>
+ <div>–</div>
+ </td>
+ </tr><tr><td>AR</td>
+ <td>Governor</td>
+ <td><span>R</span></td>
+ <td>0</td>
+ <td>1</td>
+ <td>0</td>
+ <td></td>
+ </tr><tr><td>AZ</td>
+ <td>Senate</td>
+ <td><span>D</span></td>
+ <td>0</td>
+ <td>1</td>
+ <td>0</td>
+ <td></td>
+ </tr><tr><td>AZ</td>
+ <td>Governor</td>
+ <td><span>R</span></td>
+ <td>0</td>
+ <td>3</td>
+ <td>0</td>
+ <td></td>
+ </tr><tr><td>AZ</td>
+ <td>Governor</td>
+ <td><span>D</span></td>
+ <td>0</td>
+ <td>3</td>
+ <td>0</td>
+ <td></td>
+ </tr><tr><td>CT</td>
+ <td>Governor</td>
+ <td><span>R</span></td>
+ <td>0</td>
+ <td>1</td>
+ <td>0</td>
+ <td></td>
+ </tr><tr><td>CT</td>
+ <td>Governor</td>
+ <td><span>D</span></td>
+ <td>0</td>
+ <td>1</td>
+ <td>0</td>
+ <td></td>
+ </tr><tr><td>FL</td>
+ <td>House (1st)</td>
+ <td><span>R</span></td>
+ <td>0</td>
+ <td>1</td>
+ <td>0</td>
+ <td></td>
+ </tr><tr><td>FL</td>
+ <td>House (7th)</td>
+ <td><span>R</span></td>
+ <td>0</td>
+ <td>1</td>
+ <td>0</td>
+ <td></td>
+ </tr><tr><td>FL</td>
+ <td>House (13th)</td>
+ <td><span>R</span></td>
+ <td>0</td>
+ <td>1</td>
+ <td>0</td>
+ <td></td>
+ </tr><tr><td>FL</td>
+ <td>House (16th)</td>
+ <td><span>R</span></td>
+ <td>0</td>
+ <td>1</td>
+ <td>0</td>
+ <td></td>
+ </tr><tr><td>FL</td>
+ <td>House (27th)</td>
+ <td><span>D</span></td>
+ <td>0</td>
+ <td>1</td>
+ <td>0</td>
+ <td></td>
+ </tr><tr><td>GA</td>
+ <td>House (10th)</td>
+ <td><span>R</span></td>
+ <td>0</td>
+ <td>2</td>
+ <td>0</td>
+ <td></td>
+ </tr><tr><td>ID</td>
+ <td>Governor</td>
+ <td><span>R</span></td>
+ <td>0</td>
+ <td>1</td>
+ <td>0</td>
+ <td></td>
+ </tr><tr><td>IL</td>
+ <td>House (17th)</td>
+ <td><span>D</span></td>
+ <td>0</td>
+ <td>1</td>
+ <td>0</td>
+ <td></td>
+ </tr><tr><td>IL</td>
+ <td>Governor</td>
+ <td><span>R</span></td>
+ <td>0</td>
+ <td>1</td>
+ <td>0</td>
+ <td></td>
+ </tr><tr><td>MA</td>
+ <td>Governor</td>
+ <td><span>R</span></td>
+ <td>0</td>
+ <td>2</td>
+ <td>0</td>
+ <td></td>
+ </tr><tr><td>MA</td>
+ <td>Governor</td>
+ <td><span>D</span></td>
+ <td>0</td>
+ <td>1</td>
+ <td>0</td>
+ <td></td>
+ </tr><tr><td>MD</td>
+ <td>Governor</td>
+ <td><span>R</span></td>
+ <td>0</td>
+ <td>1</td>
+ <td>0</td>
+ <td></td>
+ </tr><tr><td>MI</td>
+ <td>House (12th)</td>
+ <td><span>D</span></td>
+ <td>0</td>
+ <td>1</td>
+ <td>0</td>
+ <td></td>
+ </tr><tr><td>MI</td>
+ <td>House (13th)</td>
+ <td><span>D</span></td>
+ <td>0</td>
+ <td>1</td>
+ <td>0</td>
+ <td></td>
+ </tr><tr><td>MO</td>
+ <td>House (4th)</td>
+ <td><span>R</span></td>
+ <td>0</td>
+ <td>1</td>
+ <td>0</td>
+ <td></td>
+ </tr><tr><td>MO</td>
+ <td>House (7th)</td>
+ <td><span>R</span></td>
+ <td>0</td>
+ <td>1</td>
+ <td>0</td>
+ <td></td>
+ </tr><tr><td>NC</td>
+ <td>House (4th)</td>
+ <td><span>R</span></td>
+ <td>0</td>
+ <td>1</td>
+ <td>0</td>
+ <td></td>
+ </tr><tr><td>NH</td>
+ <td>Governor</td>
+ <td><span>R</span></td>
+ <td>0</td>
+ <td>1</td>
+ <td>0</td>
+ <td></td>
+ </tr><tr><td>NJ</td>
+ <td>House (11th)</td>
+ <td><span>R</span></td>
+ <td>0</td>
+ <td>1</td>
+ <td>0</td>
+ <td></td>
+ </tr><tr><td>NY</td>
+ <td>Governor</td>
+ <td><span>R</span></td>
+ <td>0</td>
+ <td>1</td>
+ <td>0</td>
+ <td></td>
+ </tr><tr><td>OK</td>
+ <td>Senate</td>
+ <td><span>R</span></td>
+ <td>0</td>
+ <td>2</td>
+ <td>0</td>
+ <td></td>
+ </tr><tr><td>OK</td>
+ <td>Governor</td>
+ <td><span>D</span></td>
+ <td>0</td>
+ <td>1</td>
+ <td>0</td>
+ <td></td>
+ </tr><tr><td>SC</td>
+ <td>House (7th)</td>
+ <td><span>R</span></td>
+ <td>0</td>
+ <td>2</td>
+ <td>0</td>
+ <td></td>
+ </tr><tr><td>TX</td>
+ <td>Governor</td>
+ <td><span>D</span></td>
+ <td>0</td>
+ <td>3</td>
+ <td>0</td>
+ <td></td>
+ </tr><tr><td>UT</td>
+ <td>Senate</td>
+ <td><span>R</span></td>
+ <td>0</td>
+ <td>1</td>
+ <td>0</td>
+ <td></td>
+ </tr></tbody></table><div><a>Show more rows</a></div>
+ <footer><p>*Alaska, California and Washington have all-party primaries where all candidates, regardless of party, run on the same ballot.</p>
+ <p>Source: Polls</p>
+ </footer></section></div>
+
+
+<p data-paragraph="main">For an example of how internal polls can mislead, look no further than that Ohio Senate race. The Republican primary is a crowded affair with tons of undecided voters, creating an opportunity for several candidates to claim they’re doing well. For example, the campaign of former state Treasurer Josh Mandel recently released a <a href="https://twitter.com/JoshMandelOhio/status/1488960353115557892?s=20&amp;t=i5bdn_zQDgv1e-zqvGlFHA" target="_blank" rel="noopener">WPA Intelligence poll</a> that gave himself 28 percent and businessman Mike Gibbons 17 percent. But a <a href="https://twitter.com/JacobRubashkin/status/1488636017775104000?s=20&amp;t=gu_Uv7h-MDs-ZAobqvz5iA" target="_blank" rel="noopener">Cygnal poll</a> conducted for Gibbons around the same time put Gibbons at 16 percent and Mandel at only 13 percent.</p>
+
+
+
+<p data-paragraph="main">Meanwhile, in early January, a <a href="https://twitter.com/JaneTimkenOH/status/1479426941971218433?s=20&amp;t=zGwbEHe1WPt8przQrAeHUw" target="_blank" rel="noopener">Moore Information Group survey</a> for former Ohio GOP Chair Jane Timken trumpeted that Timken was “statistically tied” with Mandel, 16 percent to 18 percent. And back in October, a <a href="https://twitter.com/politicoalex/status/1451212523873751042?s=20&amp;t=hXHa4vxgB-J7w3za5PRC6g" target="_blank" rel="noopener">Fabrizio Lee poll</a> for a super PAC supporting author J.D. Vance similarly put Vance (16 percent) in a strong second place behind Mandel (19 percent).</p>
+
+
+
+<p data-paragraph="main">Clearly, these polls are all telling their own stories. But that doesn’t mean they’re totally useless. For instance, the fact that Mandel leads in even a couple of his opponents’ polls suggests that he is a front-runner. (The <a href="https://www.thetrafalgargroup.org/wp-content/uploads/2021/12/TRF-OH-22-GOP-Primary-1216-Poll-Report.pdf" target="_blank" rel="noopener">only independent poll</a> of the race, conducted in December by the Trafalgar Group, concurs: It showed Mandel at 21 percent, Vance at 15 percent, Gibbons at 12 percent and Timken at 10 percent.)</p>
+
+
+
+<p data-paragraph="main">Likewise, internal polls’ trendlines can often be useful. For instance, in <a href="https://www.politico.com/f/?id=0000017e-d5b6-de19-a97e-f5b7f15e0000" target="_blank" rel="noopener">two Fabrizio Lee polls</a> since October, Vance has slumped to 10 percent and 9 percent, suggesting he is losing support over time. (In fact, it’s likely that these polls were released not to convince the public that Vance is doing well, but to convince <em>Vance</em> that his campaign needs to step it up.) Same with Mandel, whose own campaign’s polling staked him to an even bigger lead <a href="https://static1.squarespace.com/static/6096c989138a4a7ae28a2583/t/615130ca2389bb2832f7a74a/1632710859094/Ohio+Senate+Poll.pdf" target="_blank" rel="noopener">back in September</a> (37 percent to Vance’s 13 percent).</p>
+
+
+
+<p data-paragraph="main">In Ohio, we don’t have a lot of independent polling to validate those internal polls. But when we do, it can be a useful reality check. Take this year’s Republican primary for Texas governor. According to a <a href="https://www.paradigm-llp.com/_files/ugd/2d9332_4cdc2c9131514e6588ee56d58fae71b5.pdf" target="_blank" rel="noopener">recent poll</a> by Paradigm Partners on behalf of former Texas GOP Chair Allen West’s campaign, West leads incumbent Gov. Greg Abbott, 43 percent to 34 percent. But two independent polls taken around the same time (one from the <a href="https://www.scribd.com/document/555718826/The-Dallas-Morning-News-University-of-Texas-Tyler-Poll" target="_blank" rel="noopener">University of Texas at Tyler/Dallas Morning News</a> and one from <a href="https://uh.edu/hobby/election.pdf" target="_blank" rel="noopener">YouGov/University of Houston</a>) put Abbott way ahead with 58-59 percent, while West is way back at 6-11 percent. That’s such a big disagreement that we reached out to Paradigm Partners to ask more about their methodology, and it turns out there’s a reason their poll is such a big outlier: While most polls are weighted to ensure they are demographically representative of the electorate, their survey was completely unweighted. </p>
+
+
+
+<p data-paragraph="main">So you can see why it’s a problem that internal polls are such a large share of the primary polling data we have so far. And in fact, that problem may be understated. While we did our best to identify every internal poll so far this cycle, that “118” number is almost certainly an undercount. Just because we didn’t mark a poll as internal doesn’t mean it’s truly independent and unbiased. For instance, according to the New York Post, this <a href="https://nypost.com/2021/11/28/hochul-holds-solid-lead-over-james-in-ny-governor-poll/" target="_blank" rel="noopener">In the Field Global poll</a> of the Democratic primary for governor of New York was paid for by an unknown “moderate political group” — hardly an uninterested actor in a race that looks like it will be another proxy war between Democrats’ moderate and progressive wings. </p>
+
+
+
+<p data-paragraph="main">One of the more unusual cases we identified is a quartet of <a href="https://www.documentcloud.org/documents/21196588-ohio-poll-toplines-222?responsive=1&amp;title=1" target="_blank" rel="noopener">Public Policy Polling</a> surveys of <a href="https://www.marylandmatters.org/2022/02/03/poll-trumps-endorsement-could-sway-gop-voters-toward-cox/" target="_blank" rel="noopener">Republican primaries</a> sponsored by the <em>Democratic</em> Governors Association. These aren’t internal polls because the DGA certainly isn’t endorsing GOP candidates — but they’re clearly not independent polls either. </p>
+
+
+
+<p data-paragraph="main">If anything, their purpose is probably to sow mischief in GOP primaries, with the hope that it will help Democrats in the general election. For instance, back in October, the DGA released a <a href="https://democraticgovernors.org/wp-content/uploads/2021/10/DGA-Polling-Memo-Status-of-the-MA-GOP-Primary.pdf" target="_blank" rel="noopener">poll</a> of the Republican primary for governor of Massachusetts showing that conservative former state Rep. Geoff Diehl led moderate Gov. Charlie Baker, 50 percent to 29 percent. That poll may have contributed to doubt that Baker could win the primary, which in turn may have contributed to Baker’s <a href="https://www.bostonglobe.com/2021/12/01/metro/baker-telling-allies-he-isnt-running-reelection/" target="_blank" rel="noopener">December decision to retire</a>. (Though to be clear, Baker almost certainly conducted his own polling and analysis to inform that decision.) Regardless, though, that decision rocketed Massachusetts to the top of the list of <a href="https://fivethirtyeight.com/features/36-states-are-electing-governors-this-year-here-are-the-races-to-watch/" target="_blank" rel="noopener">governorships most likely to flip in 2022</a>.</p>
+
+
+
+<p data-paragraph="main">And in November, the DGA also sponsored a <a href="https://drive.google.com/file/d/1dvrzSIZ8TJrIoGanRopkOzBbjR-mFv4v/view" target="_blank" rel="noopener">survey</a> of the GOP gubernatorial primary in Pennsylvania — the results of which promoted a narrative that there is <a href="https://www.inquirer.com/politics/election/pennsylvania-republican-party-senate-governor-endorsement-20220205.html" target="_blank" rel="noopener">no clear front-runner</a> and that that could lead to the nomination of far-right state Sen. Doug Mastriano, who <a href="https://www.witf.org/2021/05/28/pa-sen-doug-mastriano-unlikely-to-face-consequences-over-newly-released-jan-6-videos/" target="_blank" rel="noopener">participated in the Jan. 6 insurrection</a> at the U.S. Capitol. Mastriano took 18 percent in the survey, more than any other candidate. And in the absence of more recent polling of the race, we have no independent confirmation of how close that result is to reality.</p>
+
+
+
+<p data-paragraph="main">Clearly, there are plenty of reasons to be wary of internal polls — and even some non-internal polls. But unfortunately, they’re most of the data that we currently have for 2022 primaries, so sometimes using them is unavoidable. That’s OK as long as you do so with your eyes open to the fact that they are trying to sell you an agenda. And once you factor in that agenda, sometimes internal polls can tell you something interesting after all — if not about the actual state of the race, then about what one of the actors in that race wants you to think.</p>
+
+
+
+<h2><strong>Other polling bites</strong></h2>
+
+
+
+<ul><li>A majority of Americans (62 percent) <a href="https://www.prri.org/research/welcoming-immigration-policies-remain-popular-but-immigration-is-not-a-critical-issue-for-most-americans/">backed a pathway to citizenship</a> for undocumented immigrants and believed more broadly that immigrants strengthen American society (56 percent), according to a recently published survey from the Public Religion Research Institute, conducted last September. But even though a majority of Americans from most religious backgrounds that PRRI surveyed supported creating a pathway to citizenship — with Black Protestants most in favor, at 75 percent — there was one notable exception: White evangelical Protestants were the least likely (47 percent) to support a pathway to citizenship. </li><li>The share of Americans extremely satisfied with their romantic relationship <a href="https://www.monmouth.edu/polling-institute/reports/monmouthpoll_us_020722/">dropped by 10 percentage points</a> since a year ago, according to a Jan. 20-24 poll from Monmouth University. But divorce lawyers shouldn’t get too excited: Majorities were still extremely satisfied with their relationship (60 percent) and felt that their partner is extremely important to their happiness (54 percent). In fact, the decline in relationship satisfaction puts the current number within the range of pre-pandemic figures, after an 11-point rise in Monmouth’s May 2020 survey.</li><li>On that romantic note, Americans aren’t enthused by Valentine’s Day. Fifty-eight percent of adults said that Valentine’s Day is not a “<a href="https://today.yougov.com/topics/lifestyle/articles-reports/2022/02/08/valentines-day-ranks-behind-major-holidays">real special occasion</a>,” according to a Jan. 27-31 poll from YouGov. Of the nine other holidays YouGov asked about, Americans preferred every one of them more than Valentine’s Day. Christmas was the most popular, leading Valentine’s Day by 69 points, and Americans even preferred the second-least-popular holiday, Labor Day, over Valentine’s Day by 8 points.</li><li>Twelve percent of registered voters ranked “division in the country” as <a href="https://politics.georgetown.edu/2022/02/03/battleground-civility-poll-voters-agree-politics-has-grown-less-civil-since-covid-19-and-beginning-of-biden-presidency/">the most important issue facing America</a>, just narrowly behind the rising cost of living (13 percent), according to a Jan. 22-27 poll conducted by Lake Research Partners and The Tarrance Group for Georgetown University’s Institute of Politics and Public Service. Two-thirds of voters said that the pandemic had led to politics getting worse, while 58 percent felt that the Jan. 6 Capitol attack had made violent political protests more likely to happen in the future. In total, 43 percent said that politics had become less civil during Biden’s presidency.</li><li>Fewer Americans believe that Trump <a href="https://www.pewresearch.org/fact-tank/2022/02/08/fewer-americans-now-say-trump-bears-a-lot-of-responsibility-for-the-jan-6-riot/">bears “some” or “a lot” of responsibility</a> for the Jan. 6 Capitol attack, according to a Jan. 10-17 poll from the Pew Research Center. The share of Americans assigning blame to Trump declined from 75 percent in January 2021 to 67 percent in January 2022. This change resulted from a smaller share of Americans (43 percent this January, compared with 52 percent last January) saying Trump bore “a lot” of responsibility, while the share assigning him “some” responsibility was nearly identical.</li></ul><h2><strong>Biden approval</strong></h2>
+
+
+
+<figure><img width="1150" height="920" src="https://fivethirtyeight.com/wp-content/uploads/2022/02/biden-approval-rating-2.png" alt="" data-src="https://fivethirtyeight.com/wp-content/uploads/2022/02/biden-approval-rating-2.png" data-srcset="https://fivethirtyeight.com/wp-content/uploads/2022/02/biden-approval-rating-2.png?w=700 1x, https://fivethirtyeight.com/wp-content/uploads/2022/02/biden-approval-rating-2.png?w=1400 2x"></figure><p data-paragraph="main">According to FiveThirtyEight’s <a href="https://projects.fivethirtyeight.com/biden-approval-rating/" target="_blank" rel="noopener">presidential approval tracker</a>,<a data-footnote-id="1" href="https://fivethirtyeight.com/wp-json/wp/v2/espn_verticals/398#fn-1" data-footnote-content="&lt;p&gt;&lt;p&gt;As of 5 p.m. Eastern on Thursday.&lt;/p&gt;
+&lt;/p&gt;"><sup>1</sup></a> 41.3 percent of Americans approve of the job Biden is doing as president, while 52.6 percent disapprove (a net approval rating of -11.3 points). At this time <a href="https://fivethirtyeight.com/features/why-arent-more-americans-interested-in-the-winter-olympics/" target="_blank" rel="noopener">last week</a>, 41.7 percent approved and 52.6 percent disapproved (a net approval rating of -10.9 points). One month ago, Biden had an approval rating of 43.1 percent and a disapproval rating of 51.5 percent, for a net approval rating of -8.4 points.</p>
+
+
+
+<h2><strong>Generic ballot</strong></h2>
+
+
+
+<figure><img loading="lazy" width="1150" height="920" src="https://fivethirtyeight.com/wp-content/uploads/2022/02/generic-ballot-2.png" alt="" data-src="https://fivethirtyeight.com/wp-content/uploads/2022/02/generic-ballot-2.png" data-srcset="https://fivethirtyeight.com/wp-content/uploads/2022/02/generic-ballot-2.png?w=700 1x, https://fivethirtyeight.com/wp-content/uploads/2022/02/generic-ballot-2.png?w=1400 2x"></figure><p data-paragraph="main">In our average of polls of the <a href="https://projects.fivethirtyeight.com/congress-generic-ballot-polls/" target="_blank" rel="noopener">generic congressional ballot</a>,<a data-footnote-id="2" href="https://fivethirtyeight.com/wp-json/wp/v2/espn_verticals/398#fn-2" data-footnote-content="&lt;p&gt;&lt;p&gt;As of 5 p.m. Eastern on Thursday.&lt;/p&gt;
+&lt;/p&gt;"><sup>2</sup></a> Republicans currently lead by 2.0 percentage points (44.5 percent to 42.6 percent). A week ago, Republicans led Democrats by 1.9 points (44.3 percent to 42.4 percent). At this time last month, voters preferred Republicans by 0.5 points (42.4 percent to 41.8 percent).</p>
+
+
+
+<p data-paragraph="main"><em>Mary Radcliffe contributed research.</em></p>]]></description>
+			<pubDate>Fri, 11 Feb 2022 11:00:00 +0000</pubDate>
+			<guid isPermaLink="false">1644581701475895</guid>
+		</item>
 		<item>
 			<title>Politics Podcast: Americans Aren’t As Polarized As The News Makes It Seem</title>
 			<link>https://fivethirtyeight.com/features/politics-podcast-americans-might-be-less-divided-than-you-think/</link>
@@ -437,8 +1207,8 @@
 
 
 
-<p data-paragraph="main">Of course, there are other factors that may be driving Republicans’ divergent responses in that chart besides including the word “Black” before woman in the 2022 polling. Trump’s 2020 nominee, after all, was filling a Supreme Court seat held for over a quarter-century by a <a href="https://www.nytimes.com/2020/09/18/us/ruth-bader-ginsburg-dead.html" target="_blank" rel="noopener">feminist icon</a>, who was only the second woman to ever serve on the high court. That could have easily amplified the importance of nominating a woman more than replacing Breyer, a male justice.<a data-footnote-id="1" href="https://fivethirtyeight.com/wp-json/wp/v2/espn_verticals/398#fn-1" data-footnote-content='&lt;p&gt;&lt;p&gt;In addition, the January 2022 poll mentions Biden’s pledge before asking about the importance of nominating a Black woman; and &lt;a href="https://onlinelibrary.wiley.com/doi/10.1111/j.1540-5907.2011.00541.x" target="_blank" rel="noopener"&gt;political science research&lt;/a&gt; has found that providing such information about the president’s positions often increases opposition from the other party.&lt;/p&gt;
-&lt;/p&gt;'><sup>1</sup></a></p>
+<p data-paragraph="main">Of course, there are other factors that may be driving Republicans’ divergent responses in that chart besides including the word “Black” before woman in the 2022 polling. Trump’s 2020 nominee, after all, was filling a Supreme Court seat held for over a quarter-century by a <a href="https://www.nytimes.com/2020/09/18/us/ruth-bader-ginsburg-dead.html" target="_blank" rel="noopener">feminist icon</a>, who was only the second woman to ever serve on the high court. That could have easily amplified the importance of nominating a woman more than replacing Breyer, a male justice.<a data-footnote-id="3" href="https://fivethirtyeight.com/wp-json/wp/v2/espn_verticals/398#fn-3" data-footnote-content='&lt;p&gt;&lt;p&gt;In addition, the January 2022 poll mentions Biden’s pledge before asking about the importance of nominating a Black woman; and &lt;a href="https://onlinelibrary.wiley.com/doi/10.1111/j.1540-5907.2011.00541.x" target="_blank" rel="noopener"&gt;political science research&lt;/a&gt; has found that providing such information about the president’s positions often increases opposition from the other party.&lt;/p&gt;
+&lt;/p&gt;'><sup>3</sup></a></p>
 
 
 
@@ -505,8 +1275,8 @@
 
 
 
-<p data-paragraph="main">This tendency for people to shift their party ID in the short term only to then <a href="https://www.pewresearch.org/politics/2020/08/04/voters-rarely-switch-parties-but-recent-shifts-further-educational-racial-divergence/" target="_blank" rel="noopener">revert back</a> is evident in the Pew Research Center’s party ID numbers, which are <a href="https://www.pewresearch.org/politics/2020/06/02/democratic-edge-in-party-identification-narrows-slightly/" target="_blank" rel="noopener">very similar overall to Gallup’s yearly numbers</a>. For instance, between September 2018 and July 2020, Pew found that about one in five Americans in their <a href="https://www.pewresearch.org/our-methods/u-s-surveys/the-american-trends-panel/" target="_blank" rel="noopener">American Trends Panel</a> made some change to their party identification, but nearly nine in 10 identified or leaned toward the same party in 2020 as in 2018. In other words, nearly half of those who had switched parties ultimately switched back.<a data-footnote-id="2" href="https://fivethirtyeight.com/wp-json/wp/v2/espn_verticals/398#fn-2" data-footnote-content="&lt;p&gt;&lt;p&gt;This includes those who switched between the parties, and those who switched to independent and then switched back to their previous party.&lt;/p&gt;
-&lt;/p&gt;"><sup>2</sup></a></p>
+<p data-paragraph="main">This tendency for people to shift their party ID in the short term only to then <a href="https://www.pewresearch.org/politics/2020/08/04/voters-rarely-switch-parties-but-recent-shifts-further-educational-racial-divergence/" target="_blank" rel="noopener">revert back</a> is evident in the Pew Research Center’s party ID numbers, which are <a href="https://www.pewresearch.org/politics/2020/06/02/democratic-edge-in-party-identification-narrows-slightly/" target="_blank" rel="noopener">very similar overall to Gallup’s yearly numbers</a>. For instance, between September 2018 and July 2020, Pew found that about one in five Americans in their <a href="https://www.pewresearch.org/our-methods/u-s-surveys/the-american-trends-panel/" target="_blank" rel="noopener">American Trends Panel</a> made some change to their party identification, but nearly nine in 10 identified or leaned toward the same party in 2020 as in 2018. In other words, nearly half of those who had switched parties ultimately switched back.<a data-footnote-id="4" href="https://fivethirtyeight.com/wp-json/wp/v2/espn_verticals/398#fn-4" data-footnote-content="&lt;p&gt;&lt;p&gt;This includes those who switched between the parties, and those who switched to independent and then switched back to their previous party.&lt;/p&gt;
+&lt;/p&gt;"><sup>4</sup></a></p>
 
 
 
@@ -514,8 +1284,8 @@
 
 
 
-<p data-paragraph="main">It’s also possible that the large swing in party ID toward the GOP that Gallup observed could be partly due to Democratic-leaning Americans responding at lower rates. Democrats might have been more discouraged by what’s going on in Washington, what with Biden’s dismal approval rating and Democrats having failed to pass their much-ballyhooed social spending and voting rights legislation. There’s even a term for this — <a href="https://www.formpl.us/blog/response-non-response-bias#:~:text=Non-response%20bias%20is%20a,for%20the%20lack%20of%20response." target="_blank" rel="noopener">nonresponse bias</a> — and we’ve seen it happen before: Lower response rates among Republican-leaning voters ahead of the 2020 election <a href="https://www.cnn.com/2021/05/13/politics/2020-polling-error-research/index.html" target="_blank" rel="noopener">may have contributed</a> to the <a href="https://fivethirtyeight.com/features/the-death-of-polling-is-greatly-exaggerated/" target="_blank" rel="noopener">polling error</a> that underestimated GOP support. But it’s also possible that some pollsters are weighting their polls in ways that could diminish the impact of nonresponse bias or other short-term factors. For instance, YouGov <a href="https://docs.cdn.yougov.com/idsbkknia1/econTabReport.pdf" target="_blank" rel="noopener">weights its polls to match</a> the 2016 and 2020 election results, which means that while they <a href="https://twitter.com/gelliottmorris/status/1485632944463036424?s=20&amp;t=fMW-rcvwguf44mK78i2wjg" target="_blank" rel="noopener">also found a Republican-leaning trend</a> in party ID across 2021, the magnitude of that shift was much, much smaller.<a data-footnote-id="3" href="https://fivethirtyeight.com/wp-json/wp/v2/espn_verticals/398#fn-3" data-footnote-content='&lt;p&gt;&lt;p&gt;YouGov conducts online polls using &lt;a href="https://www.pewresearch.org/fact-tank/2018/08/06/what-are-nonprobability-surveys/" target="_blank" rel="noopener"&gt;nonprobability samples&lt;/a&gt;. This means their samples aren’t totally random, but it’s possible their approach of using past presidential results to weight results may be less error-prone than other methods. For instance, a 2016 &lt;a href="https://www.pewresearch.org/methods/2016/05/02/assessing-the-accuracy-of-online-nonprobability-surveys/" target="_blank" rel="noopener"&gt;Pew study&lt;/a&gt; compared the error of different nonprobability surveys, and it found that a sample weighted by party ID — similar to YouGov’s practice of weighting to past presidential vote — produced the smallest amount of polling error across a number of known benchmarks. But Pew did flag some concerns regarding online pollsters using such approaches — specifically, if done poorly, weighting by a predetermined result could unduly influence other findings in the survey.&lt;/p&gt;
-&lt;/p&gt;'><sup>3</sup></a></p>
+<p data-paragraph="main">It’s also possible that the large swing in party ID toward the GOP that Gallup observed could be partly due to Democratic-leaning Americans responding at lower rates. Democrats might have been more discouraged by what’s going on in Washington, what with Biden’s dismal approval rating and Democrats having failed to pass their much-ballyhooed social spending and voting rights legislation. There’s even a term for this — <a href="https://www.formpl.us/blog/response-non-response-bias#:~:text=Non-response%20bias%20is%20a,for%20the%20lack%20of%20response." target="_blank" rel="noopener">nonresponse bias</a> — and we’ve seen it happen before: Lower response rates among Republican-leaning voters ahead of the 2020 election <a href="https://www.cnn.com/2021/05/13/politics/2020-polling-error-research/index.html" target="_blank" rel="noopener">may have contributed</a> to the <a href="https://fivethirtyeight.com/features/the-death-of-polling-is-greatly-exaggerated/" target="_blank" rel="noopener">polling error</a> that underestimated GOP support. But it’s also possible that some pollsters are weighting their polls in ways that could diminish the impact of nonresponse bias or other short-term factors. For instance, YouGov <a href="https://docs.cdn.yougov.com/idsbkknia1/econTabReport.pdf" target="_blank" rel="noopener">weights its polls to match</a> the 2016 and 2020 election results, which means that while they <a href="https://twitter.com/gelliottmorris/status/1485632944463036424?s=20&amp;t=fMW-rcvwguf44mK78i2wjg" target="_blank" rel="noopener">also found a Republican-leaning trend</a> in party ID across 2021, the magnitude of that shift was much, much smaller.<a data-footnote-id="5" href="https://fivethirtyeight.com/wp-json/wp/v2/espn_verticals/398#fn-5" data-footnote-content='&lt;p&gt;&lt;p&gt;YouGov conducts online polls using &lt;a href="https://www.pewresearch.org/fact-tank/2018/08/06/what-are-nonprobability-surveys/" target="_blank" rel="noopener"&gt;nonprobability samples&lt;/a&gt;. This means their samples aren’t totally random, but it’s possible their approach of using past presidential results to weight results may be less error-prone than other methods. For instance, a 2016 &lt;a href="https://www.pewresearch.org/methods/2016/05/02/assessing-the-accuracy-of-online-nonprobability-surveys/" target="_blank" rel="noopener"&gt;Pew study&lt;/a&gt; compared the error of different nonprobability surveys, and it found that a sample weighted by party ID — similar to YouGov’s practice of weighting to past presidential vote — produced the smallest amount of polling error across a number of known benchmarks. But Pew did flag some concerns regarding online pollsters using such approaches — specifically, if done poorly, weighting by a predetermined result could unduly influence other findings in the survey.&lt;/p&gt;
+&lt;/p&gt;'><sup>5</sup></a></p>
 
 
 
@@ -750,8 +1520,8 @@
 
 
 
-<figure><img loading="lazy" width="1150" height="920" src="https://fivethirtyeight.com/wp-content/uploads/2022/02/biden-approval-rating-2-1.png" alt="" data-src="https://fivethirtyeight.com/wp-content/uploads/2022/02/biden-approval-rating-2-1.png" data-srcset="https://fivethirtyeight.com/wp-content/uploads/2022/02/biden-approval-rating-2-1.png?w=700 1x, https://fivethirtyeight.com/wp-content/uploads/2022/02/biden-approval-rating-2-1.png?w=1400 2x"></figure><p data-paragraph="main">According to FiveThirtyEight’s <a href="https://projects.fivethirtyeight.com/biden-approval-rating/" target="_blank" rel="noopener">presidential approval tracker</a>,<a data-footnote-id="4" href="https://fivethirtyeight.com/wp-json/wp/v2/espn_verticals/398#fn-4" data-footnote-content="&lt;p&gt;&lt;p&gt;As of 5 p.m. Eastern on Thursday.&lt;/p&gt;
-&lt;/p&gt;"><sup>4</sup></a><strong> </strong>41.7 percent of Americans approve of the job Biden is doing as president, while 52.6 percent disapprove (a net approval rating of -10.9 points). At this time <a href="https://fivethirtyeight.com/features/war-with-russia-has-pushed-ukrainians-toward-the-west/" target="_blank" rel="noopener">last week</a>, 41.7 percent approved and 53.3 percent disapproved (a net approval rating of -11.6 points). One month ago, Biden had an approval rating of 43.3 percent and a disapproval rating of 51.7 percent, for a net approval rating of -8.4 points.</p>
+<figure><img loading="lazy" width="1150" height="920" src="https://fivethirtyeight.com/wp-content/uploads/2022/02/biden-approval-rating-2-1.png" alt="" data-src="https://fivethirtyeight.com/wp-content/uploads/2022/02/biden-approval-rating-2-1.png" data-srcset="https://fivethirtyeight.com/wp-content/uploads/2022/02/biden-approval-rating-2-1.png?w=700 1x, https://fivethirtyeight.com/wp-content/uploads/2022/02/biden-approval-rating-2-1.png?w=1400 2x"></figure><p data-paragraph="main">According to FiveThirtyEight’s <a href="https://projects.fivethirtyeight.com/biden-approval-rating/" target="_blank" rel="noopener">presidential approval tracker</a>,<a data-footnote-id="6" href="https://fivethirtyeight.com/wp-json/wp/v2/espn_verticals/398#fn-6" data-footnote-content="&lt;p&gt;&lt;p&gt;As of 5 p.m. Eastern on Thursday.&lt;/p&gt;
+&lt;/p&gt;"><sup>6</sup></a><strong> </strong>41.7 percent of Americans approve of the job Biden is doing as president, while 52.6 percent disapprove (a net approval rating of -10.9 points). At this time <a href="https://fivethirtyeight.com/features/war-with-russia-has-pushed-ukrainians-toward-the-west/" target="_blank" rel="noopener">last week</a>, 41.7 percent approved and 53.3 percent disapproved (a net approval rating of -11.6 points). One month ago, Biden had an approval rating of 43.3 percent and a disapproval rating of 51.7 percent, for a net approval rating of -8.4 points.</p>
 
 
 
@@ -759,8 +1529,8 @@
 
 
 
-<figure><img loading="lazy" width="1150" height="920" src="https://fivethirtyeight.com/wp-content/uploads/2022/02/generic-ballot-2-1.png" alt="" data-src="https://fivethirtyeight.com/wp-content/uploads/2022/02/generic-ballot-2-1.png" data-srcset="https://fivethirtyeight.com/wp-content/uploads/2022/02/generic-ballot-2-1.png?w=700 1x, https://fivethirtyeight.com/wp-content/uploads/2022/02/generic-ballot-2-1.png?w=1400 2x"></figure><p data-paragraph="main">In our average of polls of the <a href="https://projects.fivethirtyeight.com/congress-generic-ballot-polls/" target="_blank" rel="noopener">generic congressional ballot</a>,<a data-footnote-id="5" href="https://fivethirtyeight.com/wp-json/wp/v2/espn_verticals/398#fn-5" data-footnote-content="&lt;p&gt;&lt;p&gt;As of 5 p.m. Eastern on Thursday.&lt;/p&gt;
-&lt;/p&gt;"><sup>5</sup></a> Republicans currently lead by 1.9 percentage points (44.3 percent to 42.4 percent). A week ago, Republicans led Democrats by 1.9 points (44.2 percent to 42.2 percent). At this time last month, voters preferred Republicans by 0.5 points (42.4 percent to 41.9 percent).</p>]]></description>
+<figure><img loading="lazy" width="1150" height="920" src="https://fivethirtyeight.com/wp-content/uploads/2022/02/generic-ballot-2-1.png" alt="" data-src="https://fivethirtyeight.com/wp-content/uploads/2022/02/generic-ballot-2-1.png" data-srcset="https://fivethirtyeight.com/wp-content/uploads/2022/02/generic-ballot-2-1.png?w=700 1x, https://fivethirtyeight.com/wp-content/uploads/2022/02/generic-ballot-2-1.png?w=1400 2x"></figure><p data-paragraph="main">In our average of polls of the <a href="https://projects.fivethirtyeight.com/congress-generic-ballot-polls/" target="_blank" rel="noopener">generic congressional ballot</a>,<a data-footnote-id="7" href="https://fivethirtyeight.com/wp-json/wp/v2/espn_verticals/398#fn-7" data-footnote-content="&lt;p&gt;&lt;p&gt;As of 5 p.m. Eastern on Thursday.&lt;/p&gt;
+&lt;/p&gt;"><sup>7</sup></a> Republicans currently lead by 1.9 percentage points (44.3 percent to 42.4 percent). A week ago, Republicans led Democrats by 1.9 points (44.2 percent to 42.2 percent). At this time last month, voters preferred Republicans by 0.5 points (42.4 percent to 41.9 percent).</p>]]></description>
 			<pubDate>Fri, 04 Feb 2022 11:00:00 +0000</pubDate>
 			<guid isPermaLink="false">1644208201877170</guid>
 		</item>
@@ -851,8 +1621,8 @@
 
 
 
-<p data-paragraph="main">Under <a href="https://www.justice.gov/crt/section-2-voting-rights-act" target="_blank" rel="noopener">Section 2 of the VRA</a>, it’s illegal to deny members of a racial minority equal opportunity to elect representatives of their choice. This has been <a href="http://www.publicmapping.org/what-is-redistricting/redistricting-criteria-the-voting-rights-act" target="_blank" rel="noopener">widely interpreted</a> to mean that, when possible,<a data-footnote-id="6" href="https://fivethirtyeight.com/wp-json/wp/v2/espn_verticals/398#fn-6" data-footnote-content='&lt;p&gt;&lt;p&gt;Court decisions and congressional guidelines have, over the years, settled on some &lt;a href="https://www.justice.gov/crt/case-document/file/1429826/download" target="_blank" rel="noopener"&gt;fundamental criteria&lt;/a&gt; for determining when this requirement kicks in, such as that a minority group must be large and compact enough to constitute a majority of a district and that voting in the area must be polarized by race.&lt;/p&gt;
-&lt;/p&gt;'><sup>6</sup></a> states must draw congressional districts where nonwhite voters are the dominant voting bloc, so as to reasonably ensure they can elect their preferred candidate. </p>
+<p data-paragraph="main">Under <a href="https://www.justice.gov/crt/section-2-voting-rights-act" target="_blank" rel="noopener">Section 2 of the VRA</a>, it’s illegal to deny members of a racial minority equal opportunity to elect representatives of their choice. This has been <a href="http://www.publicmapping.org/what-is-redistricting/redistricting-criteria-the-voting-rights-act" target="_blank" rel="noopener">widely interpreted</a> to mean that, when possible,<a data-footnote-id="8" href="https://fivethirtyeight.com/wp-json/wp/v2/espn_verticals/398#fn-8" data-footnote-content='&lt;p&gt;&lt;p&gt;Court decisions and congressional guidelines have, over the years, settled on some &lt;a href="https://www.justice.gov/crt/case-document/file/1429826/download" target="_blank" rel="noopener"&gt;fundamental criteria&lt;/a&gt; for determining when this requirement kicks in, such as that a minority group must be large and compact enough to constitute a majority of a district and that voting in the area must be polarized by race.&lt;/p&gt;
+&lt;/p&gt;'><sup>8</sup></a> states must draw congressional districts where nonwhite voters are the dominant voting bloc, so as to reasonably ensure they can elect their preferred candidate. </p>
 
 
 
@@ -888,13 +1658,13 @@
 
 
 
-<p data-paragraph="main">According to <a href="https://www.oyez.org/cases/1985/83-1968" target="_blank" rel="noopener">Supreme Court precedent</a>, plaintiffs in a VRA redistricting case must show that the minority group is “sufficiently large and geographically compact to constitute a majority in a single-member district.” (Confusingly, a district doesn’t have to be majority-minority in order to <em>comply</em> with the VRA,<a data-footnote-id="7" href="https://fivethirtyeight.com/wp-json/wp/v2/espn_verticals/398#fn-7" data-footnote-content="&lt;p&gt;&lt;p&gt;For instance, if Black voters constitute a majority of the primary electorate in a heavily Democratic district, that district is likely to elect Black voters’ candidate of choice even if Black voters don’t constitute a majority of the entire electorate.&lt;/p&gt;
-&lt;/p&gt;"><sup>7</sup></a> but it has to be possible to draw one in order for a non-majority-minority district to <em>violate</em> it.) South Carolina may not satisfy this test in a court’s eyes — though, in the event of a favorable outcome at the Supreme Court, liberals may very well try their luck just in case.</p>
+<p data-paragraph="main">According to <a href="https://www.oyez.org/cases/1985/83-1968" target="_blank" rel="noopener">Supreme Court precedent</a>, plaintiffs in a VRA redistricting case must show that the minority group is “sufficiently large and geographically compact to constitute a majority in a single-member district.” (Confusingly, a district doesn’t have to be majority-minority in order to <em>comply</em> with the VRA,<a data-footnote-id="9" href="https://fivethirtyeight.com/wp-json/wp/v2/espn_verticals/398#fn-9" data-footnote-content="&lt;p&gt;&lt;p&gt;For instance, if Black voters constitute a majority of the primary electorate in a heavily Democratic district, that district is likely to elect Black voters’ candidate of choice even if Black voters don’t constitute a majority of the entire electorate.&lt;/p&gt;
+&lt;/p&gt;"><sup>9</sup></a> but it has to be possible to draw one in order for a non-majority-minority district to <em>violate</em> it.) South Carolina may not satisfy this test in a court’s eyes — though, in the event of a favorable outcome at the Supreme Court, liberals may very well try their luck just in case.</p>
 
 
 
-<p data-paragraph="main">With or without South Carolina, though, the Supreme Court letting the Alabama ruling stand would be a significant boon to Black representation in Congress — and from a region that has historically suppressed Black voters to boot. It could potentially lead to two, maybe three, new Black members of Congress from the Deep South. As a result, as many as 18 percent of U.S. representatives from states that constituted the former Confederacy could be Black — the most in U.S. history.<a data-footnote-id="8" href="https://fivethirtyeight.com/wp-json/wp/v2/espn_verticals/398#fn-8" data-footnote-content="&lt;p&gt;&lt;p&gt;Assuming all current Black representatives from the region either win reelection or are replaced with another Black representative.&lt;/p&gt;
-&lt;/p&gt;"><sup>8</sup></a></p>
+<p data-paragraph="main">With or without South Carolina, though, the Supreme Court letting the Alabama ruling stand would be a significant boon to Black representation in Congress — and from a region that has historically suppressed Black voters to boot. It could potentially lead to two, maybe three, new Black members of Congress from the Deep South. As a result, as many as 18 percent of U.S. representatives from states that constituted the former Confederacy could be Black — the most in U.S. history.<a data-footnote-id="10" href="https://fivethirtyeight.com/wp-json/wp/v2/espn_verticals/398#fn-10" data-footnote-content="&lt;p&gt;&lt;p&gt;Assuming all current Black representatives from the region either win reelection or are replaced with another Black representative.&lt;/p&gt;
+&lt;/p&gt;"><sup>10</sup></a></p>
 
 
 
@@ -925,8 +1695,8 @@
 			<category>Messaging</category>
 			<category>Misinformation</category>
 			<category>Republican Party</category>
-			<description><![CDATA[<p data-paragraph="main">Virginia’s new governor, Glenn Youngkin, kicked off his term with a political magic trick. In the first of <a href="https://www.governor.virginia.gov/media/governorvirginiagov/governor-of-virginia/pdf/74---eo/74---eo/EO-1---ENDING-THE-USE-OF-INHERENTLY-DIVISIVE-CONCEPTS,-INCLUDING-CRITICAL-RACE-THEORY,-AND-RESTORING-EXCELLEN.pdf" target="_blank" rel="noopener">nine executive orders</a> issued on Jan. 15, the day he took office,<a data-footnote-id="9" href="https://fivethirtyeight.com/wp-json/wp/v2/espn_verticals/398#fn-9" data-footnote-content='&lt;p&gt;&lt;p&gt;Youngkin issued &lt;a href="https://www.governor.virginia.gov/executive-actions/#directives" target="_blank" rel="noopener"&gt;two executive directives&lt;/a&gt; that day too.&lt;/p&gt;
-&lt;/p&gt;'><sup>9</sup></a> he banned the teaching of “inherently divisive concepts, including critical race theory” in K-12 public schools. It was a smart way to show his base he’s already jumping on <a href="https://www.bloomberg.com/news/articles/2021-12-03/gop-seizes-on-hot-button-school-issues-as-2022-election-weapons" target="_blank" rel="noopener">issues they care about</a>. Education policy, particularly the <a href="https://www.pbs.org/newshour/education/so-much-buzz-but-what-is-critical-race-theory" target="_blank" rel="noopener">alleged role critical race theory</a> plays in public school curricula, was a <a href="https://www.washingtonpost.com/opinions/2021/09/25/youngkin-is-using-critical-race-theory-bogeyman-rile-up-trumpian-base/" target="_blank" rel="noopener">centerpiece of Youngkin’s campaign</a>. But the impact of this executive order is less straightforward than it seems, because critical race theory <a href="https://www.politifact.com/factchecks/2021/nov/16/rick-scott/critical-race-theory-isnt-virginias-curriculum/" target="_blank" rel="noopener">isn’t actually taught</a> in Virginia public schools. </p>
+			<description><![CDATA[<p data-paragraph="main">Virginia’s new governor, Glenn Youngkin, kicked off his term with a political magic trick. In the first of <a href="https://www.governor.virginia.gov/media/governorvirginiagov/governor-of-virginia/pdf/74---eo/74---eo/EO-1---ENDING-THE-USE-OF-INHERENTLY-DIVISIVE-CONCEPTS,-INCLUDING-CRITICAL-RACE-THEORY,-AND-RESTORING-EXCELLEN.pdf" target="_blank" rel="noopener">nine executive orders</a> issued on Jan. 15, the day he took office,<a data-footnote-id="11" href="https://fivethirtyeight.com/wp-json/wp/v2/espn_verticals/398#fn-11" data-footnote-content='&lt;p&gt;&lt;p&gt;Youngkin issued &lt;a href="https://www.governor.virginia.gov/executive-actions/#directives" target="_blank" rel="noopener"&gt;two executive directives&lt;/a&gt; that day too.&lt;/p&gt;
+&lt;/p&gt;'><sup>11</sup></a> he banned the teaching of “inherently divisive concepts, including critical race theory” in K-12 public schools. It was a smart way to show his base he’s already jumping on <a href="https://www.bloomberg.com/news/articles/2021-12-03/gop-seizes-on-hot-button-school-issues-as-2022-election-weapons" target="_blank" rel="noopener">issues they care about</a>. Education policy, particularly the <a href="https://www.pbs.org/newshour/education/so-much-buzz-but-what-is-critical-race-theory" target="_blank" rel="noopener">alleged role critical race theory</a> plays in public school curricula, was a <a href="https://www.washingtonpost.com/opinions/2021/09/25/youngkin-is-using-critical-race-theory-bogeyman-rile-up-trumpian-base/" target="_blank" rel="noopener">centerpiece of Youngkin’s campaign</a>. But the impact of this executive order is less straightforward than it seems, because critical race theory <a href="https://www.politifact.com/factchecks/2021/nov/16/rick-scott/critical-race-theory-isnt-virginias-curriculum/" target="_blank" rel="noopener">isn’t actually taught</a> in Virginia public schools. </p>
 
 
 
@@ -1032,8 +1802,8 @@
 
 
 
-<p data-paragraph="main">That kind of overwhelming and bipartisan support for a president’s Supreme Court nominee wasn’t unusual at the time, but it ended up marking the end of an era. Breyer received more than 90 percent of the votes cast on his confirmation, in line with about three-fourths of Supreme Court nominees in U.S. history up to that point.<a data-footnote-id="10" href="https://fivethirtyeight.com/wp-json/wp/v2/espn_verticals/398#fn-10" data-footnote-content="&lt;p&gt;&lt;p&gt;Including voice votes, where no vote tally is recorded.&lt;/p&gt;
-&lt;/p&gt;"><sup>10</sup></a> But as the chart below shows, only one of the seven justices confirmed since Breyer — Chief Justice John Roberts — has received more than 69 percent of the Senate’s votes, and Roberts is also the only one to have earned the backing of a majority of the other party’s senators.</p>
+<p data-paragraph="main">That kind of overwhelming and bipartisan support for a president’s Supreme Court nominee wasn’t unusual at the time, but it ended up marking the end of an era. Breyer received more than 90 percent of the votes cast on his confirmation, in line with about three-fourths of Supreme Court nominees in U.S. history up to that point.<a data-footnote-id="12" href="https://fivethirtyeight.com/wp-json/wp/v2/espn_verticals/398#fn-12" data-footnote-content="&lt;p&gt;&lt;p&gt;Including voice votes, where no vote tally is recorded.&lt;/p&gt;
+&lt;/p&gt;"><sup>12</sup></a> But as the chart below shows, only one of the seven justices confirmed since Breyer — Chief Justice John Roberts — has received more than 69 percent of the Senate’s votes, and Roberts is also the only one to have earned the backing of a majority of the other party’s senators.</p>
 
 
 
@@ -1051,8 +1821,8 @@
 
 
 
-<p data-paragraph="main">Now it's Democrats’ turn to push their nominee, but they have even less margin for error than Republicans did during Trump’s tenure. Whereas Republicans always had at least one vote they could afford to lose, Democrats in a 50-50 Senate can’t spare a single vote.<a data-footnote-id="11" href="https://fivethirtyeight.com/wp-json/wp/v2/espn_verticals/398#fn-11" data-footnote-content="&lt;p&gt;&lt;p&gt;This includes two independent senators, Angus King of Maine and Bernie Sanders of Vermont, who caucus with the Democrats. Democrats have the majority thanks to Vice President Kamala Harris’s tie-breaking vote.&lt;/p&gt;
-&lt;/p&gt;"><sup>11</sup></a> It’s why <a href="https://www.npr.org/2018/03/30/598115811/the-fall-of-harriet-miers-a-cautionary-tale-for-dr-ronny-jackson" target="_blank" rel="noopener">any hiccup in the nomination process</a>, including <a href="https://www.nytimes.com/2021/05/10/upshot/democrats-agenda-hinges-health.html" target="_blank" rel="noopener">some sort of health issue</a> for a Democratic senator, could create real problems for Democrats.</p>
+<p data-paragraph="main">Now it's Democrats’ turn to push their nominee, but they have even less margin for error than Republicans did during Trump’s tenure. Whereas Republicans always had at least one vote they could afford to lose, Democrats in a 50-50 Senate can’t spare a single vote.<a data-footnote-id="13" href="https://fivethirtyeight.com/wp-json/wp/v2/espn_verticals/398#fn-13" data-footnote-content="&lt;p&gt;&lt;p&gt;This includes two independent senators, Angus King of Maine and Bernie Sanders of Vermont, who caucus with the Democrats. Democrats have the majority thanks to Vice President Kamala Harris’s tie-breaking vote.&lt;/p&gt;
+&lt;/p&gt;"><sup>13</sup></a> It’s why <a href="https://www.npr.org/2018/03/30/598115811/the-fall-of-harriet-miers-a-cautionary-tale-for-dr-ronny-jackson" target="_blank" rel="noopener">any hiccup in the nomination process</a>, including <a href="https://www.nytimes.com/2021/05/10/upshot/democrats-agenda-hinges-health.html" target="_blank" rel="noopener">some sort of health issue</a> for a Democratic senator, could create real problems for Democrats.</p>
 
 
 
@@ -1243,8 +2013,8 @@
  </footer></section></div>
 
 
-<p data-paragraph="main">Rather than being less qualified than their white counterparts, Black women are actually <em>more</em> highly credentialed than the average Biden judge. We found that Black women were particularly likely to have attended an elite institution. More than one-third (36 percent) of Black women that Biden named to the courts attended an Ivy League university, and 82 percent attended a top-ranked law school.<a data-footnote-id="12" href="https://fivethirtyeight.com/wp-json/wp/v2/espn_verticals/398#fn-12" data-footnote-content='&lt;p&gt;&lt;p&gt;For top-ranked law schools, we used the top-14 schools that appear on the &lt;a href="https://www.usnews.com/best-graduate-schools/top-law-schools/law-rankings" target="_blank" rel="noopener"&gt;2022 list&lt;/a&gt; compiled by U.S. News and World Report.&lt;/p&gt;
-&lt;/p&gt;'><sup>12</sup></a> Black women also stood out among Biden’s appointees on another metric commonly used to assess judges: <a href="https://www.americanbar.org/groups/committees/federal_judiciary/ratings/" target="_blank" rel="noopener">ratings produced by the American Bar Association</a> for federal judicial nominees. </p>
+<p data-paragraph="main">Rather than being less qualified than their white counterparts, Black women are actually <em>more</em> highly credentialed than the average Biden judge. We found that Black women were particularly likely to have attended an elite institution. More than one-third (36 percent) of Black women that Biden named to the courts attended an Ivy League university, and 82 percent attended a top-ranked law school.<a data-footnote-id="14" href="https://fivethirtyeight.com/wp-json/wp/v2/espn_verticals/398#fn-14" data-footnote-content='&lt;p&gt;&lt;p&gt;For top-ranked law schools, we used the top-14 schools that appear on the &lt;a href="https://www.usnews.com/best-graduate-schools/top-law-schools/law-rankings" target="_blank" rel="noopener"&gt;2022 list&lt;/a&gt; compiled by U.S. News and World Report.&lt;/p&gt;
+&lt;/p&gt;'><sup>14</sup></a> Black women also stood out among Biden’s appointees on another metric commonly used to assess judges: <a href="https://www.americanbar.org/groups/committees/federal_judiciary/ratings/" target="_blank" rel="noopener">ratings produced by the American Bar Association</a> for federal judicial nominees. </p>
 
 
 
@@ -2986,804 +3756,6 @@
 <p data-paragraph="main"><strong>CORRECTION (Jan. 28, 2022, 1:43 p.m.):</strong> An earlier version of this article said that there are at least four light-red states where Democrats are favored to hold the governor’s office. It should have said at least four light-blue states, not light-red.</p>]]></description>
 			<pubDate>Thu, 27 Jan 2022 11:00:00 +0000</pubDate>
 			<guid isPermaLink="false">1644208201877156</guid>
-		</item>
-		<item>
-			<title>Why Manchin And Sinema Will Probably Vote For Biden’s Supreme Court Pick</title>
-			<link>https://fivethirtyeight.com/features/why-joe-manchin-and-kyrsten-sinema-will-probably-vote-for-bidens-supreme-court-pick/</link>
-						<dc:creator>Nathaniel Rakich</dc:creator>
-			<dc:creator>Nathaniel Rakich</dc:creator>
-			<category>Joe Biden</category>
-			<category>Joe Manchin</category>
-			<category>Judicial Appointees</category>
-			<category>Kyrsten Sinema</category>
-			<category>Senate</category>
-			<category>Senate Democrats</category>
-			<category>Senate Republicans</category>
-			<category>Supreme Court</category>
-			<category>Supreme Court Nominees</category>
-			<category>The Biden Administration</category>
-			<category>U.S. Senate</category>
-			<description><![CDATA[<p data-paragraph="main">With Wednesday’s news that <a href="https://abcnews.go.com/Politics/supreme-court-justice-stephen-breyer-retire/story?id=74363429" target="_blank" rel="noopener">Justice Stephen Breyer will retire from the Supreme Court</a> at the end of its current term, Democrats have avoided their worst-case scenario for the nation’s highest court: that Republicans would take control of the Senate before Breyer retired, allowing Sen. Mitch McConnell to keep Breyer’s seat open to eventually replace the liberal justice with a more conservative one.</p>
-
-
-
-<p data-paragraph="main">But that fear has now been replaced by a different one. Although Democrats currently enjoy control of the Senate, it is by the narrowest of margins: 50-50, with Vice President Kamala Harris as the tie-breaking vote. And two members of the Democratic caucus, moderate Sens. Joe Manchin and Kyrsten Sinema, have already torpedoed several major Democratic priorities, including <a href="https://fivethirtyeight.com/features/why-a-failed-voting-rights-push-is-a-setback-for-democracy-and-democrats/" target="_blank" rel="noopener">voting-rights legislation</a> and the <a href="https://abcnews.go.com/Politics/manchin-bidens-build-back-social-spending-plan/story?id=81843089" target="_blank" rel="noopener">Build Back Better Act</a>. Could Manchin and Sinema delay — or even block — the confirmation of Breyer’s replacement too?</p>
-
-
-
-<p data-paragraph="main">Based on past judicial confirmation votes, it’s unlikely. </p>
-
-
-
-<p data-paragraph="main">The Senate has been remarkably efficient at passing President Biden’s judicial nominees so far: During the first year of his presidency, <a href="https://www.brookings.edu/blog/fixgov/2022/01/26/bidens-first-year-judicial-appointments-process/" target="_blank" rel="noopener">42 of Biden’s district-court and appeals-court nominees</a> have been confirmed — more than any president since John F. Kennedy. </p>
-
-
-
-<p data-paragraph="main">And crucially, Democrats have been united behind those nominees. The next time a Democratic senator votes no on one of Biden’s judicial picks, it will be the first time. That means that even Manchin and Sinema have 100 percent track records of supporting Biden’s judicial nominees.</p>
-
-
-
-<section>
-<header>
-<h5>Democrats have been united behind Biden’s judicial picks</h5>
-<p>How often each senator has voted for and against President Biden’s district-court and appeals-court nominees, as of Jan. 26, 2022</p>
-</header>
-<p></p>
-<div>
-<table data-carpenter-slug="rakich.senate-scotus.1">
-<thead>
-<tr>
-<th colspan="1" data-sort-index="0" aria-sort="descending" data-sort-default="true"><span>Senator<span><span>▲</span><span>▼</span></span><br>
- </span>
- </th>
-<th colspan="1" data-sort-index="1"><span>Party<span><span>▲</span><span>▼</span></span><br>
- </span>
- </th>
-<th colspan="1" data-sort-index="2" data-sort-method="number">Yes <span>Votes<span><span>▲</span><span>▼</span></span><br>
- </span>
- </th>
-<th colspan="1" data-sort-index="3" data-sort-method="number">No <span>Votes<span><span>▲</span><span>▼</span></span><br>
- </span>
- </th>
-<th colspan="1" data-sort-index="4" data-sort-method="number">Yes <span>%<span><span>▲</span><span>▼</span></span><br>
- </span>
- </th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td>Tammy Baldwin</td>
-<td><span>D</span></td>
-<td>42</td>
-<td>0</td>
-<td data-suffix="%" data-suffixpadding="1.1em">100%</td>
-</tr>
-<tr>
-<td>Michael Bennet</td>
-<td><span>D</span></td>
-<td>42</td>
-<td>0</td>
-<td>100</td>
-</tr>
-<tr>
-<td>Richard Blumenthal</td>
-<td><span>D</span></td>
-<td>42</td>
-<td>0</td>
-<td>100</td>
-</tr>
-<tr>
-<td>Sherrod Brown</td>
-<td><span>D</span></td>
-<td>42</td>
-<td>0</td>
-<td>100</td>
-</tr>
-<tr>
-<td>Maria Cantwell</td>
-<td><span>D</span></td>
-<td>42</td>
-<td>0</td>
-<td>100</td>
-</tr>
-<tr>
-<td>Ben Cardin</td>
-<td><span>D</span></td>
-<td>42</td>
-<td>0</td>
-<td>100</td>
-</tr>
-<tr>
-<td>Tom Carper</td>
-<td><span>D</span></td>
-<td>42</td>
-<td>0</td>
-<td>100</td>
-</tr>
-<tr>
-<td>Bob Casey</td>
-<td><span>D</span></td>
-<td>42</td>
-<td>0</td>
-<td>100</td>
-</tr>
-<tr>
-<td>Chris Coons</td>
-<td><span>D</span></td>
-<td>42</td>
-<td>0</td>
-<td>100</td>
-</tr>
-<tr>
-<td>Catherine Cortez Masto</td>
-<td><span>D</span></td>
-<td>42</td>
-<td>0</td>
-<td>100</td>
-</tr>
-<tr>
-<td>Tammy Duckworth</td>
-<td><span>D</span></td>
-<td>42</td>
-<td>0</td>
-<td>100</td>
-</tr>
-<tr>
-<td>Dick Durbin</td>
-<td><span>D</span></td>
-<td>42</td>
-<td>0</td>
-<td>100</td>
-</tr>
-<tr>
-<td>Maggie Hassan</td>
-<td><span>D</span></td>
-<td>42</td>
-<td>0</td>
-<td>100</td>
-</tr>
-<tr>
-<td>Martin Heinrich</td>
-<td><span>D</span></td>
-<td>42</td>
-<td>0</td>
-<td>100</td>
-</tr>
-<tr>
-<td>John Hickenlooper</td>
-<td><span>D</span></td>
-<td>42</td>
-<td>0</td>
-<td>100</td>
-</tr>
-<tr>
-<td>Mazie Hirono</td>
-<td><span>D</span></td>
-<td>42</td>
-<td>0</td>
-<td>100</td>
-</tr>
-<tr>
-<td>Angus King</td>
-<td>I</td>
-<td>42</td>
-<td>0</td>
-<td>100</td>
-</tr>
-<tr>
-<td>Amy Klobuchar</td>
-<td><span>D</span></td>
-<td>42</td>
-<td>0</td>
-<td>100</td>
-</tr>
-<tr>
-<td>Pat Leahy</td>
-<td><span>D</span></td>
-<td>42</td>
-<td>0</td>
-<td>100</td>
-</tr>
-<tr>
-<td>Jeff Merkley</td>
-<td><span>D</span></td>
-<td>42</td>
-<td>0</td>
-<td>100</td>
-</tr>
-<tr>
-<td>Chris Murphy</td>
-<td><span>D</span></td>
-<td>42</td>
-<td>0</td>
-<td>100</td>
-</tr>
-<tr>
-<td>Alex Padilla</td>
-<td><span>D</span></td>
-<td>42</td>
-<td>0</td>
-<td>100</td>
-</tr>
-<tr>
-<td>Jack Reed</td>
-<td><span>D</span></td>
-<td>42</td>
-<td>0</td>
-<td>100</td>
-</tr>
-<tr>
-<td>Jacky Rosen</td>
-<td><span>D</span></td>
-<td>42</td>
-<td>0</td>
-<td>100</td>
-</tr>
-<tr>
-<td>Chuck Schumer</td>
-<td><span>D</span></td>
-<td>42</td>
-<td>0</td>
-<td>100</td>
-</tr>
-<tr>
-<td>Jeanne Shaheen</td>
-<td><span>D</span></td>
-<td>42</td>
-<td>0</td>
-<td>100</td>
-</tr>
-<tr>
-<td>Debbie Stabenow</td>
-<td><span>D</span></td>
-<td>42</td>
-<td>0</td>
-<td>100</td>
-</tr>
-<tr>
-<td>Chris Van Hollen</td>
-<td><span>D</span></td>
-<td>42</td>
-<td>0</td>
-<td>100</td>
-</tr>
-<tr>
-<td>Raphael Warnock</td>
-<td><span>D</span></td>
-<td>42</td>
-<td>0</td>
-<td>100</td>
-</tr>
-<tr>
-<td>Elizabeth Warren</td>
-<td><span>D</span></td>
-<td>42</td>
-<td>0</td>
-<td>100</td>
-</tr>
-<tr>
-<td>Sheldon Whitehouse</td>
-<td><span>D</span></td>
-<td>42</td>
-<td>0</td>
-<td>100</td>
-</tr>
-<tr>
-<td>Ron Wyden</td>
-<td><span>D</span></td>
-<td>42</td>
-<td>0</td>
-<td>100</td>
-</tr>
-<tr>
-<td>Mark Kelly</td>
-<td><span>D</span></td>
-<td>41</td>
-<td>0</td>
-<td>100</td>
-</tr>
-<tr>
-<td>Ben Ray Luján</td>
-<td><span>D</span></td>
-<td>41</td>
-<td>0</td>
-<td>100</td>
-</tr>
-<tr>
-<td>Ed Markey</td>
-<td><span>D</span></td>
-<td>41</td>
-<td>0</td>
-<td>100</td>
-</tr>
-<tr>
-<td>Gary Peters</td>
-<td><span>D</span></td>
-<td>41</td>
-<td>0</td>
-<td>100</td>
-</tr>
-<tr>
-<td>Tina Smith</td>
-<td><span>D</span></td>
-<td>41</td>
-<td>0</td>
-<td>100</td>
-</tr>
-<tr>
-<td>Jon Tester</td>
-<td><span>D</span></td>
-<td>41</td>
-<td>0</td>
-<td>100</td>
-</tr>
-<tr>
-<td>Mark Warner</td>
-<td><span>D</span></td>
-<td>41</td>
-<td>0</td>
-<td>100</td>
-</tr>
-<tr>
-<td>Cory Booker</td>
-<td><span>D</span></td>
-<td>40</td>
-<td>0</td>
-<td>100</td>
-</tr>
-<tr>
-<td>Kirsten Gillibrand</td>
-<td><span>D</span></td>
-<td>40</td>
-<td>0</td>
-<td>100</td>
-</tr>
-<tr>
-<td>Robert Menendez</td>
-<td><span>D</span></td>
-<td>39</td>
-<td>0</td>
-<td>100</td>
-</tr>
-<tr>
-<td>Brian Schatz</td>
-<td><span>D</span></td>
-<td>39</td>
-<td>0</td>
-<td>100</td>
-</tr>
-<tr>
-<td>Patty Murray</td>
-<td><span>D</span></td>
-<td>38</td>
-<td>0</td>
-<td>100</td>
-</tr>
-<tr>
-<td>Joe Manchin</td>
-<td><span>D</span></td>
-<td>35</td>
-<td>0</td>
-<td>100</td>
-</tr>
-<tr>
-<td>Tim Kaine</td>
-<td><span>D</span></td>
-<td>33</td>
-<td>0</td>
-<td>100</td>
-</tr>
-<tr>
-<td>Jon Ossoff</td>
-<td><span>D</span></td>
-<td>33</td>
-<td>0</td>
-<td>100</td>
-</tr>
-<tr>
-<td>Bernie Sanders</td>
-<td>I</td>
-<td>32</td>
-<td>0</td>
-<td>100</td>
-</tr>
-<tr>
-<td>Kyrsten Sinema</td>
-<td><span>D</span></td>
-<td>30</td>
-<td>0</td>
-<td>100</td>
-</tr>
-<tr>
-<td>Dianne Feinstein</td>
-<td><span>D</span></td>
-<td>21</td>
-<td>0</td>
-<td>100</td>
-</tr>
-<tr>
-<td>Susan Collins</td>
-<td><span>R</span></td>
-<td>36</td>
-<td>6</td>
-<td>86</td>
-</tr>
-<tr>
-<td>Lisa Murkowski</td>
-<td><span>R</span></td>
-<td>33</td>
-<td>6</td>
-<td>85</td>
-</tr>
-<tr>
-<td>Lindsey Graham</td>
-<td><span>R</span></td>
-<td>26</td>
-<td>5</td>
-<td>84</td>
-</tr>
-<tr>
-<td>Thom Tillis</td>
-<td><span>R</span></td>
-<td>13</td>
-<td>23</td>
-<td>36</td>
-</tr>
-<tr>
-<td>Chuck Grassley</td>
-<td><span>R</span></td>
-<td>15</td>
-<td>27</td>
-<td>36</td>
-</tr>
-<tr>
-<td>Mike Rounds</td>
-<td><span>R</span></td>
-<td>5</td>
-<td>11</td>
-<td>31</td>
-</tr>
-<tr>
-<td>John Cornyn</td>
-<td><span>R</span></td>
-<td>10</td>
-<td>23</td>
-<td>30</td>
-</tr>
-<tr>
-<td>Shelley Moore Capito</td>
-<td><span>R</span></td>
-<td>8</td>
-<td>24</td>
-<td>25</td>
-</tr>
-<tr>
-<td>Richard Burr</td>
-<td><span>R</span></td>
-<td>7</td>
-<td>22</td>
-<td>24</td>
-</tr>
-<tr>
-<td>Pat Toomey</td>
-<td><span>R</span></td>
-<td>7</td>
-<td>24</td>
-<td>23</td>
-</tr>
-<tr>
-<td>Joni Ernst</td>
-<td><span>R</span></td>
-<td>7</td>
-<td>26</td>
-<td>21</td>
-</tr>
-<tr>
-<td>Rob Portman</td>
-<td><span>R</span></td>
-<td>7</td>
-<td>26</td>
-<td>21</td>
-</tr>
-<tr>
-<td>Mitt Romney</td>
-<td><span>R</span></td>
-<td>7</td>
-<td>26</td>
-<td>21</td>
-</tr>
-<tr>
-<td>Deb Fischer</td>
-<td><span>R</span></td>
-<td>6</td>
-<td>27</td>
-<td>18</td>
-</tr>
-<tr>
-<td>Todd Young</td>
-<td><span>R</span></td>
-<td>7</td>
-<td>34</td>
-<td>17</td>
-</tr>
-<tr>
-<td>Cindy Hyde-Smith</td>
-<td><span>R</span></td>
-<td>5</td>
-<td>27</td>
-<td>16</td>
-</tr>
-<tr>
-<td>John Kennedy</td>
-<td><span>R</span></td>
-<td>6</td>
-<td>36</td>
-<td>14</td>
-</tr>
-<tr>
-<td>Mitch McConnell</td>
-<td><span>R</span></td>
-<td>4</td>
-<td>29</td>
-<td>12</td>
-</tr>
-<tr>
-<td>Mike Lee</td>
-<td><span>R</span></td>
-<td>4</td>
-<td>38</td>
-<td>10</td>
-</tr>
-<tr>
-<td>Roger Wicker</td>
-<td><span>R</span></td>
-<td>4</td>
-<td>38</td>
-<td>10</td>
-</tr>
-<tr>
-<td>Roy Blunt</td>
-<td><span>R</span></td>
-<td>3</td>
-<td>33</td>
-<td>8</td>
-</tr>
-<tr>
-<td>Marco Rubio</td>
-<td><span>R</span></td>
-<td>3</td>
-<td>33</td>
-<td>8</td>
-</tr>
-<tr>
-<td>Tim Scott</td>
-<td><span>R</span></td>
-<td>3</td>
-<td>38</td>
-<td>7</td>
-</tr>
-<tr>
-<td>Kevin Cramer</td>
-<td><span>R</span></td>
-<td>2</td>
-<td>28</td>
-<td>7</td>
-</tr>
-<tr>
-<td>John Hoeven</td>
-<td><span>R</span></td>
-<td>2</td>
-<td>39</td>
-<td>5</td>
-</tr>
-<tr>
-<td>Tom Cotton</td>
-<td><span>R</span></td>
-<td>2</td>
-<td>40</td>
-<td>5</td>
-</tr>
-<tr>
-<td>Cynthia Lummis</td>
-<td><span>R</span></td>
-<td>1</td>
-<td>29</td>
-<td>3</td>
-</tr>
-<tr>
-<td>John Barrasso</td>
-<td><span>R</span></td>
-<td>1</td>
-<td>32</td>
-<td>3</td>
-</tr>
-<tr>
-<td>Steve Daines</td>
-<td><span>R</span></td>
-<td>1</td>
-<td>32</td>
-<td>3</td>
-</tr>
-<tr>
-<td>Rand Paul</td>
-<td><span>R</span></td>
-<td>1</td>
-<td>32</td>
-<td>3</td>
-</tr>
-<tr>
-<td>Jim Risch</td>
-<td><span>R</span></td>
-<td>1</td>
-<td>32</td>
-<td>3</td>
-</tr>
-<tr>
-<td>Bill Cassidy</td>
-<td><span>R</span></td>
-<td>1</td>
-<td>39</td>
-<td>3</td>
-</tr>
-<tr>
-<td>Mike Crapo</td>
-<td><span>R</span></td>
-<td>1</td>
-<td>40</td>
-<td>2</td>
-</tr>
-<tr>
-<td>Rick Scott</td>
-<td><span>R</span></td>
-<td>1</td>
-<td>41</td>
-<td>2</td>
-</tr>
-<tr>
-<td>John Boozman</td>
-<td><span>R</span></td>
-<td>1</td>
-<td>41</td>
-<td>2</td>
-</tr>
-<tr>
-<td>Bill Hagerty</td>
-<td><span>R</span></td>
-<td>1</td>
-<td>41</td>
-<td>2</td>
-</tr>
-<tr>
-<td>John Thune</td>
-<td><span>R</span></td>
-<td>1</td>
-<td>41</td>
-<td>2</td>
-</tr>
-<tr>
-<td>Jim Inhofe</td>
-<td><span>R</span></td>
-<td>0</td>
-<td>29</td>
-<td>0</td>
-</tr>
-<tr>
-<td>Jerry Moran</td>
-<td><span>R</span></td>
-<td>0</td>
-<td>29</td>
-<td>0</td>
-</tr>
-<tr>
-<td>Marsha Blackburn</td>
-<td><span>R</span></td>
-<td>0</td>
-<td>31</td>
-<td>0</td>
-</tr>
-<tr>
-<td>Ron Johnson</td>
-<td><span>R</span></td>
-<td>0</td>
-<td>31</td>
-<td>0</td>
-</tr>
-<tr>
-<td>Richard Shelby</td>
-<td><span>R</span></td>
-<td>0</td>
-<td>33</td>
-<td>0</td>
-</tr>
-<tr>
-<td>Ben Sasse</td>
-<td><span>R</span></td>
-<td>0</td>
-<td>38</td>
-<td>0</td>
-</tr>
-<tr>
-<td>Ted Cruz</td>
-<td><span>R</span></td>
-<td>0</td>
-<td>39</td>
-<td>0</td>
-</tr>
-<tr>
-<td>Roger Marshall</td>
-<td><span>R</span></td>
-<td>0</td>
-<td>39</td>
-<td>0</td>
-</tr>
-<tr>
-<td>Mike Braun</td>
-<td><span>R</span></td>
-<td>0</td>
-<td>40</td>
-<td>0</td>
-</tr>
-<tr>
-<td>Dan Sullivan</td>
-<td><span>R</span></td>
-<td>0</td>
-<td>41</td>
-<td>0</td>
-</tr>
-<tr>
-<td>Tommy Tuberville</td>
-<td><span>R</span></td>
-<td>0</td>
-<td>41</td>
-<td>0</td>
-</tr>
-<tr>
-<td>Josh Hawley</td>
-<td><span>R</span></td>
-<td>0</td>
-<td>42</td>
-<td>0</td>
-</tr>
-<tr>
-<td>James Lankford</td>
-<td><span>R</span></td>
-<td>0</td>
-<td>42</td>
-<td>0</td>
-</tr>
-</tbody>
-</table></div>
-<footer>
-<p>Excludes votes a senator skipped.</p>
-<p>Source: U.S. Senate</p>
-</footer>
-</section>
-
-
-
-<p data-paragraph="main">Of course, there are limitations to this kind of analysis. First, Democratic senators <em>have</em> occasionally skipped confirmation votes, which could be a convenient way to avoid casting a “no” vote. (And both Manchin and Sinema have skipped an above-average number of votes: seven for Manchin, 12 for Sinema.) We also don’t know if there are any confirmation votes Senate Majority Leader Chuck Schumer declined to hold because he knew the nominee didn’t have the votes.</p>
-
-
-
-<p data-paragraph="main">But at the very least, Manchin, Sinema and every other Senate Democrat have been reticent to publicly express opposition to one of Biden’s nominees — and with a position as important as the Supreme Court, the pressure to toe the party line will likely be even greater.</p>
-
-
-
-<p data-paragraph="main">If anything, the data shows it’s more likely that a Republican might break ranks to vote <em>for</em> Biden’s Supreme Court nominee than that a Democrat would vote against her. Three Republicans have voted for a majority of Biden’s judicial nominees thus far: Sen. Susan Collins (36 out of 42), Sen. Lisa Murkowski (33 out of 39, with three missed votes) and Sen. Lindsey Graham (26 out of 31, with 11 missed votes).</p>
-
-
-
-<p data-paragraph="main">Collins and Murkowski are well known as two of the most moderate members of the Republican caucus, and Graham is a throwback to an earlier era when the Senate deferred to the president on his appointees. “Senator Graham has long believed that under the Constitution the president has the right to select judges of their choosing and as long as they are qualified, they should generally be confirmed by the Senate,” Graham’s office <a href="https://thehill.com/homenews/senate/583111-graham-emerges-as-go-to-ally-for-bidens-judicial-picks" target="_blank" rel="noopener">said in a statement</a> last year.</p>
-
-
-
-<p data-paragraph="main">Of course, the same intraparty pressures that could keep Manchin and Sinema in line for a Supreme Court nominee would also apply to Collins, Murkowski and Graham, so Biden shouldn’t count on their votes. (In particular, Murkowski is up for reelection this year and faces a formidable Republican primary challenge, so she may not be inclined to anger Republicans further with a pro-Biden vote.) But if Biden is looking for bipartisan support for his nominee, he’s most likely to find it among these three senators.</p>
-
-
-
-<p data-paragraph="main"><em>Aaron Bycoffe contributed research.</em></p>]]></description>
-			<pubDate>Thu, 27 Jan 2022 11:00:00 +0000</pubDate>
-			<guid isPermaLink="false">1644208201877155</guid>
 		</item>
 
 	</channel>
