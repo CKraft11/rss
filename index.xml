@@ -3,8 +3,8 @@
 		<title>Main stream | FreshRSS</title>
 		<link>http://radon</link>
 		<description>RSS feed of Main stream | FreshRSS</description>
-		<pubDate>Wed, 02 Mar 2022 17:29:07 +0000</pubDate>
-		<lastBuildDate>Wed, 02 Mar 2022 17:29:07 GMT</lastBuildDate>
+		<pubDate>Wed, 02 Mar 2022 17:59:06 +0000</pubDate>
+		<lastBuildDate>Wed, 02 Mar 2022 17:59:06 GMT</lastBuildDate>
 		<atom:link href="http://radon/i/?a=rss" rel="self" type="application/rss+xml" />
 		<item>
 			<title>Politics Podcast: Unity From Biden, Disunity In Texas</title>
@@ -15,7 +15,11 @@
 			<category>Politics Podcast</category>
 			<category>State of the Union</category>
 			<category>Texas</category>
-			<description><![CDATA[<div data-href="https://fivethirtyeight.com/features/politics-podcast-unity-from-biden-disunity-in-texas/">
+			<description><![CDATA[<p data-paragraph="main"></p><p>Watch: https://abcnews.go.com/fivethirtyeight/video/unity-biden-disunity-texas-fivethirtyeight-politics-podcast-83199577</p>
+
+
+
+<div data-href="https://fivethirtyeight.com/features/politics-podcast-unity-from-biden-disunity-in-texas/">
 	<div data-podcast-id="327518" data-podcast-duration="0" data-podcast-title="Politics Podcast: Unity From Biden, Disunity In Texas">
 
 					<span><span>FiveThirtyEight</span></span>
@@ -130,7 +134,10 @@
 
 
 
-<p data-paragraph="main">In the meantime, the bleak reality is that Jackson could be in for a very tough confirmation process. But as a Black woman lawyer who’s risen to the height of her profession in spite of all the obstacles in her way, she’s probably pretty well prepared to deal with it.</p>]]></description>
+<p data-paragraph="main">In the meantime, the bleak reality is that Jackson could be in for a very tough confirmation process. But as a Black woman lawyer who’s risen to the height of her profession in spite of all the obstacles in her way, she’s probably pretty well prepared to deal with it.</p>
+
+
+<p>Watch: https://abcnews.go.com/fivethirtyeight/video/liberal-judge-ketanji-brown-jackson-fivethirtyeight-politics-podcast-83167862</p>]]></description>
 			<pubDate>Wed, 02 Mar 2022 11:00:00 +0000</pubDate>
 			<guid isPermaLink="false">1646219701647212</guid>
 		</item>
