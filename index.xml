@@ -3,9 +3,61 @@
 		<title>Main stream | FreshRSS</title>
 		<link>http://radon</link>
 		<description>RSS feed of Main stream | FreshRSS</description>
-		<pubDate>Fri, 04 Mar 2022 16:59:07 +0000</pubDate>
-		<lastBuildDate>Fri, 04 Mar 2022 16:59:07 GMT</lastBuildDate>
+		<pubDate>Fri, 04 Mar 2022 17:29:07 +0000</pubDate>
+		<lastBuildDate>Fri, 04 Mar 2022 17:29:07 GMT</lastBuildDate>
 		<atom:link href="http://radon/i/?a=rss" rel="self" type="application/rss+xml" />
+		<item>
+			<title>We’re Hiring An Art And Design Intern For Summer And Fall</title>
+			<link>https://fivethirtyeight.com/features/were-hiring-an-art-and-design-intern-for-summer-and-fall/</link>
+						<dc:creator>Emily Scherer</dc:creator>
+			<dc:creator>Emily Scherer</dc:creator>
+			<category>FiveThirtyEight Internships</category>
+			<category>FiveThirtyEight Jobs</category>
+			<category>Housekeeping</category>
+			<description><![CDATA[<p data-paragraph="main">FiveThirtyEight is hiring an <strong>Art and Design Intern</strong> for the summer and fall. Are you someone who loves using photography, illustration and design to tell a compelling story? Are you considering a career in visual journalism? The Art and Design Intern will work with FiveThirtyEight’s Senior Designer and story editors to make our stories as visually compelling as they are well-researched and written. It’s an exciting opportunity for someone with an interest in editorial design to have an outsize impact on a small team.</p>
+
+
+
+<p data-paragraph="main">This paid internship will run from approximately May/June 2022 through January 2023 and can be fully remote if you live outside the New York City area. Current students at accredited colleges or universities are eligible, as are recent graduates who were enrolled in at least one course in the semester before the internship starts.</p>
+
+
+
+<p data-paragraph="main">The Art and Design Intern may work up to 40 hours per week (with some flexibility in schedule, as needed).</p>
+
+
+
+<p data-paragraph="main">To apply, please send a cover letter, résumé and link to your website or portfolio through the <a href="https://xjobs.brassring.com/TGnewUI/Search/home/HomeWithPreLoad?partnerid=25348&amp;siteid=5039&amp;PageType=JobDetails&amp;jobid=944581" target="_blank" rel="noopener">Disney Careers portal</a>. Even if you don’t check all the boxes below, we encourage you to apply as soon as possible! If you have any questions about this role, please email <a href="mailto:emily.scherer@abc.com" target="_blank" rel="noopener">Emily Scherer, Senior Designer</a>. </p>
+
+
+
+<h2><strong>Responsibilities:</strong></h2>
+
+
+
+<ul><li>Researching, cropping and writing photo captions for stories</li><li>Applying stylistic treatments to photos to create visually consistent art elements for stories in a series (for example, World Cup updates)</li><li>Thinking through the order and pacing of images within a story to find the best way to keep our readers engaged throughout</li><li>Creating custom illustrations to lead daily and feature stories</li><li>Helping assemble stories in WordPress and contributing ideas for headlines and other display text to make sure all elements of the piece work well together</li><li>Collaborating with other FiveThirtyEight teams on video and interactive projects</li></ul>
+
+
+
+<h2><strong>Basic Qualifications:</strong></h2>
+
+
+
+<ul><li>Interest in pursuing a career in graphic design, art direction, photo editing and/or illustration</li><li>Experience in visual arts or photojournalism at the college level</li><li>Proficiency in Adobe Photoshop and Illustrator</li><li>Kindness and enthusiasm for collaborating</li></ul>
+
+
+
+<h2><strong>Preferred Qualifications:</strong></h2>
+
+
+
+<ul><li>Familiarity and interest in U.S. politics, sports and/or science</li><li>Proficiency in Adobe InDesign, After Effects and/or WordPress</li></ul>
+
+
+
+<p data-paragraph="main">ABC News and FiveThirtyEight are equal-opportunity employers. Applicants will receive consideration for employment without regard to race, color, religion, sex, national origin, sexual orientation, gender identity, disability or protected veteran status.</p>]]></description>
+			<pubDate>Fri, 04 Mar 2022 16:45:00 +0000</pubDate>
+			<guid isPermaLink="false">1646413201497486</guid>
+		</item>
 		<item>
 			<title>Americans Are Still Unsure How The U.S. Should Respond To The Invasion Of Ukraine</title>
 			<link>https://fivethirtyeight.com/features/americans-are-still-unsure-how-the-u-s-should-respond-to-the-invasion-of-ukraine/</link>
@@ -1889,81 +1941,6 @@
 <p data-paragraph="main">The idea, Hooker added, is that Trump and his supporters lost because of people who, in their view, shouldn’t get a say at all, and certainly shouldn’t be able to determine the outcome of a U.S. election.</p>]]></description>
 			<pubDate>Wed, 23 Feb 2022 16:04:00 +0000</pubDate>
 			<guid isPermaLink="false">1645720201341851</guid>
-		</item>
-		<item>
-			<title>We’ve Revamped Our Polling Tracker!</title>
-			<link>https://fivethirtyeight.com/features/weve-revamped-our-polling-tracker/</link>
-						<dc:creator>Nathaniel Rakich</dc:creator>
-			<dc:creator>Nathaniel Rakich</dc:creator>
-			<category>Latest Polls</category>
-			<category>National Polls</category>
-			<category>Polling</category>
-			<category>Polling Accuracy</category>
-			<category>Polling Averages</category>
-			<category>Polling Bias</category>
-			<category>Polling Methodology</category>
-			<category>Polls</category>
-			<category>Pollster Ratings</category>
-			<category>Pollsters</category>
-			<category>State Polls</category>
-			<description><![CDATA[<p data-paragraph="main">If there’s one thing you know about FiveThirtyEight, it’s that we love polls. But, contrary to popular belief, we don’t usually conduct polls ourselves — we just collect and analyze them.<a data-footnote-id="11" href="https://fivethirtyeight.com/wp-json/wp/v2/espn_verticals/398#fn-11" data-footnote-content='&lt;p&gt;&lt;p&gt;On rare occasions, we will sponsor a poll to better understand, say, &lt;a href="https://projects.fivethirtyeight.com/trump-biden-debate-poll/" target="_blank" rel="noopener"&gt;who performed best in a debate&lt;/a&gt; or &lt;a href="https://projects.fivethirtyeight.com/non-voters-poll-2020-election/" target="_blank" rel="noopener"&gt;why millions of Americans don’t vote&lt;/a&gt;, but we always do so in service of a story we’re reporting, not the horse-race toplines.&lt;/p&gt;
-&lt;/p&gt;'><sup>11</sup></a> And all the polls we publish can be found in one place: our <a href="https://projects.fivethirtyeight.com/polls/" target="_blank" rel="noopener">polling tracker</a>, which we’ve just revamped in preparation for the 2022 midterm elections.</p>
-
-
-
-<p data-paragraph="main">A few other websites aggregate polls, but in our opinion (completely unbiased, of course), the FiveThirtyEight polling tracker is the best. </p>
-
-
-
-<p data-paragraph="main">First, it is comprehensive: It lists virtually every public general-election poll for president, Senate, House and governor, virtually every public presidential primary poll, and virtually every public poll of the president’s and vice president’s approval ratings, other important politicians’ favorability ratings,<a data-footnote-id="12" href="https://fivethirtyeight.com/wp-json/wp/v2/espn_verticals/398#fn-12" data-footnote-content="&lt;p&gt;&lt;p&gt;Right now, we just list former President Donald Trump’s, but we may start tracking favorability ratings for other politicians in the future.&lt;/p&gt;
-&lt;/p&gt;"><sup>12</sup></a> and finally the <a href="https://fivethirtyeight.com/features/our-best-tool-for-predicting-midterm-elections-doesnt-show-a-republican-wave-but-history-is-on-the-gops-side/" target="_blank" rel="noopener">generic congressional ballot</a>, or which party voters would support for Congress if the election were held today. (The only polls we exclude are those that fail to meet <a href="https://fivethirtyeight.com/features/polls-policy-and-faqs/" target="_blank" rel="noopener">our criteria for transparency and methodology</a>, which almost all reliable pollsters easily meet.) </p>
-
-
-
-<p data-paragraph="main">Second, the polling tracker is powerful: You can filter all those polls by race, state, quality and more to see the ones you’re most interested in. You can also download our entire public database — thousands upon thousands of polls — to play around with the data yourself.</p>
-
-
-
-<figure><img loading="lazy" width="2340" height="1680" src="https://fivethirtyeight.com/wp-content/uploads/2022/02/projects.fivethirtyeight.com_polls.png" alt="" data-src="https://fivethirtyeight.com/wp-content/uploads/2022/02/projects.fivethirtyeight.com_polls.png" data-srcset="https://fivethirtyeight.com/wp-content/uploads/2022/02/projects.fivethirtyeight.com_polls.png?w=700 1x, https://fivethirtyeight.com/wp-content/uploads/2022/02/projects.fivethirtyeight.com_polls.png?w=1400 2x"></figure><p data-paragraph="main">Here’s a quick primer to help you get the most out of the new iteration of our polling tracker. As you can see, there are six columns of data for each poll. First are the <strong>dates</strong> when the poll was conducted. By default, the polling tracker orders polls by the last date they were in the field, from newest to oldest. However, you can change this by clicking “Added” under “Sort by Date” in the gray area at the top of the page. This will sort the polls by the date we found and added them to the polling tracker (again, from newest to oldest), which can be useful if you check the page regularly and want to see all the polls that have been added since your last visit.</p>
-
-
-
-<p data-paragraph="main">The second column lists the poll’s <strong>sample</strong> — how many and what kind of people were polled. This is important because polls with smaller sample sizes have bigger margins of error, and polls can also yield different results depending on whether they survey adults (“A”), registered voters (“RV”) or likely voters (“LV”).<a data-footnote-id="13" href="https://fivethirtyeight.com/wp-json/wp/v2/espn_verticals/398#fn-13" data-footnote-content="&lt;p&gt;&lt;p&gt;Occasionally, when we don’t know exactly what kind of voters have been surveyed, you’ll see a simple “V” in this column, for “voters.”&lt;/p&gt;
-&lt;/p&gt;"><sup>13</sup></a> For more details on how different samples (and other methodological quirks) can affect a poll’s bottom line, check out <a href="https://fivethirtyeight.com/features/how-to-read-2020-polls-like-a-pro/" target="_blank" rel="noopener">our guide</a> to being an intelligent consumer of polls.</p>
-
-
-
-<p data-paragraph="main">The third column lists the <strong>pollster</strong> that conducted the poll, along with (in most cases) a letter grade. That letter grade represents its <a href="https://projects.fivethirtyeight.com/pollster-ratings/" target="_blank" rel="noopener">FiveThirtyEight pollster rating</a> — our assessment of the pollster’s quality based on its historical accuracy and methodology. You can click on the pollster’s name to see its full track record over the years. (If you want to read the poll itself, click on the dates.) When a pollster doesn’t have a letter grade next to its name, it means it doesn’t have a pollster rating — probably because it’s new on the polling scene. And when the pollster’s rating contains a slash (e.g., “A/B”) inside a dotted circle, it means <a href="https://fivethirtyeight.com/features/polls-policy-and-faqs/" target="_blank" rel="noopener">the rating is approximate</a>; there just isn’t enough data to give the pollster a more precise rating.</p>
-
-
-
-<p data-paragraph="main">In our forecasts and averages, we consider every scientific poll, no matter how low its pollster rating (though we do give higher-quality polls more weight). But you might be a bit pickier, so the polling tracker gives you the ability to hide lower-quality polls if you want. At the top of the page, you can click and drag the bar under “Filter by Pollster Grade” to filter out polls below a certain grade. (For the purposes of this filter, pollster grades with a slash are rounded up, and pollsters without grades are treated as the equivalent of C+ pollsters.)</p>
-
-
-
-<p data-paragraph="main">The fourth column contains the poll’s <strong>sponsor</strong>, if any — in other words, who commissioned the poll if not the pollster itself. Sometimes, this is a nonpartisan organization like a media outlet or university. But other times, it’s a partisan actor like a PAC or even a campaign. We’ve marked partisan sponsors with a red, blue or black diamond (hollow for campaigns or official arms of the party, solid for party-affiliated outside groups) to indicate potential bias toward the GOP, Democratic Party or another party, respectively. Take these partisan polls with a <a href="https://fivethirtyeight.com/features/is-don-blankenship-really-surging-in-west-virginia/" target="_blank" rel="noopener">grain of salt</a>: They’re often several percentage points too rosy for their party.</p>
-
-
-
-<p data-paragraph="main">Finally, the fifth column lists the <strong>result</strong> of the poll, and the sixth column lists its <strong>net result</strong>, or margin, for those of us too lazy to do the mental math (hey, no judgment). If you see a black dot next to a candidate’s name here, it means he or she is the incumbent in that race; if you see the word “More” with a little arrow, it means the poll asked about more than two candidates (just click the “More” to reveal the full results). </p>
-
-
-
-<p data-paragraph="main">When you first land on the polling tracker, it shows a <em>lot</em> of poll questions — more than 30,000 if you click the “Show more polls” button at the bottom enough times. (This is not recommended.) But as mentioned, you can filter the polls down to a specific race (for example, only <a href="https://projects.fivethirtyeight.com/polls/senate/" target="_blank" rel="noopener">Senate polls</a>), a specific state (for example, only <a href="https://projects.fivethirtyeight.com/polls/nevada/" target="_blank" rel="noopener">polls of Nevada</a>) or a specific election (for example, only polls of the <a href="https://projects.fivethirtyeight.com/polls/governor/2022/georgia/" target="_blank" rel="noopener">2022 Georgia governor’s race</a>) using the drop-down menus at the top of the page. (Each filter has a specific URL, essentially creating mini polling trackers for each election that you can return to in a single click.) You can also use the search bar to narrow the list down to only polls meeting your own custom criteria, such as polls conducted by a given pollster, paid for by a given sponsor or asking about a given candidate.</p>
-
-
-
-<p data-paragraph="main">The polling tracker lets you do a lot with our huge database of polls, but for some polling nerds, it isn’t enough. Therefore, we also make our data available for download so you can play with it on your own. At the bottom of the polling tracker, you’ll see another drop-down menu that lists all the polling data sets we have available for download, right next to a big ol’ “Download” button. You’ll also see a link to our <a href="https://fivethirtyeight.com/features/polls-policy-and-faqs/" target="_blank" rel="noopener">polls policy and frequently asked questions</a>, which should be able to answer every question you have about our polling tracker that I haven’t already addressed.</p>
-
-
-
-<p data-paragraph="main">The cherry on top is that, in addition to listing every poll in our database, our polling tracker is also a hub for accessing some of our most popular averages that feed off those polls: our <a href="https://projects.fivethirtyeight.com/biden-approval-rating/" target="_blank" rel="noopener">tracker of President Biden’s approval rating</a>, our <a href="https://projects.fivethirtyeight.com/polls/approval/kamala-harris/" target="_blank" rel="noopener">tracker of Vice President Kamala Harris’s approval rating</a>, our <a href="https://projects.fivethirtyeight.com/polls/favorability/donald-trump/" target="_blank" rel="noopener">tracker of former President Donald Trump’s favorability rating</a> and our <a href="https://projects.fivethirtyeight.com/congress-generic-ballot-polls/" target="_blank" rel="noopener">tracker of generic congressional ballot polls</a>. There are links to these polling averages at the top of the page, of course, but you can also use the drop-down menus to filter down to those specific polls and our charted averages will magically appear. And if you filter down to a specific election and we have a polling average available for that race, it will appear right on this page too.</p>
-
-
-
-<p data-paragraph="main">As you can see, we’ve designed the polling tracker to be a one-stop shop for all your polling needs. So, if you plan to follow the polls in 2022 and can bookmark only one website, make it this one.</p>]]></description>
-			<pubDate>Thu, 24 Feb 2022 11:00:00 +0000</pubDate>
-			<guid isPermaLink="false">1645702201337946</guid>
 		</item>
 
 	</channel>
