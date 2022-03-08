@@ -3,9 +3,167 @@
 		<title>Main stream | FreshRSS</title>
 		<link>http://radon</link>
 		<description>RSS feed of Main stream | FreshRSS</description>
-		<pubDate>Tue, 08 Mar 2022 19:59:06 +0000</pubDate>
-		<lastBuildDate>Tue, 08 Mar 2022 19:59:06 GMT</lastBuildDate>
+		<pubDate>Tue, 08 Mar 2022 20:29:07 +0000</pubDate>
+		<lastBuildDate>Tue, 08 Mar 2022 20:29:07 GMT</lastBuildDate>
 		<atom:link href="http://radon/i/?a=rss" rel="self" type="application/rss+xml" />
+		<item>
+			<title>What Would It Take For Americans To Support War Against Russia?</title>
+			<link>https://fivethirtyeight.com/features/what-would-it-take-for-americans-to-support-war-against-russia/</link>
+						<dc:creator>Nathaniel Rakich</dc:creator>
+			<dc:creator>Nathaniel Rakich</dc:creator>
+			<category>Foreign Policy</category>
+			<category>Russia Invasion</category>
+			<category>Ukraine</category>
+			<description><![CDATA[<p data-paragraph="main">Poll after poll makes it clear: Americans don’t want to go to war with Russia over Ukraine. In an <a href="https://www.ipsos.com/en-us/news-polls/three-quarters-americans-support-us-taking-ukrainian-refugees" target="_blank" rel="noopener">Ipsos/Reuters poll</a> from March 3-4, adults opposed sending troops to Ukraine, 61 percent to 39 percent. In a <a href="https://www.cbsnews.com/news/russia-ukraine-biden-state-of-the-union-opinion-poll-2022-02-29/" target="_blank" rel="noopener">YouGov/CBS News poll</a> from Feb. 24-28, Americans opposed sending U.S. troops to defend Ukraine, 71 percent to 29 percent. In a <a href="https://docs.cdn.yougov.com/aa58ig9d3b/econTabReport.pdf" target="_blank" rel="noopener">YouGov/The Economist poll</a> from Feb. 26-March 1, they thought sending soldiers to Ukraine to fight Russian soldiers was a bad idea, 54 percent to 19 percent. And a <a href="https://www.filesforprogress.org/datasets/2022/2/dfp_ukraine_a_toplines.pdf" target="_blank" rel="noopener">Feb. 25-27 poll</a> from Data for Progress found that likely voters opposed taking military action against Russia in response to the invasion of Ukraine, 64 percent to 23 percent.</p>
+
+
+
+<p data-paragraph="main">These numbers are hardly surprising in a country not far removed from <a href="https://fivethirtyeight.com/features/why-americans-are-unlikely-to-support-a-war-in-ukraine/" target="_blank" rel="noopener">two unpopular, drawn-out foreign wars</a> in Afghanistan and Iraq. What’s more of a surprise, though, is that Americans are actually open to going to war with Russia under different circumstances: namely, if Russia continues its aggression and invades one of the U.S.’s fellow members of NATO.</p>
+
+
+
+<p data-paragraph="main">Under <a href="https://www.nato.int/cps/en/natohq/topics_110496.htm" target="_blank" rel="noopener">Article 5 of the North Atlantic Treaty</a>, NATO members are pledged to each other’s collective defense — if one of them is attacked, the others must respond. And Americans want the U.S. to stick to this obligation. Sixty-one percent of respondents to a <a href="https://docs.cdn.yougov.com/e1pqcsj7ov/tabs_Russia_and_Ukraine_20220224.pdf" target="_blank" rel="noopener">YouGov poll</a> from Feb. 24-28 said the U.S. should maintain its commitment to defend NATO allies, while only 13 percent said this commitment was no longer necessary. A <a href="https://poll.qu.edu/poll-release?releaseid=3838" target="_blank" rel="noopener">Quinnipiac University poll</a> from March 4-6 put it even more bluntly and got an even more emphatic answer: 79 percent of its respondents supported a U.S. military response to a hypothetical Russian attack on a NATO country.</p>
+
+
+
+<p data-paragraph="main">But that same YouGov poll suggested that, in reality, Americans’ appetite for war would vary depending on which NATO country is attacked. According to the poll, adults supported using military force to defend Great Britain, 58 percent to 14 percent, and France, 55 percent to 15 percent. But they were less supportive of using force to defend other NATO members, such as Latvia (35 percent to 18 percent) and Croatia (34 percent to 21 percent).</p>
+
+
+<div>
+<section>
+ <header>
+ <h5>Americans have a mixed view of helping NATO allies</h5>
+ <p>Share of Americans who said the U.S. should be willing to use military force to defend various countries against a hypothetical Russian attack</p>
+ </header>
+ <table data-carpenter-slug="rakich.support-escalation.1">
+ <thead>
+ <tr>
+ <th colspan="1">Country</th>
+ <th colspan="1">NATO member?</th>
+ <th colspan="1">Should</th>
+ <th colspan="1">Should not</th>
+ <th colspan="1">Don’t know</th>
+ </tr>
+ </thead>
+ <tbody>
+ <tr>
+ <td>Great Britain</td>
+ <td>✓</td>
+ <td data-suffix="%" data-suffixpadding="1.1em">58%</td>
+ <td data-suffix="%" data-suffixpadding="1.1em">14%</td>
+ <td data-suffix="%" data-suffixpadding="1.1em">28%</td>
+ </tr>
+ <tr>
+ <td>France</td>
+ <td>✓</td>
+ <td>55</td>
+ <td>15</td>
+ <td>29</td>
+ </tr>
+ <tr>
+ <td>Germany</td>
+ <td>✓</td>
+ <td>51</td>
+ <td>19</td>
+ <td>30</td>
+ </tr>
+ <tr>
+ <td>Poland</td>
+ <td>✓</td>
+ <td>47</td>
+ <td>18</td>
+ <td>34</td>
+ </tr>
+ <tr>
+ <td>Greece</td>
+ <td>✓</td>
+ <td>46</td>
+ <td>19</td>
+ <td>35</td>
+ </tr>
+ <tr>
+ <td>Sweden</td>
+ <td></td>
+ <td>45</td>
+ <td>21</td>
+ <td>34</td>
+ </tr>
+ <tr>
+ <td>Finland</td>
+ <td></td>
+ <td>43</td>
+ <td>21</td>
+ <td>37</td>
+ </tr>
+ <tr>
+ <td>Romania</td>
+ <td>✓</td>
+ <td>37</td>
+ <td>20</td>
+ <td>42</td>
+ </tr>
+ <tr>
+ <td>Latvia</td>
+ <td>✓</td>
+ <td>35</td>
+ <td>18</td>
+ <td>46</td>
+ </tr>
+ <tr>
+ <td>Croatia</td>
+ <td>✓</td>
+ <td>34</td>
+ <td>21</td>
+ <td>46</td>
+ </tr>
+ <tr>
+ <td>Turkey</td>
+ <td>✓</td>
+ <td>33</td>
+ <td>27</td>
+ <td>40</td>
+ </tr>
+ <tr>
+ <td>Ukraine</td>
+ <td></td>
+ <td>31</td>
+ <td>31</td>
+ <td>37</td>
+ </tr>
+ </tbody>
+ </table>
+ <footer>
+ <p>Based on a survey of 1,000 adults conducted Feb. 24-28, 2022.</p>
+ <p>Source: YouGov</p>
+ </footer>
+</section>
+</div>
+
+
+<p data-paragraph="main">This raises the possibility that Americans are passing judgment on individual countries’ worthiness of having the U.S. rush to their defense. While some of this is probably due to Americans’ unfamiliarity with certain countries (46 percent said they didn’t know if the U.S. should defend Latvia or Croatia), it is still notable that just 14-15 percent opposed intervening if Russia attacked Great Britain or France, while about 20 percent opposed it for most Eastern European countries, and an even higher share (27 percent) opposed it for Turkey. Therefore, even in the nightmare scenario where Russia pushes beyond Ukraine and invades another country, we shouldn’t assume that Americans will automatically favor going to war over it.</p>
+
+
+
+<p data-paragraph="main">There is, however, one set of poll questions that suggests Americans want to use military force against Russia <em>right now</em>. Multiple polls show support for a <a href="https://www.nytimes.com/2022/03/05/world/europe/what-is-no-fly-zone.html" target="_blank" rel="noopener">no-fly zone</a> over Ukraine. In the Ipsos/Reuters survey, 74 percent of adults said the U.S. and NATO should impose a no-fly zone above Ukraine. And in the YouGov/The Economist poll, 45 percent of adults thought enforcing a no-fly zone was a good idea, while just 20 percent thought it was a bad idea. </p>
+
+
+
+<p data-paragraph="main">It seems likely, though, that many Americans aren’t aware that enforcing a no-fly zone would mean <a href="https://www.crisisgroup.org/europe-central-asia/eastern-europe/ukraine/no-fly-zone-ukraine-war-russia-another-name" target="_blank" rel="noopener">shooting down Russian airplanes</a> that violate Ukrainian airspace (which, of course, could escalate into a greater, possibly nuclear conflict with Russia). In the YouGov/The Economist poll, a significant number of respondents (35 percent) said they weren’t sure whether a no-fly zone was a good or bad idea. And notably, Ipsos/Reuters didn’t even give respondents a “not sure” option, which could explain why it pegged support so high. </p>
+
+
+
+<p data-paragraph="main">It’s possible that a no-fly zone sounds to many Americans like a happy medium between two extreme options that we know from polling are both unpopular — going to war with Russia and doing nothing — and that’s why support initially registers so high. It’s impossible to know for sure, though, without more probing from pollsters. </p>
+
+
+
+<p data-paragraph="main">A separate <a href="https://yougov.co.uk/topics/politics/articles-reports/2022/03/04/britons-oppose-ukraine-no-fly-zone-39-28" target="_blank" rel="noopener">YouGov poll</a> from the United Kingdom (conducted March 3-4) gives us an idea of what more detailed polls might find, however. The poll explained, “Some are calling for a NATO ‘no-fly zone’ over Ukraine. This would mean that NATO countries like Britain would commit to shooting down any military aircraft attempting to fly over Ukraine. This could force the Russian military to stop launching air attacks against Ukraine, but it could also trigger an armed conflict between Russia and NATO countries if Russia chooses to ignore the no-fly zone.” Given this information, Britons said they opposed a no-fly zone, 39 percent to 28 percent (one-third were undecided).</p>
+
+
+
+<p data-paragraph="main">To be sure, the U.K. isn’t the U.S., but the poll demonstrates how American support for a no-fly zone may be soft. After all, we already have plenty of clues that Americans may not fully grasp the gravity of a no-fly zone. According to a <a href="https://maristpoll.marist.edu/wp-content/uploads/2022/03/NPR_PBS-NewsHour_Marist-Poll_USA-NOS-and-Tables_202203010901.pdf" target="_blank" rel="noopener">Marist College/NPR/PBS NewsHour poll</a> from March 1-2, 70 percent of American adults were concerned (including 36 percent who were “very” concerned) that the conflict between Russia and Ukraine would lead to the use of nuclear weapons. And according to a <a href="https://www.marugroup.net/public-opinion-polls/us/the-us-stands-with-ukraine" target="_blank" rel="noopener">Feb. 25-28 poll</a> from Canadian consumer-research firm Maru Public Opinion, 61 percent of Americans thought there was a real chance that Russia would use nuclear weapons against countries that interfered in Ukraine. Although Americans are certainly not immune to holding contradictory opinions, that doesn’t sound like a country that’s ready and willing to shoot down Russian airplanes.</p>]]></description>
+			<pubDate>Tue, 08 Mar 2022 19:26:00 +0000</pubDate>
+			<guid isPermaLink="false">1646769601845096</guid>
+		</item>
 		<item>
 			<title>All But One House Republican Who Voted To Impeach Trump Faces A Trump-Endorsed Challenger</title>
 			<link>https://fivethirtyeight.com/features/all-but-one-house-republican-who-voted-to-impeach-trump-faces-a-trump-endorsed-challenger/</link>
@@ -1959,67 +2117,6 @@
 <p data-paragraph="main"><strong>CORRECTION (Feb. 25, 2022, 3:55 p.m.):</strong> An earlier version of this article said 15 percent of Republicans had an unfavorable view of Putin according to an Economist/YouGov poll. In fact, 15 percent of the Republicans polled said they had a <em>favorable</em> view of him.</p>]]></description>
 			<pubDate>Fri, 25 Feb 2022 17:29:00 +0000</pubDate>
 			<guid isPermaLink="false">1645814701700483</guid>
-		</item>
-		<item>
-			<title>How Ketanji Brown Jackson Could Change The Supreme Court</title>
-			<link>https://fivethirtyeight.com/features/how-ketanji-brown-jackson-could-change-the-supreme-court/</link>
-						<dc:creator>Amelia Thomson-DeVeaux</dc:creator>
-			<dc:creator>Amelia Thomson-DeVeaux</dc:creator>
-			<category>Ketanji Brown Jackson</category>
-			<category>SCOTUS</category>
-			<category>Supreme Court</category>
-			<category>Supreme Court Nominees</category>
-			<description><![CDATA[<p data-paragraph="main">After several weeks of mild suspense, President Biden announced that he’s nominating Ketanji Brown Jackson, who currently sits on the D.C. Circuit Court of Appeals, to replace Justice Stephen Breyer on the Supreme Court. Now, the Senate is hurtling toward its fourth Supreme Court confirmation hearing in five years. Jackson, who is the first Black woman ever to be nominated to the court, has support from <a href="https://www.yahoo.com/now/liberals-circle-wagons-around-ketanji-214027021.html" target="_blank" rel="noopener">several progressive groups</a>. If she’s confirmed, she’ll probably move the court’s Democratic-appointed bloc even further to the left – although it’s not clear from the data we have just how liberal she’ll be. </p>
-
-
-
-<p data-paragraph="main">Jackson’s nomination is historic — she’s poised to become the first Black woman and the <a href="https://www.washingtonpost.com/politics/2022/02/11/ketanji-brown-jackson-supreme-court-defender/" target="_blank" rel="noopener">first former public defender</a> to serve on the nation’s highest court. But unlike with <a href="https://fivethirtyeight.com/features/how-amy-coney-barrett-could-change-the-supreme-court/" target="_blank" rel="noopener">the previous</a> <a href="https://fivethirtyeight.com/features/how-brett-kavanaugh-would-change-the-supreme-court/" target="_blank" rel="noopener">two battles</a> over potential justices, the ideological balance of the court isn’t about to change. Jackson, if confirmed, will replace another justice nominated by a Democrat, which means the court will still be dominated by a six-justice conservative majority.</p>
-
-
-
-<p data-paragraph="main">But that doesn’t mean Jackson’s worldview won’t matter if she ends up on the Supreme Court – after all, she’s likely to serve for decades. Based on her professional background and her previous rulings, she’s likely to be a more liberal justice than Breyer was, and one who will probably be less willing than Breyer to compromise with the court’s conservatives. That could mean the court – like every other political institution these days – is about to become even more polarized.</p>
-
-
-
-<p data-paragraph="main">Predicting how potential justices will rule when they get their Supreme Court robes is a tricky business. According to one prominent metric of Supreme Court ideology, though, Jackson looks pretty moderate. As the chart below shows, her <a href="https://www.epstein.wustl.edu/jcs" target="_blank" rel="noopener">Judicial Common Space</a> (JCS) score would place her toward the middle of the current Supreme Court, slightly to the right of Justice Elena Kagan and well to the right of Justice Sonia Sotomayor. According to those scores, she’s also a middle-of-the-road judge on the court where she’s currently serving.</p>
-
-
-
-<figure><img loading="lazy" width="1150" height="896" src="https://fivethirtyeight.com/wp-content/uploads/2022/02/atd.SCOTUS-NOM.0225-1.png" alt="" data-src="https://fivethirtyeight.com/wp-content/uploads/2022/02/atd.SCOTUS-NOM.0225-1.png" data-srcset="https://fivethirtyeight.com/wp-content/uploads/2022/02/atd.SCOTUS-NOM.0225-1.png?w=700 1x, https://fivethirtyeight.com/wp-content/uploads/2022/02/atd.SCOTUS-NOM.0225-1.png?w=1400 2x"></figure><p data-paragraph="main">But there are a lot of reasons to think that the JCS scores underrate Jackson’s liberal tendencies quite a bit. For one thing, a different measure from the <a href="https://data.stanford.edu/dime" target="_blank" rel="noopener">Database of Ideology, Money in Politics, and Elections (DIME)</a> puts her to the left of Kagan and even Sotomayor. According to this metric, Jackson is actually one of the most liberal judges on the D.C. Circuit.</p>
-
-
-
-<figure><img loading="lazy" width="1150" height="1000" src="https://fivethirtyeight.com/wp-content/uploads/2022/02/atd.SCOTUS-NOM.0225-2.png" alt="" data-src="https://fivethirtyeight.com/wp-content/uploads/2022/02/atd.SCOTUS-NOM.0225-2.png" data-srcset="https://fivethirtyeight.com/wp-content/uploads/2022/02/atd.SCOTUS-NOM.0225-2.png?w=700 1x, https://fivethirtyeight.com/wp-content/uploads/2022/02/atd.SCOTUS-NOM.0225-2.png?w=1400 2x"></figure><p data-paragraph="main">These estimates of Jackson’s ideology are so different, in part, because pinning down a lower court judge’s ideological outlook is even more difficult than figuring out how a Supreme Court justice will rule (which is itself no easy task). The JCS scores are <a href="https://static1.squarespace.com/static/60188505fb790b33c3d33a61/t/61f1855081fb31470cda3c37/1643218256396/ReplacingJusticeBreyer.pdf" target="_blank" rel="noopener">based on the idea</a> that the ideology of the politicians who nominate a judge can tell us a lot about how the judge will approach their job, but that means the judge’s own views and rulings aren’t taken into account. And the scores are even less nuanced for judges who serve on courts in Washington, D.C. Usually, JCS scores are based in part on the ideology of a judge’s home-state senators, but since D.C. does not have any senators, those judges’ ideology scores are based entirely on the presidents who nominated them.</p>
-
-
-
-<p data-paragraph="main">The DIME scores, on the other hand, are drawn from the judge’s own political contributions. This has its own limitations, especially for judges. Federal judges <a href="https://www.uscourts.gov/judges-judgeships/code-conduct-united-states-judges#:~:text=Canon%205%3A%20A%20Judge%20Should%20Refrain%20from%20Political%20Activity,-(A)%20General%20Prohibitions&amp;text=(3)%20solicit%20funds%20for%2C,a%20political%20organization%20or%20candidate." target="_blank" rel="noopener">aren’t allowed to donate</a> to campaigns after they join the bench (for Jackson, <a href="https://www.scotusblog.com/2022/02/profile-of-a-potential-nominee-ketanji-brown-jackson/" target="_blank" rel="noopener">that happened in 2013</a>), which means this metric can be very dated. For instance, when it comes to the Supreme Court, the DIME scores <a href="https://fivethirtyeight.com/features/the-supreme-courts-conservative-supermajority-is-just-beginning-to-flex-its-muscles/" target="_blank" rel="noopener">don’t accurately reflect</a> the ideological leanings of Justices Clarence Thomas and Samuel Alito, two conservatives <a href="https://www.supremecourt.gov/about/biographies.aspx" target="_blank" rel="noopener">who have been federal judges for decades</a>. But in an era where ideological consistency is an increasingly prized feature in judges, even years-old political contributions could be a pretty good signal for how newer justices will rule.</p>
-
-
-
-<p data-paragraph="main">And there are other clues in Jackson’s record that suggest she’d be likely to join Sotomayor on the court’s left flank, rather than staking out a spot in the middle. In her first opinion for the D.C. Circuit, which came out days after Breyer announced his retirement, Jackson <a href="https://www.reuters.com/legal/government/us-supreme-court-contender-jackson-backs-unions-first-ruling-2022-02-01/" target="_blank" rel="noopener">struck down a Trump-era policy</a> that had limited the bargaining power of federal unions. Last year, she was also <a href="https://www.nbcnews.com/politics/justice-department/appeals-court-rules-against-trump-fight-over-jan-6-committee-n1285700" target="_blank" rel="noopener">one of three judges who ruled</a> that former President Donald Trump couldn’t stop presidential documents from being turned over to the House committee investigating the events of Jan. 6. As a district court judge, <a href="https://int.nyt.com/data/documenthelper/6516-jackson-ruling-in-mcgahn-subpo/92d4672db63b5cac498d/optimized/full.pdf#page=1" target="_blank" rel="noopener">she ruled</a> that Trump’s former White House counsel, Don McGahn, had to obey a congressional subpoena to testify. “Presidents are not kings,” she wrote. “This means they do not have subjects, bound by loyalty or blood, whose destiny they are entitled to control.”</p>
-
-
-
-<p data-paragraph="main">She’s also <a href="https://www.nytimes.com/2022/01/30/us/politics/supreme-court-ketanji-brown-jackson.html" target="_blank" rel="noopener">seen the impact of harsh sentencing policies firsthand</a>. In addition to working as a federal defender, Jackson also spent several years at the U.S. Sentencing Commission, where she was involved in an Obama-era push to make sentencing guidelines for judges less draconian. And one of Jackson’s family members was <a href="https://www.npr.org/2022/02/14/1078086453/ketanji-brown-jackson-supreme-court-biden" target="_blank" rel="noopener">caught up in the war on drugs directly</a>. Her uncle was sentenced to life in prison for a nonviolent drug crime under a “three strikes” law. Years later, President Barack Obama commuted his sentence.</p>
-
-
-
-<p data-paragraph="main">Those life experiences are unusual for federal judges, who have often <a href="https://fivethirtyeight.com/features/how-biden-is-reshaping-the-courts/" target="_blank" rel="noopener">spent their careers as prosecutors or corporate lawyers</a>. <a href="https://scholar.harvard.edu/files/msen/files/harris-sen-public-defenders.pdf" target="_blank" rel="noopener">There’s evidence</a> that criminal defense experience does have an impact on judges’ decision-making; a study found that defendants assigned to a judge with that kind of experience are, on average, less likely to be incarcerated. And although Jackson has never commented publicly on her uncle’s case, it seems possible that watching a family member go through the criminal justice system may have given her different views about issues like sentencing, which come up not infrequently in Supreme Court cases.</p>
-
-
-
-<p data-paragraph="main">But the background that makes Jackson appealing to liberals could make her confirmation process even more contentious. Granted, she hasn’t been especially controversial in the past. When she was nominated to the district court in 2012, former Republican Rep. Paul Ryan — <a href="https://abcnews.go.com/Politics/potential-supreme-court-nominee-family-house-speaker-paul/story?id=37187861" target="_blank" rel="noopener">who’s a relative of Jackson’s by marriage</a> — testified in her favor. And when she was appointed to the D.C. Circuit last year, three Republican senators — Lisa Murkowski, Lindsey Graham and Susan Collins — <a href="https://fivethirtyeight.com/features/why-joe-manchin-and-kyrsten-sinema-will-probably-vote-for-bidens-supreme-court-pick/" target="_blank" rel="noopener">crossed the aisle to vote for her</a>. Graham, however, <a href="https://twitter.com/LindseyGrahamSC/status/1497218172071645195?s=20&amp;t=x1FsqAM1h7qz2BN-j06c7w" target="_blank" rel="noopener">has already indicated</a> that he’ll be taking a very different position on Jackson this time, tweeting that “the radical Left has won President Biden over yet again.”</p>
-
-
-
-<p data-paragraph="main">So she’s unlikely to get full-throated support from Republicans this time. The question is how much of a fuss they want to make, considering that no matter how liberal Jackson turns out to be, her confirmation won’t shift the conservative tilt of the court.</p>
-
-
-
-<p data-paragraph="main"><em>Additional analysis by Laura Bronner.</em></p>]]></description>
-			<pubDate>Fri, 25 Feb 2022 16:04:00 +0000</pubDate>
-			<guid isPermaLink="false">1645805701532237</guid>
 		</item>
 
 	</channel>
