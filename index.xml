@@ -3,9 +3,266 @@
 		<title>Main stream | FreshRSS</title>
 		<link>http://radon</link>
 		<description>RSS feed of Main stream | FreshRSS</description>
-		<pubDate>Wed, 16 Mar 2022 10:29:06 +0000</pubDate>
-		<lastBuildDate>Wed, 16 Mar 2022 10:29:06 GMT</lastBuildDate>
+		<pubDate>Wed, 16 Mar 2022 10:59:06 +0000</pubDate>
+		<lastBuildDate>Wed, 16 Mar 2022 10:59:06 GMT</lastBuildDate>
 		<atom:link href="http://radon/i/?a=rss" rel="self" type="application/rss+xml" />
+		<item>
+			<title>Is Biden’s Approval Rating Really Rebounding?</title>
+			<link>https://fivethirtyeight.com/features/is-bidens-approval-rating-really-rebounding/</link>
+						<dc:creator>Sarah Frostenson</dc:creator>
+			<dc:creator>A FiveThirtyEight Chat</dc:creator>
+			<category>Joe Biden</category>
+			<category>Presidential Approval</category>
+			<category>Russia Invasion</category>
+			<category>Slack Chat</category>
+			<category>Ukraine Crisis</category>
+			<description><![CDATA[<div>
+
+			<div>
+
+				<header><div>
+													<p><a href="https://fivethirtyeight.com/tag/presidential-approval/" name="">Presidential Approval</a></p>
+						
+						<h1>Is Biden’s Approval Rating Really Rebounding?
+
+</h1>
+
+											</div>
+
+										<div>
+						<div>
+															<p><span>A FiveThirtyEight Chat</span></p>
+							
+							<p>
+								<time>Mar. 16, 2022</time>,
+								at
+								<time title="2022-03-16T10:00:00+00:00">6:00 AM</time></p>
+
+						</div>
+						<div>
+													</div> 
+					</div>
+					
+				</header><figure><span>
+									<div>
+						<picture><source media="(min-width: 768px)"><source><img alt="SlackChat_0316-4×3" src="https://fivethirtyeight.com/wp-content/uploads/2022/03/SlackChat_0316-4x3-1.png?w=575" data-sizes="(max-width: 768px) 100vw, (max-width: 1080px) 66vw, 684px" data-src="https://fivethirtyeight.com/wp-content/uploads/2022/03/SlackChat_0316-4x3-1.png?w=575" data-srcset="https://fivethirtyeight.com/wp-content/uploads/2022/03/SlackChat_0316-4x3-1.png?w=575 1x, https://fivethirtyeight.com/wp-content/uploads/2022/03/SlackChat_0316-4x3-1.png?w=1150 2x"></source></source></picture></div>
+
+				
+			</span>
+
+			
+						
+		</figure></div>
+
+			
+		</div>
+
+
+
+
+
+<p data-paragraph="main">Welcome to FiveThirtyEight’s <a href="https://fivethirtyeight.com/tag/slack-chat/" target="_blank" rel="noopener">politics chat</a>. The transcript below has been lightly edited.</p>
+
+
+
+<div><hr><span></span></div>
+
+
+
+
+<p data-paragraph="main"><strong>sarah </strong>(<a href="https://fivethirtyeight.com/contributors/sarah-frostenson/" target="_blank" rel="noopener">Sarah Frostenson</a>, politics editor): In the last two weeks or so, President Biden’s approval rating has ticked up from 41.1 percent to 42.9 percent, according to <a href="https://projects.fivethirtyeight.com/biden-approval-rating/" target="_blank" rel="noopener">FiveThirtyEight’s presidential approval tracker</a>.<a data-footnote-id="1" href="https://fivethirtyeight.com/wp-json/wp/v2/espn_verticals/398#fn-1" data-footnote-content="&lt;p&gt;&lt;p&gt;As of 5 p.m. Eastern on Tuesday.&lt;/p&gt;
+&lt;/p&gt;"><sup>1</sup></a> The share of Americans who disapprove of the job he’s doing has ticked down, too, from 53.6 percent to 52.3 percent.</p>
+
+
+
+<figure><img loading="lazy" width="2046" height="904" src="https://fivethirtyeight.com/wp-content/uploads/2022/03/Screen-Shot-2022-03-15-at-6.02.09-PM.png" alt="" data-src="https://fivethirtyeight.com/wp-content/uploads/2022/03/Screen-Shot-2022-03-15-at-6.02.09-PM.png" data-srcset="https://fivethirtyeight.com/wp-content/uploads/2022/03/Screen-Shot-2022-03-15-at-6.02.09-PM.png?w=700 1x, https://fivethirtyeight.com/wp-content/uploads/2022/03/Screen-Shot-2022-03-15-at-6.02.09-PM.png?w=1400 2x"></figure><p data-paragraph="main">Historically, State of the Union addresses <a href="https://fivethirtyeight.com/features/why-bidens-first-state-of-the-union-might-not-change-much/" target="_blank" rel="noopener">haven’t moved the needle much</a>, but Biden seems to have benefited at least a little bit from his March 1 address — perhaps in large part because it allowed him to once again address Russia’s ongoing invasion of Ukraine and the U.S.’s response.</p>
+
+
+
+<p data-paragraph="main">It’s hard to know whether this current bump will last, but let’s tackle Biden’s approval rating in two parts. First, what do we know about why his approval rating has ticked up? Can we point to certain issues or groups where his standing has improved? Second, how should we think about this uptick? Is it a sign of things turning around for Biden, or is it more of a blip?</p>
+
+
+
+<p data-paragraph="main">OK, first up, why do we think Biden’s approval rating is inching up?</p>
+
+
+
+<p data-paragraph="main"><strong>nrakich</strong> (<a href="https://fivethirtyeight.com/contributors/nathaniel-rakich/" target="_blank" rel="noopener">Nathaniel Rakich</a>, senior elections analyst): It’s impossible to totally disentangle all the events of the past month or so, but I think the simplest answer (which is <a href="https://en.wikipedia.org/wiki/Occam%27s_razor" target="_blank" rel="noopener">usually the right one</a>) is the crisis in Ukraine.</p>
+
+
+
+<p data-paragraph="main"><a href="https://maristpoll.marist.edu/polls/npr-pbs-newshour-marist-national-poll-bounce-for-biden-following-state-of-the-union-march-2022/" target="_blank" rel="noopener">According to Marist/NPR/PBS</a>, Biden’s approval/disapproval spread on the issue of Ukraine shot up from 34/50 in mid-February to 52/44 in early March. His overall approval/disapproval increased from 39/55 to 47/50. And <a href="https://morningconsult.com/2022/03/08/biden-approval-improves-state-of-the-union-ukraine/" target="_blank" rel="noopener">according to Morning Consult/Politico</a>, his approval/disapproval on Ukraine went from 42/45 in late February to 46/42 in early March. His overall approval/disapproval went from 41/56 to 45/51 over that same span. </p>
+
+
+
+<p data-paragraph="main"><strong>ameliatd </strong>(<a href="https://fivethirtyeight.com/contributors/amelia-thomson-deveaux/" target="_blank" rel="noopener">Amelia Thomson-DeVeaux</a>, senior writer): At the start of the Ukraine crisis, Americans were on board with the steps that Biden was taking but still <a href="https://fivethirtyeight.com/features/how-will-americans-grade-bidens-handling-of-the-crisis-in-ukraine/" target="_blank" rel="noopener">didn’t approve of his handling of the crisis</a>. It now seems, though, that some folks are giving him credit. </p>
+
+
+
+<p data-paragraph="main"><strong>nrakich:</strong> Exactly, Amelia. And I think overall media coverage has had more to do with that than the State of the Union. Cable news has <a href="https://fivethirtyeight.com/features/americans-care-about-the-invasion-of-ukraine-but-that-doesnt-mean-they-will-rally-around-biden/" target="_blank" rel="noopener">covered the war in Ukraine very intensely</a>. For example, on Feb. 24, the day after Russia started its invasion,<a data-footnote-id="2" href="https://fivethirtyeight.com/wp-json/wp/v2/espn_verticals/398#fn-2" data-footnote-content="&lt;p&gt;&lt;p&gt;Russia actually started to invade early on the morning of Feb. 24 in Ukraine, but it was still late on Feb. 23 in the U.S.&lt;/p&gt;
+&lt;/p&gt;"><sup>2</sup></a> <a href="https://api.gdeltproject.org/api/v2/summary/summary?d=iatv&amp;t=summary&amp;k=Ukraine&amp;ts=custom&amp;sdt=20220101000000&amp;edt=20220313235959&amp;fs=station%3ACNN&amp;fs=station%3AFOXNEWS&amp;fs=station%3AMSNBC&amp;fcs=comb&amp;fdn=raw&amp;fdr=day&amp;fdt=-05%3A00&amp;svt=zoom&amp;svts=zoom&amp;swvt=zoom&amp;ssc=yes&amp;sshc=yes&amp;swc=yes&amp;stcl=yes&amp;c=1" target="_blank" rel="noopener">Ukraine was mentioned in 3,095 15-second clips on CNN, Fox News and MSNBC</a>. To put that in perspective, on Election Day 2020, former President Donald Trump was mentioned by name in <a href="https://api.gdeltproject.org/api/v2/summary/summary?d=iatv&amp;t=summary&amp;k=trump&amp;ts=custom&amp;sdt=20201101000000&amp;edt=20201108235959&amp;fs=station%3ACNN&amp;fs=station%3AFOXNEWS&amp;fs=station%3AMSNBC&amp;fcs=comb&amp;fdn=raw&amp;fdr=day&amp;fdt=-05%3A00&amp;svt=zoom&amp;svts=zoom&amp;swvt=zoom&amp;ssc=yes&amp;sshc=yes&amp;swc=yes&amp;stcl=yes&amp;c=1" target="_blank" rel="noopener">only 2,675 clips</a>.<a data-footnote-id="3" href="https://fivethirtyeight.com/wp-json/wp/v2/espn_verticals/398#fn-3" data-footnote-content="&lt;p&gt;&lt;p&gt;We ran a search of CNN, Fox News and MSNBC coverage so far this year in the Television News Archive using the GDELT Television API. In that database, daily news footage is split into 15-second clips, and searches return the clips that contain a mention of our search query (“Ukraine”). The cutoff for measuring coverage for any given day is midnight Eastern.&lt;/p&gt;
+&lt;/p&gt;"><sup>3</sup></a></p>
+
+
+
+<figure><div>
+<div><iframe title="Ukraine is dominating cable news" aria-label="Interactive line chart" src="https://datawrapper.dwcdn.net/nbA1g/9/" scrolling="no" frameborder="0" height="575" sandbox="allow-scripts allow-same-origin"></iframe></div>
+</div></figure><p data-paragraph="main">That level of media coverage matters, especially when Americans <a href="https://fivethirtyeight.com/features/americans-currently-support-sanctioning-russia-for-invading-ukraine-but-are-reluctant-to-deploy-troops/" target="_blank" rel="noopener">generally approve of the actions Biden is taking</a> with regard to Ukraine, and is likely more responsible than the State of the Union address for the uptick we see in his approval rating.</p>
+
+
+
+<p data-paragraph="main"><strong>ameliatd:</strong> Although in fairness, Biden <a href="https://www.nytimes.com/2022/03/01/us/politics/biden-sotu-transcript.html" target="_blank" rel="noopener">talked a lot about the war in Ukraine</a> in his State of the Union address, which may have contributed to some of that coverage.</p>
+
+
+
+<p data-paragraph="main">The bigger question for me, though, is who is changing their minds on Biden? Last month, <a href="https://fivethirtyeight.com/features/democrats-have-been-souring-on-biden-since-last-summer/" target="_blank" rel="noopener">Alex<strong> </strong>Samuels and I wrote a story</a> documenting how Biden seemed to have lost his shine among some Democrats starting last summer. If what we're seeing is mostly just Democrats coming back into the fold, that's not as dramatic as a shift among independents (or even — in a crazy world — Republicans!).</p>
+
+
+
+<p data-paragraph="main"><strong>geoffrey.skelley </strong>(<a href="https://fivethirtyeight.com/contributors/geoffrey-skelley/" target="_blank" rel="noopener">Geoffrey Skelley</a>, elections analyst): Right, I don't think we have quite enough data yet to declare that it's down to Democrats supporting Biden more, but that would make the most sense. If Biden's approval ticks up further, that's what I'm mainly watching for. </p>
+
+
+
+<p data-paragraph="main"><strong>ameliatd:</strong> A recent Morning Consult poll indicated Democrats and independents were driving <a href="https://morningconsult.com/2022/03/08/biden-approval-improves-state-of-the-union-ukraine/" target="_blank" rel="noopener">the shift in Biden's approval</a>, but as you said, Geoffrey, it's early days.</p>
+
+
+
+<p data-paragraph="main"><strong>sarah:</strong> What do we see in the data we have so far? After all, a 2-point bump from March 1 <em>isn't</em> a huge shift.</p>
+
+
+
+<p data-paragraph="main"><strong>nrakich:</strong> No, Sarah, it's not a huge shift, and I think that's reflective of the fact that Biden is facing very real headwinds such as inflation. Americans still say <a href="https://www.wsj.com/articles/wsj-poll-biden-ukraine-inflation-midterms-11646975533" target="_blank" rel="noopener">the economy is their top — or one of their top — issues</a>.</p>
+
+
+
+<p data-paragraph="main"><strong>geoffrey.skelley:</strong> It’s really hard to say. Some polls have shown Biden gaining, while others have shown his approval largely unchanged. For instance, CBS News/YouGov put Biden's approval at 44 percent <a href="https://www.cbsnews.com/news/russia-ukraine-biden-state-of-the-union-opinion-poll-2022-02-29/" target="_blank" rel="noopener">in late February</a>, and at 43 percent (so basically the same) <a href="https://www.cbsnews.com/news/russia-ukraine-sanctions-gas-prices-opinion-poll-2022-03-13/" target="_blank" rel="noopener">a week and a half into March</a>.</p>
+
+
+
+<p data-paragraph="main"><strong>nrakich:</strong> Yeah, Quinnipiac also found his overall approval/disapproval mostly unchanged, <a href="https://poll.qu.edu/poll-release?releaseid=3835" target="_blank" rel="noopener">from 35/55 in mid-February</a> to <a href="https://poll.qu.edu/poll-release?releaseid=3838" target="_blank" rel="noopener">38/51 in early March</a>, even as Americans warmed to his handling of Ukraine, which went from 34/54 to 42/45. </p>
+
+
+
+<p data-paragraph="main"><strong>sarah:</strong> So ... maybe Biden's approval rating isn't rebounding?</p>
+
+
+
+<p data-paragraph="main"><strong>ameliatd:</strong> Well, I think it's important to remember that this is happening in the context of <a href="https://fivethirtyeight.com/features/why-americans-may-or-may-not-blame-biden-for-higher-gas-prices/" target="_blank" rel="noopener">a big spike in gas prices</a> — which would normally be terrible news for a president's approval rating.</p>
+
+
+
+<p data-paragraph="main">Our colleague Santul Nerkar wrote in December <a href="https://fivethirtyeight.com/features/why-biden-cant-win-on-inflation/" target="_blank" rel="noopener">why inflation is such a powerful political issue</a>, and as you can see in the chart below, inflation often coincides with a sharp drop in a president’s approval </p>
+
+
+
+<figure><img loading="lazy" width="2048" height="1538" src="https://fivethirtyeight.com/wp-content/uploads/2022/03/nerkar.INFLATION.1214a.png" alt="" data-src="https://fivethirtyeight.com/wp-content/uploads/2022/03/nerkar.INFLATION.1214a.png" data-srcset="https://fivethirtyeight.com/wp-content/uploads/2022/03/nerkar.INFLATION.1214a.png?w=700 1x, https://fivethirtyeight.com/wp-content/uploads/2022/03/nerkar.INFLATION.1214a.png?w=1400 2x"></figure><figure><img loading="lazy" width="620" height="4604" src="https://fivethirtyeight.com/wp-content/uploads/2022/03/nerkar.INFLATION.1214-mobile.png" alt="" data-src="https://fivethirtyeight.com/wp-content/uploads/2022/03/nerkar.INFLATION.1214-mobile.png" data-srcset="https://fivethirtyeight.com/wp-content/uploads/2022/03/nerkar.INFLATION.1214-mobile.png?w=620 1x, https://fivethirtyeight.com/wp-content/uploads/2022/03/nerkar.INFLATION.1214-mobile.png?w=1240 2x"></figure><p data-paragraph="main">So even though Biden’s approval rating hasn’t improved by much, it’s notable that it hasn’t gotten worse given how bad inflation is right now. <a href="https://www.nytimes.com/2022/03/10/us/politics/biden-putin-inflation.html" target="_blank" rel="noopener">Some people seem inclined to blame Russian President Vladimir Putin</a> for the current surge in gas prices, but it's not clear how long that will last. It could be a short-lived buffer for Biden if the war drags on and gas prices keep going up.</p>
+
+
+
+<p data-paragraph="main"><strong>geoffrey.skelley:</strong> Biden’s approval rating has more or less ticked up to where it was in January, but it’s still a <em>very</em> small shift.</p>
+
+
+
+<p data-paragraph="main">On the one hand, that isn’t that surprising given just how polarized our politics are; <a href="https://fivethirtyeight.com/features/why-you-should-still-pay-attention-to-joe-bidens-approval-rating/" target="_blank" rel="noopener">small shifts in presidential approval are the order of the day</a> now.<strong> </strong>Rather, what has been surprising about Biden’s approval rating is how much <a href="https://fivethirtyeight.com/features/whats-behind-bidens-declining-approval-rating/" target="_blank" rel="noopener">it dropped in the late summer and early fall</a>, around the time of the messy withdrawal of U.S. troops from Afghanistan and the surge in the delta variant of the coronavirus in the U.S. </p>
+
+
+
+<p data-paragraph="main">Biden’s approval rating declined by nearly 8 points from late July to early September last year, which marked a sharp drop over a fairly short period. Such a sizable and quick swing is unusual in our day and age, in which presidential approval has <a href="https://fivethirtyeight.com/features/trumps-approval-rating-is-incredibly-steady-is-that-weird-or-the-new-normal/" target="_blank" rel="noopener">tended to be pretty stable</a>. This may have partly been due to Biden’s “<a href="https://fivethirtyeight.com/features/what-should-we-expect-of-bidens-approval-rating-in-the-first-few-months/" target="_blank" rel="noopener">honeymoon period</a>” ending pretty quickly, but it was still a precipitous slide: In our historical approval data, Trump’s approval rating never dropped that much in any month-and-a-half period, and former President Barack Obama’s did just once.</p>
+
+
+
+<p data-paragraph="main"><strong>ameliatd:</strong> Do you think we're in a situation, Geoffrey, where presidential approval no longer rebounds quickly? Compared to past periods, it seems easier in our gloomy political era for voters to quickly turn on a president than it is to suddenly decide he's doing OK after all.</p>
+
+
+
+<p data-paragraph="main"><strong>geoffrey.skelley:</strong> Amelia, I would not rule it out entirely, but it would probably take fairly special circumstances, like a particularly strong rally-’round-the-flag moment — a stronger one than we're in now. </p>
+
+
+
+<p data-paragraph="main"><strong>nrakich:</strong> Ah, Geoffrey, you’ve stumbled onto one of my pet peeves! To paraphrase <a href="https://www.youtube.com/watch?v=vimZj8HW0Kg" target="_blank" rel="noopener">LL Cool J</a>, don’t call it a rally-’round-the-flag effect!</p>
+
+
+
+<p data-paragraph="main">As I wrote earlier this month, <a href="https://fivethirtyeight.com/features/americans-care-about-the-invasion-of-ukraine-but-that-doesnt-mean-they-will-rally-around-biden/" target="_blank" rel="noopener">a rally-’round-the-flag effect has two specific causes</a>: heightened patriotism and a lack of criticism from opposition parties. But I’d argue neither condition is met in the U.S. right now. </p>
+
+
+
+<p data-paragraph="main">Instead, I would say what we’re seeing is a very rational public reaction to Biden's handling of the crisis. This may seem like an academic distinction, but I think it's an important one. After all, rally-’round-the-flag effects are about emotion: “I love America, and therefore I love our president!” But Americans’ response to what’s happening in Ukraine has been more rational: “I approve of the president's actions, and therefore I like our president (marginally) more.” </p>
+
+
+
+<p data-paragraph="main"><strong>ameliatd:</strong> One thing that is shifting, though, is that Americans are <a href="https://www.nytimes.com/interactive/2022/03/12/upshot/ukraine-russia-ally-enemy.html" target="_blank" rel="noopener">more likely to see Russia as an enemy</a> and more likely to see Ukraine as a friendly country or an ally. Interestingly, that shift is happening among both Republicans and Democrats, which could explain why we’re not seeing more of a shift in Biden’s approval rating. People are having a reaction to the war — maybe even an emotional one — but it's dampened by partisanship. </p>
+
+
+
+<p data-paragraph="main"><strong>geoffrey.skelley:</strong> Not to mention, there are so many other factors weighing Biden down, such as inflation, the COVID-19 pandemic, supply chain issues, gas prices, etc. If the status quo of any of those issues suddenly improved, Biden's approval would likely improve, too. </p>
+
+
+
+<p data-paragraph="main">Put another way, you need a <em>real</em> rally-’round-the-flag effect to overshadow those issues now, which, to Nathaniel's point, hasn’t happened. </p>
+
+
+
+<p data-paragraph="main"><strong>sarah:</strong> Speaking of which … Americans still generally don’t approve of how Biden is handling the economy and/or the pandemic, right? </p>
+
+
+
+<p data-paragraph="main"><strong>nrakich:</strong> Well, his approval rating on the pandemic has actually improved. In fact, in <a href="https://projects.fivethirtyeight.com/coronavirus-polls/" target="_blank" rel="noopener">our coronavirus presidential approval tracker</a>, he rose above water in early March for the first time since early January. </p>
+
+
+
+<figure><img loading="lazy" width="2018" height="750" src="https://fivethirtyeight.com/wp-content/uploads/2022/03/Screen-Shot-2022-03-15-at-6.00.27-PM.png" alt="" data-src="https://fivethirtyeight.com/wp-content/uploads/2022/03/Screen-Shot-2022-03-15-at-6.00.27-PM.png" data-srcset="https://fivethirtyeight.com/wp-content/uploads/2022/03/Screen-Shot-2022-03-15-at-6.00.27-PM.png?w=700 1x, https://fivethirtyeight.com/wp-content/uploads/2022/03/Screen-Shot-2022-03-15-at-6.00.27-PM.png?w=1400 2x"></figure><p data-paragraph="main">This could reflect the fact that <a href="https://www.nytimes.com/interactive/2021/us/covid-cases.html" target="_blank" rel="noopener">case counts are way down again</a> as the omicron surge has faded — which, of course, could be another reason why Biden’s overall approval rating has ticked up.</p>
+
+
+
+<p data-paragraph="main"><strong>geoffrey.skelley:</strong> At the same time, though, Americans aren’t quite as concerned with the coronavirus as they once were. According to Gallup, <a href="https://news.gallup.com/poll/1675/most-important-problem.aspx" target="_blank" rel="noopener">13 percent of Americans</a> said it was the country's most important problem in February, which is not low in the grand scheme of things, but it is <a href="https://news.gallup.com/poll/354026/satisfaction-drops-covid-resurges-top-problem.aspx" target="_blank" rel="noopener">notably less important to Americans than it has been over the past two years</a>. For much of 2021, around 20 percent or more named the coronavirus as the country’s top challenge, and 45 percent <a href="https://news.gallup.com/poll/349205/fewer-cite-coronavirus-important-problem.aspx" target="_blank" rel="noopener">answered that way in April 2020</a>.</p>
+
+
+
+<p data-paragraph="main"><strong>sarah:</strong> There’s also some evidence that Americans don’t trust Democrats to handle the pandemic as much as they once did. A recent <a href="https://www.wsj.com/articles/wsj-poll-biden-ukraine-inflation-midterms-11646975533?mod=djemalertNEWS" target="_blank" rel="noopener">Wall Street Journal poll</a> found that voters thought Democrats were best able to handle the pandemic — compared to Republicans — by an 11-point margin, but that’s down 5 percentage points from mid-November. </p>
+
+
+
+<p data-paragraph="main">Moreover, as Geoffrey said, the pandemic isn’t the key issue it once was for voters; instead, it’s the economy. And on that issue, Biden gets abysmal ratings. Sixty-three percent of voters said they “somewhat” or “strongly” disapproved of Biden’s handling of inflation and rising costs in that Wall Street Journal poll, with 47 percent saying they thought Republicans were best equipped to handle inflation, versus 30 percent who preferred Democrats. </p>
+
+
+
+<p data-paragraph="main"><strong>ameliatd:</strong> There are just so many forces working against Biden right now. People are <a href="https://www.cnn.com/2022/02/02/politics/unhappiness-americans-gallup-analysis/index.html" target="_blank" rel="noopener">super unhappy</a> in general. It's not hard to see why they'd blame the president for that unhappiness — fairly or unfairly.</p>
+
+
+
+<p data-paragraph="main"><strong>geoffrey.skelley:</strong> The buck stops here, as former President Harry Truman <a href="https://www.trumanlibrary.gov/education/trivia/buck-stops-here-sign" target="_blank" rel="noopener">famously noted</a>, and that's how it goes as president — you get to enjoy the good, but you have to suffer the bad, too.</p>
+
+
+
+<p data-paragraph="main"><strong>sarah:</strong> What should we make of Biden's approval rating, then? Is it showing signs of rebounding? Or not really?</p>
+
+
+
+<p data-paragraph="main"><strong>ameliatd:</strong> I think it's a good sign for Biden that he's getting some Democratic enthusiasm back. He's also on track to appoint <a href="https://fivethirtyeight.com/features/how-ketanji-brown-jackson-could-change-the-supreme-court/" target="_blank" rel="noopener">the first Black woman to the Supreme Court</a> — that's a campaign promise he's making good on. </p>
+
+
+
+<p data-paragraph="main">Maybe things are going from really dire to only kinda sorta dire? That’s, of course, based on my very scientific direness scale. </p>
+
+
+
+<p data-paragraph="main"><strong>geoffrey.skelley:</strong> Biden’s approval has ticked up, but I'm not sure I would call it a rebound. I think we have to wait and see whether his approval rating climbs a bit more. </p>
+
+
+
+<p data-paragraph="main">And to Amelia's point, perhaps that happens due to other factors, like his Supreme Court pick, although I think it’s safe to assume that what’s happening in Ukraine will continue to overshadow most things besides inflation. Still, Biden could benefit if people continue to be OK with his handling of the crisis. Of course that could change, too. </p>
+
+
+
+<p data-paragraph="main"><strong>ameliatd:</strong> I also think we'll have to see how things go. If the war in Ukraine slogs on and prices keep going up, people might stop giving Biden so much credit for his handling of the war — and blame him even more for the economic fallout of the conflict. That's not where we're at right now, obviously, but I could see us getting there in the future.</p>
+
+
+
+<p data-paragraph="main"><strong>nrakich:</strong> On The Bachelor, contestants often say “I'm falling in love with you” instead of “I love you” because, well, they've only known these people for a few weeks. In the same vein, yes, Biden's approval rating is “showing signs of rebounding,” but it certainly hasn't “rebounded.”</p>]]></description>
+			<pubDate>Wed, 16 Mar 2022 10:00:00 +0000</pubDate>
+			<guid isPermaLink="false">1647426601508013</guid>
+		</item>
 		<item>
 			<title>How Republicans Are Thinking About Trumpism Without Trump</title>
 			<link>https://fivethirtyeight.com/features/how-republicans-are-thinking-about-trumpism-without-trump/</link>
@@ -240,12 +497,12 @@
 
 
 
-<figure><img width="1150" height="1210" src="https://fivethirtyeight.com/wp-content/uploads/2022/03/masket.CENSURES.0309-1.png" alt="" data-src="https://fivethirtyeight.com/wp-content/uploads/2022/03/masket.CENSURES.0309-1.png" data-srcset="https://fivethirtyeight.com/wp-content/uploads/2022/03/masket.CENSURES.0309-1.png?w=700 1x, https://fivethirtyeight.com/wp-content/uploads/2022/03/masket.CENSURES.0309-1.png?w=1400 2x"></figure><p data-paragraph="main">The pattern is pretty striking. Censures by county parties were until recently a rare event, affecting somewhere between zero and three people per year, I found. Most were issued over relatively modest local or factional party disputes. Republicans in Bexar County, Texas, for example, <a href="https://www.mysanantonio.com/news/local/article/Straus-censured-by-Bexar-County-GOP-12425417.php" target="_blank" rel="noopener">censured then-state House Speaker Joe Straus</a> for blocking a number of conservative bills in 2017. In Mohave County, Arizona Republicans <a href="https://www.havasunews.com/news/paul-mosley-censured-by-county-gop/article_0a05e526-87f0-11e8-993f-f3735fa604c0.html" target="_blank" rel="noopener">censured state Rep. Paul Mosley</a> in 2018 for “conduct unbecoming” after he tried to abuse his position as a state legislator in order to get out of a traffic ticket. </p>
+<figure><img loading="lazy" width="1150" height="1210" src="https://fivethirtyeight.com/wp-content/uploads/2022/03/masket.CENSURES.0309-1.png" alt="" data-src="https://fivethirtyeight.com/wp-content/uploads/2022/03/masket.CENSURES.0309-1.png" data-srcset="https://fivethirtyeight.com/wp-content/uploads/2022/03/masket.CENSURES.0309-1.png?w=700 1x, https://fivethirtyeight.com/wp-content/uploads/2022/03/masket.CENSURES.0309-1.png?w=1400 2x"></figure><p data-paragraph="main">The pattern is pretty striking. Censures by county parties were until recently a rare event, affecting somewhere between zero and three people per year, I found. Most were issued over relatively modest local or factional party disputes. Republicans in Bexar County, Texas, for example, <a href="https://www.mysanantonio.com/news/local/article/Straus-censured-by-Bexar-County-GOP-12425417.php" target="_blank" rel="noopener">censured then-state House Speaker Joe Straus</a> for blocking a number of conservative bills in 2017. In Mohave County, Arizona Republicans <a href="https://www.havasunews.com/news/paul-mosley-censured-by-county-gop/article_0a05e526-87f0-11e8-993f-f3735fa604c0.html" target="_blank" rel="noopener">censured state Rep. Paul Mosley</a> in 2018 for “conduct unbecoming” after he tried to abuse his position as a state legislator in order to get out of a traffic ticket. </p>
 
 
 
-<p data-paragraph="main">But starting in 2020, the types of censures county parties issued shifted — both censures issued in 2020, for instance, had to do with COVID-19 mask mandates. In 2021, I found, there was just a dramatic increase in county-level censures, especially among Republican county parties. Republican county parties censured 23 GOP officeholders in 2021 compared to Democrats’ five, and what’s more, most Republican censures were tied in some way to the 2020 election, the subsequent Jan. 6 insurrection or the ensuing fallout.<a data-footnote-id="1" href="https://fivethirtyeight.com/wp-json/wp/v2/espn_verticals/398#fn-1" data-footnote-content='&lt;p&gt;&lt;p&gt;Notably, I have organized the county censure data by the number of individuals censured, which can be tricky. There are only five Democratic censures here, for example, and four of them were actually done in the same resolution, passed by the Democratic Party of Palm Beach County, Florida, to &lt;a href="https://www.palmbeachpost.com/story/news/education/2021/06/04/pbc-dems-censure-school-board-members-over-white-advantage-reversal/7541548002/" target="_blank" rel="noopener"&gt;chastise four school board members&lt;/a&gt; for removing the phrase “white advantage” from a statement about equity.&lt;/p&gt;
-&lt;/p&gt;'><sup>1</sup></a>Although censures are still relatively rare events — I found just 34 of them in more than 3,000 counties over the past seven years — the uptick in the last year signals a growing form of radicalism among local party committees. All of this points to yet another signal of a Republican Party undergoing a purge. Parties often wage ideological fights in their primary contests, but primaries take time. In this rash of recent censures, we’re seeing county party leaders trying to more emphatically assert which faction of the party is in charge, and as I’ve documented above, that could dramatically reshape the GOP at its most fundamental levels of government</p>]]></description>
+<p data-paragraph="main">But starting in 2020, the types of censures county parties issued shifted — both censures issued in 2020, for instance, had to do with COVID-19 mask mandates. In 2021, I found, there was just a dramatic increase in county-level censures, especially among Republican county parties. Republican county parties censured 23 GOP officeholders in 2021 compared to Democrats’ five, and what’s more, most Republican censures were tied in some way to the 2020 election, the subsequent Jan. 6 insurrection or the ensuing fallout.<a data-footnote-id="4" href="https://fivethirtyeight.com/wp-json/wp/v2/espn_verticals/398#fn-4" data-footnote-content='&lt;p&gt;&lt;p&gt;Notably, I have organized the county censure data by the number of individuals censured, which can be tricky. There are only five Democratic censures here, for example, and four of them were actually done in the same resolution, passed by the Democratic Party of Palm Beach County, Florida, to &lt;a href="https://www.palmbeachpost.com/story/news/education/2021/06/04/pbc-dems-censure-school-board-members-over-white-advantage-reversal/7541548002/" target="_blank" rel="noopener"&gt;chastise four school board members&lt;/a&gt; for removing the phrase “white advantage” from a statement about equity.&lt;/p&gt;
+&lt;/p&gt;'><sup>4</sup></a>Although censures are still relatively rare events — I found just 34 of them in more than 3,000 counties over the past seven years — the uptick in the last year signals a growing form of radicalism among local party committees. All of this points to yet another signal of a Republican Party undergoing a purge. Parties often wage ideological fights in their primary contests, but primaries take time. In this rash of recent censures, we’re seeing county party leaders trying to more emphatically assert which faction of the party is in charge, and as I’ve documented above, that could dramatically reshape the GOP at its most fundamental levels of government</p>]]></description>
 			<pubDate>Mon, 14 Mar 2022 10:00:00 +0000</pubDate>
 			<guid isPermaLink="false">1647255601602463</guid>
 		</item>
@@ -311,13 +568,13 @@
 
 
 
-<ul><li>On Tuesday, President Biden announced <a href="https://abcnews.go.com/Politics/biden-announces-ban-russian-oil-imports-energy-products/story?id=83315763">a ban on Russian oil and energy imports</a>, and it turns out that many Americans support this decision, even if this results in higher gas prices. When asked directly if they would support imposing sanctions on Russian oil even if it led to higher fuel prices, <a href="https://poll.qu.edu/poll-release?releaseid=3838">71 percent</a> of Americans (from a Mar. 4-6 Quinnipiac University poll) and <a href="https://www.wsj.com/livecoverage/russia-ukraine-latest-news-2022-03-08/card/wsj-poll-79-of-americans-back-ban-on-russian-oil-even-if-energy-prices-rise-niT9f6YRH5wRWe4pbhNv">79 percent</a> (from a Mar. 4-7 Wall Street Journal/Fabrizio, Lee &amp; Associates/ALG Research poll) said yes. When some pollsters included the option to support sanctions but<em> not</em> if they increased oil prices, support for sanctions was less consistently high. Sixty-nine percent of Americans supported sanctions even if they increased U.S. energy prices, and 12 percent supported sanctions as long as they <em>didn’t</em> increase prices, according to <a href="https://maristpoll.marist.edu/wp-content/uploads/2022/03/NPR_PBS-NewsHour_Marist-Poll_USA-NOS-and-Tables_202203010901.pdf">a Mar. 1-2 poll</a> from Marist College/NPR/PBS NewsHour. However, <a href="https://docs.cdn.yougov.com/nnyqh3ib1d/econToplines.pdf">a Mar. 5-8 The Economist/YouGov poll</a> of Americans found much lower support (46 percent supported sanctions regardless of their effect on U.S. gas prices, but 27 percent supported sanctions only if they didn’t raise prices) as did a <a href="https://morningconsult.com/2022/03/07/russian-oil-embargo-polling-ukraine-crisis/">Mar. 5-7 Morning Consult poll</a> of registered voters (49 percent supported sanctions regardless of their effect on U.S. gas prices, but 28 percent supported sanctions only if they didn’t raise prices).</li><li>A plurality of Americans (42 percent) felt that <a href="https://docs.cdn.yougov.com/omtmdczu48/econToplines.pdf">parents should have the final say</a> over whether K-12 students are required to wear masks in school, according to a Feb. 26-Mar. 1 poll from The Economist/YouGov. Twenty-two percent said it should be up to school administrators, 14 percent were unsure and 13 percent said the government, while just 7 percent said this responsibility should fall to teachers.</li><li><a href="https://www.surveymonkey.com/curiosity/lat-mlb-lockout/">The Major League Baseball lockout is dampening interest</a> in the season among baseball fans, though most aren’t following the dispute closely, according to a Mar. 3-7 poll from the Los Angeles Times/SurveyMonkey. Sixty percent of fans said the dispute had caused them to lose interest in the season, but 78 percent said they weren’t closely following the lockout. In terms of who to blame for the dispute, baseball fans were split between blaming the lockout on both the players and the owners (49 percent) and blaming just the owners (31 percent).</li><li>Over three-quarters of European women<a data-footnote-id="2" href="https://fivethirtyeight.com/wp-json/wp/v2/espn_verticals/398#fn-2" data-footnote-content="&lt;p&gt;&lt;p&gt;Defined as women aged 15 and older who live in one of the 27 member countries of the European Union.&lt;/p&gt;
-&lt;/p&gt;"><sup>2</sup></a> thought that <a href="https://www.ipsos.com/sites/default/files/ct/news/documents/2022-03/Women_in_times_of_Covid19_2022_ep_eb_fl_report_en.pdf">the COVID-19 pandemic had led to at least a small increase of violence against women</a> in their country, according to a Jan. 25-Feb. 3 poll from Ipsos European Public Affairs, commissioned by the European Parliament. Women from Greece (93 percent) and Portugal (90 percent) were the most likely to say the pandemic had increased violence against women in their country, while less than half of Finnish (48 percent) and Hungarian (47 percent) women said the same.</li><li>Though it’s hardly a resounding vote of confidence, Americans seem to be giving <a href="https://fivethirtyeight.com/features/how-will-americans-grade-bidens-handling-of-the-crisis-in-ukraine/">Biden better marks for how he is handling the crisis in Ukraine</a>. According to the aforementioned Marist College/NPR/PBS NewsHour poll from Mar. 1-2, 52 percent now said they approved of Biden’s leadership in Ukraine, versus <a href="https://maristpoll.marist.edu/polls/npr-pbs-newshour-marist-national-poll-the-biden-administration-heading-into-the-state-of-the-union-address-february-2022/">34 percent in a Feb. 15-21 poll</a>. Polls from Morning Consult/Politico showed a similar but less pronounced trend: A Mar. 4-6 poll found <a href="https://assets.morningconsult.com/wp-uploads/2022/03/08161506/2203034_crosstabs_POLITICO_RVs_v1_SH.pdf">47 percent of registered voters approved of Biden’s handling of the crisis in Ukraine</a>, versus <a href="https://assets.morningconsult.com/wp-uploads/2022/02/22150612/2202139_crosstabs_POLITICO_RVs_v1_SH.pdf">40 percent from Feb. 19-21</a>.</li></ul><h2><strong>Biden approval</strong></h2>
+<ul><li>On Tuesday, President Biden announced <a href="https://abcnews.go.com/Politics/biden-announces-ban-russian-oil-imports-energy-products/story?id=83315763">a ban on Russian oil and energy imports</a>, and it turns out that many Americans support this decision, even if this results in higher gas prices. When asked directly if they would support imposing sanctions on Russian oil even if it led to higher fuel prices, <a href="https://poll.qu.edu/poll-release?releaseid=3838">71 percent</a> of Americans (from a Mar. 4-6 Quinnipiac University poll) and <a href="https://www.wsj.com/livecoverage/russia-ukraine-latest-news-2022-03-08/card/wsj-poll-79-of-americans-back-ban-on-russian-oil-even-if-energy-prices-rise-niT9f6YRH5wRWe4pbhNv">79 percent</a> (from a Mar. 4-7 Wall Street Journal/Fabrizio, Lee &amp; Associates/ALG Research poll) said yes. When some pollsters included the option to support sanctions but<em> not</em> if they increased oil prices, support for sanctions was less consistently high. Sixty-nine percent of Americans supported sanctions even if they increased U.S. energy prices, and 12 percent supported sanctions as long as they <em>didn’t</em> increase prices, according to <a href="https://maristpoll.marist.edu/wp-content/uploads/2022/03/NPR_PBS-NewsHour_Marist-Poll_USA-NOS-and-Tables_202203010901.pdf">a Mar. 1-2 poll</a> from Marist College/NPR/PBS NewsHour. However, <a href="https://docs.cdn.yougov.com/nnyqh3ib1d/econToplines.pdf">a Mar. 5-8 The Economist/YouGov poll</a> of Americans found much lower support (46 percent supported sanctions regardless of their effect on U.S. gas prices, but 27 percent supported sanctions only if they didn’t raise prices) as did a <a href="https://morningconsult.com/2022/03/07/russian-oil-embargo-polling-ukraine-crisis/">Mar. 5-7 Morning Consult poll</a> of registered voters (49 percent supported sanctions regardless of their effect on U.S. gas prices, but 28 percent supported sanctions only if they didn’t raise prices).</li><li>A plurality of Americans (42 percent) felt that <a href="https://docs.cdn.yougov.com/omtmdczu48/econToplines.pdf">parents should have the final say</a> over whether K-12 students are required to wear masks in school, according to a Feb. 26-Mar. 1 poll from The Economist/YouGov. Twenty-two percent said it should be up to school administrators, 14 percent were unsure and 13 percent said the government, while just 7 percent said this responsibility should fall to teachers.</li><li><a href="https://www.surveymonkey.com/curiosity/lat-mlb-lockout/">The Major League Baseball lockout is dampening interest</a> in the season among baseball fans, though most aren’t following the dispute closely, according to a Mar. 3-7 poll from the Los Angeles Times/SurveyMonkey. Sixty percent of fans said the dispute had caused them to lose interest in the season, but 78 percent said they weren’t closely following the lockout. In terms of who to blame for the dispute, baseball fans were split between blaming the lockout on both the players and the owners (49 percent) and blaming just the owners (31 percent).</li><li>Over three-quarters of European women<a data-footnote-id="5" href="https://fivethirtyeight.com/wp-json/wp/v2/espn_verticals/398#fn-5" data-footnote-content="&lt;p&gt;&lt;p&gt;Defined as women aged 15 and older who live in one of the 27 member countries of the European Union.&lt;/p&gt;
+&lt;/p&gt;"><sup>5</sup></a> thought that <a href="https://www.ipsos.com/sites/default/files/ct/news/documents/2022-03/Women_in_times_of_Covid19_2022_ep_eb_fl_report_en.pdf">the COVID-19 pandemic had led to at least a small increase of violence against women</a> in their country, according to a Jan. 25-Feb. 3 poll from Ipsos European Public Affairs, commissioned by the European Parliament. Women from Greece (93 percent) and Portugal (90 percent) were the most likely to say the pandemic had increased violence against women in their country, while less than half of Finnish (48 percent) and Hungarian (47 percent) women said the same.</li><li>Though it’s hardly a resounding vote of confidence, Americans seem to be giving <a href="https://fivethirtyeight.com/features/how-will-americans-grade-bidens-handling-of-the-crisis-in-ukraine/">Biden better marks for how he is handling the crisis in Ukraine</a>. According to the aforementioned Marist College/NPR/PBS NewsHour poll from Mar. 1-2, 52 percent now said they approved of Biden’s leadership in Ukraine, versus <a href="https://maristpoll.marist.edu/polls/npr-pbs-newshour-marist-national-poll-the-biden-administration-heading-into-the-state-of-the-union-address-february-2022/">34 percent in a Feb. 15-21 poll</a>. Polls from Morning Consult/Politico showed a similar but less pronounced trend: A Mar. 4-6 poll found <a href="https://assets.morningconsult.com/wp-uploads/2022/03/08161506/2203034_crosstabs_POLITICO_RVs_v1_SH.pdf">47 percent of registered voters approved of Biden’s handling of the crisis in Ukraine</a>, versus <a href="https://assets.morningconsult.com/wp-uploads/2022/02/22150612/2202139_crosstabs_POLITICO_RVs_v1_SH.pdf">40 percent from Feb. 19-21</a>.</li></ul><h2><strong>Biden approval</strong></h2>
 
 
 
-<figure><img loading="lazy" width="1150" height="920" src="https://fivethirtyeight.com/wp-content/uploads/2022/03/biden-approval-rating-2-1.png" alt="" data-src="https://fivethirtyeight.com/wp-content/uploads/2022/03/biden-approval-rating-2-1.png" data-srcset="https://fivethirtyeight.com/wp-content/uploads/2022/03/biden-approval-rating-2-1.png?w=700 1x, https://fivethirtyeight.com/wp-content/uploads/2022/03/biden-approval-rating-2-1.png?w=1400 2x"></figure><p data-paragraph="main">According to FiveThirtyEight’s <a href="https://projects.fivethirtyeight.com/biden-approval-rating/" target="_blank" rel="noopener">presidential approval tracker</a>,<a data-footnote-id="3" href="https://fivethirtyeight.com/wp-json/wp/v2/espn_verticals/398#fn-3" data-footnote-content="&lt;p&gt;&lt;p&gt;As of 5 p.m. Eastern on Thursday.&lt;/p&gt;
-&lt;/p&gt;"><sup>3</sup></a> 42.5 percent of Americans approve of the job Biden is doing as president, while 51.6 percent disapprove (a net approval rating of -9.1 points). At this time <a href="https://fivethirtyeight.com/features/americans-are-still-unsure-how-the-u-s-should-respond-to-the-invasion-of-ukraine/" target="_blank" rel="noopener">last week</a>, 41.6 percent approved and 52.9 percent disapproved (a net approval rating of -11.3 points). One month ago, Biden had an approval rating of 41.3 percent and a disapproval rating of 52.6 percent, for a net approval rating of -11.3 points.</p>
+<figure><img loading="lazy" width="1150" height="920" src="https://fivethirtyeight.com/wp-content/uploads/2022/03/biden-approval-rating-2-1.png" alt="" data-src="https://fivethirtyeight.com/wp-content/uploads/2022/03/biden-approval-rating-2-1.png" data-srcset="https://fivethirtyeight.com/wp-content/uploads/2022/03/biden-approval-rating-2-1.png?w=700 1x, https://fivethirtyeight.com/wp-content/uploads/2022/03/biden-approval-rating-2-1.png?w=1400 2x"></figure><p data-paragraph="main">According to FiveThirtyEight’s <a href="https://projects.fivethirtyeight.com/biden-approval-rating/" target="_blank" rel="noopener">presidential approval tracker</a>,<a data-footnote-id="6" href="https://fivethirtyeight.com/wp-json/wp/v2/espn_verticals/398#fn-6" data-footnote-content="&lt;p&gt;&lt;p&gt;As of 5 p.m. Eastern on Thursday.&lt;/p&gt;
+&lt;/p&gt;"><sup>6</sup></a> 42.5 percent of Americans approve of the job Biden is doing as president, while 51.6 percent disapprove (a net approval rating of -9.1 points). At this time <a href="https://fivethirtyeight.com/features/americans-are-still-unsure-how-the-u-s-should-respond-to-the-invasion-of-ukraine/" target="_blank" rel="noopener">last week</a>, 41.6 percent approved and 52.9 percent disapproved (a net approval rating of -11.3 points). One month ago, Biden had an approval rating of 41.3 percent and a disapproval rating of 52.6 percent, for a net approval rating of -11.3 points.</p>
 
 
 
@@ -325,8 +582,8 @@
 
 
 
-<figure><img loading="lazy" width="1150" height="920" src="https://fivethirtyeight.com/wp-content/uploads/2022/03/generic-ballot-2-1.png" alt="" data-src="https://fivethirtyeight.com/wp-content/uploads/2022/03/generic-ballot-2-1.png" data-srcset="https://fivethirtyeight.com/wp-content/uploads/2022/03/generic-ballot-2-1.png?w=700 1x, https://fivethirtyeight.com/wp-content/uploads/2022/03/generic-ballot-2-1.png?w=1400 2x"></figure><p data-paragraph="main">In our average of polls of the <a href="https://projects.fivethirtyeight.com/congress-generic-ballot-polls/" target="_blank" rel="noopener">generic congressional ballot</a>,<a data-footnote-id="4" href="https://fivethirtyeight.com/wp-json/wp/v2/espn_verticals/398#fn-4" data-footnote-content="&lt;p&gt;&lt;p&gt;As of 5 p.m. Eastern on Thursday.&lt;/p&gt;
-&lt;/p&gt;"><sup>4</sup></a> Republicans currently lead by 2.1 percentage points (44.8 percent to 42.7 percent). A week ago, Republicans led Democrats by 2.2 points (44.8 percent to 42.6 percent). At this time last month, voters preferred Republicans by 2.0 points (44.4 percent to 42.4 percent).</p>]]></description>
+<figure><img loading="lazy" width="1150" height="920" src="https://fivethirtyeight.com/wp-content/uploads/2022/03/generic-ballot-2-1.png" alt="" data-src="https://fivethirtyeight.com/wp-content/uploads/2022/03/generic-ballot-2-1.png" data-srcset="https://fivethirtyeight.com/wp-content/uploads/2022/03/generic-ballot-2-1.png?w=700 1x, https://fivethirtyeight.com/wp-content/uploads/2022/03/generic-ballot-2-1.png?w=1400 2x"></figure><p data-paragraph="main">In our average of polls of the <a href="https://projects.fivethirtyeight.com/congress-generic-ballot-polls/" target="_blank" rel="noopener">generic congressional ballot</a>,<a data-footnote-id="7" href="https://fivethirtyeight.com/wp-json/wp/v2/espn_verticals/398#fn-7" data-footnote-content="&lt;p&gt;&lt;p&gt;As of 5 p.m. Eastern on Thursday.&lt;/p&gt;
+&lt;/p&gt;"><sup>7</sup></a> Republicans currently lead by 2.1 percentage points (44.8 percent to 42.7 percent). A week ago, Republicans led Democrats by 2.2 points (44.8 percent to 42.6 percent). At this time last month, voters preferred Republicans by 2.0 points (44.4 percent to 42.4 percent).</p>]]></description>
 			<pubDate>Fri, 11 Mar 2022 11:00:00 +0000</pubDate>
 			<guid isPermaLink="false">1646999101235527</guid>
 		</item>
@@ -428,8 +685,8 @@
 
 
 
-<p data-paragraph="main">The seeds of war politics’ merging with culture-war politics arguably date back to the late 1960s, when anti-Vietnam War protests overlapped with civil rights protests and other social movements that challenged the existing social order. Over time, conservatives and liberals <a href="http://www.uky.edu/AS/PoliSci/Peffley/pdf/Zaller%201991%20APSR%20Information%20Values%20Opinion.pdf" target="_blank" rel="noopener">diverged in their attitudes</a> toward the war, especially as liberal elites began to criticize it. Starting with the <a href="https://nymag.com/intelligencer/2018/10/1968-election-won-by-nixon-still-haunts-our-politics.html" target="_blank" rel="noopener">1968 presidential election</a>, being anti-war became more closely associated with being a liberal Democrat. And the accusation that George McGovern, <a href="https://newrepublic.com/article/108977/acid-amnesty-and-abortion-unlikely-source-legendary-smear" target="_blank" rel="noopener">the 1972 Democratic presidential nominee,</a> was all for “<a href="https://kansaspress.ku.edu/978-0-7006-1650-3.html" target="_blank" rel="noopener">acid, amnesty</a><a data-footnote-id="5" href="https://fivethirtyeight.com/wp-json/wp/v2/espn_verticals/398#fn-5" data-footnote-content="&lt;p&gt;&lt;p&gt;Amnesty for ‘draft dodgers.’&lt;/p&gt;
-&lt;/p&gt;"><sup>5</sup></a> <a href="https://kansaspress.ku.edu/978-0-7006-1650-3.html" data-type="URL" data-id="https://kansaspress.ku.edu/978-0-7006-1650-3.html" target="_blank" rel="noopener">and abortion</a>” helped solidify this cultural connection.</p>
+<p data-paragraph="main">The seeds of war politics’ merging with culture-war politics arguably date back to the late 1960s, when anti-Vietnam War protests overlapped with civil rights protests and other social movements that challenged the existing social order. Over time, conservatives and liberals <a href="http://www.uky.edu/AS/PoliSci/Peffley/pdf/Zaller%201991%20APSR%20Information%20Values%20Opinion.pdf" target="_blank" rel="noopener">diverged in their attitudes</a> toward the war, especially as liberal elites began to criticize it. Starting with the <a href="https://nymag.com/intelligencer/2018/10/1968-election-won-by-nixon-still-haunts-our-politics.html" target="_blank" rel="noopener">1968 presidential election</a>, being anti-war became more closely associated with being a liberal Democrat. And the accusation that George McGovern, <a href="https://newrepublic.com/article/108977/acid-amnesty-and-abortion-unlikely-source-legendary-smear" target="_blank" rel="noopener">the 1972 Democratic presidential nominee,</a> was all for “<a href="https://kansaspress.ku.edu/978-0-7006-1650-3.html" target="_blank" rel="noopener">acid, amnesty</a><a data-footnote-id="8" href="https://fivethirtyeight.com/wp-json/wp/v2/espn_verticals/398#fn-8" data-footnote-content="&lt;p&gt;&lt;p&gt;Amnesty for ‘draft dodgers.’&lt;/p&gt;
+&lt;/p&gt;"><sup>8</sup></a> <a href="https://kansaspress.ku.edu/978-0-7006-1650-3.html" data-type="URL" data-id="https://kansaspress.ku.edu/978-0-7006-1650-3.html" target="_blank" rel="noopener">and abortion</a>” helped solidify this cultural connection.</p>
 
 
 
@@ -489,8 +746,8 @@
 
 
 
-<p data-paragraph="main">Health care policy researchers Erin C. Fuse Brown and Elizabeth McCuskey <a href="https://scholarship.law.upenn.edu/cgi/viewcontent.cgi?article=9687&amp;context=penn_law_review" target="_blank" rel="noopener">tracked the number of unique single-payer bills</a> introduced in state legislatures across the country from 2010 to 2019, finding a sharp uptick in bills introduced since 2017. During each of those three years, at least 10 single-payer proposals were introduced, according to Brown and McCuskey’s research, for the first time since 2013. In total, state legislators proposed more single-payer bills from 2017 to 2019 than in the previous seven years combined. And for 2021, we’ve identified 10 single-payer bills that legislators introduced across the country, from liberal states like <a href="https://leginfo.legislature.ca.gov/faces/billNavClient.xhtml?bill_id=202120220AB1400" target="_blank" rel="noopener">California</a> and <a href="https://malegislature.gov/Bills/192/S766/" target="_blank" rel="noopener">Massachusetts</a> to more conservative ones including <a href="https://www.legis.iowa.gov/legislation/BillBook?ga=89&amp;ba=HF55" target="_blank" rel="noopener">Iowa</a> and <a href="https://www.ohiosenate.gov/legislation/GA134-SB-253" target="_blank" rel="noopener">Ohio</a>.<a data-footnote-id="6" href="https://fivethirtyeight.com/wp-json/wp/v2/espn_verticals/398#fn-6" data-footnote-content="&lt;p&gt;&lt;p&gt;To be sure, it’s possible this tally includes repeats of past years’ bills or bills that are not truly single-payer — Fuse Brown and McCuskey touch on some of the challenges of tracking this in their methodology — but the number of bills introduced last year shows that single-payer is still a popular legislative issue.&lt;/p&gt;
-&lt;/p&gt;"><sup>6</sup></a></p>
+<p data-paragraph="main">Health care policy researchers Erin C. Fuse Brown and Elizabeth McCuskey <a href="https://scholarship.law.upenn.edu/cgi/viewcontent.cgi?article=9687&amp;context=penn_law_review" target="_blank" rel="noopener">tracked the number of unique single-payer bills</a> introduced in state legislatures across the country from 2010 to 2019, finding a sharp uptick in bills introduced since 2017. During each of those three years, at least 10 single-payer proposals were introduced, according to Brown and McCuskey’s research, for the first time since 2013. In total, state legislators proposed more single-payer bills from 2017 to 2019 than in the previous seven years combined. And for 2021, we’ve identified 10 single-payer bills that legislators introduced across the country, from liberal states like <a href="https://leginfo.legislature.ca.gov/faces/billNavClient.xhtml?bill_id=202120220AB1400" target="_blank" rel="noopener">California</a> and <a href="https://malegislature.gov/Bills/192/S766/" target="_blank" rel="noopener">Massachusetts</a> to more conservative ones including <a href="https://www.legis.iowa.gov/legislation/BillBook?ga=89&amp;ba=HF55" target="_blank" rel="noopener">Iowa</a> and <a href="https://www.ohiosenate.gov/legislation/GA134-SB-253" target="_blank" rel="noopener">Ohio</a>.<a data-footnote-id="9" href="https://fivethirtyeight.com/wp-json/wp/v2/espn_verticals/398#fn-9" data-footnote-content="&lt;p&gt;&lt;p&gt;To be sure, it’s possible this tally includes repeats of past years’ bills or bills that are not truly single-payer — Fuse Brown and McCuskey touch on some of the challenges of tracking this in their methodology — but the number of bills introduced last year shows that single-payer is still a popular legislative issue.&lt;/p&gt;
+&lt;/p&gt;"><sup>9</sup></a></p>
 
 
 
@@ -717,8 +974,8 @@
 
 
 
-<p data-paragraph="main">Of the 10 House Republicans who voted to impeach Trump in 2021, three have retired instead of running again, while all but one of the other seven has a Trump-endorsed primary opponent.<a data-footnote-id="7" href="https://fivethirtyeight.com/wp-json/wp/v2/espn_verticals/398#fn-7" data-footnote-content='&lt;p&gt;&lt;p&gt;To be sure, the &lt;a href="https://docs.google.com/spreadsheets/d/1xPpzTTGOK_UAl1BGLW3ATw4VycJdsDArkgaZ4lV486s/edit#gid=0" target="_blank" rel="noopener"&gt;candidate filing deadlines&lt;/a&gt; haven’t yet passed for these seven incumbents, so they could all still theoretically change their minds.&lt;/p&gt;
-&lt;/p&gt;'><sup>7</sup></a> That means primary voters in nearly all of these districts will be able to choose whether they want to punish disloyalty to Trump and <a href="https://fivethirtyeight.com/features/is-trumps-hold-on-the-gop-still-strong/" target="_blank" rel="noopener">move the GOP into even closer alignment</a> with Trumpism.</p>
+<p data-paragraph="main">Of the 10 House Republicans who voted to impeach Trump in 2021, three have retired instead of running again, while all but one of the other seven has a Trump-endorsed primary opponent.<a data-footnote-id="10" href="https://fivethirtyeight.com/wp-json/wp/v2/espn_verticals/398#fn-10" data-footnote-content='&lt;p&gt;&lt;p&gt;To be sure, the &lt;a href="https://docs.google.com/spreadsheets/d/1xPpzTTGOK_UAl1BGLW3ATw4VycJdsDArkgaZ4lV486s/edit#gid=0" target="_blank" rel="noopener"&gt;candidate filing deadlines&lt;/a&gt; haven’t yet passed for these seven incumbents, so they could all still theoretically change their minds.&lt;/p&gt;
+&lt;/p&gt;'><sup>10</sup></a> That means primary voters in nearly all of these districts will be able to choose whether they want to punish disloyalty to Trump and <a href="https://fivethirtyeight.com/features/is-trumps-hold-on-the-gop-still-strong/" target="_blank" rel="noopener">move the GOP into even closer alignment</a> with Trumpism.</p>
 
 
 <div>
@@ -834,8 +1091,8 @@
 </div>
 
 
-<p data-paragraph="main">Opposition to these incumbents ramped up in February, most notably when Trump decided to put his stamp of approval on primary challengers in two of the three reddest districts represented by pro-impeachment Republicans: South Carolina’s 7th Congressional District and Washington’s 4th Congressional District. Trump’s endorsement <a href="https://fivethirtyeight.com/features/trumps-2022-endorsements-are-earlier-bolder-and-more-dangerous-than-when-he-was-president/" target="_blank" rel="noopener">isn’t guaranteed to make someone a winner</a>, but there is reason to think it can be helpful: Republican pollster Echelon Insights <a href="https://twitter.com/EchelonInsights/status/1499081885485514756/photo/1" target="_blank" rel="noopener">found in February</a> that an endorsement by Trump without support from local GOP leaders would give a Republican primary candidate a narrow edge of 3 percentage points, for instance. And while that was far weaker than a candidate who had backing from both Trump <em>and</em> local party leaders (+29 points), Trump’s support by itself was valuable, as candidates backed by only local officials (-10 points) or by neither Trump nor local leaders (-22 points) performed notably worse.<a data-footnote-id="8" href="https://fivethirtyeight.com/wp-json/wp/v2/espn_verticals/398#fn-8" data-footnote-content="&lt;p&gt;&lt;p&gt;Per Echelon, this question was conducted via conjoint analysis. Respondents of each party were given five matchups between hypothetical candidates assigned a series of attributes, such as age, professional background, endorser or political approach.&lt;/p&gt;
-&lt;/p&gt;"><sup>8</sup></a></p>
+<p data-paragraph="main">Opposition to these incumbents ramped up in February, most notably when Trump decided to put his stamp of approval on primary challengers in two of the three reddest districts represented by pro-impeachment Republicans: South Carolina’s 7th Congressional District and Washington’s 4th Congressional District. Trump’s endorsement <a href="https://fivethirtyeight.com/features/trumps-2022-endorsements-are-earlier-bolder-and-more-dangerous-than-when-he-was-president/" target="_blank" rel="noopener">isn’t guaranteed to make someone a winner</a>, but there is reason to think it can be helpful: Republican pollster Echelon Insights <a href="https://twitter.com/EchelonInsights/status/1499081885485514756/photo/1" target="_blank" rel="noopener">found in February</a> that an endorsement by Trump without support from local GOP leaders would give a Republican primary candidate a narrow edge of 3 percentage points, for instance. And while that was far weaker than a candidate who had backing from both Trump <em>and</em> local party leaders (+29 points), Trump’s support by itself was valuable, as candidates backed by only local officials (-10 points) or by neither Trump nor local leaders (-22 points) performed notably worse.<a data-footnote-id="11" href="https://fivethirtyeight.com/wp-json/wp/v2/espn_verticals/398#fn-11" data-footnote-content="&lt;p&gt;&lt;p&gt;Per Echelon, this question was conducted via conjoint analysis. Respondents of each party were given five matchups between hypothetical candidates assigned a series of attributes, such as age, professional background, endorser or political approach.&lt;/p&gt;
+&lt;/p&gt;"><sup>11</sup></a></p>
 
 
 
@@ -1513,69 +1770,6 @@
 <p data-paragraph="main">But whether and how Americans favor U.S. involvement in foreign conflicts aren’t the only lessons from Afghanistan and Iraq. <a href="https://cla.umn.edu/about/directory/profile/fazal007" target="_blank" rel="noopener">Tanisha Fazal</a>, a political scientist at the University of Minnesota, said modern military medicine has also altered how we should calculate the cost of war. More soldiers <a href="https://academic.oup.com/isq/article-abstract/65/1/160/5905233?redirectedFrom=fulltext&amp;login=false" target="_blank" rel="noopener">are surviving battlefield injuries</a>, but they’re coming home wounded. Fazal said that hasn’t changed how most Americans think about sending troops abroad — except for people who are caretakers of those who came home wounded. “They know that they’re going to be paying the cost of war,” she said. </p>]]></description>
 			<pubDate>Thu, 03 Mar 2022 11:00:00 +0000</pubDate>
 			<guid isPermaLink="false">1646305288680623</guid>
-		</item>
-		<item>
-			<title>Politics Podcast: Unity From Biden, Disunity In Texas</title>
-			<link>https://fivethirtyeight.com/features/politics-podcast-unity-from-biden-disunity-in-texas/</link>
-						<dc:creator>Galen Druke</dc:creator>
-			<dc:creator>FiveThirtyEight</dc:creator>
-			<category>FiveThirtyEight Podcasts</category>
-			<category>Politics Podcast</category>
-			<category>State of the Union</category>
-			<category>Texas</category>
-			<description><![CDATA[<p data-paragraph="main"></p><p>Watch: https://abcnews.go.com/fivethirtyeight/video/unity-biden-disunity-texas-fivethirtyeight-politics-podcast-83199577</p>
-
-
-
-<div data-href="https://fivethirtyeight.com/features/politics-podcast-unity-from-biden-disunity-in-texas/">
-	<div data-podcast-id="327518" data-podcast-duration="0" data-podcast-title="Politics Podcast: Unity From Biden, Disunity In Texas">
-
-					<span><span>FiveThirtyEight</span></span>
-			
-		
-		<button aria-label="Play"></button>
-
-					<div>
-		
-		
-							<div>
-					<div>
-						<div></div>
-					</div>
-
-					<div> </div>
-
-					<audio preload="none" controls="controls">
-						<source src="https://www.podtrac.com/pts/redirect.mp3/traffic.megaphone.fm/ESP9171410373.mp3?updated=1646203196">
-					</source></audio>
-				</div>
-			
-					</div>
-		
-	</div>
-</div>
-<aside>
-	<div>
-		More: <a href="https://itunes.apple.com/us/podcast/fivethirtyeight-elections/id1077418457">Apple Podcasts</a> |
-		<span><a data-android-url="" href="http://m.espn.com/general/cast?id=14554755">ESPN App</a> |</span>
-		<a href="https://www.espn.com/espnradio/feeds/rss/podcast.xml?id=14554755">RSS</a>
-			</div>
-	</aside>
-
-
-
-
-<p data-paragraph="main">It was a night of firsts: the first midterm primary of the year, in Texas, and President Biden’s first official State of the Union address. The <a href="https://fivethirtyeight.com/tag/politics-podcast/" data-type="URL" data-id="https://fivethirtyeight.com/tag/politics-podcast/" target="_blank" rel="noopener">FiveThirtyEight Politics podcast</a> crew discussed the key takeaways in Biden’s optimistic speech and analyzed the outcomes of the Texas primaries as results came in.</p>
-
-
-
-<p data-paragraph="main"><em>You can listen to the episode by clicking the “play” button in the audio player above or by </em><a href="https://itunes.apple.com/us/podcast/fivethirtyeight-elections/id1077418457?mt=2" target="_blank" rel="noopener"><em>downloading it in iTunes</em></a><em>, the </em><a href="http://www.espn.com/espn/mobile/products/products/_/id/6857590" target="_blank" rel="noopener"><em>ESPN App</em></a><em> or your favorite podcast platform. If you are new to podcasts, </em><a href="https://fivethirtyeight.com/how-to-listen-to-fivethirtyeight-podcasts/" target="_blank" rel="noopener"><em>learn how to listen</em></a><em>.</em></p>
-
-
-
-<p data-paragraph="main"><em>The FiveThirtyEight Politics podcast is recorded Mondays and Thursdays. Help new listeners discover the show by </em><a href="https://itunes.apple.com/us/podcast/fivethirtyeight-elections/id1077418457?mt=2" target="_blank" rel="noopener"><em>leaving us a rating and review on iTunes</em></a><em>. Have a comment, question or suggestion for “good polling vs. bad polling”? Get in touch by email, </em><a href="https://twitter.com/FiveThirtyEight" target="_blank" rel="noopener"><em>on Twitter</em></a><em> or in the comments.</em></p>]]></description>
-			<pubDate>Wed, 02 Mar 2022 15:01:00 +0000</pubDate>
-			<guid isPermaLink="false">1646237701608162</guid>
 		</item>
 
 	</channel>
