@@ -3,9 +3,1319 @@
 		<title>Main stream | FreshRSS</title>
 		<link>http://radon</link>
 		<description>RSS feed of Main stream | FreshRSS</description>
-		<pubDate>Thu, 24 Mar 2022 10:59:06 +0000</pubDate>
-		<lastBuildDate>Thu, 24 Mar 2022 10:59:06 GMT</lastBuildDate>
+		<pubDate>Thu, 24 Mar 2022 11:29:06 +0000</pubDate>
+		<lastBuildDate>Thu, 24 Mar 2022 11:29:06 GMT</lastBuildDate>
 		<atom:link href="http://radon/i/?a=rss" rel="self" type="application/rss+xml" />
+		<item>
+			<title>What If Nevada Voted First In The Democratic Presidential Primaries? Or New Jersey? Hawaii?</title>
+			<link>https://fivethirtyeight.com/features/what-if-nevada-voted-first-in-the-democratic-presidential-primaries-or-new-jersey-hawaii/</link>
+						<dc:creator>Geoffrey Skelley</dc:creator>
+			<dc:creator>Geoffrey Skelley</dc:creator>
+			<category>2020 Democratic Primary</category>
+			<category>2024 Election</category>
+			<category>Democratic National Convention</category>
+			<category>Early States</category>
+			<category>Primary Calendar</category>
+			<description><![CDATA[<div>
+
+			<div>
+
+				<header><div>
+													<p><a href="https://fivethirtyeight.com/tag/2024-election/" name="">2024 Election</a></p>
+						
+						<h1>What If Nevada Voted First In The Democratic Presidential Primaries? Or New Jersey? Hawaii?</h1>
+
+													<h2>We crunched the numbers on different criteria the Democratic Party might consider to reorganize its primary calendar.</h2>
+											</div>
+
+										<div>
+						<div>
+															<p>By <a href="https://fivethirtyeight.com/contributors/geoffrey-skelley/" title="" rel="author">Geoffrey Skelley</a></p>
+							
+							<p>
+								<time>Mar. 24, 2022</time>,
+								at
+								<time title="2022-03-24T10:00:00+00:00">6:00 AM</time></p>
+
+						</div>
+						<div>
+													</div> 
+					</div>
+					
+				</header><figure><span>
+									<div>
+						<picture><source media="(min-width: 768px)"><source><img alt="Five States Hold Primaries As Pandemic Continues In America" src="https://fivethirtyeight.com/wp-content/uploads/2022/03/GettyImages-1248629021-4x3-1.jpg?w=916" data-sizes="(max-width: 768px) 100vw, (max-width: 1080px) 66vw, 684px" data-src="https://fivethirtyeight.com/wp-content/uploads/2022/03/GettyImages-1248629021-4x3-1.jpg?w=916" data-srcset="https://fivethirtyeight.com/wp-content/uploads/2022/03/GettyImages-1248629021-4x3-1.jpg?w=916 1x, https://fivethirtyeight.com/wp-content/uploads/2022/03/GettyImages-1248629021-4x3-1.jpg?w=1832 2x"></source></source></picture></div>
+
+				
+			</span>
+
+			
+								<figcaption><p>Ethan Miller / Getty Images</p>
+											</figcaption></figure></div>
+
+			
+		</div>
+
+
+
+
+
+<p data-paragraph="main">When it comes to the presidential primary calendar, it can feel like if you’re not first (or, at least, not living in one of the four states that get to vote early on), you’re last. For a long time now, that has meant that if you don’t hail from Iowa, New Hampshire, Nevada or South Carolina, candidates and political media could care less what you think. </p>
+
+
+
+<p data-paragraph="main">But for Democrats that might finally change. <a href="https://www.deseret.com/2008/1/2/20062199/other-states-are-sick-of-iowa-new-hampshire" target="_blank" rel="noopener">Concerns about</a> Iowa and New Hampshire’s <a href="https://www.desmoinesregister.com/story/news/elections/presidential/caucus/2015/10/13/harry-reids-sorry-not-sorry-apology-for-disparaging-iowa-nh/73884784/" target="_blank" rel="noopener">representativeness</a> have only grown <a href="https://www.nytimes.com/2020/01/26/opinion/iowa-new-hampshire-primary.html" target="_blank" rel="noopener">in recent years</a>. Not to mention that after Iowa’s <a href="https://fivethirtyeight.com/features/iowa-might-have-screwed-up-the-whole-nomination-process/" target="_blank" rel="noopener">disastrous 2020 caucuses</a>, where myriad technical problems hampered the reporting of results, there have been <a href="https://www.brookings.edu/blog/fixgov/2020/05/26/its-time-to-fix-democrats-iowa-and-new-hampshire-problem/" target="_blank" rel="noopener">renewed calls</a> for the Democratic Party to alter its calendar ahead of the 2024 presidential cycle.</p>
+
+
+
+<p data-paragraph="main">The latest push came earlier this month, when the <a href="https://www.desmoinesregister.com/story/news/elections/presidential/caucus/2022/03/11/dnc-plan-end-iowa-caucuses-first-place-presidential-calendar-democrats/9433481002/" target="_blank" rel="noopener">Des Moines Register reported</a> that the Democratic National Committee was examining a draft proposal to determine which states would vote early. Under that proposal, states would seek a waiver to vote early based on multiple criteria, including a state’s “ability to run [a] fair, transparent and inclusive primary”; ethnic diversity; geographic diversity; union representation; and general election competitiveness. And although the DNC <a href="https://www.kwwl.com/news/national-democrats-continue-discussions-on-the-future-of-iowas-first-in-the-nation-caucus-status/article_33f1ac50-a3ec-11ec-8eb4-230d109c4a79.html" target="_blank" rel="noopener">didn’t end up considering the proposal</a> at its March gathering, intraparty debate <a href="https://www.washingtonpost.com/politics/2022/03/22/iowa-democrats-nomination-calendar/" target="_blank" rel="noopener">over the calendar will continue</a>, with the possibility that some set of these criteria will play a role in determining the voting order of states in 2024.</p>
+
+
+
+<p data-paragraph="main">With that in mind, we took a look at what the primary calendar might look like if the early-voting states were determined by these sorts of criteria. Of course, not every state would apply for a waiver, and we also can’t know for sure what data the DNC would use or, moreover, what secret sauce it would employ when deciding how to weigh various data points; nor does the DNC have full top-down control over the voting order of states. But! If we set all that aside, this might still be the direction in which the party moves, so here’s a look at which states would score well — or poorly — based on the fairness of their elections, their ethnic and racial diversity, their rate of union membership and their competitiveness in the 2020 presidential election.</p>
+
+
+
+<p data-paragraph="main">First up is a states’ ability to run fair, transparent and inclusive primaries. Following the contentious 2016 Democratic contest between Hillary Clinton and Bernie Sanders, when Iowa’s caucuses featured a razor-thin margin with <a href="https://www.bloomberg.com/news/articles/2016-02-05/iowa-democrats-say-recount-impossible-in-clinton-sanders-virtual-tie" target="_blank" rel="noopener">no mechanism</a> for a recount and <a href="https://www.desmoinesregister.com/story/opinion/editorials/caucus/2016/02/03/editorial-something-smells-democratic-party/79777580/" target="_blank" rel="noopener">multiple caucus states</a> struggled to <a href="https://www.cpr.org/2016/03/02/record-caucus-crowds-catch-officials-off-guard-as-sanders-wins-colorado/" target="_blank" rel="noopener">handle large numbers of voters</a>, Democrats have <a href="https://fivethirtyeight.com/features/how-will-democrats-move-away-from-caucuses-affect-the-2020-race/" target="_blank" rel="noopener">embraced the use of primaries</a>, going from 14 caucuses in 2016 to two in 2020, and <a href="https://abcnews.go.com/Politics/wireStory/governor-signs-law-giving-nevada-1st-presidential-primary-78226292" target="_blank" rel="noopener">likely one</a> — or maybe even zero — in 2024.</p>
+
+
+
+<figure><div>
+<div><iframe title="Iowa and Nevada were the only 2020 caucus states" aria-label="Map" src="https://datawrapper.dwcdn.net/qXWei/6/" scrolling="no" frameborder="0" height="680" sandbox="allow-scripts allow-same-origin"></iframe></div>
+</div></figure><p data-paragraph="main">State-run primaries score well on the DNC’s election-fairness metric because those primaries give voters the ultimate flexibility in casting their votes. Generally speaking, voters have hours to vote at their local precinct (or even more time if their state allows for early voting!) and can then go about their day. This is also somewhat true for states where the <a href="http://www.frontloadinghq.com/search/label/party-run%20primary" target="_blank" rel="noopener">state party runs the primary</a> instead of the state government — usually because the state has no presidential primary law — but we scored state-run primaries higher because the two types aren’t equivalent: In state-run contests, the state and local government manage things and voting is similar to casting a ballot in the general election, whereas a party-run event tends to have shorter hours and fewer voting locations.</p>
+
+
+
+<p data-paragraph="main">Caucuses, on the other hand, score the lowest because they are much more time intensive. In Iowa, for instance, Democratic voters must commit at least a couple of hours of their evening to the process, which typically involves hearing supporters talk up each candidate, casting a vote and then potentially shifting support if the voters’ candidate doesn’t have enough backing to be “viable.” Time and accessibility are big reasons why primaries <a href="https://fivethirtyeight.com/features/historic-turnout-in-2020-not-so-far/" target="_blank" rel="noopener">usually have higher turnout</a> than caucuses. </p>
+
+
+
+<p data-paragraph="main">But as you can see in the map above, there isn’t actually that much difference between the states on this metric. Only Iowa scores really poorly, and in 2024, Iowa may be the only state that uses a caucus — provided it doesn’t go for a party-run primary<a data-footnote-id="1" href="https://fivethirtyeight.com/wp-json/wp/v2/espn_verticals/398#fn-1" data-footnote-content='&lt;p&gt;&lt;p&gt;&lt;a href="https://www.politico.com/news/2020/02/04/republican-senators-defend-iowa-caucus-110665" target="_blank" rel="noopener"&gt;It’s unlikely&lt;/a&gt; that Iowa’s Republican-controlled legislature will pass a presidential primary law, so if Iowa Democrats want a primary, they’ll have to run it themselves.&lt;/p&gt;
+&lt;/p&gt;'><sup>1</sup></a> — as Nevada passed a law last year that established it will <a href="https://abcnews.go.com/Politics/wireStory/governor-signs-law-giving-nevada-1st-presidential-primary-78226292" target="_blank" rel="noopener">use a presidential primary starting in 2024</a>.</p>
+
+
+
+<p data-paragraph="main">On the DNC’s next metric — the racial and ethnic diversity of a state — there is more of a stark difference. Iowa once again scores poorly as one of the whitest states in the country, but so does New Hampshire. In fact, this lack of diversity in the first two states to vote is one of <a href="https://www.politico.com/news/2021/03/31/democrats-primary-schedule-2024-478680" target="_blank" rel="noopener">the biggest criticisms</a> of the Democratic primary calendar, especially considering about 2 in 5 Democrats identify as people of color, <a href="https://www.pewresearch.org/politics/2020/06/02/the-changing-composition-of-the-electorate-and-partisan-coalitions/" target="_blank" rel="noopener">according to the Pew Research Center</a>. We don’t know how the DNC would measure the diversity of a state — for instance, would they consider the overall diversity of the state or just the diversity among Democrats? — but one straightforward way to measure a state’s diversity is to use the <a href="https://www.census.gov/library/visualizations/interactive/racial-and-ethnic-diversity-in-the-united-states-2010-and-2020-census.html" target="_blank" rel="noopener">U.S. Census Bureau’s Diversity Index</a>, which calculates the likelihood that two people chosen at random in a state will be from different racial and ethnicity groups. Based on that measure, western states like Hawaii, California and Nevada score extremely well, as the table below shows.</p>
+
+
+<div>
+
+<section><header><h5>Hawaii is the most diverse state</h5>
+ <p>The 2020 racial and ethnic makeup of the 50 states and Washington, D.C., and how each scored on the U.S. Census Bureau’s Diversity Index (DI)</p>
+ </header><div>
+ <table data-carpenter-slug="skelley.democratic-primary-calendar-0324.1"><thead><tr><th colspan="1" data-sort-index="0" aria-sort="descending" data-sort-default="true"><span>STATE<span><span>▲</span><span>▼</span></span>
+ </span>
+ </th>
+ <th colspan="1" data-sort-index="1" data-sort-method="number"><span>White<span><span>▲</span><span>▼</span></span>
+ </span>
+ </th>
+ <th colspan="1" data-sort-index="2" data-sort-method="number"><span>Hisp.<span><span>▲</span><span>▼</span></span>
+ </span>
+ </th>
+ <th colspan="1" data-sort-index="3" data-sort-method="number"><span>Black<span><span>▲</span><span>▼</span></span>
+ </span>
+ </th>
+ <th colspan="1" data-sort-index="4" data-sort-method="number"><span>Asian<span><span>▲</span><span>▼</span></span>
+ </span>
+ </th>
+ <th colspan="1" data-sort-index="5" data-sort-method="number"><span>Other<span><span>▲</span><span>▼</span></span>
+ </span>
+ </th>
+ <th colspan="1" data-sort-index="6" data-sort-method="number">Census <span>DI<span><span>▲</span><span>▼</span></span>
+ </span>
+ </th>
+ </tr></thead><tbody><tr><td>Hawaii</td>
+ <td data-suffix="%" data-suffixpadding="1.1em">21.6%</td>
+ <td data-suffix="%" data-suffixpadding="1.1em">9.5%</td>
+ <td>1.5</td>
+ <td data-suffix="%" data-suffixpadding="1.1em">36.5%</td>
+ <td data-suffix="%" data-suffixpadding="1.1em">30.8%</td>
+ <td data-suffix="%" data-suffixpadding="1.1em">76.0%</td>
+ </tr><tr><td>California</td>
+ <td>34.7</td>
+ <td>39.4</td>
+ <td>5.4</td>
+ <td>15.1</td>
+ <td>5.4</td>
+ <td>69.7</td>
+ </tr><tr><td>Nevada</td>
+ <td>45.9</td>
+ <td>28.7</td>
+ <td>9.4</td>
+ <td>8.6</td>
+ <td>7.4</td>
+ <td>68.8</td>
+ </tr><tr><td>Maryland</td>
+ <td>47.2</td>
+ <td>11.8</td>
+ <td>29.1</td>
+ <td>6.8</td>
+ <td>5.2</td>
+ <td>67.3</td>
+ </tr><tr><td>District of Columbia</td>
+ <td>38.0</td>
+ <td>11.3</td>
+ <td>40.9</td>
+ <td>4.8</td>
+ <td>5.1</td>
+ <td>67.2</td>
+ </tr><tr><td>Texas</td>
+ <td>39.7</td>
+ <td>39.3</td>
+ <td>11.8</td>
+ <td>5.4</td>
+ <td>3.8</td>
+ <td>67.0</td>
+ </tr><tr><td>New York</td>
+ <td>52.5</td>
+ <td>19.5</td>
+ <td>13.7</td>
+ <td>9.5</td>
+ <td>4.8</td>
+ <td>65.8</td>
+ </tr><tr><td>New Jersey</td>
+ <td>51.9</td>
+ <td>21.6</td>
+ <td>12.4</td>
+ <td>10.2</td>
+ <td>4.0</td>
+ <td>65.8</td>
+ </tr><tr><td>Florida</td>
+ <td>51.5</td>
+ <td>26.5</td>
+ <td>14.5</td>
+ <td>2.9</td>
+ <td>4.6</td>
+ <td>64.1</td>
+ </tr><tr><td>Georgia</td>
+ <td>50.1</td>
+ <td>10.5</td>
+ <td>30.6</td>
+ <td>4.4</td>
+ <td>4.4</td>
+ <td>64.1</td>
+ </tr><tr><td>New Mexico</td>
+ <td>36.5</td>
+ <td>47.7</td>
+ <td>1.8</td>
+ <td>1.7</td>
+ <td>12.3</td>
+ <td>63.0</td>
+ </tr><tr><td>Alaska</td>
+ <td>57.5</td>
+ <td>6.8</td>
+ <td>2.8</td>
+ <td>5.9</td>
+ <td>26.9</td>
+ <td>62.8</td>
+ </tr><tr><td>Arizona</td>
+ <td>53.4</td>
+ <td>30.7</td>
+ <td>4.4</td>
+ <td>3.5</td>
+ <td>8.1</td>
+ <td>61.5</td>
+ </tr><tr><td>Virginia</td>
+ <td>58.6</td>
+ <td>10.5</td>
+ <td>18.3</td>
+ <td>7.1</td>
+ <td>5.5</td>
+ <td>60.5</td>
+ </tr><tr><td>Illinois</td>
+ <td>58.3</td>
+ <td>18.2</td>
+ <td>13.9</td>
+ <td>5.8</td>
+ <td>3.7</td>
+ <td>60.3</td>
+ </tr><tr><td>Delaware</td>
+ <td>58.6</td>
+ <td>10.5</td>
+ <td>21.5</td>
+ <td>4.3</td>
+ <td>5.1</td>
+ <td>59.6</td>
+ </tr><tr><td>Oklahoma</td>
+ <td>60.8</td>
+ <td>11.9</td>
+ <td>7.2</td>
+ <td>2.3</td>
+ <td>17.9</td>
+ <td>59.5</td>
+ </tr><tr><td>Louisiana</td>
+ <td>55.8</td>
+ <td>6.9</td>
+ <td>31.2</td>
+ <td>1.8</td>
+ <td>4.3</td>
+ <td>58.6</td>
+ </tr><tr><td>North Carolina</td>
+ <td>60.5</td>
+ <td>10.7</td>
+ <td>20.2</td>
+ <td>3.3</td>
+ <td>5.4</td>
+ <td>57.9</td>
+ </tr><tr><td>Washington</td>
+ <td>63.8</td>
+ <td>13.7</td>
+ <td>3.8</td>
+ <td>9.4</td>
+ <td>9.2</td>
+ <td>55.9</td>
+ </tr><tr><td>Mississippi</td>
+ <td>55.4</td>
+ <td>3.6</td>
+ <td>36.4</td>
+ <td>1.1</td>
+ <td>3.6</td>
+ <td>55.9</td>
+ </tr><tr><td>Connecticut</td>
+ <td>63.2</td>
+ <td>17.3</td>
+ <td>10.0</td>
+ <td>4.7</td>
+ <td>4.8</td>
+ <td>55.7</td>
+ </tr><tr><td>South Carolina</td>
+ <td>62.1</td>
+ <td>6.9</td>
+ <td>24.8</td>
+ <td>1.7</td>
+ <td>4.5</td>
+ <td>54.6</td>
+ </tr><tr><td>Alabama</td>
+ <td>63.1</td>
+ <td>5.3</td>
+ <td>25.6</td>
+ <td>1.5</td>
+ <td>4.5</td>
+ <td>53.1</td>
+ </tr><tr><td>Colorado</td>
+ <td>65.1</td>
+ <td>21.9</td>
+ <td>3.8</td>
+ <td>3.4</td>
+ <td>5.8</td>
+ <td>52.3</td>
+ </tr><tr><td>Massachusetts</td>
+ <td>67.6</td>
+ <td>12.6</td>
+ <td>6.5</td>
+ <td>7.2</td>
+ <td>6.1</td>
+ <td>51.6</td>
+ </tr><tr><td>Arkansas</td>
+ <td>68.5</td>
+ <td>8.5</td>
+ <td>14.9</td>
+ <td>1.7</td>
+ <td>6.3</td>
+ <td>49.8</td>
+ </tr><tr><td>Rhode Island</td>
+ <td>68.7</td>
+ <td>16.6</td>
+ <td>5.0</td>
+ <td>3.5</td>
+ <td>6.1</td>
+ <td>49.4</td>
+ </tr><tr><td>Tennessee</td>
+ <td>70.9</td>
+ <td>6.9</td>
+ <td>15.7</td>
+ <td>1.9</td>
+ <td>4.5</td>
+ <td>46.6</td>
+ </tr><tr><td>Oregon</td>
+ <td>71.7</td>
+ <td>13.9</td>
+ <td>1.9</td>
+ <td>4.5</td>
+ <td>8.1</td>
+ <td>46.1</td>
+ </tr><tr><td>Kansas</td>
+ <td>72.2</td>
+ <td>13.0</td>
+ <td>5.6</td>
+ <td>2.9</td>
+ <td>6.3</td>
+ <td>45.4</td>
+ </tr><tr><td>Michigan</td>
+ <td>72.4</td>
+ <td>5.6</td>
+ <td>13.5</td>
+ <td>3.3</td>
+ <td>5.2</td>
+ <td>45.2</td>
+ </tr><tr><td>Pennsylvania</td>
+ <td>73.5</td>
+ <td>8.1</td>
+ <td>10.5</td>
+ <td>3.9</td>
+ <td>4.0</td>
+ <td>44.0</td>
+ </tr><tr><td>Indiana</td>
+ <td>75.5</td>
+ <td>8.2</td>
+ <td>9.4</td>
+ <td>2.5</td>
+ <td>4.5</td>
+ <td>41.3</td>
+ </tr><tr><td>Missouri</td>
+ <td>75.8</td>
+ <td>4.9</td>
+ <td>11.3</td>
+ <td>2.1</td>
+ <td>5.9</td>
+ <td>40.8</td>
+ </tr><tr><td>Nebraska</td>
+ <td>75.7</td>
+ <td>12.0</td>
+ <td>4.8</td>
+ <td>2.7</td>
+ <td>4.9</td>
+ <td>40.8</td>
+ </tr><tr><td>Utah</td>
+ <td>75.4</td>
+ <td>15.1</td>
+ <td>1.1</td>
+ <td>2.4</td>
+ <td>6.0</td>
+ <td>40.7</td>
+ </tr><tr><td>Minnesota</td>
+ <td>76.3</td>
+ <td>6.1</td>
+ <td>6.9</td>
+ <td>5.2</td>
+ <td>5.5</td>
+ <td>40.5</td>
+ </tr><tr><td>Ohio</td>
+ <td>75.9</td>
+ <td>4.4</td>
+ <td>12.3</td>
+ <td>2.5</td>
+ <td>4.8</td>
+ <td>40.4</td>
+ </tr><tr><td>Wisconsin</td>
+ <td>78.6</td>
+ <td>7.6</td>
+ <td>6.2</td>
+ <td>3.0</td>
+ <td>4.6</td>
+ <td>37.0</td>
+ </tr><tr><td>Idaho</td>
+ <td>78.9</td>
+ <td>13.0</td>
+ <td>0.8</td>
+ <td>1.4</td>
+ <td>5.9</td>
+ <td>35.9</td>
+ </tr><tr><td>South Dakota</td>
+ <td>79.6</td>
+ <td>4.4</td>
+ <td>2.0</td>
+ <td>1.5</td>
+ <td>12.6</td>
+ <td>35.6</td>
+ </tr><tr><td>Kentucky</td>
+ <td>81.3</td>
+ <td>4.6</td>
+ <td>7.9</td>
+ <td>1.6</td>
+ <td>4.5</td>
+ <td>32.8</td>
+ </tr><tr><td>North Dakota</td>
+ <td>81.7</td>
+ <td>4.3</td>
+ <td>3.4</td>
+ <td>1.7</td>
+ <td>9.0</td>
+ <td>32.6</td>
+ </tr><tr><td>Wyoming</td>
+ <td>81.4</td>
+ <td>10.2</td>
+ <td>0.8</td>
+ <td>0.9</td>
+ <td>6.7</td>
+ <td>32.4</td>
+ </tr><tr><td>Iowa</td>
+ <td>82.7</td>
+ <td>6.8</td>
+ <td>4.1</td>
+ <td>2.4</td>
+ <td>4.1</td>
+ <td>30.8</td>
+ </tr><tr><td>Montana</td>
+ <td>83.1</td>
+ <td>4.2</td>
+ <td>0.5</td>
+ <td>0.7</td>
+ <td>11.5</td>
+ <td>30.1</td>
+ </tr><tr><td>New Hampshire</td>
+ <td>87.2</td>
+ <td>4.3</td>
+ <td>1.4</td>
+ <td>2.6</td>
+ <td>4.6</td>
+ <td>23.6</td>
+ </tr><tr><td>West Virginia</td>
+ <td>89.1</td>
+ <td>1.9</td>
+ <td>3.6</td>
+ <td>0.8</td>
+ <td>4.5</td>
+ <td>20.2</td>
+ </tr><tr><td>Vermont</td>
+ <td>89.1</td>
+ <td>2.4</td>
+ <td>1.3</td>
+ <td>1.8</td>
+ <td>5.3</td>
+ <td>20.2</td>
+ </tr><tr><td>Maine</td>
+ <td>90.2</td>
+ <td>2.0</td>
+ <td>1.8</td>
+ <td>1.2</td>
+ <td>4.8</td>
+ <td>18.5</td>
+ </tr></tbody></table></div>
+ <footer><p>The Diversity Index (DI) measures the probability that two people chosen at random will be from different racial and ethnic groups. Numbers for white, Black, Asian, and other races do not include those of Hispanic ethnicity.</p>
+ <p>Source: U.S. Census Bureau</p>
+ </footer></section></div>
+
+
+<p data-paragraph="main">Nevada, of course, already votes early, having gone third in the Democratic primary <a href="http://www.frontloadinghq.com/2009/03/2008-presidential-primary-calendar.html" target="_blank" rel="noopener">since 2008</a>,<a data-footnote-id="2" href="https://fivethirtyeight.com/wp-json/wp/v2/espn_verticals/398#fn-2" data-footnote-content='&lt;p&gt;&lt;p&gt;Technically, Michigan voted third in 2008, but it &lt;a href="https://www.cnn.com/2007/POLITICS/09/04/primary.calendar/" target="_blank" rel="noopener"&gt;disobeyed party rules&lt;/a&gt; to do so and lost its delegates as a result (although it later got &lt;a href="https://www.nytimes.com/2008/06/01/us/politics/01rules.html" target="_blank" rel="noopener"&gt;half of them back&lt;/a&gt;).&lt;/p&gt;
+&lt;/p&gt;'><sup>2</sup></a> so between its recent switch to a primary and its sizable racial and ethnic diversity, it would score very well on these first two criteria. As for the other states that currently vote early, Iowa and New Hampshire score among the bottom six spots, while South Carolina finished right in the middle of the pack.</p>
+
+
+
+<p data-paragraph="main">That means the DNC might want to take note of the other places that score highly on this metric; Maryland, the District of Columbia, Texas, New York, New Jersey, Florida and Georgia round out the top 10, including the three western states we mentioned earlier. We know geographic diversity is something else the draft proposal prioritized, so if the DNC wanted to pick a Northeastern state instead of New Hampshire, the party might pay special attention to New Jersey. </p>
+
+
+
+<p data-paragraph="main">New Jersey Democrats <a href="https://abcnews.go.com/Politics/move-iowa-jersey-democrats-vie-early-presidential-primary/story?id=83505174" target="_blank" rel="noopener">recently made the case</a> to the DNC that the Garden State should go early, and the fact that New Jersey ranks eighth in the Census’s Diversity Index suggests it would help improve the relative diversity of the early states. Not to mention, New Jersey ranks second in <a href="https://fivethirtyeight.com/features/how-urban-or-rural-is-your-state-and-what-does-that-mean-for-the-2020-election/" target="_blank" rel="noopener">FiveThirtyEight’s urbanization index</a>, and for a party largely built on a base of voters <a href="https://www.brookings.edu/research/in-2020-the-largest-metro-areas-made-the-difference-for-democrats/" target="_blank" rel="noopener">living in large metropolitan areas</a>, it might also be a good fit under that metric.</p>
+
+
+
+<p data-paragraph="main">Labor union membership was another criteria laid out in the draft resolution, and while participation in unions <a href="https://www.epi.org/unequalpower/publications/private-sector-unions-corporate-legal-erosion/" target="_blank" rel="noopener">has declined markedly over the past 50 years</a>, organized labor remains an <a href="https://fivethirtyeight.com/features/supreme-court-ruling-wounds-both-democrats-and-unions-neither-fatally/" target="_blank" rel="noopener">influential part</a> of the Democratic coalition. It <a href="https://www.opensecrets.org/industries/" target="_blank" rel="noopener">spends millions</a> on behalf of Democratic candidates, and Biden won 56 percent of voters in union households in 2020, <a href="https://www.cnn.com/election/2020/exit-polls/president/national-results" target="_blank" rel="noopener">according to national exit polls</a>. Here, too, Hawaii tops the list, although it just narrowly edges out New York as the state with the largest share of workers who belong to unions as of 2021, according to the <a href="https://www.bls.gov/news.release/union2.t05.htm" target="_blank" rel="noopener">U.S. Bureau of Labor Statistics</a>.</p>
+
+
+<div>
+
+<section><header><h5>Hawaii and New York are the most unionized states</h5>
+ <p>The employment and union membership totals of workers in the 50 states and Washington, D.C., as of 2021</p>
+ </header><div>
+ <table data-carpenter-slug="skelley.democratic-primary-calendar-0324.2"><thead><tr><th colspan="1" data-sort-index="0" aria-sort="descending" data-sort-default="true"><span>State<span><span>▲</span><span>▼</span></span>
+ </span>
+ </th>
+ <th colspan="1" data-sort-index="1" data-sort-method="number">Total <span>employed<span><span>▲</span><span>▼</span></span>
+ </span>
+ </th>
+ <th colspan="1" data-sort-index="2" data-sort-method="number">Total members of <span>unions<span><span>▲</span><span>▼</span></span>
+ </span>
+ </th>
+ <th colspan="1" data-sort-index="3" data-sort-method="number">Percent in <span>union<span><span>▲</span><span>▼</span></span>
+ </span>
+ </th>
+ </tr></thead><tbody><tr><td>Hawaii</td>
+ <td data-suffix="k" data-suffixpadding="1.1em">541k</td>
+ <td data-suffix="k" data-suffixpadding="1.1em">121k</td>
+ <td data-suffix="%" data-suffixpadding="1.1em">22.4%</td>
+ </tr><tr><td>New York</td>
+ <td>7,770</td>
+ <td>1,729</td>
+ <td>22.2</td>
+ </tr><tr><td>Washington</td>
+ <td>3,308</td>
+ <td>629</td>
+ <td>19.0</td>
+ </tr><tr><td>Oregon</td>
+ <td>1,784</td>
+ <td>318</td>
+ <td>17.8</td>
+ </tr><tr><td>New Jersey</td>
+ <td>3,762</td>
+ <td>608</td>
+ <td>16.2</td>
+ </tr><tr><td>Minnesota</td>
+ <td>2,608</td>
+ <td>416</td>
+ <td>16.0</td>
+ </tr><tr><td>California</td>
+ <td>15,497</td>
+ <td>2,468</td>
+ <td>15.9</td>
+ </tr><tr><td>Alaska</td>
+ <td>293</td>
+ <td>46</td>
+ <td>15.8</td>
+ </tr><tr><td>Rhode Island</td>
+ <td>474</td>
+ <td>75</td>
+ <td>15.7</td>
+ </tr><tr><td>Connecticut</td>
+ <td>1,524</td>
+ <td>223</td>
+ <td>14.6</td>
+ </tr><tr><td>Illinois</td>
+ <td>5,397</td>
+ <td>752</td>
+ <td>13.9</td>
+ </tr><tr><td>Michigan</td>
+ <td>4,047</td>
+ <td>540</td>
+ <td>13.3</td>
+ </tr><tr><td>Pennsylvania</td>
+ <td>5,380</td>
+ <td>693</td>
+ <td>12.9</td>
+ </tr><tr><td>Massachusetts</td>
+ <td>3,181</td>
+ <td>402</td>
+ <td>12.6</td>
+ </tr><tr><td>Maine</td>
+ <td>563</td>
+ <td>70</td>
+ <td>12.4</td>
+ </tr><tr><td>Vermont</td>
+ <td>262</td>
+ <td>32</td>
+ <td>12.3</td>
+ </tr><tr><td>Nevada</td>
+ <td>1,249</td>
+ <td>153</td>
+ <td>12.2</td>
+ </tr><tr><td>Ohio</td>
+ <td>4,966</td>
+ <td>596</td>
+ <td>12.0</td>
+ </tr><tr><td>Montana</td>
+ <td>438</td>
+ <td>49</td>
+ <td>11.2</td>
+ </tr><tr><td>Maryland</td>
+ <td>2,689</td>
+ <td>295</td>
+ <td>11.0</td>
+ </tr><tr><td>New Hampshire</td>
+ <td>643</td>
+ <td>65</td>
+ <td>10.1</td>
+ </tr><tr><td>Delaware</td>
+ <td>435</td>
+ <td>42</td>
+ <td>9.7</td>
+ </tr><tr><td>West Virginia</td>
+ <td>693</td>
+ <td>66</td>
+ <td>9.6</td>
+ </tr><tr><td>Kansas</td>
+ <td>1,300</td>
+ <td>120</td>
+ <td>9.2</td>
+ </tr><tr><td>Indiana</td>
+ <td>2,844</td>
+ <td>256</td>
+ <td>9.0</td>
+ </tr><tr><td>Missouri</td>
+ <td>2,615</td>
+ <td>235</td>
+ <td>9.0</td>
+ </tr><tr><td>District of Columbia</td>
+ <td>350</td>
+ <td>31</td>
+ <td>8.9</td>
+ </tr><tr><td>Wisconsin</td>
+ <td>2,705</td>
+ <td>215</td>
+ <td>7.9</td>
+ </tr><tr><td>New Mexico</td>
+ <td>770</td>
+ <td>58</td>
+ <td>7.5</td>
+ </tr><tr><td>Kentucky</td>
+ <td>1,740</td>
+ <td>126</td>
+ <td>7.2</td>
+ </tr><tr><td>Nebraska</td>
+ <td>896</td>
+ <td>61</td>
+ <td>6.8</td>
+ </tr><tr><td>Colorado</td>
+ <td>2,538</td>
+ <td>165</td>
+ <td>6.5</td>
+ </tr><tr><td>Iowa</td>
+ <td>1,428</td>
+ <td>93</td>
+ <td>6.5</td>
+ </tr><tr><td>Alabama</td>
+ <td>1,938</td>
+ <td>115</td>
+ <td>5.9</td>
+ </tr><tr><td>Wyoming</td>
+ <td>234</td>
+ <td>13</td>
+ <td>5.7</td>
+ </tr><tr><td>Oklahoma</td>
+ <td>1,546</td>
+ <td>87</td>
+ <td>5.6</td>
+ </tr><tr><td>Mississippi</td>
+ <td>1,080</td>
+ <td>59</td>
+ <td>5.5</td>
+ </tr><tr><td>Arizona</td>
+ <td>3,116</td>
+ <td>167</td>
+ <td>5.4</td>
+ </tr><tr><td>North Dakota</td>
+ <td>349</td>
+ <td>19</td>
+ <td>5.4</td>
+ </tr><tr><td>Florida</td>
+ <td>8,667</td>
+ <td>448</td>
+ <td>5.2</td>
+ </tr><tr><td>Tennessee</td>
+ <td>2,820</td>
+ <td>145</td>
+ <td>5.2</td>
+ </tr><tr><td>Georgia</td>
+ <td>4,404</td>
+ <td>211</td>
+ <td>4.8</td>
+ </tr><tr><td>Virginia</td>
+ <td>3,685</td>
+ <td>176</td>
+ <td>4.8</td>
+ </tr><tr><td>Louisiana</td>
+ <td>1,722</td>
+ <td>81</td>
+ <td>4.7</td>
+ </tr><tr><td>Idaho</td>
+ <td>767</td>
+ <td>36</td>
+ <td>4.7</td>
+ </tr><tr><td>South Dakota</td>
+ <td>393</td>
+ <td>16</td>
+ <td>4.0</td>
+ </tr><tr><td>Arkansas</td>
+ <td>1,167</td>
+ <td>46</td>
+ <td>3.9</td>
+ </tr><tr><td>Texas</td>
+ <td>12,057</td>
+ <td>454</td>
+ <td>3.8</td>
+ </tr><tr><td>Utah</td>
+ <td>1,465</td>
+ <td>51</td>
+ <td>3.5</td>
+ </tr><tr><td>North Carolina</td>
+ <td>4,225</td>
+ <td>108</td>
+ <td>2.6</td>
+ </tr><tr><td>South Carolina</td>
+ <td>2,070</td>
+ <td>34</td>
+ <td>1.7</td>
+ </tr></tbody></table></div>
+ <footer><p>Source: U.S. Bureau of Labor Statistics</p>
+ </footer></section></div>
+
+
+<p data-paragraph="main">Hawaii <a href="https://elections.hawaii.gov/elections-in-hawaii/" target="_blank" rel="noopener">doesn’t have a presidential primary law</a> — Democrats there <a href="https://www.cnn.com/2020/05/23/politics/joe-biden-hawaii-democratic-primary-results/index.html" target="_blank" rel="noopener">used a party-run event</a> in 2020 — but the Aloha State is still an attractive early-state option (maybe most of all for campaign reporters) given how well it scores on both diversity and union membership. Union membership is also a point in favor of New York and New Jersey, which also both rank in the top 10 for diversity. Meanwhile, of the current early states, Nevada ranks 17th and New Hampshire 21st, while Iowa ranks 33rd and South Carolina finishes dead last when it comes to union participation.</p>
+
+
+
+<p data-paragraph="main">The last factor we’ll examine is how competitive a state was in the 2020 general election, using the popular vote margin between President Biden and then-President Donald Trump. On this metric, Georgia and Arizona top the list as both states were decided by less than a half percentage point in 2020, followed by Wisconsin, <a href="https://fivethirtyeight.com/features/even-though-biden-won-republicans-enjoyed-the-largest-electoral-college-edge-in-70-years-will-that-last/" target="_blank" rel="noopener">the “tipping-point” state</a>, or the state that delivered the decisive 270th electoral vote Biden needed to win.</p>
+
+
+<div>
+
+<section><header><h5>Georgia and Arizona were the most competitive states in 2020</h5>
+ <p>The 50 states and Washington, D.C., in order of the popular vote margin between Joe Biden and Donald Trump in 2020</p>
+ </header><div>
+ <table data-carpenter-slug="skelley.democratic-primary-calendar-0324.3"><thead><tr><th colspan="1" data-sort-index="0" aria-sort="descending" data-sort-default="true"><span>State<span><span>▲</span><span>▼</span></span>
+ </span>
+ </th>
+ <th colspan="1" data-sort-index="1" data-sort-method="number"><span>Biden<span><span>▲</span><span>▼</span></span>
+ </span>
+ </th>
+ <th colspan="1" data-sort-index="2" data-sort-method="number"><span>Trump<span><span>▲</span><span>▼</span></span>
+ </span>
+ </th>
+ <th colspan="1" data-sort-index="3" data-sort-method="number"><span>Margin<span><span>▲</span><span>▼</span></span>
+ </span>
+ </th>
+ </tr></thead><tbody><tr><td>Georgia</td>
+ <td data-suffix="%" data-suffixpadding="1.1em">49.5%</td>
+ <td data-suffix="%" data-suffixpadding="1.1em">49.2%</td>
+ <td>0.2</td>
+ </tr><tr><td>Arizona</td>
+ <td>49.2</td>
+ <td>48.9</td>
+ <td>0.3</td>
+ </tr><tr><td>Wisconsin</td>
+ <td>49.4</td>
+ <td>48.8</td>
+ <td>0.6</td>
+ </tr><tr><td>Pennsylvania</td>
+ <td>49.9</td>
+ <td>48.7</td>
+ <td>1.2</td>
+ </tr><tr><td>North Carolina</td>
+ <td>48.6</td>
+ <td>49.9</td>
+ <td>1.3</td>
+ </tr><tr><td>Nevada</td>
+ <td>50.1</td>
+ <td>47.7</td>
+ <td>2.4</td>
+ </tr><tr><td>Michigan</td>
+ <td>50.5</td>
+ <td>47.8</td>
+ <td>2.8</td>
+ </tr><tr><td>Florida</td>
+ <td>47.8</td>
+ <td>51.1</td>
+ <td>3.4</td>
+ </tr><tr><td>Texas</td>
+ <td>46.4</td>
+ <td>52.0</td>
+ <td>5.6</td>
+ </tr><tr><td>Minnesota</td>
+ <td>52.4</td>
+ <td>45.3</td>
+ <td>7.1</td>
+ </tr><tr><td>New Hampshire</td>
+ <td>52.7</td>
+ <td>45.4</td>
+ <td>7.4</td>
+ </tr><tr><td>Ohio</td>
+ <td>45.2</td>
+ <td>53.2</td>
+ <td>8.0</td>
+ </tr><tr><td>Iowa</td>
+ <td>44.9</td>
+ <td>53.1</td>
+ <td>8.2</td>
+ </tr><tr><td>Maine</td>
+ <td>53.1</td>
+ <td>44.0</td>
+ <td>9.1</td>
+ </tr><tr><td>Alaska</td>
+ <td>42.8</td>
+ <td>52.8</td>
+ <td>10.1</td>
+ </tr><tr><td>Virginia</td>
+ <td>54.1</td>
+ <td>44.0</td>
+ <td>10.1</td>
+ </tr><tr><td>New Mexico</td>
+ <td>54.3</td>
+ <td>43.5</td>
+ <td>10.8</td>
+ </tr><tr><td>South Carolina</td>
+ <td>43.4</td>
+ <td>55.1</td>
+ <td>11.7</td>
+ </tr><tr><td>Colorado</td>
+ <td>55.4</td>
+ <td>41.9</td>
+ <td>13.5</td>
+ </tr><tr><td>Kansas</td>
+ <td>41.4</td>
+ <td>56.0</td>
+ <td>14.6</td>
+ </tr><tr><td>Missouri</td>
+ <td>41.3</td>
+ <td>56.7</td>
+ <td>15.4</td>
+ </tr><tr><td>New Jersey</td>
+ <td>57.1</td>
+ <td>41.3</td>
+ <td>15.9</td>
+ </tr><tr><td>Indiana</td>
+ <td>40.9</td>
+ <td>56.9</td>
+ <td>16.0</td>
+ </tr><tr><td>Oregon</td>
+ <td>56.5</td>
+ <td>40.4</td>
+ <td>16.1</td>
+ </tr><tr><td>Montana</td>
+ <td>40.5</td>
+ <td>56.9</td>
+ <td>16.4</td>
+ </tr><tr><td>Mississippi</td>
+ <td>41.0</td>
+ <td>57.6</td>
+ <td>16.5</td>
+ </tr><tr><td>Illinois</td>
+ <td>57.4</td>
+ <td>40.4</td>
+ <td>16.9</td>
+ </tr><tr><td>Louisiana</td>
+ <td>39.9</td>
+ <td>58.5</td>
+ <td>18.6</td>
+ </tr><tr><td>Delaware</td>
+ <td>58.7</td>
+ <td>39.8</td>
+ <td>19.0</td>
+ </tr><tr><td>Nebraska</td>
+ <td>39.2</td>
+ <td>58.2</td>
+ <td>19.1</td>
+ </tr><tr><td>Washington</td>
+ <td>58.0</td>
+ <td>38.8</td>
+ <td>19.2</td>
+ </tr><tr><td>Connecticut</td>
+ <td>59.2</td>
+ <td>39.2</td>
+ <td>20.0</td>
+ </tr><tr><td>Utah</td>
+ <td>37.2</td>
+ <td>57.4</td>
+ <td>20.2</td>
+ </tr><tr><td>Rhode Island</td>
+ <td>59.4</td>
+ <td>38.6</td>
+ <td>20.8</td>
+ </tr><tr><td>New York</td>
+ <td>60.8</td>
+ <td>37.7</td>
+ <td>23.1</td>
+ </tr><tr><td>Tennessee</td>
+ <td>37.5</td>
+ <td>60.7</td>
+ <td>23.2</td>
+ </tr><tr><td>Alabama</td>
+ <td>36.6</td>
+ <td>62.0</td>
+ <td>25.5</td>
+ </tr><tr><td>Kentucky</td>
+ <td>36.1</td>
+ <td>62.1</td>
+ <td>25.9</td>
+ </tr><tr><td>South Dakota</td>
+ <td>35.6</td>
+ <td>61.8</td>
+ <td>26.2</td>
+ </tr><tr><td>Arkansas</td>
+ <td>34.8</td>
+ <td>62.4</td>
+ <td>27.6</td>
+ </tr><tr><td>California</td>
+ <td>63.4</td>
+ <td>34.3</td>
+ <td>29.1</td>
+ </tr><tr><td>Hawaii</td>
+ <td>63.7</td>
+ <td>34.3</td>
+ <td>29.5</td>
+ </tr><tr><td>Idaho</td>
+ <td>33.0</td>
+ <td>63.7</td>
+ <td>30.7</td>
+ </tr><tr><td>Oklahoma</td>
+ <td>32.3</td>
+ <td>65.4</td>
+ <td>33.1</td>
+ </tr><tr><td>Maryland</td>
+ <td>65.4</td>
+ <td>32.2</td>
+ <td>33.2</td>
+ </tr><tr><td>North Dakota</td>
+ <td>31.8</td>
+ <td>65.1</td>
+ <td>33.4</td>
+ </tr><tr><td>Massachusetts</td>
+ <td>65.6</td>
+ <td>32.1</td>
+ <td>33.5</td>
+ </tr><tr><td>Vermont</td>
+ <td>66.1</td>
+ <td>30.7</td>
+ <td>35.4</td>
+ </tr><tr><td>West Virginia</td>
+ <td>29.7</td>
+ <td>68.6</td>
+ <td>38.9</td>
+ </tr><tr><td>Wyoming</td>
+ <td>26.6</td>
+ <td>69.9</td>
+ <td>43.4</td>
+ </tr><tr><td>District of Columbia</td>
+ <td>92.1</td>
+ <td>5.4</td>
+ <td>86.8</td>
+ </tr></tbody></table></div>
+ <footer><p>Source: Dave Leip’s Atlas of U.S. Presidential Elections</p>
+ </footer></section></div>
+
+
+<p data-paragraph="main">This is actually a metric where most of the current early states score fairly well, too: Nevada, New Hampshire and Iowa all rank in the top 13, while South Carolina comes in at 18th. It’s also a weak point for some of the other states that score well on diversity and union membership: Biden carried Hawaii, New Jersey and New York by at least 15 points in 2020, for instance, making them uncompetitive.</p>
+
+
+
+<p data-paragraph="main">So where does this leave us in the early-state debate? Well, if we take each of these four components, <a href="https://medium.com/analytics-vidhya/mean-normalization-and-feature-scaling-a-simple-explanation-3b9be7bfd3e8" target="_blank" rel="noopener">standardize the data</a> for each state<a data-footnote-id="3" href="https://fivethirtyeight.com/wp-json/wp/v2/espn_verticals/398#fn-3" data-footnote-content="&lt;p&gt;&lt;p&gt;For each metric, I took a state’s value or score — for example, the share of a state’s population in a union — and subtracted the average for that category, then divided that by the standard deviation of the data for all 50 states and Washington, D.C. Also, whether a state uses a primary or a caucus can’t be calculated in quite the same way, so I gave every state that used a primary in 2020 a value of 1 (including Nevada, which is now a primary state), every state that used a party-run primary a value of 0 and every state that used a caucus -1.&lt;/p&gt;
+&lt;/p&gt;"><sup>3</sup></a> and then sum the scores across all four measures, Nevada is perhaps the best early-state choice for Democrats, just narrowly edging out New York:</p>
+
+
+<div>
+
+<section><header><h5>What Democrats’ new primary calendar could look like</h5>
+ <p>Standardized scores for primary access, diversity, union membership and general election competitiveness for the 50 states and Washington, D.C.</p>
+ </header><div>
+ <table data-carpenter-slug="skelley.democratic-primary-calendar-0324.4"><thead><tr><th colspan="1">STATE</th>
+ <th colspan="1">Primary access</th>
+ <th colspan="1">Diversity Index</th>
+ <th colspan="1">Union member.</th>
+ <th colspan="1">General election comp.</th>
+ <th colspan="1">Score</th>
+ </tr></thead><tbody><tr><td>Nevada</td>
+ <td>1.00</td>
+ <td>1.34</td>
+ <td>0.51</td>
+ <td>1.34</td>
+ <td>4.19</td>
+ </tr><tr><td>New York</td>
+ <td>1.00</td>
+ <td>1.13</td>
+ <td>2.49</td>
+ <td>-0.44</td>
+ <td>4.18</td>
+ </tr><tr><td>New Jersey</td>
+ <td>1.00</td>
+ <td>1.13</td>
+ <td>1.30</td>
+ <td>0.18</td>
+ <td>3.61</td>
+ </tr><tr><td>Hawaii</td>
+ <td>0.00</td>
+ <td>1.84</td>
+ <td>2.53</td>
+ <td>-0.99</td>
+ <td>3.38</td>
+ </tr><tr><td>Washington</td>
+ <td>1.00</td>
+ <td>0.45</td>
+ <td>1.86</td>
+ <td>-0.11</td>
+ <td>3.20</td>
+ </tr><tr><td>Alaska</td>
+ <td>0.00</td>
+ <td>0.93</td>
+ <td>1.23</td>
+ <td>0.68</td>
+ <td>2.83</td>
+ </tr><tr><td>Michigan</td>
+ <td>1.00</td>
+ <td>-0.29</td>
+ <td>0.73</td>
+ <td>1.30</td>
+ <td>2.74</td>
+ </tr><tr><td>Pennsylvania</td>
+ <td>1.00</td>
+ <td>-0.37</td>
+ <td>0.65</td>
+ <td>1.44</td>
+ <td>2.72</td>
+ </tr><tr><td>Illinois</td>
+ <td>1.00</td>
+ <td>0.75</td>
+ <td>0.85</td>
+ <td>0.08</td>
+ <td>2.69</td>
+ </tr><tr><td>California</td>
+ <td>1.00</td>
+ <td>1.40</td>
+ <td>1.25</td>
+ <td>-0.97</td>
+ <td>2.68</td>
+ </tr><tr><td>Georgia</td>
+ <td>1.00</td>
+ <td>1.02</td>
+ <td>-0.95</td>
+ <td>1.52</td>
+ <td>2.59</td>
+ </tr><tr><td>Minnesota</td>
+ <td>1.00</td>
+ <td>-0.62</td>
+ <td>1.26</td>
+ <td>0.93</td>
+ <td>2.58</td>
+ </tr><tr><td>Oregon</td>
+ <td>1.00</td>
+ <td>-0.23</td>
+ <td>1.62</td>
+ <td>0.16</td>
+ <td>2.55</td>
+ </tr><tr><td>Arizona</td>
+ <td>1.00</td>
+ <td>0.84</td>
+ <td>-0.83</td>
+ <td>1.52</td>
+ <td>2.52</td>
+ </tr><tr><td>Florida</td>
+ <td>1.00</td>
+ <td>1.02</td>
+ <td>-0.87</td>
+ <td>1.25</td>
+ <td>2.40</td>
+ </tr><tr><td>Connecticut</td>
+ <td>1.00</td>
+ <td>0.44</td>
+ <td>0.99</td>
+ <td>-0.18</td>
+ <td>2.24</td>
+ </tr><tr><td>New Mexico</td>
+ <td>1.00</td>
+ <td>0.94</td>
+ <td>-0.42</td>
+ <td>0.61</td>
+ <td>2.14</td>
+ </tr><tr><td>Texas</td>
+ <td>1.00</td>
+ <td>1.22</td>
+ <td>-1.15</td>
+ <td>1.06</td>
+ <td>2.13</td>
+ </tr><tr><td>Rhode Island</td>
+ <td>1.00</td>
+ <td>0.00</td>
+ <td>1.21</td>
+ <td>-0.25</td>
+ <td>1.96</td>
+ </tr><tr><td>Ohio</td>
+ <td>1.00</td>
+ <td>-0.62</td>
+ <td>0.47</td>
+ <td>0.85</td>
+ <td>1.70</td>
+ </tr><tr><td>Delaware</td>
+ <td>1.00</td>
+ <td>0.71</td>
+ <td>0.02</td>
+ <td>-0.09</td>
+ <td>1.64</td>
+ </tr><tr><td>North Carolina</td>
+ <td>1.00</td>
+ <td>0.59</td>
+ <td>-1.38</td>
+ <td>1.43</td>
+ <td>1.63</td>
+ </tr><tr><td>Virginia</td>
+ <td>1.00</td>
+ <td>0.77</td>
+ <td>-0.95</td>
+ <td>0.67</td>
+ <td>1.49</td>
+ </tr><tr><td>Wisconsin</td>
+ <td>1.00</td>
+ <td>-0.86</td>
+ <td>-0.34</td>
+ <td>1.49</td>
+ <td>1.29</td>
+ </tr><tr><td>Maryland</td>
+ <td>1.00</td>
+ <td>1.24</td>
+ <td>0.28</td>
+ <td>-1.32</td>
+ <td>1.20</td>
+ </tr><tr><td>Colorado</td>
+ <td>1.00</td>
+ <td>0.20</td>
+ <td>-0.61</td>
+ <td>0.38</td>
+ <td>0.97</td>
+ </tr><tr><td>Mississippi</td>
+ <td>1.00</td>
+ <td>0.45</td>
+ <td>-0.81</td>
+ <td>0.12</td>
+ <td>0.76</td>
+ </tr><tr><td>Louisiana</td>
+ <td>1.00</td>
+ <td>0.64</td>
+ <td>-0.97</td>
+ <td>-0.06</td>
+ <td>0.61</td>
+ </tr><tr><td>Missouri</td>
+ <td>1.00</td>
+ <td>-0.59</td>
+ <td>-0.12</td>
+ <td>0.22</td>
+ <td>0.51</td>
+ </tr><tr><td>Indiana</td>
+ <td>1.00</td>
+ <td>-0.56</td>
+ <td>-0.12</td>
+ <td>0.16</td>
+ <td>0.48</td>
+ </tr><tr><td>Massachusetts</td>
+ <td>1.00</td>
+ <td>0.15</td>
+ <td>0.59</td>
+ <td>-1.34</td>
+ <td>0.41</td>
+ </tr><tr><td>South Carolina</td>
+ <td>1.00</td>
+ <td>0.36</td>
+ <td>-1.56</td>
+ <td>0.54</td>
+ <td>0.34</td>
+ </tr><tr><td>New Hampshire</td>
+ <td>1.00</td>
+ <td>-1.78</td>
+ <td>0.10</td>
+ <td>0.91</td>
+ <td>0.22</td>
+ </tr><tr><td>Maine</td>
+ <td>1.00</td>
+ <td>-2.14</td>
+ <td>0.55</td>
+ <td>0.76</td>
+ <td>0.18</td>
+ </tr><tr><td>Montana</td>
+ <td>1.00</td>
+ <td>-1.34</td>
+ <td>0.32</td>
+ <td>0.13</td>
+ <td>0.11</td>
+ </tr><tr><td>Kansas</td>
+ <td>0.00</td>
+ <td>-0.28</td>
+ <td>-0.08</td>
+ <td>0.29</td>
+ <td>-0.07</td>
+ </tr><tr><td>Alabama</td>
+ <td>1.00</td>
+ <td>0.26</td>
+ <td>-0.73</td>
+ <td>-0.65</td>
+ <td>-0.12</td>
+ </tr><tr><td>District of Columbia</td>
+ <td>1.00</td>
+ <td>1.23</td>
+ <td>-0.14</td>
+ <td>-2.25</td>
+ <td>-0.15</td>
+ </tr><tr><td>Nebraska</td>
+ <td>1.00</td>
+ <td>-0.59</td>
+ <td>-0.55</td>
+ <td>-0.10</td>
+ <td>-0.25</td>
+ </tr><tr><td>Oklahoma</td>
+ <td>1.00</td>
+ <td>0.70</td>
+ <td>-0.79</td>
+ <td>-1.31</td>
+ <td>-0.40</td>
+ </tr><tr><td>Tennessee</td>
+ <td>1.00</td>
+ <td>-0.19</td>
+ <td>-0.87</td>
+ <td>-0.46</td>
+ <td>-0.52</td>
+ </tr><tr><td>Arkansas</td>
+ <td>1.00</td>
+ <td>0.03</td>
+ <td>-1.13</td>
+ <td>-0.84</td>
+ <td>-0.93</td>
+ </tr><tr><td>Utah</td>
+ <td>1.00</td>
+ <td>-0.60</td>
+ <td>-1.21</td>
+ <td>-0.20</td>
+ <td>-1.01</td>
+ </tr><tr><td>Kentucky</td>
+ <td>1.00</td>
+ <td>-1.15</td>
+ <td>-0.47</td>
+ <td>-0.69</td>
+ <td>-1.31</td>
+ </tr><tr><td>South Dakota</td>
+ <td>1.00</td>
+ <td>-0.95</td>
+ <td>-1.11</td>
+ <td>-0.71</td>
+ <td>-1.77</td>
+ </tr><tr><td>Vermont</td>
+ <td>1.00</td>
+ <td>-2.02</td>
+ <td>0.53</td>
+ <td>-1.51</td>
+ <td>-1.99</td>
+ </tr><tr><td>Idaho</td>
+ <td>1.00</td>
+ <td>-0.93</td>
+ <td>-0.97</td>
+ <td>-1.10</td>
+ <td>-2.00</td>
+ </tr><tr><td>Iowa</td>
+ <td>-1.00</td>
+ <td>-1.29</td>
+ <td>-0.61</td>
+ <td>0.84</td>
+ <td>-2.06</td>
+ </tr><tr><td>West Virginia</td>
+ <td>1.00</td>
+ <td>-2.02</td>
+ <td>0.00</td>
+ <td>-1.81</td>
+ <td>-2.83</td>
+ </tr><tr><td>North Dakota</td>
+ <td>0.00</td>
+ <td>-1.16</td>
+ <td>-0.83</td>
+ <td>-1.33</td>
+ <td>-3.32</td>
+ </tr><tr><td>Wyoming</td>
+ <td>0.00</td>
+ <td>-1.18</td>
+ <td>-0.77</td>
+ <td>-2.19</td>
+ <td>-4.14</td>
+ </tr></tbody></table></div>
+ <footer><p>The scores represent the standardization of each output, except for primary access, where states with primaries were scored as 1, states with party-run primaries were scored as 0 and caucus states were scored as -1. Primary access is based on 2020 voting method and recent changes to state law where applicable.</p>
+ </footer></section></div>
+
+
+<p data-paragraph="main">New Jersey and Hawaii also make the top five, as does Washington, which already experienced a primary calendar change recently, moving its primary to early March in the 2020 Democratic contest. There isn’t a ton of good news in these scores for the other three early-voting states, however, as South Carolina and New Hampshire ranked in the low 30s, while Iowa comes in at 47th.</p>
+
+
+
+<p data-paragraph="main">We mentioned this earlier, but there is one other important consideration here that was not possible to score: geographic diversity among the early-voting states. And that’s something Democrats (and Republicans) already have with the current lineup. Each of the first four states comes from one of the <a href="https://www2.census.gov/geo/pdfs/maps-data/maps/reference/us_regdiv.pdf" target="_blank" rel="noopener">four census regions</a>: Nevada from the West, Iowa from the Midwest, South Carolina from the South and New Hampshire from the Northeast. </p>
+
+
+
+<p data-paragraph="main">Nevada seems well-positioned to hold onto its position as the key Western state under these metrics, but maybe New York or New Jersey fight to replace New Hampshire from the Northeast. Lower down the list, Michigan as the Midwestern state with the highest score looks to supplant Iowa, and Georgia edges out South Carolina as the Southern state that scores highest.</p>
+
+
+
+<p data-paragraph="main">Of course, we are <em>not</em> suggesting that Nevada, New York, Michigan and Georgia are about to top the 2024 Democratic primary calendar. Rather, this exercise gives us a better idea of how the different priorities laid out in the draft resolution might shake up the primary calendar. In the end, though, it’s unlikely that the DNC will take such a cut-and-dry approach. For instance, South Carolina doesn’t score all that well (32nd overall), but part of its <a href="https://fivethirtyeight.com/features/could-joe-biden-be-in-trouble-in-south-carolina/" target="_blank" rel="noopener">appeal as an early state</a> for Democrats is that it has a <a href="https://www.census.gov/newsroom/releases/archives/census_2000/cb01cn176.html" target="_blank" rel="noopener">sizable Black population</a>, which is an important part of the Democratic base. And while Georgia also has a larger number of Black voters, one advantage to South Carolina is it’s not as populous, so it’s cheaper to advertise in — something that is <a href="https://www.jstor.org/stable/40270928" target="_blank" rel="noopener">generally true</a> of most media markets in the current early states.</p>
+
+
+
+<p data-paragraph="main">Additionally, say that the DNC does try to change things, states in danger of losing their primo spots on the calendar can push back. Different state laws could make it challenging to supplant Iowa and New Hampshire, too. <a href="https://www.legis.iowa.gov/docs/code/43.4.pdf" target="_blank" rel="noopener">Iowa law dictates</a>, for instance, that the state’s caucuses shall be held “at least eight days earlier” than any other presidential contest, while New Hampshire’s law <a href="https://www.brookings.edu/blog/fixgov/2016/02/05/why-is-new-hampshire-the-first-primary-in-the-nation/" target="_blank" rel="noopener">gives discretion</a> to its secretary of state to move the date to preserve the Granite State’s status as the “first in the nation” primary. In fact, every state government and/or state party sets the date of its contest, so while the DNC can try to influence those choices, they ultimately have only so much power to set the calendar. Not to mention the GOP <a href="https://www.desmoinesregister.com/story/news/politics/2022/02/07/republican-panel-no-changes-iowa-caucuses-2024-election-president/6695300001/" target="_blank" rel="noopener">doesn’t plan to make any changes</a> to its early primary calendar, which could make it even more complicated to supplant states like Iowa and New Hampshire.</p>
+
+
+
+<p data-paragraph="main">In other words, while it’s clear Iowa and New Hampshire have plenty of reason to worry, don’t necessarily bet against them kicking off the cycle again in 2024.</p>]]></description>
+			<pubDate>Thu, 24 Mar 2022 10:00:00 +0000</pubDate>
+			<guid isPermaLink="false">1648119601782271</guid>
+		</item>
 		<item>
 			<title>Why Early Senate And Governor Polls Have Plenty To Tell Us About November</title>
 			<link>https://fivethirtyeight.com/features/why-early-senate-and-governor-polls-have-plenty-to-tell-us-about-november/</link>
@@ -74,8 +1384,8 @@
 
 
 
-<p data-paragraph="main">That’s according to our analysis of general election polls for Senate and governor conducted in the first six months of every election year going back to 1998. Using over 2,000 polls, we built polling averages for 261 Senate races and 225 gubernatorial contests that had at least one survey in the first six months, finding that these polls have a fairly strong relationship to the final results in November, as the chart below shows.<a data-footnote-id="1" href="https://fivethirtyeight.com/wp-json/wp/v2/espn_verticals/398#fn-1" data-footnote-content='&lt;p&gt;&lt;p&gt;The &lt;a href="https://sphweb.bumc.bu.edu/otlt/mph-modules/bs/bs704_multivariable/bs704_multivariable5.html" target="_blank" rel="noopener"&gt;correlation between&lt;/a&gt; the Senate polling averages and results was .897, while the correlation between the gubernatorial polling averages and results was .839.&lt;/p&gt;
-&lt;/p&gt;'><sup>1</sup></a></p>
+<p data-paragraph="main">That’s according to our analysis of general election polls for Senate and governor conducted in the first six months of every election year going back to 1998. Using over 2,000 polls, we built polling averages for 261 Senate races and 225 gubernatorial contests that had at least one survey in the first six months, finding that these polls have a fairly strong relationship to the final results in November, as the chart below shows.<a data-footnote-id="4" href="https://fivethirtyeight.com/wp-json/wp/v2/espn_verticals/398#fn-4" data-footnote-content='&lt;p&gt;&lt;p&gt;The &lt;a href="https://sphweb.bumc.bu.edu/otlt/mph-modules/bs/bs704_multivariable/bs704_multivariable5.html" target="_blank" rel="noopener"&gt;correlation between&lt;/a&gt; the Senate polling averages and results was .897, while the correlation between the gubernatorial polling averages and results was .839.&lt;/p&gt;
+&lt;/p&gt;'><sup>4</sup></a></p>
 
 
 
@@ -823,8 +2133,8 @@
 
 
 
-<p data-paragraph="main">But in exchange for later sunsets, people have to be OK with dark mornings. And that’s not a universally popular tradeoff. Americans actually experimented with permanent daylight saving time starting in January 1974, and <a href="https://www.washingtonpost.com/politics/2021/03/15/no-more-changing-clocks-history-says-be-careful-what-you-wish-daylight-saving-time/" target="_blank" rel="noopener">it didn’t go well</a>. As reported in The Washington Post, support for year-round daylight saving time fell from a majority in late 1973 to around 30 percent in February and March 1974. According to Louis Harris polling that March, people were much more likely to say the change was a bad idea (43 percent) than a good one (19 percent). Parents who found themselves sending their children to school on pitch-black, cold winter mornings were particularly upset.<a data-footnote-id="2" href="https://fivethirtyeight.com/wp-json/wp/v2/espn_verticals/398#fn-2" data-footnote-content='&lt;p&gt;&lt;p&gt;The experiment ended that fall, when the &lt;a href="https://www.nytimes.com/1974/10/01/archives/senate-votes-return-to-standard-time-for-four-months-and-sends-bill.html" target="_blank" rel="noopener"&gt;Senate agreed&lt;/a&gt; to scrap permanent daylight saving time and &lt;a href="https://www.fordlibrarymuseum.gov/library/document/0055/1668702.pdf" target="_blank" rel="noopener"&gt;President Gerald Ford signed&lt;/a&gt; the bill into law.&lt;/p&gt;
-&lt;/p&gt;'><sup>2</sup></a> But anyone who wakes up on the early side — <a href="https://www.edisonresearch.com/wake-me-up-series-2/" target="_blank" rel="noopener">which many Americans do</a> — might also dislike slogging through an extra hour of darkness as they begin their day. </p>
+<p data-paragraph="main">But in exchange for later sunsets, people have to be OK with dark mornings. And that’s not a universally popular tradeoff. Americans actually experimented with permanent daylight saving time starting in January 1974, and <a href="https://www.washingtonpost.com/politics/2021/03/15/no-more-changing-clocks-history-says-be-careful-what-you-wish-daylight-saving-time/" target="_blank" rel="noopener">it didn’t go well</a>. As reported in The Washington Post, support for year-round daylight saving time fell from a majority in late 1973 to around 30 percent in February and March 1974. According to Louis Harris polling that March, people were much more likely to say the change was a bad idea (43 percent) than a good one (19 percent). Parents who found themselves sending their children to school on pitch-black, cold winter mornings were particularly upset.<a data-footnote-id="5" href="https://fivethirtyeight.com/wp-json/wp/v2/espn_verticals/398#fn-5" data-footnote-content='&lt;p&gt;&lt;p&gt;The experiment ended that fall, when the &lt;a href="https://www.nytimes.com/1974/10/01/archives/senate-votes-return-to-standard-time-for-four-months-and-sends-bill.html" target="_blank" rel="noopener"&gt;Senate agreed&lt;/a&gt; to scrap permanent daylight saving time and &lt;a href="https://www.fordlibrarymuseum.gov/library/document/0055/1668702.pdf" target="_blank" rel="noopener"&gt;President Gerald Ford signed&lt;/a&gt; the bill into law.&lt;/p&gt;
+&lt;/p&gt;'><sup>5</sup></a> But anyone who wakes up on the early side — <a href="https://www.edisonresearch.com/wake-me-up-series-2/" target="_blank" rel="noopener">which many Americans do</a> — might also dislike slogging through an extra hour of darkness as they begin their day. </p>
 
 
 
@@ -844,8 +2154,8 @@
 
 
 
-<figure><img loading="lazy" width="1150" height="920" src="https://fivethirtyeight.com/wp-content/uploads/2022/03/biden-approval-rating-2-2.png" alt="" data-src="https://fivethirtyeight.com/wp-content/uploads/2022/03/biden-approval-rating-2-2.png" data-srcset="https://fivethirtyeight.com/wp-content/uploads/2022/03/biden-approval-rating-2-2.png?w=700 1x, https://fivethirtyeight.com/wp-content/uploads/2022/03/biden-approval-rating-2-2.png?w=1400 2x"></figure><p data-paragraph="main">According to FiveThirtyEight’s <a href="https://projects.fivethirtyeight.com/biden-approval-rating/" target="_blank" rel="noopener">presidential approval tracker</a>,<a data-footnote-id="3" href="https://fivethirtyeight.com/wp-json/wp/v2/espn_verticals/398#fn-3" data-footnote-content="&lt;p&gt;&lt;p&gt;As of 5 p.m. Eastern on Thursday.&lt;/p&gt;
-&lt;/p&gt;"><sup>3</sup></a> 42.2 percent of Americans approve of the job Biden is doing as president, while 52.9 percent disapprove (a net approval rating of -10.7 points). At this time <a href="https://fivethirtyeight.com/features/how-the-war-in-ukraine-might-change-putins-popularity-among-russians/" target="_blank" rel="noopener">last week</a>, 42.5 percent approved and 51.6 percent disapproved (a net approval rating of -9.1 points). One month ago, Biden had an approval rating of 41.4 percent and a disapproval rating of 53.0 percent, for a net approval rating of -11.6 points.</p>
+<figure><img loading="lazy" width="1150" height="920" src="https://fivethirtyeight.com/wp-content/uploads/2022/03/biden-approval-rating-2-2.png" alt="" data-src="https://fivethirtyeight.com/wp-content/uploads/2022/03/biden-approval-rating-2-2.png" data-srcset="https://fivethirtyeight.com/wp-content/uploads/2022/03/biden-approval-rating-2-2.png?w=700 1x, https://fivethirtyeight.com/wp-content/uploads/2022/03/biden-approval-rating-2-2.png?w=1400 2x"></figure><p data-paragraph="main">According to FiveThirtyEight’s <a href="https://projects.fivethirtyeight.com/biden-approval-rating/" target="_blank" rel="noopener">presidential approval tracker</a>,<a data-footnote-id="6" href="https://fivethirtyeight.com/wp-json/wp/v2/espn_verticals/398#fn-6" data-footnote-content="&lt;p&gt;&lt;p&gt;As of 5 p.m. Eastern on Thursday.&lt;/p&gt;
+&lt;/p&gt;"><sup>6</sup></a> 42.2 percent of Americans approve of the job Biden is doing as president, while 52.9 percent disapprove (a net approval rating of -10.7 points). At this time <a href="https://fivethirtyeight.com/features/how-the-war-in-ukraine-might-change-putins-popularity-among-russians/" target="_blank" rel="noopener">last week</a>, 42.5 percent approved and 51.6 percent disapproved (a net approval rating of -9.1 points). One month ago, Biden had an approval rating of 41.4 percent and a disapproval rating of 53.0 percent, for a net approval rating of -11.6 points.</p>
 
 
 
@@ -853,8 +2163,8 @@
 
 
 
-<figure><img loading="lazy" width="1150" height="920" src="https://fivethirtyeight.com/wp-content/uploads/2022/03/generic-ballot-2-2.png" alt="" data-src="https://fivethirtyeight.com/wp-content/uploads/2022/03/generic-ballot-2-2.png" data-srcset="https://fivethirtyeight.com/wp-content/uploads/2022/03/generic-ballot-2-2.png?w=700 1x, https://fivethirtyeight.com/wp-content/uploads/2022/03/generic-ballot-2-2.png?w=1400 2x"></figure><p data-paragraph="main">In our average of polls of the <a href="https://projects.fivethirtyeight.com/congress-generic-ballot-polls/" target="_blank" rel="noopener">generic congressional ballot</a>,<a data-footnote-id="4" href="https://fivethirtyeight.com/wp-json/wp/v2/espn_verticals/398#fn-4" data-footnote-content="&lt;p&gt;&lt;p&gt;As of 5 p.m. Eastern on Thursday.&lt;/p&gt;
-&lt;/p&gt;"><sup>4</sup></a> Republicans currently lead by 2.2 percentage points (44.8 percent to 42.7 percent). <a href="https://fivethirtyeight.com/features/how-the-war-in-ukraine-might-change-putins-popularity-among-russians/" target="_blank" rel="noopener">A week ago</a>, Republicans led Democrats by 2.1 points (44.8 percent to 42.7 percent). At this time last month, voters preferred Republicans by 2.1 points (44.8 percent to 42.6 percent).</p>]]></description>
+<figure><img loading="lazy" width="1150" height="920" src="https://fivethirtyeight.com/wp-content/uploads/2022/03/generic-ballot-2-2.png" alt="" data-src="https://fivethirtyeight.com/wp-content/uploads/2022/03/generic-ballot-2-2.png" data-srcset="https://fivethirtyeight.com/wp-content/uploads/2022/03/generic-ballot-2-2.png?w=700 1x, https://fivethirtyeight.com/wp-content/uploads/2022/03/generic-ballot-2-2.png?w=1400 2x"></figure><p data-paragraph="main">In our average of polls of the <a href="https://projects.fivethirtyeight.com/congress-generic-ballot-polls/" target="_blank" rel="noopener">generic congressional ballot</a>,<a data-footnote-id="7" href="https://fivethirtyeight.com/wp-json/wp/v2/espn_verticals/398#fn-7" data-footnote-content="&lt;p&gt;&lt;p&gt;As of 5 p.m. Eastern on Thursday.&lt;/p&gt;
+&lt;/p&gt;"><sup>7</sup></a> Republicans currently lead by 2.2 percentage points (44.8 percent to 42.7 percent). <a href="https://fivethirtyeight.com/features/how-the-war-in-ukraine-might-change-putins-popularity-among-russians/" target="_blank" rel="noopener">A week ago</a>, Republicans led Democrats by 2.1 points (44.8 percent to 42.7 percent). At this time last month, voters preferred Republicans by 2.1 points (44.8 percent to 42.6 percent).</p>]]></description>
 			<pubDate>Fri, 18 Mar 2022 10:00:00 +0000</pubDate>
 			<guid isPermaLink="false">1647602101643196</guid>
 		</item>
@@ -992,9 +2302,9 @@
 
 
 
-<p data-paragraph="main">Let’s start with a positive development for nonwhite representation: Several new predominantly Hispanic congressional seats were created this redistricting cycle. (This makes sense, given that the Hispanic population of the U.S. increased by at least 11.6 million people between the <a href="https://data.census.gov/cedsci/table?t=Hispanic%20or%20Latino&amp;g=0100000US&amp;y=2010&amp;tid=DECENNIALPLNAT2010.P2" target="_blank" rel="noopener">2010</a> and <a href="https://data.census.gov/cedsci/table?t=Hispanic%20or%20Latino&amp;g=0100000US&amp;y=2020&amp;tid=DECENNIALPL2020.P2" target="_blank" rel="noopener">2020</a> censuses, accounting for more than 51 percent of the country’s growth on net during that period — and the fact that <a href="https://www.npr.org/2022/03/10/1083732104/2020-census-accuracy-undercount-overcount-data-quality" target="_blank" rel="noopener">Latinos were undercounted</a> could mean they accounted for even more.) For example, the voting-age population<a data-footnote-id="5" href="https://fivethirtyeight.com/wp-json/wp/v2/espn_verticals/398#fn-5" data-footnote-content="&lt;p&gt;&lt;p&gt;I.e., the population age 18 or older. All district demographics for the remainder of the article are based on VAP rather than total population.&lt;/p&gt;
-&lt;/p&gt;"><sup>5</sup></a> of Illinois’s 3rd District, which was previously 58 percent white and 31 percent Hispanic, is now 44 percent Hispanic and 43 percent white, giving the Chicago area two seats now where Latinos are the biggest racial group.<a data-footnote-id="6" href="https://fivethirtyeight.com/wp-json/wp/v2/espn_verticals/398#fn-6" data-footnote-content="&lt;p&gt;&lt;p&gt;For the purposes of this article, we’re considering Hispanic or Latino ethnicity to be a race to make an apples-to-apples comparison with white, Black and Asian American populations. As a result, the terms “white,” “Black” and “Asian American” on their own refer specifically to non-Hispanic white, non-Hispanic Black and non-Hispanic Asian American.&lt;/p&gt;
-&lt;/p&gt;"><sup>6</sup></a></p>
+<p data-paragraph="main">Let’s start with a positive development for nonwhite representation: Several new predominantly Hispanic congressional seats were created this redistricting cycle. (This makes sense, given that the Hispanic population of the U.S. increased by at least 11.6 million people between the <a href="https://data.census.gov/cedsci/table?t=Hispanic%20or%20Latino&amp;g=0100000US&amp;y=2010&amp;tid=DECENNIALPLNAT2010.P2" target="_blank" rel="noopener">2010</a> and <a href="https://data.census.gov/cedsci/table?t=Hispanic%20or%20Latino&amp;g=0100000US&amp;y=2020&amp;tid=DECENNIALPL2020.P2" target="_blank" rel="noopener">2020</a> censuses, accounting for more than 51 percent of the country’s growth on net during that period — and the fact that <a href="https://www.npr.org/2022/03/10/1083732104/2020-census-accuracy-undercount-overcount-data-quality" target="_blank" rel="noopener">Latinos were undercounted</a> could mean they accounted for even more.) For example, the voting-age population<a data-footnote-id="8" href="https://fivethirtyeight.com/wp-json/wp/v2/espn_verticals/398#fn-8" data-footnote-content="&lt;p&gt;&lt;p&gt;I.e., the population age 18 or older. All district demographics for the remainder of the article are based on VAP rather than total population.&lt;/p&gt;
+&lt;/p&gt;"><sup>8</sup></a> of Illinois’s 3rd District, which was previously 58 percent white and 31 percent Hispanic, is now 44 percent Hispanic and 43 percent white, giving the Chicago area two seats now where Latinos are the biggest racial group.<a data-footnote-id="9" href="https://fivethirtyeight.com/wp-json/wp/v2/espn_verticals/398#fn-9" data-footnote-content="&lt;p&gt;&lt;p&gt;For the purposes of this article, we’re considering Hispanic or Latino ethnicity to be a race to make an apples-to-apples comparison with white, Black and Asian American populations. As a result, the terms “white,” “Black” and “Asian American” on their own refer specifically to non-Hispanic white, non-Hispanic Black and non-Hispanic Asian American.&lt;/p&gt;
+&lt;/p&gt;"><sup>9</sup></a></p>
 
 
 
@@ -1139,8 +2449,8 @@
 
 
 
-<p data-paragraph="main">This may not seem like a big deal, but because voting in the South is so polarized by race, this was enough to make each district a few percentage points more Republican; Georgia’s 2nd went from a <a href="https://fivethirtyeight.com/features/how-red-or-blue-is-your-state-your-congressional-district/" target="_blank" rel="noopener">FiveThirtyEight partisan lean</a><a data-footnote-id="7" href="https://fivethirtyeight.com/wp-json/wp/v2/espn_verticals/398#fn-7" data-footnote-content="&lt;p&gt;&lt;p&gt;Partisan lean is the average margin difference between how a state or district votes and how the country votes overall. This version of partisan lean, meant to be used for congressional and gubernatorial elections, is calculated as 50 percent the state or district’s lean relative to the nation in the most recent presidential election, 25 percent its relative lean in the second-most-recent presidential election and 25 percent a custom state-legislative lean.&lt;/p&gt;
-&lt;/p&gt;"><sup>7</sup></a> of D+6 to D+4, while North Carolina’s 1st went from a partisan lean of D+7 to D+5. In other words, they are competitive enough that it’s possible that Republicans will win them in 2022, which is already shaping up to be a good midterm environment for the GOP. If so, these districts will have failed to elect Black voters’ preferred candidate for the first time in decades.</p>
+<p data-paragraph="main">This may not seem like a big deal, but because voting in the South is so polarized by race, this was enough to make each district a few percentage points more Republican; Georgia’s 2nd went from a <a href="https://fivethirtyeight.com/features/how-red-or-blue-is-your-state-your-congressional-district/" target="_blank" rel="noopener">FiveThirtyEight partisan lean</a><a data-footnote-id="10" href="https://fivethirtyeight.com/wp-json/wp/v2/espn_verticals/398#fn-10" data-footnote-content="&lt;p&gt;&lt;p&gt;Partisan lean is the average margin difference between how a state or district votes and how the country votes overall. This version of partisan lean, meant to be used for congressional and gubernatorial elections, is calculated as 50 percent the state or district’s lean relative to the nation in the most recent presidential election, 25 percent its relative lean in the second-most-recent presidential election and 25 percent a custom state-legislative lean.&lt;/p&gt;
+&lt;/p&gt;"><sup>10</sup></a> of D+6 to D+4, while North Carolina’s 1st went from a partisan lean of D+7 to D+5. In other words, they are competitive enough that it’s possible that Republicans will win them in 2022, which is already shaping up to be a good midterm environment for the GOP. If so, these districts will have failed to elect Black voters’ preferred candidate for the first time in decades.</p>
 
 
 
@@ -1248,8 +2558,8 @@
 
 
 
-<p data-paragraph="main"><strong>sarah </strong>(<a href="https://fivethirtyeight.com/contributors/sarah-frostenson/" target="_blank" rel="noopener">Sarah Frostenson</a>, politics editor): In the last two weeks or so, President Biden’s approval rating has ticked up from 41.1 percent to 42.9 percent, according to <a href="https://projects.fivethirtyeight.com/biden-approval-rating/" target="_blank" rel="noopener">FiveThirtyEight’s presidential approval tracker</a>.<a data-footnote-id="8" href="https://fivethirtyeight.com/wp-json/wp/v2/espn_verticals/398#fn-8" data-footnote-content="&lt;p&gt;&lt;p&gt;As of 5 p.m. Eastern on Tuesday.&lt;/p&gt;
-&lt;/p&gt;"><sup>8</sup></a> The share of Americans who disapprove of the job he’s doing has ticked down, too, from 53.6 percent to 52.3 percent.</p>
+<p data-paragraph="main"><strong>sarah </strong>(<a href="https://fivethirtyeight.com/contributors/sarah-frostenson/" target="_blank" rel="noopener">Sarah Frostenson</a>, politics editor): In the last two weeks or so, President Biden’s approval rating has ticked up from 41.1 percent to 42.9 percent, according to <a href="https://projects.fivethirtyeight.com/biden-approval-rating/" target="_blank" rel="noopener">FiveThirtyEight’s presidential approval tracker</a>.<a data-footnote-id="11" href="https://fivethirtyeight.com/wp-json/wp/v2/espn_verticals/398#fn-11" data-footnote-content="&lt;p&gt;&lt;p&gt;As of 5 p.m. Eastern on Tuesday.&lt;/p&gt;
+&lt;/p&gt;"><sup>11</sup></a> The share of Americans who disapprove of the job he’s doing has ticked down, too, from 53.6 percent to 52.3 percent.</p>
 
 
 
@@ -1277,9 +2587,9 @@
 
 
 
-<p data-paragraph="main"><strong>nrakich:</strong> Exactly, Amelia. And I think overall media coverage has had more to do with that than the State of the Union. Cable news has <a href="https://fivethirtyeight.com/features/americans-care-about-the-invasion-of-ukraine-but-that-doesnt-mean-they-will-rally-around-biden/" target="_blank" rel="noopener">covered the war in Ukraine very intensely</a>. For example, on Feb. 24, the day after Russia started its invasion,<a data-footnote-id="9" href="https://fivethirtyeight.com/wp-json/wp/v2/espn_verticals/398#fn-9" data-footnote-content="&lt;p&gt;&lt;p&gt;Russia actually started to invade early on the morning of Feb. 24 in Ukraine, but it was still late on Feb. 23 in the U.S.&lt;/p&gt;
-&lt;/p&gt;"><sup>9</sup></a> <a href="https://api.gdeltproject.org/api/v2/summary/summary?d=iatv&amp;t=summary&amp;k=Ukraine&amp;ts=custom&amp;sdt=20220101000000&amp;edt=20220313235959&amp;fs=station%3ACNN&amp;fs=station%3AFOXNEWS&amp;fs=station%3AMSNBC&amp;fcs=comb&amp;fdn=raw&amp;fdr=day&amp;fdt=-05%3A00&amp;svt=zoom&amp;svts=zoom&amp;swvt=zoom&amp;ssc=yes&amp;sshc=yes&amp;swc=yes&amp;stcl=yes&amp;c=1" target="_blank" rel="noopener">Ukraine was mentioned in 3,095 15-second clips on CNN, Fox News and MSNBC</a>. To put that in perspective, on Election Day 2020, former President Donald Trump was mentioned by name in <a href="https://api.gdeltproject.org/api/v2/summary/summary?d=iatv&amp;t=summary&amp;k=trump&amp;ts=custom&amp;sdt=20201101000000&amp;edt=20201108235959&amp;fs=station%3ACNN&amp;fs=station%3AFOXNEWS&amp;fs=station%3AMSNBC&amp;fcs=comb&amp;fdn=raw&amp;fdr=day&amp;fdt=-05%3A00&amp;svt=zoom&amp;svts=zoom&amp;swvt=zoom&amp;ssc=yes&amp;sshc=yes&amp;swc=yes&amp;stcl=yes&amp;c=1" target="_blank" rel="noopener">only 2,675 clips</a>.<a data-footnote-id="10" href="https://fivethirtyeight.com/wp-json/wp/v2/espn_verticals/398#fn-10" data-footnote-content="&lt;p&gt;&lt;p&gt;We ran a search of CNN, Fox News and MSNBC coverage so far this year in the Television News Archive using the GDELT Television API. In that database, daily news footage is split into 15-second clips, and searches return the clips that contain a mention of our search query (“Ukraine”). The cutoff for measuring coverage for any given day is midnight Eastern.&lt;/p&gt;
-&lt;/p&gt;"><sup>10</sup></a></p>
+<p data-paragraph="main"><strong>nrakich:</strong> Exactly, Amelia. And I think overall media coverage has had more to do with that than the State of the Union. Cable news has <a href="https://fivethirtyeight.com/features/americans-care-about-the-invasion-of-ukraine-but-that-doesnt-mean-they-will-rally-around-biden/" target="_blank" rel="noopener">covered the war in Ukraine very intensely</a>. For example, on Feb. 24, the day after Russia started its invasion,<a data-footnote-id="12" href="https://fivethirtyeight.com/wp-json/wp/v2/espn_verticals/398#fn-12" data-footnote-content="&lt;p&gt;&lt;p&gt;Russia actually started to invade early on the morning of Feb. 24 in Ukraine, but it was still late on Feb. 23 in the U.S.&lt;/p&gt;
+&lt;/p&gt;"><sup>12</sup></a> <a href="https://api.gdeltproject.org/api/v2/summary/summary?d=iatv&amp;t=summary&amp;k=Ukraine&amp;ts=custom&amp;sdt=20220101000000&amp;edt=20220313235959&amp;fs=station%3ACNN&amp;fs=station%3AFOXNEWS&amp;fs=station%3AMSNBC&amp;fcs=comb&amp;fdn=raw&amp;fdr=day&amp;fdt=-05%3A00&amp;svt=zoom&amp;svts=zoom&amp;swvt=zoom&amp;ssc=yes&amp;sshc=yes&amp;swc=yes&amp;stcl=yes&amp;c=1" target="_blank" rel="noopener">Ukraine was mentioned in 3,095 15-second clips on CNN, Fox News and MSNBC</a>. To put that in perspective, on Election Day 2020, former President Donald Trump was mentioned by name in <a href="https://api.gdeltproject.org/api/v2/summary/summary?d=iatv&amp;t=summary&amp;k=trump&amp;ts=custom&amp;sdt=20201101000000&amp;edt=20201108235959&amp;fs=station%3ACNN&amp;fs=station%3AFOXNEWS&amp;fs=station%3AMSNBC&amp;fcs=comb&amp;fdn=raw&amp;fdr=day&amp;fdt=-05%3A00&amp;svt=zoom&amp;svts=zoom&amp;swvt=zoom&amp;ssc=yes&amp;sshc=yes&amp;swc=yes&amp;stcl=yes&amp;c=1" target="_blank" rel="noopener">only 2,675 clips</a>.<a data-footnote-id="13" href="https://fivethirtyeight.com/wp-json/wp/v2/espn_verticals/398#fn-13" data-footnote-content="&lt;p&gt;&lt;p&gt;We ran a search of CNN, Fox News and MSNBC coverage so far this year in the Television News Archive using the GDELT Television API. In that database, daily news footage is split into 15-second clips, and searches return the clips that contain a mention of our search query (“Ukraine”). The cutoff for measuring coverage for any given day is midnight Eastern.&lt;/p&gt;
+&lt;/p&gt;"><sup>13</sup></a></p>
 
 
 
@@ -1679,8 +2989,8 @@
 
 
 
-<p data-paragraph="main">But starting in 2020, the types of censures county parties issued shifted — both censures issued in 2020, for instance, had to do with COVID-19 mask mandates. In 2021, I found, there was just a dramatic increase in county-level censures, especially among Republican county parties. Republican county parties censured 23 GOP officeholders in 2021 compared to Democrats’ five, and what’s more, most Republican censures were tied in some way to the 2020 election, the subsequent Jan. 6 insurrection or the ensuing fallout.<a data-footnote-id="11" href="https://fivethirtyeight.com/wp-json/wp/v2/espn_verticals/398#fn-11" data-footnote-content='&lt;p&gt;&lt;p&gt;Notably, I have organized the county censure data by the number of individuals censured, which can be tricky. There are only five Democratic censures here, for example, and four of them were actually done in the same resolution, passed by the Democratic Party of Palm Beach County, Florida, to &lt;a href="https://www.palmbeachpost.com/story/news/education/2021/06/04/pbc-dems-censure-school-board-members-over-white-advantage-reversal/7541548002/" target="_blank" rel="noopener"&gt;chastise four school board members&lt;/a&gt; for removing the phrase “white advantage” from a statement about equity.&lt;/p&gt;
-&lt;/p&gt;'><sup>11</sup></a>Although censures are still relatively rare events — I found just 34 of them in more than 3,000 counties over the past seven years — the uptick in the last year signals a growing form of radicalism among local party committees. All of this points to yet another signal of a Republican Party undergoing a purge. Parties often wage ideological fights in their primary contests, but primaries take time. In this rash of recent censures, we’re seeing county party leaders trying to more emphatically assert which faction of the party is in charge, and as I’ve documented above, that could dramatically reshape the GOP at its most fundamental levels of government</p>]]></description>
+<p data-paragraph="main">But starting in 2020, the types of censures county parties issued shifted — both censures issued in 2020, for instance, had to do with COVID-19 mask mandates. In 2021, I found, there was just a dramatic increase in county-level censures, especially among Republican county parties. Republican county parties censured 23 GOP officeholders in 2021 compared to Democrats’ five, and what’s more, most Republican censures were tied in some way to the 2020 election, the subsequent Jan. 6 insurrection or the ensuing fallout.<a data-footnote-id="14" href="https://fivethirtyeight.com/wp-json/wp/v2/espn_verticals/398#fn-14" data-footnote-content='&lt;p&gt;&lt;p&gt;Notably, I have organized the county censure data by the number of individuals censured, which can be tricky. There are only five Democratic censures here, for example, and four of them were actually done in the same resolution, passed by the Democratic Party of Palm Beach County, Florida, to &lt;a href="https://www.palmbeachpost.com/story/news/education/2021/06/04/pbc-dems-censure-school-board-members-over-white-advantage-reversal/7541548002/" target="_blank" rel="noopener"&gt;chastise four school board members&lt;/a&gt; for removing the phrase “white advantage” from a statement about equity.&lt;/p&gt;
+&lt;/p&gt;'><sup>14</sup></a>Although censures are still relatively rare events — I found just 34 of them in more than 3,000 counties over the past seven years — the uptick in the last year signals a growing form of radicalism among local party committees. All of this points to yet another signal of a Republican Party undergoing a purge. Parties often wage ideological fights in their primary contests, but primaries take time. In this rash of recent censures, we’re seeing county party leaders trying to more emphatically assert which faction of the party is in charge, and as I’ve documented above, that could dramatically reshape the GOP at its most fundamental levels of government</p>]]></description>
 			<pubDate>Mon, 14 Mar 2022 10:00:00 +0000</pubDate>
 			<guid isPermaLink="false">1647255601602463</guid>
 		</item>
@@ -1746,13 +3056,13 @@
 
 
 
-<ul><li>On Tuesday, President Biden announced <a href="https://abcnews.go.com/Politics/biden-announces-ban-russian-oil-imports-energy-products/story?id=83315763">a ban on Russian oil and energy imports</a>, and it turns out that many Americans support this decision, even if this results in higher gas prices. When asked directly if they would support imposing sanctions on Russian oil even if it led to higher fuel prices, <a href="https://poll.qu.edu/poll-release?releaseid=3838">71 percent</a> of Americans (from a Mar. 4-6 Quinnipiac University poll) and <a href="https://www.wsj.com/livecoverage/russia-ukraine-latest-news-2022-03-08/card/wsj-poll-79-of-americans-back-ban-on-russian-oil-even-if-energy-prices-rise-niT9f6YRH5wRWe4pbhNv">79 percent</a> (from a Mar. 4-7 Wall Street Journal/Fabrizio, Lee &amp; Associates/ALG Research poll) said yes. When some pollsters included the option to support sanctions but<em> not</em> if they increased oil prices, support for sanctions was less consistently high. Sixty-nine percent of Americans supported sanctions even if they increased U.S. energy prices, and 12 percent supported sanctions as long as they <em>didn’t</em> increase prices, according to <a href="https://maristpoll.marist.edu/wp-content/uploads/2022/03/NPR_PBS-NewsHour_Marist-Poll_USA-NOS-and-Tables_202203010901.pdf">a Mar. 1-2 poll</a> from Marist College/NPR/PBS NewsHour. However, <a href="https://docs.cdn.yougov.com/nnyqh3ib1d/econToplines.pdf">a Mar. 5-8 The Economist/YouGov poll</a> of Americans found much lower support (46 percent supported sanctions regardless of their effect on U.S. gas prices, but 27 percent supported sanctions only if they didn’t raise prices) as did a <a href="https://morningconsult.com/2022/03/07/russian-oil-embargo-polling-ukraine-crisis/">Mar. 5-7 Morning Consult poll</a> of registered voters (49 percent supported sanctions regardless of their effect on U.S. gas prices, but 28 percent supported sanctions only if they didn’t raise prices).</li><li>A plurality of Americans (42 percent) felt that <a href="https://docs.cdn.yougov.com/omtmdczu48/econToplines.pdf">parents should have the final say</a> over whether K-12 students are required to wear masks in school, according to a Feb. 26-Mar. 1 poll from The Economist/YouGov. Twenty-two percent said it should be up to school administrators, 14 percent were unsure and 13 percent said the government, while just 7 percent said this responsibility should fall to teachers.</li><li><a href="https://www.surveymonkey.com/curiosity/lat-mlb-lockout/">The Major League Baseball lockout is dampening interest</a> in the season among baseball fans, though most aren’t following the dispute closely, according to a Mar. 3-7 poll from the Los Angeles Times/SurveyMonkey. Sixty percent of fans said the dispute had caused them to lose interest in the season, but 78 percent said they weren’t closely following the lockout. In terms of who to blame for the dispute, baseball fans were split between blaming the lockout on both the players and the owners (49 percent) and blaming just the owners (31 percent).</li><li>Over three-quarters of European women<a data-footnote-id="12" href="https://fivethirtyeight.com/wp-json/wp/v2/espn_verticals/398#fn-12" data-footnote-content="&lt;p&gt;&lt;p&gt;Defined as women aged 15 and older who live in one of the 27 member countries of the European Union.&lt;/p&gt;
-&lt;/p&gt;"><sup>12</sup></a> thought that <a href="https://www.ipsos.com/sites/default/files/ct/news/documents/2022-03/Women_in_times_of_Covid19_2022_ep_eb_fl_report_en.pdf">the COVID-19 pandemic had led to at least a small increase of violence against women</a> in their country, according to a Jan. 25-Feb. 3 poll from Ipsos European Public Affairs, commissioned by the European Parliament. Women from Greece (93 percent) and Portugal (90 percent) were the most likely to say the pandemic had increased violence against women in their country, while less than half of Finnish (48 percent) and Hungarian (47 percent) women said the same.</li><li>Though it’s hardly a resounding vote of confidence, Americans seem to be giving <a href="https://fivethirtyeight.com/features/how-will-americans-grade-bidens-handling-of-the-crisis-in-ukraine/">Biden better marks for how he is handling the crisis in Ukraine</a>. According to the aforementioned Marist College/NPR/PBS NewsHour poll from Mar. 1-2, 52 percent now said they approved of Biden’s leadership in Ukraine, versus <a href="https://maristpoll.marist.edu/polls/npr-pbs-newshour-marist-national-poll-the-biden-administration-heading-into-the-state-of-the-union-address-february-2022/">34 percent in a Feb. 15-21 poll</a>. Polls from Morning Consult/Politico showed a similar but less pronounced trend: A Mar. 4-6 poll found <a href="https://assets.morningconsult.com/wp-uploads/2022/03/08161506/2203034_crosstabs_POLITICO_RVs_v1_SH.pdf">47 percent of registered voters approved of Biden’s handling of the crisis in Ukraine</a>, versus <a href="https://assets.morningconsult.com/wp-uploads/2022/02/22150612/2202139_crosstabs_POLITICO_RVs_v1_SH.pdf">40 percent from Feb. 19-21</a>.</li></ul><h2><strong>Biden approval</strong></h2>
+<ul><li>On Tuesday, President Biden announced <a href="https://abcnews.go.com/Politics/biden-announces-ban-russian-oil-imports-energy-products/story?id=83315763">a ban on Russian oil and energy imports</a>, and it turns out that many Americans support this decision, even if this results in higher gas prices. When asked directly if they would support imposing sanctions on Russian oil even if it led to higher fuel prices, <a href="https://poll.qu.edu/poll-release?releaseid=3838">71 percent</a> of Americans (from a Mar. 4-6 Quinnipiac University poll) and <a href="https://www.wsj.com/livecoverage/russia-ukraine-latest-news-2022-03-08/card/wsj-poll-79-of-americans-back-ban-on-russian-oil-even-if-energy-prices-rise-niT9f6YRH5wRWe4pbhNv">79 percent</a> (from a Mar. 4-7 Wall Street Journal/Fabrizio, Lee &amp; Associates/ALG Research poll) said yes. When some pollsters included the option to support sanctions but<em> not</em> if they increased oil prices, support for sanctions was less consistently high. Sixty-nine percent of Americans supported sanctions even if they increased U.S. energy prices, and 12 percent supported sanctions as long as they <em>didn’t</em> increase prices, according to <a href="https://maristpoll.marist.edu/wp-content/uploads/2022/03/NPR_PBS-NewsHour_Marist-Poll_USA-NOS-and-Tables_202203010901.pdf">a Mar. 1-2 poll</a> from Marist College/NPR/PBS NewsHour. However, <a href="https://docs.cdn.yougov.com/nnyqh3ib1d/econToplines.pdf">a Mar. 5-8 The Economist/YouGov poll</a> of Americans found much lower support (46 percent supported sanctions regardless of their effect on U.S. gas prices, but 27 percent supported sanctions only if they didn’t raise prices) as did a <a href="https://morningconsult.com/2022/03/07/russian-oil-embargo-polling-ukraine-crisis/">Mar. 5-7 Morning Consult poll</a> of registered voters (49 percent supported sanctions regardless of their effect on U.S. gas prices, but 28 percent supported sanctions only if they didn’t raise prices).</li><li>A plurality of Americans (42 percent) felt that <a href="https://docs.cdn.yougov.com/omtmdczu48/econToplines.pdf">parents should have the final say</a> over whether K-12 students are required to wear masks in school, according to a Feb. 26-Mar. 1 poll from The Economist/YouGov. Twenty-two percent said it should be up to school administrators, 14 percent were unsure and 13 percent said the government, while just 7 percent said this responsibility should fall to teachers.</li><li><a href="https://www.surveymonkey.com/curiosity/lat-mlb-lockout/">The Major League Baseball lockout is dampening interest</a> in the season among baseball fans, though most aren’t following the dispute closely, according to a Mar. 3-7 poll from the Los Angeles Times/SurveyMonkey. Sixty percent of fans said the dispute had caused them to lose interest in the season, but 78 percent said they weren’t closely following the lockout. In terms of who to blame for the dispute, baseball fans were split between blaming the lockout on both the players and the owners (49 percent) and blaming just the owners (31 percent).</li><li>Over three-quarters of European women<a data-footnote-id="15" href="https://fivethirtyeight.com/wp-json/wp/v2/espn_verticals/398#fn-15" data-footnote-content="&lt;p&gt;&lt;p&gt;Defined as women aged 15 and older who live in one of the 27 member countries of the European Union.&lt;/p&gt;
+&lt;/p&gt;"><sup>15</sup></a> thought that <a href="https://www.ipsos.com/sites/default/files/ct/news/documents/2022-03/Women_in_times_of_Covid19_2022_ep_eb_fl_report_en.pdf">the COVID-19 pandemic had led to at least a small increase of violence against women</a> in their country, according to a Jan. 25-Feb. 3 poll from Ipsos European Public Affairs, commissioned by the European Parliament. Women from Greece (93 percent) and Portugal (90 percent) were the most likely to say the pandemic had increased violence against women in their country, while less than half of Finnish (48 percent) and Hungarian (47 percent) women said the same.</li><li>Though it’s hardly a resounding vote of confidence, Americans seem to be giving <a href="https://fivethirtyeight.com/features/how-will-americans-grade-bidens-handling-of-the-crisis-in-ukraine/">Biden better marks for how he is handling the crisis in Ukraine</a>. According to the aforementioned Marist College/NPR/PBS NewsHour poll from Mar. 1-2, 52 percent now said they approved of Biden’s leadership in Ukraine, versus <a href="https://maristpoll.marist.edu/polls/npr-pbs-newshour-marist-national-poll-the-biden-administration-heading-into-the-state-of-the-union-address-february-2022/">34 percent in a Feb. 15-21 poll</a>. Polls from Morning Consult/Politico showed a similar but less pronounced trend: A Mar. 4-6 poll found <a href="https://assets.morningconsult.com/wp-uploads/2022/03/08161506/2203034_crosstabs_POLITICO_RVs_v1_SH.pdf">47 percent of registered voters approved of Biden’s handling of the crisis in Ukraine</a>, versus <a href="https://assets.morningconsult.com/wp-uploads/2022/02/22150612/2202139_crosstabs_POLITICO_RVs_v1_SH.pdf">40 percent from Feb. 19-21</a>.</li></ul><h2><strong>Biden approval</strong></h2>
 
 
 
-<figure><img loading="lazy" width="1150" height="920" src="https://fivethirtyeight.com/wp-content/uploads/2022/03/biden-approval-rating-2-1.png" alt="" data-src="https://fivethirtyeight.com/wp-content/uploads/2022/03/biden-approval-rating-2-1.png" data-srcset="https://fivethirtyeight.com/wp-content/uploads/2022/03/biden-approval-rating-2-1.png?w=700 1x, https://fivethirtyeight.com/wp-content/uploads/2022/03/biden-approval-rating-2-1.png?w=1400 2x"></figure><p data-paragraph="main">According to FiveThirtyEight’s <a href="https://projects.fivethirtyeight.com/biden-approval-rating/" target="_blank" rel="noopener">presidential approval tracker</a>,<a data-footnote-id="13" href="https://fivethirtyeight.com/wp-json/wp/v2/espn_verticals/398#fn-13" data-footnote-content="&lt;p&gt;&lt;p&gt;As of 5 p.m. Eastern on Thursday.&lt;/p&gt;
-&lt;/p&gt;"><sup>13</sup></a> 42.5 percent of Americans approve of the job Biden is doing as president, while 51.6 percent disapprove (a net approval rating of -9.1 points). At this time <a href="https://fivethirtyeight.com/features/americans-are-still-unsure-how-the-u-s-should-respond-to-the-invasion-of-ukraine/" target="_blank" rel="noopener">last week</a>, 41.6 percent approved and 52.9 percent disapproved (a net approval rating of -11.3 points). One month ago, Biden had an approval rating of 41.3 percent and a disapproval rating of 52.6 percent, for a net approval rating of -11.3 points.</p>
+<figure><img loading="lazy" width="1150" height="920" src="https://fivethirtyeight.com/wp-content/uploads/2022/03/biden-approval-rating-2-1.png" alt="" data-src="https://fivethirtyeight.com/wp-content/uploads/2022/03/biden-approval-rating-2-1.png" data-srcset="https://fivethirtyeight.com/wp-content/uploads/2022/03/biden-approval-rating-2-1.png?w=700 1x, https://fivethirtyeight.com/wp-content/uploads/2022/03/biden-approval-rating-2-1.png?w=1400 2x"></figure><p data-paragraph="main">According to FiveThirtyEight’s <a href="https://projects.fivethirtyeight.com/biden-approval-rating/" target="_blank" rel="noopener">presidential approval tracker</a>,<a data-footnote-id="16" href="https://fivethirtyeight.com/wp-json/wp/v2/espn_verticals/398#fn-16" data-footnote-content="&lt;p&gt;&lt;p&gt;As of 5 p.m. Eastern on Thursday.&lt;/p&gt;
+&lt;/p&gt;"><sup>16</sup></a> 42.5 percent of Americans approve of the job Biden is doing as president, while 51.6 percent disapprove (a net approval rating of -9.1 points). At this time <a href="https://fivethirtyeight.com/features/americans-are-still-unsure-how-the-u-s-should-respond-to-the-invasion-of-ukraine/" target="_blank" rel="noopener">last week</a>, 41.6 percent approved and 52.9 percent disapproved (a net approval rating of -11.3 points). One month ago, Biden had an approval rating of 41.3 percent and a disapproval rating of 52.6 percent, for a net approval rating of -11.3 points.</p>
 
 
 
@@ -1760,8 +3070,8 @@
 
 
 
-<figure><img loading="lazy" width="1150" height="920" src="https://fivethirtyeight.com/wp-content/uploads/2022/03/generic-ballot-2-1.png" alt="" data-src="https://fivethirtyeight.com/wp-content/uploads/2022/03/generic-ballot-2-1.png" data-srcset="https://fivethirtyeight.com/wp-content/uploads/2022/03/generic-ballot-2-1.png?w=700 1x, https://fivethirtyeight.com/wp-content/uploads/2022/03/generic-ballot-2-1.png?w=1400 2x"></figure><p data-paragraph="main">In our average of polls of the <a href="https://projects.fivethirtyeight.com/congress-generic-ballot-polls/" target="_blank" rel="noopener">generic congressional ballot</a>,<a data-footnote-id="14" href="https://fivethirtyeight.com/wp-json/wp/v2/espn_verticals/398#fn-14" data-footnote-content="&lt;p&gt;&lt;p&gt;As of 5 p.m. Eastern on Thursday.&lt;/p&gt;
-&lt;/p&gt;"><sup>14</sup></a> Republicans currently lead by 2.1 percentage points (44.8 percent to 42.7 percent). A week ago, Republicans led Democrats by 2.2 points (44.8 percent to 42.6 percent). At this time last month, voters preferred Republicans by 2.0 points (44.4 percent to 42.4 percent).</p>]]></description>
+<figure><img loading="lazy" width="1150" height="920" src="https://fivethirtyeight.com/wp-content/uploads/2022/03/generic-ballot-2-1.png" alt="" data-src="https://fivethirtyeight.com/wp-content/uploads/2022/03/generic-ballot-2-1.png" data-srcset="https://fivethirtyeight.com/wp-content/uploads/2022/03/generic-ballot-2-1.png?w=700 1x, https://fivethirtyeight.com/wp-content/uploads/2022/03/generic-ballot-2-1.png?w=1400 2x"></figure><p data-paragraph="main">In our average of polls of the <a href="https://projects.fivethirtyeight.com/congress-generic-ballot-polls/" target="_blank" rel="noopener">generic congressional ballot</a>,<a data-footnote-id="17" href="https://fivethirtyeight.com/wp-json/wp/v2/espn_verticals/398#fn-17" data-footnote-content="&lt;p&gt;&lt;p&gt;As of 5 p.m. Eastern on Thursday.&lt;/p&gt;
+&lt;/p&gt;"><sup>17</sup></a> Republicans currently lead by 2.1 percentage points (44.8 percent to 42.7 percent). A week ago, Republicans led Democrats by 2.2 points (44.8 percent to 42.6 percent). At this time last month, voters preferred Republicans by 2.0 points (44.4 percent to 42.4 percent).</p>]]></description>
 			<pubDate>Fri, 11 Mar 2022 11:00:00 +0000</pubDate>
 			<guid isPermaLink="false">1646999101235527</guid>
 		</item>
@@ -2316,66 +3626,6 @@
 <p>Watch: https://abcnews.go.com/fivethirtyeight/video/trump-prosecuted-jan-fivethirtyeight-politics-podcast-83309234</p>]]></description>
 			<pubDate>Tue, 08 Mar 2022 11:00:00 +0000</pubDate>
 			<guid isPermaLink="false">1646738101478150</guid>
-		</item>
-		<item>
-			<title>Politics Podcast: What Americans Want The U.S. To Do Next On Ukraine</title>
-			<link>https://fivethirtyeight.com/features/politics-podcast-what-to-make-of-polls-that-suggest-americans-want-a-no-fly-zone-over-ukraine/</link>
-						<dc:creator>Galen Druke</dc:creator>
-			<dc:creator>FiveThirtyEight</dc:creator>
-			<category>Donald Trump</category>
-			<category>FiveThirtyEight Podcasts</category>
-			<category>Politics Podcast</category>
-			<category>Russia</category>
-			<category>Ukraine</category>
-			<description><![CDATA[<div data-href="https://fivethirtyeight.com/features/politics-podcast-what-to-make-of-polls-that-suggest-americans-want-a-no-fly-zone-over-ukraine/">
-	<div data-podcast-id="327746" data-podcast-duration="0" data-podcast-title="Politics Podcast: What Americans Want The U.S. To Do Next On Ukraine">
-
-					<span><span>FiveThirtyEight</span></span>
-			
-		
-		<button aria-label="Play"></button>
-
-					<div>
-		
-		
-							<div>
-					<div>
-						<div></div>
-					</div>
-
-					<div> </div>
-
-					<audio preload="none" controls="controls">
-						<source src="https://www.podtrac.com/pts/redirect.mp3/traffic.megaphone.fm/ESP7366277998.mp3?updated=1646694436">
-					</source></audio>
-				</div>
-			
-					</div>
-		
-	</div>
-</div>
-<aside>
-	<div>
-		More: <a href="https://itunes.apple.com/us/podcast/fivethirtyeight-elections/id1077418457">Apple Podcasts</a> |
-		<span><a data-android-url="" href="http://m.espn.com/general/cast?id=14554755">ESPN App</a> |</span>
-		<a href="https://www.espn.com/espnradio/feeds/rss/podcast.xml?id=14554755">RSS</a>
-			</div>
-	</aside>
-
-
-
-
-<p data-paragraph="main">A week and a half after Russian troops invaded Ukraine, we look at how Americans view the U.S. response so far. They overwhelmingly approve of the sweeping economic sanctions the U.S. has imposed, and a significant share support going further. In this installment of the <a href="https://fivethirtyeight.com/tag/politics-podcast/" data-type="URL" data-id="https://fivethirtyeight.com/tag/politics-podcast/" target="_blank" rel="noopener">FiveThirtyEight Politics podcast</a>, the crew analyzes new polling suggesting that Americans support enforcing a no-fly zone over Ukraine and banning the purchase of Russian oil even if that increases gas prices at home. They also discuss the accuracy of opinion polling conducted in Russia and Ukraine, and senior writer Amelia Thomson-DeVeaux discusses the possible legal case against former President Donald Trump for his role in the Jan. 6 insurrection.</p>
-
-
-
-<p data-paragraph="main"><em>You can listen to the episode by clicking the “play” button in the audio player above or by </em><a href="https://itunes.apple.com/us/podcast/fivethirtyeight-elections/id1077418457?mt=2" target="_blank" rel="noopener"><em>downloading it in iTunes</em></a><em>, the </em><a href="http://www.espn.com/espn/mobile/products/products/_/id/6857590" target="_blank" rel="noopener"><em>ESPN App</em></a><em> or your favorite podcast platform. If you are new to podcasts, </em><a href="https://fivethirtyeight.com/how-to-listen-to-fivethirtyeight-podcasts/" target="_blank" rel="noopener"><em>learn how to listen</em></a><em>.</em></p>
-
-
-
-<p data-paragraph="main"><em>The FiveThirtyEight Politics podcast is recorded Mondays and Thursdays. Help new listeners discover the show by </em><a href="https://itunes.apple.com/us/podcast/fivethirtyeight-elections/id1077418457?mt=2" target="_blank" rel="noopener"><em>leaving us a rating and review on iTunes</em></a><em>. Have a comment, question or suggestion for “good polling vs. bad polling”? Get in touch by email, </em><a href="https://twitter.com/FiveThirtyEight" target="_blank" rel="noopener"><em>on Twitter</em></a><em> or in the comments.</em></p>]]></description>
-			<pubDate>Mon, 07 Mar 2022 23:04:00 +0000</pubDate>
-			<guid isPermaLink="false">1646697601434850</guid>
 		</item>
 
 	</channel>
