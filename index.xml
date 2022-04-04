@@ -3,8 +3,8 @@
 		<title>Main stream | FreshRSS</title>
 		<link>http://radon</link>
 		<description>RSS feed of Main stream | FreshRSS</description>
-		<pubDate>Mon, 04 Apr 2022 05:29:07 +0100</pubDate>
-		<lastBuildDate>Mon, 04 Apr 2022 04:29:07 GMT</lastBuildDate>
+		<pubDate>Mon, 04 Apr 2022 05:59:06 +0100</pubDate>
+		<lastBuildDate>Mon, 04 Apr 2022 04:59:06 GMT</lastBuildDate>
 		<atom:link href="http://radon/i/?a=rss" rel="self" type="application/rss+xml" />
 		<item>
 			<title>What The MLB Lockout Can Tell Us About Political Fandom And Sports Partisanship</title>
@@ -14,6 +14,7 @@
 			<category>1994 MLB Strike</category>
 			<category>Baseball</category>
 			<category>Major League Baseball</category>
+			<category>MLB</category>
 			<category>MLB Lockout</category>
 			<category>Oscars</category>
 			<category>Politics</category>
@@ -51,7 +52,7 @@
 			</span>
 
 			
-								<figcaption><p>PHOTO ILLUSTRATION BY FIVETHIRTYEIGHT / AP IMAGES</p>
+								<figcaption><p>PHOTO ILLUSTRATION BY FIVETHIRTYEIGHT / AP</p>
 											</figcaption></figure></div>
 
 			
@@ -70,12 +71,12 @@
 
 
 
-<p data-paragraph="main">Yesterday was supposed to be Opening Day of the 2022 Major League Baseball season, but it was delayed a week (to next Thursday, April 7) by a <a href="https://www.vox.com/22967489/mlb-lockout" target="_blank" rel="noopener">contentious labor dispute</a> between players and team owners that lasted much of the winter. The MLB lockout left fans feeling frustrated — especially with team owners — and, they claim, less interested in the sport. But that doesn’t necessarily mean they’ll stop root-root-rooting for the home team. And that holds a lesson even for those who aren’t baseball fans: Be skeptical when a poll says an issue will make people more or less likely to do something (like, say, vote a certain way).</p>
+<p data-paragraph="main">Thursday was supposed to be opening day of the 2022 Major League Baseball season, but it was delayed a week (to next Thursday, April 7) by a <a href="https://www.vox.com/22967489/mlb-lockout" target="_blank" rel="noopener">contentious labor dispute</a> between players and team owners that lasted much of the winter. The MLB lockout left fans feeling frustrated — especially with team owners — and, they claim, less interested in the sport. But that doesn’t necessarily mean they’ll stop root-root-rooting for the home team. And that holds a lesson even for those who aren’t baseball fans: Be skeptical when a poll says an issue will make people more or less likely to do something (like, say, vote a certain way).</p>
 
 
 
 <p data-paragraph="main">First, some background: At the end of Dec. 1, the collective bargaining agreement that governed MLB players’ relationship with their employers (i.e., the 30 MLB teams) expired. In response, the team owners <a href="https://www.espn.com/mlb/story/_/id/32761620/mlb-mlbpa-fail-reach-new-labor-agreement-league-issues-lockout-first-1990" target="_blank" rel="noopener">implemented a lockout</a> (essentially the management version of a strike) preventing the players from going to work<a data-footnote-id="1" href="https://fivethirtyeight.com/wp-json/wp/v2/espn_verticals/398#fn-1" data-footnote-content="&lt;p&gt;&lt;p&gt;The baseball season was over by this point, so the lockout didn’t immediately cancel any games, but players still couldn’t sign new contracts with teams, work out at team facilities or even talk to their former employers.&lt;/p&gt;
-&lt;/p&gt;"><sup>1</sup></a> until the owners and players’ union reached a new agreement. For the next few months, the two sides slowly negotiated everything from specific rule changes to the biggest bone of contention, player salaries. Eventually, on March 10, they <a href="https://www.espn.com/mlb/story/_/id/33399466/mlb-mlbpa-reach-labor-agreement-everything-need-know-lockout-ends" target="_blank" rel="noopener">agreed to a new deal</a>, but not before the first several games of the season were called off (they have now been rescheduled for later in the year).</p>
+&lt;/p&gt;"><sup>1</sup></a> until the owners and the players union reached a new agreement. For the next few months, the two sides slowly negotiated everything from specific rule changes to the biggest bone of contention, player salaries. Eventually, on March 10, they <a href="https://www.espn.com/mlb/story/_/id/33399466/mlb-mlbpa-reach-labor-agreement-everything-need-know-lockout-ends" target="_blank" rel="noopener">agreed to a new deal</a>, but not before the first several games of the season were called off. (They have now been rescheduled for later in the year.)</p>
 
 
 
@@ -83,7 +84,7 @@
 
 
 
-<p data-paragraph="main">Interestingly, in past labor disputes, fans generally sided with MLB owners. For example, during the notorious 1994-95 strike (which canceled the 1994 World Series), an <a href="https://ropercenter.cornell.edu/ipoll/study/31094757/questions#ce244979-2faa-4e04-b4f8-b0917257be4c" target="_blank" rel="noopener">NBC News/Wall Street Journal poll</a> found that 45 percent of fans held the players more responsible and only 27 percent held the owners more responsible (24 percent volunteered that both sides were equally responsible). Why the reversal? </p>
+<p data-paragraph="main">Interestingly, in past labor disputes, fans generally sided with MLB owners. For example, during the notorious 1994-95 strike (which canceled the 1994 World Series), an <a href="https://ropercenter.cornell.edu/ipoll/study/31094757/questions#ce244979-2faa-4e04-b4f8-b0917257be4c" target="_blank" rel="noopener">NBC News/Wall Street Journal poll</a> found that 45 percent of fans held the players more responsible and only 27 percent held the owners more responsible (while 24 percent volunteered that both sides were equally responsible). Why the reversal? </p>
 
 
 
@@ -95,11 +96,11 @@
 
 
 
-<p data-paragraph="main">You might expect that last number to set off alarm bells in MLB headquarters (and maybe it did — these polls, or at least the sentiments expressed in them, could help explain why a new agreement was signed just a few days later). But later on in the same poll, a plurality of fans also said the lockout probably wouldn’t affect how much time or money they spent on baseball this year. Fifty percent of fans said they would attend about the same number of games that they would have if there hadn’t been a lockout, 49 percent said they would watch about the same number of games and 47 percent said they would buy about the same amount of merchandise.</p>
+<p data-paragraph="main">You might expect that last number to set off alarm bells in MLB headquarters (and maybe it did — these polls, or at least the sentiments expressed in them, could help explain why a new agreement was signed just a few days later). But later on in the same poll, a plurality of fans also said the lockout probably wouldn’t affect how much time or money they spent on baseball this year. Fifty percent of fans said they would attend about the same number of games that they would have if there hadn’t been a lockout, 49 percent said they would watch about the same number of games, and 47 percent said they would buy about the same amount of merchandise.</p>
 
 
 
-<p data-paragraph="main">Granted, a healthy minority of fans — 32-36 percent — said they would do these things less because of the lockout, but since the poll was taken while the lockout was still going on, some fans may have assumed that the lockout would cancel a good chunk of, if not the entire, season. (In a separate question, only 59 percent of respondents predicted that the lockout would be resolved by Memorial Day.)</p>
+<p data-paragraph="main">Granted, a healthy minority of fans — 32 to 36 percent — said they would do these things less because of the lockout, but since the poll was taken while the lockout was still going on, some fans may have assumed that the lockout would cancel a good chunk of the season, if not all of it. (In a separate question, only 59 percent of respondents predicted that the lockout would be resolved by Memorial Day.)</p>
 
 
 
