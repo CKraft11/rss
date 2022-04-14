@@ -3,9 +3,76 @@
 		<title>Main stream | FreshRSS</title>
 		<link>http://radon</link>
 		<description>RSS feed of Main stream | FreshRSS</description>
-		<pubDate>Thu, 14 Apr 2022 20:29:06 +0100</pubDate>
-		<lastBuildDate>Thu, 14 Apr 2022 19:29:06 GMT</lastBuildDate>
+		<pubDate>Thu, 14 Apr 2022 20:59:07 +0100</pubDate>
+		<lastBuildDate>Thu, 14 Apr 2022 19:59:07 GMT</lastBuildDate>
 		<atom:link href="http://radon/i/?a=rss" rel="self" type="application/rss+xml" />
+		<item>
+			<title>Politics Podcast: Why Inflation Is Sparking Economic Pessimism</title>
+			<link>https://fivethirtyeight.com/features/politics-podcast-why-inflation-is-sparking-economic-pessimism/</link>
+						<dc:creator>Galen Druke</dc:creator>
+			<dc:creator>FiveThirtyEight</dc:creator>
+			<category>Economy</category>
+			<category>FiveThirtyEight Podcasts</category>
+			<category>Inflation</category>
+			<category>Politics Podcast</category>
+			<description><![CDATA[<div data-href="https://fivethirtyeight.com/features/politics-podcast-why-inflation-is-sparking-economic-pessimism/">
+	<div data-podcast-id="331103" data-podcast-duration="0" data-podcast-title="Politics Podcast: Why Inflation Is Sparking Economic Pessimism">
+
+					<span><span>FiveThirtyEight</span></span>
+			
+		
+		<button aria-label="Play"></button>
+
+					<div>
+		
+		
+							<div>
+					<div>
+						<div></div>
+					</div>
+
+					<div> </div>
+
+					<audio preload="none" controls="controls">
+						<source src="https://www.podtrac.com/pts/redirect.mp3/traffic.megaphone.fm/ESP8138555835.mp3?updated=1649961024">
+					</source></audio>
+				</div>
+			
+					</div>
+		
+	</div>
+</div>
+<aside>
+	<div>
+		More: <a href="https://itunes.apple.com/us/podcast/fivethirtyeight-elections/id1077418457">Apple Podcasts</a> |
+		<span><a data-android-url="" href="http://m.espn.com/general/cast?id=14554755">ESPN App</a> |</span>
+		<a href="https://www.espn.com/espnradio/feeds/rss/podcast.xml?id=14554755">RSS</a>
+			</div>
+	</aside>
+
+
+
+
+<p data-paragraph="main">Americans aren’t happy with the economy and it’s perhaps no wonder why when you look at the <a href="https://www.bls.gov/news.release/pdf/cpi.pdf" target="_blank" rel="noopener">latest inflation numbers</a> out this week. Prices have risen 8.5 percent since last March, and wages haven’t kept pace, rising 6 percent in the past year. Economists are debating whether there are silver linings in March’s inflation numbers, but regardless 8.5 percent inflation is the highest rate in four decades. </p>
+
+
+
+<p data-paragraph="main">Americans have taken note. According to Gallup, <a href="https://news.gallup.com/poll/391220/inflation-dominates-americans-economic-concerns-march.aspx" target="_blank" rel="noopener">17 percent</a> of Americans say the high cost of living is the most important issue facing the country – the most since 1985. In the University of Michigan <a href="https://data.sca.isr.umich.edu/fetchdoc.php?docid=69606" target="_blank" rel="noopener">Survey of Consumers</a>, more households reported they expected worsening finances over the coming year than at any point in the history of the survey, which began in the 1940s. And only <a href="https://www.pollingreport.com/biden_adm.htm" target="_blank" rel="noopener">30-35 percent</a> of Americans approve of President Biden’s handling of the economy.</p>
+
+
+
+<p data-paragraph="main">In this installment of the FiveThirtyEight Politics podcast, Galen Druke speaks with George Washington University economist <a href="https://economics.columbian.gwu.edu/tara-m-sinclair" target="_blank" rel="noopener">Tara Sinclair</a> about the Americans’ pessimistic assessment of the economy.</p>
+
+
+
+<p data-paragraph="main"><em>You can listen to the episode by clicking the “play” button in the audio player above or by </em><a href="https://itunes.apple.com/us/podcast/fivethirtyeight-elections/id1077418457?mt=2" target="_blank" rel="noopener"><em>downloading it in iTunes</em></a><em>, the </em><a href="http://www.espn.com/espn/mobile/products/products/_/id/6857590" target="_blank" rel="noopener"><em>ESPN App</em></a><em> or your favorite podcast platform. If you are new to podcasts, </em><a href="https://fivethirtyeight.com/how-to-listen-to-fivethirtyeight-podcasts/" target="_blank" rel="noopener"><em>learn how to listen</em></a><em>.</em></p>
+
+
+
+<p data-paragraph="main"><em>The FiveThirtyEight Politics podcast is recorded Mondays and Thursdays. Help new listeners discover the show by </em><a href="https://itunes.apple.com/us/podcast/fivethirtyeight-elections/id1077418457?mt=2" target="_blank" rel="noopener"><em>leaving us a rating and review on iTunes</em></a><em>. Have a comment, question or suggestion for “good polling vs. bad polling”? Get in touch by email, </em><a href="https://twitter.com/FiveThirtyEight" target="_blank" rel="noopener"><em>on Twitter</em></a><em> or in the comments.</em></p>]]></description>
+			<pubDate>Thu, 14 Apr 2022 19:28:00 +0100</pubDate>
+			<guid isPermaLink="false">1649964601910458</guid>
+		</item>
 		<item>
 			<title>Are You A Woman Who Can’t Work From Home During The Pandemic? We Want To Hear From You.</title>
 			<link>https://fivethirtyeight.com/features/are-you-a-woman-who-cant-work-from-home-during-the-pandemic-we-want-to-hear-from-you/</link>
@@ -2949,257 +3016,6 @@
 <p data-paragraph="main"><em>The FiveThirtyEight Politics podcast is recorded Mondays and Thursdays. Help new listeners discover the show by </em><a href="https://itunes.apple.com/us/podcast/fivethirtyeight-elections/id1077418457?mt=2" target="_blank" rel="noopener"><em>leaving us a rating and review on iTunes</em></a><em>. Have a comment, question or suggestion for “good polling vs. bad polling”? Get in touch by email, </em><a href="https://twitter.com/FiveThirtyEight" target="_blank" rel="noopener"><em>on Twitter</em></a><em> or in the comments.</em></p>]]></description>
 			<pubDate>Mon, 28 Mar 2022 23:55:00 +0100</pubDate>
 			<guid isPermaLink="false">1648511101324458</guid>
-		</item>
-		<item>
-			<title>Are Americans Unhappy?</title>
-			<link>https://fivethirtyeight.com/features/are-americans-unhappy/</link>
-						<dc:creator>Monica Potts</dc:creator>
-			<dc:creator>Monica Potts</dc:creator>
-			<category>Black Lives Matter</category>
-			<category>Community</category>
-			<category>Coronavirus</category>
-			<category>COVID-19</category>
-			<category>Happiness</category>
-			<category>Inequality</category>
-			<category>Pandemic</category>
-			<description><![CDATA[<div>
-
-			<div>
-
-				<header><div>
-													<p><a href="https://fivethirtyeight.com/tag/happiness/" name="">Happiness</a></p>
-						
-						<h1>Are Americans Unhappy?</h1>
-
-											</div>
-
-										<div>
-						<div>
-															<p>By <a href="https://fivethirtyeight.com/contributors/monica-potts/" title="" rel="author">Monica Potts</a></p>
-							
-							<p>
-								<time>Mar. 28, 2022</time>,
-								at
-								<time title="2022-03-28T10:00:00+00:00">6:00 AM</time></p>
-
-						</div>
-						<div>
-													</div> 
-					</div>
-					
-				</header><figure><span>
-									<div>
-						<picture><source media="(min-width: 768px)"><source><img alt="AMERICANS-UNHAPPY-4×3" src="https://fivethirtyeight.com/wp-content/uploads/2022/03/AMERICANS-UNHAPPY-4x3-1.png?w=1024" data-sizes="(max-width: 768px) 100vw, (max-width: 1080px) 66vw, 684px" data-src="https://fivethirtyeight.com/wp-content/uploads/2022/03/AMERICANS-UNHAPPY-4x3-1.png?w=1024" data-srcset="https://fivethirtyeight.com/wp-content/uploads/2022/03/AMERICANS-UNHAPPY-4x3-1.png?w=1024 1x, https://fivethirtyeight.com/wp-content/uploads/2022/03/AMERICANS-UNHAPPY-4x3-1.png?w=2048 2x"></source></source></picture></div>
-
-				
-			</span>
-
-			
-								<figcaption><p>ILLUSTRATION BY FIVETHIRTYEIGHT / GETTY IMAGES</p>
-											</figcaption></figure></div>
-
-			
-		</div>
-
-
-
-
-
-<p data-paragraph="main">By any measure, the past two years have been rough. This month, we marked the two-year anniversary of the nation’s first shutdowns to stop the spread of COVID-19. The coronavirus pandemic has caused <a href="https://covid19.who.int/" target="_blank" rel="noopener">more than 6 million global deaths</a> since its beginning, including <a href="https://covid.cdc.gov/covid-data-tracker/#datatracker-home" target="_blank" rel="noopener">nearly a million in the United States</a>, and continues to kill <a href="https://www.nytimes.com/interactive/2021/us/covid-cases.html" target="_blank" rel="noopener">hundreds of people</a> in this country every day. As a nation, we have yet to fully reckon with the sheer scale of the loss. </p>
-
-
-
-<p data-paragraph="main">Even before the virus arrived, though, there was political strife in the United States. The pandemic hit at the tail end of five tumultuous and divisive years that saw former President Donald Trump’s arrival on the <a href="https://www.pewresearch.org/2021/01/29/how-america-changed-during-donald-trumps-presidency/" target="_blank" rel="noopener">national political stage and his first presidential term</a>. The pandemic persisted through his reelection campaign against now-President Joe Biden and then Trump’s failed attempt to <a href="https://www.npr.org/sections/pictureshow/2022/01/06/1070610129/photos-one-year-later-a-look-back-on-the-jan-6-insurrection" target="_blank" rel="noopener">overturn the results when he lost</a>. All of this helped shine a spotlight on the racist systems, <a href="https://www.washingtonpost.com/graphics/investigations/police-shootings-database/" target="_blank" rel="noopener">police violence</a>, <a href="https://www.splcenter.org/fighting-hate/extremist-files/ideology/anti-immigrant" target="_blank" rel="noopener">xenophobia</a>, and <a href="https://www.nytimes.com/2020/09/28/business/economy/coronavirus-pandemic-income-inequality.html" target="_blank" rel="noopener">income</a> and <a href="https://www.stlouisfed.org/open-vault/2020/december/has-wealth-inequality-changed-over-time-key-statistics" target="_blank" rel="noopener">wealth</a> inequalities that had long made life in the United States more difficult for Black Americans, new immigrants and low-income families. In many cases, these forces are now getting worse.</p>
-
-
-
-<p data-paragraph="main">The economic fallout from the pandemic and attendant shutdowns and disruptions has widened a divide between <a href="https://www.brookings.edu/research/the-pandemic-hurt-low-wage-workers-the-most-and-so-far-the-recovery-has-helped-them-the-least/#:~:text=Many%20low-wage%20jobs%2C%20such,risk%20of%20contracting%20COVID-19." target="_blank" rel="noopener">low-wage workers</a> — who have been forced to keep working in person, leaving them vulnerable to the virus and <a href="https://www.epi.org/publication/swa-2020-employment-report/" target="_blank" rel="noopener">financial troubles</a> — and high-wage workers. Behind all of this, <a href="https://www.npr.org/2021/09/02/1033054816/our-future-on-a-hotter-planet-means-more-climate-disasters-happening-simultaneou" target="_blank" rel="noopener">climate change</a> has caused more flooding in Gulf Coast states, wildfires in the West and other problems worldwide. Now, Russia’s invasion of Ukraine feels even more destabilizing.</p>
-
-
-
-<p data-paragraph="main">So given all of this, how are Americans doing?</p>
-
-
-
-<p data-paragraph="main">The answer is, surprisingly, kind of OK. People in general are resilient and optimistic and can find ways to thrive even in the worst of times. But that doesn’t mean that Americans are optimistic about the direction of the country. This was hinted at in a January Gallup poll in which <a href="https://news.gallup.com/poll/389375/satisfaction-own-life-five-times-higher.aspx" target="_blank" rel="noopener">a full 85 percent</a> of respondents said they were satisfied with their own lives, while only 17 percent were satisfied with the direction of the country. That disconnect, though, isn’t unusual. Since Gallup began asking that question in the 1980s, the share of Americans who say they’re “somewhat” or “very” satisfied with their personal lives has been fairly stable, ranging anywhere from 73 percent to 90 percent, while satisfaction in the direction of the country has generally been lower and less stable.</p>
-
-
-
-<figure><div>
-<div><iframe title="Americans rate their lives better than the country's direction" aria-label="Interactive line chart" src="https://datawrapper.dwcdn.net/NWC1d/4/" scrolling="no" frameborder="0" height="450" sandbox="allow-scripts allow-same-origin"></iframe></div>
-</div></figure><p data-paragraph="main">Inside this vast divide, I found deeper issues, both in the ways we think about well-being and also in the true state of American lives, through conversations with seven therapists and clinical psychologists. The clinicians I spoke with were part of a larger group of 1,320 that <a href="https://www.nytimes.com/interactive/2021/12/16/well/mental-health-crisis-america-covid.html" target="_blank" rel="noopener">participated in a November 2021 survey</a> from The New York Times and Psychology Today about what they’d seen in their practices. I also spoke to an expert on <a href="https://worldhappiness.report/ed/2022/" target="_blank" rel="noopener">global happiness</a> and looked at global measures of other <a href="https://www.gallup.com/analytics/349280/gallup-global-emotions-report.aspx" target="_blank" rel="noopener">emotions</a>. </p>
-
-
-
-<p data-paragraph="main">“I believe the human capacity to adapt is beautiful,” said <a href="https://www.psychologytoday.com/us/therapists/leah-seeger-minneapolis-mn/331591" target="_blank" rel="noopener">Leah Seeger</a>, a marriage and family therapist based in Minneapolis. “Even though things are hard, people always adapt to their circumstances.” But at the same time, <a href="http://sociology.emory.edu/home/people/faculty/keyes-corey.html" target="_blank" rel="noopener">Corey Lee M. Keyes</a>, a sociologist at Emory University who has long studied the concepts of <a href="https://pubmed.ncbi.nlm.nih.gov/12096700/" target="_blank" rel="noopener">languishing and flourishing</a> to better describe how mental health often falls on a spectrum, sounded a note of caution in our email correspondence: “Humans can adapt and get used to things and can lower standards and aspirations to feel good,” he wrote. But “[a]dapting to things was meant to be a short term thing, not long term.”</p>
-
-
-
-<div><figure><img loading="lazy" src="https://fivethirtyeight.com/wp-content/uploads/2022/03/AMERICANS-UNHAPPY_Rule.png" alt="" width="268" height="100" data-src="https://fivethirtyeight.com/wp-content/uploads/2022/03/AMERICANS-UNHAPPY_Rule.png" data-srcset="https://fivethirtyeight.com/wp-content/uploads/2022/03/AMERICANS-UNHAPPY_Rule.png?w=268 1x, https://fivethirtyeight.com/wp-content/uploads/2022/03/AMERICANS-UNHAPPY_Rule.png?w=536 2x"></figure></div>
-
-
-
-<p data-paragraph="main">The therapists I spoke with told me that at the beginning of the pandemic, in the spring of 2020, they first worked to help clients stabilize their lives, during what was meant to be a brief lockdown, to prevent the virus from spreading while the nation developed the tools to fight it. But as the pandemic dragged on, and schools, businesses and families had to find ways to operate while keeping people safe, a collective strain began to show up in different ways. </p>
-
-
-
-<p data-paragraph="main">Though the pandemic is a global phenomenon, it has also become an intensely personal experience for many. More than two years in, people continue to report higher levels of <a href="https://www.apa.org/news/press/releases/stress/2022/march-2022-survival-mode" target="_blank" rel="noopener">stress</a> after the number of people <a href="https://www.nytimes.com/2021/02/17/well/mind/therapy-appointments-shortages-pandemic.html" target="_blank" rel="noopener">seeking mental health care in the U.S.</a> surged during the first year of the pandemic compared to 2019. The therapists I spoke with said they still have more demand than they can meet. Last year, Gallup reported that 2020 <a href="https://news.gallup.com/poll/352205/2020-sets-records-negative-emotions.aspx" target="_blank" rel="noopener">set a record for negative emotions</a> worldwide.<a data-footnote-id="18" href="https://fivethirtyeight.com/wp-json/wp/v2/espn_verticals/398#fn-18" data-footnote-content="&lt;p&gt;&lt;p&gt;The pollster creates the index based on an annual survey of adults from over 100 countries.&lt;/p&gt;
-&lt;/p&gt;"><sup>18</sup></a>  </p>
-
-
-
-<p data-paragraph="main">But the pandemic also showed us how volatile swings in emotion could be. <a href="https://www.gallup.com/175196/gallup-healthways-index-methodology.aspx#:~:text=Gallup%20and%20Sharecare%20in%202012,to%20measure%20well-being%20worldwide." target="_blank" rel="noopener">Gallup’s tracking of well-being</a> has followed the relative ups and downs of the pandemic closely, showing a record low in April 2020, near the beginning of the pandemic, when only <a href="https://news.gallup.com/poll/388682/life-ratings-retreat-close-2021.aspx" target="_blank" rel="noopener">46 percent</a> of respondents reported themselves as “thriving.” The share of those who said they were thriving stayed low, too, as unemployment claims and the daily death toll rose in 2020. But then the numbers began to creep up again as vaccines became available and the economy began reopening by the end of 2020. The thriving group rose to a 14-year high <a href="https://news.gallup.com/poll/388682/life-ratings-retreat-close-2021.aspx" target="_blank" rel="noopener">in the first half</a> of 2021, when it looked like the pandemic may end. But then, of course, the delta variant arrived in another deadly wave, and the number of Americans who said they were thriving dropped once again.</p>
-
-
-
-<p data-paragraph="main">Other signs that Americans are struggling have emerged. For instance, there’s been an increase in <a href="https://www.cdc.gov/nchs/pressroom/nchs_press_releases/2021/20211117.htm" target="_blank" rel="noopener">drug overdose deaths</a>, which were already alarmingly high pre-pandemic. The U.S. also has <a href="https://www.nber.org/papers/w29203" target="_blank" rel="noopener">a relatively low life expectancy</a>, which impacts overall well-being, compared to other wealthy countries. The murder rate has also risen sharply, <a href="https://www.nytimes.com/2021/09/22/upshot/murder-rise-2020.html" target="_blank" rel="noopener">spiking around 30 percent</a> from 2019 to 2020, although it remains relatively low compared to the 1970s, ‘80s and ‘90s. “I would make the argument that these are symptoms of a sick society,” said <a href="https://www.psychologytoday.com/us/therapists/david-goldberg-birmingham-al/32235" target="_blank" rel="noopener">David Goldberg</a>, a clinical psychologist and psychoanalyst in Birmingham, Alabama.</p>
-
-
-
-<p data-paragraph="main">The sickness is also apparent in Americans’ divided assessment of the country’s structural racism and how to address it. Officer Derek Chauvin’s <a href="https://www.mprnews.org/crime-law-and-justice/killing-of-george-floyd" target="_blank" rel="noopener">murder of George Floyd</a> in Minneapolis and the <a href="https://www.washingtonpost.com/politics/2022/03/22/invisible-black-women-death-race-gender-disadvantage/" target="_blank" rel="noopener">police shooting of Breonna Taylor</a> in Louisville sparked a widespread Black Lives Matter movement for racial justice in 2020, and later that year we saw the election of Vice President Kamala Harris, the first Black woman and Asian American to hold the office. In 2022, meanwhile, President Biden nominated the first Black woman to the Supreme Court, Ketanji Brown Jackson, whose confirmation hearings were <a href="https://www.vox.com/2022/3/22/22991834/supreme-court-ketanji-brown-jackson-republican-josh-hawley-ted-cruz-child-pornography" target="_blank" rel="noopener">full of nasty attacks on her record</a>, ranging from racist dog whistles to QAnon conspiracy theories. As my colleague Alex Samuels and FiveThirtyEight contributor Neil Lewis Jr. recently wrote, these steps toward racial justice <a href="https://fivethirtyeight.com/features/how-white-victimhood-fuels-republican-politics/" target="_blank" rel="noopener">have often caused a backlash from white Americans</a>, especially white Republicans. </p>
-
-
-
-<p data-paragraph="main">The pandemic also coincided with a rise in <a href="https://www.nbcnews.com/news/asian-america/anti-asian-hate-crimes-increased-339-percent-nationwide-last-year-repo-rcna14282" target="_blank" rel="noopener">anti-Asian and anti-Asian American violence</a>. <a href="https://www.psychologytoday.com/us/therapists/pooja-sharma-berkeley-ca/466634" target="_blank" rel="noopener">Pooja Sharma</a>, a clinical psychologist in Berkeley, California, who sees many patients of Asian and South Asian descent, said that has weighed heavily on many of her clients. “They’re just feeling like, ‘We just don’t know where we fit in,’” she said. “It feels like the world is a heavy place.”</p>
-
-
-
-<p data-paragraph="main">While these issues existed before the pandemic, it can feel as though the pandemic has exacerbated them. “We have this Republican and Democrat divide,” Goldberg said. “We have the poor and rich divide, and it seems like we now increasingly have this divide between those who are healthy and those who are immunocompromised,” he said. “I’ve got several patients who are immunocompromised, and they feel terribly betrayed and alone,” by <a href="https://www.nytimes.com/explain/2022/03/01/us/mask-mandates-us" target="_blank" rel="noopener">the relaxing of mitigation measures</a> like mask mandates.</p>
-
-
-
-<div><figure><img loading="lazy" src="https://fivethirtyeight.com/wp-content/uploads/2022/03/AMERICANS-UNHAPPY_Rule.png" alt="" width="268" height="100" data-src="https://fivethirtyeight.com/wp-content/uploads/2022/03/AMERICANS-UNHAPPY_Rule.png" data-srcset="https://fivethirtyeight.com/wp-content/uploads/2022/03/AMERICANS-UNHAPPY_Rule.png?w=268 1x, https://fivethirtyeight.com/wp-content/uploads/2022/03/AMERICANS-UNHAPPY_Rule.png?w=536 2x"></figure></div>
-
-
-
-<p data-paragraph="main">The disruptions themselves weren’t all bad for Americans’ happiness. Many of the therapists I spoke with said that people who were forced to stay at home had no choice but to face what was already going wrong with their lives, which may have led to an opportunity for personal growth for some. “What happened is that the pandemic was like this big magnifying glass,” said <a href="https://www.psychologytoday.com/us/therapists/gabriela-sehinkman-beachwood-oh/339530" target="_blank" rel="noopener">Gabriela Sehinkman</a>, a clinical social worker in Ohio. Some of the signs of distress — seeking therapy, getting a divorce, <a href="https://hbr.org/2022/03/the-great-resignation-or-the-great-rethink" target="_blank" rel="noopener">quitting a job</a> — might be people finally dealing with long-simmering problems rather than just struggling through the day. “It forced us to really recalibrate priorities,” she said.</p>
-
-
-
-<p data-paragraph="main">For that to happen, though, people need resources to change their lives, like access to therapy or the financial security to seek a new job. Seeger said happiness is a higher-order pursuit: If people are struggling to maintain their housing, suffering from food insecurity or have lost income, then they can’t seek happiness. Indeed, many Americans haven’t had the chance for that reassessment, as they’ve had to keep reporting to work at grocery stores or health care facilities as per usual. The effects of the pandemic <a href="https://fivethirtyeight.com/features/covid-19-reminded-us-of-just-how-unequal-america-is/" target="_blank" rel="noopener">were distributed unequally</a>. </p>
-
-
-
-<p data-paragraph="main">The <a href="https://worldhappiness.report/" target="_blank" rel="noopener">World Happiness Report</a>, a yearly report published by the Sustainable Development Solutions Network that gets much of its data from the Gallup World Poll, <a href="https://s3.amazonaws.com/happiness-report/2016/HR-V1Ch2_web.pdf" target="_blank" rel="noopener">found in 2016</a> that countries with high levels of income,wealth and well-being inequality also had lower levels of overall happiness overall. </p>
-
-
-
-<p data-paragraph="main">One of the most important resources to securing happiness, though, is a sense of community, according to John Helliwell, an author of this year’s report. And the U.S. <a href="https://happiness-report.s3.amazonaws.com/2022/Appendix_1_StatiscalAppendix_Ch2.pdf" target="_blank" rel="noopener">does worse</a> on this metric than the happiest countries: American respondents ranked 25th out of 146 countries when it came to the share who said they could rely on someone in times of trouble and 98th on the level of perceived corruption in their government and business institutions.</p>
-
-
-
-<p data-paragraph="main">Helliwell told me that the countries that rank highly overall score well on every measure they ask about, but that a lack of social support networks, lack of trust in each other and lack of trust in institutions is important in determining overall happiness scores. Social trust, though, was declining in the U.S. even before the pandemic, and Americans told <a href="https://www.pewresearch.org/politics/2019/07/22/trust-and-distrust-in-america/" target="_blank" rel="noopener">the Pew Research Center in 2018</a> that declining trust in government and in each other was making it harder to solve many of the country’s problems.</p>
-
-
-
-<p data-paragraph="main">Each year, the World Happiness Report ranks countries according to answers from Gallup's World Poll. The United States ranks well below many <a href="https://worldhappiness.report/ed/2022/happiness-benevolence-and-trust-during-covid-19-and-beyond/#ranking-of-happiness-2019-2021" target="_blank" rel="noopener">European countries</a> and just below Canada, where Helliwell lives. </p>
-
-
-<div>
-<section><header><h5>The U.S. is unhappier than many other countries</h5>
- <p>Countries by their three-year average happiness score, measured by “life evaluation,” 2019-2021 World Happiness Reports</p>
- </header><table data-carpenter-slug="potts.unhappiness-0328.1"><thead><tr><th colspan="1"></th>
- <th colspan="1">Country</th>
- <th colspan="1">Happiness score</th>
- <th colspan="1"></th>
- <th colspan="1"></th>
- <th colspan="1">Country</th>
- <th colspan="1">Happiness score</th>
- </tr></thead><tbody><tr><td>1</td>
- <td><img src="https://s.w.org/images/core/emoji/13.1.0/72x72/1f1eb-1f1ee.png" alt="🇫🇮"> Finland</td>
- <td>7.82</td>
- <td></td>
- <td>11</td>
- <td><img src="https://s.w.org/images/core/emoji/13.1.0/72x72/1f1e6-1f1f9.png" alt="🇦🇹"> Austria</td>
- <td>7.16</td>
- </tr><tr><td>2</td>
- <td><img src="https://s.w.org/images/core/emoji/13.1.0/72x72/1f1e9-1f1f0.png" alt="🇩🇰"> Denmark</td>
- <td>7.64</td>
- <td></td>
- <td>12</td>
- <td><img src="https://s.w.org/images/core/emoji/13.1.0/72x72/1f1e6-1f1fa.png" alt="🇦🇺"> Australia</td>
- <td>7.16</td>
- </tr><tr><td>3</td>
- <td><img src="https://s.w.org/images/core/emoji/13.1.0/72x72/1f1ee-1f1f8.png" alt="🇮🇸"> Iceland</td>
- <td>7.56</td>
- <td></td>
- <td>13</td>
- <td><img src="https://s.w.org/images/core/emoji/13.1.0/72x72/1f1ee-1f1ea.png" alt="🇮🇪"> Ireland</td>
- <td>7.04</td>
- </tr><tr><td>4</td>
- <td><img src="https://s.w.org/images/core/emoji/13.1.0/72x72/1f1e8-1f1ed.png" alt="🇨🇭"> Switzerland</td>
- <td>7.51</td>
- <td></td>
- <td>14</td>
- <td><img src="https://s.w.org/images/core/emoji/13.1.0/72x72/1f1e9-1f1ea.png" alt="🇩🇪"> Germany</td>
- <td>7.03</td>
- </tr><tr><td>5</td>
- <td><img src="https://s.w.org/images/core/emoji/13.1.0/72x72/1f1f3-1f1f1.png" alt="🇳🇱"> Netherlands</td>
- <td>7.42</td>
- <td></td>
- <td>15</td>
- <td><img src="https://s.w.org/images/core/emoji/13.1.0/72x72/1f1e8-1f1e6.png" alt="🇨🇦"> Canada</td>
- <td>7.03</td>
- </tr><tr><td>6</td>
- <td><img src="https://s.w.org/images/core/emoji/13.1.0/72x72/1f1f1-1f1fa.png" alt="🇱🇺"> Luxembourg*</td>
- <td>7.40</td>
- <td></td>
- <td>16</td>
- <td><img src="https://s.w.org/images/core/emoji/13.1.0/72x72/1f1fa-1f1f8.png" alt="🇺🇸"> United States</td>
- <td>6.98</td>
- </tr><tr><td>7</td>
- <td><img src="https://s.w.org/images/core/emoji/13.1.0/72x72/1f1f8-1f1ea.png" alt="🇸🇪"> Sweden</td>
- <td>7.38</td>
- <td></td>
- <td>17</td>
- <td><img src="https://s.w.org/images/core/emoji/13.1.0/72x72/1f1ec-1f1e7.png" alt="🇬🇧"> United Kingdom</td>
- <td>6.94</td>
- </tr><tr><td>8</td>
- <td><img src="https://s.w.org/images/core/emoji/13.1.0/72x72/1f1f3-1f1f4.png" alt="🇳🇴"> Norway</td>
- <td>7.37</td>
- <td></td>
- <td>18</td>
- <td><img src="https://s.w.org/images/core/emoji/13.1.0/72x72/1f1e8-1f1ff.png" alt="🇨🇿"> Czech Republic</td>
- <td>6.92</td>
- </tr><tr><td>9</td>
- <td><img src="https://s.w.org/images/core/emoji/13.1.0/72x72/1f1ee-1f1f1.png" alt="🇮🇱"> Israel</td>
- <td>7.36</td>
- <td></td>
- <td>19</td>
- <td><img src="https://s.w.org/images/core/emoji/13.1.0/72x72/1f1e7-1f1ea.png" alt="🇧🇪"> Belgium</td>
- <td>6.81</td>
- </tr><tr><td>10</td>
- <td><img src="https://s.w.org/images/core/emoji/13.1.0/72x72/1f1f3-1f1ff.png" alt="🇳🇿"> New Zealand</td>
- <td>7.20</td>
- <td></td>
- <td>20</td>
- <td><img src="https://s.w.org/images/core/emoji/13.1.0/72x72/1f1eb-1f1f7.png" alt="🇫🇷"> France</td>
- <td>6.69</td>
- </tr></tbody></table><footer><p>Uses data from the Gallup World Poll surveys from 2019 to 2021, which use nationally representative samples. Life evaluation scores are based on answers to a question that asks respondents to think of a ladder, with the best possible life for them being a “10” and the worst possible life being a “0."</p>
- <p>*Luxembourg does not have survey information from 2020 or 2021; its score is just from 2019's World Happiness Report.</p>
- <p>Source: World Happiness Report</p>
- </footer></section></div>
-
-
-<p data-paragraph="main">Focusing on individual well-being instead of rebuilding trust in communities and institutions is very American, Helliwell said. “It turns out that if people are doing something just to make themselves happy, it won’t,” he said. “What really makes you happy is doing the right thing and helping others.”</p>
-
-
-
-<p data-paragraph="main">Many of the therapists I spoke to echoed the idea that Americans have been too siloed in their lives and missing a sense of community belonging, especially during the past two years.</p>
-
-
-
-<p data-paragraph="main">“There is this really deep messaging in our country … around, ‘I should be happy alone. I should be happy on my own. And If I’m not happy on my own, I need to do more work to be able to be happy on my own,’” said <a href="https://www.psychologytoday.com/us/therapists/emily-fasten-san-francisco-ca/207058" target="_blank" rel="noopener">Emily Fasten</a>, a marriage and family therapist in San Francisco. “And I challenge that, because I do think we need our relationships, and cultivating relationships is a very satisfying aspect of life.”</p>
-
-
-
-<p data-paragraph="main">When taken to the extreme, this emphasis on the individual can lead to a sense of social isolation, alienation and loneliness. FiveThirtyEight contributor Daniel Cox, a research fellow for polling and public opinion at the American Enterprise Institute, <a href="https://fivethirtyeight.com/features/could-social-alienation-among-some-trump-supporters-help-explain-why-polls-underestimated-trump-again/" target="_blank" rel="noopener">has found that many Americans increasingly feel socially isolated</a>. Before the 2020 election, 17 percent of Americans said they had no one they were close with, a 9-point increase from a similar poll in 2013. Cox wrote that social isolation is linked with distrust in social institutions and democratic processes. This likely complicated our national response to the pandemic; according to Helliwell and other authors of the <a href="https://worldhappiness.report/ed/2021/happiness-trust-and-deaths-under-covid-19/" target="_blank" rel="noopener">2021 World Happiness Report</a>, a countries with less trust in social institutions tended to have higher death rates from the coronavirus; the institutional failure to protect people from death and illness fed into further distrust, creating a vicious cycle.</p>
-
-
-
-<p data-paragraph="main">In this way, the direction of the country and the satisfaction of our personal lives has become intertwined. “How someone’s individual life is going, it’s always tempered, at least in my clients, by the sort of anxiety or fear of what the future is going to look like and what’s going to be possible,” Fasten said. “And that is definitely influencing people’s ability to be happy and make choices.” </p>]]></description>
-			<pubDate>Mon, 28 Mar 2022 11:00:00 +0100</pubDate>
-			<guid isPermaLink="false">1648466101420702</guid>
 		</item>
 
 	</channel>
