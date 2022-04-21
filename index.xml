@@ -3,9 +3,333 @@
 		<title>Main stream | FreshRSS</title>
 		<link>http://radon</link>
 		<description>RSS feed of Main stream | FreshRSS</description>
-		<pubDate>Thu, 21 Apr 2022 18:29:06 +0100</pubDate>
-		<lastBuildDate>Thu, 21 Apr 2022 17:29:06 GMT</lastBuildDate>
+		<pubDate>Thu, 21 Apr 2022 18:59:06 +0100</pubDate>
+		<lastBuildDate>Thu, 21 Apr 2022 17:59:06 GMT</lastBuildDate>
 		<atom:link href="http://radon/i/?a=rss" rel="self" type="application/rss+xml" />
+		<item>
+			<title>The Extreme Bias Of Florida’s New Congressional Map</title>
+			<link>https://fivethirtyeight.com/features/the-extreme-bias-of-floridas-new-congressional-map/</link>
+						<dc:creator>Nathaniel Rakich</dc:creator>
+			<dc:creator>Nathaniel Rakich</dc:creator>
+			<category>Florida Politics</category>
+			<category>Redistricting</category>
+			<category>Ron DeSantis</category>
+			<description><![CDATA[<p data-paragraph="main">Coming soon to a 2024 Republican presidential primary ad near you: Gov. Ron DeSantis stood up to moderate Republicans who wanted to appease liberal Democrats, and he won.</p>
+
+
+
+<p data-paragraph="main">On Thursday, the Florida Legislature finally <a href="https://twitter.com/apantazi/status/1517186221038002178" target="_blank" rel="noopener">caved to DeSantis’s wishes</a> and passed one of his proposed congressional maps — the last major piece in the <a href="https://projects.fivethirtyeight.com/redistricting-2022-maps/" target="_blank" rel="noopener">national redistricting puzzle</a>. And befitting DeSantis’s national reputation (and ambitions), it is a dream map for partisan Republicans, single-handedly adding four new Republicans to the U.S. House of Representatives. But while DeSantis’s uncompromising insistence on maximizing Republican power may give him a nice story to tell if he runs for president, it could also be the map’s undoing in court.</p>
+
+
+
+<p data-paragraph="main">Florida’s <a href="https://projects.fivethirtyeight.com/redistricting-2022-maps/florida/P000C0109/" target="_blank" rel="noopener">soon-to-be congressional map</a> (it will go into effect once DeSantis signs it) creates 18 seats with a <a href="https://fivethirtyeight.com/features/how-red-or-blue-is-your-state-your-congressional-district/" target="_blank" rel="noopener">FiveThirtyEight partisan lean</a><a data-footnote-id="1" href="https://fivethirtyeight.com/wp-json/wp/v2/espn_verticals/398#fn-1" data-footnote-content="&lt;p&gt;&lt;p&gt;Partisan lean is the average margin difference between how a state or district votes and how the country votes overall. This version of partisan lean, meant to be used for congressional and gubernatorial elections, is calculated as 50 percent the state or district’s lean relative to the nation in the most recent presidential election, 25 percent its relative lean in the second-most-recent presidential election and 25 percent a custom state-legislative lean.&lt;/p&gt;
+&lt;/p&gt;"><sup>1</sup></a> of R+5 or redder and only eight seats with a partisan lean of D+5 or bluer. (The remaining two seats fall into the “highly competitive” category between R+5 and D+5.)</p>
+
+
+
+<figure><img width="1422" height="1360" src="https://fivethirtyeight.com/wp-content/uploads/2022/04/redistricting-2022-maps-FL-hero-2.png" alt="Choropleth map of the partisan lean of districts in Governor Ron DeSantis’s proposed new congressional map in Florida, showing a dramatic partisan advantage for Republicans." data-src="https://fivethirtyeight.com/wp-content/uploads/2022/04/redistricting-2022-maps-FL-hero-2.png" data-srcset="https://fivethirtyeight.com/wp-content/uploads/2022/04/redistricting-2022-maps-FL-hero-2.png?w=712 1x, https://fivethirtyeight.com/wp-content/uploads/2022/04/redistricting-2022-maps-FL-hero-2.png?w=1424 2x"></figure><figure><img loading="lazy" width="620" height="1230" src="https://fivethirtyeight.com/wp-content/uploads/2022/04/redistricting-2022-maps-FL-hero-mobile-2.png" alt="Choropleth map of the partisan lean of districts in Governor Ron DeSantis’s proposed new congressional map in Florida, showing a dramatic partisan advantage for Republicans." data-src="https://fivethirtyeight.com/wp-content/uploads/2022/04/redistricting-2022-maps-FL-hero-mobile-2.png" data-srcset="https://fivethirtyeight.com/wp-content/uploads/2022/04/redistricting-2022-maps-FL-hero-mobile-2.png?w=620 1x, https://fivethirtyeight.com/wp-content/uploads/2022/04/redistricting-2022-maps-FL-hero-mobile-2.png?w=1240 2x"></figure><p data-paragraph="main">This map will significantly shake up Florida’s congressional delegation, as it virtually guarantees that Democrats will lose three of their House seats in Florida: The 7th District goes from a D+5 partisan lean to R+14, the 13th District now has a partisan lean of R+12, and Rep. Al Lawson’s North Florida district is completely refigured into a solidly Republican seat. In addition, the new congressional seat that Florida <a href="https://fivethirtyeight.com/features/which-states-won-and-lost-seats-in-the-2020-census/" target="_blank" rel="noopener">gained from the 2020 census</a> — numbered the 18th — is dark red under this map, for a GOP gain of four seats in total.</p>
+
+
+
+<p data-paragraph="main">This is about <a href="https://projects.fivethirtyeight.com/redistricting-maps/florida/#GOP" target="_blank" rel="noopener">as big of a Republican bias</a> that Florida’s congressional map could have — and darn close to the most egregiously partisan map in the country. The map has an <a href="https://www.brennancenter.org/sites/default/files/legal-work/How_the_Efficiency_Gap_Standard_Works.pdf" target="_blank" rel="noopener">efficiency gap</a> of R+20, which means Republicans would be expected to win 20 percent more seats under this map than under a hypothetical, perfectly fair map. Because Florida has 28 congressional seats, that translates to a 5.7-seat Republican bias — right on Texas’s heels for the “honor” of having the biggest bias of any state.</p>
+
+
+<div>
+
+<section><header><h5>Florida’s new map has a huge GOP bias </h5>
+ <p>How many extra congressional seats Republicans or Democrats theoretically gained from biased map-drawing in Florida and the 41 states that have completed redistricting as of April 20, 2022, according to efficiency gap</p>
+ </header><div>
+ <table data-carpenter-slug="rakich.redistricting-overview.9"><thead><tr><th colspan="1" data-sort-index="0"><span>State<span><span>▲</span><span>▼</span></span>
+ </span>
+ </th>
+ <th colspan="1" data-sort-index="1">Map Enacted <span>By<span><span>▲</span><span>▼</span></span>
+ </span>
+ </th>
+ <th colspan="1" data-sort-index="2" data-sort-method="number">Total <span>districts<span><span>▲</span><span>▼</span></span>
+ </span>
+ </th>
+ <th colspan="1" data-sort-index="3" data-sort-method="number" aria-sort="ascending" data-sort-default="true">Efficiency <span>gap<span><span>▲</span><span>▼</span></span>
+ </span>
+ </th>
+ <th colspan="1" data-sort-index="4" data-sort-method="number">Extra <span>seats<span><span>▲</span><span>▼</span></span>
+ </span>
+ </th>
+ </tr></thead><tbody><tr><td>Texas</td>
+ <td><span></span>Republicans</td>
+ <td data-sort="38">38</td>
+ <td data-sort="-15.3">R+15</td>
+ <td data-sort="-5.814">R+5.8</td>
+ </tr><tr><td>Florida</td>
+ <td><span></span>Republicans</td>
+ <td data-sort="28">28</td>
+ <td data-sort="-20">R+20</td>
+ <td data-sort="-5.7">R+5.7</td>
+ </tr><tr><td>California</td>
+ <td><span></span>Commission</td>
+ <td data-sort="52">52</td>
+ <td data-sort="5.3">D+5</td>
+ <td data-sort="2.756">D+2.8</td>
+ </tr><tr><td>Ohio</td>
+ <td><span></span>Republicans</td>
+ <td data-sort="15">15</td>
+ <td data-sort="-15.5">R+16</td>
+ <td data-sort="-2.325">R+2.3</td>
+ </tr><tr><td>Illinois</td>
+ <td><span></span>Democrats</td>
+ <td data-sort="17">17</td>
+ <td data-sort="13.2">D+13</td>
+ <td data-sort="2.244">D+2.2</td>
+ </tr><tr><td>New York</td>
+ <td><span></span>Democrats</td>
+ <td data-sort="26">26</td>
+ <td data-sort="8.6">D+9</td>
+ <td data-sort="2.236">D+2.2</td>
+ </tr><tr><td>Georgia</td>
+ <td><span></span>Republicans</td>
+ <td data-sort="14">14</td>
+ <td data-sort="-15.9">R+16</td>
+ <td data-sort="-2.226">R+2.2</td>
+ </tr><tr><td>Wisconsin</td>
+ <td><span></span>Court</td>
+ <td data-sort="8">8</td>
+ <td data-sort="-26.7">R+27</td>
+ <td data-sort="-2.136">R+2.1</td>
+ </tr><tr><td>New Jersey</td>
+ <td><span></span>Commission</td>
+ <td data-sort="12">12</td>
+ <td data-sort="15.5">D+16</td>
+ <td data-sort="1.86">D+1.9</td>
+ </tr><tr><td>South Carolina</td>
+ <td><span></span>Republicans</td>
+ <td data-sort="7">7</td>
+ <td data-sort="-24.8">R+25</td>
+ <td data-sort="-1.736">R+1.7</td>
+ </tr><tr><td>Iowa</td>
+ <td><span></span>Republicans</td>
+ <td data-sort="4">4</td>
+ <td data-sort="-41.6">R+42</td>
+ <td data-sort="-1.664">R+1.7</td>
+ </tr><tr><td>Tennessee</td>
+ <td><span></span>Republicans</td>
+ <td data-sort="9">9</td>
+ <td data-sort="-16.9">R+17</td>
+ <td data-sort="-1.521">R+1.5</td>
+ </tr><tr><td>Connecticut</td>
+ <td><span></span>Court</td>
+ <td data-sort="5">5</td>
+ <td data-sort="29.7">D+30</td>
+ <td data-sort="1.485">D+1.5</td>
+ </tr><tr><td>Massachusetts</td>
+ <td><span></span>Both parties</td>
+ <td data-sort="9">9</td>
+ <td data-sort="15.8">D+16</td>
+ <td data-sort="1.422">D+1.4</td>
+ </tr><tr><td>New Mexico</td>
+ <td><span></span>Democrats</td>
+ <td data-sort="3">3</td>
+ <td data-sort="39.3">D+39</td>
+ <td data-sort="1.179">D+1.2</td>
+ </tr><tr><td>Utah</td>
+ <td><span></span>Republicans</td>
+ <td data-sort="4">4</td>
+ <td data-sort="-28.7">R+29</td>
+ <td data-sort="-1.148">R+1.1</td>
+ </tr><tr><td>Indiana</td>
+ <td><span></span>Republicans</td>
+ <td data-sort="9">9</td>
+ <td data-sort="-12.3">R+12</td>
+ <td data-sort="-1.107">R+1.1</td>
+ </tr><tr><td>Oregon</td>
+ <td><span></span>Democrats</td>
+ <td data-sort="6">6</td>
+ <td data-sort="17.2">D+17</td>
+ <td data-sort="1.032">D+1.0</td>
+ </tr><tr><td>Louisiana</td>
+ <td><span></span>Republicans</td>
+ <td data-sort="6">6</td>
+ <td data-sort="-15">R+15</td>
+ <td data-sort="-.9">R+0.9</td>
+ </tr><tr><td>Arkansas</td>
+ <td><span></span>Republicans</td>
+ <td data-sort="4">4</td>
+ <td data-sort="-21.4">R+21</td>
+ <td data-sort="-0.856">R+0.9</td>
+ </tr><tr><td>Oklahoma</td>
+ <td><span></span>Republicans</td>
+ <td data-sort="5">5</td>
+ <td data-sort="-15.6">R+16</td>
+ <td data-sort="-0.78">R+0.8</td>
+ </tr><tr><td>Nevada</td>
+ <td><span></span>Democrats</td>
+ <td data-sort="4">4</td>
+ <td data-sort="19.2">D+19</td>
+ <td data-sort="0.768">D+0.8</td>
+ </tr><tr><td>Alabama</td>
+ <td><span></span>Republicans</td>
+ <td data-sort="7">7</td>
+ <td data-sort="-9.8">R+10</td>
+ <td data-sort="-0.686">R+0.7</td>
+ </tr><tr><td>Montana</td>
+ <td><span></span>Commission</td>
+ <td data-sort="2">2</td>
+ <td data-sort="-33.2">R+33</td>
+ <td data-sort="-0.664">R+0.7</td>
+ </tr><tr><td>Rhode Island</td>
+ <td><span></span>Democrats</td>
+ <td data-sort="2">2</td>
+ <td data-sort="28.8">D+29</td>
+ <td data-sort="0.576">D+0.6</td>
+ </tr><tr><td>Minnesota</td>
+ <td><span></span>Court</td>
+ <td data-sort="8">8</td>
+ <td data-sort="-6.8">R+7</td>
+ <td data-sort="-0.544">R+0.5</td>
+ </tr><tr><td>Pennsylvania</td>
+ <td><span></span>Court</td>
+ <td data-sort="17">17</td>
+ <td data-sort="3">D+3</td>
+ <td data-sort="0.51">D+0.5</td>
+ </tr><tr><td>Kentucky</td>
+ <td><span></span>Republicans</td>
+ <td data-sort="6">6</td>
+ <td data-sort="-6.7">R+7</td>
+ <td data-sort="-0.402">R+0.4</td>
+ </tr><tr><td>Hawaii</td>
+ <td><span></span>Commission</td>
+ <td data-sort="2">2</td>
+ <td data-sort="19.9">D+20</td>
+ <td data-sort="0.398">D+0.4</td>
+ </tr><tr><td>Idaho</td>
+ <td><span></span>Commission</td>
+ <td data-sort="2">2</td>
+ <td data-sort="-19.7">R+20</td>
+ <td data-sort="-0.394">R+0.4</td>
+ </tr><tr><td>Mississippi</td>
+ <td><span></span>Republicans</td>
+ <td data-sort="4">4</td>
+ <td data-sort="-7.8">R+8</td>
+ <td data-sort="-0.312">R+0.3</td>
+ </tr><tr><td>Kansas</td>
+ <td><span></span>Republicans</td>
+ <td data-sort="4">4</td>
+ <td data-sort="5.7">D+6</td>
+ <td data-sort="0.228">D+0.2</td>
+ </tr><tr><td>West Virginia</td>
+ <td><span></span>Republicans</td>
+ <td data-sort="2">2</td>
+ <td data-sort="-10.4">R+10</td>
+ <td data-sort="-0.208">R+0.2</td>
+ </tr><tr><td>Arizona</td>
+ <td><span></span>Commission</td>
+ <td data-sort="9">9</td>
+ <td data-sort="2.3">D+2</td>
+ <td data-sort="0.207">D+0.2</td>
+ </tr><tr><td>Maryland</td>
+ <td><span></span>Both parties</td>
+ <td data-sort="8">8</td>
+ <td data-sort="2.4">D+2</td>
+ <td data-sort=".192">D+0.2</td>
+ </tr><tr><td>Virginia</td>
+ <td><span></span>Court</td>
+ <td data-sort="11">11</td>
+ <td data-sort="1.7">D+2</td>
+ <td data-sort="0.187">D+0.2</td>
+ </tr><tr><td>North Carolina</td>
+ <td><span></span>Court</td>
+ <td data-sort="14">14</td>
+ <td data-sort="1.3">D+1</td>
+ <td data-sort="0.182">D+0.2</td>
+ </tr><tr><td>Washington</td>
+ <td><span></span>Commission</td>
+ <td data-sort="10">10</td>
+ <td data-sort="1.6">D+2</td>
+ <td data-sort="0.16">D+0.2</td>
+ </tr><tr><td>Maine</td>
+ <td><span></span>Both parties</td>
+ <td data-sort="2">2</td>
+ <td data-sort="-6.4">R+6</td>
+ <td data-sort="-0.128">R+0.1</td>
+ </tr><tr><td>Colorado</td>
+ <td><span></span>Commission</td>
+ <td data-sort="8">8</td>
+ <td data-sort="-1.5">R+2</td>
+ <td data-sort="-0.12">R+0.1</td>
+ </tr><tr><td>Nebraska</td>
+ <td><span></span>Republicans</td>
+ <td data-sort="3">3</td>
+ <td data-sort="2.5">D+3</td>
+ <td data-sort="0.075">D+0.1</td>
+ </tr><tr><td>Michigan</td>
+ <td><span></span>Commission</td>
+ <td data-sort="13">13</td>
+ <td data-sort="0.3">0</td>
+ <td data-sort="0.039">D+0.0</td>
+ </tr></tbody></table></div>
+ <footer><p>Sources: U.S. Census Bureau, The Upshot, Voting Election and Science Team, Ryne Rohla/Decision Desk HQ</p>
+ </footer></section></div>
+
+
+<p data-paragraph="main">But it didn’t have to be this way. Republicans in the Legislature initially passed maps that were significantly less biased. The state House <a href="https://floridapolitics.com/archives/504273-with-veto-looming-house-passes-a-florida-congressional-map-two-actually/" target="_blank" rel="noopener">passed</a> a <a href="https://projects.fivethirtyeight.com/redistricting-2022-maps/florida/H000C8019/" target="_blank" rel="noopener">map</a> in March that would have created 15 seats that were R+5 or redder and had an R+13 efficiency gap (though according to the inventors of efficiency gap, that would still qualify as gerrymandered). And in January, the state Senate <a href="https://floridapolitics.com/archives/488460-florida-senate-approves-redistricting-map-for-floridas-28-u-s-house-districts/" target="_blank" rel="noopener">passed</a> a <a href="https://projects.fivethirtyeight.com/redistricting-2022-maps/florida/S035C8060/" target="_blank" rel="noopener">map</a> that was close enough to fair (an efficiency gap of only R+6) that even most Democratic senators voted for it.</p>
+
+
+
+<p data-paragraph="main">But DeSantis <a href="https://floridapolitics.com/archives/501809-ron-desantis-map-veto/" target="_blank" rel="noopener">pledged to veto them both</a>, insisting that only one of his <a href="https://projects.fivethirtyeight.com/redistricting-2022-maps/florida/P000C0079/" target="_blank" rel="noopener">uber-aggressive</a> <a href="https://projects.fivethirtyeight.com/redistricting-2022-maps/florida/P000C0094/" target="_blank" rel="noopener">proposals</a> would do. His beef, at least publicly, was that the Legislature’s proposals preserved (in some form or another) Lawson’s blue district, whose <a href="https://www.govtrack.us/congress/members/FL/5" target="_blank" rel="noopener">old iteration</a> stretched from Tallahassee to Jacksonville in order to pick up enough Black voters to <a href="https://mcimaps.com/lets-talk-about-the-florida-5th-congressional-district/" target="_blank" rel="noopener">give them a voice in Congress</a>. Ironically, <a href="https://floridapolitics.com/archives/508755-gov-desantis-takes-aim-at-fair-districts-amendments/" target="_blank" rel="noopener">DeSantis claimed</a> this violated the 14th Amendment by <a href="https://twitter.com/RRHElections/status/1484312692920025088?s=20&amp;t=fb8wfT48cPhAeXodhJ6Jtg" target="_blank" rel="noopener">prioritizing race</a> as the main consideration in drawing the district over other factors like compactness.</p>
+
+
+
+<p data-paragraph="main">At first, Republican legislators brushed off DeSantis’s objections. They argued that the “<a href="https://ballotpedia.org/Florida_Congressional_District_Boundaries,_Amendment_6_(2010)" target="_blank" rel="noopener">Fair Districts</a>” amendment to the Florida Constitution — a redistricting reform that voters passed in 2010 — required the preservation of a predominantly Black seat in North Florida. And, <a href="https://www.politico.com/news/2022/02/17/florida-republicans-defy-desantis-00009651" target="_blank" rel="noopener">already miffed</a> over DeSantis’s strong-arm tactics on redistricting and other issues, they <a href="https://www.politico.com/states/florida/story/2022/01/20/florida-gop-led-senate-sets-up-clash-with-desantis-over-congressional-maps-1406232" target="_blank" rel="noopener">firmly pushed back</a> against his maps and <a href="https://jaxtrib.org/2022/02/22/florida-legislature-unite-against-gov-desantis-redistricting-expert-to-protect-black-jacksonville-district/" target="_blank" rel="noopener">his legal arguments</a>. </p>
+
+
+
+<p data-paragraph="main">After DeSantis issued his veto threat, though, they began to <a href="https://www.tampabay.com/news/florida-politics/2022/02/25/amid-desantis-push-florida-house-releases-redistricting-map-and-a-backup-plan/" target="_blank" rel="noopener">make concessions to the governor’s position</a>. For instance, the House’s map made Lawson’s district much more compact by centering it solely on Jacksonville — but it still had a big enough Black population to keep it Democratic-leaning. So DeSantis still claimed it was a racial gerrymander and <a href="https://floridapolitics.com/archives/512310-gov-desantis-vetoes-congressional-map-special-session-on-redistricting-planned/" target="_blank" rel="noopener">vetoed it</a>. </p>
+
+
+
+<p data-paragraph="main">To many of the <a href="https://mcimaps.substack.com/p/issue-36-the-new-house-redistricting?s=r" target="_blank" rel="noopener">governor’s critics</a>, this was evidence that DeSantis’s real goal was not an acceptable congressional map, but to <a href="https://www.washingtonpost.com/politics/2022/02/11/desantis-florida-redistricting/" target="_blank" rel="noopener">burnish his image</a> as a partisan warrior ahead of his <a href="https://abcnews.go.com/Politics/desantis-gops-rising-star-2024-hopefuls-drill-anti/story?id=83143776" target="_blank" rel="noopener">possible 2024 presidential run</a>. His refusal to concede districts to the opposing party will surely appeal to Republican primary voters who increasingly <a href="https://fivethirtyeight.com/features/how-hatred-negative-partisanship-came-to-dominate-american-politics/" target="_blank" rel="noopener">view Democratic power as unacceptable</a>. And to a GOP base that cheers former President Donald Trump’s crusades against “RINOs” (Republicans in name only), DeSantis can offer the compelling argument that he stood up to members of his own party who were insufficiently cutthroat.</p>
+
+
+
+<p data-paragraph="main">That argument is even stronger now. After months of staring DeSantis down, last week legislative leaders <a href="https://www.miamiherald.com/news/politics-government/state-politics/article260313745.html" target="_blank" rel="noopener">finally blinked</a>, saying they would not propose any more maps and would vote on whatever proposal DeSantis submitted to them. It was a total political victory for the governor: Not only did he defeat the Legislature in their battle of wills, but he also didn’t have to concede a single Republican district.</p>
+
+
+
+<p data-paragraph="main">However, DeSantis’s political victory doesn’t necessarily mean his map will be used in the 2022 election. With Democrats virtually guaranteed to sue over the plan, a court will ultimately decide its fate. And there are <a href="https://mcimaps.substack.com/p/issue-44-a-good-friday-analysis-of?s=r" target="_blank" rel="noopener">a <em>lot</em> of reasons</a> to think the map is illegal under Florida law. </p>
+
+
+
+<p data-paragraph="main">Most obviously, Republican legislators were correct when they argued that the Fair Districts amendment requires the preservation of a predominantly Black district in North Florida. Even DeSantis’s top lawyer has <a href="https://www.flgov.com/wp-content/uploads/2022/03/SLA-BIZHUB22032912102.pdf" target="_blank" rel="noopener">acknowledged</a> that the Fair Districts amendment prohibits significantly decreasing the nonwhite population of a predominantly nonwhite district (in legal parlance, this is known as “retrogression”). But DeSantis’s map does just that. Under the current boundaries, the voting-age population of Lawson’s district is 44 percent Black and 40 percent white. Under the DeSantis map, it is 55 percent white and 30 percent Black.<a data-footnote-id="2" href="https://fivethirtyeight.com/wp-json/wp/v2/espn_verticals/398#fn-2" data-footnote-content="&lt;p&gt;&lt;p&gt;While Lawson’s current district is numbered the 5th, we consider his new district to be the 4th under DeSantis’s map because a plurality (45 percent) of residents of the new 4th are currently Lawson’s constituents.&lt;/p&gt;
+&lt;/p&gt;"><sup>2</sup></a> </p>
+
+
+
+<p data-paragraph="main">North Florida isn’t even the only place where DeSantis’s map short-changes Black voters. The map also splits Orlando’s Black community between the 10th and 11th districts. It’s <a href="https://jaxtrib.org/2022/01/14/florida-legislature-disagrees-on-racial-protections-in-redistricting/" target="_blank" rel="noopener">debatable</a> whether the current 10th District (represented by Democratic Rep. Val Demings) is protected under the Fair Districts amendment, but its new configuration under the DeSantis plan may not elect Black voters’ candidate of choice. According to local Democratic consultant Matthew Isbell, whites are now a <a href="https://twitter.com/MappingFL/status/1514362815762509824?s=20&amp;t=pJ9UAwN_r_6qRYPP6dPt9A" target="_blank" rel="noopener">plurality of the electorate</a> in the Democratic primary there.</p>
+
+
+
+<p data-paragraph="main">Then, of course, there’s the map’s extreme Republican bias, which is also at odds with the Fair Districts amendment. (“No apportionment plan or individual district shall be drawn with the intent to favor or disfavor a political party,” the <a href="http://www.leg.state.fl.us/statutes/index.cfm?submenu=3#A3S20" target="_blank" rel="noopener">amendment reads</a>.) Perhaps the clearest example of the lines being drawn with partisan intent is in the Tampa Bay region, where there are currently two Democratic-held seats: the competitive 13th, on the western side of the bay, and the blue 14th, on the eastern side. DeSantis’s plan, however, would have the 14th District cross Tampa Bay to combine Democratic voters on the eastern and western sides into one district, thus moving the 13th from a highly competitive seat to a Republican-leaning one.</p>
+
+
+
+<figure><img loading="lazy" width="2104" height="1826" src="https://fivethirtyeight.com/wp-content/uploads/2022/04/Screen-Shot-2022-04-20-at-3.23.37-PM.png" alt="Choropleth map of the partisan lean of districts around Tampa in Governor Ron DeSantis’s proposed new congressional map in Florida, showing the new 14th district crossing Tampa Bay to combine Democratic voters on the eastern and western sides into one district, thus changing the 13th district from competitive to Republican-leaning." data-src="https://fivethirtyeight.com/wp-content/uploads/2022/04/Screen-Shot-2022-04-20-at-3.23.37-PM.png" data-srcset="https://fivethirtyeight.com/wp-content/uploads/2022/04/Screen-Shot-2022-04-20-at-3.23.37-PM.png?w=712 1x, https://fivethirtyeight.com/wp-content/uploads/2022/04/Screen-Shot-2022-04-20-at-3.23.37-PM.png?w=1424 2x"></figure><figure><img loading="lazy" width="512" height="1832" src="https://fivethirtyeight.com/wp-content/uploads/2022/04/Screen-Shot-2022-04-20-at-3.23.51-PM.png" alt="Choropleth map of the partisan lean of districts around Tampa in Governor Ron DeSantis’s proposed new congressional map in Florida, showing the new 14th district crossing Tampa Bay to combine Democratic voters on the eastern and western sides into one district, thus changing the 13th district from competitive to Republican-leaning." data-src="https://fivethirtyeight.com/wp-content/uploads/2022/04/Screen-Shot-2022-04-20-at-3.23.51-PM.png" data-srcset="https://fivethirtyeight.com/wp-content/uploads/2022/04/Screen-Shot-2022-04-20-at-3.23.51-PM.png?w=512 1x, https://fivethirtyeight.com/wp-content/uploads/2022/04/Screen-Shot-2022-04-20-at-3.23.51-PM.png?w=1024 2x"></figure><p data-paragraph="main">Despite voting for the plan this week, even some Republican legislators have <a href="https://www.nbcnews.com/politics/elections/desantis-draws-congressional-map-dramatically-expanding-gops-edge-flor-rcna24317" target="_blank" rel="noopener">privately told reporters</a> that this configuration violates the Fair Districts amendment. How do they know? Because the Florida Supreme Court has said so in the past. In 2015, the court <a href="https://scholar.google.com/scholar_case?case=966573952906433631" target="_blank" rel="noopener">struck down</a> Florida’s then-congressional map in part specifically because the 14th District crossed Tampa Bay.</p>
+
+
+
+<p data-paragraph="main">There seems to be little question that Florida’s new congressional map is illegal under state law. So shouldn’t it be a slam dunk that the courts will throw it out? Not necessarily. The courts may agree with DeSantis’s position that the requirements of the Florida Constitution — specifically, its protections of minority districts — are <em>themselves</em> unconstitutional under the 14th Amendment. Indeed, DeSantis’s implicit goal is to get the Fair Districts amendment struck down entirely — and this map is his vehicle for doing so. </p>
+
+
+
+<p data-paragraph="main">It’s uncertain what the Florida Supreme Court will do here. On one hand, the court had no issues enforcing the Fair Districts amendment just seven years ago. On the other, four of the five justices who supported that ruling are now off the court — three of them replaced by DeSantis appointees. But then again, earlier this year, the court <a href="https://www.tallahassee.com/story/news/politics/2022/02/10/redistricting-florida-supreme-court-gov-desantis-advisory-opinion-denied-al-lawson-congressional/6735854001/" target="_blank" rel="noopener">rejected DeSantis’s request</a> for a preemptive, advisory opinion into whether Lawson’s district was legal, an action that was interpreted as a setback for the governor. </p>
+
+
+
+<p data-paragraph="main">If the map is struck down, it would obviously be a blow to Republicans — and, presumably, DeSantis by extension. His refusal to budge from his hardline position may, in the end, result in a much better map for Democrats than the one he vetoed from the Legislature. But from a narrative perspective, DeSantis will probably be fine: He can still tell 2024 primary voters that he fought the good fight and blame the end result on other, less uncompromising Republicans.</p>
+
+
+
+<p data-paragraph="main">But if the court upholds the map, it would be a much more tangible blow to Democrats and Black voters in Florida, who would find themselves with significantly less representation in Congress. And if the court strikes down the Fair Districts amendment in doing so, it would leave those people with no obvious legal recourse. In short, a lot is on the line in Tallahassee right now.</p>]]></description>
+			<pubDate>Thu, 21 Apr 2022 18:07:00 +0100</pubDate>
+			<guid isPermaLink="false">1650563101579491</guid>
+		</item>
 		<item>
 			<title>The 13 Most Important Republican Senate Primaries To Watch</title>
 			<link>https://fivethirtyeight.com/features/the-13-most-important-republican-senate-primaries-to-watch/</link>
@@ -249,8 +573,8 @@
 
 
 
-<p data-paragraph="main">In Oklahoma, Sen. Jim Inhofe’s <a href="https://rollcall.com/2022/02/25/inhofe-tells-newspaper-he-will-step-aside-at-years-end-and-support-aide-for-his-seat/" target="_blank" rel="noopener">resignation precipitated a special election</a> that has attracted a big field, making a runoff a real possibility.<a data-footnote-id="1" href="https://fivethirtyeight.com/wp-json/wp/v2/espn_verticals/398#fn-1" data-footnote-content='&lt;p&gt;&lt;p&gt;Inhofe’s resignation will &lt;a href="https://www.kjrh.com/news/local-news/oklahoma-sen-jim-inhofe-to-announce-resignation-report-says" target="_blank" rel="noopener"&gt;take effect&lt;/a&gt; on Jan. 3, 2023, meaning the winner of the special election will take office at the start of the next Congress.&lt;/p&gt;
-&lt;/p&gt;'><sup>1</sup></a> Rep. Markwayne Mullin led <a href="https://static1.squarespace.com/static/60099f1f6ffad96a2d94bf98/t/6244cdc1a7aa820e29da4d52/1648676290494/Toplines_Oklahoma+GOP+Statewide+Poll_March+2022.pdf" target="_blank" rel="noopener">a late-March poll</a> from GOP pollster Amber Integrated with 39 percent, followed by former state House speaker T.W. Shannon at 14 percent, but former EPA Administrator Scott Pruitt <a href="https://www.oklahoman.com/story/news/2022/04/15/scott-pruitt-trump-cabinet-joins-race-replace-jim-inhofe-us-senate-oklahoma/7333886001/" target="_blank" rel="noopener">entered the race</a> right before the filing deadline, further muddying the waters.</p>
+<p data-paragraph="main">In Oklahoma, Sen. Jim Inhofe’s <a href="https://rollcall.com/2022/02/25/inhofe-tells-newspaper-he-will-step-aside-at-years-end-and-support-aide-for-his-seat/" target="_blank" rel="noopener">resignation precipitated a special election</a> that has attracted a big field, making a runoff a real possibility.<a data-footnote-id="3" href="https://fivethirtyeight.com/wp-json/wp/v2/espn_verticals/398#fn-3" data-footnote-content='&lt;p&gt;&lt;p&gt;Inhofe’s resignation will &lt;a href="https://www.kjrh.com/news/local-news/oklahoma-sen-jim-inhofe-to-announce-resignation-report-says" target="_blank" rel="noopener"&gt;take effect&lt;/a&gt; on Jan. 3, 2023, meaning the winner of the special election will take office at the start of the next Congress.&lt;/p&gt;
+&lt;/p&gt;'><sup>3</sup></a> Rep. Markwayne Mullin led <a href="https://static1.squarespace.com/static/60099f1f6ffad96a2d94bf98/t/6244cdc1a7aa820e29da4d52/1648676290494/Toplines_Oklahoma+GOP+Statewide+Poll_March+2022.pdf" target="_blank" rel="noopener">a late-March poll</a> from GOP pollster Amber Integrated with 39 percent, followed by former state House speaker T.W. Shannon at 14 percent, but former EPA Administrator Scott Pruitt <a href="https://www.oklahoman.com/story/news/2022/04/15/scott-pruitt-trump-cabinet-joins-race-replace-jim-inhofe-us-senate-oklahoma/7333886001/" target="_blank" rel="noopener">entered the race</a> right before the filing deadline, further muddying the waters.</p>
 
 
 
@@ -441,20 +765,20 @@
 
 
 
-<p data-paragraph="main">When we took a look at Trump’s endorsements last year, we observed he was endorsing more candidates early on in the cycle. By Dec. 7, 2021, he had endorsed 46 candidates for U.S. Senate, U.S. House and state governorships<a data-footnote-id="2" href="https://fivethirtyeight.com/wp-json/wp/v2/espn_verticals/398#fn-2" data-footnote-content="&lt;p&gt;&lt;p&gt;Including state Rep. Steve Carra, who has since dropped out of his congressional race, and Rep. Mo Brooks, whom Trump has since un-endorsed for Senate.&lt;/p&gt;
-&lt;/p&gt;"><sup>2</sup></a> — more than three times as many as he had endorsed at that point in the 2020 election cycle. It wouldn’t have been surprising, then, to see the former president take an endorsement breather — but that’s not what happened. </p>
+<p data-paragraph="main">When we took a look at Trump’s endorsements last year, we observed he was endorsing more candidates early on in the cycle. By Dec. 7, 2021, he had endorsed 46 candidates for U.S. Senate, U.S. House and state governorships<a data-footnote-id="4" href="https://fivethirtyeight.com/wp-json/wp/v2/espn_verticals/398#fn-4" data-footnote-content="&lt;p&gt;&lt;p&gt;Including state Rep. Steve Carra, who has since dropped out of his congressional race, and Rep. Mo Brooks, whom Trump has since un-endorsed for Senate.&lt;/p&gt;
+&lt;/p&gt;"><sup>4</sup></a> — more than three times as many as he had endorsed at that point in the 2020 election cycle. It wouldn’t have been surprising, then, to see the former president take an endorsement breather — but that’s not what happened. </p>
 
 
 
-<p data-paragraph="main">Instead, Trump has continued to endorse at a furious pace. As of April 18, he has endorsed 103 Senate, House and gubernatorial candidates<a data-footnote-id="3" href="https://fivethirtyeight.com/wp-json/wp/v2/espn_verticals/398#fn-3" data-footnote-content="&lt;p&gt;&lt;p&gt;Excluding Carra and Brooks.&lt;/p&gt;
-&lt;/p&gt;"><sup>3</sup></a> whereas by April 18, 2020, he had endorsed only 42 candidates for those offices.</p>
+<p data-paragraph="main">Instead, Trump has continued to endorse at a furious pace. As of April 18, he has endorsed 103 Senate, House and gubernatorial candidates<a data-footnote-id="5" href="https://fivethirtyeight.com/wp-json/wp/v2/espn_verticals/398#fn-5" data-footnote-content="&lt;p&gt;&lt;p&gt;Excluding Carra and Brooks.&lt;/p&gt;
+&lt;/p&gt;"><sup>5</sup></a> whereas by April 18, 2020, he had endorsed only 42 candidates for those offices.</p>
 
 
 
 <figure><div>
 <div><iframe title="Trump has doubled down on early endorsements" aria-label="Interactive line chart" src="https://datawrapper.dwcdn.net/qTaBe/7/" scrolling="no" frameborder="0" height="449" sandbox="allow-scripts allow-same-origin"></iframe></div>
-</div></figure><p data-paragraph="main">After a brief plateau in January — Trump endorsed only six Senate, House or gubernatorial candidates — Trump really ramped up his endorsements in the new year. He endorsed more such candidates in February (20) than he has in any other month this cycle. Then he endorsed nine candidates in March, and 14 more in the first 18 days of April. In total, he’s now made almost as many endorsements for Senate, House and gubernatorial candidates in the first few months of 2022 (49) than he did in all of 2021 (55).<a data-footnote-id="4" href="https://fivethirtyeight.com/wp-json/wp/v2/espn_verticals/398#fn-4" data-footnote-content="&lt;p&gt;&lt;p&gt;Including Carra and Brooks.&lt;/p&gt;
-&lt;/p&gt;"><sup>4</sup></a></p>
+</div></figure><p data-paragraph="main">After a brief plateau in January — Trump endorsed only six Senate, House or gubernatorial candidates — Trump really ramped up his endorsements in the new year. He endorsed more such candidates in February (20) than he has in any other month this cycle. Then he endorsed nine candidates in March, and 14 more in the first 18 days of April. In total, he’s now made almost as many endorsements for Senate, House and gubernatorial candidates in the first few months of 2022 (49) than he did in all of 2021 (55).<a data-footnote-id="6" href="https://fivethirtyeight.com/wp-json/wp/v2/espn_verticals/398#fn-6" data-footnote-content="&lt;p&gt;&lt;p&gt;Including Carra and Brooks.&lt;/p&gt;
+&lt;/p&gt;"><sup>6</sup></a></p>
 
 
 
@@ -462,8 +786,8 @@
 
 
 
-<p data-paragraph="main">Trump may not be slowing down in his endorsements, but we have observed a change in strategy. Back in December, we noted that almost half of the endorsements Trump had made to that point carried political risk: 43 percent (20 out of 46) of his Senate, House and governor endorsements<a data-footnote-id="5" href="https://fivethirtyeight.com/wp-json/wp/v2/espn_verticals/398#fn-5" data-footnote-content="&lt;p&gt;&lt;p&gt;Including Carra and Brooks.&lt;/p&gt;
-&lt;/p&gt;"><sup>5</sup></a> were of non-incumbents in contested Republican primaries, meaning they weren’t necessarily locks to win. But since then, only 22 percent (13 out of 59) of Trump’s Senate, House and governor endorsements have been of non-incumbents in contested Republican primaries. </p>
+<p data-paragraph="main">Trump may not be slowing down in his endorsements, but we have observed a change in strategy. Back in December, we noted that almost half of the endorsements Trump had made to that point carried political risk: 43 percent (20 out of 46) of his Senate, House and governor endorsements<a data-footnote-id="7" href="https://fivethirtyeight.com/wp-json/wp/v2/espn_verticals/398#fn-7" data-footnote-content="&lt;p&gt;&lt;p&gt;Including Carra and Brooks.&lt;/p&gt;
+&lt;/p&gt;"><sup>7</sup></a> were of non-incumbents in contested Republican primaries, meaning they weren’t necessarily locks to win. But since then, only 22 percent (13 out of 59) of Trump’s Senate, House and governor endorsements have been of non-incumbents in contested Republican primaries. </p>
 
 
 
@@ -495,8 +819,8 @@
 
 
 
-<p data-paragraph="main">But Brooks’s fall from grace aside, a belief in the Big Lie has been perhaps the most consistent part of Trump’s endorsements since the 2020 election. Of the 111 candidates he’s endorsed for governor, federal office, attorney general or secretary of state,<a data-footnote-id="6" href="https://fivethirtyeight.com/wp-json/wp/v2/espn_verticals/398#fn-6" data-footnote-content="&lt;p&gt;&lt;p&gt;Excluding Carra and Brooks.&lt;/p&gt;
-&lt;/p&gt;"><sup>6</sup></a> at least 80 — more than 70 percent — believe that the 2020 election was fraudulent, according to our research. (To make our determinations, we checked whether Trump’s endorsees had, if members of Congress, voted against certifying the election results, and whether they had taken a public stance on the issue via news reports and their social media pages. Candidates who more generally raised questions about voter fraud or wanted to increase scrutiny of voting practices weren’t included in our totals.)</p>
+<p data-paragraph="main">But Brooks’s fall from grace aside, a belief in the Big Lie has been perhaps the most consistent part of Trump’s endorsements since the 2020 election. Of the 111 candidates he’s endorsed for governor, federal office, attorney general or secretary of state,<a data-footnote-id="8" href="https://fivethirtyeight.com/wp-json/wp/v2/espn_verticals/398#fn-8" data-footnote-content="&lt;p&gt;&lt;p&gt;Excluding Carra and Brooks.&lt;/p&gt;
+&lt;/p&gt;"><sup>8</sup></a> at least 80 — more than 70 percent — believe that the 2020 election was fraudulent, according to our research. (To make our determinations, we checked whether Trump’s endorsees had, if members of Congress, voted against certifying the election results, and whether they had taken a public stance on the issue via news reports and their social media pages. Candidates who more generally raised questions about voter fraud or wanted to increase scrutiny of voting practices weren’t included in our totals.)</p>
 
 
 <div>
@@ -975,8 +1299,8 @@
  </footer></section></div>
 
 
-<p data-paragraph="main">Support for the Big Lie is particularly prominent in the candidates Trump has endorsed for the House, as we identified that 81 percent (58 out of 72) of the candidates Trump has backed believe in the Big Lie.<a data-footnote-id="7" href="https://fivethirtyeight.com/wp-json/wp/v2/espn_verticals/398#fn-7" data-footnote-content="&lt;p&gt;&lt;p&gt;Excluding Carra.&lt;/p&gt;
-&lt;/p&gt;"><sup>7</sup></a> In Trump’s endorsements for Senate and governors’ races, though, support for the Big Lie isn’t quite as pronounced. Just six out of the 17 candidates Trump has endorsed for the Senate support the Big Lie, and nine out of 14 gubernatorial candidates do.</p>
+<p data-paragraph="main">Support for the Big Lie is particularly prominent in the candidates Trump has endorsed for the House, as we identified that 81 percent (58 out of 72) of the candidates Trump has backed believe in the Big Lie.<a data-footnote-id="9" href="https://fivethirtyeight.com/wp-json/wp/v2/espn_verticals/398#fn-9" data-footnote-content="&lt;p&gt;&lt;p&gt;Excluding Carra.&lt;/p&gt;
+&lt;/p&gt;"><sup>9</sup></a> In Trump’s endorsements for Senate and governors’ races, though, support for the Big Lie isn’t quite as pronounced. Just six out of the 17 candidates Trump has endorsed for the Senate support the Big Lie, and nine out of 14 gubernatorial candidates do.</p>
 
 
 
@@ -1096,16 +1420,16 @@
 
 
 
-<p data-paragraph="main">FiveThirtyEight analyzed wait-time data for hundreds of abortion providers collected by Middlebury College economics professor <a href="https://www.middlebury.edu/academics/econ/faculty_staff_officehours/node/52341" target="_blank" rel="noopener">Caitlin Myers</a> and <a href="https://liberalarts.utexas.edu/txpep/" target="_blank" rel="noopener">researchers from the Texas Policy Evaluation Project at the University of Texas at Austin</a>.<a data-footnote-id="8" href="https://fivethirtyeight.com/wp-json/wp/v2/espn_verticals/398#fn-8" data-footnote-content="&lt;p&gt;&lt;p&gt;Myers has testified as an expert witness on behalf of abortion-rights groups.&lt;/p&gt;
-&lt;/p&gt;"><sup>8</sup></a> To get a comprehensive picture of how long people must wait for the procedure, Myers and a team of student researchers at Middlebury called 737 abortion facilities in 44 states and the District of Columbia, which represent most of the country’s providers that publicly advertise abortion.<a data-footnote-id="9" href="https://fivethirtyeight.com/wp-json/wp/v2/espn_verticals/398#fn-9" data-footnote-content='&lt;p&gt;&lt;p&gt;&lt;a href="https://osf.io/8dg7r/wiki/home/" target="_blank" rel="noopener"&gt;Myers’s Abortion Facility Database&lt;/a&gt; identifies the names and locations of all facilities that publicly advertise abortion services or might otherwise be identifiable to people looking for an abortion. The database is up to date as of February 23, 2022. Occasionally, when facilities were difficult to reach by phone, the researchers checked appointment availability via the facility’s online scheduler, if it had one.&lt;/p&gt;
-&lt;/p&gt;'><sup>9</sup></a> Data for 42 additional providers in the remaining six states came from researchers at the Texas Policy Evaluation Project, <a href="http://sites.utexas.edu/txpep/files/2021/11/TxPEP-brief-SB8-inital-impact.pdf" target="_blank" rel="noopener">who have been conducting similar surveys</a> of abortion providers in these states since Texas’s ban went into effect.<a data-footnote-id="10" href="https://fivethirtyeight.com/wp-json/wp/v2/espn_verticals/398#fn-10" data-footnote-content="&lt;p&gt;&lt;p&gt;Myers’s survey protocol was based on the Texas Policy Evaluation Project’s protocol to ensure that the results were comparable. She combined her research with their research, rather than calling the clinics herself, to avoid unnecessarily burdening providers with additional calls. In total, 34 clinics (4 percent) refused to provide appointment information and 20 clinics (3 percent) said they provided abortion but could not schedule an appointment. Most of the calls from both sets of researchers were made between March 1 and March 22, 2022, but some data from a handful of clinics in Maine was collected on April 11.&lt;/p&gt;
-&lt;/p&gt;"><sup>10</sup></a> In the calls, the researchers posed as potential patients, saying they were about six weeks pregnant and wanted the soonest possible appointment for an abortion.<a data-footnote-id="11" href="https://fivethirtyeight.com/wp-json/wp/v2/espn_verticals/398#fn-11" data-footnote-content="&lt;p&gt;&lt;p&gt;The callers identified themselves as local to the area and between the ages of 19 and 24. They asked for the earliest appointment for both medication and surgical abortions. The wait time was calculated based on the soonest available appointment for either type of abortion. For clinics where a pre-abortion consultation was required, the wait time was calculated based on the soonest available appointment for a consultation, plus any state-imposed waiting period. In some cases, patients may end up waiting longer than the state’s required minimum time between consultation and procedure.&lt;/p&gt;
-&lt;/p&gt;"><sup>11</sup></a></p>
+<p data-paragraph="main">FiveThirtyEight analyzed wait-time data for hundreds of abortion providers collected by Middlebury College economics professor <a href="https://www.middlebury.edu/academics/econ/faculty_staff_officehours/node/52341" target="_blank" rel="noopener">Caitlin Myers</a> and <a href="https://liberalarts.utexas.edu/txpep/" target="_blank" rel="noopener">researchers from the Texas Policy Evaluation Project at the University of Texas at Austin</a>.<a data-footnote-id="10" href="https://fivethirtyeight.com/wp-json/wp/v2/espn_verticals/398#fn-10" data-footnote-content="&lt;p&gt;&lt;p&gt;Myers has testified as an expert witness on behalf of abortion-rights groups.&lt;/p&gt;
+&lt;/p&gt;"><sup>10</sup></a> To get a comprehensive picture of how long people must wait for the procedure, Myers and a team of student researchers at Middlebury called 737 abortion facilities in 44 states and the District of Columbia, which represent most of the country’s providers that publicly advertise abortion.<a data-footnote-id="11" href="https://fivethirtyeight.com/wp-json/wp/v2/espn_verticals/398#fn-11" data-footnote-content='&lt;p&gt;&lt;p&gt;&lt;a href="https://osf.io/8dg7r/wiki/home/" target="_blank" rel="noopener"&gt;Myers’s Abortion Facility Database&lt;/a&gt; identifies the names and locations of all facilities that publicly advertise abortion services or might otherwise be identifiable to people looking for an abortion. The database is up to date as of February 23, 2022. Occasionally, when facilities were difficult to reach by phone, the researchers checked appointment availability via the facility’s online scheduler, if it had one.&lt;/p&gt;
+&lt;/p&gt;'><sup>11</sup></a> Data for 42 additional providers in the remaining six states came from researchers at the Texas Policy Evaluation Project, <a href="http://sites.utexas.edu/txpep/files/2021/11/TxPEP-brief-SB8-inital-impact.pdf" target="_blank" rel="noopener">who have been conducting similar surveys</a> of abortion providers in these states since Texas’s ban went into effect.<a data-footnote-id="12" href="https://fivethirtyeight.com/wp-json/wp/v2/espn_verticals/398#fn-12" data-footnote-content="&lt;p&gt;&lt;p&gt;Myers’s survey protocol was based on the Texas Policy Evaluation Project’s protocol to ensure that the results were comparable. She combined her research with their research, rather than calling the clinics herself, to avoid unnecessarily burdening providers with additional calls. In total, 34 clinics (4 percent) refused to provide appointment information and 20 clinics (3 percent) said they provided abortion but could not schedule an appointment. Most of the calls from both sets of researchers were made between March 1 and March 22, 2022, but some data from a handful of clinics in Maine was collected on April 11.&lt;/p&gt;
+&lt;/p&gt;"><sup>12</sup></a> In the calls, the researchers posed as potential patients, saying they were about six weeks pregnant and wanted the soonest possible appointment for an abortion.<a data-footnote-id="13" href="https://fivethirtyeight.com/wp-json/wp/v2/espn_verticals/398#fn-13" data-footnote-content="&lt;p&gt;&lt;p&gt;The callers identified themselves as local to the area and between the ages of 19 and 24. They asked for the earliest appointment for both medication and surgical abortions. The wait time was calculated based on the soonest available appointment for either type of abortion. For clinics where a pre-abortion consultation was required, the wait time was calculated based on the soonest available appointment for a consultation, plus any state-imposed waiting period. In some cases, patients may end up waiting longer than the state’s required minimum time between consultation and procedure.&lt;/p&gt;
+&lt;/p&gt;"><sup>13</sup></a></p>
 
 
 
-<p data-paragraph="main">The data shows that while clinics in the states surrounding Texas are particularly taxed right now, wait times of a week or more are already fairly common in other parts of the U.S., even in deep-blue states like California and New York.<a data-footnote-id="12" href="https://fivethirtyeight.com/wp-json/wp/v2/espn_verticals/398#fn-12" data-footnote-content="&lt;p&gt;&lt;p&gt;The analysis of metropolitan areas (or core-based statistical areas) was conducted using 2020 data from the U.S. Census Bureau. Nineteen providers were not in a metropolitan area.&lt;/p&gt;
-&lt;/p&gt;"><sup>12</sup></a></p>
+<p data-paragraph="main">The data shows that while clinics in the states surrounding Texas are particularly taxed right now, wait times of a week or more are already fairly common in other parts of the U.S., even in deep-blue states like California and New York.<a data-footnote-id="14" href="https://fivethirtyeight.com/wp-json/wp/v2/espn_verticals/398#fn-14" data-footnote-content="&lt;p&gt;&lt;p&gt;The analysis of metropolitan areas (or core-based statistical areas) was conducted using 2020 data from the U.S. Census Bureau. Nineteen providers were not in a metropolitan area.&lt;/p&gt;
+&lt;/p&gt;"><sup>14</sup></a></p>
 
 
 
@@ -1113,8 +1437,8 @@
 
 
 
-<p data-paragraph="main">For now, some abortion providers could get patients in quickly — but not many. Only 19 percent of the providers had appointments on the same day or the next weekday.<a data-footnote-id="13" href="https://fivethirtyeight.com/wp-json/wp/v2/espn_verticals/398#fn-13" data-footnote-content="&lt;p&gt;&lt;p&gt;Throughout the story, we refer to weekdays. Not all of the clinics were called on the same day of the week, and some clinics may be closed on weekends. We’ve chosen to exclude weekend days to allow for a more accurate comparison.&lt;/p&gt;
-&lt;/p&gt;"><sup>13</sup></a> More providers were able to offer an appointment between two and five weekdays (42 percent). But one-third (32 percent) of clinics had a wait time of at least a week, including 12 percent where the first available appointment was more than two weeks away.</p>
+<p data-paragraph="main">For now, some abortion providers could get patients in quickly — but not many. Only 19 percent of the providers had appointments on the same day or the next weekday.<a data-footnote-id="15" href="https://fivethirtyeight.com/wp-json/wp/v2/espn_verticals/398#fn-15" data-footnote-content="&lt;p&gt;&lt;p&gt;Throughout the story, we refer to weekdays. Not all of the clinics were called on the same day of the week, and some clinics may be closed on weekends. We’ve chosen to exclude weekend days to allow for a more accurate comparison.&lt;/p&gt;
+&lt;/p&gt;"><sup>15</sup></a> More providers were able to offer an appointment between two and five weekdays (42 percent). But one-third (32 percent) of clinics had a wait time of at least a week, including 12 percent where the first available appointment was more than two weeks away.</p>
 
 
 
@@ -1154,8 +1478,8 @@
 
 
 
-<p data-paragraph="main">In Chicago, the median wait time for an appointment was almost a week, and three of the city’s 14 abortion providers didn’t have an opening for more than two weeks.<a data-footnote-id="14" href="https://fivethirtyeight.com/wp-json/wp/v2/espn_verticals/398#fn-14" data-footnote-content="&lt;p&gt;&lt;p&gt;One of the 14 did not provide scheduling information.&lt;/p&gt;
-&lt;/p&gt;"><sup>14</sup></a> <a href="https://www.uchicagomedicine.org/find-a-physician/physician/hillary-mclaren" target="_blank" rel="noopener">Dr. Hillary McLaren</a>, an abortion provider in Chicago, told me that her clinic has seen an uptick in patients from Texas over the past few months. These days, she said, it’s common for the earliest appointment to be two weeks away. “Chicago is a big city with a lot of abortion access, but we’re surrounded by states where it’s restricted — Missouri, Indiana, Wisconsin, Michigan,” she said. As more people travel to Chicago for abortions, that means fewer appointments for local patients. “We’re already seeing that ripple effect — patients who are based here are less able to get care,” she said.</p>
+<p data-paragraph="main">In Chicago, the median wait time for an appointment was almost a week, and three of the city’s 14 abortion providers didn’t have an opening for more than two weeks.<a data-footnote-id="16" href="https://fivethirtyeight.com/wp-json/wp/v2/espn_verticals/398#fn-16" data-footnote-content="&lt;p&gt;&lt;p&gt;One of the 14 did not provide scheduling information.&lt;/p&gt;
+&lt;/p&gt;"><sup>16</sup></a> <a href="https://www.uchicagomedicine.org/find-a-physician/physician/hillary-mclaren" target="_blank" rel="noopener">Dr. Hillary McLaren</a>, an abortion provider in Chicago, told me that her clinic has seen an uptick in patients from Texas over the past few months. These days, she said, it’s common for the earliest appointment to be two weeks away. “Chicago is a big city with a lot of abortion access, but we’re surrounded by states where it’s restricted — Missouri, Indiana, Wisconsin, Michigan,” she said. As more people travel to Chicago for abortions, that means fewer appointments for local patients. “We’re already seeing that ripple effect — patients who are based here are less able to get care,” she said.</p>
 
 
 
@@ -1281,8 +1605,8 @@
 
 
 
-<figure><img src="https://s3.amazonaws.com/fte-projects.fivethirtyeight.com/newsletter-images/biden-approval-rating-2.png?versionId=okKsz3_6UQ7RgRix0iTKDigfnSbPJOQU" alt="" data-src="https://s3.amazonaws.com/fte-projects.fivethirtyeight.com/newsletter-images/biden-approval-rating-2.png?versionId=okKsz3_6UQ7RgRix0iTKDigfnSbPJOQU"></figure><p data-paragraph="main">According to FiveThirtyEight’s <a href="https://projects.fivethirtyeight.com/biden-approval-rating/" target="_blank" rel="noopener">presidential approval tracker</a>,<a data-footnote-id="16" href="https://fivethirtyeight.com/wp-json/wp/v2/espn_verticals/398#fn-16" data-footnote-content="&lt;p&gt;&lt;p&gt;As of 5 p.m. Eastern on Thursday.&lt;/p&gt;
-&lt;/p&gt;"><sup>16</sup></a> 41.5 percent of Americans approve of the job Biden is doing as president, while 52.2 percent disapprove (a net approval rating of -10.7 points). At this time <a href="https://fivethirtyeight.com/features/emmanuel-macron-could-lose-frances-presidential-election/" target="_blank" rel="noopener">last week</a>, 41.7 percent approved and 52.6 percent disapproved (a net approval rating of -11.0 points). One month ago, Biden had an approval rating of 42.9 percent and a disapproval rating of 51.9 percent, for a net approval rating of -9.1 points.</p>
+<figure><img src="https://s3.amazonaws.com/fte-projects.fivethirtyeight.com/newsletter-images/biden-approval-rating-2.png?versionId=okKsz3_6UQ7RgRix0iTKDigfnSbPJOQU" alt="" data-src="https://s3.amazonaws.com/fte-projects.fivethirtyeight.com/newsletter-images/biden-approval-rating-2.png?versionId=okKsz3_6UQ7RgRix0iTKDigfnSbPJOQU"></figure><p data-paragraph="main">According to FiveThirtyEight’s <a href="https://projects.fivethirtyeight.com/biden-approval-rating/" target="_blank" rel="noopener">presidential approval tracker</a>,<a data-footnote-id="18" href="https://fivethirtyeight.com/wp-json/wp/v2/espn_verticals/398#fn-18" data-footnote-content="&lt;p&gt;&lt;p&gt;As of 5 p.m. Eastern on Thursday.&lt;/p&gt;
+&lt;/p&gt;"><sup>18</sup></a> 41.5 percent of Americans approve of the job Biden is doing as president, while 52.2 percent disapprove (a net approval rating of -10.7 points). At this time <a href="https://fivethirtyeight.com/features/emmanuel-macron-could-lose-frances-presidential-election/" target="_blank" rel="noopener">last week</a>, 41.7 percent approved and 52.6 percent disapproved (a net approval rating of -11.0 points). One month ago, Biden had an approval rating of 42.9 percent and a disapproval rating of 51.9 percent, for a net approval rating of -9.1 points.</p>
 
 
 
@@ -1290,8 +1614,8 @@
 
 
 
-<figure><img loading="lazy" width="1150" height="920" src="https://fivethirtyeight.com/wp-content/uploads/2022/04/generic-ballot-2.png" alt="" data-src="https://fivethirtyeight.com/wp-content/uploads/2022/04/generic-ballot-2.png" data-srcset="https://fivethirtyeight.com/wp-content/uploads/2022/04/generic-ballot-2.png?w=712 1x, https://fivethirtyeight.com/wp-content/uploads/2022/04/generic-ballot-2.png?w=1424 2x"></figure><p data-paragraph="main">In our average of polls of the <a href="https://projects.fivethirtyeight.com/congress-generic-ballot-polls/" target="_blank" rel="noopener">generic congressional ballot</a>,<a data-footnote-id="17" href="https://fivethirtyeight.com/wp-json/wp/v2/espn_verticals/398#fn-17" data-footnote-content="&lt;p&gt;&lt;p&gt;As of 5 p.m. Eastern on Thursday.&lt;/p&gt;
-&lt;/p&gt;"><sup>17</sup></a> Republicans currently lead by 2.2 percentage points (44.7 percent to 42.5 percent). A week ago, Republicans led Democrats by 2.2 points (44.7 percent to 42.5 percent). At this time last month, voters preferred Republicans by 2.2 points (44.8 percent to 42.6 percent).</p>
+<figure><img loading="lazy" width="1150" height="920" src="https://fivethirtyeight.com/wp-content/uploads/2022/04/generic-ballot-2.png" alt="" data-src="https://fivethirtyeight.com/wp-content/uploads/2022/04/generic-ballot-2.png" data-srcset="https://fivethirtyeight.com/wp-content/uploads/2022/04/generic-ballot-2.png?w=712 1x, https://fivethirtyeight.com/wp-content/uploads/2022/04/generic-ballot-2.png?w=1424 2x"></figure><p data-paragraph="main">In our average of polls of the <a href="https://projects.fivethirtyeight.com/congress-generic-ballot-polls/" target="_blank" rel="noopener">generic congressional ballot</a>,<a data-footnote-id="19" href="https://fivethirtyeight.com/wp-json/wp/v2/espn_verticals/398#fn-19" data-footnote-content="&lt;p&gt;&lt;p&gt;As of 5 p.m. Eastern on Thursday.&lt;/p&gt;
+&lt;/p&gt;"><sup>19</sup></a> Republicans currently lead by 2.2 percentage points (44.7 percent to 42.5 percent). A week ago, Republicans led Democrats by 2.2 points (44.7 percent to 42.5 percent). At this time last month, voters preferred Republicans by 2.2 points (44.8 percent to 42.6 percent).</p>
 
 
 
@@ -1420,8 +1744,8 @@
 
 
 
-<p data-paragraph="main">Peters was making her own preparations. On May 17, eight days before the update was to occur, Peters’s deputy clerk, Belinda Knisley, requested that the security cameras in the election offices be turned off. While legal,<a data-footnote-id="15" href="https://fivethirtyeight.com/wp-json/wp/v2/espn_verticals/398#fn-15" data-footnote-content='&lt;p&gt;&lt;p&gt;&lt;a href="https://www.sos.state.co.us/pubs/rule_making/CurrentRules/8CCR1505-1/Rule20.pdf" target="_blank" rel="noopener"&gt;By law&lt;/a&gt;, the security cameras are only required to be on for 60 days prior to an election and 30 days following, and this time period did not fall into that window.&lt;/p&gt;
-&lt;/p&gt;'><sup>15</sup></a> multiple sources told me the cameras were not typically turned off.</p>
+<p data-paragraph="main">Peters was making her own preparations. On May 17, eight days before the update was to occur, Peters’s deputy clerk, Belinda Knisley, requested that the security cameras in the election offices be turned off. While legal,<a data-footnote-id="17" href="https://fivethirtyeight.com/wp-json/wp/v2/espn_verticals/398#fn-17" data-footnote-content='&lt;p&gt;&lt;p&gt;&lt;a href="https://www.sos.state.co.us/pubs/rule_making/CurrentRules/8CCR1505-1/Rule20.pdf" target="_blank" rel="noopener"&gt;By law&lt;/a&gt;, the security cameras are only required to be on for 60 days prior to an election and 30 days following, and this time period did not fall into that window.&lt;/p&gt;
+&lt;/p&gt;'><sup>17</sup></a> multiple sources told me the cameras were not typically turned off.</p>
 
 
 
@@ -1763,8 +2087,8 @@
 
 <figure><div>
 <div><blockquote data-width="550" data-dnt="true"><p lang="en" dir="ltr">What kind of people would oppose grooming laws</p>— Jack Posobiec <img src="https://s.w.org/images/core/emoji/13.1.0/72x72/2626.png" alt="☦"> (@JackPosobiec) <a href="https://twitter.com/JackPosobiec/status/1511800494196342785?ref_src=twsrc%5Etfw">April 6, 2022</a></blockquote></div>
-</div></figure><p data-paragraph="main">For the unfamiliar, “grooming” is a term typically reserved to describe the type of behavior that child sexual abusers use to <a href="https://www.rainn.org/news/grooming-know-warning-signs#:~:text=One%20tool%20common%20to%20those,the%20risk%20of%20being%20caught." target="_blank" rel="noopener">coerce potential victims without being caught</a>. But now some Republicans are using it against any Democrat (<a href="https://www.theamericanconservative.com/dreher/walt-disney-groomer-children-lgbt-florida-law/" target="_blank" rel="noopener">or company</a>)<a data-footnote-id="18" href="https://fivethirtyeight.com/wp-json/wp/v2/espn_verticals/398#fn-18" data-footnote-content="&lt;p&gt;&lt;p&gt;Conservatives have suggested that Disney’s opposition to Florida’s law restricting when kids learn about sexual orientation shows that the company supports groomers. FiveThirtyEight is owned by Disney.&lt;/p&gt;
-&lt;/p&gt;"><sup>18</sup></a> who disagrees with them on certain policy issues. This is a deliberate tactic that was <a href="https://twitter.com/realchrisrufo/status/1432808372324089856?s=20&amp;t=5H3o2PGieazxd8PfMBdCYg" target="_blank" rel="noopener">promoted as early as last summer</a> by Christopher Rufo, the same conservative activist who <a href="https://www.washingtonpost.com/education/2021/06/19/critical-race-theory-rufo-republicans/" target="_blank" rel="noopener">helped muddle the language</a> around critical race theory. “Grooming” is a term that neatly draws together both modern conspiracy theories and old homophobic stereotypes, while comfortably shielding itself under the guise of protecting children. Who, after all, can argue against the safety of kids? But by adopting this language to bolster their latest political pursuits, the right is both giving a nod to fringe conspiracy theorists and using an age-old tactic to dismantle LGBTQ rights. </p>
+</div></figure><p data-paragraph="main">For the unfamiliar, “grooming” is a term typically reserved to describe the type of behavior that child sexual abusers use to <a href="https://www.rainn.org/news/grooming-know-warning-signs#:~:text=One%20tool%20common%20to%20those,the%20risk%20of%20being%20caught." target="_blank" rel="noopener">coerce potential victims without being caught</a>. But now some Republicans are using it against any Democrat (<a href="https://www.theamericanconservative.com/dreher/walt-disney-groomer-children-lgbt-florida-law/" target="_blank" rel="noopener">or company</a>)<a data-footnote-id="20" href="https://fivethirtyeight.com/wp-json/wp/v2/espn_verticals/398#fn-20" data-footnote-content="&lt;p&gt;&lt;p&gt;Conservatives have suggested that Disney’s opposition to Florida’s law restricting when kids learn about sexual orientation shows that the company supports groomers. FiveThirtyEight is owned by Disney.&lt;/p&gt;
+&lt;/p&gt;"><sup>20</sup></a> who disagrees with them on certain policy issues. This is a deliberate tactic that was <a href="https://twitter.com/realchrisrufo/status/1432808372324089856?s=20&amp;t=5H3o2PGieazxd8PfMBdCYg" target="_blank" rel="noopener">promoted as early as last summer</a> by Christopher Rufo, the same conservative activist who <a href="https://www.washingtonpost.com/education/2021/06/19/critical-race-theory-rufo-republicans/" target="_blank" rel="noopener">helped muddle the language</a> around critical race theory. “Grooming” is a term that neatly draws together both modern conspiracy theories and old homophobic stereotypes, while comfortably shielding itself under the guise of protecting children. Who, after all, can argue against the safety of kids? But by adopting this language to bolster their latest political pursuits, the right is both giving a nod to fringe conspiracy theorists and using an age-old tactic to dismantle LGBTQ rights. </p>
 
 
 
@@ -1891,8 +2215,8 @@
 
 
 
-<p data-paragraph="main">For almost three decades after abortion became legal, Americans who wanted to end their pregnancies had one option: an in-clinic procedure. That changed <a href="https://www.nytimes.com/2000/09/29/us/us-approves-abortion-pill-drug-offers-more-privacy-and-could-reshape-debate.html" target="_blank" rel="noopener">in the fall of 2000</a>, when the Food and Drug Administration approved mifepristone, an abortion-inducing drug that allows people to go through the physical process of an abortion at home. To end a pregnancy, people first take mifepristone, which stops the pregnancy from growing. Then the second drug, misoprostol, which is usually taken 24 to 48 hours later, tells the uterus to expel the pregnancy. <a href="https://www.fda.gov/drugs/postmarket-drug-safety-information-patients-and-providers/mifeprex-mifepristone-information" target="_blank" rel="noopener">According to current FDA regulations</a>, the combination can be used until the 10th week of pregnancy.<a data-footnote-id="19" href="https://fivethirtyeight.com/wp-json/wp/v2/espn_verticals/398#fn-19" data-footnote-content="&lt;p&gt;&lt;p&gt;Not everyone who gets an abortion identifies as a woman. We have tried to use gender-neutral language in this story when referring to those who receive abortions, except where we are citing the specific experiences of people who identify as women, studies that identified their participants as women or historical context about how the medical community has treated women as a social class.&lt;/p&gt;
-&lt;/p&gt;"><sup>19</sup></a></p>
+<p data-paragraph="main">For almost three decades after abortion became legal, Americans who wanted to end their pregnancies had one option: an in-clinic procedure. That changed <a href="https://www.nytimes.com/2000/09/29/us/us-approves-abortion-pill-drug-offers-more-privacy-and-could-reshape-debate.html" target="_blank" rel="noopener">in the fall of 2000</a>, when the Food and Drug Administration approved mifepristone, an abortion-inducing drug that allows people to go through the physical process of an abortion at home. To end a pregnancy, people first take mifepristone, which stops the pregnancy from growing. Then the second drug, misoprostol, which is usually taken 24 to 48 hours later, tells the uterus to expel the pregnancy. <a href="https://www.fda.gov/drugs/postmarket-drug-safety-information-patients-and-providers/mifeprex-mifepristone-information" target="_blank" rel="noopener">According to current FDA regulations</a>, the combination can be used until the 10th week of pregnancy.<a data-footnote-id="21" href="https://fivethirtyeight.com/wp-json/wp/v2/espn_verticals/398#fn-21" data-footnote-content="&lt;p&gt;&lt;p&gt;Not everyone who gets an abortion identifies as a woman. We have tried to use gender-neutral language in this story when referring to those who receive abortions, except where we are citing the specific experiences of people who identify as women, studies that identified their participants as women or historical context about how the medical community has treated women as a social class.&lt;/p&gt;
+&lt;/p&gt;"><sup>21</sup></a></p>
 
 
 
@@ -2291,8 +2615,8 @@
 
 
 
-<p data-paragraph="main">Five years ago, Emmanuel Macron <a href="https://www.bbc.com/news/world-europe-39839349" target="_blank" rel="noopener">won a sweeping victory</a> to become the youngest president in France’s history. Running at the head of The Republic On The Move,<a data-footnote-id="20" href="https://fivethirtyeight.com/wp-json/wp/v2/espn_verticals/398#fn-20" data-footnote-content="&lt;p&gt;&lt;p&gt;La République En Marche! in French.&lt;/p&gt;
-&lt;/p&gt;"><sup>20</sup></a> a <a href="https://blogs.lse.ac.uk/europpblog/2017/02/06/emmanuel-macron-liberal-centrist-movement/" target="_blank" rel="noopener">centrist and pro-European Union party</a> he had founded <a href="https://www.lemonde.fr/politique/article/2016/04/06/emmanuel-macron-lance-un-mouvement-politique-nouveau-baptise-en-marche_4897274_823448.html" target="_blank" rel="noopener">in 2016</a>, Macron defeated his far-right opponent, Marine Le Pen, by more than 30 percentage points and <a href="https://foreignpolicy.com/2021/11/10/france-mainstream-parties-survival-election/" target="_blank" rel="noopener">broke the hold</a> of the traditional center-right and center-left parties over French politics.</p>
+<p data-paragraph="main">Five years ago, Emmanuel Macron <a href="https://www.bbc.com/news/world-europe-39839349" target="_blank" rel="noopener">won a sweeping victory</a> to become the youngest president in France’s history. Running at the head of The Republic On The Move,<a data-footnote-id="22" href="https://fivethirtyeight.com/wp-json/wp/v2/espn_verticals/398#fn-22" data-footnote-content="&lt;p&gt;&lt;p&gt;La République En Marche! in French.&lt;/p&gt;
+&lt;/p&gt;"><sup>22</sup></a> a <a href="https://blogs.lse.ac.uk/europpblog/2017/02/06/emmanuel-macron-liberal-centrist-movement/" target="_blank" rel="noopener">centrist and pro-European Union party</a> he had founded <a href="https://www.lemonde.fr/politique/article/2016/04/06/emmanuel-macron-lance-un-mouvement-politique-nouveau-baptise-en-marche_4897274_823448.html" target="_blank" rel="noopener">in 2016</a>, Macron defeated his far-right opponent, Marine Le Pen, by more than 30 percentage points and <a href="https://foreignpolicy.com/2021/11/10/france-mainstream-parties-survival-election/" target="_blank" rel="noopener">broke the hold</a> of the traditional center-right and center-left parties over French politics.</p>
 
 
 
@@ -2314,18 +2638,18 @@
 
 
 
-<p data-paragraph="main">Le Pen and her party, the National Rally<a data-footnote-id="21" href="https://fivethirtyeight.com/wp-json/wp/v2/espn_verticals/398#fn-21" data-footnote-content="&lt;p&gt;&lt;p&gt;Rassemblement National in French.&lt;/p&gt;
-&lt;/p&gt;"><sup>21</sup></a> (formerly the National Front), have <a href="https://www.vice.com/en/article/9aebdp/a-history-of-the-national-front" target="_blank" rel="noopener">traditionally run on</a> an anti-immigrant and <a href="https://www.britannica.com/topic/Euroskepticism" target="_blank" rel="noopener">Euroskeptic</a> platform, dating back to her father <a href="https://www.britannica.com/biography/Jean-Marie-Le-Pen" target="_blank" rel="noopener">Jean-Marie Le Pen</a>’s party leadership. But in this election, Le Pen has placed a <a href="https://www.reuters.com/world/europe/cost-living-woes-boost-phoenix-le-pen-race-french-presidency-2022-03-30/" target="_blank" rel="noopener">greater emphasis on kitchen table issues</a>, <a href="https://apnews.com/article/russia-ukraine-immigration-business-migration-presidential-elections-1b63d3f94583427ad570588564d46061" target="_blank" rel="noopener">including calls</a> to cut taxes on energy and raise base pensions, which may broaden her appeal considering that many in France <a href="https://www.dw.com/en/france-macron-vows-inflation-relief-at-election-rally/a-61339459" target="_blank" rel="noopener">are worried about inflation</a>. To be sure, her party maintains a strong anti-immigrant platform that aims to weaken immigrants’ access to government benefits and shut out many asylum seekers, but Le Pen <a href="https://www.ft.com/content/99f9e50b-1134-4af2-b85c-831c0e325157" target="_blank" rel="noopener">has welcomed Ukrainian refugees</a> as she tries to distance herself from <a href="https://www.france24.com/en/france/20220304-ukraine-war-puts-france-s-nato-sceptic-presidential-candidates-in-a-tight-spot" target="_blank" rel="noopener">her past praise</a> of Russian President Vladimir Putin. </p>
+<p data-paragraph="main">Le Pen and her party, the National Rally<a data-footnote-id="23" href="https://fivethirtyeight.com/wp-json/wp/v2/espn_verticals/398#fn-23" data-footnote-content="&lt;p&gt;&lt;p&gt;Rassemblement National in French.&lt;/p&gt;
+&lt;/p&gt;"><sup>23</sup></a> (formerly the National Front), have <a href="https://www.vice.com/en/article/9aebdp/a-history-of-the-national-front" target="_blank" rel="noopener">traditionally run on</a> an anti-immigrant and <a href="https://www.britannica.com/topic/Euroskepticism" target="_blank" rel="noopener">Euroskeptic</a> platform, dating back to her father <a href="https://www.britannica.com/biography/Jean-Marie-Le-Pen" target="_blank" rel="noopener">Jean-Marie Le Pen</a>’s party leadership. But in this election, Le Pen has placed a <a href="https://www.reuters.com/world/europe/cost-living-woes-boost-phoenix-le-pen-race-french-presidency-2022-03-30/" target="_blank" rel="noopener">greater emphasis on kitchen table issues</a>, <a href="https://apnews.com/article/russia-ukraine-immigration-business-migration-presidential-elections-1b63d3f94583427ad570588564d46061" target="_blank" rel="noopener">including calls</a> to cut taxes on energy and raise base pensions, which may broaden her appeal considering that many in France <a href="https://www.dw.com/en/france-macron-vows-inflation-relief-at-election-rally/a-61339459" target="_blank" rel="noopener">are worried about inflation</a>. To be sure, her party maintains a strong anti-immigrant platform that aims to weaken immigrants’ access to government benefits and shut out many asylum seekers, but Le Pen <a href="https://www.ft.com/content/99f9e50b-1134-4af2-b85c-831c0e325157" target="_blank" rel="noopener">has welcomed Ukrainian refugees</a> as she tries to distance herself from <a href="https://www.france24.com/en/france/20220304-ukraine-war-puts-france-s-nato-sceptic-presidential-candidates-in-a-tight-spot" target="_blank" rel="noopener">her past praise</a> of Russian President Vladimir Putin. </p>
 
 
 
-<p data-paragraph="main">Le Pen’s hard-right edge may have also been softened in voters’ eyes given Zemmour’s far-right campaign. A <a href="https://www.politico.eu/article/marine-le-pen-and-eric-zemmour-je-taime-moi-non-plus/" target="_blank" rel="noopener">political commentator</a> who has <a href="https://foreignpolicy.com/2021/11/10/france-eric-zemmour-president-election/" target="_blank" rel="noopener">espoused racist, anti-immigrant and anti-Islamic views</a> and been <a href="https://www.politico.eu/article/frances-eric-zemmour-announces-presidential-candidacy/" target="_blank" rel="noopener">convicted twice of inciting hatred,</a> Zemmour seemed to initially <a href="https://www.politico.eu/europe-poll-of-polls/france/" target="_blank" rel="noopener">take a bite out of Le Pen’s support</a> last fall, but his campaign never quite took off, and he has since slipped in the polls. Meanwhile, Le Pen may also be winning over some conservative voters who <a href="https://www.politico.eu/article/valerie-pecresse-macron-hard-right-french-election-2022/" target="_blank" rel="noopener">abandoned Pécresse</a> and her center-right party, The Republicans.<a data-footnote-id="22" href="https://fivethirtyeight.com/wp-json/wp/v2/espn_verticals/398#fn-22" data-footnote-content="&lt;p&gt;&lt;p&gt;Les Républicains in French.&lt;/p&gt;
-&lt;/p&gt;"><sup>22</sup></a></p>
+<p data-paragraph="main">Le Pen’s hard-right edge may have also been softened in voters’ eyes given Zemmour’s far-right campaign. A <a href="https://www.politico.eu/article/marine-le-pen-and-eric-zemmour-je-taime-moi-non-plus/" target="_blank" rel="noopener">political commentator</a> who has <a href="https://foreignpolicy.com/2021/11/10/france-eric-zemmour-president-election/" target="_blank" rel="noopener">espoused racist, anti-immigrant and anti-Islamic views</a> and been <a href="https://www.politico.eu/article/frances-eric-zemmour-announces-presidential-candidacy/" target="_blank" rel="noopener">convicted twice of inciting hatred,</a> Zemmour seemed to initially <a href="https://www.politico.eu/europe-poll-of-polls/france/" target="_blank" rel="noopener">take a bite out of Le Pen’s support</a> last fall, but his campaign never quite took off, and he has since slipped in the polls. Meanwhile, Le Pen may also be winning over some conservative voters who <a href="https://www.politico.eu/article/valerie-pecresse-macron-hard-right-french-election-2022/" target="_blank" rel="noopener">abandoned Pécresse</a> and her center-right party, The Republicans.<a data-footnote-id="24" href="https://fivethirtyeight.com/wp-json/wp/v2/espn_verticals/398#fn-24" data-footnote-content="&lt;p&gt;&lt;p&gt;Les Républicains in French.&lt;/p&gt;
+&lt;/p&gt;"><sup>24</sup></a></p>
 
 
 
-<p data-paragraph="main">Meanwhile, the French left, which has been in a <a href="https://foreignpolicy.com/2022/02/14/france-macron-left-election-socialist/" target="_blank" rel="noopener">state of disarray</a> in recent years, hasn’t yet consolidated around Macron. Instead, Mélenchon of the France Unbowed party<a data-footnote-id="23" href="https://fivethirtyeight.com/wp-json/wp/v2/espn_verticals/398#fn-23" data-footnote-content="&lt;p&gt;&lt;p&gt;La France Insoumise in French.&lt;/p&gt;
-&lt;/p&gt;"><sup>23</sup></a> has been gaining ground in the polls. Mélenchon may be gaining traction for his <a href="https://www.nytimes.com/2022/03/26/world/europe/melenchon-france-election-left.html" target="_blank" rel="noopener">campaign promises</a> to reintroduce a wealth tax that ended during Macron’s administration and lower the retirement age from 62 to 60. Then again, Mélenchon is still polling considerably behind both Le Pen and Macron, so his campaign might be most significant for whether Macron can win over many of Mélenchon’s voters in a runoff.</p>
+<p data-paragraph="main">Meanwhile, the French left, which has been in a <a href="https://foreignpolicy.com/2022/02/14/france-macron-left-election-socialist/" target="_blank" rel="noopener">state of disarray</a> in recent years, hasn’t yet consolidated around Macron. Instead, Mélenchon of the France Unbowed party<a data-footnote-id="25" href="https://fivethirtyeight.com/wp-json/wp/v2/espn_verticals/398#fn-25" data-footnote-content="&lt;p&gt;&lt;p&gt;La France Insoumise in French.&lt;/p&gt;
+&lt;/p&gt;"><sup>25</sup></a> has been gaining ground in the polls. Mélenchon may be gaining traction for his <a href="https://www.nytimes.com/2022/03/26/world/europe/melenchon-france-election-left.html" target="_blank" rel="noopener">campaign promises</a> to reintroduce a wealth tax that ended during Macron’s administration and lower the retirement age from 62 to 60. Then again, Mélenchon is still polling considerably behind both Le Pen and Macron, so his campaign might be most significant for whether Macron can win over many of Mélenchon’s voters in a runoff.</p>
 
 
 
@@ -2355,13 +2679,13 @@
 
 
 
-<ul><li>The share of Americans who say they are worried a great deal about the environment <a href="https://news.gallup.com/poll/391547/seven-year-stretch-elevated-environmental-concern.aspx">has remained elevated for the last seven years</a>, according to a March 1-18 poll from Gallup. Forty-four percent of respondents said they worried about the quality of the environment a great deal, down only slightly from highs of 47 percent in 2017 and 2019. When asked about specific environmental problems, the greatest share of respondents said they were worried about pollution of drinking water (57 percent), while the smallest share of respondents listed global warming or climate change (43 percent) as their top concern.</li><li><a href="https://news.yahoo.com/poll-63-of-americans-say-putin-cannot-remain-in-power-090049601.html">Most Americans agree with the sentiment</a> that Russian President Vladimir Putin cannot remain in power — but that doesn’t mean they approve of President Biden having said it <a href="https://abcnews.go.com/Politics/full-transcript-president-bidens-speech-warsaw-russias-invasion/story?id=83690301">in a March 26 speech in Warsaw</a>, according to a March 31-April 4 poll from Yahoo News/YouGov. When the quote about Putin — “This man cannot remain in power” — was unattributed, 63 percent agreed with it. But when the pollster asked whether Biden was right or wrong to have said it,” just 48 percent of Americans said he was right. Both Democrats and Republicans were less likely to agree with this statement when it was attributed to Biden: 57 percent of Republicans agreed with the unattributed statement, whereas only 37 percent said the same when told Biden said it; meanwhile, 83 percent of Democrats agreed with the unattributed statement, while 70 percent said the same when told Biden said it.</li><li><a href="https://morningconsult.com/2022/04/06/autonomous-vehicles-safety-and-trust/">Trust in autonomous vehicles (also known as self-driving cars) remains low.</a> In fact, the share of Americans who say that they trust autonomous vehicles to be safer than traditional cars has gone down since 2018. According to a March 3-6 poll from Morning Consult, the share of respondents who said they thought that self-driving vehicles were safer declined from 27 percent in 2018 to 19 percent now.</li><li>Americans are divided on <a href="https://www.ipsos.com/sites/default/files/ct/news/documents/2022-04/Musk-Twitter%20Snap%20Poll%20Topline%2004-05-2022_0.pdf">what kinds of content social media companies should be allowed to remove</a>, according to an April 4-5 poll from Ipsos. Overall, 78 percent agreed that social media companies have the right to remove any person considered to violate the platform’s terms of service and 72 percent agreed that social media companies had the right to block any post they considered inappropriate. Large majorities also said they supported social media companies removing posts that probably have false information (75 percent), promote violence against particular individuals or groups (80 percent) or pose a risk to the public (79 percent). But at the same time, 69 percent of respondents agreed that companies have a clear political agenda in who and what they block. Just 48 percent of respondents said they support removing posts that promote political action and 54 percent said the same of posts that have heated political language.</li><li><a href="https://today.yougov.com/topics/politics/articles-reports/2022/04/05/trust-media-2022-where-americans-get-news-poll">The Weather Channel is the most trusted media organization in the U.S.</a>, with a net rating of +41 points among American adults; the least trusted outlet is Breitbart, with a net rating of -15 points, according to a March 26-29 poll from The Economist/YouGov that asked about 22 different media organizations. Opinions of CNN were the most politically polarized: 66 percent of Democrats said it was very or somewhat trustworthy, versus just 11 percent of Republicans. On the whole, though, Democrats were much more likely than Republicans to trust media outlets. There were only two outlets (Fox News at 53 percent and The Weather Channel at 50 percent) that the majority of Republicans trusted, versus 14<a data-footnote-id="24" href="https://fivethirtyeight.com/wp-json/wp/v2/espn_verticals/398#fn-24" data-footnote-content="&lt;p&gt;&lt;p&gt;The Weather Channel, PBS, the BBC, CBS, ABC, NBC, The Wall Street Journal, CNN, The New York Times, The Washington Post, NPR, the Associated Press, TIME Magazine and MSNBC.&lt;/p&gt;
-&lt;/p&gt;"><sup>24</sup></a> that the majority of Democrats trusted.</li></ul><h2><strong>Biden approval</strong></h2>
+<ul><li>The share of Americans who say they are worried a great deal about the environment <a href="https://news.gallup.com/poll/391547/seven-year-stretch-elevated-environmental-concern.aspx">has remained elevated for the last seven years</a>, according to a March 1-18 poll from Gallup. Forty-four percent of respondents said they worried about the quality of the environment a great deal, down only slightly from highs of 47 percent in 2017 and 2019. When asked about specific environmental problems, the greatest share of respondents said they were worried about pollution of drinking water (57 percent), while the smallest share of respondents listed global warming or climate change (43 percent) as their top concern.</li><li><a href="https://news.yahoo.com/poll-63-of-americans-say-putin-cannot-remain-in-power-090049601.html">Most Americans agree with the sentiment</a> that Russian President Vladimir Putin cannot remain in power — but that doesn’t mean they approve of President Biden having said it <a href="https://abcnews.go.com/Politics/full-transcript-president-bidens-speech-warsaw-russias-invasion/story?id=83690301">in a March 26 speech in Warsaw</a>, according to a March 31-April 4 poll from Yahoo News/YouGov. When the quote about Putin — “This man cannot remain in power” — was unattributed, 63 percent agreed with it. But when the pollster asked whether Biden was right or wrong to have said it,” just 48 percent of Americans said he was right. Both Democrats and Republicans were less likely to agree with this statement when it was attributed to Biden: 57 percent of Republicans agreed with the unattributed statement, whereas only 37 percent said the same when told Biden said it; meanwhile, 83 percent of Democrats agreed with the unattributed statement, while 70 percent said the same when told Biden said it.</li><li><a href="https://morningconsult.com/2022/04/06/autonomous-vehicles-safety-and-trust/">Trust in autonomous vehicles (also known as self-driving cars) remains low.</a> In fact, the share of Americans who say that they trust autonomous vehicles to be safer than traditional cars has gone down since 2018. According to a March 3-6 poll from Morning Consult, the share of respondents who said they thought that self-driving vehicles were safer declined from 27 percent in 2018 to 19 percent now.</li><li>Americans are divided on <a href="https://www.ipsos.com/sites/default/files/ct/news/documents/2022-04/Musk-Twitter%20Snap%20Poll%20Topline%2004-05-2022_0.pdf">what kinds of content social media companies should be allowed to remove</a>, according to an April 4-5 poll from Ipsos. Overall, 78 percent agreed that social media companies have the right to remove any person considered to violate the platform’s terms of service and 72 percent agreed that social media companies had the right to block any post they considered inappropriate. Large majorities also said they supported social media companies removing posts that probably have false information (75 percent), promote violence against particular individuals or groups (80 percent) or pose a risk to the public (79 percent). But at the same time, 69 percent of respondents agreed that companies have a clear political agenda in who and what they block. Just 48 percent of respondents said they support removing posts that promote political action and 54 percent said the same of posts that have heated political language.</li><li><a href="https://today.yougov.com/topics/politics/articles-reports/2022/04/05/trust-media-2022-where-americans-get-news-poll">The Weather Channel is the most trusted media organization in the U.S.</a>, with a net rating of +41 points among American adults; the least trusted outlet is Breitbart, with a net rating of -15 points, according to a March 26-29 poll from The Economist/YouGov that asked about 22 different media organizations. Opinions of CNN were the most politically polarized: 66 percent of Democrats said it was very or somewhat trustworthy, versus just 11 percent of Republicans. On the whole, though, Democrats were much more likely than Republicans to trust media outlets. There were only two outlets (Fox News at 53 percent and The Weather Channel at 50 percent) that the majority of Republicans trusted, versus 14<a data-footnote-id="26" href="https://fivethirtyeight.com/wp-json/wp/v2/espn_verticals/398#fn-26" data-footnote-content="&lt;p&gt;&lt;p&gt;The Weather Channel, PBS, the BBC, CBS, ABC, NBC, The Wall Street Journal, CNN, The New York Times, The Washington Post, NPR, the Associated Press, TIME Magazine and MSNBC.&lt;/p&gt;
+&lt;/p&gt;"><sup>26</sup></a> that the majority of Democrats trusted.</li></ul><h2><strong>Biden approval</strong></h2>
 
 
 
-<figure><img loading="lazy" width="575" height="460" src="https://fivethirtyeight.com/wp-content/uploads/2022/04/biden-approval-rating-1.png" alt="" data-src="https://fivethirtyeight.com/wp-content/uploads/2022/04/biden-approval-rating-1.png" data-srcset="https://fivethirtyeight.com/wp-content/uploads/2022/04/biden-approval-rating-1.png?w=575 1x, https://fivethirtyeight.com/wp-content/uploads/2022/04/biden-approval-rating-1.png?w=1150 2x"></figure><p data-paragraph="main">According to FiveThirtyEight’s <a href="https://projects.fivethirtyeight.com/biden-approval-rating/" target="_blank" rel="noopener">presidential approval tracker</a>,<a data-footnote-id="25" href="https://fivethirtyeight.com/wp-json/wp/v2/espn_verticals/398#fn-25" data-footnote-content="&lt;p&gt;&lt;p&gt;As of 5 p.m. Eastern on Thursday.&lt;/p&gt;
-&lt;/p&gt;"><sup>25</sup></a> 41.7 percent of Americans approve of the job Biden is doing as president, while 52.6 percent disapprove (a net approval rating of -11.0 points). At this time <a href="https://fivethirtyeight.com/features/what-the-mlb-lockout-can-tell-us-about-political-fandom-and-sports-partisanship/" target="_blank" rel="noopener">last week</a>, 41.2 percent approved and 53.1 percent disapproved (a net approval rating of -11.9 points). One month ago, Biden had an approval rating of 42.1 percent and a disapproval rating of 51.9 percent, for a net approval rating of -9.8 points.</p>
+<figure><img loading="lazy" width="575" height="460" src="https://fivethirtyeight.com/wp-content/uploads/2022/04/biden-approval-rating-1.png" alt="" data-src="https://fivethirtyeight.com/wp-content/uploads/2022/04/biden-approval-rating-1.png" data-srcset="https://fivethirtyeight.com/wp-content/uploads/2022/04/biden-approval-rating-1.png?w=575 1x, https://fivethirtyeight.com/wp-content/uploads/2022/04/biden-approval-rating-1.png?w=1150 2x"></figure><p data-paragraph="main">According to FiveThirtyEight’s <a href="https://projects.fivethirtyeight.com/biden-approval-rating/" target="_blank" rel="noopener">presidential approval tracker</a>,<a data-footnote-id="27" href="https://fivethirtyeight.com/wp-json/wp/v2/espn_verticals/398#fn-27" data-footnote-content="&lt;p&gt;&lt;p&gt;As of 5 p.m. Eastern on Thursday.&lt;/p&gt;
+&lt;/p&gt;"><sup>27</sup></a> 41.7 percent of Americans approve of the job Biden is doing as president, while 52.6 percent disapprove (a net approval rating of -11.0 points). At this time <a href="https://fivethirtyeight.com/features/what-the-mlb-lockout-can-tell-us-about-political-fandom-and-sports-partisanship/" target="_blank" rel="noopener">last week</a>, 41.2 percent approved and 53.1 percent disapproved (a net approval rating of -11.9 points). One month ago, Biden had an approval rating of 42.1 percent and a disapproval rating of 51.9 percent, for a net approval rating of -9.8 points.</p>
 
 
 
@@ -2369,8 +2693,8 @@
 
 
 
-<figure><img loading="lazy" width="1150" height="920" src="https://fivethirtyeight.com/wp-content/uploads/2022/04/generic-ballot-2-1.png" alt="" data-src="https://fivethirtyeight.com/wp-content/uploads/2022/04/generic-ballot-2-1.png" data-srcset="https://fivethirtyeight.com/wp-content/uploads/2022/04/generic-ballot-2-1.png?w=712 1x, https://fivethirtyeight.com/wp-content/uploads/2022/04/generic-ballot-2-1.png?w=1424 2x"></figure><p data-paragraph="main">In our average of polls of the <a href="https://projects.fivethirtyeight.com/congress-generic-ballot-polls/" target="_blank" rel="noopener">generic congressional ballot</a>,<a data-footnote-id="26" href="https://fivethirtyeight.com/wp-json/wp/v2/espn_verticals/398#fn-26" data-footnote-content="&lt;p&gt;&lt;p&gt;As of 5 p.m. Eastern on Thursday.&lt;/p&gt;
-&lt;/p&gt;"><sup>26</sup></a> Republicans currently lead by 2.2 percentage points (44.7 percent to 42.5 percent). A week ago, Republicans led Democrats by 2.1 points (44.7 percent to 42.6 percent). At this time last month, voters preferred Republicans by 2.1 points (44.8 percent to 42.7 percent).</p>]]></description>
+<figure><img loading="lazy" width="1150" height="920" src="https://fivethirtyeight.com/wp-content/uploads/2022/04/generic-ballot-2-1.png" alt="" data-src="https://fivethirtyeight.com/wp-content/uploads/2022/04/generic-ballot-2-1.png" data-srcset="https://fivethirtyeight.com/wp-content/uploads/2022/04/generic-ballot-2-1.png?w=712 1x, https://fivethirtyeight.com/wp-content/uploads/2022/04/generic-ballot-2-1.png?w=1424 2x"></figure><p data-paragraph="main">In our average of polls of the <a href="https://projects.fivethirtyeight.com/congress-generic-ballot-polls/" target="_blank" rel="noopener">generic congressional ballot</a>,<a data-footnote-id="28" href="https://fivethirtyeight.com/wp-json/wp/v2/espn_verticals/398#fn-28" data-footnote-content="&lt;p&gt;&lt;p&gt;As of 5 p.m. Eastern on Thursday.&lt;/p&gt;
+&lt;/p&gt;"><sup>28</sup></a> Republicans currently lead by 2.2 percentage points (44.7 percent to 42.5 percent). A week ago, Republicans led Democrats by 2.1 points (44.7 percent to 42.6 percent). At this time last month, voters preferred Republicans by 2.1 points (44.8 percent to 42.7 percent).</p>]]></description>
 			<pubDate>Fri, 08 Apr 2022 11:00:00 +0100</pubDate>
 			<guid isPermaLink="false">1649415601787377</guid>
 		</item>
@@ -3483,154 +3807,6 @@
 <p data-paragraph="main"><em>The FiveThirtyEight Politics podcast is recorded Mondays and Thursdays. Help new listeners discover the show by </em><a href="https://itunes.apple.com/us/podcast/fivethirtyeight-elections/id1077418457?mt=2" target="_blank" rel="noopener"><em>leaving us a rating and review on iTunes</em></a><em>. Have a comment, question or suggestion for “good polling vs. bad polling”? Get in touch by email, </em><a href="https://twitter.com/FiveThirtyEight" target="_blank" rel="noopener"><em>on Twitter</em></a><em> or in the comments.</em></p>]]></description>
 			<pubDate>Mon, 04 Apr 2022 23:16:00 +0100</pubDate>
 			<guid isPermaLink="false">1649114101899930</guid>
-		</item>
-		<item>
-			<title>Why Liz Cheney Can’t Rely On Democrats To Save Her In Wyoming’s Republican Primary</title>
-			<link>https://fivethirtyeight.com/features/why-liz-cheney-cant-rely-on-democrats-to-save-her-in-wyomings-republican-primary/</link>
-						<dc:creator>Geoffrey Skelley</dc:creator>
-			<dc:creator>Geoffrey Skelley</dc:creator>
-			<category>2022 Election</category>
-			<category>2022 Midterms</category>
-			<category>Congress</category>
-			<category>Donald Trump</category>
-			<category>Liz Cheney</category>
-			<category>Wyoming</category>
-			<category>Wyoming Primary</category>
-			<description><![CDATA[<div>
-
-			<div>
-
-				<header><div>
-													<p><a href="https://fivethirtyeight.com/tag/2022-midterms/" name="">2022 Midterms</a></p>
-						
-						<h1>Why Liz Cheney Can’t Rely On Democrats To Save Her In Wyoming’s Republican Primary</h1>
-
-											</div>
-
-										<div>
-						<div>
-															<p>By <a href="https://fivethirtyeight.com/contributors/geoffrey-skelley/" title="" rel="author">Geoffrey Skelley</a></p>
-							
-							<p>
-								<time>
-									Apr. 4, 2022, at 6:00 AM								</time></p>
-
-						</div>
-						<div>
-													</div> 
-					</div>
-					
-				</header><figure><span>
-									<div>
-						<picture><source media="(min-width: 768px)"><source><img alt="House Select Committee On Jan. 6 Holds Business Meeting" src="https://fivethirtyeight.com/wp-content/uploads/2022/04/GettyImages-1239583144-4x3-1.jpg?w=916" data-sizes="(max-width: 768px) 100vw, (max-width: 1080px) 66vw, 684px" data-src="https://fivethirtyeight.com/wp-content/uploads/2022/04/GettyImages-1239583144-4x3-1.jpg?w=916" data-srcset="https://fivethirtyeight.com/wp-content/uploads/2022/04/GettyImages-1239583144-4x3-1.jpg?w=916 1x, https://fivethirtyeight.com/wp-content/uploads/2022/04/GettyImages-1239583144-4x3-1.jpg?w=1832 2x"></source></source></picture></div>
-
-				
-			</span>
-
-			
-								<figcaption><p>Eric Lee / Bloomberg / Getty Images</p>
-											</figcaption></figure></div>
-
-			
-		</div>
-
-
-
-
-
-<p data-paragraph="main">Despite being a <a href="https://projects.fivethirtyeight.com/biden-congress-votes/liz-cheney/" target="_blank" rel="noopener">reliable Republican vote</a> for <a href="https://projects.fivethirtyeight.com/congress-trump-score/liz-cheney/" target="_blank" rel="noopener">most of two-plus terms</a> in the U.S. House, Rep. Liz Cheney hasn’t been afraid to buck her party when it comes to former President Donald Trump. The Wyoming representative was <a href="https://fivethirtyeight.com/features/9-of-the-10-house-republicans-who-voted-for-impeachment-already-have-primary-challengers/" target="_blank" rel="noopener">one of just 10 House Republicans</a> who voted to impeach Trump in January 2021. She <a href="https://www.washingtonpost.com/magazine/2021/10/07/wyoming-voters-liz-cheney/" target="_blank" rel="noopener">has called Trump</a> a “clear and present danger” to American democracy. She supported the investigation into the Jan. 6 attack on the U.S. Capitol that Trump incited. <a href="https://www.nytimes.com/2022/01/06/us/politics/cheneys-jan-6.html" target="_blank" rel="noopener">Cheney has even</a> earned praise <a href="https://newrepublic.com/article/165776/liz-cheney-reelection-democrats-odd-bedfellows-neoconservatism" target="_blank" rel="noopener">from Democrats</a>, a remarkable turn of events for the daughter of former Vice President Dick Cheney, <a href="https://www.yahoo.com/now/political-rehabilitation-dick-cheney-courtesy-000100847.html" target="_blank" rel="noopener">whom Democrats loathed</a>.</p>
-
-
-
-<p data-paragraph="main">But Cheney’s anti-Trump stance <a href="https://fivethirtyeight.com/features/republican-voters-say-they-dont-mind-trump-critics-but-liz-cheneys-ouster-says-otherwise/" target="_blank" rel="noopener">could doom her career in the Republican Party</a> — where <a href="https://civiqs.com/results/trump_favorable?annotations=true&amp;uncertainty=true&amp;zoomIn=true&amp;party=Republican" target="_blank" rel="noopener">Trump remains popular</a> — by sparking intense opposition to her both at home and in Washington. On Capitol Hill, House Republicans ousted Cheney from party leadership and the <a href="https://www.washingtonpost.com/nation/2022/02/03/rnc-cheney-trump/" target="_blank" rel="noopener">Republican National Committee voted to condemn her</a> for <a href="https://www.washingtonpost.com/politics/2021/09/02/liz-cheney-vice-chair-capitol-attack/" target="_blank" rel="noopener">serving on the House committee</a> investigating the events of Jan. 6. In Wyoming, <a href="https://abcnews.go.com/Politics/rep-liz-cheney-ousted-wyoming-gop/story?id=81206853" target="_blank" rel="noopener">the state GOP has excommunicated her</a>, while party committees all around the state <a href="https://www.yahoo.com/lifestyle/laramie-county-gop-votes-censure-181600977.html" target="_blank" rel="noopener">have formally censured her</a>. And now she faces a stern challenge in Wyoming’s 2022 GOP primary — the state has only one congressional district — from Harriett Hageman, an attorney and former RNC member who <a href="https://www.cnn.com/2021/09/09/politics/trump-endorses-harriet-hageman-cheney-challenger/index.html" target="_blank" rel="noopener">has endorsements from both Trump</a> and <a href="https://www.cnn.com/2022/02/17/politics/kevin-mccarthy-harriet-hageman-endorsement/index.html" target="_blank" rel="noopener">House Minority Leader Kevin McCarthy</a>.</p>
-
-
-
-<p data-paragraph="main">As a result, Cheney may face more danger in her primary <a href="https://fivethirtyeight.com/features/all-but-one-house-republican-who-voted-to-impeach-trump-faces-a-trump-endorsed-challenger/" target="_blank" rel="noopener">than any other House Republican running in 2022</a>. But could she be saved by … Democrats? On March 8, <a href="https://trib.com/news/state-and-regional/govt-and-politics/crossover-voting-will-remain-in-wyoming-after-party-affiliation-bill-dies-in-legislature/article_bf81046f-2e79-5d27-bb1d-e1bce76aa84a.html" target="_blank" rel="noopener">Wyoming’s legislature scrapped a bill</a> seeking to end the state’s “crossover voting” provision. That rule <a href="https://www.natronacounty-wy.gov/Faq.aspx?QID=126" target="_blank" rel="noopener">permits voters to switch parties on Election Day</a>, which could allow registered Democrats and other non-Republicans to change their registration to support Cheney in the Aug. 16 GOP primary. The legislature’s deliberations over the bill, which <a href="https://trib.com/news/state-and-regional/govt-and-politics/donald-trump-backs-legislation-to-end-crossover-voting-in-wyoming/article_8dcb04c8-e217-5f8d-92ff-9ef8f40a0ba2.html" target="_blank" rel="noopener">Trump had supported</a>, <a href="https://www.businessinsider.com/trump-liz-cheney-republican-primary-crossover-voting-election-laws-2022-2" target="_blank" rel="noopener">sparked a raft</a> of headlines <a href="https://www.nbcnews.com/politics/elections/liz-cheneys-re-election-prospects-doubt-national-profile-grows-rcna17265" target="_blank" rel="noopener">raising the prospect</a> of crossover voters <a href="https://thehill.com/homenews/state-watch/597511-wyoming-legislature-kills-crossover-voting-ban-despite-trumps-support" target="_blank" rel="noopener">being key</a> to <a href="https://www.washingtonexaminer.com/news/trump-backed-wyoming-elections-bill-fails-to-pass-in-boon-to-liz-cheney" target="_blank" rel="noopener">Cheney’s survival</a>. </p>
-
-
-
-<p data-paragraph="main">The reality is otherwise: Only Republicans can really save Cheney’s political future. If <a href="https://www.nytimes.com/2022/02/09/us/politics/liz-cheney-wyoming-republicans.html" target="_blank" rel="noopener">she’s counting</a> on <a href="https://www.politico.com/news/2022/03/14/liz-cheney-democrats-wyoming-00016905" target="_blank" rel="noopener">anyone else</a>, then she’s probably done for.</p>
-
-
-
-<p data-paragraph="main">The math just doesn’t work for Cheney if she’s looking for substantial help from non-Republicans in Wyoming’s GOP primary without winning a healthy share of Republicans first. The vast majority (<a href="https://sos.wyo.gov/Elections/Docs/VRStats/2022/22MarVR_stats.pdf" target="_blank" rel="noopener">70 percent</a>) of voters in the state are registered Republicans. And in midterm years (like 2022), an even larger share of the state’s primary voters have cast ballots in GOP nomination battles, as the table below shows — meaning they’re very likely reliably Republican-leaning Wyomingites. And of course, in a state as red as Wyoming — Trump <a href="https://uselectionatlas.org/RESULTS/state.php?year=2020&amp;fips=56&amp;f=0&amp;off=0&amp;elect=0" target="_blank" rel="noopener">garnered 70 percent of the vote</a> there in 2020 — winning the GOP primary is tantamount to winning the election in November.</p>
-
-
-<div>
-<section><header><h5>Far, far more Wyomingites vote in Republican primaries</h5>
- <p>Total primary votes in the Republican and Democratic primaries and the share of all primary votes cast in major-party primaries, by midterm year</p>
- </header><table data-carpenter-slug="skelley.liz-cheney-democrats-0404.1"><thead><tr><th colspan="1"></th>
- <th colspan="2">Total primary votes</th>
- <th colspan="2">Share of major-party primary votes</th>
- </tr><tr><th colspan="1">Year</th>
- <th colspan="1">Republican</th>
- <th colspan="1">Democratic</th>
- <th colspan="1">Republican</th>
- <th colspan="1">Democratic</th>
- </tr></thead><tbody><tr><td>2018</td>
- <td>117,752</td>
- <td>19,459</td>
- <td data-suffix="%" data-suffixpadding="1.1em">85.8%</td>
- <td data-suffix="%" data-suffixpadding="1.1em">14.2%</td>
- </tr><tr><td>2014</td>
- <td>99,312</td>
- <td>18,306</td>
- <td>84.4</td>
- <td>15.6</td>
- </tr><tr><td>2010</td>
- <td>106,984</td>
- <td>24,707</td>
- <td>81.2</td>
- <td>18.8</td>
- </tr><tr><td>2006</td>
- <td>86,989</td>
- <td>30,395</td>
- <td>74.1</td>
- <td>25.9</td>
- </tr><tr><td>2002</td>
- <td>95,590</td>
- <td>38,118</td>
- <td>71.5</td>
- <td>28.5</td>
- </tr></tbody></table><footer><p>Excludes a small number of votes cast in nonpartisan primary races.</p>
- <p>Source: Wyoming Secretary of State</p>
- </footer></section></div>
-
-
-<p data-paragraph="main">Let’s look at what happened in 2018, when almost 100,000 more votes were cast in the Republican primary than in the Democratic contest. Although a <a href="https://www.wyomingnews.com/news/local_news/poll-friess-gordon-in-dead-heat-in-wyoming-gop-governor-race/article_d0f4bfca-a0ca-11e8-accc-bb7d34156640.html" target="_blank" rel="noopener">super-competitive GOP nomination race for governor</a> partly explains that discrepancy,<a data-footnote-id="14" href="https://fivethirtyeight.com/wp-json/wp/v2/espn_verticals/398#fn-14" data-footnote-content='&lt;p&gt;&lt;p&gt;Hageman actually &lt;a href="https://sos.wyo.gov/Elections/Docs/2018/Results/Primary/2018_Statewide_Candidates_Summary.pdf" target="_blank" rel="noopener"&gt;finished third in that race&lt;/a&gt;.&lt;/p&gt;
-&lt;/p&gt;'><sup>14</sup></a> the 2018 cycle marked the third consecutive midterm in which more than 80 percent of the votes cast in the two major-party primaries came on the GOP side. Now, some of those voters might be Democrats or independents who vote in the GOP primary because it will determine the winner in most Wyoming elections. But in a state where the Republican presidential nominee <a href="https://uselectionatlas.org/RESULTS/compare.php?year=2020&amp;fips=56&amp;f=0&amp;off=0&amp;elect=0&amp;type=state" target="_blank" rel="noopener">usually wins 65 to 70 percent of the vote</a>, it’s clear that <em>most</em> of those primary voters are dyed-in-the-wool Republicans or at least lean toward the GOP.</p>
-
-
-
-<p data-paragraph="main">So let’s do a little back-of-the-envelope math to consider Cheney’s position based on what we know about the current state of the race and recent Wyoming primaries. There has been little recent public polling of the race, but <a href="https://www.dropbox.com/s/mq0hidvbl0dklfm/PollingProfessor-MemoFiveRaceSynopsis.pdf" target="_blank" rel="noopener">a December survey from SoCo Strategies</a> put her behind Hageman by 20 percentage points, and older polls found <a href="https://www.washingtonexaminer.com/washington-secrets/cheney-in-trouble-77-gop-would-not-reelect-53-call-her-liberal" target="_blank" rel="noopener">her support</a> or <a href="https://twitter.com/IAmNickReynolds/status/1420482244334952448" target="_blank" rel="noopener">favorability among Wyoming Republicans</a> in the 20s — evidence that she’s in rough shape. For argument’s sake, let’s say that Cheney trails by 10 points among registered Republicans in the final days of the primary campaign (possibly a rosy scenario, considering her polling numbers). So Hagerman has 50 percent, Cheney 40 percent and the four or so other candidates attract the remaining 10 percent (<a href="https://sos.wyo.gov/Elections/Docs/2022/2022_Key_Election_Dates.pdf" target="_blank" rel="noopener">the candidate filing deadline</a> is May 27, so the field could expand or retract further). If there are around 110,000 voters who were registered Republicans <em>before</em> primary day — a reasonable guess since nearly 117,000 total voters participated in the 2018 GOP primary for governor<a data-footnote-id="15" href="https://fivethirtyeight.com/wp-json/wp/v2/espn_verticals/398#fn-15" data-footnote-content="&lt;p&gt;&lt;p&gt;That total includes crossover voters and, as will be discussed below, new registrants.&lt;/p&gt;
-&lt;/p&gt;"><sup>15</sup></a> — Hageman would lead by around 11,000 votes. Based on the 2018 primary, Cheney would then need nearly 60 percent of the total Democratic primary voters to not only switch to vote in the GOP contest but to also vote for her.</p>
-
-
-
-<p data-paragraph="main">Now, if the race proved to be closer, and/or if another GOP contender — say, state Sen. Anthony Bouchard — took more of the anti-Cheney vote from Hageman, <em>perhaps</em> crossover voters could make the difference for Cheney. Let’s say Hageman is up, with 42 percent to Cheney’s 37 percent among registered Republicans, while Bouchard sits at 15 percent (and other candidates win the remaining 6 percent). In that case, Cheney would trail by about 5,500 votes, or about 30 percent of the total number of Democratic primary votes in 2018. It’s not out of the question that the red-hot spotlight on Cheney’s race could encourage significant crossover voting among Democrats, especially if there isn’t much happening in the Democratic primary. Things could play out that way, considering so far <a href="https://www.thegreenpapers.com/G22/WY" target="_blank" rel="noopener">no notable Democrats have declared</a> in Wyoming’s races <a href="https://www.fec.gov/data/elections/house/WY/00/2022/" target="_blank" rel="noopener">for the House</a> or <a href="https://trib.com/news/state-and-regional/new-candidate-announces-bid-for-governor/article_43b18b59-330e-5186-87ba-6739f5f48107.html" target="_blank" rel="noopener">governor</a> (neither of Wyoming’s U.S. Senate seats <a href="https://www.270towin.com/2022-senate-election/" target="_blank" rel="noopener">are up in 2022</a>). </p>
-
-
-
-<p data-paragraph="main">But this still means that Cheney must remain competitive among Republicans to even allow for a scenario where crossover voters could conceivably put her over the top. Granted, she has a huge financial edge — at the end of 2021, <a href="https://www.fec.gov/data/candidate/H6WY00159/?cycle=2022&amp;election_full=true" target="_blank" rel="noopener">Cheney had raised $7.2 million</a> to <a href="https://www.fec.gov/data/candidate/H2WY00166/?cycle=2022&amp;election_full=true" target="_blank" rel="noopener">Hageman’s $745,000</a> — which the incumbent can use to damage Hageman and play up her conserative bonafides. And Cheney’s <a href="https://www.cbsnews.com/news/mitt-romney-american-democracy-extraordinary-challenge/" target="_blank" rel="noopener">wealthy backers</a> might also look to <a href="https://twitter.com/geoffreyvs/status/1503412537391525889?s=20&amp;t=cA6y1UeX0yln3UiyZ34ozQ" target="_blank" rel="noopener">raise the profile</a> of one of the other anti-Cheney contenders in the hopes of fragmenting her opposition. (Promoting another candidate for your benefit is a dark campaign art practiced by <a href="https://www.politico.com/magazine/story/2015/08/todd-akin-missouri-claire-mccaskill-2012-121262/" target="_blank" rel="noopener">past vulnerable incumbents</a>, although usually by trying to influence the <em>other</em> party’s primary.) However, even if Cheney’s allies wanted to go that route, the <a href="https://thedispatch.com/p/the-cheney-challenger-lurking-on?s=r" target="_blank" rel="noopener">most obvious choice</a> for prospective assistance looks to be toxic: Bouchard, the state senator, has seen his <a href="https://cowboystatedaily.com/2022/02/01/bouchards-campaign-donations-slow-again-in-latest-quarter-report/" target="_blank" rel="noopener">fundraising dry up</a> after Hageman’s entry into the race and <a href="https://www.nytimes.com/2021/05/21/us/politics/anthony-bouchard-14-year-old.html" target="_blank" rel="noopener">revelations that he impregnated a 14-year-old girl</a> when he was 18 years old.</p>
-
-
-
-<p data-paragraph="main">Beyond any hypothetical campaign intrigue, the fact is that Wyoming’s Election Day registration rules may not even boost Cheney’s chances as much as the conventional wisdom might believe. Wyoming not only permits voters to switch parties at the polls, but it also <a href="https://www.ncsl.org/research/elections-and-campaigns/same-day-registration.aspx" target="_blank" rel="noopener">allows same-day voter registration</a>. So while crossover voters might participate in the GOP primary, there could be even more same-day registrants, many of whom might be newly engaged Republicans. </p>
-
-
-
-<p data-paragraph="main">Consider the 2018 GOP primary for governor, when <a href="https://wyofile.com/friess-suggests-election-law-change-following-loss/" target="_blank" rel="noopener">some conservatives claimed</a> that now-Gov. Mark Gordon won the party nomination thanks to crossover votes from non-Republicans. Gordon won by about 9,000 votes, but an <a href="https://www.wyomingnews.com/news/local_news/crossover-voting-had-little-impact-on-wyo-primary-election-study-shows/article_c74d954e-b71f-11e8-8f4e-3355c6638aec.html" target="_blank" rel="noopener">analysis of voter registration data</a> found that party switching probably didn’t affect the outcome. The GOP added around 8,200 registered voters on primary day, but Democrats lost only about 1,800 registrants, while independents and other third-party registrations dropped by about 2,700 voters. That meant that a plurality of new Republican voters came from fresh registrants rather than party-switching, as about 3,700 new voters joined the rolls (mostly with the GOP). </p>
-
-
-
-<p data-paragraph="main">Thinking about the 2022 GOP primary, there’s no guarantee that same-day Republican registrants are going to be favorably inclined toward Cheney; they may be predisposed to oppose her, in fact.</p>
-
-
-
-<p data-paragraph="main">And that gets back to the fundamental truth for Cheney: Her political future rests on winning over Republican voters rather than winning over Democratic or independent voters. She needs a good deal of the former for the latter to matter at all.</p>]]></description>
-			<pubDate>Mon, 04 Apr 2022 11:00:00 +0100</pubDate>
-			<guid isPermaLink="false">1649069101866423</guid>
 		</item>
 
 	</channel>
