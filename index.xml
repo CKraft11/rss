@@ -3,9 +3,74 @@
 		<title>Main stream | FreshRSS</title>
 		<link>http://radon</link>
 		<description>RSS feed of Main stream | FreshRSS</description>
-		<pubDate>Thu, 21 Apr 2022 19:59:06 +0100</pubDate>
-		<lastBuildDate>Thu, 21 Apr 2022 18:59:06 GMT</lastBuildDate>
+		<pubDate>Thu, 21 Apr 2022 20:29:07 +0100</pubDate>
+		<lastBuildDate>Thu, 21 Apr 2022 19:29:07 GMT</lastBuildDate>
 		<atom:link href="http://radon/i/?a=rss" rel="self" type="application/rss+xml" />
+		<item>
+			<title>Politics Podcast: Why A Once-Fringe Candidate Is Now A Serious Contender For The French Presidency</title>
+			<link>https://fivethirtyeight.com/features/politics-podcast-why-a-once-fringe-candidate-is-now-a-serious-contender-for-the-french-presidency/</link>
+						<dc:creator>Galen Druke</dc:creator>
+			<dc:creator>FiveThirtyEight</dc:creator>
+			<category>Emmanuel Macron</category>
+			<category>FiveThirtyEight Podcasts</category>
+			<category>France</category>
+			<category>French Election</category>
+			<category>Marine Le Pen</category>
+			<category>Politics Podcast</category>
+			<description><![CDATA[<div data-href="https://fivethirtyeight.com/features/politics-podcast-why-a-once-fringe-candidate-is-now-a-serious-contender-for-the-french-presidency/">
+	<div data-podcast-id="331575" data-podcast-duration="0" data-podcast-title="Politics Podcast: Why A Once-Fringe Candidate Is Now A Serious Contender For The French Presidency">
+
+					<span><span>FiveThirtyEight</span></span>
+			
+		
+		<button aria-label="Play"></button>
+
+					<div>
+		
+		
+							<div>
+					<div>
+						<div></div>
+					</div>
+
+					<div> </div>
+
+					<audio preload="none" controls="controls">
+						<source src="https://www.podtrac.com/pts/redirect.mp3/traffic.megaphone.fm/ESP9002986097.mp3?updated=1650567343">
+					</source></audio>
+				</div>
+			
+					</div>
+		
+	</div>
+</div>
+<aside>
+	<div>
+		More: <a href="https://itunes.apple.com/us/podcast/fivethirtyeight-elections/id1077418457">Apple Podcasts</a> |
+		<span><a data-android-url="" href="http://m.espn.com/general/cast?id=14554755">ESPN App</a> |</span>
+		<a href="https://www.espn.com/espnradio/feeds/rss/podcast.xml?id=14554755">RSS</a>
+			</div>
+	</aside>
+
+
+
+
+<p data-paragraph="main">On Sunday, French voters will head to the polls once again to choose their president for the next five years. After narrowing down the list of candidates in the first round on April 10, voters will choose between the incumbent, centrist Emmanuel Macron, and far-right candidate Marine Le Pen. This runoff will serve as a rematch of the election five years ago, when a relatively unknown Macron won two-thirds of the vote. This time, however, the race appears to be much closer. According to POLITICO Europe’s “<a href="https://www.politico.eu/europe-poll-of-polls/france/" target="_blank" rel="noopener">Poll of Polls</a>,” 55 percent support Macron and 45 percent support Le Pen.</p>
+
+
+
+<p data-paragraph="main">In this installment of the <a href="https://fivethirtyeight.com/podcasts/" target="_blank" rel="noopener">FiveThirtyEight Politics podcast</a>, Galen Druke speaks with POLITICO Europe’s <a href="https://www.politico.eu/staff/cornelius-hirsch/" data-type="URL" data-id="https://www.politico.eu/staff/cornelius-hirsch/" target="_blank" rel="noopener">Cornelius Hirsch</a> and <a href="https://www.politico.eu/staff/clea-caulcutt/" data-type="URL" data-id="https://www.politico.eu/staff/clea-caulcutt/" target="_blank" rel="noopener">Clea Caulcutt</a> about the dynamics at play in the election. As Macron has occupied the middle of the political spectrum in France, with a focus on cooperation among European nations, the opposition parties have moved toward a nationalist, populist agenda.</p>
+
+
+
+<p data-paragraph="main"><em>You can listen to the episode by clicking the “play” button in the audio player above or by </em><a href="https://itunes.apple.com/us/podcast/fivethirtyeight-elections/id1077418457?mt=2" target="_blank" rel="noopener"><em>downloading it in iTunes</em></a><em>, the </em><a href="http://www.espn.com/espn/mobile/products/products/_/id/6857590" target="_blank" rel="noopener"><em>ESPN App</em></a><em> or your favorite podcast platform. If you are new to podcasts, </em><a href="https://fivethirtyeight.com/how-to-listen-to-fivethirtyeight-podcasts/" target="_blank" rel="noopener"><em>learn how to listen</em></a><em>.</em></p>
+
+
+
+<p data-paragraph="main"><em>The FiveThirtyEight Politics podcast is recorded Mondays and Thursdays. Help new listeners discover the show by </em><a href="https://itunes.apple.com/us/podcast/fivethirtyeight-elections/id1077418457?mt=2" target="_blank" rel="noopener"><em>leaving us a rating and review on iTunes</em></a><em>. Have a comment, question or suggestion for “good polling vs. bad polling”? Get in touch by email, </em><a href="https://twitter.com/FiveThirtyEight" target="_blank" rel="noopener"><em>on Twitter</em></a><em> or in the comments.</em></p>]]></description>
+			<pubDate>Thu, 21 Apr 2022 19:55:00 +0100</pubDate>
+			<guid isPermaLink="false">1650567601623301</guid>
+		</item>
 		<item>
 			<title>The Extreme Bias Of Florida’s New Congressional Map</title>
 			<link>https://fivethirtyeight.com/features/the-extreme-bias-of-floridas-new-congressional-map/</link>
@@ -3738,75 +3803,6 @@
 &lt;/p&gt;"><sup>29</sup></a> look like they could be genuinely competitive this decade. While a lot of that is due to underlying partisan polarization, biased maps contribute to the problem in at least eight chambers as well. A lack of fair maps is not just a problem on the congressional level.</p>]]></description>
 			<pubDate>Tue, 05 Apr 2022 11:00:00 +0100</pubDate>
 			<guid isPermaLink="false">1649154601163606</guid>
-		</item>
-		<item>
-			<title>Politics Podcast: Are Both Liz Cheney And Madison Cawthorn In Primary Trouble?</title>
-			<link>https://fivethirtyeight.com/features/politics-podcast-are-both-liz-cheney-and-madison-cawthorn-in-primary-trouble/</link>
-						<dc:creator>Galen Druke</dc:creator>
-			<dc:creator>Galen Druke， Amelia Thomson-DeVeaux， Nathaniel Rakich and Geoffrey Skelley</dc:creator>
-			<category>Education</category>
-			<category>FiveThirtyEight Podcasts</category>
-			<category>Liz Cheney</category>
-			<category>Madison Cawthorn</category>
-			<category>Politics Podcast</category>
-			<category>Social Issues</category>
-			<description><![CDATA[<div data-href="https://fivethirtyeight.com/features/politics-podcast-are-both-liz-cheney-and-madison-cawthorn-in-primary-trouble/">
-	<div data-podcast-id="330427" data-podcast-duration="0" data-podcast-title="Politics Podcast: Are Both Liz Cheney And Madison Cawthorn In Primary Trouble?">
-
-					<span>By <a href="https://fivethirtyeight.com/contributors/galen-druke/" title="" rel="author">Galen Druke, Amelia Thomson-DeVeaux, Nathaniel Rakich and Geoffrey Skelley</a>, <a href="https://fivethirtyeight.com/contributors/amelia-thomson-deveaux/" title="" rel="author">Galen Druke, Amelia Thomson-DeVeaux, Nathaniel Rakich and Geoffrey Skelley</a>, <a href="https://fivethirtyeight.com/contributors/nathaniel-rakich/" title="" rel="author">Galen Druke, Amelia Thomson-DeVeaux, Nathaniel Rakich and Geoffrey Skelley</a> and <a href="https://fivethirtyeight.com/contributors/geoffrey-skelley/" title="" rel="author">Galen Druke, Amelia Thomson-DeVeaux, Nathaniel Rakich and Geoffrey Skelley</a></span>
-			
-		
-		<button aria-label="Play"></button>
-
-					<div>
-		
-		
-							<div>
-					<div>
-						<div></div>
-					</div>
-
-					<div> </div>
-
-					<audio preload="none" controls="controls">
-						<source src="https://www.podtrac.com/pts/redirect.mp3/traffic.megaphone.fm/ESP6371156845.mp3?updated=1649110821">
-					</source></audio>
-				</div>
-			
-					</div>
-		
-	</div>
-</div>
-<aside>
-	<div>
-		More: <a href="https://itunes.apple.com/us/podcast/fivethirtyeight-elections/id1077418457">Apple Podcasts</a> |
-		<span><a data-android-url="" href="http://m.espn.com/general/cast?id=14554755">ESPN App</a> |</span>
-		<a href="https://www.espn.com/espnradio/feeds/rss/podcast.xml?id=14554755">RSS</a>
-			</div>
-	</aside>
-
-
-
-
-<p data-paragraph="main">Is the Republican tent big enough to include both Reps. Liz Cheney and Madison Cawthorn? Or might the two of them be on the outs come fall? </p>
-
-
-
-<p data-paragraph="main">Cheney is facing one of the toughest primaries in the country after voting to impeach former President Donald Trump for his role encouraging supporters to raid the U.S. Capitol on Jan. 6, 2021. Cawthorn, on the other hand, is all-in on Trump’s vision for the Republican Party — and then some. Last week, after Cawthorn <a href="https://twitter.com/patriottakes/status/1508127124498141187?s=20&amp;t=SstXpFI41o2zE_WAaWj3dA" target="_blank" rel="noopener">suggested his colleagues</a> in Washington, D.C., host orgies and use cocaine, House Minority Leader Kevin McCarthy said he’d lost trust in Cawthorn and Republican Sen. Thom Tillis, from Cawthorn’s home state of North Carolina, endorsed Cawthorn’s primary challenger.</p>
-
-
-
-<p data-paragraph="main">In this installment of the FiveThirtyEight Politics podcast, the crew discusses how these two primaries serve as a test of what the Republican Party and its voters will and won’t accept. They also try to get to the bottom of whether Americans support the “Parental Rights In Education Bill” — or what its critics call the “Don’t Say Gay Bill” — which Florida Gov. Ron DeSantis signed into law last week. </p>
-
-
-
-<p data-paragraph="main"><em>You can listen to the episode by clicking the “play” button in the audio player above or by </em><a href="https://itunes.apple.com/us/podcast/fivethirtyeight-elections/id1077418457?mt=2" target="_blank" rel="noopener"><em>downloading it in iTunes</em></a><em>, the </em><a href="http://www.espn.com/espn/mobile/products/products/_/id/6857590" target="_blank" rel="noopener"><em>ESPN App</em></a><em> or your favorite podcast platform. If you are new to podcasts, </em><a href="https://fivethirtyeight.com/how-to-listen-to-fivethirtyeight-podcasts/" target="_blank" rel="noopener"><em>learn how to listen</em></a><em>.</em></p>
-
-
-
-<p data-paragraph="main"><em>The FiveThirtyEight Politics podcast is recorded Mondays and Thursdays. Help new listeners discover the show by </em><a href="https://itunes.apple.com/us/podcast/fivethirtyeight-elections/id1077418457?mt=2" target="_blank" rel="noopener"><em>leaving us a rating and review on iTunes</em></a><em>. Have a comment, question or suggestion for “good polling vs. bad polling”? Get in touch by email, </em><a href="https://twitter.com/FiveThirtyEight" target="_blank" rel="noopener"><em>on Twitter</em></a><em> or in the comments.</em></p>]]></description>
-			<pubDate>Mon, 04 Apr 2022 23:16:00 +0100</pubDate>
-			<guid isPermaLink="false">1649114101899930</guid>
 		</item>
 
 	</channel>
