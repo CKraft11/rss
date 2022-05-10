@@ -3,9 +3,260 @@
 		<title>Main stream | FreshRSS</title>
 		<link>http://radon</link>
 		<description>RSS feed of Main stream | FreshRSS</description>
-		<pubDate>Tue, 10 May 2022 18:59:06 +0100</pubDate>
-		<lastBuildDate>Tue, 10 May 2022 17:59:06 GMT</lastBuildDate>
+		<pubDate>Tue, 10 May 2022 19:29:06 +0100</pubDate>
+		<lastBuildDate>Tue, 10 May 2022 18:29:06 GMT</lastBuildDate>
 		<atom:link href="http://radon/i/?a=rss" rel="self" type="application/rss+xml" />
+		<item>
+			<title>Have The Courts Made Gerrymandering Better Or Worse?</title>
+			<link>https://fivethirtyeight.com/features/have-the-courts-made-gerrymandering-better-or-worse/</link>
+						<dc:creator>Chadwick Matlin</dc:creator>
+			<dc:creator>A FiveThirtyEight Chat</dc:creator>
+			<category>Gerrymandering</category>
+			<category>Redistricting</category>
+			<category>SCOTUS</category>
+			<category>Supreme Court</category>
+			<description><![CDATA[<div>
+
+			<div>
+
+				<header><div>
+													<p><a href="https://fivethirtyeight.com/tag/redistricting/" name="">Redistricting</a></p>
+						
+						<h1>Have The Courts Made Gerrymandering Better Or Worse?</h1>
+
+											</div>
+
+										<div>
+						<div>
+															<p><span>A FiveThirtyEight Chat</span></p>
+							
+							<p>
+								<time>
+									May 10, 2022, at 1:14 PM								</time></p>
+
+						</div>
+						<div>
+													</div> 
+					</div>
+					
+				</header><figure><span>
+									<div>
+						<picture><source media="(min-width: 768px)"><source><img alt="SlackChat-0510-4×3" src="https://fivethirtyeight.com/wp-content/uploads/2022/05/SlackChat-0510-4x3-1.png?w=916" data-sizes="(max-width: 768px) 100vw, (max-width: 1080px) 66vw, 684px" data-src="https://fivethirtyeight.com/wp-content/uploads/2022/05/SlackChat-0510-4x3-1.png?w=916" data-srcset="https://fivethirtyeight.com/wp-content/uploads/2022/05/SlackChat-0510-4x3-1.png?w=916 1x, https://fivethirtyeight.com/wp-content/uploads/2022/05/SlackChat-0510-4x3-1.png?w=1832 2x"></source></source></picture></div>
+
+				
+			</span>
+
+			
+						
+		</figure></div>
+
+			
+		</div>
+
+
+
+
+
+<p data-paragraph="main"><strong>cwick</strong> (<a href="https://fivethirtyeight.com/contributors/chadwick-matlin/" target="_blank" rel="noopener">Chadwick Matlin</a>, deputy editor)<strong>:</strong> Are we sure that redistricting maps aren’t being drawn by the boy who cried wolf? Following the news around gerrymandering over the past few months has felt like one bait and switch after the other. First you hear about a new map in Alabama, then you hear <a href="https://rollcall.com/2022/01/25/federal-court-throws-out-alabamas-new-congressional-map/" target="_blank" rel="noopener">a federal court has struck it down</a> for violating racial gerrymandering laws … and then the Supreme Court <a href="https://www.npr.org/2022/02/07/1078292766/supreme-court-lets-alabama-use-gop-backed-map-of-the-states-congressional-distri" target="_blank" rel="noopener">lets it stand</a>. Next you hear that New York has achieved the <a href="https://fivethirtyeight.com/features/new-yorks-proposed-congressional-map-is-heavily-biased-toward-democrats-will-it-pass/" target="_blank" rel="noopener">platonic ideal of a partisan gerrymander</a> … and then weeks later the map <a href="https://fivethirtyeight.com/features/new-york-just-cost-democrats-their-big-redistricting-advantage/" target="_blank" rel="noopener">is struck down by the state’s highest court</a>. And after that … well, it’s easy to lose track of where all these maps stand, and what all these legal interjections mean for the future of <s>gerrymandering</s> redistricting going forward.</p>
+
+
+
+<p data-paragraph="main">To discuss this herky-jerk form of democracy we’re all living through, I’ve asked two colleagues who obsess about this stuff the most to join the chat. Nathaniel Rakich is a senior elections analyst who also administers our invaluable redistricting database. And senior writer Amelia Thomson-DeVeaux namedrops judicial precedents like they’re part of the vernacular.</p>
+
+
+
+<p data-paragraph="main">Nathaniel, Amelia, thanks for taking the time to reflect on this very odd redistricting season.</p>
+
+
+
+<p data-paragraph="main"><strong>nrakich </strong>(<a href="https://fivethirtyeight.com/contributors/nathaniel-rakich/" target="_blank" rel="noopener">Nathaniel Rakich</a>, senior elections analyst)<strong>:</strong> Thanks, Chad, for that ebullient introduction.</p>
+
+
+
+<p data-paragraph="main"><strong>ameliatd </strong>(<a href="https://fivethirtyeight.com/contributors/amelia-thomson-deveaux/" target="_blank" rel="noopener">Amelia Thomson-DeVeaux</a>, senior writer)<strong>:</strong> I’m here, I have tea, I have chocolate. Let’s doooo ittttt.</p>
+
+
+
+<p data-paragraph="main"><strong>cwick:</strong> True blogger fuel, Amelia.</p>
+
+
+
+<p data-paragraph="main">Before we get to the full compendium of lawsuits that I know Nathaniel has been hoarding, let’s start with your overall takeaways. Has this redistricting season gone as you expected it might? Have judges been more or less present in the way our political maps get made than you thought they’d be?</p>
+
+
+
+<p data-paragraph="main"><strong>nrakich:</strong> It depends on when you measure from, Chad — which gets at how the courts have really upended redistricting this cycle. At the beginning of the cycle, I expected the <a href="https://fivethirtyeight.com/features/redistricting-has-maintained-the-status-quo-so-far-thats-good-for-republicans/" target="_blank" rel="noopener">Republican-leaning status quo</a> to largely prevail, based on the fact that Republicans were <a href="https://fivethirtyeight.com/features/republicans-won-almost-every-election-where-redistricting-was-at-stake/" target="_blank" rel="noopener">in charge of drawing more districts</a> than Democrats were. But a couple months ago, I had to revise my expectations to say that <a href="https://fivethirtyeight.com/features/the-house-maps-republican-bias-will-plummet-in-2022-because-of-gerrymandering/" target="_blank" rel="noopener">Democrats would actually emerge as winners</a>, because courts had struck down Republican gerrymanders in <a href="https://projects.fivethirtyeight.com/redistricting-2022-maps/north-carolina/" target="_blank" rel="noopener">North Carolina</a> and <a href="https://projects.fivethirtyeight.com/redistricting-2022-maps/ohio/" target="_blank" rel="noopener">Ohio</a> and Democrats were drawing their own gerrymanders with impunity. But then courts struck down two of those gerrymanders in <a href="https://projects.fivethirtyeight.com/redistricting-2022-maps/maryland/" target="_blank" rel="noopener">Maryland</a> and <a href="https://projects.fivethirtyeight.com/redistricting-2022-maps/new-york/" target="_blank" rel="noopener">New York</a>, which made redistricting look like <a href="https://fivethirtyeight.com/features/new-york-just-cost-democrats-their-big-redistricting-advantage/" target="_blank" rel="noopener">more of a partisan wash</a>, so things are now turning out more like I expected at the beginning after all.</p>
+
+
+
+<p data-paragraph="main"><strong>cwick:</strong> Redistricting is a flat circle.</p>
+
+
+
+<p data-paragraph="main"><strong>nrakich:</strong> Or some sort of polygon, anyway.</p>
+
+
+
+<p data-paragraph="main"><strong>cwick:</strong> Is a circle a polygon?</p>
+
+
+
+<p data-paragraph="main"><strong>nrakich:</strong> No! Polygons must have straight sides.</p>
+
+
+
+<p data-paragraph="main"><strong>cwick:</strong> Do political districts have to be polygons??</p>
+
+
+
+<p data-paragraph="main"><strong>nrakich: </strong>Haha, no, I guess not! Some follow river boundaries, for instance.</p>
+
+
+
+<p data-paragraph="main"><strong>ameliatd: </strong>It’s interesting, because I think state courts were <a href="https://fivethirtyeight.com/features/the-fight-over-partisan-gerrymandering-is-moving-beyond-the-supreme-court/" target="_blank" rel="noopener">seen as a bigger threat to Republicans</a> — and yet as Nathaniel pointed out, they’ve turned out to be a hurdle for Democrats as well.</p>
+
+
+
+<p data-paragraph="main"><strong>cwick: </strong>Nathaniel, can you remind us of just how many states’ maps ended up in court (or are still there)?</p>
+
+
+
+<p data-paragraph="main"><strong>nrakich:</strong> Almost every map that could reasonably be considered a gerrymander — and even <a href="https://projects.fivethirtyeight.com/redistricting-2022-maps/idaho/" target="_blank" rel="noopener">some that couldn’t</a> — has been sued over. By my count, 21 states’ congressional maps have been challenged in court. Six (in Alabama, Kansas, Maryland, New York, North Carolina and Ohio) were overturned, although Alabama’s was reinstated.</p>
+
+
+
+<p data-paragraph="main"><strong>ameliatd: </strong>Were there any states that you expected to be sued over and weren’t? It seems like all of the partisan gerrymandering activity just shifted to the state courts.</p>
+
+
+
+<p data-paragraph="main"><strong>nrakich: </strong>I think just <a href="https://projects.fivethirtyeight.com/redistricting-2022-maps/tennessee/" target="_blank" rel="noopener">Tennessee</a>? There, Republicans split Nashville between three districts, turning the 5th District from safely blue to safely red. Democrats in the state <a href="https://tennesseelookout.com/briefs/crowd-protests-gop-drawn-congressional-maps-on-mlk-day/" target="_blank" rel="noopener">cried bloody murder over it</a> and <a href="https://twitter.com/tndp/status/1489652663197253632" target="_blank" rel="noopener">promised a lawsuit</a>, but it never materialized.</p>
+
+
+
+<p data-paragraph="main"><strong>ameliatd:</strong> Huh, I wonder if they figured it was doomed in the Tennessee state courts. Given the Supreme Court’s <a href="https://fivethirtyeight.com/features/will-the-supreme-court-punt-on-partisan-gerrymandering-again/" target="_blank" rel="noopener">literal decades of handwringing</a> over the appropriate standard for determining an unconstitutional partisan gerrymandering, it’s funny that state judges really don’t seem to have had much trouble with that question.</p>
+
+
+
+<p data-paragraph="main"><strong>nrakich:</strong> Yes, that’s my guess, Amelia. One clear theme from this year’s state-level lawsuits about redistricting is that the partisanship of the judges who hear the case really matters. For instance, North Carolina’s Republican gerrymander only got overturned because Democrats hold a <a href="https://www.carolinajournal.com/state-supreme-court-strikes-down-n-c-election-maps-with-4-3-vote/" target="_blank" rel="noopener">4-3 majority</a> on the state Supreme Court. Republicans have a <a href="https://www.theguardian.com/us-news/2022/apr/14/maureen-oconnor-republicans-gerrymander-elections-ohio" target="_blank" rel="noopener">4-3 majority</a> on the Ohio Supreme Court, but one of those Republicans is a swing vote, and she sided with the court’s Democrats to overturn Ohio’s (Republican-drawn) map, too.</p>
+
+
+
+<p data-paragraph="main">That said, it hasn’t been an ironclad rule. Most notably, a New York Court of Appeals that was 100 percent appointed by Democratic governors <a href="https://www.nytimes.com/2022/04/27/nyregion/redistricting-congress-gerrymander-ny.html" target="_blank" rel="noopener">narrowly voted to strike down</a> the state’s Democratic gerrymander. I think that took a lot of Democrats by surprise.</p>
+
+
+
+<p data-paragraph="main"><strong>ameliatd:</strong> We’ve seen a general trend <a href="https://scholarship.law.duke.edu/faculty_scholarship/4007/" target="_blank" rel="noopener">toward attempting to “pack” state courts</a> or <a href="https://www.businessinsider.com/state-supreme-courts-are-the-next-frontier-in-politics-2022-elections-2022-4" target="_blank" rel="noopener">get voters more excited</a> about the results of state judicial elections. I wonder if cases like New York and Ohio will feed that trend. It wouldn’t be especially inspiring for the state of judicial independence, but there you go.</p>
+
+
+
+<p data-paragraph="main"><strong>cwick:</strong> When a majority of the Supreme Court ruled that it didn’t think partisan gerrymandering was something the highest court should rule on, is this fractured landscape of legal challenges what it had in mind?</p>
+
+
+
+<p data-paragraph="main"><strong>ameliatd: </strong>Chad, I think some of the justices <a href="https://fivethirtyeight.com/features/partisan-gerrymandering-isnt-the-supreme-courts-problem-anymore/" target="_blank" rel="noopener">were worried</a> about every gerrymander getting endlessly litigated in federal court, with judges struggling to figure out what the right calls are. So… yes? But that energy has basically shifted to state courts.</p>
+
+
+
+<p data-paragraph="main"><strong>cwick:</strong> Delegation is an important form of leadership!</p>
+
+
+
+<p data-paragraph="main"><strong>ameliatd:</strong> Of course, that ruling didn’t take federal courts out of the redistricting game. For instance, <a href="https://fivethirtyeight.com/features/how-a-court-ruling-in-alabama-could-boost-black-political-power-throughout-the-south/" target="_blank" rel="noopener">in February the Supreme Court ruled</a> that Alabama can use a House map that a lower court had ruled was likely discriminatory against Black voters. That’s not a partisan gerrymandering case, of course — it’s about what’s legal under <a href="https://www.justice.gov/crt/section-2-voting-rights-act#:~:text=Section%202%20of%20the%20Voting%20Rights%20Act%20of%201965%20prohibits,)(2)%20of%20the%20Act." target="_blank" rel="noopener">Section 2 of the Voting Rights Act</a>, which <a href="https://www.brennancenter.org/our-work/analysis-opinion/does-anti-gerrymandering-campaign-threaten-minority-voting-rights" target="_blank" rel="noopener">allows courts to require</a> the creation of majority-minority districts in some situations. The goal of those districts is to give minority voters the ability to participate equally in the political process and elect representatives of their choosing. But it still signaled that the Roberts court is about to wade back into the fight over redistricting, and likely scale back the VRA <a href="https://archive.nytimes.com/www.nytimes.com/interactive/2013/06/25/us/annotated-supreme-court-decision-on-voting-rights-act.html" target="_blank" rel="noopener">even more than it already has</a>. So the federal courts have weighed in — just not on whether a partisan gerrymander was unconstitutional.</p>
+
+
+
+<p data-paragraph="main">Nathaniel, I have to confess, I was a little surprised by the Alabama ruling. It just seemed like such an open-and-shut VRA case. What was your reaction?</p>
+
+
+
+<p data-paragraph="main"><strong>nrakich:</strong> Yes, it is very possible to draw a <a href="https://projects.fivethirtyeight.com/redistricting-2022-maps/alabama/plaintiffs_plan_a/" target="_blank" rel="noopener">second predominantly Black seat</a> in Alabama, and <a href="https://fivethirtyeight.com/features/how-a-court-ruling-in-alabama-could-boost-black-political-power-throughout-the-south/" target="_blank" rel="noopener">according to the current interpretation of the VRA</a>, that should have made Alabama’s current map (which features just one predominantly Black seat) illegal. And that <em>is</em> what a lower-court panel initially said.</p>
+
+
+
+<p data-paragraph="main"><strong>ameliatd:</strong> A lower-court panel that was <a href="https://www.npr.org/2022/02/07/1078292766/supreme-court-lets-alabama-use-gop-backed-map-of-the-states-congressional-distri" target="_blank" rel="noopener">not especially lefty</a>, I might add! Two of the judges were Trump appointees.</p>
+
+
+
+<p data-paragraph="main"><strong>nrakich:</strong> But then the Supreme Court <a href="https://www.supremecourt.gov/opinions/21pdf/21a375_d18f.pdf" target="_blank" rel="noopener">put the map back in place</a>, citing the Purcell principle, or the idea that courts shouldn’t change election laws too close to an election. (I’m sure we’ll get back to Purcell in a minute.)</p>
+
+
+
+<p data-paragraph="main">However, the fact that the Supreme Court didn’t think the Alabama map was an obvious VRA violation suggested that they are setting themselves up to reinterpret/gut the VRA yet again. (The Alabama case is still pending before the court and should be handed down next year.)</p>
+
+
+
+<p data-paragraph="main">That part didn’t necessarily surprise me, though. This court has been <a href="https://fivethirtyeight.com/features/the-supreme-court-just-made-it-harder-to-fight-voting-restrictions/" target="_blank" rel="noopener">very hostile to the VRA</a>. Plus, saying that Alabama had to draw a second Black seat would have essentially required Louisiana and other Southern states that have short-changed Black representation to add a Black seat too, which would be a real blow to Republicans.</p>
+
+
+
+<p data-paragraph="main"><strong>ameliatd: </strong>Yes, there have been signs that the conservative justices were gearing up to take aim at Section 2 of the VRA (the part that has to do with majority-minority districts). This is, of course, nearly ten years <a href="https://www.nytimes.com/2013/06/26/us/supreme-court-ruling.html" target="_blank" rel="noopener">after the Roberts court gutted Section 5 of the VRA</a>, which allowed nine Southern states with histories of racial discrimination in voting to change their election laws without having to get permission from the federal government. Since then, <a href="https://www.brennancenter.org/our-work/policy-solutions/effects-shelby-county-v-holder" target="_blank" rel="noopener">research has found</a> that those states have purged voters at higher rates and passed new laws restricting voting.</p>
+
+
+
+<p data-paragraph="main"><strong>nrakich:</strong> And, regardless of how they present themselves, several justices seem pretty transparent in their desire for Republican governance.</p>
+
+
+
+<p data-paragraph="main"><strong>ameliatd:</strong> On that note, Nathaniel, the court’s use of the Purcell principle was … interesting. </p>
+
+
+
+<p data-paragraph="main"><strong>cwick:</strong> Can’t believe it hasn’t been renamed the Garland Principle.</p>
+
+
+
+<p data-paragraph="main"><strong>ameliatd: </strong>In the Alabama case, <a href="https://www.votebeat.org/2022/2/16/22937235/supreme-court-alabama-congressional-map-purcell-rule" target="_blank" rel="noopener">the justices said</a> that it was too close to the election to change the maps, which of course favored the Republicans. <a href="https://www.scotusblog.com/2022/03/justices-decline-to-reinstate-gop-backed-congressional-voting-maps-in-north-carolina-pennsylvania/" target="_blank" rel="noopener">They said the same thing</a> when it came to North Carolina’s map, which favored Democrats. All well and good, right? But then they threw out a Wisconsin Supreme Court ruling that adopted the Democratic governor’s legislative maps <a href="https://www.jsonline.com/story/news/politics/2022/04/15/wisconsin-supreme-court-adopts-legislative-maps-drawn-republicans/7250042001/" target="_blank" rel="noopener">only four months before the primaries</a>.</p>
+
+
+
+<p data-paragraph="main"><strong>nrakich</strong>: Yeah, the court didn’t cite Purcell in that case, even though they did in the Alabama case when there were <em>also</em> just four months to go until the primary! The Purcell principle is a convenient tool because it can be used to suit your desired ends. Did a court strike down a map you like? You can say it’s too close to the election to make a change and undo that decision. Did a court implement a map you don’t like? You can say there’s still time to fix it and undo that decision too. There’s no specific set time period that triggers Purcell.</p>
+
+
+
+<p data-paragraph="main"><strong>ameliatd: </strong>And you might think that the North Carolina ruling was an uncharacteristically positive outcome for Democrats from this Supreme Court, but even though the short-term outcome was good for Democrats, that case could be <a href="https://www.newsobserver.com/news/politics-government/article259191768.html" target="_blank" rel="noopener">very bad for them</a> in the long term.</p>
+
+
+
+<p data-paragraph="main"><strong>cwick: </strong>Why very bad in the long term?</p>
+
+
+
+<p data-paragraph="main"><strong>ameliatd:</strong> The Supreme Court ruled on the North Carolina map on its shadow docket, which meant that <a href="https://www.nytimes.com/2022/03/07/us/supreme-court-voting-maps.html" target="_blank" rel="noopener">it was an emergency application</a> without extensive briefing or oral argument. But the justices <a href="https://www.cnbc.com/2022/03/07/supreme-court-rejects-gop-efforts-to-block-new-congressional-maps-in-north-carolina-pennsylvania.html" target="_blank" rel="noopener">signaled that they could take the case next term</a>. And if they do, they could end up ruling that state courts can’t change congressional maps that were drawn by state legislatures — which, given our earlier discussion about how active state courts have been this year, would be a big deal.</p>
+
+
+
+<p data-paragraph="main"><strong>nrakich:</strong> Yes, this is known as the “independent state legislative doctrine.” Because the Constitution <a href="https://constitution.congress.gov/browse/article-1/section-4/" target="_blank" rel="noopener">specifically says</a> that state legislatures are in charge of setting election law, some conservatives believe that no one else — not even state courts — can change it.</p>
+
+
+
+<p data-paragraph="main"><strong>cwick:</strong> We all have the ISLD memorized, Nathaniel.</p>
+
+
+
+<p data-paragraph="main"><strong>nrakich: </strong>North Carolina Republicans have already <a href="https://www.newsobserver.com/news/politics-government/article259514019.html" target="_blank" rel="noopener">filed a petition</a> with the Supreme Court challenging the state’s new congressional map on these grounds. If the court takes the case and rules in their favor, state courts will be taken out of the business of litigating partisan gerrymandering — in direct contradiction to that famous opinion in <a href="https://www.supremecourt.gov/opinions/18pdf/18-422_9ol1.pdf" target="_blank" rel="noopener">Rucho v. Common Cause</a>, which, in barring federal courts from deciding questions of partisan gerrymandering, specifically mentioned state constitutions as an alternative remedy.</p>
+
+
+
+<p data-paragraph="main">Not only that, but state courts would also be barred from overturning discriminatory voter restrictions. And independent redistricting commissions could be in danger too, since they aren’t the legislature, and under the ISLD only legislatures can draw maps.</p>
+
+
+
+<p data-paragraph="main"><strong>ameliatd:</strong> This is another sign of how much the Supreme Court has changed since even a few years ago! Justices Clarence Thomas, Samuel Alito, and Neil Gorsuch <a href="https://www.supremecourt.gov/opinions/21pdf/21a455_5if6.pdf" target="_blank" rel="noopener">all suggested</a> that they would have blocked the North Carolina map, and Justice Brett Kavanaugh suggested that he wanted to address the question — just not on the shadow docket. Which means that Justice Amy Coney Barrett <a href="https://www.vox.com/22958543/supreme-court-gerrymandering-redistricting-north-carolina-pennsylvania-moore-toth-amy-coney-barrett" target="_blank" rel="noopener">could be the swing vote</a>.</p>
+
+
+
+<p data-paragraph="main">Sooo Nathaniel … it seems like the court battles over this cycle of redistricting may get even fiercer, eh?</p>
+
+
+
+<p data-paragraph="main"><strong>nrakich:</strong> For sure. These court battles are far from over. Several cases, like those in North Carolina and Ohio, are still pending. I expect to see multiple congressional maps tossed in the middle of the decade as courts finally get around to hearing some of these cases. And if the Supreme Court makes a precedent-shattering ruling, like gutting the VRA or embracing the ISLD, I bet several other states will reopen their congressional maps to take advantage of the new opportunities to gerrymander that are created.</p>
+
+
+
+<p data-paragraph="main"><strong>cwick: </strong>Phew, I thought I’d have to wait until 2030 to go through all of this again.</p>]]></description>
+			<pubDate>Tue, 10 May 2022 18:14:00 +0100</pubDate>
+			<guid isPermaLink="false">1652205601110407</guid>
+		</item>
 		<item>
 			<title>The West Virginia And Nebraska Primaries Will Be The Latest Test For Trump’s Endorsement</title>
 			<link>https://fivethirtyeight.com/features/the-west-virginia-and-nebraska-primaries-will-be-the-latest-test-for-trumps-endorsement/</link>
@@ -2519,258 +2770,6 @@
 <p data-paragraph="main"><em>The FiveThirtyEight Politics podcast is recorded Mondays and Thursdays. Help new listeners discover the show by </em><a href="https://itunes.apple.com/us/podcast/fivethirtyeight-elections/id1077418457?mt=2" target="_blank" rel="noopener"><em>leaving us a rating and review on iTunes</em></a><em>. Have a comment, question or suggestion for “good polling vs. bad polling”? Get in touch by email, </em><a href="https://twitter.com/FiveThirtyEight" target="_blank" rel="noopener"><em>on Twitter</em></a><em> or in the comments.</em></p>]]></description>
 			<pubDate>Tue, 26 Apr 2022 00:24:00 +0100</pubDate>
 			<guid isPermaLink="false">1650932101668375</guid>
-		</item>
-		<item>
-			<title>Why Being Anti-Science Is Now Part Of Many Rural Americans’ Identity</title>
-			<link>https://fivethirtyeight.com/features/why-being-anti-science-is-now-part-of-many-rural-americans-identity/</link>
-						<dc:creator>Monica Potts</dc:creator>
-			<dc:creator>Monica Potts</dc:creator>
-			<category>Climate Change</category>
-			<category>COVID-19</category>
-			<category>Pandemic</category>
-			<category>Polarization</category>
-			<category>Rural America</category>
-			<category>Societal Distrust</category>
-			<description><![CDATA[<div>
-
-			<div>
-
-				<header><div>
-													<p><a href="https://fivethirtyeight.com/tag/societal-distrust/" name="">Societal Distrust</a></p>
-						
-						<h1>Why Being Anti-Science Is Now Part Of Many Rural Americans’ Identity</h1>
-
-													<h2>And why that will make communication around the next crisis so much more challenging.</h2>
-											</div>
-
-										<div>
-						<div>
-															<p>By <a href="https://fivethirtyeight.com/contributors/monica-potts/" title="" rel="author">Monica Potts</a></p>
-							
-							<p>
-								<time>
-									Apr. 25, 2022, at 6:00 AM								</time></p>
-
-						</div>
-						<div>
-													</div> 
-					</div>
-					
-				</header><figure><span>
-									<div>
-						<picture><source media="(min-width: 768px)"><source><img alt="An &quot;Arrest Fauci&quot; sign during &quot;The People's Convoy&quot; event" src="https://fivethirtyeight.com/wp-content/uploads/2022/04/GettyImages-1239110636-4x3-1.jpg?w=916" data-sizes="(max-width: 768px) 100vw, (max-width: 1080px) 66vw, 684px" data-src="https://fivethirtyeight.com/wp-content/uploads/2022/04/GettyImages-1239110636-4x3-1.jpg?w=916" data-srcset="https://fivethirtyeight.com/wp-content/uploads/2022/04/GettyImages-1239110636-4x3-1.jpg?w=916 1x, https://fivethirtyeight.com/wp-content/uploads/2022/04/GettyImages-1239110636-4x3-1.jpg?w=1832 2x"></source></source></picture></div>
-
-				
-			</span>
-
-			
-								<figcaption>
-						Even before this pandemic, America had a long history of resistance to public health measures and new vaccines, but now that resistance is increasingly polarized by geography and party.													<p>Eric Lee / Bloomberg via Getty Images</p>
-											</figcaption></figure></div>
-
-			
-		</div>
-
-
-
-
-
-<p data-paragraph="main">By September 2021, the scientists and staffers at the Arkansas Game and Fish Commission <a href="https://www.youtube.com/watch?v=_wvR0kA6hcs" target="_blank" rel="noopener">had gathered enough data</a> to know that the trees in its green-tree reservoirs — a type of hardwood wetland ecosystem — were dying. At Hurricane Lake, <a href="https://www.agfc.com/en/zone-map/709/" target="_blank" rel="noopener">a wildlife management area of 17,000 acres</a>, the level of severe illness and death in the timber population was up to 42 percent, especially for certain species of oak, according to a 2014 forest-health assessment. The future of another green-tree reservoir, Bayou Meto, <a href="https://www.agfc.com/en/zone-map/702/" target="_blank" rel="noopener">more than 33,000 acres</a>, would look the same if they didn’t act quickly.</p>
-
-
-
-<p data-paragraph="main">There were a lot of reasons the trees were dying, but it was also partly the commission’s fault. Long ago, the Mississippi and Arkansas rivers and their tributaries would have flooded the bayous naturally, filling bottomland forests during the winter months when the trees were dormant and allowing new saplings to grow after the waters receded in the spring. Widespread European settlement and agriculture largely halted the natural flooding, but in the 1950s, the Arkansas Game and Fish Commission <a href="https://www.agfc.com/en/hunting/migratory-birds/waterfowl/gtr/" target="_blank" rel="noopener">began buying bottomland forests for preservation</a>, which it then flooded with a system of levees and other tools.</p>
-
-
-
-<p data-paragraph="main">This made the forests an ideal winter stop for ducks to eat and rest on their annual migration south. Arkansas is a magnet for duck hunters, and the state has issued more than 100,000 permits for duck hunters from Arkansas and out of state for every year since 2014. But it turned out the commission was flooding the reservoirs too early and at levels too high, which was damaging the trees. The ducks that arrive in Arkansas especially love eating the acorns from a certain species of oak — and those oaks are now dying.</p>
-
-
-
-<p data-paragraph="main">Austin Booth, director of the Arkansas Game and Fish Commission, knew that convincing the state’s duck hunters and businesses that there was a serious problem would be tricky. Part of the solution the commission planned to propose to save the trees involved delaying the annual fall flooding, which could mean less habitat for the ducks, fewer ducks stopping in the area and more duck hunters crowded into smaller spaces fighting over targets.</p>
-
-
-
-<p data-paragraph="main">And all the duck hunters would have their own ideas about who to blame for the problem and what the solution should be.</p>
-
-
-
-<figure><img loading="lazy" width="1422" height="948" src="https://fivethirtyeight.com/wp-content/uploads/2022/04/GettyImages-804005388-711.jpg" alt="" data-src="https://fivethirtyeight.com/wp-content/uploads/2022/04/GettyImages-804005388-711.jpg" data-srcset="https://fivethirtyeight.com/wp-content/uploads/2022/04/GettyImages-804005388-711.jpg?w=712 1x, https://fivethirtyeight.com/wp-content/uploads/2022/04/GettyImages-804005388-711.jpg?w=1424 2x"><figcaption>Ducks in a wildlife refuge in northeastern Arkansas. <p>GETTY IMAGES</p></figcaption></figure><p data-paragraph="main">Last September, Booth gave a brief speech that was streamed live on YouTube, outlining the problem. He announced a series of public meetings to begin in the following months. Booth told me that when he began to plan those meetings, he thought of all the government meetings and town halls he’d attended after years working in politics. “I wanted to ratchet down some of the intensity that happens when a government official stands up on a stage and talks down to people,” he said.</p>
-
-
-
-<p data-paragraph="main">Instead, he decided the meetings would be dinners where the Game and Fish staff would eat alongside the people they sought to convince. “I just believe there’s a human component to sitting down and having a meal with someone,” he said. At those dinners, he’d give a brief introduction, then invite people to ask questions of the staff as they ate and mingled. </p>
-
-
-
-<p data-paragraph="main">At the end of the dinners, Booth said he’d stand up again and ask, “Is there anyone that’s going to walk through that door tonight without their questions answered or comments taken for the record, or with their concerns ignored?” No one, he said, came forward. The four dinners were attended by between 50 and 100 people, according to Booth, but those attendees then spread the word, dampening criticism of the new management system.</p>
-
-
-
-<p data-paragraph="main">What’s interesting about this dinner program is that it began during the COVID-19 pandemic, which also required effective science communication to convince the public to accept changes, major and minor, to their lives. Even before this pandemic, there’s been a long history of <a href="https://www.nytimes.com/2020/08/03/us/mask-protests-1918.html" target="_blank" rel="noopener">resistance to public health measures</a> and <a href="https://www.vox.com/the-goods/22958419/covid-vaccine-mandate-pandemic-history" target="_blank" rel="noopener">new vaccines</a>, and many researchers suspected that could likely be the case with COVID-19 as well. The social scientists who study these issues might have counseled an approach like that employed by the Arkansas Game and Fish Commission, using local messengers who had relationships with the communities in question and who could communicate in less intimidating ways.</p>
-
-
-
-<p data-paragraph="main">But the U.S. did not do that with COVID-19. Instead, rapidly changing information came from only a few sources, usually at the national level and seemingly without much strategy. And as such, many places have seen widespread resistance to public health interventions, like wearing masks and getting the vaccine. </p>
-
-
-
-<p data-paragraph="main">The intensely local, personal way that Arkansas Game and Fish approached this challenge is difficult, time-consuming and perhaps not always the most practical. But it shows the kind of intensity it takes to communicate an urgent problem, and may provide lessons for how to approach the next big problems — whether that’s another pandemic, an ecological disaster or something bigger and more existential, like climate change.</p>
-
-
-
-<div><hr><span></span></div>
-
-
-
-
-<p data-paragraph="main">Before the pandemic, Matthew Motta, a political science professor at Oklahoma State University, and his colleagues Timothy Callaghan, Steven Sylvester, Kristin Lunz Trujillo and Christine Crudo Blackburn <a href="https://www.sciencedirect.com/science/article/abs/pii/S0277953619303934" target="_blank" rel="noopener">studied parents’ hesitancy</a> about giving their kids routine vaccinations, like those for measles, mumps and rubella. Reasons varied, and the most prominent was conspiratorial thinking.<a data-footnote-id="12" href="https://fivethirtyeight.com/wp-json/wp/v2/espn_verticals/398#fn-12" data-footnote-content="&lt;p&gt;&lt;p&gt;The researchers measured this by having respondents rate on a seven-point scale their agreement with a handful of statements like “much of our lives are being controlled by plots hatched in secret places.”&lt;/p&gt;
-&lt;/p&gt;"><sup>12</sup></a> Some parents who delayed their children’s vaccines also held strong ideas about moral/bodily purity, which often correlated with higher levels of religiosity. Evangelical Christians, people who distrusted scientists and other experts and <a href="https://www.washingtonpost.com/politics/2021/07/19/conspiracy-theories-are-common-right-but-few-republicans-adhere-all-them/" target="_blank" rel="noopener">people prone to believing in conspiracies</a> were also among the groups finding a home in the Republican Party, too.</p>
-
-
-
-<p data-paragraph="main">Many of these characteristics also tend to cluster in rural areas, where <a href="https://www.kff.org/coronavirus-covid-19/poll-finding/kff-covid-19-vaccine-monitor-vaccine-attitudes-rural-suburban-urban/" target="_blank" rel="noopener">COVID-19 vaccination rates continue to lag</a>. “With the very important caveat that we’re talking about two different vaccines … I would say it’s roughly the same groups of people,” Motta said. “My colleagues and I … tried to shout this from the rooftops. … We saw this coming for sure.”</p>
-
-
-
-<figure><img loading="lazy" width="2048" height="1366" src="https://fivethirtyeight.com/wp-content/uploads/2022/04/GettyImages-1234218063-1024.jpg" alt="Anti-vaccination demonstrators" data-src="https://fivethirtyeight.com/wp-content/uploads/2022/04/GettyImages-1234218063-1024.jpg" data-srcset="https://fivethirtyeight.com/wp-content/uploads/2022/04/GettyImages-1234218063-1024.jpg?w=1024 1x, https://fivethirtyeight.com/wp-content/uploads/2022/04/GettyImages-1234218063-1024.jpg?w=2048 2x"><figcaption>In July 2021, as coronavirus cases rose in Arkansas, demonstrators gathered outside a community town hall at Arkansas State University-Mountain Home to protest vaccine mandates. <p>Liz Sanders / Bloomberg via Getty Images</p></figcaption></figure><p data-paragraph="main">In subsequent research conducted before the pandemic, Motta and his colleagues found <a href="https://journals.sagepub.com/doi/abs/10.1177/1065912920907695" target="_blank" rel="noopener">possible paths to countering vaccine hesitancy</a>. “One way we can try to get skeptics on board with vaccinating is to just make an effort to understand why they’re skeptical, and portray the benefits of vaccinating in those terms,” Motta said. For example, Americans who felt that vaccines tainted their moral/bodily purity were given information about how viruses also attacked and invaded the body, which raised their opinions of vaccines. </p>
-
-
-
-<p data-paragraph="main">The COVID-19 vaccines, however, were rolled out without much of that targeted messaging. Worsening the matter, then-President Donald Trump and his administration made <a href="https://www.washingtonpost.com/health/2021/09/14/trump-advisers-pandemic-warning/" target="_blank" rel="noopener">a series of missteps</a> and <a href="https://www.theatlantic.com/politics/archive/2020/11/trumps-lies-about-coronavirus/608647/" target="_blank" rel="noopener">promoted misinformation</a>, which only further hampered the country’s ability to form a coherent plan. On top of that, the virus was <a href="https://www.science.org/content/article/beast-moving-very-fast-will-new-coronavirus-be-contained-or-go-pandemic" target="_blank" rel="noopener">fast moving</a> from the beginning of the pandemic, and the United States is a big country with multiple public health agencies, each with a different level of authority. The authority that state and local health departments have varies by state, which meant communication strategies were varied as well. Meanwhile, in much of rural America, hospitals <a href="https://www.shepscenter.unc.edu/programs-projects/rural-health/rural-hospital-closures/" target="_blank" rel="noopener">had already gone through waves of closures</a>, in addition to decades of <a href="https://ajph.aphapublications.org/doi/10.2105/AJPH.2020.305728" target="_blank" rel="noopener">underinvestment</a> in rural public health.</p>
-
-
-
-<p data-paragraph="main">Some nonprofit groups <a href="https://www.ruralhealth.us/programs/covid-19-pandemic/covid-19-vaccine-resources" target="_blank" rel="noopener">struggled to correct these rural disparities</a>, but unfortunately, the underlying issues were too deep-rooted for them to fully counteract. Rural Americans were <a href="https://onlinelibrary.wiley.com/doi/full/10.1111/jrh.12556" target="_blank" rel="noopener">far less likely to take precautions against COVID-19</a>, like wearing a mask, avoiding restaurants or working from home. Last September, during the delta wave, the death rate in rural areas <a href="https://www.nbcnews.com/health/health-news/covid-killing-rural-americans-twice-rate-people-urban-areas-n1280369" target="_blank" rel="noopener">was double that of urban areas</a>. As of Jan. 10, 2022, only 48 percent of rural Americans were vaccinated, compared with 61 percent of their urban counterparts, <a href="https://www.ers.usda.gov/covid-19/rural-america/covid-19-vaccinations-in-rural-america/" target="_blank" rel="noopener">according to the U.S. Department of Agriculture</a>. </p>
-
-
-
-<figure><img loading="lazy" width="2048" height="1366" src="https://fivethirtyeight.com/wp-content/uploads/2022/04/GettyImages-1234218538-1024.jpg" alt="Arkansas residents attend a community town hall to promote Covid-19 vaccinations" data-src="https://fivethirtyeight.com/wp-content/uploads/2022/04/GettyImages-1234218538-1024.jpg" data-srcset="https://fivethirtyeight.com/wp-content/uploads/2022/04/GettyImages-1234218538-1024.jpg?w=1024 1x, https://fivethirtyeight.com/wp-content/uploads/2022/04/GettyImages-1234218538-1024.jpg?w=2048 2x"><figcaption>Despite local events promoting the safeness and effectiveness of COVID-19 vaccines, rural areas overall still lag in getting vaccinated. <p>Liz Sanders / Bloomberg via Getty Images</p></figcaption></figure><p data-paragraph="main">These patterns are partly explained by preexisting issues. People in rural areas hold old, well-known anxieties about scientists, particularly when the scientists come from the government. <a href="https://www.covidstates.org/people" target="_blank" rel="noopener">Kristin Lunz Trujillo</a>, a postdoctoral researcher with the COVID States Project, said this anxiety stemmed from an attitude that pits rural, hands-on knowledge against the kind of knowledge obtained from institutions like universities or government bureaucracies — a kind of anti-establishment view that extends to scientists. </p>
-
-
-
-<p data-paragraph="main">Lunz Trujillo told me an example of this phenomenon is land-grant institutions using their rural extension services to bring the latest agricultural research to recalcitrant farmers who don’t want to be told how to farm. This was illustrated in the 1983 TV movie “The Day After,” in which a Missouri farmer played by John Cullum points out the impracticality of a government agent’s plan to scrape up all of the topsoil following a nuclear explosion — acres of soil that would have nowhere to go. “Where did you get this information, John, all this good advice? Out of some government pamphlet?” Cullum’s character yells at the agent.</p>
-
-
-
-<p data-paragraph="main">And now this attitude has become more entwined with partisanship and partisan politics. In a 2021 paper published in American Political Science Review, political scientists David C. Barker, Ryan Detamble and Morgan Marietta looked at <a href="https://www.cambridge.org/core/journals/american-political-science-review/article/intellectualism-antiintellectualism-and-epistemic-hubris-in-red-and-blue-america/37C9F95A5DF4F81BAF69677DC6C9C972" target="_blank" rel="noopener">Republicans’ growing distrust of scientists and other experts</a>. Their research shows that partly due to the education divide — i.e., college graduates prefer the Democratic Party, and white people without a college degree prefer the Republican Party — the divide between those who are pro-intellectualism and those who are anti-intellectualism is more entrenched in party politics.</p>
-
-
-
-<figure><div>
-<div><iframe title="Trust in science has become increasingly partisan" aria-label="Interactive line chart" src="https://datawrapper.dwcdn.net/Jq9Ca/2/" scrolling="no" frameborder="0" height="500" sandbox="allow-scripts allow-same-origin"></iframe></div>
-</div></figure><p data-paragraph="main">Importantly, Barker and his colleagues defined anti-intellectualism not as a respondent's ability or personal level of education. Instead, it was about respondents having positive feelings about trusting one’s gut and having negative feelings toward experts, schools and “the book-smarts of intellectuals.” In their paper, the researchers wrote that those who distrust scientists and other official sources of authority “distinguish those who are ‘book smart’ from those who have common sense, the latter of which they view as a superior means of ascertaining truth.”</p>
-
-
-
-<p data-paragraph="main">They found that people with this attitude were more likely to align with the Republican Party. Which makes sense. Trump has <a href="http://vox.com/2015/9/16/9342825/donald-trump-vaccines-autism" target="_blank" rel="noopener">promoted the vaccine-autism myth</a> and <a href="https://www.nytimes.com/2016/11/19/world/asia/china-trump-climate-change.html" target="_blank" rel="noopener">falsely claimed that climate change is a hoax</a>. Trump’s anti-intellectualism surely <a href="https://journals.sagepub.com/doi/pdf/10.1177/1532673X17719507" target="_blank" rel="noopener">attracted voters</a> who already shared these beliefs, but he also might have influenced other people to take up such beliefs. According to one study, he was the <a href="https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0247642" target="_blank" rel="noopener">primary spreader of COVID-19 misinformation</a>. </p>
-
-
-
-<p data-paragraph="main">These partisan trends existed before Trump’s presidency, of course, but Barker and his colleagues wrote that they spiked during his tenure. And instead of receding once Trump left the national stage, the partisan realignment seems to be firmer than ever.</p>
-
-
-
-<figure><img loading="lazy" width="2048" height="1366" src="https://fivethirtyeight.com/wp-content/uploads/2022/04/GettyImages-1238908397-1024.jpg" alt="Anti-vaccination mandate demonstrators at the Peoples Convoy caravan" data-src="https://fivethirtyeight.com/wp-content/uploads/2022/04/GettyImages-1238908397-1024.jpg" data-srcset="https://fivethirtyeight.com/wp-content/uploads/2022/04/GettyImages-1238908397-1024.jpg?w=1024 1x, https://fivethirtyeight.com/wp-content/uploads/2022/04/GettyImages-1238908397-1024.jpg?w=2048 2x"><figcaption>Trump’s skepticism toward COVID-19 precautions likely both attracted voters already holding such beliefs and inspired others to adopt them. <p>Cheney Orr / Bloomberg via Getty Images</p></figcaption></figure><p data-paragraph="main">This past February, Lunz Trujillo published work that shows this kind of anti-science attitude <a href="https://link.springer.com/article/10.1007/s11109-022-09770-w" target="_blank" rel="noopener">is associated with having a rural identity</a>. And this identity is held not only by people who live in rural areas, but also by people who strongly <em>identify</em> as rural, regardless of where they currently live.</p>
-
-
-
-<p data-paragraph="main">“It’s more how people think of themselves versus where they are,” Lunz Trujillo said. She cited the political scientist Katherine J. Cramer’s well-known work on <a href="https://polisci.wisc.edu/katherine-j-cramer/" target="_blank" rel="noopener">rural resentment</a>, which illustrated that many rural people disdained anything perceived to be urban — racial and ethnic minorities, liberals, the LGBTQ community, cultural elites — and tied it to their rejection of intellectuals and intellectualism as well.</p>
-
-
-
-<p data-paragraph="main">The key insight to all this work is that those who distrust vaccines, science and expertise aren’t doing so necessarily because they have a knowledge gap or a misunderstanding. Distrusting experts is part of their identity. Motta and his colleagues’ work <a href="https://www.tandfonline.com/doi/abs/10.1080/21565503.2021.1932528" target="_blank" rel="noopener">suggests that being anti-vaccine has become an identity</a>, too. In some respects, distrusting experts has become a political choice, which means that any message from an official source — whether it’s a researcher, head of a government agency or a journalist — is more likely to inspire the opposite of its intended reaction from those who view that source as part of the political opposition.</p>
-
-
-
-<p data-paragraph="main">These trends might be spreading to include some experts themselves. Motta <a href="https://www.sciencedirect.com/science/article/pii/S0264410X22003024?via%3Dihub" target="_blank" rel="noopener">released a paper earlier this month</a> that shows about 10 percent of primary care physicians were uncertain about the safety and efficacy of COVID-19 vaccines, despite abundant evidence that they have been extremely safe and effective. The vaccine-hesitant doctors shared many of the same characteristics as other vaccine skeptics: They were more likely to be rural and conservative. For rural areas especially, this data suggests a vicious feedback loop. People who were suspicious of the vaccines had doctors who were suspicious, too. </p>
-
-
-
-<p data-paragraph="main">As <a href="https://www.cambridge.org/core/journals/american-political-science-review/article/intellectualism-antiintellectualism-and-epistemic-hubris-in-red-and-blue-america/37C9F95A5DF4F81BAF69677DC6C9C972" target="_blank" rel="noopener">Barker and his colleagues wrote</a>, the danger of anti-intellectualism becoming more entwined with partisanship is that these attitudes then become more entrenched and harder to overcome. And that will become true on both sides, as each group believes they have the best sources of information — a phenomenon he called epistemic hubris. It’s damaging public debate.</p>
-
-
-
-<div><hr><span></span></div>
-
-
-
-
-<p data-paragraph="main">The problems we’ve seen with COVID-19 are also spreading to new groups of people and to other issues. Dana Fisher, a sociologist at the University of Maryland, researches the social science of climate change, and she’s found that people are more likely to seek out sources that confirm what they already believe. “We see that scientific information is very, very clearly cherry-picked,” she said. Increasingly, she sees people looking for information that already supports their worldview, and that’s happening on the right and left. For her, this includes policymakers who have a role to play in solving issues like climate change. </p>
-
-
-
-<p data-paragraph="main">The challenge is how to penetrate these bubbles. </p>
-
-
-
-<p data-paragraph="main">Luke Naylor is the waterfowl program coordinator at the Arkansas Game and Fish Commission. I recently went with him to visit Bayou Meto, which locals pronounce as “bio-mee-da.” There’s no real way to measure this, but the nearby city of Stuttgart calls itself the duck-hunting capital of the world. On the way to the bayou, down a mostly empty two-lane highway, we stopped at a gas station decorated in woodland camouflage. Naylor told me the owner of the gas station opens before dawn during duck-hunting season to serve that clientele.</p>
-
-
-
-<p data-paragraph="main">Earlier this month, Luke and his colleague Jason Jackson took me through part of the bayou to show me the dead trees. Certain species of oak were under unique stress because they sat in water for too long during the year, and the bases of some trees were swollen. As we stood on a levee, Naylor and Jackson pointed out a tree they’d watched die over the previous summer as well as other trees showing signs of distress. Elsewhere, we saw trees downed in clusters. Even someone without an idea of what to look for would have been stunned.</p>
-
-
-
-<p data-paragraph="main">Tree experts had started to notice these issues in the 1980s and 1990s, Naylor told me. I asked him if hunters had raised their own concerns, and he said they noticed more now that the issues had been pointed out to them. “We put a name on some stuff back when we started talking about it openly,” Naylor said. “People look at it like, ‘Huh, that tree is bigger right there,’ or ‘They’re all leaning.’” Some isolated dead trees are blamed on ice storms or other rough weather, he said, but the sheer number of dead trees becomes more obvious once you know how to recognize the signs. “You’re running your boat through here or try to walk through it duck-hunting, you notice real quick.”</p>
-
-
-
-<figure><img loading="lazy" width="2048" height="1143" src="https://fivethirtyeight.com/wp-content/uploads/2022/04/AP19151546335561-1024.jpg" alt="Water rushes through the levee along the Arkansas River in 2019" data-src="https://fivethirtyeight.com/wp-content/uploads/2022/04/AP19151546335561-1024.jpg" data-srcset="https://fivethirtyeight.com/wp-content/uploads/2022/04/AP19151546335561-1024.jpg?w=1024 1x, https://fivethirtyeight.com/wp-content/uploads/2022/04/AP19151546335561-1024.jpg?w=2048 2x"><figcaption>Climate change is expected to bring more severe flooding to Arkansas. <p>Yell County Sheriff's Department via AP</p></figcaption></figure><p data-paragraph="main">Heavy waters from the fall flooding and spring rains were still trying to flow out of the reservoir. The water had to flow through levees built decades ago by the federal government, when building the levees was treated as an engineering problem, not an ecological one. The channels also had various right angles, which slowed the water’s course, making it hard to clear the reservoir as needed.</p>
-
-
-
-<p data-paragraph="main">This was the next problem they wanted to tackle: redesigning the old levees. They said that some hunters unhappy about the changes to the intentional flooding in the fall thought that spring rains were the real problem. </p>
-
-
-
-<p data-paragraph="main">“We never said it wasn’t,” Naylor said. Spring rains definitely sit in the reservoirs for too long and for too late in the year. </p>
-
-
-
-<p data-paragraph="main">The issue was that the levees are old and expensive, and changing them to deal with the spring rains would be a multimillion-dollar and multiyear project. Naylor and Booth, the head of Game and Fish, both repeated the same message: that the fall flooding was something they were already doing incorrectly, and was a problem they could control and a solution they could easily enact. That’s why they chose that route first. Taking ownership of the problem was the key to the program’s success, they said.</p>
-
-
-
-<p data-paragraph="main">I asked Naylor and Booth each if any of the hunters they’d spoken to asked about an obvious potential culprit: climate change. Naylor said that no one had. And while it’s true that the Arkansas Game and Fish Commission had been intentionally flooding the green-tree reservoirs too early and too much, climate change is expected to bring <a href="https://19january2017snapshot.epa.gov/sites/production/files/2016-09/documents/climate-change-ar.pdf" target="_blank" rel="noopener">more severe flooding</a> to Arkansas, and heavy spring downpours are likely to increase in the years ahead. The region is already seeing wetter springs and higher rivers because the northern plains — where the headwaters for the Mississippi River are — are wetter, too. </p>
-
-
-
-<p data-paragraph="main">That potentially controversial aspect was mostly avoided in their conversations with the hunters, which may show the limits of this approach. Whatever methods any group or agency takes to deal with a local ecological problem will be only a small piece of the puzzle if climate change exacerbates the core of those problems. Partisanship <a href="https://www.pewresearch.org/science/2020/06/23/two-thirds-of-americans-think-government-should-do-more-on-climate/" target="_blank" rel="noopener">already affects views</a> on climate change and how to solve it — or whether it needs solving at all.</p>
-
-
-
-<p data-paragraph="main">What struck me most about my time with Naylor and Jackson is that they were both also hunters and, despite being experts in their field, already had a level of trust with the hunters they were trying to convince. They spoke with mid-Southern accents, drove trucks and wore camo. They’re well-educated experts, but it’s hard to imagine that local and out-of-state duck hunters would see them as eggheads that could be easily dismissed. When Booth described his staff’s expertise to me, he said they had “dirt under their fingernails,” which was similar to how Lunz Trujillo explained the kind of experiential knowledge valued by farmers and other rural folks. </p>
-
-
-
-<p data-paragraph="main">But not every issue manifests locally, with local experts able to gather people for friendly dinners. Regarding climate change, Fisher says in her work now she is finding that people are often spurred to action only when the environmental damage becomes an extreme personal risk to them and their family, and when it is seen as preventable. Part of the problem with mitigating COVID-19, she said, was that many people didn’t see the virus as a personal risk — they thought they themselves would be OK, even if so many other people were dying.</p>
-
-
-
-<p data-paragraph="main">Public pushback on the changes that the Arkansas Game and Fish Commission has made to green-tree reservoirs has so far been minimal, according to Booth, but the commission also has a captive audience. Duck hunters, other hunters and fishermen rely on information from the commission every year to apply for licenses and announce when public lands are open for hunting. These hunters visit government-run websites regularly to check water levels and other information to plan their hunting trips. Plus, the green-tree reservoirs are entirely owned and managed by the commission, which means how to manage the lands is its decision.</p>
-
-
-
-<p data-paragraph="main">I asked James Brandenburg, an Arkansas volunteer with Backcountry Hunters &amp; Anglers, a conservation organization that tries to engage hunters and fishers, whether this kind of approach was scalable. Could we do something like what Arkansas Game and Fish did with larger-scale problems? He described how one of the biggest benefits he’d seen at the dinners was that hunters and other affected groups could ask questions and voice their concerns — and that they were heard, whether or not what they said made a difference in the decisions. </p>
-
-
-
-<p data-paragraph="main">“I don't know that it needs to be scalable, it just needs to be repeated,” he said. “We have to have the people who are willing to listen. You have to have the decision-makers who are invested enough in the process of gathering that information to make it a priority to have the conversations.”</p>
-
-
-
-<p data-paragraph="main">Increasingly, though, the question is how to have those conversations in the first place. It’s hard to share information if people reject it because it comes from experts and is reported through the mainstream press. That will determine, as much as anything, how we respond to serious challenges moving forward.</p>
-
-
-
-<p data-paragraph="main"><strong>CORRECTION (April 25, 2022, 5:02 p.m.):</strong> This article has been updated to correct a misspelling of James Brandenburg’s surname.</p>
-
-
-
-<p data-paragraph="main"><strong>CORRECTION (April 28, 2022, 5:30 p.m.):</strong> This article has been updated to correct a misspelling of Bayou Meto.</p>]]></description>
-			<pubDate>Mon, 25 Apr 2022 11:00:00 +0100</pubDate>
-			<guid isPermaLink="false">1650882601302362</guid>
 		</item>
 
 	</channel>
