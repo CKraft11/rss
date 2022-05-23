@@ -3,9 +3,72 @@
 		<title>Main stream | FreshRSS</title>
 		<link>http://radon</link>
 		<description>RSS feed of Main stream | FreshRSS</description>
-		<pubDate>Tue, 24 May 2022 00:29:06 +0100</pubDate>
-		<lastBuildDate>Mon, 23 May 2022 23:29:06 GMT</lastBuildDate>
+		<pubDate>Tue, 24 May 2022 00:59:06 +0100</pubDate>
+		<lastBuildDate>Mon, 23 May 2022 23:59:06 GMT</lastBuildDate>
 		<atom:link href="http://radon/i/?a=rss" rel="self" type="application/rss+xml" />
+		<item>
+			<title>Politics Podcast: Are Trump’s Endorsees About To Lose In Georgia?</title>
+			<link>https://fivethirtyeight.com/features/politics-podcast-are-trumps-endorsees-about-to-lose-in-georgia%EF%BF%BC/</link>
+						<dc:creator>Galen Druke</dc:creator>
+			<dc:creator>FiveThirtyEight</dc:creator>
+			<category>2022 Midterms</category>
+			<category>Alabama</category>
+			<category>Arkansas</category>
+			<category>FiveThirtyEight Podcasts</category>
+			<category>Georgia</category>
+			<category>Minnesota</category>
+			<category>Politics Podcast</category>
+			<category>Texas</category>
+			<description><![CDATA[<div data-href="https://fivethirtyeight.com/features/politics-podcast-are-trumps-endorsees-about-to-lose-in-georgia%ef%bf%bc/">
+	<div data-podcast-id="334643" data-podcast-duration="0" data-podcast-title="Politics Podcast: Are Trump's Endorsees About To Lose In Georgia?">
+
+					<span><span>FiveThirtyEight</span></span>
+			
+		
+		<button aria-label="Play"></button>
+
+					<div>
+		
+		
+							<div>
+					<div>
+						<div></div>
+					</div>
+
+					<div> </div>
+
+					<audio preload="none" controls="controls">
+						<source src="https://www.podtrac.com/pts/redirect.mp3/traffic.megaphone.fm/ESP5814309185.mp3?updated=1653347646">
+					</source></audio>
+				</div>
+			
+					</div>
+		
+	</div>
+</div>
+<aside>
+	<div>
+		More: <a href="https://itunes.apple.com/us/podcast/fivethirtyeight-elections/id1077418457">Apple Podcasts</a> |
+		<span><a data-android-url="" href="http://m.espn.com/general/cast?id=14554755">ESPN App</a> |</span>
+		<a href="https://www.espn.com/espnradio/feeds/rss/podcast.xml?id=14554755">RSS</a>
+			</div>
+	</aside>
+
+
+
+
+<p data-paragraph="main">In a primary cycle that has been characterized by former President Trump weighing in with endorsements to a much greater degree than his predecessors, the Georgia primary is one of the biggest tests of his sway. He has endorsed seven non-incumbent Republicans in the state, including a challenger to Gov. Brian Kemp. In this installment of the FiveThirtyEight Politics podcast, the crew previews Tuesday’s primaries in Georgia as well as contests in Arkansas, Alabama, Texas and Minnesota. They also ask whether it’s too early to conclude that the leak of a draft Supreme Court opinion overturning Roe has had little impact on the political environment.</p>
+
+
+
+<p data-paragraph="main"><em>You can listen to the episode by clicking the “play” button in the audio player above or by </em><a href="https://itunes.apple.com/us/podcast/fivethirtyeight-elections/id1077418457?mt=2" target="_blank" rel="noopener"><em>downloading it in iTunes</em></a><em>, the </em><a href="http://www.espn.com/espn/mobile/products/products/_/id/6857590" target="_blank" rel="noopener"><em>ESPN App</em></a><em> or your favorite podcast platform. If you are new to podcasts, </em><a href="https://fivethirtyeight.com/how-to-listen-to-fivethirtyeight-podcasts/" target="_blank" rel="noopener"><em>learn how to listen</em></a><em>.</em></p>
+
+
+
+<p data-paragraph="main"><em>The FiveThirtyEight Politics podcast is recorded Mondays and Thursdays. Help new listeners discover the show by </em><a href="https://itunes.apple.com/us/podcast/fivethirtyeight-elections/id1077418457?mt=2" target="_blank" rel="noopener"><em>leaving us a rating and review on iTunes</em></a><em>. Have a comment, question or suggestion for “good polling vs. bad polling”? Get in touch by email, </em><a href="https://twitter.com/FiveThirtyEight" target="_blank" rel="noopener"><em>on Twitter</em></a><em> or in the comments.</em></p>]]></description>
+			<pubDate>Tue, 24 May 2022 00:10:00 +0100</pubDate>
+			<guid isPermaLink="false">1653349501718726</guid>
+		</item>
 		<item>
 			<title>11 Primaries To Watch In Alabama, Arkansas, Minnesota And Texas</title>
 			<link>https://fivethirtyeight.com/features/11-primaries-to-watch-in-alabama-arkansas-minnesota-and-texas/</link>
@@ -1162,9 +1225,9 @@
 
 
 
-<p data-paragraph="main">At this point, the answer to what Americans are most worried about is pretty straightforward: inflation. In the first FiveThirtyEight/Ipsos poll,<a data-footnote-id="21" href="https://fivethirtyeight.com/wp-json/wp/v2/espn_verticals/398#fn-21" data-footnote-content="&lt;p&gt;&lt;p&gt;Conducted April 27-May 5, 2022, among a sample of 2,006 adults that was weighted to match the general population. The poll’s margin of error is +/- 2.6 percentage points.&lt;/p&gt;
-&lt;/p&gt;"><sup>21</sup></a> 52 percent of Americans said the most important issue facing the country was inflation. We asked Americans this question in a variety of ways,<a data-footnote-id="22" href="https://fivethirtyeight.com/wp-json/wp/v2/espn_verticals/398#fn-22" data-footnote-content="&lt;p&gt;&lt;p&gt;We asked respondents about the most important issues in three different ways: an open-ended question where they could write what issue or issues were most important to them, and then two multiple choice questions where respondents could choose up to three issues from a list of 20, including “other” or “none of these,” that they were either personally worried about or that they thought were most important to the country.&lt;/p&gt;
-&lt;/p&gt;"><sup>22</sup></a> but regardless of how we asked it, the top answer was always the same: inflation.</p>
+<p data-paragraph="main">At this point, the answer to what Americans are most worried about is pretty straightforward: inflation. In the first FiveThirtyEight/Ipsos poll,<a data-footnote-id="17" href="https://fivethirtyeight.com/wp-json/wp/v2/espn_verticals/398#fn-17" data-footnote-content="&lt;p&gt;&lt;p&gt;Conducted April 27-May 5, 2022, among a sample of 2,006 adults that was weighted to match the general population. The poll’s margin of error is +/- 2.6 percentage points.&lt;/p&gt;
+&lt;/p&gt;"><sup>17</sup></a> 52 percent of Americans said the most important issue facing the country was inflation. We asked Americans this question in a variety of ways,<a data-footnote-id="18" href="https://fivethirtyeight.com/wp-json/wp/v2/espn_verticals/398#fn-18" data-footnote-content="&lt;p&gt;&lt;p&gt;We asked respondents about the most important issues in three different ways: an open-ended question where they could write what issue or issues were most important to them, and then two multiple choice questions where respondents could choose up to three issues from a list of 20, including “other” or “none of these,” that they were either personally worried about or that they thought were most important to the country.&lt;/p&gt;
+&lt;/p&gt;"><sup>18</sup></a> but regardless of how we asked it, the top answer was always the same: inflation.</p>
 
 
 
@@ -1281,8 +1344,8 @@
 
 
 
-<p data-paragraph="main">Most of the primary action so far this year has been <a href="https://fivethirtyeight.com/features/16-gop-primaries-to-watch-in-north-carolina-pennsylvania-idaho-and-oregon/" target="_blank" rel="noopener">on the Republican side</a>, but Tuesday’s elections in Kentucky, North Carolina, Oregon and Pennsylvania<a data-footnote-id="17" href="https://fivethirtyeight.com/wp-json/wp/v2/espn_verticals/398#fn-17" data-footnote-content="&lt;p&gt;&lt;p&gt;Idaho is also holding its primary, but there are no Democratic primaries of note.&lt;/p&gt;
-&lt;/p&gt;"><sup>17</sup></a> will also decide the future of the Democratic Party in those states. The party’s progressive wing, which has been <a href="https://fivethirtyeight.com/features/progressive-groups-are-getting-more-selective-in-targeting-incumbents-is-it-working/" target="_blank" rel="noopener">getting more judicious</a> about picking its battles, has a few golden opportunities to gain new members of Congress. There are also several races where Democrats could add to the diversity of their caucus by nominating a woman, a person of color or both. We’ll even get our first big test this year of how much influence the cryptocurrency industry and pro-Israel groups have in the Democratic Party.</p>
+<p data-paragraph="main">Most of the primary action so far this year has been <a href="https://fivethirtyeight.com/features/16-gop-primaries-to-watch-in-north-carolina-pennsylvania-idaho-and-oregon/" target="_blank" rel="noopener">on the Republican side</a>, but Tuesday’s elections in Kentucky, North Carolina, Oregon and Pennsylvania<a data-footnote-id="19" href="https://fivethirtyeight.com/wp-json/wp/v2/espn_verticals/398#fn-19" data-footnote-content="&lt;p&gt;&lt;p&gt;Idaho is also holding its primary, but there are no Democratic primaries of note.&lt;/p&gt;
+&lt;/p&gt;"><sup>19</sup></a> will also decide the future of the Democratic Party in those states. The party’s progressive wing, which has been <a href="https://fivethirtyeight.com/features/progressive-groups-are-getting-more-selective-in-targeting-incumbents-is-it-working/" target="_blank" rel="noopener">getting more judicious</a> about picking its battles, has a few golden opportunities to gain new members of Congress. There are also several races where Democrats could add to the diversity of their caucus by nominating a woman, a person of color or both. We’ll even get our first big test this year of how much influence the cryptocurrency industry and pro-Israel groups have in the Democratic Party.</p>
 
 
 
@@ -1314,8 +1377,8 @@
 
 
 
-<p data-paragraph="main">Outside spending is also frustrating progressive bids in a couple North Carolina House primaries. In the state’s <strong>1st Congressional District</strong>, Rep. G.K. Butterfield is retiring and has <a href="https://www.wral.com/butterfield-backs-moderate-democrat-davis-in-race-for-northeastern-nc-congressional-district/20251525/" target="_blank" rel="noopener">endorsed</a> state Sen. Don Davis to succeed him, arguing that the moderate Davis would be Democrats’ strongest general-election candidate in a seat that will likely be competitive in 2022. (It has a <a href="https://fivethirtyeight.com/features/how-red-or-blue-is-your-state-your-congressional-district/" target="_blank" rel="noopener">FiveThirtyEight partisan lean</a><a data-footnote-id="18" href="https://fivethirtyeight.com/wp-json/wp/v2/espn_verticals/398#fn-18" data-footnote-content="&lt;p&gt;&lt;p&gt;Partisan lean is the average margin difference between how a state or district votes and how the country votes overall. This version of partisan lean, meant to be used for congressional and gubernatorial elections, is calculated as 50 percent the state or district’s lean relative to the nation in the most recent presidential election, 25 percent its relative lean in the second-most-recent presidential election and 25 percent a custom state-legislative lean.&lt;/p&gt;
-&lt;/p&gt;"><sup>18</sup></a> of just D+5.) </p>
+<p data-paragraph="main">Outside spending is also frustrating progressive bids in a couple North Carolina House primaries. In the state’s <strong>1st Congressional District</strong>, Rep. G.K. Butterfield is retiring and has <a href="https://www.wral.com/butterfield-backs-moderate-democrat-davis-in-race-for-northeastern-nc-congressional-district/20251525/" target="_blank" rel="noopener">endorsed</a> state Sen. Don Davis to succeed him, arguing that the moderate Davis would be Democrats’ strongest general-election candidate in a seat that will likely be competitive in 2022. (It has a <a href="https://fivethirtyeight.com/features/how-red-or-blue-is-your-state-your-congressional-district/" target="_blank" rel="noopener">FiveThirtyEight partisan lean</a><a data-footnote-id="20" href="https://fivethirtyeight.com/wp-json/wp/v2/espn_verticals/398#fn-20" data-footnote-content="&lt;p&gt;&lt;p&gt;Partisan lean is the average margin difference between how a state or district votes and how the country votes overall. This version of partisan lean, meant to be used for congressional and gubernatorial elections, is calculated as 50 percent the state or district’s lean relative to the nation in the most recent presidential election, 25 percent its relative lean in the second-most-recent presidential election and 25 percent a custom state-legislative lean.&lt;/p&gt;
+&lt;/p&gt;"><sup>20</sup></a> of just D+5.) </p>
 
 
 
@@ -1335,8 +1398,8 @@
 
 
 
-<p data-paragraph="main">Finally, the Democratic primary for North Carolina’s <strong>U.S. Senate</strong> seat isn’t expected to be competitive, but it’s worth a brief mention considering that Democrats are hoping to make a run at this seat in the fall. Their nominee will almost certainly be former state Supreme Court Chief Justice Cheri Beasley, who overwhelmingly leads her 10 opponents in <a href="https://www.meredith.edu/wp-content/uploads/2022/05/Spring2022PollReport.pdf" target="_blank" rel="noopener">primary polling</a> and would be the first Black female senator since Kamala Harris if she wins.<a data-footnote-id="19" href="https://fivethirtyeight.com/wp-json/wp/v2/espn_verticals/398#fn-19" data-footnote-content="&lt;p&gt;&lt;p&gt;A distinction that other women, such as Pennsylvania’s Kathy Barnette or Florida’s Val Demings, could also share.&lt;/p&gt;
-&lt;/p&gt;"><sup>19</sup></a></p>
+<p data-paragraph="main">Finally, the Democratic primary for North Carolina’s <strong>U.S. Senate</strong> seat isn’t expected to be competitive, but it’s worth a brief mention considering that Democrats are hoping to make a run at this seat in the fall. Their nominee will almost certainly be former state Supreme Court Chief Justice Cheri Beasley, who overwhelmingly leads her 10 opponents in <a href="https://www.meredith.edu/wp-content/uploads/2022/05/Spring2022PollReport.pdf" target="_blank" rel="noopener">primary polling</a> and would be the first Black female senator since Kamala Harris if she wins.<a data-footnote-id="21" href="https://fivethirtyeight.com/wp-json/wp/v2/espn_verticals/398#fn-21" data-footnote-content="&lt;p&gt;&lt;p&gt;A distinction that other women, such as Pennsylvania’s Kathy Barnette or Florida’s Val Demings, could also share.&lt;/p&gt;
+&lt;/p&gt;"><sup>21</sup></a></p>
 
 
 
@@ -1416,8 +1479,8 @@
 
 
 
-<p data-paragraph="main">However, the race is probably between <a href="https://www.statesmanjournal.com/story/news/politics/elections/2022/04/28/oregon-tina-kotek-tobias-read-lead-field-of-15-democrats-for-governor-2022-primary-election/65352487007/" target="_blank" rel="noopener">just two candidates</a>: former state House Speaker Tina Kotek and state Treasurer Tobias Read. Kotek, who would make history as the <a href="https://www.reuters.com/article/usa-lgbt-politics/oregon-democrat-tina-kotek-vies-to-become-first-openly-lesbian-u-s-governor-idUSL8N2UD3Y7" target="_blank" rel="noopener">first openly lesbian governor</a> of any state,<a data-footnote-id="20" href="https://fivethirtyeight.com/wp-json/wp/v2/espn_verticals/398#fn-20" data-footnote-content="&lt;p&gt;&lt;p&gt;A distinction she may share with Massachusetts’s Maura Healey.&lt;/p&gt;
-&lt;/p&gt;"><sup>20</sup></a> has raised <a href="https://secure.sos.state.or.us/orestar/publicAccountSummary.do?filerId=4792&amp;OWASP_CSRFTOKEN=C2W4-66G1-DGNS-F62H-MZNE-2MB9-VPRJ-VF7Z" target="_blank" rel="noopener">$1.6 million</a> for the year, while Read has raised <a href="https://secure.sos.state.or.us/orestar/publicAccountSummary.do?filerId=5208&amp;OWASP_CSRFTOKEN=C2W4-66G1-DGNS-F62H-MZNE-2MB9-VPRJ-VF7Z" target="_blank" rel="noopener">$1.1 million</a>. Read looks like he’s playing catchup in the polls, too: An <a href="https://s3.documentcloud.org/documents/21609323/41322-tobias-read-for-governor-poll-memo.pdf" target="_blank" rel="noopener">April poll</a> sponsored by his campaign put Kotek at 25 percent and Read at 20 percent, but we don’t have any more recent data. </p>
+<p data-paragraph="main">However, the race is probably between <a href="https://www.statesmanjournal.com/story/news/politics/elections/2022/04/28/oregon-tina-kotek-tobias-read-lead-field-of-15-democrats-for-governor-2022-primary-election/65352487007/" target="_blank" rel="noopener">just two candidates</a>: former state House Speaker Tina Kotek and state Treasurer Tobias Read. Kotek, who would make history as the <a href="https://www.reuters.com/article/usa-lgbt-politics/oregon-democrat-tina-kotek-vies-to-become-first-openly-lesbian-u-s-governor-idUSL8N2UD3Y7" target="_blank" rel="noopener">first openly lesbian governor</a> of any state,<a data-footnote-id="22" href="https://fivethirtyeight.com/wp-json/wp/v2/espn_verticals/398#fn-22" data-footnote-content="&lt;p&gt;&lt;p&gt;A distinction she may share with Massachusetts’s Maura Healey.&lt;/p&gt;
+&lt;/p&gt;"><sup>22</sup></a> has raised <a href="https://secure.sos.state.or.us/orestar/publicAccountSummary.do?filerId=4792&amp;OWASP_CSRFTOKEN=C2W4-66G1-DGNS-F62H-MZNE-2MB9-VPRJ-VF7Z" target="_blank" rel="noopener">$1.6 million</a> for the year, while Read has raised <a href="https://secure.sos.state.or.us/orestar/publicAccountSummary.do?filerId=5208&amp;OWASP_CSRFTOKEN=C2W4-66G1-DGNS-F62H-MZNE-2MB9-VPRJ-VF7Z" target="_blank" rel="noopener">$1.1 million</a>. Read looks like he’s playing catchup in the polls, too: An <a href="https://s3.documentcloud.org/documents/21609323/41322-tobias-read-for-governor-poll-memo.pdf" target="_blank" rel="noopener">April poll</a> sponsored by his campaign put Kotek at 25 percent and Read at 20 percent, but we don’t have any more recent data. </p>
 
 
 
@@ -3632,68 +3695,6 @@
 <p data-paragraph="main">We won’t be live-blogging the returns as they come in tonight, but don’t worry — we will have a quick analysis in the morning recapping all the results and what they mean for the future of the GOP.</p>]]></description>
 			<pubDate>Tue, 10 May 2022 11:00:00 +0100</pubDate>
 			<guid isPermaLink="false">1652178600955748</guid>
-		</item>
-		<item>
-			<title>Politics Podcast: Why Biden Has Lost Ground With Democratic Voters</title>
-			<link>https://fivethirtyeight.com/features/politics-podcast-why-biden-has-lost-ground-with-democratic-voters/</link>
-						<dc:creator>Galen Druke</dc:creator>
-			<dc:creator>FiveThirtyEight</dc:creator>
-			<category>Abortion</category>
-			<category>FiveThirtyEight Podcasts</category>
-			<category>Politics Podcast</category>
-			<category>Presidential Approval</category>
-			<category>Public Opinion</category>
-			<category>Roe V. Wade</category>
-			<category>The Biden Administration</category>
-			<description><![CDATA[<div data-href="https://fivethirtyeight.com/features/politics-podcast-why-biden-has-lost-ground-with-democratic-voters/">
-	<div data-podcast-id="333154" data-podcast-duration="0" data-podcast-title="Politics Podcast: Why Biden Has Lost Ground With Democratic Voters">
-
-					<span><span>FiveThirtyEight</span></span>
-			
-		
-		<button aria-label="Play"></button>
-
-					<div>
-		
-		
-							<div>
-					<div>
-						<div></div>
-					</div>
-
-					<div> </div>
-
-					<audio preload="none" controls="controls">
-						<source src="https://www.podtrac.com/pts/redirect.mp3/traffic.megaphone.fm/ESP2058768339.mp3?updated=1652145479">
-					</source></audio>
-				</div>
-			
-					</div>
-		
-	</div>
-</div>
-<aside>
-	<div>
-		More: <a href="https://itunes.apple.com/us/podcast/fivethirtyeight-elections/id1077418457">Apple Podcasts</a> |
-		<span><a data-android-url="" href="http://m.espn.com/general/cast?id=14554755">ESPN App</a> |</span>
-		<a href="https://www.espn.com/espnradio/feeds/rss/podcast.xml?id=14554755">RSS</a>
-			</div>
-	</aside>
-
-
-
-
-<p data-paragraph="main">Nationally, a <a href="https://fivethirtyeight.com/features/where-americans-stand-on-abortion-in-5-charts/" target="_blank" rel="noopener">large majority of Americans</a> support legal abortion in at least some cases, but the politics of abortion are likely to play out on the state level if Roe v. Wade is overturned. In this installment of the <a href="https://fivethirtyeight.com/tag/politics-podcast/" target="_blank" rel="noopener">FiveThirtyEight Politics podcast</a>, the crew discusses the types of legislation different states may adopt if Roe is struck down, and how those policies jibe with public opinion. They also discuss recent polling showing that President Biden has <a href="https://news.gallup.com/poll/391733/biden-job-approval-down-among-younger-generations.aspx" target="_blank" rel="noopener">disproportionately lost support</a> among traditionally Democratic voting groups, such as young people, Hispanic adults and non-Hispanic Black adults.</p>
-
-
-
-<p data-paragraph="main"><em>You can listen to the episode by clicking the “play” button in the audio player above or by </em><a href="https://itunes.apple.com/us/podcast/fivethirtyeight-elections/id1077418457?mt=2" target="_blank" rel="noopener"><em>downloading it in iTunes</em></a><em>, the </em><a href="http://www.espn.com/espn/mobile/products/products/_/id/6857590" target="_blank" rel="noopener"><em>ESPN App</em></a><em> or your favorite podcast platform. If you are new to podcasts, </em><a href="https://fivethirtyeight.com/how-to-listen-to-fivethirtyeight-podcasts/" target="_blank" rel="noopener"><em>learn how to listen</em></a><em>.</em></p>
-
-
-
-<p data-paragraph="main"><em>The FiveThirtyEight Politics podcast is recorded Mondays and Thursdays. Help new listeners discover the show by </em><a href="https://itunes.apple.com/us/podcast/fivethirtyeight-elections/id1077418457?mt=2" target="_blank" rel="noopener"><em>leaving us a rating and review on iTunes</em></a><em>. Have a comment, question or suggestion for “good polling vs. bad polling”? Get in touch by email, </em><a href="https://twitter.com/FiveThirtyEight" target="_blank" rel="noopener"><em>on Twitter</em></a><em> or in the comments.</em></p>]]></description>
-			<pubDate>Tue, 10 May 2022 02:13:00 +0100</pubDate>
-			<guid isPermaLink="false">1652147101962422</guid>
 		</item>
 
 	</channel>
