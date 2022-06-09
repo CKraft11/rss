@@ -3,9 +3,243 @@
 		<title>Main stream | FreshRSS</title>
 		<link>http://radon</link>
 		<description>RSS feed of Main stream | FreshRSS</description>
-		<pubDate>Thu, 09 Jun 2022 16:29:06 +0100</pubDate>
-		<lastBuildDate>Thu, 09 Jun 2022 15:29:06 GMT</lastBuildDate>
+		<pubDate>Thu, 09 Jun 2022 16:59:07 +0100</pubDate>
+		<lastBuildDate>Thu, 09 Jun 2022 15:59:07 GMT</lastBuildDate>
 		<atom:link href="http://radon/i/?a=rss" rel="self" type="application/rss+xml" />
+		<item>
+			<title>Partly Cloudy With A 75 Percent Chance Of COVID Exposure</title>
+			<link>https://fivethirtyeight.com/features/partly-cloudy-with-a-75-percent-chance-of-covid-exposure/</link>
+						<dc:creator>Betsy Ladyzhets</dc:creator>
+			<dc:creator>Betsy Ladyzhets</dc:creator>
+			<category>Coronavirus</category>
+			<category>COVID-19</category>
+			<description><![CDATA[<div>
+
+			<div>
+
+				<header><div>
+													<p><a href="https://fivethirtyeight.com/tag/covid-19/" name="">COVID-19</a></p>
+						
+													<h1>Partly Cloudy With A 75 Percent Chance Of COVID Exposure</h1>
+																			<h2>The CDC wants to make COVID forecasts a thing. The only problem: COVID data is becoming less reliable.</h2>
+											</div>
+
+										<div>
+						<div>
+															<p>By <a href="https://fivethirtyeight.com/contributors/betsy-ladyzhets/" title="" rel="author">Betsy Ladyzhets</a></p>
+							
+							<p>
+								<time>
+									Jun. 9, 2022, at 11:36 AM								</time></p>
+
+						</div>
+						<div>
+													</div> 
+					</div>
+					
+				</header><figure><span>
+									<div>
+						<picture><source media="(min-width: 768px)"><source><img alt="A photo illustration of meteorologist in front of a map of the United States covered in Coronavirus molecules of various sizes" src="https://fivethirtyeight.com/wp-content/uploads/2022/06/COVID-FORECAST-4x3-1.png?w=917" data-sizes="(max-width: 768px) 100vw, (max-width: 1080px) 66vw, 684px" data-src="https://fivethirtyeight.com/wp-content/uploads/2022/06/COVID-FORECAST-4x3-1.png?w=917" data-srcset="https://fivethirtyeight.com/wp-content/uploads/2022/06/COVID-FORECAST-4x3-1.png?w=917 1x, https://fivethirtyeight.com/wp-content/uploads/2022/06/COVID-FORECAST-4x3-1.png?w=1834 2x"></source></source></picture></div>
+
+				
+			</span>
+
+			
+								<figcaption><p>PHOTO ILLUSTRATION BY EMILY SCHERER / GETTY IMAGES</p>
+											</figcaption></figure></div>
+
+			
+		</div>
+
+
+
+
+
+<p data-paragraph="main">It’s 6:30 a.m. and your third alarm is blaring. Another 10 minutes and you’ll have to miss breakfast before going to work. You get up, brush your teeth, shower and start a pot of coffee while watching the morning news. After the station’s meteorologist tells you it’s sunny with a high of 70 degrees, a health reporter follows up with the COVID-19 forecast: red-alert level today, with a 75 percent chance of exposure in spaces with at least 50 people.</p>
+
+
+
+<p data-paragraph="main">You respond to the risk by taking a rapid test before leaving the house — snapping a picture of the negative result for your colleagues — and grabbing your N95 mask.</p>
+
+
+
+<p data-paragraph="main">This is a hypothetical future, but one that a new team at the Centers for Disease Control and Prevention is working on. The <a href="https://www.cdc.gov/forecast-outbreak-analysis/" target="_blank" rel="noopener">Center for Forecasting and Outbreak Analytics</a> got an initial $200 million in funding from the American Rescue Plan to recruit data scientists, epidemiologists and science communicators who will come up with forecasts for the public and promote data-based decision-making. CFA aims to operate “<a href="https://www.washingtonpost.com/health/2022/04/19/new-cdc-team-early-alert-pandemic/" target="_blank" rel="noopener">like the National Weather Service, but for infectious diseases</a>,” said epidemiologist Caitlin Rivers, the new center’s associate director for science, in an April article in The Washington Post.</p>
+
+
+
+<p data-paragraph="main">Which would be great — except that the forecasts have less data to work with now than they’ve had in years. COVID-19 case data is less and less reliable thanks to rapid testing, for one. In addition, hospitalization data can lag behind trends in transmission and may become unavailable in the coming months. And new sources like wastewater surveillance aren’t yet ready to replace clinical data. Imagine producing a weather forecast without reliable temperature or humidity measurements.</p>
+
+
+
+<p data-paragraph="main">Two converging trends are causing case data to become less useful. First, more Americans are using at-home rapid tests, and second, fewer Americans are using lab-based PCR tests.</p>
+
+
+
+<p data-paragraph="main">About six times as many at-home tests as PCR tests are being taken in the U.S., according to Mara Aspinall, a diagnostic-testing expert and health-care industry consultant. Using data from test manufacturers and retailers, Aspinall has kept a close eye on test capacity in the U.S. throughout the pandemic, and at this time last year, Americans were taking considerably more PCR tests than at-home tests.</p>
+
+
+
+<p data-paragraph="main">Unlike PCR test results, which are automatically reported by the labs that process the tests, the vast majority of at-home test results are not reported to public-health authorities. In recent months, PCR tests have also become less available. States such as <a href="https://www.burlingtonfreepress.com/story/news/local/vermont/2022/06/04/vermont-covid-testing-state-stop-free-testing-program-june-25/7496151001/" target="_blank" rel="noopener">Vermont</a> and <a href="https://www.denverpost.com/2022/04/06/colorado-closing-covid-testing-sites-april/" target="_blank" rel="noopener">Colorado</a> are shutting down free public-testing sites and directing patients to at-home tests and private health-care providers instead — even as government <a href="https://www.npr.org/sections/health-shots/2022/03/29/1089355997/free-covid-tests-and-treatments-no-longer-free-for-uninsured-as-funding-runs-out" target="_blank" rel="noopener">funding to cover tests for uninsured people has run out</a>.</p>
+
+
+
+<p data-paragraph="main">“The official numbers we hear about on a daily basis, in terms of official COVID-19 cases, is becoming an increased undercount of the true number of infections that are circulating,” said Jason Salemi, an epidemiologist at the University of South Florida College of Public Health.</p>
+
+
+
+<p data-paragraph="main">This increasing undercount leads to more uncertainty in COVID-19 forecasting, said Marc Lipsitch, an infectious-disease expert at Harvard and the temporary director of science at CFA. As the quality of case data gets worse, “we’re more reliant on the delayed indicators, like hospitalizations and deaths,” he said. </p>
+
+
+
+<p data-paragraph="main">CFA scientists are currently focused on hospitalization data, which U.S. modelers find more reliable than case numbers: Lipsitch described it as the best source that is “routinely and uniformly reported.”</p>
+
+
+
+<p data-paragraph="main">Hospital admissions — the number of COVID-19 patients newly admitted for treatment — can be particularly useful, said Lauren Ancel Meyers, director of the University of Texas at Austin’s COVID-19 Modeling Consortium. This metric provides “a stabler signal” than case counts, even though it doesn’t typically show an increase until a week or two <em>after</em> a surge. </p>
+
+
+
+<p data-paragraph="main">But when health agencies rely on hospitalization data as their main source for policy decisions, they “lose valuable time to prevent morbidity and mortality,” Salemi said. Essentially, by the time hospital admissions show a meaningful uptick, it’s already too late to prevent a surge that will cause more people to get seriously ill — and it will drive similar increases in long COVID that aren’t visible in hospitalization data at all.</p>
+
+
+
+<p data-paragraph="main">Lipsitch agreed that this delay is a problem. Hospitalization data reflects COVID-19 spread in the recent past; when using data about the past to identify trends in the present, “the present becomes more ambiguous, because the most timely signal was also the lowest quality.”</p>
+
+
+
+<p data-paragraph="main">In addition, Salemi said, hospitalization metrics face a problem of geography. While people living in every U.S. county may get infected with SARS-CoV-2, not every county has a hospital. For example, Alachua County, Florida, has a major health-care system where Floridians from several smaller, nearby counties go for treatment. Most of the hospitalizations from this region show up in Alachua County, not in the surrounding areas.</p>
+
+
+
+<p data-paragraph="main">Even the imperfect hospitalization data may not always be available. When the Biden administration ends the national public-health emergency for COVID-19, hospitals and local health departments <a href="https://www.politico.com/newsletters/politico-pulse/2022/05/13/the-biden-administration-fights-to-make-its-covid-funds-last-00032279" target="_blank" rel="noopener">may no longer be required to report their data</a> to federal agencies. The emergency declaration will <a href="https://www.cnn.com/2022/05/17/politics/covid-19-public-health-emergency/index.html" target="_blank" rel="noopener">continue beyond at least July 15</a>, but it’s unclear how long the administration will keep extending it.</p>
+
+
+
+<p data-paragraph="main">And if the data does become even less reliable, then what? CFA is looking into alternatives, and wastewater monitoring is a top priority. Our sewers can provide more timely data than hospitalizations, and less biased data than cases. But wastewater is <a href="https://fivethirtyeight.com/features/the-national-fight-against-covid-19-isnt-ready-to-go-to-the-sewers/" target="_blank" rel="noopener">far from a national surveillance system</a>: COVID-19 levels aren’t being tracked in water systems for much of the country, it takes time and resources to set up this tracking, and health agencies aren’t yet sure how to use the data once they do have it.</p>
+
+
+
+<p data-paragraph="main">Lipsitch also wants to find a way to pinpoint <em>who</em> in a community is infected, with data that’s individual-level, not population-level like wastewater. Ideally, he would like to see the CDC perform population surveys, sampling a representative subset of Americans to estimate who has COVID-19. Such surveys could contribute to precise estimates of how many people in a given state or county are currently infected, driving forecasts of an individual’s chance at exposure if they go to work or school. British modelers consider similar surveys <a href="https://www.ons.gov.uk/peoplepopulationandcommunity/healthandsocialcare/conditionsanddiseases/bulletins/coronaviruscovid19infectionsurveypilot/previousReleases" target="_blank" rel="noopener">conducted by the U.K.’s Office for National Statistics</a> much more reliable than case counts, Lipsitch said. But there’s no comparison for these surveys in the U.S.</p>
+
+
+
+<p data-paragraph="main">CFA’s conversations about potential data sources and public-health actions are largely theoretical at this point, as the center is still <a href="https://www.cdc.gov/forecast-outbreak-analysis/about/who-we-are.html" target="_blank" rel="noopener">a team of only four people</a> — three of whom are “on loan” from their academic positions, as Lipsitch described it. Posting job descriptions for the center’s eventual 100 scientists and communicators is “taking longer than we had hoped,” he said. As of early June, <a href="https://www.usajobs.gov/job/655773600" target="_blank" rel="noopener">only one job posting</a> is open for applications.</p>
+
+
+
+<p data-paragraph="main">As it works on scaling up, CFA faces a broader challenge: the CDC’s lack of authority over state and local health agencies. “Outside of a public-health emergency, CDC has no authority to require states to share data,” Lipsitch said. And even during the COVID-19 emergency, the agency has been unable to require sharing some key metrics, such as <a href="https://covid.cdc.gov/covid-data-tracker/#rates-by-vaccine-status" target="_blank" rel="noopener">breakthrough cases and deaths</a>.</p>
+
+
+
+<p data-paragraph="main">The CDC also has limited authority over Americans overall, and trust in the public-health system is waning. One recent poll showed that nearly one-third of the country <a href="https://www.ipsos.com/en-us/news-polls/axios-ipsos-coronavirus-index" target="_blank" rel="noopener">thinks the pandemic is already over</a>, while Congress consistently <a href="https://www.pbs.org/newshour/politics/congressional-stalemate-makes-a-quick-compromise-on-covid-funding-unlikely" target="_blank" rel="noopener">fails to deliver new funding</a> for COVID-safety measures. These may be concerning signals for the new forecasting center’s future: Even if the CFA is able to provide timely, accurate infectious-disease forecasts like what we have for the weather, how many people will actually act on the information?</p>]]></description>
+			<pubDate>Thu, 09 Jun 2022 16:36:00 +0100</pubDate>
+			<guid isPermaLink="false">1654789501170279</guid>
+		</item>
+		<item>
+			<title>Mass Shootings Can Traumatize People Who Weren’t Even There</title>
+			<link>https://fivethirtyeight.com/features/mass-shootings-can-traumatize-people-who-werent-even-there/</link>
+						<dc:creator>Maggie Koerth</dc:creator>
+			<dc:creator>Maggie Koerth</dc:creator>
+			<category>Gun Violence</category>
+			<category>Mass Shootings</category>
+			<description><![CDATA[<div>
+
+			<div>
+
+				<header><div>
+													<p><a href="https://fivethirtyeight.com/tag/mass-shootings/" name="">Mass Shootings</a></p>
+						
+													<h1>Mass Shootings Can Traumatize People Who Weren’t Even There</h1>
+																	</div>
+
+										<div>
+						<div>
+															<p>By <a href="https://fivethirtyeight.com/contributors/maggie-koerth/" title="" rel="author">Maggie Koerth</a></p>
+							
+							<p>
+								<time>
+									Jun. 9, 2022, at 10:38 AM								</time></p>
+
+						</div>
+						<div>
+													</div> 
+					</div>
+					
+				</header><figure><span>
+									<div>
+						<picture><source media="(min-width: 768px)"><source><img alt="A woman embraces a child outside Willie de Leon Civic Center in Uvalde, Texas" src="https://fivethirtyeight.com/wp-content/uploads/2022/06/GettyImages-1240887309-4x3-1.jpg?w=917" data-sizes="(max-width: 768px) 100vw, (max-width: 1080px) 66vw, 684px" data-src="https://fivethirtyeight.com/wp-content/uploads/2022/06/GettyImages-1240887309-4x3-1.jpg?w=917" data-srcset="https://fivethirtyeight.com/wp-content/uploads/2022/06/GettyImages-1240887309-4x3-1.jpg?w=917 1x, https://fivethirtyeight.com/wp-content/uploads/2022/06/GettyImages-1240887309-4x3-1.jpg?w=1834 2x"></source></source></picture></div>
+
+				
+			</span>
+
+			
+								<figcaption><p>Eric Thayer / Bloomberg via Getty Images</p>
+											</figcaption></figure></div>
+
+			
+		</div>
+
+
+
+
+
+<p data-paragraph="main">At the end of the day on May 24, more than 400 children walked away from Robb Elementary in Uvalde, Texas as survivors. That single day of grade school will follow them for years, <a href="https://www.pbs.org/newshour/nation/how-school-shootings-impact-survivors-in-the-long-term" target="_blank" rel="noopener">a formative trauma that increases their risks</a> of experiencing depression, missing school days and even earning less money over their lifetimes. Research shows that violence in the classroom harms kids regardless of whether it physically injures them. </p>
+
+
+
+<p data-paragraph="main">There were also more than 50 million children enrolled at other K-12 schools in the United States that day. Whether they were across town or across the country, many of those children will also have memories of May 24, 2022; sirens, blaring news reports, or the hushed, tense whispers of adults. They know something awful happened to kids just like them. Next year, they’ll do active shooter drills in their own schools and remember that this will be real someday for someone, even if it’s never real for them.</p>
+
+
+
+<p data-paragraph="main">Is that, also, a kind of trauma? </p>
+
+
+
+<p data-paragraph="main">There is precious little known about how the impacts of school shootings ripple out to children in the rest of the community, state and nation. But there’s plenty of research that suggests the trauma of violence in general probably doesn’t stop at the specific location where it happened. And that, experts told me, means we need to be thinking differently about the damage violence can cause and who is at risk. </p>
+
+
+
+<div><hr><span></span></div>
+
+
+
+
+<p data-paragraph="main">Despite the high-profile nature of school shootings, and mass shootings more broadly, the mental health impacts of these kinds of events have not been widely studied. Five years ago, Dr. Sandro Galea, an epidemiologist at the Boston University School of Public Health, co-published <a href="https://miningquiz.com/pdf/Mass_Shootings/The-Mental-Health-Consequences-of-Mass-Shootings.pdf" target="_blank" rel="noopener">a review of research on how mass shootings impact mental health</a>. The 49 peer-reviewed papers he analyzed were mostly focused on what happened to direct survivors — people who were at the site of a mass shooting but left alive. There were only a few that addressed indirect exposure. </p>
+
+
+
+<p data-paragraph="main">These studies found evidence of trauma even for those who were not in the room or building where a mass shooting happened, though impacts were larger the closer people were to the actual incident. Other factors — such as media exposure, or the amount of time someone spent discussing the shooting with family and friends — also seemed to affect who came away with symptoms of trauma and how severe they were. But the amount of research on this subject was very small and incomplete, and it’s hard to say much with certainty. </p>
+
+
+
+<p data-paragraph="main">And according to Gaelea that is still true today. “The issue of mental health in community members who are not directly affected… most people in the mental health space think it’s a real issue but there actually has been very little research on it,” he told me. </p>
+
+
+
+<p data-paragraph="main">More broadly, there’s lots of evidence that, in certain situations, people can have their mental health impacted by traumatic events even if they weren’t personally in physical danger. “We’ve known for 20 years that <a href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3637659/" target="_blank" rel="noopener">watching media images of people suffering</a> can, in and of itself, be a trigger for common mood anxiety disorders, things like depression and post-traumatic stress,” Galea said. </p>
+
+
+
+<p data-paragraph="main">Evidence suggests there are multiple kinds of indirect trauma, said Jennifer Carlson, a professor of sociology, government and public policy at the University of Arizona. Vicarious trauma, she said, is what happens when people like <a href="https://www.tandfonline.com/doi/abs/10.1080/10926771.2012.689422" target="_blank" rel="noopener">social workers are deeply exposed to the trauma of their clients</a> and feel helpless to prevent those people from experiencing traumatic events. Community trauma, meanwhile, happens when whole populations are <a href="https://onlinelibrary.wiley.com/doi/abs/10.1111/nuf.12550" target="_blank" rel="noopener">collectively traumatized by something that affects everyone on a cultural level</a>, even if some individuals don’t experience it personally. The traumatic impact of the Holocaust on the Jewish community is a good example of this, as is the collective trauma expressed by Black Americans in the wake of the George Floyd murder. </p>
+
+
+
+<p data-paragraph="main">This knowledge has implications for how we think about the trauma of school shootings, even if we don’t know exactly how school shootings are affecting the mental health of kids nationwide. People who aren’t affected physically by a disaster are often reminded that they have a low risk of experiencing something like that themselves. There are tens of millions of kids enrolled in school every year, but only <a href="https://www.chds.us/ssdb/charts-graphs/#victimsperyear" target="_blank" rel="noopener">a little over a hundred a year</a> — if that — become direct victims of a school shooting. The risk is low. </p>
+
+
+
+<p data-paragraph="main">But that’s the wrong way to think about risk when we know a traumatic event will happen. The number of school shootings every year that involve active shooters are very small — <a href="https://www.chds.us/ssdb/charts-graphs/#incedentsbyyear" target="_blank" rel="noopener">averaging 5 per year between 2021 and 2011</a>, according to the Naval Postgraduate School’s K-12 School Shooting Database. But you have to go back to 1981 to find a year without at least one. School shootings are almost guaranteed to happen every year — we just don’t know to whom, Carlson said. </p>
+
+
+
+<p data-paragraph="main">And that means the risk of harm isn’t just about the physical likelihood of being shot, it’s also about <a href="https://www.nature.com/articles/s41599-019-0320-z" target="_blank" rel="noopener">anticipating a trauma that will happen to someone</a> — maybe even you — and feeling powerless to stop it and at the mercy of chance. “I am a sociologist of crime,” Carlson said. “I’m very much on board with [the idea that] people overestimate their likelihood of victimization.” But this is different, she said. The likelihood of anticipatory trauma can be high even if the risk of injury and death is low. </p>
+
+
+
+<p data-paragraph="main">Given that, it’s useless to tell people not to be afraid of something like gun violence. It isn’t just about the personal risk of getting shot, Galea said. In 2016, he published an analysis that found <a href="https://pubmed.ncbi.nlm.nih.gov/27667339/" target="_blank" rel="noopener">the chances of an American knowing a gun violence victim at some point</a> in their lifetime are nearly 100 percent. There’s a greater social burden than the statistics of direct risk can show. </p>]]></description>
+			<pubDate>Thu, 09 Jun 2022 15:38:00 +0100</pubDate>
+			<guid isPermaLink="false">1654789501170278</guid>
+		</item>
 		<item>
 			<title>How To Host A Congressional Hearing That Actually, Like, Does Something</title>
 			<link>https://fivethirtyeight.com/features/how-to-host-a-congressional-hearing-that-actually-like-does-something/</link>
@@ -313,7 +547,7 @@
 
 
 
-<p data-paragraph="main">On Tuesday, seven states held primary contests — California, Iowa, Mississippi, Montana, New Jersey, New Mexico and South Dakota. In this installment of the FiveThirtyEight Politics podcast, the crew breaks down what the results in those states mean. </p>
+<p data-paragraph="main">On Tuesday, seven states held primary contests — California, Iowa, Mississippi, Montana, New Jersey, New Mexico and South Dakota. In this installment of the <a href="https://fivethirtyeight.com/tag/politics-podcast/" target="_blank" rel="noopener">FiveThirtyEight Politics podcast</a>, the crew breaks down what the results in those states mean. </p>
 
 
 
@@ -321,7 +555,7 @@
 
 
 
-<p data-paragraph="main">Contests in California served as a test of the strength of progressive appeals in a very blue state’s big cities. Progressive San Francisco District Attorney Chesa Boudin was recalled in a landslide, and former Republican Rick Caruso advanced to the Los Angeles mayoral general election alongside Democratic Representative Karen Bass. There were a couple surprises throughout the night, notably in Iowa, where once-rising Democratic star Abby Finkenauer lost the Senate primary to Mike Franken. The question, of course, remains whether a Democrat has any chance of winning a statewide election in a state that has swung decisively to the right.</p>
+<p data-paragraph="main">Contests in California served as a test of the strength of progressive appeals in a very blue state’s big cities. Progressive San Francisco District Attorney Chesa Boudin was recalled in a landslide, and former Republican Rick Caruso advanced to the Los Angeles mayoral general election alongside Democratic Rep. Karen Bass. There were a couple surprises throughout the night, notably in Iowa, where once-rising Democratic star Abby Finkenauer lost the Senate primary to Mike Franken. The question, of course, remains whether a Democrat has any chance of winning a statewide election in a state that has swung decisively to the right.</p>
 
 
 
@@ -2627,408 +2861,6 @@
 <p data-paragraph="main"><em>The FiveThirtyEight Politics podcast is recorded Mondays and Thursdays. Help new listeners discover the show by </em><a href="https://itunes.apple.com/us/podcast/fivethirtyeight-elections/id1077418457?mt=2" target="_blank" rel="noopener"><em>leaving us a rating and review on iTunes</em></a><em>. Have a comment, question or suggestion for “good polling vs. bad polling”? Get in touch by email, </em><a href="https://twitter.com/FiveThirtyEight" target="_blank" rel="noopener"><em>on Twitter</em></a><em> or in the comments.</em></p>]]></description>
 			<pubDate>Tue, 31 May 2022 22:31:00 +0100</pubDate>
 			<guid isPermaLink="false">1654033501660748</guid>
-		</item>
-		<item>
-			<title>Overturning Roe v. Wade Could Make Maternal Mortality Even Worse</title>
-			<link>https://fivethirtyeight.com/features/overturning-roe-v-wade-could-make-maternal-mortality-even-worse/</link>
-						<dc:creator>Maggie Koerth</dc:creator>
-			<dc:creator>Maggie Koerth and Amelia Thomson-DeVeaux</dc:creator>
-			<category>Abortion</category>
-			<category>Maternal Health</category>
-			<description><![CDATA[<div>
-
-			<div>
-
-				<header><div>
-													<p><a href="https://fivethirtyeight.com/tag/abortion/" name="">Abortion</a></p>
-						
-													<h1>Overturning Roe v. Wade Could Make Maternal Mortality Even Worse</h1>
-																			<h2>The U.S. already has a higher rate than other wealthy countries.</h2>
-											</div>
-
-										<div>
-						<div>
-															<p>By <a href="https://fivethirtyeight.com/contributors/maggie-koerth/" title="" rel="author">Maggie Koerth and Amelia Thomson-DeVeaux</a> and <a href="https://fivethirtyeight.com/contributors/amelia-thomson-deveaux/" title="" rel="author">Maggie Koerth and Amelia Thomson-DeVeaux</a></p>
-							
-							<p>
-								<time>
-									May 31, 2022, at 6:00 AM								</time></p>
-
-						</div>
-						<div>
-													</div> 
-					</div>
-					
-				</header><figure><span>
-									<div>
-						<picture><source media="(min-width: 768px)"><source><img alt="MATERNAL-MORTALITY-4×3" src="https://fivethirtyeight.com/wp-content/uploads/2022/05/MATERNAL-MORTALITY-4x3-1.png?w=917" data-sizes="(max-width: 768px) 100vw, (max-width: 1080px) 66vw, 684px" data-src="https://fivethirtyeight.com/wp-content/uploads/2022/05/MATERNAL-MORTALITY-4x3-1.png?w=917" data-srcset="https://fivethirtyeight.com/wp-content/uploads/2022/05/MATERNAL-MORTALITY-4x3-1.png?w=917 1x, https://fivethirtyeight.com/wp-content/uploads/2022/05/MATERNAL-MORTALITY-4x3-1.png?w=1834 2x"></source></source></picture></div>
-
-				
-			</span>
-
-			
-								<figcaption><p>PHOTO ILLUSTRATION BY EMILY SCHERER / GETTY IMAGES</p>
-											</figcaption></figure></div>
-
-			
-		</div>
-
-
-
-
-
-<p data-paragraph="main">Giving birth in the U.S. is <a href="https://www.commonwealthfund.org/publications/issue-briefs/2020/nov/maternal-mortality-maternity-care-us-compared-10-countries" target="_blank" rel="noopener">already far more dangerous</a> than in other wealthy countries. <a href="https://www.politico.com/news/2022/05/02/supreme-court-abortion-draft-opinion-00029473" target="_blank" rel="noopener">Ending the protections of Roe v. Wade</a> — the 1973 decision that established the constitutional right to abortion — could make it even more so.</p>
-
-
-
-<p data-paragraph="main">Multiple studies have found that the states that already have the tightest restrictions on abortion also have the highest rates of maternal and infant mortality. And that correlation stubbornly persists even after researchers account for some of the other differences between states, like racial demographics and health care policy. Some researchers think that abortion restrictions are part of the reason why pregnancy and childbirth are so much more dangerous in the U.S. — even for people who never wanted an abortion to begin with. </p>
-
-
-
-<p data-paragraph="main">This data could just be a statistical red herring. But there are ways abortion restrictions could kill people, both directly and indirectly. And scientists say these correlations point toward dangerous disparities in health care access in the U.S. — not just in terms of who can get an abortion, but also in terms of who can get preventative care while pregnant, or even before.</p>
-
-
-
-<p data-paragraph="main"></p><div><hr><span></span></div>
- 
-
-
-
-<h2><strong>The U.S. is a uniquely dangerous place to have a child</strong></h2>
-
-
-
-<p data-paragraph="main">Carrying an unplanned pregnancy involves shouldering <a href="https://www.jstor.org/stable/pdf/20454434.pdf?casa_token=JanK2hv1ZygAAAAA:OlJRa980BLaCg5Xg2Xqoqi4qWYCczLlhzI971LfW0zVP_El6gLvNHiIMlfrDrGMOUbuW-ZR1f5Ed51bMSVjXqAOdc_BAHWKJA5pPXO7G6Gg4R7my6hYv" target="_blank" rel="noopener">increased risks</a> of <a href="https://link.springer.com/article/10.1007/s00737-022-01225-9" target="_blank" rel="noopener">depression</a>, preterm birth, lower birth weight and other complications. That was definitely true for Brittany Mostiller. In the summer of 2006, this Chicago mom of two young children found herself pregnant, and every circumstance in her life felt like it was conspiring to make raising a third child impossible. Mostiller had recently lost her job and was sharing a two-bedroom apartment with her sister and niece. She was overwhelmed and wanted an abortion, but the cost of the procedure put it out of reach. </p>
-
-
-
-<p data-paragraph="main">So she stayed pregnant. And as the pregnancy progressed, she became more and more unhappy. “I was just severely depressed, and I wasn’t caring for myself,” she said. Her body seemed to rebel against her; she was fending off infection after infection, she said. And then her water broke when she was 32 weeks pregnant — two months before the baby was supposed to be born.</p>
-
-
-
-<p data-paragraph="main">Mostiller’s story illustrates how easily a pregnancy you didn’t plan for can go awry. She and her baby — now a healthy teenager — came out of the experience okay. But not everyone does. Unplanned pregnancies are already <a href="http://hillkm.com/yahoo_site_admin/assets/docs/moaddab_et_al_2018_health_care_disparity_and_pregnancy_related_mortality_in_the_united_states_2005_2014.pdf" target="_blank" rel="noopener">more likely to end in the death of the mother</a>. But the truth is that<em> </em><em>all </em>pregnancies are more dangerous in the U.S. than they are in comparable countries, and those dangers are particularly acute for Black people, like Mostiller. </p>
-
-
-
-<figure><img loading="lazy" width="1422" height="948" src="https://fivethirtyeight.com/wp-content/uploads/2022/05/GettyImages-1240664816-711.jpg" alt='Women hold signs reading "Abortion Saved My Life" and "Abortion is Healthcare" at an abortion rights rally' data-src="https://fivethirtyeight.com/wp-content/uploads/2022/05/GettyImages-1240664816-711.jpg" data-srcset="https://fivethirtyeight.com/wp-content/uploads/2022/05/GettyImages-1240664816-711.jpg?w=712 1x, https://fivethirtyeight.com/wp-content/uploads/2022/05/GettyImages-1240664816-711.jpg?w=1424 2x"><figcaption><p>Montinique Monroe / Getty Images</p></figcaption></figure><p data-paragraph="main"><a href="https://www.cdc.gov/nchs/data/hestat/maternal-mortality/2020/maternal-mortality-rates-2020.htm" target="_blank" rel="noopener">Recently released government data</a> shows that 861 women died from causes related to pregnancy and birth in 2020, up from 754 the year before. <a href="https://www.commonwealthfund.org/publications/issue-briefs/2022/apr/health-and-health-care-women-reproductive-age" target="_blank" rel="noopener">In population-level terms</a>, the maternal mortality rate in 2020 was 23.8 deaths per 100,000 live births in the U.S., compared with 3.2 deaths per 100,000 live births in Germany in 2019 and 7.9 deaths per 100,000 live births in France in 2015. (The maternal mortality rate calculated by the CDC includes deaths from abortion-related complications, but the organization also calculates that subset separately. In 2019, the death rate from abortion in the United States was minuscule: <a href="https://www.cdc.gov/mmwr/volumes/70/ss/ss7009a1.htm" target="_blank" rel="noopener">0.41 deaths per 100,000 legal abortions between 2013 and 2018</a>.) Infants are also at higher risk of dying in the U.S. than in other wealthy countries. In 2020, the infant mortality rate in the U.S. was <a href="https://childmortality.org/data/United%20States%20of%20America" target="_blank" rel="noopener">5.4 deaths per 1,000 live births</a>, compared with <a href="https://childmortality.org/data/Finland" target="_blank" rel="noopener">1.9 infant deaths per 1,000 live births in Finland</a> and <a href="https://childmortality.org/data/spain" target="_blank" rel="noopener">2.7 infant deaths per 1,000 live births in Spain</a>. </p>
-
-
-
-<p data-paragraph="main">Black Americans are nearly <a href="https://www.cdc.gov/nchs/data/hestat/maternal-mortality/2020/maternal-mortality-rates-2020.htm" target="_blank" rel="noopener">three times more likely</a> than their white counterparts to die as a result of maternal complications, and the risk to Black babies is <a href="https://minorityhealth.hhs.gov/omh/browse.aspx?lvl=4&amp;lvlid=23" target="_blank" rel="noopener">much higher as well</a>. These disparities are so large that the states with the highest maternal mortality rates are also often states with large Black populations, and researchers have concluded that social factors like <a href="https://www.propublica.org/article/nothing-protects-black-women-from-dying-in-pregnancy-and-childbirth" target="_blank" rel="noopener">inequality</a> and <a href="https://www.propublica.org/article/how-hospitals-are-failing-black-mothers" target="_blank" rel="noopener">structural racism</a> are playing a huge role in why pregnancy complications kill Americans. </p>
-
-
-
-<p data-paragraph="main">But some researchers think that attempts to restrict abortion access are playing a part too. <a href="https://sph.tulane.edu/news/study-finds-higher-maternal-mortality-rates-states-more-abortion-restrictions" target="_blank" rel="noopener">In a 2021 study</a>, Tulane University researchers categorized states based on the presence or absence of specific types of abortion restrictions and found that total maternal mortality was 51 percent higher in states where only licensed physicians are permitted to perform abortions, and total maternal mortality was 29 percent higher in states with Medicaid restrictions on abortion. </p>
-
-
-
-<p data-paragraph="main"><a href="https://www.sciencedirect.com/science/article/abs/pii/S0010782421000901#" target="_blank" rel="noopener">Another set of researchers</a> looked at changes in maternal mortality from 1995 to 2017, and similar to the others, they found that states with abortion restrictions had higher rates of maternal mortality than states that were either neutral toward abortion or protected abortion rights. </p>
-
-
-
-<figure><img loading="lazy" width="1422" height="948" src="https://fivethirtyeight.com/wp-content/uploads/2022/05/GettyImages-1240239810-711.jpg" alt="A woman stands at the check-in window of the Hope Medical Group for Women in Shreveport, Louisiana" data-src="https://fivethirtyeight.com/wp-content/uploads/2022/05/GettyImages-1240239810-711.jpg" data-srcset="https://fivethirtyeight.com/wp-content/uploads/2022/05/GettyImages-1240239810-711.jpg?w=712 1x, https://fivethirtyeight.com/wp-content/uploads/2022/05/GettyImages-1240239810-711.jpg?w=1424 2x"><figcaption>Overturning Roe v. Wade will lead to the closure of many abortion clinics across the country. Fewer clinics and less abortion access may, in turn, lead to higher maternal mortality rates in the U.S. <p>FRANCOIS PICARD / AFP via Getty Images</p></figcaption></figure><p data-paragraph="main"><a href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7312072/" target="_blank" rel="noopener">A third study found</a> that infants living in states with more abortion restrictions were more likely to die — which wasn’t really surprising, given the <a href="https://pubmed.ncbi.nlm.nih.gov/30389101/" target="_blank" rel="noopener">close link</a> between the health of mothers and infants.</p>
-
-
-
-<p data-paragraph="main">Of course, a pattern is not an explanation. It’s impossible to demonstrate conclusively that tightening abortion restrictions causes an increase in maternal or infant deaths, researchers told us. That’s because the way science establishes causality is through experiments that simply can’t happen in real life. “That would be the gold standard of a randomized, controlled trial,” said <a href="https://www.bc.edu/bc-web/schools/ssw/faculty/faculty-directory/summe-sherburne-hawkins.html" target="_blank" rel="noopener">Summer Hawkins</a>, a professor of social epidemiology at Boston College. “You’d randomize states to implement certain policies or to close Planned Parenthood clinics … and of course that’s never going to happen.” </p>
-
-
-
-<p data-paragraph="main">And there are plenty of reasons why maternal mortality might be higher in those states that aren’t specifically connected to abortion policy. For one thing, many states with strong abortion restrictions <a href="https://www.commonwealthfund.org/blog/2022/public-health-paradox-states-abortion-laws-maternal-child-health-outcomes" target="_blank" rel="noopener">didn’t expand Medicaid</a>, which experts told us can lead to generally worse health outcomes because many direct causes of maternal mortality <a href="https://ihpi.umich.edu/news/increasing-rates-chronic-conditions-putting-more-moms-babies-risk" target="_blank" rel="noopener">begin as long-term chronic health problems</a> that go untreated or undiagnosed for years. <a href="https://www.usnews.com/news/politics/articles/2022-04-07/social-programs-weak-in-many-states-with-tough-abortion-laws" target="_blank" rel="noopener">Poverty is also high</a> in many of those states, which experts said can have a similar impact. <a href="https://chicago.medicine.uic.edu/departments/academic-departments/obstetrics-and-gynecology/obgyn-faculty/stacie-geller/" target="_blank" rel="noopener">Stacie Geller</a>, a professor of obstetrics and gynecology at the University of Illinois College of Medicine who studies maternal death, pointed out that health care providers can address only some of the factors that lead to maternal mortality — and their ability to help is often limited to pregnancy. “​​You can’t take a woman with a lifetime of poor health, poor social surroundings, and get her healthy in nine months of pregnancy,” she said. “It’s just not possible.”</p>
-
-
-<a href="https://fivethirtyeight.com/wp-json/wp/v2/espn_verticals/Michael%20B.%20Thomas%20/%20Getty%20Images" target="_blank">
-<figure><img loading="lazy" width="1422" height="948" src="https://fivethirtyeight.com/wp-content/uploads/2022/05/GettyImages-1146785361-711.jpg" alt="Planned Parenthood Reproductive Health Services Center in St Louis, Missouri" data-src="https://fivethirtyeight.com/wp-content/uploads/2022/05/GettyImages-1146785361-711.jpg" data-srcset="https://fivethirtyeight.com/wp-content/uploads/2022/05/GettyImages-1146785361-711.jpg?w=712 1x, https://fivethirtyeight.com/wp-content/uploads/2022/05/GettyImages-1146785361-711.jpg?w=1424 2x"><figcaption>The closure of clinics like Planned Parenthood that offer a range of non-abortion-related services can put people at a higher risk for all kinds of illnesses that can later cause pregnancy complications.</figcaption></figure></a>
-
-
-<p data-paragraph="main">But researchers have accounted for some of those differences in their studies — and the associations between abortion restriction and maternal mortality remain. Hawkins’s research, for example, <a href="https://www.sciencedirect.com/science/article/abs/pii/S0749379719304192" target="_blank" rel="noopener">statistically controlled for whether states expanded Medicaid</a>. The study found that reducing Planned Parenthood clinics by 20 percent was associated with a maternal mortality increase of 8 percent, while states that implemented abortion restrictions based on gestational age saw a 38 percent increase in maternal mortality. Likewise, the study that tracked changes in maternal mortality across states between 1995 and 2017 got around the problem of distinguishing correlation from causation by focusing on changes in maternal mortality that happened after restrictive abortion policies were implemented. During that same time period, obesity and poverty rates didn’t change significantly, said <a href="https://surgery.wustl.edu/people/mark-hoofnagle/" target="_blank" rel="noopener">Mark Hoofnagle</a>, a surgeon at Washington University in St. Louis and a co-author of the study. </p>
-
-
-
-<p data-paragraph="main">All told, you end up with a collection of evidence that points toward the conclusion that abortion restrictions and maternal mortality are somehow linked. And that makes sense because we already knew that social forces could affect maternal mortality. But what’s behind that link — specifically, <em>how</em> abortion restrictions could cause more women to die — is harder to pin down. </p>
-
-
-
-<div><hr><span></span></div>
-
-
-
-
-<h2><strong>How could abortion restrictions lead to higher maternal mortality?</strong></h2>
-
-
-
-<p data-paragraph="main"><a href="https://www.colorado.edu/sociology/our-people/amanda-stevenson" target="_blank" rel="noopener">Amanda Stevenson</a>, a professor of sociology at the University of Colorado Boulder, <a href="https://read.dukeupress.edu/demography/article/58/6/2019/265968/The-Pregnancy-Related-Mortality-Impact-of-a-Total" target="_blank" rel="noopener">estimated</a> late last year that a total ban on abortion would result in a 7 percent increase in pregnancy-related deaths in first year of the ban and a 21 percent increase in pregnancy-related deaths in the years that followed. Those estimates are probably high, she told us, because overturning Roe wouldn’t result in a nationwide ban — but she thinks more maternal deaths are still likely to occur. </p>
-
-
-
-<p data-paragraph="main">But supporters of abortion restrictions frame the laws as life-<em>saving</em> measures. Monique Wubbenhorst, a senior researcher and policy fellow at Notre Dame University’s de Nicola Center for Ethics and Culture who is anti-abortion, said she saw no clear mechanism for how diminished access to abortion could cause an increase in deaths. Instead, she suspected that the correlations were statistical ghosts — perhaps hinting at some third factor connected to both. That’s certainly a possibility. Maternal deaths, despite being more common in the U.S. than in other wealthy nations, are still very rare. And that small sample size means that researchers who try to draw broader conclusions using the data can run into problems — it’s hard to look at what’s going on within demographic subgroups, for instance, or examine what’s happening within specific states. </p>
-
-
-
-<p data-paragraph="main">Other researchers do see potential mechanisms, though. The simplest explanation is just that giving birth is statistically more dangerous than having an abortion. If the states with the highest mortality rates are the also the ones banning abortion that means more births — and also more deaths.  </p>
-
-
-
-<figure><img loading="lazy" width="1422" height="948" src="https://fivethirtyeight.com/wp-content/uploads/2022/05/GettyImages-849031566-711.jpg" alt="Demonstrators hold signs in memory of Savita Halappanavar at a vigil in Dublin" data-src="https://fivethirtyeight.com/wp-content/uploads/2022/05/GettyImages-849031566-711.jpg" data-srcset="https://fivethirtyeight.com/wp-content/uploads/2022/05/GettyImages-849031566-711.jpg?w=712 1x, https://fivethirtyeight.com/wp-content/uploads/2022/05/GettyImages-849031566-711.jpg?w=1424 2x"><figcaption>In 2012, doctors in Ireland refused an abortion to Savita Halappanavar, and she developed an infection that killed her. The case ultimately led to the repeal of many abortion restrictions in Ireland. <p>Julien Behal / PA Images via Getty Images</p></figcaption></figure><p data-paragraph="main">Deaths could also increase because doctors in states that ban abortion may be unsure about when they can legally end a pregnancy in a person who is miscarrying. For example, in 2012, doctors in Ireland refused an abortion to Savita Halappanavar <a href="https://www.bbc.com/news/uk-northern-ireland-20321741" target="_blank" rel="noopener">because the baby she was miscarrying still had a fetal heartbeat</a>. In the time it took for cardiac activity in the fetus to stop — and the doctors to then be confident an abortion would conform with the country’s laws — <a href="https://www.nytimes.com/2018/05/27/world/europe/savita-halappanavar-ireland-abortion.html" target="_blank" rel="noopener">Halappanavar developed the infection</a> that killed her. The case ultimately led to the repeal of many abortion restrictions in Ireland.  </p>
-
-
-
-<p data-paragraph="main">In a similar way, abortion restrictions could lead to more infants dying in birth or immediately afterward, said <a href="https://sph.tulane.edu/sbps/maeve-wallace" target="_blank" rel="noopener">Maeve Wallace</a>, a professor of reproductive epidemiology at Tulane University. She is part of <a href="https://www.sciencedirect.com/science/article/abs/pii/S0749379721003536" target="_blank" rel="noopener">a team that found</a> a correlation between the implementation of gestational age restrictions on abortion and an increase in infant mortality due to congenital abnormalities. During a pregnancy, doctors run tests to spot such abnormalities, but some tests can’t be performed until <a href="https://www.urmc.rochester.edu/encyclopedia/content.aspx?contenttypeid=90&amp;contentid=P08956" target="_blank" rel="noopener">the middle of the second trimester</a>, which is very close to when abortion <a href="https://projects.fivethirtyeight.com/abortion-restrictions-by-state/" target="_blank" rel="noopener">becomes illegal in some restrictive states</a>. “You’re getting these test results and you’re beyond your gestational age limit to abort this fetus that might not even live an hour outside the womb because of some severe anomaly,” Wallace said. </p>
-
-
-
-<p data-paragraph="main">But the connection between abortion restrictions and death could also be more complicated than these examples — tied to how additional support for mothers and families isn’t usually addressed in step with the passage of new restrictions. In fact, efforts to reduce abortion access have often resulted in the <a href="https://www.npr.org/2016/01/28/464728393/texas-tries-to-repair-damage-wrought-upon-family-planning-clinics" target="_blank" rel="noopener">closure of clinics</a> like Planned Parenthood that offer a <a href="https://www.nbcnews.com/news/latino/nearly-900-women-s-health-clinics-have-lost-federal-funding-n1069591" target="_blank" rel="noopener">range of non-abortion-related services</a>. Losing access to preventative health care puts people at a higher risk for all kinds of illnesses that can later cause pregnancy complications. And this effect means the impacts of abortion restriction can overlap and build on the social inequalities that are already harming Black people and babies.</p>
-
-
-
-<p data-paragraph="main">For example, states like Georgia and Louisiana, which have <a href="https://www.politico.com/news/2022/05/19/why-louisianas-maternal-mortality-rates-are-so-high-00033832" target="_blank" rel="noopener">consistently high rates</a> of <a href="https://reproductiverights.org/wp-content/uploads/2020/12/USPA-MHRI-GA-FS-Final-ForPrint-Pages.pdf" target="_blank" rel="noopener">maternal mortality,</a> also have disproportionately high numbers of those deaths happening in Black people. The deaths often come from conditions like <a href="https://www.rutgers.edu/news/maternal-deaths-caused-chronic-hypertension-continue-rise#:~:text=Chronic%20hypertension%20is%20contributing%20substantially,a%20result%20of%20the%20condition." target="_blank" rel="noopener">chronic hypertension</a>, <a href="https://www.ahajournals.org/doi/10.1161/CIRCRESAHA.118.313276#:~:text=With%20the%20greatest%20morbidity%20and,fetal%20deaths%20worldwide%20every%20year." target="_blank" rel="noopener">preeclampsia</a> and <a href="https://emedicine.medscape.com/article/275038-overview" target="_blank" rel="noopener">hemorrhage</a>. </p>
-
-
-
-<p data-paragraph="main">Black Americans have a harder time accessing health care that could prevent or treat those conditions, and they have a harder time getting proper treatment even when they can access it. “​​Just in my own social circles and network, I can throw a rock and hit somebody who also had a traumatic birth experience, who also experienced a loss or a morbidity,” said Nakeenya Wilson, a community advocate on the Texas’s <a href="https://nam04.safelinks.protection.outlook.com/?url=https%3A%2F%2Fwww.dshs.texas.gov%2Fmch%2FMaternal-Mortality-and-Morbidity-Review-Committee.aspx&amp;data=05%7C01%7CAmelia.Thomson-DeVeaux%40abc.com%7Cd00b1f1f3c6d4ae3874608da38269047%7C56b731a8a2ac4c32bf6b616810e913c6%7C1%7C0%7C637884035638587377%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C3000%7C%7C%7C&amp;sdata=3KWmyoTFtjK2DQbgcXlsR5nFChEK3UbupFU8Cr5G%2BEU%3D&amp;reserved=0" target="_blank" rel="noopener">Maternal Mortality and Morbidity Review Committee</a>.</p>
-
-
-
-<p data-paragraph="main">Black people, and especially those who have low incomes and live in rural areas, have precious little access to health care before, during or after they become pregnant, said <a href="https://morehousehealthcare.com/physicians/obgyn/sutton-madeline.html" target="_blank" rel="noopener">Madeline Sutton</a>, a professor of obstetrics and gynecology at Morehouse College whose work focuses on health care inequalities for women. When people go without checkups and prenatal care because they can’t afford it, can’t take time off work or live hours from the nearest clinic, their risks go up. </p>
-
-
-
-<figure><img loading="lazy" width="1422" height="948" src="https://fivethirtyeight.com/wp-content/uploads/2022/05/GettyImages-1157020324-711.jpg" alt="Boxes of exam gloves hang on the wall next to a picture of Maya Angelou in an examination room at Whole Woman's Health" data-src="https://fivethirtyeight.com/wp-content/uploads/2022/05/GettyImages-1157020324-711.jpg" data-srcset="https://fivethirtyeight.com/wp-content/uploads/2022/05/GettyImages-1157020324-711.jpg?w=712 1x, https://fivethirtyeight.com/wp-content/uploads/2022/05/GettyImages-1157020324-711.jpg?w=1424 2x"><figcaption>Black people, and especially those who have low incomes and live in rural areas, have a harder time getting quality health care before, during and after they become pregnant. <p>Scott Olson / Getty Images</p></figcaption></figure><p data-paragraph="main">Abortion restrictions aren’t the only thing making it hard for pregnant people in states like Georgia to get preventative care — hospital closures in rural areas have been a huge factor, Sutton said — but reducing access to clinics like Planned Parenthood is just pulling one more brick out of an a wall that was already listing. What’s more, while anti-abortion Sen. Bill Cassidy of Louisiana has co-sponsored federal bills aimed at studying racial disparities in health care and promoting remote monitoring of pregnant Medicaid patients’ blood pressure and other health metrics, state legislatures that remove the supports offered by abortion clinics have not generally made an effort to shore up the wall in other ways. </p>
-
-
-
-<p data-paragraph="main">“It’s almost like the abortion hostility is a signal for a general hostility towards interventions on women’s health and prenatal care,” Hoofnagle said. All the states in his study of maternal mortality had similarly low rates of maternal mortality in the 1990s. And all saw an increase in deaths over the next 20 years because the way maternal mortality is measured improved during that time, he said. But some states chose to put a legislative priority on preventing future deaths. California, for example, took steps to standardize blood-transfusion protocols statewide, ensuring that even small hospitals would have skills and tools to deal with hemorrhage in childbirth, and that obstetricians were following the latest, evidence-based guidelines for how transfusions should be done. The efforts <a href="https://www.sciencedirect.com/science/article/abs/pii/S0002937817301242" target="_blank" rel="noopener">reduced severe maternal morbidity in patients with hemorrhages</a> by nearly 29 percent. </p>
-
-
-
-<p data-paragraph="main">All of the experts we spoke with believe maternal mortality rates are a huge problem, and each stressed the need to improve maternal health care. Part of the challenge, though, is that abortion is such a fraught issue and it’s hard to get people on the same page about what the data is saying. Researchers who are very concerned about threats to abortion rights will probably be more inclined to see a connection between abortion restrictions and maternal deaths than researchers who oppose abortion rights, <a href="https://www.supremecourt.gov/DocketPDF/19/19-1392/185351/20210729163513970_19-1392%20Amicus%20Brief%20in%20Support%20of%20Petitioners.pdf" target="_blank" rel="noopener">like Wubbenhorst</a>. She, for instance, questioned whether legislators were best suited to help reduce maternal deaths, as opposed to hospitals. Meanwhile, other experts, like Geller, expressed anger that anti-abortion lawmakers were focusing so much on restrictions and so little on the pregnancies that the restrictions would cause. </p>
-
-
-
-<p data-paragraph="main">Most experts we spoke with, though, said there needs to be more attention on the health of women who want abortions and won’t be able to get them. Wilson, the maternal-health advocate in Texas, said that she tries to stay out of the abortion debate in general, but she’s worried that, as lawmakers race to ban abortion, those women and their babies are being left out of the conversation. “​​No [woman] should ever have to face death in order to bring life into this world,” Wilson said. “If, in fact, we’ve taken the position as a country, as a state, that we are going to protect the unborn baby, where is the pipeline and the follow-through … to ensure that that child and family unit has the resources that they need in order to not just survive, but to thrive?”</p>
-
-
-
-<p data-paragraph="main"><em>Additional reporting by Katie Kindelan and Mary Kekatos.</em> <em>Additional statistical analysis by Jeffrey Howard, a professor of public health at University of Texas at San Antonio</em>.</p>]]></description>
-			<pubDate>Tue, 31 May 2022 11:00:00 +0100</pubDate>
-			<guid isPermaLink="false">1653993001684199</guid>
-		</item>
-		<item>
-			<title>Canceling Student Debt Could Help Close The Wealth Gap Between White And Black Americans</title>
-			<link>https://fivethirtyeight.com/features/canceling-student-debt-could-help-close-the-wealth-gap-between-white-and-black-americans/</link>
-						<dc:creator>Santul Nerkar</dc:creator>
-			<dc:creator>Santul Nerkar</dc:creator>
-			<category>Joe Biden</category>
-			<category>Racial Disparities</category>
-			<category>Student Debt</category>
-			<category>The Biden Administration</category>
-			<description><![CDATA[<div>
-
-			<div>
-
-				<header><div>
-													<p><a href="https://fivethirtyeight.com/tag/student-debt/" name="">Student Debt</a></p>
-						
-													<h1>Canceling Student Debt Could Help Close The Wealth Gap Between White And Black Americans</h1>
-																	</div>
-
-										<div>
-						<div>
-															<p>By <a href="https://fivethirtyeight.com/contributors/santul-nerkar/" title="" rel="author">Santul Nerkar</a></p>
-							
-							<p>
-								<time>
-									May 31, 2022, at 6:00 AM								</time></p>
-
-						</div>
-						<div>
-													</div> 
-					</div>
-					
-				</header><figure><span>
-									<div>
-						<picture><source media="(min-width: 768px)"><source><img alt='Student loan borrowers gather near the White House, holding signs that read "Cancel student debt."' src="https://fivethirtyeight.com/wp-content/uploads/2022/05/GettyImages-1396873268-4x3-1.jpg?w=916" data-sizes="(max-width: 768px) 100vw, (max-width: 1080px) 66vw, 684px" data-src="https://fivethirtyeight.com/wp-content/uploads/2022/05/GettyImages-1396873268-4x3-1.jpg?w=916" data-srcset="https://fivethirtyeight.com/wp-content/uploads/2022/05/GettyImages-1396873268-4x3-1.jpg?w=916 1x, https://fivethirtyeight.com/wp-content/uploads/2022/05/GettyImages-1396873268-4x3-1.jpg?w=1832 2x"></source></source></picture></div>
-
-				
-			</span>
-
-			
-								<figcaption>
-						Student debt exacerbates the racial wealth gap, starting from the moment that newly christened graduates toss their caps in the air.													<p>Paul Morigi / We, The 45 Million / Getty Images</p>
-											</figcaption></figure></div>
-
-			
-		</div>
-
-
-
-
-
-<p data-paragraph="main">America’s racial wealth gap is well-documented, even if many <a href="https://fivethirtyeight.com/features/why-many-americans-dont-see-the-racial-wealth-gap/" target="_blank" rel="noopener">continue to underestimate its existence</a>. Black Americans’ net worth is, on average, less <a href="https://www.federalreserve.gov/econres/notes/feds-notes/disparities-in-wealth-by-race-and-ethnicity-in-the-2019-survey-of-consumer-finances-20200928.htm" target="_blank" rel="noopener">than 15 percent of white Americans’</a>, the legacy of <a href="https://www.theatlantic.com/politics/archive/2016/12/how-barack-obama-failed-black-americans/511358/" target="_blank" rel="noopener">centuries of systemic anti-Black racism</a>. Moreover, both political parties have failed time and again to <a href="https://fivethirtyeight.com/features/the-catch-22-facing-black-voters-at-the-ballot-box/" target="_blank" rel="noopener">address the inequities facing Black Americans</a>.</p>
-
-
-
-<p data-paragraph="main">But what if I told you that an effective way to start closing this gap was within reach? According to the scholars I talked with who study this issue, <a href="https://www.cnbc.com/2021/02/22/student-debt-forgiveness-debate-highlights-racial-gap-in-what-borrowers-owe.html" target="_blank" rel="noopener">canceling student debt</a> is one of the best ways to start to close America’s racial wealth gap, and although it has its risks, it’s something that President Biden can do on his own <a href="https://www.cnn.com/2022/04/28/politics/student-loan-debt-joe-biden/index.html" target="_blank" rel="noopener">by executive order</a>.</p>
-
-
-
-<p data-paragraph="main">“Higher education was supposed to be the engine for some to secure financial security and stability,” said <a href="https://publicpolicy.unc.edu/people/fenaba-r-addo/" target="_blank" rel="noopener">Fenaba Addo</a>, a professor of public policy at the University of North Carolina, Chapel Hill, who has researched the links between debt and wealth inequality. But she told me that just hasn’t happened. “The realized gains have not been distributed equally, and student debt has contributed to that,” said Addo.</p>
-
-
-
-<p data-paragraph="main">Today, the typical graduating college student <a href="https://educationdata.org/average-student-loan-debt-by-year" target="_blank" rel="noopener">owes about $30,000 in student debt</a>, about four times more than they did 50 years ago. But that topline figure masks some real racial disparities. Consider that because Black students tend to come from poorer households than their white counterparts, they are more likely to take out loans — and <a href="https://www.brookings.edu/research/student-loans-the-racial-wealth-divide-and-why-we-need-full-student-debt-cancellation/" target="_blank" rel="noopener">take out larger loans</a>. Moreover, even white students who end up borrowing money for college <a href="https://research.stlouisfed.org/publications/review/2017/02/15/family-achievements-how-a-college-degree-accumulates-wealth-for-whites-and-not-for-blacks/" target="_blank" rel="noopener">have, on average, more preexisting family wealth</a> at their disposal to pay down their debts. </p>
-
-
-
-<p data-paragraph="main">In other words, student debt exacerbates the racial wealth gap, starting from the moment that newly christened graduates toss their caps in the air.<a data-footnote-id="20" href="https://fivethirtyeight.com/wp-json/wp/v2/espn_verticals/398#fn-20" data-footnote-content='&lt;p&gt;&lt;p&gt;And, of course, this doesn’t even count the people who don’t finish college and are &lt;a href="https://www.cnbc.com/2021/07/23/millions-of-student-loan-borrowers-dont-have-a-diploma-to-show-for-it.html" target="_blank" rel="noopener"&gt;still saddled with student debt&lt;/a&gt;.&lt;/p&gt;
-&lt;/p&gt;'><sup>20</sup></a></p>
-
-
-<div>
-<section><header><h5>Black students borrow — and owe — more than white students</h5>
- <p>Share of 2015-16 bachelor’s degree recipients who took out federal loans for postsecondary education, including the average amount borrowed and the share of the amount owed versus borrowed 12 months after bachelor’s degree was completed, by race</p>
- </header><table data-carpenter-slug="nerkar.student-debt-gap.1"><thead><tr><th colspan="1">Race/ethnicity</th>
- <th colspan="1">Share who borrowed</th>
- <th colspan="1">Amt. borrowed</th>
- <th colspan="1">Owed/borrowed</th>
- </tr></thead><tbody><tr><td>Black</td>
- <td data-suffix="%" data-suffixpadding="1.1em">86.3%</td>
- <td data-prefix="$">$39,500</td>
- <td data-suffix="%" data-suffixpadding="1.1em">103.0%</td>
- </tr><tr><td>Hispanic</td>
- <td>70.1</td>
- <td>28,200</td>
- <td>94.6</td>
- </tr><tr><td>White</td>
- <td>67.7</td>
- <td>29,900</td>
- <td>89.3</td>
- </tr><tr><td>Asian</td>
- <td>43.9</td>
- <td>26,500</td>
- <td>81.4</td>
- </tr></tbody></table><footer><p>Sources: U.S. Department of Education, National Center for Education Statistics</p>
- </footer></section></div>
-
-
-<p data-paragraph="main">And the further removed from college young Americans become, the <a href="https://www.brookings.edu/wp-content/uploads/2016/10/es_20161020_scott-clayton_evidence_speaks.pdf" target="_blank" rel="noopener">more this disparity grows</a> — more than triple, according to a 2016 report from the Brookings Institution — sapping Black Americans’ net worth even more. A <a href="https://journals.sagepub.com/doi/abs/10.1177/2332649218790989" target="_blank" rel="noopener">2018 paper</a> from Addo and sociologist Jason Houle found, for example, that if younger Black adults held the same level of debt as their white peers, the racial wealth gap in young adulthood would be reduced by about 10 percent. Addo and Houle also found that student debt’s contribution to the racial wealth gap increased with age, from 13 percent at 25 to 23 percent at 30. </p>
-
-
-
-<p data-paragraph="main">Crucially, too, the racial gap in student debt levels has only grown in recent years. A <a href="https://www.researchgate.net/profile/Louise-Seamster/publication/315114639_Predatory_Inclusion_and_Education_Debt_Rethinking_the_Racial_Wealth_Gap/links/5bb5e20d45851574f7f86341/Predatory-Inclusion-and-Education-Debt-Rethinking-the-Racial-Wealth-Gap.pdf" target="_blank" rel="noopener">2017 paper</a> found that the average student debt for Black households — and number of Black households holding any student debt — increased significantly from 2001 to 2013. The authors found, further, that this growing divide was not because of more Black Americans attending college, but due to disproportionate exploitation by predatory lenders. </p>
-
-
-
-<p data-paragraph="main"><a href="https://clas.uiowa.edu/sociology/people/louise-seamster" target="_blank" rel="noopener">Louise Seamster</a>, a professor of sociology, criminology and African American studies at the University of Iowa and a co-author of the paper, said the fact that Black students tend to carry far more student debt contradicts the idea that higher education is a means to mobility. “If the racial wealth gap between Black and white Americans is 10-to-1, at the median for all families, when we just look at the racial wealth gap between Black and white borrowers, it’s actually twice as bad,” Seamster said.</p>
-
-
-
-<p data-paragraph="main">This is the context in which canceling student debt has <a href="https://www.washingtonpost.com/politics/2022/05/15/biden-student-loan-forgive-cancel/" target="_blank" rel="noopener">entered the political discourse</a>. Progressive Democrats have made the case that forgiving student loans would ease the burden <a href="https://www.warren.senate.gov/newsroom/press-releases/warren-schumer-jayapal-pressley-omar-porter-urge-president-biden-to-deliver-on-promise-to-cancel-student-debt" target="_blank" rel="noopener">on millions of families</a>, while <a href="https://rollcall.com/2022/05/05/senators-argue-over-who-benefits-from-student-debt-cancellation/" target="_blank" rel="noopener">Republicans</a> (and some Democrats) have argued that it would disproportionately <a href="https://www.cbsnews.com/news/student-loans-biden-college-debt/" target="_blank" rel="noopener">benefit the wealthiest Americans</a>. </p>
-
-
-
-<p data-paragraph="main">But the scholars I spoke to pushed back against the idea that canceling student debt would be regressive. <a href="https://www.ucmerced.edu/content/charlie-eaton" target="_blank" rel="noopener">Charlie Eaton</a>, a professor of economic sociology at the University of California, Merced, said that such analyses often look at income, not wealth, and discount racial disparities in borrowing and the fact that many college students attend college without borrowing money to begin with.</p>
-
-
-
-<p data-paragraph="main">Eaton’s <a href="https://rooseveltinstitute.org/wp-content/uploads/2021/06/RI_StudentDebtCancellation_IssueBrief_202106.pdf" target="_blank" rel="noopener">own research</a> has found that canceling $50,000 of student debt — as some Democratic senators have proposed — would not benefit the wealthiest Americans. Such a cancelation, Eaton and his co-authors found, would disproportionately benefit poorer Black households — while giving little relief to those at the top of the wealth distribution:<a data-footnote-id="21" href="https://fivethirtyeight.com/wp-json/wp/v2/espn_verticals/398#fn-21" data-footnote-content="&lt;p&gt;&lt;p&gt;Somewhat paradoxically, forgiving $50,000 of student debt would also strongly benefit the highest-earning&lt;em&gt; &lt;/em&gt;Black Americans. But according to Addo that’s in large part because even higher-income Black households tend to hold relatively little household wealth — and thus finance college through taking out loans.&lt;/p&gt;
-&lt;/p&gt;"><sup>21</sup></a> </p>
-
-
-
-<figure><img loading="lazy" width="1422" height="1812" src="https://fivethirtyeight.com/wp-content/uploads/2022/05/nerkar.STUDENT-DEBT-GAP.png" alt="" data-src="https://fivethirtyeight.com/wp-content/uploads/2022/05/nerkar.STUDENT-DEBT-GAP.png" data-srcset="https://fivethirtyeight.com/wp-content/uploads/2022/05/nerkar.STUDENT-DEBT-GAP.png?w=712 1x, https://fivethirtyeight.com/wp-content/uploads/2022/05/nerkar.STUDENT-DEBT-GAP.png?w=1424 2x"></figure><p data-paragraph="main">The <a href="https://journals.sagepub.com/doi/abs/10.1177/23294965211024671" target="_blank" rel="noopener">amount of debt canceled matters</a> a lot, though, and it’s unlikely that what experts say is an optimal number will be forgiven. Biden has said, for instance, that he <a href="https://www.cnbc.com/2022/04/28/biden-says-hes-not-considering-50000-in-student-loan-forgiveness-.html" target="_blank" rel="noopener">won’t consider canceling $50,000</a> and has recently indicated that $10,000 will be forgiven. But canceling $10,000 wouldn’t do much to help, according to <a href="https://www.brooklyn.cuny.edu/web/academics/faculty/faculty_profile.jsp?faculty=593" target="_blank" rel="noopener">Alan Aja</a>, a professor of Puerto Rican and Latino studies at Brooklyn College, because of the racialization of student debt.</p>
-
-
-
-<p data-paragraph="main">“Twenty years into repayment, the median black borrowers owe 95 percent of what they borrowed, while the median white person has almost fully repaid their loan,” Aja said. “So if you throw $10,000 cancellation into that figure, it’s a drop in the bucket.”</p>
-
-
-
-<p data-paragraph="main">“We tell Black kids, if you go to college, you work hard, you get a good paying job, you’ll have the American dream,” said <a href="https://law.emory.edu/faculty/faculty-profiles/brown-profile.html" target="_blank" rel="noopener">Dorothy Brown</a>, a law professor at Emory University who researches the racialization of the U.S. tax system. But this just isn’t what’s happened. Instead, Black Americans are disproportionately saddled with crippling student loan debt.</p>
-
-
-
-<p data-paragraph="main">The existing solutions to this problem haven’t worked out for Black Americans, either. Take <a href="https://studentaid.gov/manage-loans/repayment/plans/income-driven" target="_blank" rel="noopener">income-driven repayment</a>, a federal program that allows lower-income borrowers to pay a reduced share of their loans every month — with the promise of the remaining principal being forgiven after a certain number of years. This sounds promising, but because Black Americans have lower levels of wealth than white Americans at the same — and even lower — levels of income, this program is still regressive, not to mention <a href="https://www.vox.com/2014/10/14/6970129/student-loan-repayment-plans-bob-shireman-ibr" target="_blank" rel="noopener">complicated</a>. Moreover, a <a href="https://www.nclc.org/uncategorized/issue-brief-education-departments-decades-old-debt-trap-how-the-mismanagement-of-income-driven-repayment-locked-millions-in-debt.html" target="_blank" rel="noopener">2021 report</a> found that just 32 people had <em>ever</em> had their student loan balance canceled through this program.</p>
-
-
-
-<p data-paragraph="main">Add in the fact that Black Americans who graduate from college still face a <a href="https://www.nber.org/system/files/working_papers/w9873/w9873.pdf" target="_blank" rel="noopener">labor market</a> stacked against them — which also contributes to the racial wealth gap — and it’s clear to see how higher education often leaves Black Americans behind, rather than offering them a true path to mobility.</p>
-
-
-
-<p data-paragraph="main">Interestingly, canceling student debt is at least somewhat politically feasible. Polls generally show Americans support student debt forgiveness much more than they do other programs that would help close the racial wealth gap, like reparations:</p>
-
-
-<div>
-<section><header><h5>Canceling student debt is more popular than paying reparations</h5>
- <p>Share of respondents who support or disagree with forgiving at least some student debt and paying reparations</p>
- </header><table data-carpenter-slug="nerkar.student-debt-gap.2"><thead><tr><th colspan="1">Policy</th>
- <th colspan="1">Pollster</th>
- <th colspan="1">month/year<br>of poll</th>
- <th colspan="1">Support</th>
- <th colspan="1">Against</th>
- <th colspan="1">Diff.</th>
- </tr></thead><tbody><tr><td></td>
- <td>Data for Progress</td>
- <td>Nov. 2020</td>
- <td data-suffix="%" data-suffixpadding="1.1em">53%</td>
- <td data-suffix="%" data-suffixpadding="1.1em">40%</td>
- <td data-prefix="+">+13</td>
- </tr><tr><td>Student debt forgiveness</td>
- <td>Grinnell College</td>
- <td>March 2021</td>
- <td>66</td>
- <td>29</td>
- <td>37</td>
- </tr><tr><td></td>
- <td>Morning Consult</td>
- <td>Dec. 2021</td>
- <td>62</td>
- <td>28</td>
- <td>34</td>
- </tr><tr><td></td>
- <td>Survey Monkey</td>
- <td>Jan. 2022</td>
- <td>69</td>
- <td>27</td>
- <td>42</td>
- </tr><tr><td></td>
- <td>Morning Consult/Politico</td>
- <td>April 2022</td>
- <td>64</td>
- <td>29</td>
- <td>35</td>
- </tr><tr><td>Reparations</td>
- <td>ABC News/Ipsos</td>
- <td>June 2020</td>
- <td>26</td>
- <td>73</td>
- <td>-47</td>
- </tr><tr><td></td>
- <td>Washington Post/ABC News</td>
- <td>July 2020</td>
- <td>31</td>
- <td>63</td>
- <td>-32</td>
- </tr><tr><td></td>
- <td>UMass</td>
- <td>Dec. 2021</td>
- <td>38</td>
- <td>61</td>
- <td>-23</td>
- </tr></tbody></table><footer><p>Each poll used slightly different question wording; respondents were counted in favor if they said they somewhat or strongly supported the policy or said it should be enacted. The Data for Progress question on debt forgiveness asked specifically about a proposal to forgive $50,000 in student debt for every borrower who makes less than $125,000 a year.</p>
- <p></p>
- </footer></section></div>
-
-
-<p data-paragraph="main">It’s possible, too, that given Biden’s lagging support among <a href="https://www.npr.org/2022/05/01/1095466871/biden-polls-democrats-gen-z-midterms" target="_blank" rel="noopener">younger voters</a> and <a href="https://fivethirtyeight.com/features/ketanji-brown-jacksons-nomination-may-not-be-enough-to-turn-out-black-voters-for-democrats/" target="_blank" rel="noopener">Black voters</a> — <a href="https://fortune.com/2022/04/27/young-americans-want-government-take-action-student-debt-harvard-poll/" target="_blank" rel="noopener">both</a> of <a href="https://www.forbes.com/sites/adamminsky/2021/02/16/poll-huge-majority-of-black-voters-support-cancelling-student-debt/?sh=8268ca84c4da" target="_blank" rel="noopener">whom</a> overwhelmingly support at least some student debt forgiveness — he could see a boost in his popularity, especially among Democrats, if he cancels student debt. But then again, the <a href="https://fivethirtyeight.com/features/congress-found-an-easy-way-to-fix-child-poverty-then-it-walked-away/" target="_blank" rel="noopener">expanded child tax credit</a> was broadly popular among Americans, and it didn’t seem to buy Democrats much support. Furthermore, if Biden does end up canceling student debt by executive order instead of via Congress, given it’ll be next to impossible to get the 60 votes needed to pass it, that <a href="https://www.nytimes.com/2021/01/22/us/politics/biden-executive-orders-trump.html" target="_blank" rel="noopener">carries its own political peril</a>.</p>
-
-
-
-<p data-paragraph="main">And of course, canceling even the “right” amount of debt wouldn’t come close to eliminating the racial wealth gap, which could make this a hard political sell. The experts I spoke to were unanimous in the view that canceling student debt would not eradicate the racial wealth gap by itself. Research has found that enacting <a href="https://link.springer.com/article/10.1007/s41996-020-00077-8?wt_mc=Internal.Event.1.SEM.ArticleAuthorOnlineFirst&amp;utm_source=ArticleAuthorOnlineFirst&amp;utm_medium=email&amp;utm_content=AA_en_06082018&amp;ArticleAuthorOnlineFirst_20210126&amp;error=cookies_not_supported&amp;code=b34d95af-05ce-4f08-831f-4783a23b50f7" target="_blank" rel="noopener">a set of policies</a> — including student loan forgiveness — could significantly reduce the racial wealth gap, but canceling student loan debt on its own is just one step in that process.</p>]]></description>
-			<pubDate>Tue, 31 May 2022 11:00:00 +0100</pubDate>
-			<guid isPermaLink="false">1653993001684198</guid>
 		</item>
 
 	</channel>
