@@ -3,8 +3,8 @@
 		<title>Main stream | FreshRSS</title>
 		<link>http://radon</link>
 		<description>RSS feed of Main stream | FreshRSS</description>
-		<pubDate>Tue, 14 Jun 2022 22:59:07 +0100</pubDate>
-		<lastBuildDate>Tue, 14 Jun 2022 21:59:07 GMT</lastBuildDate>
+		<pubDate>Tue, 14 Jun 2022 23:29:06 +0100</pubDate>
+		<lastBuildDate>Tue, 14 Jun 2022 22:29:06 GMT</lastBuildDate>
 		<atom:link href="http://radon/i/?a=rss" rel="self" type="application/rss+xml" />
 		<item>
 			<title>We Want To Hear About Your Experiences With Abortion Restrictions In U.S. Hospitals</title>
@@ -19,8 +19,7 @@
 
 			<div>
 
-				<header>
-					<div>
+				<header><div>
 													<p><a href="https://fivethirtyeight.com/tag/abortion/" name="">Abortion</a></p>
 						
 													<h1>We Want To Hear About Your Experiences With Abortion Restrictions In U.S. Hospitals</h1>
@@ -32,28 +31,23 @@
 							
 							<p>
 								<time>
-									Jun. 14, 2022, at 2:59 PM								</time>
-							</p>
+									Jun. 14, 2022, at 2:59 PM								</time></p>
 
 						</div>
 						<div>
 													</div> 
 					</div>
 					
-				</header>
+				</header><figure><span>
+									<div>
+						<picture><source media="(min-width: 768px)"><source><img alt="Midsection of female patient waiting in hospital exam room" src="https://fivethirtyeight.com/wp-content/uploads/2022/06/GettyImages-1309074515-4X3.jpg?w=917" data-sizes="(max-width: 768px) 100vw, (max-width: 1080px) 66vw, 684px" data-src="https://fivethirtyeight.com/wp-content/uploads/2022/06/GettyImages-1309074515-4X3.jpg?w=917" data-srcset="https://fivethirtyeight.com/wp-content/uploads/2022/06/GettyImages-1309074515-4X3.jpg?w=917 1x, https://fivethirtyeight.com/wp-content/uploads/2022/06/GettyImages-1309074515-4X3.jpg?w=1834 2x"></source></source></picture></div>
 
-				
-		<figure>
-			<span>
 				
 			</span>
 
 			
-			
-		</figure>
-
-		
-			</div>
+								<figcaption><p>GETTY IMAGES</p>
+											</figcaption></figure></div>
 
 			
 		</div>
@@ -82,7 +76,7 @@
 
 
 <div>
-<iframe loading="lazy" src="https://docs.google.com/forms/d/e/1FAIpQLSe-l422cY70CKMe_GjN8-GmubJjH5ZChEZgEeSLdNoMpqK0YA/viewform?embedded=true" width="640" height="1389" frameborder="0" marginheight="0" marginwidth="0" sandbox="allow-scripts allow-same-origin">Loading…</iframe>
+<iframe sandbox="allow-scripts allow-same-origin">Loading…</iframe>
 </div>]]></description>
 			<pubDate>Tue, 14 Jun 2022 19:59:00 +0100</pubDate>
 			<guid isPermaLink="false">1655235002361976</guid>
