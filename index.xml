@@ -3,8 +3,8 @@
 		<title>Main stream | FreshRSS</title>
 		<link>http://radon</link>
 		<description>RSS feed of Main stream | FreshRSS</description>
-		<pubDate>Thu, 16 Jun 2022 14:59:06 +0100</pubDate>
-		<lastBuildDate>Thu, 16 Jun 2022 13:59:06 GMT</lastBuildDate>
+		<pubDate>Thu, 16 Jun 2022 15:29:06 +0100</pubDate>
+		<lastBuildDate>Thu, 16 Jun 2022 14:29:06 GMT</lastBuildDate>
 		<atom:link href="http://radon/i/?a=rss" rel="self" type="application/rss+xml" />
 		<item>
 			<title>Has Your State Made It Harder To Vote?</title>
@@ -627,11 +627,11 @@
 
 
 
-<p data-paragraph="main">If this describes you, we’d like to hear from you. Please fill out this form and we may get back to you about an upcoming story. </p>
+<p data-paragraph="main">If this describes you, we’d like to hear from you. Please fill out <a href="https://docs.google.com/forms/d/e/1FAIpQLSe-l422cY70CKMe_GjN8-GmubJjH5ZChEZgEeSLdNoMpqK0YA/viewform?usp=sf_link" target="_blank" rel="noopener">this form</a> and we may get back to you about an upcoming story. </p>
 
 
 <div>
-<iframe sandbox="allow-scripts allow-same-origin">Loading…</iframe>
+<iframe loading="lazy" src="https://docs.google.com/forms/d/e/1FAIpQLSe-l422cY70CKMe_GjN8-GmubJjH5ZChEZgEeSLdNoMpqK0YA/viewform?embedded=true" width="640" height="1389" frameborder="0" marginheight="0" marginwidth="0" sandbox="allow-scripts allow-same-origin">Loading…</iframe>
 </div>]]></description>
 			<pubDate>Tue, 14 Jun 2022 19:59:00 +0100</pubDate>
 			<guid isPermaLink="false">1655235002361976</guid>
