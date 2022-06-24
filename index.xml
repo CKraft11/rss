@@ -3,8 +3,8 @@
 		<title>Main stream | FreshRSS</title>
 		<link>http://radon</link>
 		<description>RSS feed of Main stream | FreshRSS</description>
-		<pubDate>Fri, 24 Jun 2022 21:29:07 +0100</pubDate>
-		<lastBuildDate>Fri, 24 Jun 2022 20:29:07 GMT</lastBuildDate>
+		<pubDate>Fri, 24 Jun 2022 21:59:06 +0100</pubDate>
+		<lastBuildDate>Fri, 24 Jun 2022 20:59:06 GMT</lastBuildDate>
 		<atom:link href="http://radon/i/?a=rss" rel="self" type="application/rss+xml" />
 		<item>
 			<title>Emergency Politics Podcast: Supreme Court Overturns Roe v. Wade</title>
@@ -54,11 +54,11 @@
 
 
 
-<p data-paragraph="main">The U.S. Supreme Court overturned its past rulings that granted a right to an abortion on Friday. While five conservatives on the Court supported overturning Roe, in a concurring opinion, Chief Justice John Roberts wrote that he favored upholding the Mississippi law without fully overturning the 49-year precedent. The three liberals on the Court issued a rare three-Justice authored dissent.</p>
+<p data-paragraph="main">On Friday, the U.S. Supreme Court overturned its past rulings that granted a constitutional right to an abortion. While five conservatives on the Court supported overturning Roe, Chief Justice John Roberts wrote in a concurring opinion that he favored upholding the Mississippi law without fully overturning the 49-year precedent. The three liberals on the Supreme Court issued a rare three-justice-authored dissent.</p>
 
 
 
-<p data-paragraph="main">In this installment of the FiveThirtyEight Politics podcast, legal reporter Amelia Thomson-DeVeaux speaks with Galen Druke about the arguments behind the Justices’ opinions, where the legal debate goes next and how this contrasts and complements American opinion on abortion.</p>
+<p data-paragraph="main">In this installment of the <a href="https://fivethirtyeight.com/tag/politics-podcast/" target="_blank" rel="noopener">FiveThirtyEight Politics podcast</a>, legal reporter Amelia Thomson-DeVeaux speaks with Galen Druke about the arguments behind the justices’ opinions, where the legal debate goes next and how the decision contrasts with <a href="https://fivethirtyeight.com/features/where-americans-stand-on-abortion-in-5-charts/" target="_blank" rel="noopener">most Americans’ opinion</a> on abortion.</p>
 
 
 
@@ -328,11 +328,11 @@
 
 
 
-<p data-paragraph="main">The Supreme Court just <a href="https://www.supremecourt.gov/opinions/21pdf/19-1392_6j37.pdf" target="_blank" rel="noopener">overturned</a> one of the most famous and controversial rulings in modern history. A five-justice majority of Republican appointees ruled that Roe v. Wade and a following case, Planned Parenthood v. Casey, were wrongly decided. It’s a political earthquake — one that will reverberate for months and years to come, reshaping American lives in ways that are easy and not-so-easy to predict.</p>
+<p data-paragraph="main">The Supreme Court just <a href="https://www.supremecourt.gov/opinions/21pdf/19-1392_6j37.pdf" target="_blank" rel="noopener">overturned</a> one of the most famous and controversial rulings in modern history. A five-justice majority of Republican appointees ruled that Roe v. Wade and a following case, Planned Parenthood v. Casey, were wrongly decided. It’s a political earthquake — one that will reverberate for months and years to come, reshaping American lives in ways that are easy and not so easy to predict.</p>
 
 
 
-<p data-paragraph="main">Now, according to the Supreme Court, there is no constitutional right to abortion. Over the protests of Chief Justice John Roberts, who voted to uphold Missisippi’s 15-week abortion ban but not to overturn Roe, the status quo of the past 49 years is gone. (The three liberal justices dissented in full.) That shift will cause an immediate change in many Americans’ lives. As of 11 a.m. Eastern on Friday, abortion is already almost completely illegal in at least four states. By the end of July, it will be almost completely illegal in at least another nine. And the fight over how far abortion rights should stretch or shrink will flare up in many states, surely shaping some of this year’s most important midterm races. </p>
+<p data-paragraph="main">Now, according to the Supreme Court, there is no constitutional right to abortion. Over the protests of Chief Justice John Roberts, who voted to uphold Mississippi’s 15-week abortion ban but not to overturn Roe, the status quo of the past 49 years is gone. (The three liberal justices dissented in full.) That shift will cause an immediate change in many Americans’ lives. As of 11 a.m. Eastern on Friday, abortion is already almost completely illegal in at least four states. By the end of July, it will be almost completely illegal in at least another nine. And the fight over how far abortion rights should stretch or shrink will flare up in many states, surely shaping some of this year’s most important midterm races. </p>
 
 
 
@@ -352,7 +352,7 @@
 
 
 
-<p data-paragraph="main">This week’s ruling — officially known as Dobbs v. Jackson Women’s Health — relied heavily on a historical view of abortion rights. Alito argued that approach is crucial for understanding why abortion couldn’t be constitutionally protected. “Until the latter part of the 20th century, such a right was entirely unknown in American law,” he wrote. “Indeed, when the Fourteenth Amendment was adopted, three quarters of the States made abortion a crime at all stages of pregnancy.” <a href="https://www.politico.com/news/magazine/2022/06/02/alitos-anti-roe-argument-wrong-00036174" target="_blank" rel="noopener">Some historians have argued</a> that Alito’s view of this history — which was also laid out in a draft opinion that leaked in early May — isn’t complete. But it’s worth emphasizing because another major opinion released yesterday, overturning a concealed-carry law in New York, also relies heavily on history. </p>
+<p data-paragraph="main">This week’s ruling — officially known as Dobbs v. Jackson Women’s Health — relied heavily on a historical view of abortion rights. Alito argued that approach is crucial for understanding why abortion couldn’t be constitutionally protected. “Until the latter part of the 20th century, such a right was entirely unknown in American law,” he wrote. “Indeed, when the Fourteenth Amendment was adopted, three quarters of the States made abortion a crime at all stages of pregnancy.” <a href="https://www.politico.com/news/magazine/2022/06/02/alitos-anti-roe-argument-wrong-00036174" target="_blank" rel="noopener">Some historians have argued</a> that Alito’s view of this history — which was also laid out in a draft opinion that leaked in early May — isn’t complete. But it’s worth emphasizing because <a href="https://fivethirtyeight.com/features/what-the-supreme-courts-gun-ruling-means-for-gun-control/" target="_blank" rel="noopener">another major opinion released yesterday</a>, overturning a concealed-carry law in New York, also relies heavily on history. </p>
 
 
 
@@ -590,6 +590,8 @@
 
 <p data-paragraph="main">Before Thursday’s ruling, judges had two factors to consider when evaluating the constitutionality of a gun regulation: Does it fit with the history of the Second Amendment? And does the state have another reasonable justification — like social science data suggesting that the law could reduce gun violence? </p>
 
+
+<p>Watch: https://abcnews.go.com/fivethirtyeight/video/supreme-courts-gun-ruling-remakes-gun-control-americans-85660014</p>
 
 
 <p data-paragraph="main">Under the new ruling, state governments can no longer argue that a gun restriction should be upheld because it serves an important interest. Instead, judges will only consider whether “the regulation is consistent with this Nation’s historical tradition of firearm regulation.” In his opinion, Thomas noted that modern regulations don’t have to be a “dead ringer for historical precursors.” But <a href="https://www.brennancenter.org/our-work/analysis-opinion/supreme-court-verge-expanding-second-amendment-gun-rights" target="_blank" rel="noopener">as gun law experts have pointed out</a>, figuring out whether modern gun regulations are similar enough to laws that were passed 200 years ago won’t be a simple matter. The ruling opens the door for every gun regulation that was upheld under the 2008 ruling to be challenged again — in a judiciary that is much more conservative than it was even a few years ago.</p>
