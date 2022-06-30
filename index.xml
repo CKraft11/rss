@@ -3,8 +3,8 @@
 		<title>Main stream | FreshRSS</title>
 		<link>http://radon</link>
 		<description>RSS feed of Main stream | FreshRSS</description>
-		<pubDate>Thu, 30 Jun 2022 17:29:07 +0100</pubDate>
-		<lastBuildDate>Thu, 30 Jun 2022 16:29:07 GMT</lastBuildDate>
+		<pubDate>Thu, 30 Jun 2022 17:59:07 +0100</pubDate>
+		<lastBuildDate>Thu, 30 Jun 2022 16:59:07 GMT</lastBuildDate>
 		<atom:link href="http://radon/i/?a=rss" rel="self" type="application/rss+xml" />
 		<item>
 			<title>Why Republicans Are Favored To Win The House, But Not The Senate</title>
@@ -131,7 +131,7 @@
 
 
 
-<p data-paragraph="main">Thus, the model adjusts those registered-voter polls based on its estimate of  what likely-voter polls would show, and when it does that, the Republicans’ generic-ballot lead is really more like 4 points than 2 points. I should note that this adjustment is not rigid in the model. Although the model uses historical turnout patterns as its baseline assumption, it will override that based on polls. In other words, if polls come out showing Democrats holding their own among likely voters — such as because of increased Democratic enthusiasm in the wake of Roe being overturned — the model will adjust to reflect that. Put another way, a very strong turnout would give Democrats a fighting chance of keeping the House.</p>
+<p data-paragraph="main">Thus, the model adjusts those registered-voter polls based on its estimate of what likely-voter polls would show, and when it does that, the Republicans’ generic-ballot lead is really more like 4 points than 2 points. I should note that this adjustment is not rigid in the model. Although the model uses historical turnout patterns as its baseline assumption, it will override that based on polls. In other words, if polls come out showing Democrats holding their own among likely voters — such as because of increased Democratic enthusiasm in the wake of Roe being overturned — the model will adjust to reflect that. Put another way, a very strong turnout would give Democrats a fighting chance of keeping the House.</p>
 
 
 
@@ -1755,7 +1755,16 @@ Interest-Based Ads
 
 
 
-<p data-paragraph="main">Earlier this week President Biden asked Congress to temporarily <a href="https://www.ft.com/content/1f6510d7-3472-4683-826a-487f43faf907?emailId=62b2f08ce1aee30023df1d5f&amp;segmentId=13b7e341-ed02-2b53-e8c0-d9cb59be8b3b" target="_blank" rel="noopener">suspend collection of federal gas and diesel taxes</a> for three months as a way to relieve pressure on Americans as national gas prices rise to $5 a gallon. If the price keeps going up, it could top highs not seen since <a href="https://www.kiplinger.com/personal-finance/spending/604760/are-todays-pump-prices-higher-than-2008s-gas-prices" target="_blank" rel="noopener">the summer of 2008</a>. High gas prices are also helping to drive overall inflation, which reached <a href="https://www.nytimes.com/2022/06/10/business/economy/may-2022-cpi-inflation.html" target="_blank" rel="noopener">8.6 percent as of May</a>. </p>
+<p data-paragraph="main">Welcome to <a href="https://fivethirtyeight.com/tag/pollapalooza/" target="_blank" rel="noopener">Pollapalooza</a>, our weekly polling roundup.</p>
+
+
+
+<div><hr><span></span></div>
+
+
+
+
+<p data-paragraph="main">Earlier this week President Biden asked Congress to temporarily <a href="https://www.ft.com/content/1f6510d7-3472-4683-826a-487f43faf907?emailId=62b2f08ce1aee30023df1d5f&amp;segmentId=13b7e341-ed02-2b53-e8c0-d9cb59be8b3b" target="_blank" rel="noopener">suspend collection of federal gas and diesel taxes</a> for three months as a way to relieve pressure on Americans as national gas prices rise to $5 a gallon. If the price keeps going up, it could top highs not seen since <a href="https://www.kiplinger.com/personal-finance/spending/604760/are-todays-pump-prices-higher-than-2008s-gas-prices" target="_blank" rel="noopener">the summer of 2008</a>. High gas prices are also helping to drive overall inflation, which reached <a href="https://www.nytimes.com/2022/06/10/business/economy/may-2022-cpi-inflation.html" target="_blank" rel="noopener">8.6 percent as of May</a>. </p>
 
 
 
