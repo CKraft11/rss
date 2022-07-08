@@ -3,9 +3,152 @@
 		<title>Main stream | FreshRSS</title>
 		<link>http://radon</link>
 		<description>RSS feed of Main stream | FreshRSS</description>
-		<pubDate>Fri, 08 Jul 2022 14:29:06 +0100</pubDate>
-		<lastBuildDate>Fri, 08 Jul 2022 13:29:06 GMT</lastBuildDate>
+		<pubDate>Fri, 08 Jul 2022 14:59:06 +0100</pubDate>
+		<lastBuildDate>Fri, 08 Jul 2022 13:59:06 GMT</lastBuildDate>
 		<atom:link href="http://radon/i/?a=rss" rel="self" type="application/rss+xml" />
+		<item>
+			<title>Maybe Dobbs Did Change The Race. We’ll Need More Time To Know For Sure.</title>
+			<link>https://fivethirtyeight.com/features/maybe-dobbs-did-change-the-race-well-need-more-time-to-know-for-sure/</link>
+						<dc:creator>Nate Silver</dc:creator>
+			<dc:creator>Nate Silver</dc:creator>
+			<category>2022 Election</category>
+			<category>2022 House Elections</category>
+			<category>2022 Midterms</category>
+			<category>2022 Senate Elections</category>
+			<category>Election Update</category>
+			<category>Generic Ballot</category>
+			<description><![CDATA[<div>
+
+			<div>
+
+				<header><div>
+													<p><a href="https://fivethirtyeight.com/tag/2022-election/" name="">2022 Election</a></p>
+						
+													<h1>Maybe Dobbs Did Change The Race. We'll Need More Time To Know For Sure.</h1>
+																	</div>
+
+										<div>
+						<div>
+															<p>By <a href="https://fivethirtyeight.com/contributors/nate-silver/" title="" rel="author">Nate Silver</a></p>
+							
+							<p>
+								<time>
+									Jul. 8, 2022, at 8:34 AM								</time></p>
+
+						</div>
+						<div>
+													</div> 
+					</div>
+					
+				</header><figure><span>
+									<div>
+						<picture><source media="(min-width: 768px)"><source><img alt="2022-ELECTIONUPDATE-0708-4×3" src="https://fivethirtyeight.com/wp-content/uploads/2022/07/2022-ELECTIONUPDATE-0708-4x3-1.png?w=916" data-sizes="(max-width: 768px) 100vw, (max-width: 1080px) 66vw, 684px" data-src="https://fivethirtyeight.com/wp-content/uploads/2022/07/2022-ELECTIONUPDATE-0708-4x3-1.png?w=916" data-srcset="https://fivethirtyeight.com/wp-content/uploads/2022/07/2022-ELECTIONUPDATE-0708-4x3-1.png?w=916 1x, https://fivethirtyeight.com/wp-content/uploads/2022/07/2022-ELECTIONUPDATE-0708-4x3-1.png?w=1832 2x"></source></source></picture></div>
+
+				
+			</span>
+
+			
+								<figcaption><p>ILLUSTRATION BY EMILY SCHERER</p>
+											</figcaption></figure></div>
+
+			
+		</div>
+
+
+
+
+
+<p data-paragraph="main"></p>
+
+
+
+<p data-paragraph="main">It was a <a href="https://projects.fivethirtyeight.com/polls/" target="_blank" rel="noopener">slow week of polling over the holiday weekend</a> — happy birthday, USA — and the FiveThirtyEight midterm election forecast hasn’t changed much since we launched it last week. Republicans have <a href="https://projects.fivethirtyeight.com/2022-election-forecast/house/" target="_blank" rel="noopener">an 86 percent chance of winning control of the House in November</a> according to the Deluxe version of our model. But the Senate is <a href="https://projects.fivethirtyeight.com/2022-election-forecast/senate/" target="_blank" rel="noopener">much closer to a toss-up</a>, with Republicans at a 53 percent chance of a takeover. Both of those numbers are <a href="https://fivethirtyeight.com/features/why-republicans-are-favored-to-win-the-house-but-not-the-senate/" target="_blank" rel="noopener">pretty much the same as when we launched the model</a>.</p>
+
+
+
+<p data-paragraph="main">But we’ve seen some movement toward Democrats on the <a href="https://projects.fivethirtyeight.com/polls/generic-ballot/" target="_blank" rel="noopener">generic congressional ballot</a>, which asks voters which party they would support in an election. Democrats now trail Republicans by 1.6 percentage points in the FiveThirtyEight average. That compares with a 2.3-point deficit on June 24, when the Supreme Court <a href="https://fivethirtyeight.com/features/the-supreme-courts-argument-for-overturning-roe-v-wade/" target="_blank" rel="noopener">announced in Dobbs v. Jackson Women’s Health</a> that it would overturn Roe v. Wade.</p>
+
+
+
+<p data-paragraph="main">Why make a huge deal of the difference between 2.3 points and 1.6 points? Well, I’m not making a <em>huge</em> deal of it. But because of the way our polling average is designed, it’s a bigger deal than it might seem at first glance.</p>
+
+
+
+<p data-paragraph="main">The truth is, when you design any sort of model, it’s rarely as simple as just following the data. Rather, you have a lot of choices to make. One of the most important ones is how sensitive a model or an average is to <em>new</em> data. It’s obviously possible to err in either direction. There’s a lot of noise in polling averages, and you don’t want a model that does acrobatics in response to every new poll, especially when it’s still many months out from the election and most voters are thinking more about what kind of meat to grill than about whom to elect to Congress.</p>
+
+
+
+<p data-paragraph="main">But polls can and do change in response to big news, and Roe being overturned — probably the most well-known Supreme Court decision of the past 50 years — is big news.</p>
+
+
+
+<p data-paragraph="main">Usually, the generic ballot is a noisy measure, and if you know nothing about what’s causing the changes, the <a href="https://fivethirtyeight.com/features/heres-a-new-less-volatile-version-of-our-generic-ballot-tracker/" target="_blank" rel="noopener">best empirical strategy is to be quite conservative</a> in updating the average. If the polls move by several points and there’s no real underlying cause, it’s <em>probably</em> just noise.</p>
+
+
+
+<p data-paragraph="main">After all, most people — even most people who vote in congressional elections — are not following the news intensely on a day-to-day basis. Cable news ratings, for instance, reflect a <em>tiny</em> fraction of the American population: The most-watched cable news program is seen by something like <a href="https://www.adweek.com/tvnewser/here-are-the-top-rated-cable-news-shows-for-q2-2022/510090/" target="_blank" rel="noopener">1 percent of Americans on a typical night</a>.</p>
+
+
+
+<p data-paragraph="main">So, in figuring out whether shifts in a polling average represent signal or noise, the model averages out <em>lots</em> of times when there’s nothing much going on and a <em>few</em> times when there is. The safe bet is usually “probably mostly noise, awaiting more evidence of signal.”</p>
+
+
+
+<p data-paragraph="main">But given that we do have a huge story on our hands, let’s do a direct before-and-after comparison. Six pollsters<a data-footnote-id="1" href="https://fivethirtyeight.com/wp-json/wp/v2/espn_verticals/398#fn-1" data-footnote-content='&lt;p&gt;&lt;p&gt;YouGov has released polls in partnership with both Yahoo News and The Economist, but because of a &lt;a href="https://twitter.com/gelliottmorris/status/1544674762332557313?s=20&amp;amp;t=svq7hp1sSmWNfnH0sWGzvw" target="_blank" rel="noopener"&gt;technical issue with the YouGov/Economist polls&lt;/a&gt;, we’re using only the Yahoo News version here. Note, however, that the Economist polls have also shown a shift toward Democrats.&lt;/p&gt;
+&lt;/p&gt;'><sup>1</sup></a> have released generic ballot polls both before and after the Dobbs decision.<a data-footnote-id="2" href="https://fivethirtyeight.com/wp-json/wp/v2/espn_verticals/398#fn-2" data-footnote-content="&lt;p&gt;&lt;p&gt;By “after,” we mean that the poll went into the field on June 24 or later, and by “before,” we mean that the poll went into the field between May 15 and June 23.&lt;/p&gt;
+&lt;/p&gt;"><sup>2</sup></a> All six of those polling firms have shown a shift toward Democrats. On average, Democrats trailed by 1.3 points in the pre-Dobbs version of these polls but led by 1.5 points in the most recent ones, a shift of almost 3 points toward the party.</p>
+
+
+<div>
+<section><header><h5>Since Dobbs, generic ballot polls have shifted toward Democrats</h5>
+ <p>Generic ballot polls conducted before and after the Supreme Court’s Dobbs v. Jackson Women’s Health decision</p>
+ </header><table data-carpenter-slug="silver.eu070822.2"><thead><tr><th colspan="1" scope="col">Pollster</th>
+ <th colspan="1" scope="col">Pre-Dobbs</th>
+ <th colspan="1" scope="col">Post-Dobbs</th>
+ <th colspan="1" scope="col">Shift</th>
+ </tr></thead><tbody><tr><td>Big Village</td>
+ <td>D+1</td>
+ <td>D+6</td>
+ <td>D+5</td>
+ </tr><tr><td>Rasmussen Reports</td>
+ <td>R+8</td>
+ <td>R+5</td>
+ <td>D+3</td>
+ </tr><tr><td>Emerson College</td>
+ <td>R+3</td>
+ <td>R+2</td>
+ <td>D+1</td>
+ </tr><tr><td>Harris Poll</td>
+ <td>R+2</td>
+ <td>EVEN</td>
+ <td>D+2</td>
+ </tr><tr><td>YouGov/Yahoo News</td>
+ <td>D+4</td>
+ <td>D+7</td>
+ <td>D+3</td>
+ </tr><tr><td>Morning Consult/Politico</td>
+ <td>EVEN</td>
+ <td>D+3</td>
+ <td>D+3</td>
+ </tr><tr><td>Average</td>
+ <td>R+1</td>
+ <td>D+2</td>
+ <td>D+3</td>
+ </tr></tbody></table><footer><p>“Pre-Dobbs” polls include the pollster’s most recent poll conducted before June 24, and “Post-Dobbs” polls include polls that went into the field on June 24 or later. Pollsters with “Pre-Dobbs” polls conducted before May 15 were excluded.</p>
+ <p>For pollsters that released results among both registered voters and all adults, the registered voter version of the poll is used.</p>
+ <p>Source: POLLS</p>
+ </footer></section></div>
+
+
+<p data-paragraph="main">If this persists, then our generic ballot average — and also our midterm model — will eventually catch up and move toward Democrats. Of course, that might not happen. The change <em>could</em> still be a statistical quirk. Or it could be temporary, an <a href="https://agadjanianpolitics.wordpress.com/2017/07/02/possible-evidence-of-differential-partisan-nonresponse-in-trump-approval-polls/" target="_blank" rel="noopener">artifact of partisan nonresponse bias</a>. That is, if Democrats are more engaged than Republicans by news of the Supreme Court’s decision — and there’s <a href="https://thehill.com/homenews/3537982-democrats-more-likely-to-vote-in-midterms-after-abortion-ruling-poll/" target="_blank" rel="noopener">evidence to suggest they are</a> — they may be more likely to respond to polls for some period of time, at least until the next news story takes hold. Then again, if Democrats are more motivated than Republicans to <em>vote</em> by the decision, that could help them in a real way in November, too.</p>
+
+
+
+<p data-paragraph="main">Bottom line: Most of the time, polling averages are exceptionally useful, but be wary of using them in ways in which they weren’t intended. The FiveThirtyEight generic ballot polling average is designed<em> </em>to be conservative and slow-moving and not really equipped to deal with breaking-news developments.<a data-footnote-id="3" href="https://fivethirtyeight.com/wp-json/wp/v2/espn_verticals/398#fn-3" data-footnote-content='&lt;p&gt;&lt;p&gt;We’ve &lt;a href="https://fivethirtyeight.com/features/what-makes-our-new-2020-democratic-primary-polling-averages-different/" target="_blank" rel="noopener"&gt;experimented with techniques&lt;/a&gt; in our presidential polling averages that allow them to move rapidly in response to pre-scheduled news events such as conventions and debates, but there’s nothing like that for the generic ballot yet.&lt;/p&gt;
+&lt;/p&gt;'><sup>3</sup></a> That our generic ballot polling average is steady in reaction to the news doesn’t really prove anything either way, then. But because of the Dobbs decision, there may be some electoral upside for Democrats beyond what our model currently shows.</p>]]></description>
+			<pubDate>Fri, 08 Jul 2022 13:34:00 +0100</pubDate>
+			<guid isPermaLink="false">1657287002070015</guid>
+		</item>
 		<item>
 			<title>What Happens When Americans Don’t Trust Institutions?</title>
 			<link>https://fivethirtyeight.com/features/what-happens-when-americans-dont-trust-institutions/</link>
@@ -94,8 +237,8 @@
 
 
 
-<p data-paragraph="main"><a href="https://fivethirtyeight.com/features/americans-trust-the-cdc-on-covid-19-trump-not-so-much/" target="_blank" rel="noopener">At the beginning of the COVID-19 pandemic</a>, Americans said they generally trusted the government to handle the crisis and share accurate information about it. Their confidence in Trump’s response to the pandemic <a href="https://www.reuters.com/article/us-usa-election-trump-coronavirus/trumps-handling-of-coronavirus-pandemic-hits-record-low-approval-reuters-ipsos-poll-idUSKBN26T3OF" target="_blank" rel="noopener">eroded over the remaining year</a>, but when Biden came into office, approval of his handling of the pandemic was pretty high. Now, though, according to <a href="https://projects.fivethirtyeight.com/coronavirus-polls/" target="_blank" rel="noopener">FiveThirtyEight’s approval tracker for presidents' COVID-19 response</a>, 49 percent of Americans approve of Biden’s handling of the pandemic and 43 percent disapprove.<a data-footnote-id="1" href="https://fivethirtyeight.com/wp-json/wp/v2/espn_verticals/398#fn-1" data-footnote-content="&lt;p&gt;&lt;p&gt;As of 5 p.m. Eastern on Thursday.&lt;/p&gt;
-&lt;/p&gt;"><sup>1</sup></a> And <a href="https://www.pewresearch.org/politics/2022/01/25/biden-starts-year-two-with-diminished-public-support-and-a-daunting-list-of-challenges/" target="_blank" rel="noopener">a Pew Research Center poll</a> from earlier this year found that a declining share of Americans are confident that Biden is able to handle the public health effects of the COVID-19 pandemic and that he has good judgment on economic policy, reflecting widespread public concern about rising inflation and a possible recession.</p>
+<p data-paragraph="main"><a href="https://fivethirtyeight.com/features/americans-trust-the-cdc-on-covid-19-trump-not-so-much/" target="_blank" rel="noopener">At the beginning of the COVID-19 pandemic</a>, Americans said they generally trusted the government to handle the crisis and share accurate information about it. Their confidence in Trump’s response to the pandemic <a href="https://www.reuters.com/article/us-usa-election-trump-coronavirus/trumps-handling-of-coronavirus-pandemic-hits-record-low-approval-reuters-ipsos-poll-idUSKBN26T3OF" target="_blank" rel="noopener">eroded over the remaining year</a>, but when Biden came into office, approval of his handling of the pandemic was pretty high. Now, though, according to <a href="https://projects.fivethirtyeight.com/coronavirus-polls/" target="_blank" rel="noopener">FiveThirtyEight’s approval tracker for presidents' COVID-19 response</a>, 49 percent of Americans approve of Biden’s handling of the pandemic and 43 percent disapprove.<a data-footnote-id="4" href="https://fivethirtyeight.com/wp-json/wp/v2/espn_verticals/398#fn-4" data-footnote-content="&lt;p&gt;&lt;p&gt;As of 5 p.m. Eastern on Thursday.&lt;/p&gt;
+&lt;/p&gt;"><sup>4</sup></a> And <a href="https://www.pewresearch.org/politics/2022/01/25/biden-starts-year-two-with-diminished-public-support-and-a-daunting-list-of-challenges/" target="_blank" rel="noopener">a Pew Research Center poll</a> from earlier this year found that a declining share of Americans are confident that Biden is able to handle the public health effects of the COVID-19 pandemic and that he has good judgment on economic policy, reflecting widespread public concern about rising inflation and a possible recession.</p>
 
 
 
@@ -123,8 +266,8 @@
 
 
 
-<figure><img loading="lazy" width="1150" height="920" src="https://fivethirtyeight.com/wp-content/uploads/2022/07/biden-approval-rating-2.png" alt="" data-src="https://fivethirtyeight.com/wp-content/uploads/2022/07/biden-approval-rating-2.png" data-srcset="https://fivethirtyeight.com/wp-content/uploads/2022/07/biden-approval-rating-2.png?w=712 1x, https://fivethirtyeight.com/wp-content/uploads/2022/07/biden-approval-rating-2.png?w=1424 2x"></figure><p data-paragraph="main">According to FiveThirtyEight’s <a href="https://projects.fivethirtyeight.com/biden-approval-rating/" target="_blank" rel="noopener">presidential approval tracker</a>,<a data-footnote-id="2" href="https://fivethirtyeight.com/wp-json/wp/v2/espn_verticals/398#fn-2" data-footnote-content="&lt;p&gt;&lt;p&gt;As of 5 p.m. Eastern on Thursday.&lt;/p&gt;
-&lt;/p&gt;"><sup>2</sup></a> 38.6 percent of Americans approve of the job Biden is doing as president, while 56.3 percent disapprove (a net approval rating of -17.7 points). At this time <a href="https://fivethirtyeight.com/?post_type=fte_features&amp;p=339227" target="_blank" rel="noopener">last week</a>, 39.0 percent approved and 56.2 percent disapproved (a net approval rating of -17.2 points). One month ago, Biden had an approval rating of 40.5 percent and a disapproval rating of 53.6 percent, for a net approval rating of -13.1 points.</p>
+<figure><img loading="lazy" width="1150" height="920" src="https://fivethirtyeight.com/wp-content/uploads/2022/07/biden-approval-rating-2.png" alt="" data-src="https://fivethirtyeight.com/wp-content/uploads/2022/07/biden-approval-rating-2.png" data-srcset="https://fivethirtyeight.com/wp-content/uploads/2022/07/biden-approval-rating-2.png?w=712 1x, https://fivethirtyeight.com/wp-content/uploads/2022/07/biden-approval-rating-2.png?w=1424 2x"></figure><p data-paragraph="main">According to FiveThirtyEight’s <a href="https://projects.fivethirtyeight.com/biden-approval-rating/" target="_blank" rel="noopener">presidential approval tracker</a>,<a data-footnote-id="5" href="https://fivethirtyeight.com/wp-json/wp/v2/espn_verticals/398#fn-5" data-footnote-content="&lt;p&gt;&lt;p&gt;As of 5 p.m. Eastern on Thursday.&lt;/p&gt;
+&lt;/p&gt;"><sup>5</sup></a> 38.6 percent of Americans approve of the job Biden is doing as president, while 56.3 percent disapprove (a net approval rating of -17.7 points). At this time <a href="https://fivethirtyeight.com/?post_type=fte_features&amp;p=339227" target="_blank" rel="noopener">last week</a>, 39.0 percent approved and 56.2 percent disapproved (a net approval rating of -17.2 points). One month ago, Biden had an approval rating of 40.5 percent and a disapproval rating of 53.6 percent, for a net approval rating of -13.1 points.</p>
 
 
 
@@ -132,8 +275,8 @@
 
 
 
-<figure><img loading="lazy" width="1150" height="920" src="https://fivethirtyeight.com/wp-content/uploads/2022/07/generic-ballot-2.png" alt="" data-src="https://fivethirtyeight.com/wp-content/uploads/2022/07/generic-ballot-2.png" data-srcset="https://fivethirtyeight.com/wp-content/uploads/2022/07/generic-ballot-2.png?w=712 1x, https://fivethirtyeight.com/wp-content/uploads/2022/07/generic-ballot-2.png?w=1424 2x"></figure><p data-paragraph="main">In our average of polls of the <a href="https://projects.fivethirtyeight.com/congress-generic-ballot-polls/" target="_blank" rel="noopener">generic congressional ballot</a>,<a data-footnote-id="3" href="https://fivethirtyeight.com/wp-json/wp/v2/espn_verticals/398#fn-3" data-footnote-content="&lt;p&gt;&lt;p&gt;As of 5 p.m. Eastern on Thursday.&lt;/p&gt;
-&lt;/p&gt;"><sup>3</sup></a> Republicans currently lead by 1.6 percentage points (44.8 percent to 43.2 percent). A week ago, Republicans led Democrats by 2.1 points (44.8 percent to 42.7 percent). At this time last month, voters preferred Republicans by 2.4 points (45.0 percent to 42.7 percent).</p>]]></description>
+<figure><img loading="lazy" width="1150" height="920" src="https://fivethirtyeight.com/wp-content/uploads/2022/07/generic-ballot-2.png" alt="" data-src="https://fivethirtyeight.com/wp-content/uploads/2022/07/generic-ballot-2.png" data-srcset="https://fivethirtyeight.com/wp-content/uploads/2022/07/generic-ballot-2.png?w=712 1x, https://fivethirtyeight.com/wp-content/uploads/2022/07/generic-ballot-2.png?w=1424 2x"></figure><p data-paragraph="main">In our average of polls of the <a href="https://projects.fivethirtyeight.com/congress-generic-ballot-polls/" target="_blank" rel="noopener">generic congressional ballot</a>,<a data-footnote-id="6" href="https://fivethirtyeight.com/wp-json/wp/v2/espn_verticals/398#fn-6" data-footnote-content="&lt;p&gt;&lt;p&gt;As of 5 p.m. Eastern on Thursday.&lt;/p&gt;
+&lt;/p&gt;"><sup>6</sup></a> Republicans currently lead by 1.6 percentage points (44.8 percent to 43.2 percent). A week ago, Republicans led Democrats by 2.1 points (44.8 percent to 42.7 percent). At this time last month, voters preferred Republicans by 2.4 points (45.0 percent to 42.7 percent).</p>]]></description>
 			<pubDate>Fri, 08 Jul 2022 11:00:00 +0100</pubDate>
 			<guid isPermaLink="false">1657278002115196</guid>
 		</item>
@@ -333,8 +476,8 @@
 
 
 
-<p data-paragraph="main">But several more extreme paths are possible too. One option is that state courts might be barred from overturning maps based on vague sections of their state constitutions — like an equal protection clause — which would hamstring their ability to intervene in many states. Or the Supreme Court might simply rule that state courts can’t get involved in partisan gerrymandering disputes at all. That would directly contradict a <a href="https://fivethirtyeight.com/features/partisan-gerrymandering-isnt-the-supreme-courts-problem-anymore/" target="_blank" rel="noopener">2019 ruling</a> where the court’s Republican appointees said that federal courts couldn’t hear challenges to partisan gerrymandering,<a data-footnote-id="4" href="https://fivethirtyeight.com/wp-json/wp/v2/espn_verticals/398#fn-4" data-footnote-content='&lt;p&gt;&lt;p&gt;Federal courts still have the ability to throw out maps that are racially gerrymandered, but &lt;a href="https://www.scotusblog.com/case-files/cases/merrill-v-milligan-2/" target="_blank" rel="noopener"&gt;another case&lt;/a&gt; pending before the Supreme Court, regarding the Voting Rights Act, threatens to &lt;a href="https://fivethirtyeight.com/features/how-a-court-ruling-in-alabama-could-boost-black-political-power-throughout-the-south/" target="_blank" rel="noopener"&gt;undermine those protections as well&lt;/a&gt;.&lt;/p&gt;
-&lt;/p&gt;'><sup>4</sup></a> but they explicitly noted that state courts were still free to intervene. But the court is <a href="https://fivethirtyeight.com/features/the-supreme-courts-partisan-divide-hasnt-been-this-sharp-in-generations/" target="_blank" rel="noopener">even more conservative than it was then</a>, which means there might be a majority to turn around and limit state courts’ power.</p>
+<p data-paragraph="main">But several more extreme paths are possible too. One option is that state courts might be barred from overturning maps based on vague sections of their state constitutions — like an equal protection clause — which would hamstring their ability to intervene in many states. Or the Supreme Court might simply rule that state courts can’t get involved in partisan gerrymandering disputes at all. That would directly contradict a <a href="https://fivethirtyeight.com/features/partisan-gerrymandering-isnt-the-supreme-courts-problem-anymore/" target="_blank" rel="noopener">2019 ruling</a> where the court’s Republican appointees said that federal courts couldn’t hear challenges to partisan gerrymandering,<a data-footnote-id="7" href="https://fivethirtyeight.com/wp-json/wp/v2/espn_verticals/398#fn-7" data-footnote-content='&lt;p&gt;&lt;p&gt;Federal courts still have the ability to throw out maps that are racially gerrymandered, but &lt;a href="https://www.scotusblog.com/case-files/cases/merrill-v-milligan-2/" target="_blank" rel="noopener"&gt;another case&lt;/a&gt; pending before the Supreme Court, regarding the Voting Rights Act, threatens to &lt;a href="https://fivethirtyeight.com/features/how-a-court-ruling-in-alabama-could-boost-black-political-power-throughout-the-south/" target="_blank" rel="noopener"&gt;undermine those protections as well&lt;/a&gt;.&lt;/p&gt;
+&lt;/p&gt;'><sup>7</sup></a> but they explicitly noted that state courts were still free to intervene. But the court is <a href="https://fivethirtyeight.com/features/the-supreme-courts-partisan-divide-hasnt-been-this-sharp-in-generations/" target="_blank" rel="noopener">even more conservative than it was then</a>, which means there might be a majority to turn around and limit state courts’ power.</p>
 
 
 
@@ -344,8 +487,8 @@
 <p>Watch: https://abcnews.go.com/fivethirtyeight/video/final-ish-map-congressional-districts-fivethirtyeight-politics-podcast-85543675</p>
 
 
-<p data-paragraph="main">Over the past year, state courts have struck down congressional maps in not only North Carolina but also <a href="https://www.washingtonpost.com/dc-md-va/2022/03/25/maryland-congressional-map-thrown-out-gerrymandering/" target="_blank" rel="noopener">Maryland</a>, <a href="https://fivethirtyeight.com/features/new-york-just-cost-democrats-their-big-redistricting-advantage/" target="_blank" rel="noopener">New York</a> and <a href="https://fivethirtyeight.com/features/ohios-overturned-congressional-map-shows-how-lawsuits-might-scramble-redistricting/" target="_blank" rel="noopener">Ohio</a>. If all of those rulings are invalidated, it would result in eight additional seats that lean at least 5 percentage points toward the legislature’s party, five fewer seats that lean at least 5 percentage points toward the opposition party and three fewer highly competitive seats.<a data-footnote-id="5" href="https://fivethirtyeight.com/wp-json/wp/v2/espn_verticals/398#fn-5" data-footnote-content="&lt;p&gt;&lt;p&gt;In terms of the partisan upshot, it would result in two additional Democratic-leaning seats and one more Republican-leaning seat.&lt;/p&gt;
-&lt;/p&gt;"><sup>5</sup></a> More importantly, it would also embolden legislatures in other states — knowing their maps wouldn’t be subject to judicial review — to draw more extreme gerrymanders in the future.</p>
+<p data-paragraph="main">Over the past year, state courts have struck down congressional maps in not only North Carolina but also <a href="https://www.washingtonpost.com/dc-md-va/2022/03/25/maryland-congressional-map-thrown-out-gerrymandering/" target="_blank" rel="noopener">Maryland</a>, <a href="https://fivethirtyeight.com/features/new-york-just-cost-democrats-their-big-redistricting-advantage/" target="_blank" rel="noopener">New York</a> and <a href="https://fivethirtyeight.com/features/ohios-overturned-congressional-map-shows-how-lawsuits-might-scramble-redistricting/" target="_blank" rel="noopener">Ohio</a>. If all of those rulings are invalidated, it would result in eight additional seats that lean at least 5 percentage points toward the legislature’s party, five fewer seats that lean at least 5 percentage points toward the opposition party and three fewer highly competitive seats.<a data-footnote-id="8" href="https://fivethirtyeight.com/wp-json/wp/v2/espn_verticals/398#fn-8" data-footnote-content="&lt;p&gt;&lt;p&gt;In terms of the partisan upshot, it would result in two additional Democratic-leaning seats and one more Republican-leaning seat.&lt;/p&gt;
+&lt;/p&gt;"><sup>8</sup></a> More importantly, it would also embolden legislatures in other states — knowing their maps wouldn’t be subject to judicial review — to draw more extreme gerrymanders in the future.</p>
 
 
 
@@ -954,8 +1097,8 @@
 <p>Watch: https://abcnews.go.com/fivethirtyeight/video/supreme-court-dealt-big-blow-separation-church-state-85886797</p>
 
 
-<p data-paragraph="main">Usually, around half of the court’s rulings are unanimous and decisions that pit the conservative and liberal blocs against each other are much rarer. Not this year. According to SCOTUSBlog data analyzed by FiveThirtyEight, 21 percent of rulings were polarized by party of the appointing president, with all Republican appointees voting one way and all Democratic appointees voting the other way, and only 29 percent were unanimous.<a data-footnote-id="6" href="https://fivethirtyeight.com/wp-json/wp/v2/espn_verticals/398#fn-6" data-footnote-content="&lt;p&gt;&lt;p&gt;For the analysis in the chart below, we used categorizations from the Supreme Court Database in combination with SCOTUSBlog to determine when justices agreed and dissented, including cases where justices agreed in part and dissented in part.&lt;/p&gt;
-&lt;/p&gt;"><sup>6</sup></a> </p>
+<p data-paragraph="main">Usually, around half of the court’s rulings are unanimous and decisions that pit the conservative and liberal blocs against each other are much rarer. Not this year. According to SCOTUSBlog data analyzed by FiveThirtyEight, 21 percent of rulings were polarized by party of the appointing president, with all Republican appointees voting one way and all Democratic appointees voting the other way, and only 29 percent were unanimous.<a data-footnote-id="9" href="https://fivethirtyeight.com/wp-json/wp/v2/espn_verticals/398#fn-9" data-footnote-content="&lt;p&gt;&lt;p&gt;For the analysis in the chart below, we used categorizations from the Supreme Court Database in combination with SCOTUSBlog to determine when justices agreed and dissented, including cases where justices agreed in part and dissented in part.&lt;/p&gt;
+&lt;/p&gt;"><sup>9</sup></a> </p>
 
 
 
@@ -1112,8 +1255,8 @@
 
 
 
-<p data-paragraph="main">There are always outliers, though. In fact, there’s a small percentage of older Americans who said that they not only lean Democratic — but identify more with the progressive wing of the Democratic Party. According to the 2020 <a href="https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi%3A10.7910/DVN/E9N6PH" target="_blank" rel="noopener">Cooperative Election Study</a>, about 6 percent of Americans<a data-footnote-id="7" href="https://fivethirtyeight.com/wp-json/wp/v2/espn_verticals/398#fn-7" data-footnote-content="&lt;p&gt;&lt;p&gt;Responses were weighted to match the general adult population of the United States.&lt;/p&gt;
-&lt;/p&gt;"><sup>7</sup></a> born in 1955 or before identified as “very liberal,” 12 percent as “liberal” and another 7 percent as “somewhat liberal.” This compares to roughly 50 percent of Americans born in 1955 or before who said they were “somewhat” or more conservative. But many of the left-of-center voters I spoke with didn’t just identify as liberal, they also said that it was <em>detrimental </em>for other people their age to consistently cast ballots for the GOP.</p>
+<p data-paragraph="main">There are always outliers, though. In fact, there’s a small percentage of older Americans who said that they not only lean Democratic — but identify more with the progressive wing of the Democratic Party. According to the 2020 <a href="https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi%3A10.7910/DVN/E9N6PH" target="_blank" rel="noopener">Cooperative Election Study</a>, about 6 percent of Americans<a data-footnote-id="10" href="https://fivethirtyeight.com/wp-json/wp/v2/espn_verticals/398#fn-10" data-footnote-content="&lt;p&gt;&lt;p&gt;Responses were weighted to match the general adult population of the United States.&lt;/p&gt;
+&lt;/p&gt;"><sup>10</sup></a> born in 1955 or before identified as “very liberal,” 12 percent as “liberal” and another 7 percent as “somewhat liberal.” This compares to roughly 50 percent of Americans born in 1955 or before who said they were “somewhat” or more conservative. But many of the left-of-center voters I spoke with didn’t just identify as liberal, they also said that it was <em>detrimental </em>for other people their age to consistently cast ballots for the GOP.</p>
 
 
 <p>Watch: https://abcnews.go.com/fivethirtyeight/video/california-primaries-blow-progressive-movement-85271451</p>
@@ -1353,8 +1496,8 @@
 
 
 
-<figure><img loading="lazy" width="1150" height="920" src="https://fivethirtyeight.com/wp-content/uploads/2022/06/biden-approval-rating-2-2.png" alt="" data-src="https://fivethirtyeight.com/wp-content/uploads/2022/06/biden-approval-rating-2-2.png" data-srcset="https://fivethirtyeight.com/wp-content/uploads/2022/06/biden-approval-rating-2-2.png?w=712 1x, https://fivethirtyeight.com/wp-content/uploads/2022/06/biden-approval-rating-2-2.png?w=1424 2x"></figure><p data-paragraph="main">According to FiveThirtyEight’s <a href="https://projects.fivethirtyeight.com/biden-approval-rating/" target="_blank" rel="noopener">presidential approval tracker</a>,<a data-footnote-id="8" href="https://fivethirtyeight.com/wp-json/wp/v2/espn_verticals/398#fn-8" data-footnote-content="&lt;p&gt;&lt;p&gt;As of 5 p.m. Eastern on Thursday.&lt;/p&gt;
-&lt;/p&gt;"><sup>8</sup></a> 39.0 percent of Americans approve of the job Biden is doing as president, while 56.2 percent disapprove (a net approval rating of -17.2 points). At this time <a href="https://fivethirtyeight.com/features/a-gas-holiday-might-be-popular-but-its-unlikely-to-do-much-to-lower-inflation/" target="_blank" rel="noopener">last week</a>, 39.2 percent approved and 55.4 percent disapproved (a net approval rating of -16.2 points). One month ago, Biden had an approval rating of 40.7 percent and a disapproval rating of 54.1 percent, for a net approval rating of -13.3 points.</p>
+<figure><img loading="lazy" width="1150" height="920" src="https://fivethirtyeight.com/wp-content/uploads/2022/06/biden-approval-rating-2-2.png" alt="" data-src="https://fivethirtyeight.com/wp-content/uploads/2022/06/biden-approval-rating-2-2.png" data-srcset="https://fivethirtyeight.com/wp-content/uploads/2022/06/biden-approval-rating-2-2.png?w=712 1x, https://fivethirtyeight.com/wp-content/uploads/2022/06/biden-approval-rating-2-2.png?w=1424 2x"></figure><p data-paragraph="main">According to FiveThirtyEight’s <a href="https://projects.fivethirtyeight.com/biden-approval-rating/" target="_blank" rel="noopener">presidential approval tracker</a>,<a data-footnote-id="11" href="https://fivethirtyeight.com/wp-json/wp/v2/espn_verticals/398#fn-11" data-footnote-content="&lt;p&gt;&lt;p&gt;As of 5 p.m. Eastern on Thursday.&lt;/p&gt;
+&lt;/p&gt;"><sup>11</sup></a> 39.0 percent of Americans approve of the job Biden is doing as president, while 56.2 percent disapprove (a net approval rating of -17.2 points). At this time <a href="https://fivethirtyeight.com/features/a-gas-holiday-might-be-popular-but-its-unlikely-to-do-much-to-lower-inflation/" target="_blank" rel="noopener">last week</a>, 39.2 percent approved and 55.4 percent disapproved (a net approval rating of -16.2 points). One month ago, Biden had an approval rating of 40.7 percent and a disapproval rating of 54.1 percent, for a net approval rating of -13.3 points.</p>
 
 
 
@@ -1362,8 +1505,8 @@
 
 
 
-<figure><img loading="lazy" width="1150" height="920" src="https://fivethirtyeight.com/wp-content/uploads/2022/06/generic-ballot-2-2.png" alt="" data-src="https://fivethirtyeight.com/wp-content/uploads/2022/06/generic-ballot-2-2.png" data-srcset="https://fivethirtyeight.com/wp-content/uploads/2022/06/generic-ballot-2-2.png?w=712 1x, https://fivethirtyeight.com/wp-content/uploads/2022/06/generic-ballot-2-2.png?w=1424 2x"></figure><p data-paragraph="main">In our average of polls of the <a href="https://projects.fivethirtyeight.com/congress-generic-ballot-polls/" target="_blank" rel="noopener">generic congressional ballot</a>,<a data-footnote-id="9" href="https://fivethirtyeight.com/wp-json/wp/v2/espn_verticals/398#fn-9" data-footnote-content="&lt;p&gt;&lt;p&gt;As of 5 p.m. Eastern on Thursday.&lt;/p&gt;
-&lt;/p&gt;"><sup>9</sup></a> Republicans currently lead by 2.1 percentage points (44.8 percent to 42.7 percent). A week ago, Republicans led Democrats by 2.3 points (44.8 percent to 42.5 percent). At this time last month, voters preferred Republicans by 2.2 points (45.0 percent to 42.8 percent).</p>]]></description>
+<figure><img loading="lazy" width="1150" height="920" src="https://fivethirtyeight.com/wp-content/uploads/2022/06/generic-ballot-2-2.png" alt="" data-src="https://fivethirtyeight.com/wp-content/uploads/2022/06/generic-ballot-2-2.png" data-srcset="https://fivethirtyeight.com/wp-content/uploads/2022/06/generic-ballot-2-2.png?w=712 1x, https://fivethirtyeight.com/wp-content/uploads/2022/06/generic-ballot-2-2.png?w=1424 2x"></figure><p data-paragraph="main">In our average of polls of the <a href="https://projects.fivethirtyeight.com/congress-generic-ballot-polls/" target="_blank" rel="noopener">generic congressional ballot</a>,<a data-footnote-id="12" href="https://fivethirtyeight.com/wp-json/wp/v2/espn_verticals/398#fn-12" data-footnote-content="&lt;p&gt;&lt;p&gt;As of 5 p.m. Eastern on Thursday.&lt;/p&gt;
+&lt;/p&gt;"><sup>12</sup></a> Republicans currently lead by 2.1 percentage points (44.8 percent to 42.7 percent). A week ago, Republicans led Democrats by 2.3 points (44.8 percent to 42.5 percent). At this time last month, voters preferred Republicans by 2.2 points (45.0 percent to 42.8 percent).</p>]]></description>
 			<pubDate>Fri, 01 Jul 2022 11:00:00 +0100</pubDate>
 			<guid isPermaLink="false">1656670501266345</guid>
 		</item>
@@ -1441,8 +1584,8 @@
 
 
 
-<p data-paragraph="main">The insurrection at the U.S. Capitol on Jan. 6 can also serve as a reminder to voters about what might happen if the Electoral College certification process takes place in 2024 amid Republican control of both chambers of Congress.<a data-footnote-id="10" href="https://fivethirtyeight.com/wp-json/wp/v2/espn_verticals/398#fn-10" data-footnote-content="&lt;p&gt;&lt;p&gt;However, note that because Congress is seated &lt;em&gt;before&lt;/em&gt; the electoral vote is counted, it’s the 2024 congressional elections that will determine who sits in Congress at that time — not these ones.&lt;/p&gt;
-&lt;/p&gt;"><sup>10</sup></a> Democrats have <a href="https://fivethirtyeight.com/features/americans-are-moving-on-from-jan-6-even-if-congress-hasnt/" target="_blank" rel="noopener">had trouble getting the public to treat threats to democracy as a high priority</a>, but polls do show that the <a href="https://www.brookings.edu/blog/fixgov/2022/06/23/what-are-americans-thinking-about-the-january-6-hearings/" target="_blank" rel="noopener">public is sympathetic to the Democrats’ case</a>, especially after the recent congressional hearings on the events of Jan. 6.</p>
+<p data-paragraph="main">The insurrection at the U.S. Capitol on Jan. 6 can also serve as a reminder to voters about what might happen if the Electoral College certification process takes place in 2024 amid Republican control of both chambers of Congress.<a data-footnote-id="13" href="https://fivethirtyeight.com/wp-json/wp/v2/espn_verticals/398#fn-13" data-footnote-content="&lt;p&gt;&lt;p&gt;However, note that because Congress is seated &lt;em&gt;before&lt;/em&gt; the electoral vote is counted, it’s the 2024 congressional elections that will determine who sits in Congress at that time — not these ones.&lt;/p&gt;
+&lt;/p&gt;"><sup>13</sup></a> Democrats have <a href="https://fivethirtyeight.com/features/americans-are-moving-on-from-jan-6-even-if-congress-hasnt/" target="_blank" rel="noopener">had trouble getting the public to treat threats to democracy as a high priority</a>, but polls do show that the <a href="https://www.brookings.edu/blog/fixgov/2022/06/23/what-are-americans-thinking-about-the-january-6-hearings/" target="_blank" rel="noopener">public is sympathetic to the Democrats’ case</a>, especially after the recent congressional hearings on the events of Jan. 6.</p>
 
 
 
@@ -1502,8 +1645,8 @@
 
 
 
-<p data-paragraph="main">Overall, the Deluxe forecast expects Democrats to eventually lose the popular vote for the House by closer to 6 points, about the margin that they lost it by in <a href="https://en.wikipedia.org/wiki/2014_United_States_House_of_Representatives_elections" target="_blank" rel="noopener">2014</a>. And it expects Republicans to wind up with 237 seats in an average outcome, a gain of 24 seats from the 213 they had at the start of the current Congress.<a data-footnote-id="11" href="https://fivethirtyeight.com/wp-json/wp/v2/espn_verticals/398#fn-11" data-footnote-content="&lt;p&gt;&lt;p&gt;This wouldn’t be a catastrophically bad result for Democrats by historical standards — Republicans gained 63 seats in 2010, and Democrats gained 41 in 2018. But that partly reflects that there are so few competitive House seats in a highly polarized country, especially after the redistricting process. Moreover, Republicans already won a number of competitive House seats in 2020, so there isn’t as much low-hanging fruit for them as in previous midterm years.&lt;/p&gt;
-&lt;/p&gt;"><sup>11</sup></a></p>
+<p data-paragraph="main">Overall, the Deluxe forecast expects Democrats to eventually lose the popular vote for the House by closer to 6 points, about the margin that they lost it by in <a href="https://en.wikipedia.org/wiki/2014_United_States_House_of_Representatives_elections" target="_blank" rel="noopener">2014</a>. And it expects Republicans to wind up with 237 seats in an average outcome, a gain of 24 seats from the 213 they had at the start of the current Congress.<a data-footnote-id="14" href="https://fivethirtyeight.com/wp-json/wp/v2/espn_verticals/398#fn-14" data-footnote-content="&lt;p&gt;&lt;p&gt;This wouldn’t be a catastrophically bad result for Democrats by historical standards — Republicans gained 63 seats in 2010, and Democrats gained 41 in 2018. But that partly reflects that there are so few competitive House seats in a highly polarized country, especially after the redistricting process. Moreover, Republicans already won a number of competitive House seats in 2020, so there isn’t as much low-hanging fruit for them as in previous midterm years.&lt;/p&gt;
+&lt;/p&gt;"><sup>14</sup></a></p>
 
 
 
@@ -1523,8 +1666,8 @@
 
 
 
-<figure><img loading="lazy" width="670" height="996" src="https://fivethirtyeight.com/wp-content/uploads/2022/06/2022-senate-topline-335-2.png" alt="Ball-swarm (or bee-swarm) chart showing which party wins control of the House in 100 sample outcomes from our Deluxe model’s 40,000 simulations, where Democrats have a 47 percent chance of winning the chamber and Republicans have a 53 percent chance." data-src="https://fivethirtyeight.com/wp-content/uploads/2022/06/2022-senate-topline-335-2.png" data-srcset="https://fivethirtyeight.com/wp-content/uploads/2022/06/2022-senate-topline-335-2.png?w=670 1x, https://fivethirtyeight.com/wp-content/uploads/2022/06/2022-senate-topline-335-2.png?w=1340 2x"></figure><figure><img loading="lazy" width="1422" height="848" src="https://fivethirtyeight.com/wp-content/uploads/2022/06/2022-senate-topline-711-2.png" alt="Ball-swarm (or bee-swarm) chart showing which party wins control of the House in 100 sample outcomes from our Deluxe model’s 40,000 simulations, where Democrats have a 47 percent chance of winning the chamber and Republicans have a 53 percent chance." data-src="https://fivethirtyeight.com/wp-content/uploads/2022/06/2022-senate-topline-711-2.png" data-srcset="https://fivethirtyeight.com/wp-content/uploads/2022/06/2022-senate-topline-711-2.png?w=712 1x, https://fivethirtyeight.com/wp-content/uploads/2022/06/2022-senate-topline-711-2.png?w=1424 2x"></figure><p data-paragraph="main">Part of this is because Senate terms last for six years, and so most of these seats were last contested in 2016,<a data-footnote-id="12" href="https://fivethirtyeight.com/wp-json/wp/v2/espn_verticals/398#fn-12" data-footnote-content="&lt;p&gt;&lt;p&gt;Other than those such as Sen. Raphael Warnock’s seat in Georgia that were won in off-year special elections.&lt;/p&gt;
-&lt;/p&gt;"><sup>12</sup></a> a mediocre year for Democrats in which they lost the popular vote for the House and also lost Senate races in swing states such as Pennsylvania, Wisconsin and Arizona. Of the 35 Senate seats up for grabs in November, 21 are currently held by Republicans. True, most of these are not competitive, but in addition to their chances to gain a GOP-held seat in Pennsylvania, Democrats also have credible chances in Wisconsin and North Carolina (and outside chances in Ohio and Florida, although those are a stretch given how GOP-leaning both states have become).</p>
+<figure><img loading="lazy" width="670" height="996" src="https://fivethirtyeight.com/wp-content/uploads/2022/06/2022-senate-topline-335-2.png" alt="Ball-swarm (or bee-swarm) chart showing which party wins control of the House in 100 sample outcomes from our Deluxe model’s 40,000 simulations, where Democrats have a 47 percent chance of winning the chamber and Republicans have a 53 percent chance." data-src="https://fivethirtyeight.com/wp-content/uploads/2022/06/2022-senate-topline-335-2.png" data-srcset="https://fivethirtyeight.com/wp-content/uploads/2022/06/2022-senate-topline-335-2.png?w=670 1x, https://fivethirtyeight.com/wp-content/uploads/2022/06/2022-senate-topline-335-2.png?w=1340 2x"></figure><figure><img loading="lazy" width="1422" height="848" src="https://fivethirtyeight.com/wp-content/uploads/2022/06/2022-senate-topline-711-2.png" alt="Ball-swarm (or bee-swarm) chart showing which party wins control of the House in 100 sample outcomes from our Deluxe model’s 40,000 simulations, where Democrats have a 47 percent chance of winning the chamber and Republicans have a 53 percent chance." data-src="https://fivethirtyeight.com/wp-content/uploads/2022/06/2022-senate-topline-711-2.png" data-srcset="https://fivethirtyeight.com/wp-content/uploads/2022/06/2022-senate-topline-711-2.png?w=712 1x, https://fivethirtyeight.com/wp-content/uploads/2022/06/2022-senate-topline-711-2.png?w=1424 2x"></figure><p data-paragraph="main">Part of this is because Senate terms last for six years, and so most of these seats were last contested in 2016,<a data-footnote-id="15" href="https://fivethirtyeight.com/wp-json/wp/v2/espn_verticals/398#fn-15" data-footnote-content="&lt;p&gt;&lt;p&gt;Other than those such as Sen. Raphael Warnock’s seat in Georgia that were won in off-year special elections.&lt;/p&gt;
+&lt;/p&gt;"><sup>15</sup></a> a mediocre year for Democrats in which they lost the popular vote for the House and also lost Senate races in swing states such as Pennsylvania, Wisconsin and Arizona. Of the 35 Senate seats up for grabs in November, 21 are currently held by Republicans. True, most of these are not competitive, but in addition to their chances to gain a GOP-held seat in Pennsylvania, Democrats also have credible chances in Wisconsin and North Carolina (and outside chances in Ohio and Florida, although those are a stretch given how GOP-leaning both states have become).</p>
 
 
 
@@ -1548,8 +1691,8 @@
 
 
 
-<p data-paragraph="main">However, incumbency is a powerful force in gubernatorial races. For instance, even though Michigan is a slightly red-leaning state, its incumbent Democratic governor, Gretchen Whitmer, is a clear favorite against a Republican field marred by <a href="https://www.npr.org/2022/06/05/1103144991/5-republicans-are-off-the-michigan-gubernatorial-ballot-after-signature-fraud" target="_blank" rel="noopener">fraudulent attempts to access the ballot</a> and the <a href="https://www.thedailybeast.com/fbi-raids-home-of-michigan-republican-gubernatorial-candidate-ryan-kelley?ref=scroll" target="_blank" rel="noopener">arrest of a leading candidate</a> for his participation in the Jan. 6 insurrection. Meanwhile, Wisconsin’s Tony Evers, also a Democratic incumbent, is a favorite against a Republican field where the most likely nominee is Rebecca Kleefisch, the former lieutenant governor. This is the sort of race where abortion could matter: Technically, <a href="https://www.jsonline.com/story/news/politics/2022/06/24/overturning-roe-sets-stage-wisconsins-1849-ban-take-effect/7703590001/" target="_blank" rel="noopener">Wisconsin’s 173-year-old abortion ban</a> — which outlaws all abortions, except in cases to save the life of the mother — is <a href="https://www.nytimes.com/interactive/2022/us/abortion-laws-roe-v-wade.html" target="_blank" rel="noopener">now in effect</a> following the Dobbs decision, although the Democratic Attorney General Josh Kaul has said he <a href="https://apnews.com/article/us-supreme-court-wisconsin-431bdc117a5ca8a9608d1ba8250f6084" target="_blank" rel="noopener">won’t enforce the ban</a>.<a data-footnote-id="13" href="https://fivethirtyeight.com/wp-json/wp/v2/espn_verticals/398#fn-13" data-footnote-content='&lt;p&gt;&lt;p&gt;He and Evers have also mounted &lt;a href="https://twitter.com/GovEvers/status/1541849090987884544" target="_blank" rel="noopener"&gt;a legal challenge&lt;/a&gt; to strike down the ban, and Evers has &lt;a href="https://www.wispolitics.com/2022/evers-tells-convention-rally-hell-grant-clemency-to-docs-convicted-under-wisconsin-abortion-law/" target="_blank" rel="noopener"&gt;promised to pardon&lt;/a&gt; any doctors convicted of performing an abortion.&lt;/p&gt;
-&lt;/p&gt;'><sup>13</sup></a> But Kleefisch has <a href="https://www.cbs58.com/news/views-on-abortion-to-shake-up-campaigns-upcoming-elections-in-wisconsin" target="_blank" rel="noopener">said she opposes abortion</a> even in cases of rape and incest.</p>
+<p data-paragraph="main">However, incumbency is a powerful force in gubernatorial races. For instance, even though Michigan is a slightly red-leaning state, its incumbent Democratic governor, Gretchen Whitmer, is a clear favorite against a Republican field marred by <a href="https://www.npr.org/2022/06/05/1103144991/5-republicans-are-off-the-michigan-gubernatorial-ballot-after-signature-fraud" target="_blank" rel="noopener">fraudulent attempts to access the ballot</a> and the <a href="https://www.thedailybeast.com/fbi-raids-home-of-michigan-republican-gubernatorial-candidate-ryan-kelley?ref=scroll" target="_blank" rel="noopener">arrest of a leading candidate</a> for his participation in the Jan. 6 insurrection. Meanwhile, Wisconsin’s Tony Evers, also a Democratic incumbent, is a favorite against a Republican field where the most likely nominee is Rebecca Kleefisch, the former lieutenant governor. This is the sort of race where abortion could matter: Technically, <a href="https://www.jsonline.com/story/news/politics/2022/06/24/overturning-roe-sets-stage-wisconsins-1849-ban-take-effect/7703590001/" target="_blank" rel="noopener">Wisconsin’s 173-year-old abortion ban</a> — which outlaws all abortions, except in cases to save the life of the mother — is <a href="https://www.nytimes.com/interactive/2022/us/abortion-laws-roe-v-wade.html" target="_blank" rel="noopener">now in effect</a> following the Dobbs decision, although the Democratic Attorney General Josh Kaul has said he <a href="https://apnews.com/article/us-supreme-court-wisconsin-431bdc117a5ca8a9608d1ba8250f6084" target="_blank" rel="noopener">won’t enforce the ban</a>.<a data-footnote-id="16" href="https://fivethirtyeight.com/wp-json/wp/v2/espn_verticals/398#fn-16" data-footnote-content='&lt;p&gt;&lt;p&gt;He and Evers have also mounted &lt;a href="https://twitter.com/GovEvers/status/1541849090987884544" target="_blank" rel="noopener"&gt;a legal challenge&lt;/a&gt; to strike down the ban, and Evers has &lt;a href="https://www.wispolitics.com/2022/evers-tells-convention-rally-hell-grant-clemency-to-docs-convicted-under-wisconsin-abortion-law/" target="_blank" rel="noopener"&gt;promised to pardon&lt;/a&gt; any doctors convicted of performing an abortion.&lt;/p&gt;
+&lt;/p&gt;'><sup>16</sup></a> But Kleefisch has <a href="https://www.cbs58.com/news/views-on-abortion-to-shake-up-campaigns-upcoming-elections-in-wisconsin" target="_blank" rel="noopener">said she opposes abortion</a> even in cases of rape and incest.</p>
 
 
 
@@ -1571,10 +1714,10 @@
 
 
 
-<ol><li><strong>In evaluating fundraising for congressional candidates, the model now places more emphasis on contributions received within the candidate’s state.</strong> Fundraising is a highly nationalized activity these days; Democrats in California and New York regularly contribute to Senate campaigns like that of Democrat Jaime Harrison of South Carolina, who <a href="https://www.cnn.com/2020/10/11/politics/jaime-harrison-fundraising-record-south-carolina-senate-race/index.html">raised a record amount of money in 2020</a><strong> </strong>but nonetheless lost to Republican Sen. Lindsey Graham by 10 percentage points. As such, our analysis finds that a dollar received from within a candidate’s state is about five times as valuable as a dollar received outside of it in predicting the eventual election outcome.<a data-footnote-id="14" href="https://fivethirtyeight.com/wp-json/wp/v2/espn_verticals/398#fn-14" data-footnote-content="&lt;p&gt;&lt;p&gt;Keep in mind that the value of fundraising as a predictive variable is not just because the money can be used to buy advertising and other services, but it’s also as an indicator of organic, grassroots support.&lt;strong&gt; &lt;/strong&gt;Harrison used money from California or New York to buy ads and hire staff, but that didn’t mean there was a groundswell of voters in South Carolina looking to support him.&lt;/p&gt;
-&lt;/p&gt;"><sup>14</sup></a> That’s why the model now applies that ratio, multiplying any funds raised from voters within the candidate’s state by 5, when assessing which candidate has the fundraising edge.</li></ol><ol start="2"><li><strong>The model now puts more emphasis on basic partisanship as opposed to other fundamentals. </strong>The fundamentals component of our model, used in the Classic and Deluxe versions, evaluates a series of variables such as fundraising, incumbency, candidate experience, congressional voting records and even scandals to make a forecast. The formula is fairly complicated, so we tested a simple alternative in an era of high partisanship. Specifically, we looked at what would happen if you made a forecast based solely on the <a href="https://fivethirtyeight.com/features/how-red-or-blue-is-your-state-your-congressional-district/">partisan lean of a state or district</a>, plus generic-ballot results. For instance, if the generic ballot favors Republicans by 4 percentage points, and a state leans Republican by 3 points, you might expect the Republican to win there by 7 points. In testing this on 2018 and 2020 races, we found that the more complicated version of our fundamentals formula does outperform this simple alternative. But it’s pretty close, and a blend of the complicated and simple formulas does better than either one taken alone.<a data-footnote-id="15" href="https://fivethirtyeight.com/wp-json/wp/v2/espn_verticals/398#fn-15" data-footnote-content="&lt;p&gt;&lt;p&gt;Specifically, in the new version of our model, the simple formula gets 35 percent of the weight in congressional races and 17.5 percent for gubernatorial races, while the complicated one gets 65 percent and 82.5 percent, respectively.&lt;/p&gt;
-&lt;/p&gt;"><sup>15</sup></a> What this means is that state partisanship and the generic ballot will have more influence on our model going forward and the other fundamentals factors less, although they certainly matter some.</li></ol><ol start="3"><li><strong>We assume errors are more correlated from race to race</strong>. In presidential races, forecast and polling errors are highly correlated from state to state. It wasn’t a surprise that Trump won Wisconsin and Pennsylvania in 2016 given that he also won Michigan, for example, since the states are fairly similar demographically. (Accounting for this properly was a <a href="https://fivethirtyeight.com/features/why-fivethirtyeight-gave-trump-a-better-chance-than-almost-anyone-else/">big reason that FiveThirtyEight’s model gave Trump a better chance than others</a> in 2016.) This also holds in congressional races, though to a considerably lesser degree since there are different candidates on the ballot in each state. A scandal affecting the Republican candidate in Georgia won’t necessarily have any impact in Arizona, for instance. However, our analysis suggests that polling errors are becoming more correlated in congressional races, too. Certainly, 2020 was a prominent example given that Republicans won nearly every toss-up race for the House and that <a href="https://fivethirtyeight.com/features/the-death-of-polling-is-greatly-exaggerated/">polls for Congress had a strong overall bias toward Democrats</a>. Therefore, we’ve increased the degree to which race-by-race errors are assumed to be correlated in the model.<a data-footnote-id="16" href="https://fivethirtyeight.com/wp-json/wp/v2/espn_verticals/398#fn-16" data-footnote-content="&lt;p&gt;&lt;p&gt;This is &lt;em&gt;not&lt;/em&gt; the same as increasing the overall amount of error in the forecast. Our technique for calculating forecast error is somewhat complicated, but to simplify, there’s a national component and a local component, where the local component applies only to one race and the national component applies to all races across the board. In this year’s version of the model, we’ve increased the national error but &lt;em&gt;decreased&lt;/em&gt; the local error, meaning that the overall forecast error is about the same.&lt;/p&gt;
-&lt;/p&gt;"><sup>16</sup></a></li></ol><ol start="4"><li><strong>We’ve reduced the emphasis on sample size when weighting polls. </strong>This is <a href="https://fivethirtyeight.com/features/the-death-of-polling-is-greatly-exaggerated/">consistent with a change in our pollster ratings methodology</a> and is explained in more detail there.</li></ol><ol start="5"><li><strong>We’ve removed </strong><strong>a </strong><a href="https://fivethirtyeight.com/features/how-fivethirtyeights-2020-presidential-forecast-works-and-whats-different-because-of-covid-19/"><strong>series of changes</strong></a><strong> in the 2020 model that were specific to the COVID-19</strong><strong> pandemic. </strong>Yes, I know the pandemic isn’t over yet, but voting will take place under far more normal conditions than in 2020.</li></ol><p data-paragraph="main">Finally, a couple pieces of housekeeping. A number of states haven’t held their primaries yet, so in those cases, we guess at the most likely nominees based on polling, fundraising and other factors. These “presumed nominees” are designated with an asterisk in the interactive. If you see anything egregiously wrong — such as a candidate listed as a presumptive nominee when they’ve dropped out of the race — <a href="mailto:polls@fivethirtyeight.com" target="_blank" rel="noopener">please drop us a line</a>.</p>
+<ol><li><strong>In evaluating fundraising for congressional candidates, the model now places more emphasis on contributions received within the candidate’s state.</strong> Fundraising is a highly nationalized activity these days; Democrats in California and New York regularly contribute to Senate campaigns like that of Democrat Jaime Harrison of South Carolina, who <a href="https://www.cnn.com/2020/10/11/politics/jaime-harrison-fundraising-record-south-carolina-senate-race/index.html">raised a record amount of money in 2020</a><strong> </strong>but nonetheless lost to Republican Sen. Lindsey Graham by 10 percentage points. As such, our analysis finds that a dollar received from within a candidate’s state is about five times as valuable as a dollar received outside of it in predicting the eventual election outcome.<a data-footnote-id="17" href="https://fivethirtyeight.com/wp-json/wp/v2/espn_verticals/398#fn-17" data-footnote-content="&lt;p&gt;&lt;p&gt;Keep in mind that the value of fundraising as a predictive variable is not just because the money can be used to buy advertising and other services, but it’s also as an indicator of organic, grassroots support.&lt;strong&gt; &lt;/strong&gt;Harrison used money from California or New York to buy ads and hire staff, but that didn’t mean there was a groundswell of voters in South Carolina looking to support him.&lt;/p&gt;
+&lt;/p&gt;"><sup>17</sup></a> That’s why the model now applies that ratio, multiplying any funds raised from voters within the candidate’s state by 5, when assessing which candidate has the fundraising edge.</li></ol><ol start="2"><li><strong>The model now puts more emphasis on basic partisanship as opposed to other fundamentals. </strong>The fundamentals component of our model, used in the Classic and Deluxe versions, evaluates a series of variables such as fundraising, incumbency, candidate experience, congressional voting records and even scandals to make a forecast. The formula is fairly complicated, so we tested a simple alternative in an era of high partisanship. Specifically, we looked at what would happen if you made a forecast based solely on the <a href="https://fivethirtyeight.com/features/how-red-or-blue-is-your-state-your-congressional-district/">partisan lean of a state or district</a>, plus generic-ballot results. For instance, if the generic ballot favors Republicans by 4 percentage points, and a state leans Republican by 3 points, you might expect the Republican to win there by 7 points. In testing this on 2018 and 2020 races, we found that the more complicated version of our fundamentals formula does outperform this simple alternative. But it’s pretty close, and a blend of the complicated and simple formulas does better than either one taken alone.<a data-footnote-id="18" href="https://fivethirtyeight.com/wp-json/wp/v2/espn_verticals/398#fn-18" data-footnote-content="&lt;p&gt;&lt;p&gt;Specifically, in the new version of our model, the simple formula gets 35 percent of the weight in congressional races and 17.5 percent for gubernatorial races, while the complicated one gets 65 percent and 82.5 percent, respectively.&lt;/p&gt;
+&lt;/p&gt;"><sup>18</sup></a> What this means is that state partisanship and the generic ballot will have more influence on our model going forward and the other fundamentals factors less, although they certainly matter some.</li></ol><ol start="3"><li><strong>We assume errors are more correlated from race to race</strong>. In presidential races, forecast and polling errors are highly correlated from state to state. It wasn’t a surprise that Trump won Wisconsin and Pennsylvania in 2016 given that he also won Michigan, for example, since the states are fairly similar demographically. (Accounting for this properly was a <a href="https://fivethirtyeight.com/features/why-fivethirtyeight-gave-trump-a-better-chance-than-almost-anyone-else/">big reason that FiveThirtyEight’s model gave Trump a better chance than others</a> in 2016.) This also holds in congressional races, though to a considerably lesser degree since there are different candidates on the ballot in each state. A scandal affecting the Republican candidate in Georgia won’t necessarily have any impact in Arizona, for instance. However, our analysis suggests that polling errors are becoming more correlated in congressional races, too. Certainly, 2020 was a prominent example given that Republicans won nearly every toss-up race for the House and that <a href="https://fivethirtyeight.com/features/the-death-of-polling-is-greatly-exaggerated/">polls for Congress had a strong overall bias toward Democrats</a>. Therefore, we’ve increased the degree to which race-by-race errors are assumed to be correlated in the model.<a data-footnote-id="19" href="https://fivethirtyeight.com/wp-json/wp/v2/espn_verticals/398#fn-19" data-footnote-content="&lt;p&gt;&lt;p&gt;This is &lt;em&gt;not&lt;/em&gt; the same as increasing the overall amount of error in the forecast. Our technique for calculating forecast error is somewhat complicated, but to simplify, there’s a national component and a local component, where the local component applies only to one race and the national component applies to all races across the board. In this year’s version of the model, we’ve increased the national error but &lt;em&gt;decreased&lt;/em&gt; the local error, meaning that the overall forecast error is about the same.&lt;/p&gt;
+&lt;/p&gt;"><sup>19</sup></a></li></ol><ol start="4"><li><strong>We’ve reduced the emphasis on sample size when weighting polls. </strong>This is <a href="https://fivethirtyeight.com/features/the-death-of-polling-is-greatly-exaggerated/">consistent with a change in our pollster ratings methodology</a> and is explained in more detail there.</li></ol><ol start="5"><li><strong>We’ve removed </strong><strong>a </strong><a href="https://fivethirtyeight.com/features/how-fivethirtyeights-2020-presidential-forecast-works-and-whats-different-because-of-covid-19/"><strong>series of changes</strong></a><strong> in the 2020 model that were specific to the COVID-19</strong><strong> pandemic. </strong>Yes, I know the pandemic isn’t over yet, but voting will take place under far more normal conditions than in 2020.</li></ol><p data-paragraph="main">Finally, a couple pieces of housekeeping. A number of states haven’t held their primaries yet, so in those cases, we guess at the most likely nominees based on polling, fundraising and other factors. These “presumed nominees” are designated with an asterisk in the interactive. If you see anything egregiously wrong — such as a candidate listed as a presumptive nominee when they’ve dropped out of the race — <a href="mailto:polls@fivethirtyeight.com" target="_blank" rel="noopener">please drop us a line</a>.</p>
 
 
 
@@ -1859,8 +2002,8 @@ Interest-Based Ads
 
 
 
-<p data-paragraph="main">Even if Kelly doesn’t lose, however, Republicans could still ban or restrict abortion as long as they retain their veto-proof supermajorities in both chambers of the legislature. Right now, Republicans have 28 of the 40 seats<a data-footnote-id="17" href="https://fivethirtyeight.com/wp-json/wp/v2/espn_verticals/398#fn-17" data-footnote-content='&lt;p&gt;&lt;p&gt;Plus, there’s a &lt;a href="https://www.kansascity.com/news/politics-government/article262242287.html" target="_blank" rel="noopener"&gt;conservative independent&lt;/a&gt;.&lt;/p&gt;
-&lt;/p&gt;'><sup>17</sup></a> in the Kansas state Senate (a supermajority is 27) and 86 of the 125 seats in the state House of Representatives (a supermajority is 84).</p>
+<p data-paragraph="main">Even if Kelly doesn’t lose, however, Republicans could still ban or restrict abortion as long as they retain their veto-proof supermajorities in both chambers of the legislature. Right now, Republicans have 28 of the 40 seats<a data-footnote-id="20" href="https://fivethirtyeight.com/wp-json/wp/v2/espn_verticals/398#fn-20" data-footnote-content='&lt;p&gt;&lt;p&gt;Plus, there’s a &lt;a href="https://www.kansascity.com/news/politics-government/article262242287.html" target="_blank" rel="noopener"&gt;conservative independent&lt;/a&gt;.&lt;/p&gt;
+&lt;/p&gt;'><sup>20</sup></a> in the Kansas state Senate (a supermajority is 27) and 86 of the 125 seats in the state House of Representatives (a supermajority is 84).</p>
 
 
 
@@ -3070,126 +3213,6 @@ Interest-Based Ads
 <p>Watch: https://abcnews.go.com/fivethirtyeight/video/supreme-court-overturns-roe-wade-fivethirtyeight-politics-podcast-85666091</p>]]></description>
 			<pubDate>Fri, 24 Jun 2022 17:11:00 +0100</pubDate>
 			<guid isPermaLink="false">1656090002093925</guid>
-		</item>
-		<item>
-			<title>A Gas Holiday Might Be Popular, But It’s Unlikely To Do Much To Lower Inflation</title>
-			<link>https://fivethirtyeight.com/features/a-gas-holiday-might-be-popular-but-its-unlikely-to-do-much-to-lower-inflation/</link>
-						<dc:creator>Monica Potts</dc:creator>
-			<dc:creator>Monica Potts and Zoha Qamar</dc:creator>
-			<category>Inflation</category>
-			<category>Pollapalooza</category>
-			<category>The Biden Administration</category>
-			<description><![CDATA[<div>
-
-			<div>
-
-				<header><div>
-													<p><a href="https://fivethirtyeight.com/tag/inflation/" name="">Inflation</a></p>
-						
-													<h1>A Gas Holiday Might Be Popular, But It’s Unlikely To Do Much To Lower Inflation</h1>
-																	</div>
-
-										<div>
-						<div>
-															<p>By <a href="https://fivethirtyeight.com/contributors/monica-potts/" title="" rel="author">Monica Potts and Zoha Qamar</a> and <a href="https://fivethirtyeight.com/contributors/zoha-qamar/" title="" rel="author">Monica Potts and Zoha Qamar</a></p>
-							
-							<p>
-								<time>
-									Jun. 24, 2022, at 6:00 AM								</time></p>
-
-						</div>
-						<div>
-													</div> 
-					</div>
-					
-				</header><figure><span>
-									<div>
-						<picture><source media="(min-width: 768px)"><source><img alt="A photo illustration of gas prices against a gridded background" src="https://fivethirtyeight.com/wp-content/uploads/2022/06/0624_POLLA-4x3-1.png?w=916" data-sizes="(max-width: 768px) 100vw, (max-width: 1080px) 66vw, 684px" data-src="https://fivethirtyeight.com/wp-content/uploads/2022/06/0624_POLLA-4x3-1.png?w=916" data-srcset="https://fivethirtyeight.com/wp-content/uploads/2022/06/0624_POLLA-4x3-1.png?w=916 1x, https://fivethirtyeight.com/wp-content/uploads/2022/06/0624_POLLA-4x3-1.png?w=1832 2x"></source></source></picture></div>
-
-				
-			</span>
-
-			
-								<figcaption><p>PHOTO ILLUSTRATION BY DAN DAO / GETTY IMAGES</p>
-											</figcaption></figure></div>
-
-			
-		</div>
-
-
-
-
-
-<p data-paragraph="main">Welcome to <a href="https://fivethirtyeight.com/tag/pollapalooza/" target="_blank" rel="noopener">Pollapalooza</a>, our weekly polling roundup.</p>
-
-
-
-<div><hr><span></span></div>
-
-
-
-
-<p data-paragraph="main">Earlier this week President Biden asked Congress to temporarily <a href="https://www.ft.com/content/1f6510d7-3472-4683-826a-487f43faf907?emailId=62b2f08ce1aee30023df1d5f&amp;segmentId=13b7e341-ed02-2b53-e8c0-d9cb59be8b3b" target="_blank" rel="noopener">suspend collection of federal gas and diesel taxes</a> for three months as a way to relieve pressure on Americans as national gas prices rise to $5 a gallon. If the price keeps going up, it could top highs not seen since <a href="https://www.kiplinger.com/personal-finance/spending/604760/are-todays-pump-prices-higher-than-2008s-gas-prices" target="_blank" rel="noopener">the summer of 2008</a>. High gas prices are also helping to drive overall inflation, which reached <a href="https://www.nytimes.com/2022/06/10/business/economy/may-2022-cpi-inflation.html" target="_blank" rel="noopener">8.6 percent as of May</a>. </p>
-
-
-
-<p data-paragraph="main">It’s no surprise, then, that Biden is responding to pressure to do something — anything — about gas prices. As <a href="https://www.vox.com/2022/6/17/23169695/record-high-gas-prices-economy-impact" target="_blank" rel="noopener">plenty of people have pointed out</a>, the cost per gallon is displayed on giant signs everyone can see. Transportation and groceries are necessities that are purchased weekly or even daily, which means Americans feel these changes in a visible, visceral way. It also gets at why they’re so important politically, especially as surveys show that Americans are adjusting their budgets. </p>
-
-
-
-<p data-paragraph="main">Nearly three-quarters of Americans say they’ve altered their spending habits to save money because of inflation, <a href="https://morningconsult.com/2022/06/21/inflation-has-consumers-cutting-back-on-dining-and-meat/" target="_blank" rel="noopener">according to a Morning Consult</a> poll released this week. More than half, 53 percent, say they’ve changed their eating and drinking habits. Families are eating out less often, cutting back on meat and forgoing alcohol and organic produce.</p>
-
-
-
-<p data-paragraph="main">A similar poll from last month found that middle-income households were spending slightly less on groceries overall and <a href="https://morningconsult.com/2022/05/16/consumer-grocery-habits-inflation/" target="_blank" rel="noopener">shifting to less expensive options</a>, like store brands instead of name brands. (Higher-income families were just spending more.) </p>
-
-
-
-<p data-paragraph="main"><a href="https://s3.documentcloud.org/documents/22056399/2022-05-12-post-schar-school-trend-for-release.pdf" target="_blank" rel="noopener">A Washington Post/Schar School poll conducted</a> April 21 to May 12 found similar levels of bargain hunting — 87 percent of respondents said they took the time to find the cheapest product. The poll also found that 59 percent were reducing their use of electricity and 59 percent were driving less. But one of the biggest impacts was in cutting back on entertainment or eating out (77 percent); perhaps inflation was partially behind the reported drop in <a href="https://www.theverge.com/2022/5/18/23125424/netflix-losing-long-term-subscribers-streaming" target="_blank" rel="noopener">Netflix subscribers</a> earlier this year. Respondents are also putting off otherwise planned purchases (74 percent). And though many planned summer vacations that were similar to those they’d had pre-pandemic, they aimed to spend less.</p>
-
-
-
-<p data-paragraph="main">But while some families are changing their habits, that doesn’t mean they’re happy about it — and it probably doesn’t help that they’re making choices based on what they can afford instead of what they want. In a Pew Research Center survey from January, <a href="https://www.pewresearch.org/politics/2022/01/25/views-of-the-national-economy-assessments-of-prices-jobs-housing-and-the-stock-market/" target="_blank" rel="noopener">majorities of Americans said 6 out of the 8 economic indicators</a> they were asked about were worse than the previous year. Only 28 percent ranked the economy as good. Purchasing <a href="https://www.ipsos.com/en-us/news-polls/us-consumer-sentiment-falls-lowest-point-18-months" target="_blank" rel="noopener">confidence has also fallen</a>, which means people don’t expect inflation to end any time soon.</p>
-
-
-
-<p data-paragraph="main">Moreover, many are <a href="https://civicscience.com/americans-are-rapidly-and-unexpectedly-tapping-into-savings/" target="_blank" rel="noopener">dipping into their savings</a> this year to cover increased costs — despite <a href="https://www.npr.org/2022/06/03/1102676411/job-labor-market-unemployment-rate-inflation" target="_blank" rel="noopener">low unemployment</a> and <a href="https://www.atlantafed.org/chcs/wage-growth-tracker" target="_blank" rel="noopener">increases in wages</a>. In a <a href="https://www.wsj.com/articles/inflation-political-division-put-u-s-in-a-pessimistic-mood-poll-finds-11654507800" target="_blank" rel="noopener">Wall Street Journal/NORC poll</a> from last month, two-thirds of people said it would be somewhat or very easy to find a new job, but the boom in the labor market hasn’t been enough to ease the problems elsewhere.</p>
-
-
-
-<p data-paragraph="main">In general, Americans are pretty pessimistic, not just about their own financial situation — more than a third of respondents in that Wall Street Journal/NORC poll ranked their financial situation as poor or not so good — but about the current political system, too. FiveThirtyEight’s collaboration with Ipsos found, for instance, that Americans are especially worried about <a href="https://fivethirtyeight.com/features/we-asked-2000-americans-about-their-biggest-concern-the-resounding-answer-inflation/" target="_blank" rel="noopener">inflation</a> and <a href="https://fivethirtyeight.com/features/3-in-10-americans-named-political-polarization-as-a-top-issue-facing-the-country/" target="_blank" rel="noopener">political polarization</a>. And a Gallup poll released at the end of May found that <a href="https://news.gallup.com/poll/393176/economic-pessimism-growing.aspx" target="_blank" rel="noopener">“The government/Poor leadership”</a> edged out the high cost of living and inflation as a top concern. </p>
-
-
-
-<p data-paragraph="main">That said, some experts worry that a gas holiday <a href="https://www.ft.com/content/1f6510d7-3472-4683-826a-487f43faf907?emailId=62b2f08ce1aee30023df1d5f&amp;segmentId=13b7e341-ed02-2b53-e8c0-d9cb59be8b3b" target="_blank" rel="noopener">could make inflation worse</a> by increasing demand, and it would need to be approved by Congress regardless. It may, however, be popular politically: <a href="https://today.yougov.com/topics/science/survey-results/daily/2022/06/23/0495d/1" target="_blank" rel="noopener">A YouGov poll</a> published Thursday found that 55 percent of respondents would approve of the move. But it’s also possible that a gas holiday just wouldn’t do much to offset the high cost of living that’s squeezing many households. America’s <a href="https://fivethirtyeight.com/features/congress-found-an-easy-way-to-fix-child-poverty-then-it-walked-away/" target="_blank" rel="noopener">ragged safety net</a> and fluctuating prices for necessities all have causes, and solutions, that are complex and frustrating to tease out, and many of these measures have always been <a href="https://www.bloomberg.com/opinion/articles/2021-04-13/consumer-price-index-cpi-history-is-surprisingly-political" target="_blank" rel="noopener">a bit political anyway</a>. </p>
-
-
-
-<p data-paragraph="main">With increasing polarization, Americans could be worried about the same issues but for a variety of reasons. But as with so many aspects of American life, the president remains the most visible person to blame. Earlier this month, <a href="https://projects.fivethirtyeight.com/biden-approval-rating/" target="_blank" rel="noopener">Biden’s approval rating fell below 40 percent</a> for the first time, which could argue that the worst, for the economy and for Biden, is still to come.</p>
-
-
-
-<h2>Other Polling Bites</h2>
-
-
-
-<ul><li>One nation under God? Yes, but decreasingly so. At present, 81 percent of Americans believe in God, according to <a href="https://news.gallup.com/poll/393737/belief-god-dips-new-low.aspx">a Gallup poll</a> published last week that surveyed the strength of faith in the U.S. That number may sound high, but it’s the lowest ever reported since Gallup began asking the question in 1944 when 96 percent affirmed their belief. Some of today’s demographic breakdowns aren’t super surprising — liberal and younger Americans are less likely to believe than their conservative or older counterparts. But other findings do challenge common assumptions. There’s no discernible difference among Americans based on where they live — on average, 82 percent in cities, 80 percent in suburbs and 82 percent in rural areas believe in God, putting all three groups all uniformly on par with the national average. Most notably, every single demographic subgroup tracked — attributes spanning everything from ethnicity to age, marital status to education level, or political leaning to geographic region — has fewer believers than the 2013-2017 surveys. </li><li>A growing fraction (59 percent) of Americans said they have a lot or some knowledge about Juneteenth, compared with 37 percent about a year ago. <a href="https://news.gallup.com/poll/393755/public-understanding-juneteenth-grown-2021.aspx">Gallup conducted surveys</a> assessing public knowledge and support surrounding the observance in May 2021 — just weeks before Congress and then Biden made Juneteenth a federal holiday — and again starting in late April 2022. At present, 45 percent of Americans are in support of its status as a federal holiday, up from 35 percent last year. That said, opposition toward Juneteenth has also increased, though not quite at the same rate: 30 percent actively disagree with its holiday designation, as opposed to 25 percent a year ago.</li><li>Less than a quarter of Americans — a historic low of 26 percent — trust the news, according to <a href="https://reutersinstitute.politics.ox.ac.uk/digital-news-report/2022">a new report from Oxford University’s Reuters Institute</a> for media understanding. <a href="https://www.pewresearch.org/journalism/2022/06/14/journalists-sense-turmoil-in-their-industry-amid-continued-passion-for-their-work/">A poll from Pew published last week</a> corroborates this while also suggesting that reporters fail to fully perceive audience hesitations: 65 percent of U.S. journalists told Pew news organizations do a good or very good job reporting the news accurately, but only 35 percent of U.S. adults agreed. Moreover, the Reuters Institute researchers found that 42 percent of Americans actively avoid the news, a trend that has gradually risen in recent years. </li><li>Around 6 in 10 Americans with smartphones believe the relationship with their device is, in reality, not all that smart, finds <a href="https://news.gallup.com/poll/393785/americans-close-wary-bond-smartphone.aspx">a new Gallup survey</a>. That’s approximately a 50 percent jump, too, since the organization’s researchers first asked the question (“Do you think you spend too much time using your smartphone?”) in 2015. Each age bracket and gender demographic studied reported a steep uptick in “yes” responses, with increases ranging between 40 percent and 230 percent depending on the demographic category. (Those 65 and over account for the 230 percent jump.) The study also found that 97 percent of respondents owned smartphones, compared with 81 percent seven years ago. </li><li>Although <a href="https://today.yougov.com/topics/politics/survey-results/daily/2022/06/17/4ed65/3">43 percent of Americans</a> believe self-driving cars will one day become commonplace, 60 percent report they’d feel at least somewhat uncomfortable riding in one, per <a href="https://today.yougov.com/topics/politics/survey-results/daily/2022/06/17/4ed65/1">a YouGov poll</a> conducted last Friday. Disaggregating that figure by age, however, reveals diverging attitudes based on generation. The proportion who voiced discomfort swells to 80 percent for those age 65 and over, while it plummets to 38 percent for 18- to 29-year-olds. The numbers also look a bit different by race, with white Americans more inclined to feel uneasy (65 percent) than any other group.</li></ul><h2><strong>Biden approval</strong></h2>
-
-
-
-<figure><img loading="lazy" width="1150" height="920" src="https://fivethirtyeight.com/wp-content/uploads/2022/06/biden-approval-rating-2-1.png" alt="" data-src="https://fivethirtyeight.com/wp-content/uploads/2022/06/biden-approval-rating-2-1.png" data-srcset="https://fivethirtyeight.com/wp-content/uploads/2022/06/biden-approval-rating-2-1.png?w=712 1x, https://fivethirtyeight.com/wp-content/uploads/2022/06/biden-approval-rating-2-1.png?w=1424 2x"></figure><p data-paragraph="main">According to FiveThirtyEight’s <a href="https://projects.fivethirtyeight.com/biden-approval-rating/" target="_blank" rel="noopener">presidential approval tracker</a>,<a data-footnote-id="13" href="https://fivethirtyeight.com/wp-json/wp/v2/espn_verticals/398#fn-13" data-footnote-content="&lt;p&gt;&lt;p&gt;As of 5 p.m. Eastern on Thursday.&lt;/p&gt;
-&lt;/p&gt;"><sup>13</sup></a> 39.2 percent of Americans approve of the job Biden is doing as president, while 55.4 percent disapprove (a net approval rating of -16.2 points). At this time last week, 39.9 percent approved and 54.3 percent disapproved (a net approval rating of -14.4 points). One month ago, Biden had an approval rating of 41.1 percent and a disapproval rating of 54.5 percent, for a net approval rating of -13.4 points.</p>
-
-
-
-<h2><strong>Generic ballot</strong></h2>
-
-
-
-<figure><img loading="lazy" width="1150" height="920" src="https://fivethirtyeight.com/wp-content/uploads/2022/06/generic-ballot-2-1.png" alt="" data-src="https://fivethirtyeight.com/wp-content/uploads/2022/06/generic-ballot-2-1.png" data-srcset="https://fivethirtyeight.com/wp-content/uploads/2022/06/generic-ballot-2-1.png?w=712 1x, https://fivethirtyeight.com/wp-content/uploads/2022/06/generic-ballot-2-1.png?w=1424 2x"></figure><p data-paragraph="main">In our average of polls of the <a href="https://projects.fivethirtyeight.com/congress-generic-ballot-polls/" target="_blank" rel="noopener">generic congressional ballot</a>,<a data-footnote-id="14" href="https://fivethirtyeight.com/wp-json/wp/v2/espn_verticals/398#fn-14" data-footnote-content="&lt;p&gt;&lt;p&gt;As of 5 p.m. Eastern on Thursday.&lt;/p&gt;
-&lt;/p&gt;"><sup>14</sup></a> Republicans currently lead by 2.3 percentage points (44.8 percent to 42.5 percent). A week ago, Republicans led Democrats by 2.6 points (45.0 percent to 42.4 percent). At this time last month, voters preferred Republicans by 2.3 points (45.0 percent to 42.7 percent).</p>]]></description>
-			<pubDate>Fri, 24 Jun 2022 11:00:00 +0100</pubDate>
-			<guid isPermaLink="false">1656067501728300</guid>
 		</item>
 
 	</channel>
