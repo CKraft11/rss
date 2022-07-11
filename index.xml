@@ -3,9 +3,74 @@
 		<title>Main stream | FreshRSS</title>
 		<link>http://radon</link>
 		<description>RSS feed of Main stream | FreshRSS</description>
-		<pubDate>Mon, 11 Jul 2022 23:29:07 +0100</pubDate>
-		<lastBuildDate>Mon, 11 Jul 2022 22:29:07 GMT</lastBuildDate>
+		<pubDate>Mon, 11 Jul 2022 23:59:07 +0100</pubDate>
+		<lastBuildDate>Mon, 11 Jul 2022 22:59:07 GMT</lastBuildDate>
 		<atom:link href="http://radon/i/?a=rss" rel="self" type="application/rss+xml" />
+		<item>
+			<title>Politics Podcast: The Supreme Court Episode</title>
+			<link>https://fivethirtyeight.com/features/politics-podcast-the-supreme-court-episode/</link>
+						<dc:creator>Galen Druke</dc:creator>
+			<dc:creator>FiveThirtyEight</dc:creator>
+			<category>FiveThirtyEight Podcasts</category>
+			<category>Institutions</category>
+			<category>Politics Podcast</category>
+			<category>Roe V. Wade</category>
+			<category>Senate</category>
+			<category>Supreme Court</category>
+			<description><![CDATA[<div data-href="https://fivethirtyeight.com/features/politics-podcast-the-supreme-court-episode/">
+	<div data-podcast-id="339404" data-podcast-duration="0" data-podcast-title="Politics Podcast: The Supreme Court Episode">
+
+					<span><span>FiveThirtyEight</span></span>
+			
+		
+		<button aria-label="Play"></button>
+
+					<div>
+		
+		
+							<div>
+					<div>
+						<div></div>
+					</div>
+
+					<div> </div>
+
+					<audio preload="none" controls="controls">
+						<source src="https://www.podtrac.com/pts/redirect.mp3/traffic.megaphone.fm/ESP5384614776.mp3?updated=1657577530">
+					</source></audio>
+				</div>
+			
+					</div>
+		
+	</div>
+</div>
+<aside>
+	<div>
+		More: <a href="https://itunes.apple.com/us/podcast/fivethirtyeight-elections/id1077418457">Apple Podcasts</a> |
+		<span><a data-android-url="" href="http://m.espn.com/general/cast?id=14554755">ESPN App</a> |</span>
+		<a href="https://www.espn.com/espnradio/feeds/rss/podcast.xml?id=14554755">RSS</a>
+			</div>
+	</aside>
+
+
+
+
+<p data-paragraph="main">This past Supreme Court term featured the sharpest ideological divide in decades, with 21 percent of rulings seeing justices nominated by presidents of one party vote one way and justices nominated by presidents of the other party vote the opposite way. In this installment of the <a href="https://fivethirtyeight.com/tag/politics-podcast/" target="_blank" rel="noopener">FiveThirtyEight Politics podcast</a>, the crew analyzes the rightward direction of the court this term and what the majority conservative court could have in store in the future. Then they break down the Democrats’ response and how the party could try to tip the balance of the court or limit the power of the justices.</p>
+
+
+
+<p data-paragraph="main">But first the crew kicks off this SCOTUS-focused podcast by discussing a recent <a href="https://news.gallup.com/poll/394103/confidence-supreme-court-sinks-historic-low.aspx" target="_blank" rel="noopener">Gallup poll</a> that found American confidence in the Supreme Court at a 50-year low. The poll has inspired political commentators to argue that the court is putting its legitimacy in danger by straying too far from national public opinion.</p>
+
+
+
+<p data-paragraph="main"><em>You can listen to the episode by clicking the “play” button in the audio player above or by </em><a href="https://itunes.apple.com/us/podcast/fivethirtyeight-elections/id1077418457?mt=2" target="_blank" rel="noopener"><em>downloading it in iTunes</em></a><em>, the </em><a href="http://www.espn.com/espn/mobile/products/products/_/id/6857590" target="_blank" rel="noopener"><em>ESPN App</em></a><em> or your favorite podcast platform. If you are new to podcasts, </em><a href="https://fivethirtyeight.com/how-to-listen-to-fivethirtyeight-podcasts/" target="_blank" rel="noopener"><em>learn how to listen</em></a><em>.</em></p>
+
+
+
+<p data-paragraph="main"><em>The FiveThirtyEight Politics podcast is recorded Mondays and Thursdays. Help new listeners discover the show by </em><a href="https://itunes.apple.com/us/podcast/fivethirtyeight-elections/id1077418457?mt=2" target="_blank" rel="noopener"><em>leaving us a rating and review on iTunes</em></a><em>. Have a comment, question or suggestion for “good polling vs. bad polling”? Get in touch by email, </em><a href="https://twitter.com/FiveThirtyEight" target="_blank" rel="noopener"><em>on Twitter</em></a><em> or in the comments.</em></p>]]></description>
+			<pubDate>Mon, 11 Jul 2022 23:11:00 +0100</pubDate>
+			<guid isPermaLink="false">1657579501907522</guid>
+		</item>
 		<item>
 			<title>Jan. 6’s Tangled Web Of Extremism</title>
 			<link>https://fivethirtyeight.com/features/jan-6s-tangled-web-of-extremism/</link>
@@ -3010,222 +3075,6 @@ Interest-Based Ads
 <p data-paragraph="main"><em>The FiveThirtyEight Politics podcast is recorded Mondays and Thursdays. Help new listeners discover the show by </em><a href="https://itunes.apple.com/us/podcast/fivethirtyeight-elections/id1077418457?mt=2" target="_blank" rel="noopener"><em>leaving us a rating and review on iTunes</em></a><em>. Have a comment, question or suggestion for “good polling vs. bad polling”? Get in touch by email, </em><a href="https://twitter.com/FiveThirtyEight" target="_blank" rel="noopener"><em>on Twitter</em></a><em> or in the comments.</em></p>]]></description>
 			<pubDate>Fri, 24 Jun 2022 20:02:00 +0100</pubDate>
 			<guid isPermaLink="false">1656099001859739</guid>
-		</item>
-		<item>
-			<title>Roe v. Wade Defined An Era. The Supreme Court Just Started A New One.</title>
-			<link>https://fivethirtyeight.com/features/roe-v-wade-defined-an-era-the-supreme-court-just-started-a-new-one/</link>
-						<dc:creator>Amelia Thomson-DeVeaux</dc:creator>
-			<dc:creator>Amelia Thomson-DeVeaux</dc:creator>
-			<category>Abortion</category>
-			<category>Roe V. Wade</category>
-			<category>Supreme Court</category>
-			<description><![CDATA[<div>
-
-			<div>
-
-				<header><div>
-													<p><a href="https://fivethirtyeight.com/tag/abortion/" name="">Abortion</a></p>
-						
-													<h1>Roe v. Wade Defined An Era. The Supreme Court Just Started A New One.</h1>
-																	</div>
-
-					
-				</header><figure><span>
-									<div>
-						<picture><source media="(min-width: 768px)"><source><img alt="The Supreme Court is seen as people protest about abortion" src="https://fivethirtyeight.com/wp-content/uploads/2022/06/ROE-MEDITATION-1024.jpg?w=1024" data-sizes="(max-width: 768px) 100vw, (max-width: 1080px) 66vw, 684px" data-src="https://fivethirtyeight.com/wp-content/uploads/2022/06/ROE-MEDITATION-1024.jpg?w=1024" data-srcset="https://fivethirtyeight.com/wp-content/uploads/2022/06/ROE-MEDITATION-1024.jpg?w=1024 1x, https://fivethirtyeight.com/wp-content/uploads/2022/06/ROE-MEDITATION-1024.jpg?w=2048 2x"></source></source></picture></div>
-
-				
-			</span>
-
-							<figcaption><p>PHOTO ILLUSTRATION BY FIVETHIRTYEIGHT / AP PHOTO</p>
-									</figcaption></figure></div>
-
-						<div>
-				<div>
-											<p>By <a href="https://fivethirtyeight.com/contributors/amelia-thomson-deveaux/" title="" rel="author">Amelia Thomson-DeVeaux</a></p>
-					
-					<p>
-						<time>
-							Jun. 24, 2022, at 2:45 PM						</time></p>
-
-				</div>
-				<div>
-									</div> 
-			</div>
-			
-		</div>
-
-
-
-
-
-<p data-paragraph="main">There are only a handful of Supreme Court rulings that most Americans can name. The decisions that become a shorthand in our collective vocabulary mark the beginning and end of political eras, the moments when something fundamental changes. </p>
-
-
-
-<p data-paragraph="main">Brown v. Board of Education. Roe v. Wade. </p>
-
-
-
-<p data-paragraph="main">And now, Dobbs v. Jackson.</p>
-
-
-
-<p data-paragraph="main">For most of the past 50 years, Roe v. Wade was the ruling that was too big to fail. People seemed to believe it would last forever — even in the face of mounting evidence to the contrary. As recently as last fall, when the Supreme Court allowed the state of Texas to implement a law that directly contradicted Roe, <a href="https://fivethirtyeight.com/features/for-the-first-time-in-years-democrats-are-more-concerned-about-abortion-than-republicans-are/" target="_blank" rel="noopener">most Americans still thought the ruling was safe</a>.</p>
-
-
-
-<p data-paragraph="main">It was very much not. In the Dobbs opinion, Justice Samuel Alito wrote that Roe must be overturned because it amounted to an “abuse of judicial authority.” Along with four other conservatives who joined his opinion, he explained that the Constitution simply doesn’t protect abortion. Roe conferred a right that never existed. </p>
-
-
-
-<p data-paragraph="main">Roe was the most famous ruling from an era when rights were being given — to the accused, to racial or ethnic minorities, to women. If I had to guess, I’d say that Dobbs will be the most famous ruling from an era when rights are being taken away. Americans — particularly white Americans — aren’t used to seeing rights vanish overnight. And that’s what makes Dobbs different than the <a href="https://fivethirtyeight.com/features/we-categorized-hundreds-of-abortion-restrictions-heres-why-the-anti-abortion-movement-is-escalating/" target="_blank" rel="noopener">slow erosion of abortion rights</a> that I’ve been <a href="https://fivethirtyeight.com/features/texass-abortion-law-is-unprecedented-but-the-supreme-court-isnt-treating-it-that-way/" target="_blank" rel="noopener">reporting on</a> for <a href="https://fivethirtyeight.com/features/its-really-hard-to-measure-the-effects-of-abortion-restrictions-in-texas/" target="_blank" rel="noopener">almost a decade</a>. Those laws were easy to ignore. This ruling won’t be. </p>
-
-
-<p>Watch: https://abcnews.go.com/fivethirtyeight/video/overturning-roe-means-abortion-access-us-fivethirtyeight-85676655</p>
-
-
-<p data-paragraph="main">As a result, Dobbs marks the end of one political era and the beginning of another. The fight to overturn Roe helped define the last 40 years of American politics. Now, the fight over how far Dobbs’s mandate should stretch may define the next 40 years. Soon, many Americans will have to decide, perhaps for the first time in their lives, how they actually feel about legal abortion. And how much they care that abortion rights were given, and then taken away.</p>
-
-
-
-		<aside><div>
-				<p>RECOMMENDED</p>
-			</div>
-						<div>
-				<div>
-											<a target="_BLANK" href="https://fivethirtyeight.com/features/the-supreme-courts-argument-for-overturning-roe-v-wade/">
-								<span>
-									<img loading="lazy" alt="Abortion rights activists react to the Dobbs v Jackson Women’s Health Organization ruling" src="https://fivethirtyeight.com/wp-content/uploads/2022/06/GettyImages-1404876270-4x3-1.jpg?w=300" width="300" height="225" data-sizes="100vw" data-src="https://fivethirtyeight.com/wp-content/uploads/2022/06/GettyImages-1404876270-4x3-1.jpg?w=300" data-srcset="https://fivethirtyeight.com/wp-content/uploads/2022/06/GettyImages-1404876270-4x3-1.jpg?w=300 1x, https://fivethirtyeight.com/wp-content/uploads/2022/06/GettyImages-1404876270-4x3-1.jpg?w=600 2x"></span>
-						</a>
-									</div>
-				<div>
-											<p>
-							Politics						</p>
-										<p>
-						<a href="https://fivethirtyeight.com/features/the-supreme-courts-argument-for-overturning-roe-v-wade/">
-							The Supreme Court’s Argument For Overturning Roe v. Wade						</a>
-					</p>
-					<p>
-						<a target="_BLANK" href="https://fivethirtyeight.com/features/the-supreme-courts-argument-for-overturning-roe-v-wade/">
-							Read Now						</a>
-					</p>
-				</div>
-			</div>
-		</aside><hr><figure><img loading="lazy" width="2048" height="1365" src="https://fivethirtyeight.com/wp-content/uploads/2022/06/GettyImages-515206988-1024.jpg" alt="Anti-Abortion Demonstrators in front of the Supreme Court in 1986" data-src="https://fivethirtyeight.com/wp-content/uploads/2022/06/GettyImages-515206988-1024.jpg" data-srcset="https://fivethirtyeight.com/wp-content/uploads/2022/06/GettyImages-515206988-1024.jpg?w=1024 1x, https://fivethirtyeight.com/wp-content/uploads/2022/06/GettyImages-515206988-1024.jpg?w=2048 2x"><figcaption>From the moment Roe v. Wade became the law of the land, anti-abortion advocates mobilized to try and overturn the 1973 ruling. They succeeded in making the issue a partisan one, which helped lead to the Supreme Court overturning the precedent this week. <p>Bettman / Getty Images</p></figcaption></figure><h2><strong>The End</strong></h2>
-
-
-
-<p data-paragraph="main">The <a href="http://edition.cnn.com/ALLPOLITICS/1996/conventions/san.diego/facts/abortion/1980.shtml" target="_blank" rel="noopener">1980 Republican Party platform</a> promised to “work for the appointment of judges at all levels of the judiciary who respect traditional family values and the sanctity of innocent human life.” Politicians aren’t known for following up on their promises. But the GOP kept that one.</p>
-
-
-
-<p data-paragraph="main">As the country came down from the high of the 1960s, abortion was a potent symbol of how the rebellious, uninhibited mood of the decade had curdled. Conservative politicians and strategists <a href="https://books.google.com/books?id=Fk6xCgAAQBAJ&amp;pg=PA145&amp;lpg=PA145&amp;dq=the+traditional+family+concept+of+husband+as+breadwinner+and+wife+as+homemaker,%27+restrict+motherhood+to+%27the+very+few+months+in+which+a+woman+is+pregnant+and+nursing+her+baby,%27+and+embed+%27the+first+anti-family+amendment+in+the+Constitution.&amp;source=bl&amp;ots=w7iLOLFGuR&amp;sig=ACfU3U0JqhlywSTygBCtim_RmRwvBaL7Qw&amp;hl=en&amp;sa=X&amp;ved=2ahUKEwid1or3psT4AhXKEFkFHS5tD8wQ6AF6BAgCEAM#v=onepage&amp;q=the%20traditional%20family%20concept%20of%20husband%20as%20breadwinner%20and%20wife%20as%20homemaker%2C'%20restrict%20motherhood%20to%20'the%20very%20few%20months%20in%20which%20a%20woman%20is%20pregnant%20and%20nursing%20her%20baby%2C'%20and%20embed%20'the%20first%20anti-family%20amendment%20in%20the%20Constitution.&amp;f=false" target="_blank" rel="noopener">offered the rise of legal abortion</a> as an example of the <a href="https://www.snopes.com/fact-check/pat-robertson-feminist-agenda/" target="_blank" rel="noopener">feminist movement’s callousness</a>. It was an emblem of sex without consequences, love without marriage, women without children. Evangelical leaders, seizing on an issue that used to be the domain of Catholic Democrats, struck an apocalyptic tone. In 1979, <a href="https://www.youtube.com/watch?v=tRc0Szq_uWI" target="_blank" rel="noopener">one Christian activist</a> took thousands of baby dolls and scattered them over the bed of the Dead Sea. As his camera panned over the dolls, he solemnly described how an abortion is performed. It was, he said, the slaughter of the innocent; the abandonment of morality and decency.</p>
-
-
-
-<p data-paragraph="main">As <a href="https://fivethirtyeight.com/features/the-republican-choice/" target="_blank" rel="noopener">southern white voters</a> and <a href="https://www.nytimes.com/2018/10/28/us/religion-politics-evangelicals.html" target="_blank" rel="noopener">evangelical Christians</a> shifted their loyalty to the Republican Party, people started to develop opinions on abortion that tracked with their new political allegiances. In the mid-1970s, it was pretty much impossible to distinguish Republicans from Democrats based solely on abortion. Fifteen years later, they were starting to be separated by an all-too-familiar partisan gulf.</p>
-
-
-
-<figure><div>
-<div><iframe title="Legal abortion has become a deeply partisan issue" aria-label="Interactive line chart" src="https://datawrapper.dwcdn.net/GNiQD/5/" scrolling="no" frameborder="0" height="400" sandbox="allow-scripts allow-same-origin"></iframe></div>
-</div></figure><p data-paragraph="main">The anti-abortion movement succeeded by politicizing the issue everywhere they could — in the courts, in state legislatures and in American society more broadly. Republican strategists and politicians worked to elevate <a href="https://www.nytimes.com/2022/05/03/us/conservative-legal-movement-roe-v-wade.html" target="_blank" rel="noopener">a new generation of judges</a> and <a href="https://fivethirtyeight.com/features/the-abortion-debate-isnt-as-partisan-as-politicians-make-it-seem/" target="_blank" rel="noopener">lawmakers</a> who believed Roe was wrong. At first, they tried to work within the confines of public opinion, passing laws that seemed innocuous, even protective — requiring <a href="https://www.jstor.org/stable/2134696" target="_blank" rel="noopener">waiting periods</a>, <a href="https://www.guttmacher.org/journals/psrh/1995/03/state-actions-reproductive-health-issues-1994" target="_blank" rel="noopener">counseling</a>, <a href="https://ajph.aphapublications.org/doi/pdf/10.2105/AJPH.76.4.397" target="_blank" rel="noopener">parental consent</a>. Fear of a backlash was heavy in the air. In 1992, <a href="https://www.cbsnews.com/news/roe-almost-overturned-in-92/" target="_blank" rel="noopener">the Supreme Court teetered</a> on the brink of overturning Roe, but even the court’s Republican appointees were afraid of what it would unleash. They cobbled together a compromise opinion that <a href="https://abcnews.go.com/fivethirtyeight/video/supreme-court-overturned-roe-wade-30-years-ago-82276286" target="_blank" rel="noopener">upheld the right to an abortion</a> but allowed for stricter regulation of it.</p>
-
-
-
-<p data-paragraph="main">That decision was viewed as a betrayal, and a turning point. From then on, <a href="https://nypost.com/2005/10/28/bye-bye-miers-as-bid-ends-93-pro-abortion-speech-last-straw/" target="_blank" rel="noopener">anti-abortion advocates insisted</a> that all future Republican presidents nominate justices <a href="https://www.npr.org/2006/01/24/5081976/judging-samuel-alito-on-abortion-rights" target="_blank" rel="noopener">who wouldn’t falter</a> when the fate of Roe was in their hands. And as time passed, politicians also became more willing to barrel past what most Americans thought was acceptable. In 2013, when <a href="https://news.gallup.com/poll/393104/pro-choice-identification-rises-near-record-high.aspx" target="_blank" rel="noopener">61 percent of Americans</a> thought abortion should generally be legal in the first three months of pregnancy, Republican legislators in Arkansas <a href="https://www.nytimes.com/2013/03/07/us/arkansas-adopts-restrictive-abortion-law.html" target="_blank" rel="noopener">passed a law</a> that banned abortion after 12 weeks, which was <a href="https://casetext.com/case/edwards-v-beck" target="_blank" rel="noopener">overturned by the courts</a>. At the time, it felt like a doomed act of hubris. But in retrospect, it was a sign of how powerful anti-abortion activists had become — and where they were going. Their efforts were incremental, but over time, they added up. The Guttmacher Institute, a research organization that supports abortion rights, <a href="https://www.guttmacher.org/article/2021/10/first-time-ever-us-states-enacted-more-100-abortion-restrictions-single-year" target="_blank" rel="noopener">tracked hundreds of anti-abortion laws</a> that were passed between 2011 and today. </p>
-
-
-<p>Watch: https://abcnews.go.com/fivethirtyeight/video/supreme-court-overturns-roe-wade-fivethirtyeight-politics-podcast-85666091</p>
-
-
-<p data-paragraph="main">In the years since I started covering abortion, I’ve had moments where it’s felt like we were all living through some kind of bizarre political experiment. A solid majority of Americans have supported legal abortion in <a href="https://news.gallup.com/poll/1576/abortion.aspx" target="_blank" rel="noopener">at least some circumstances for decades</a>. Support for abortion stayed steady even as abortion access <a href="https://www.nbcnews.com/news/us-news/how-perfect-storm-missouri-dwindled-abortion-access-down-virtually-zero-n1011991" target="_blank" rel="noopener">was dwindling</a> in <a href="https://www.bloomberg.com/news/articles/2016-02-24/abortion-clinics-are-closing-at-a-record-pace" target="_blank" rel="noopener">large swaths of the country</a>. But that support didn’t translate into widespread political backlash, even when states passed more and more laws that fell well outside the mainstream. Exceptions to abortion bans <a href="https://www.nytimes.com/2022/06/09/health/abortion-bans-rape-incest.html" target="_blank" rel="noopener">in cases of rape or incest</a> — which are popular <a href="https://www.pewresearch.org/religion/2022/05/06/americas-abortion-quandary/" target="_blank" rel="noopener">even with some conservatives</a> — <a href="https://www.npr.org/2019/05/22/725634053/anti-abortion-rights-groups-push-gop-to-rethink-rape-and-incest-exceptions" target="_blank" rel="noopener">are no longer present</a> in many of the latest restrictions. Last fall, Texas <a href="https://fivethirtyeight.com/features/why-texass-abortion-law-may-go-too-far-for-most-americans/" target="_blank" rel="noopener">banned abortion</a> after around six weeks of pregnancy. The law — the most restrictive in the country at that point — went into effect, <a href="https://www.reuters.com/world/us/abortion-rights-advocates-will-march-across-us-protest-restrictive-laws-2021-10-02/" target="_blank" rel="noopener">there were a couple of weeks of protests</a>, and then … nothing.</p>
-
-
-
-<figure><img loading="lazy" width="2048" height="1365" src="https://fivethirtyeight.com/wp-content/uploads/2022/06/GettyImages-99614324-1024.jpg" alt="Pro-choice demonstrators stand in front of the Supreme Court in 2002" data-src="https://fivethirtyeight.com/wp-content/uploads/2022/06/GettyImages-99614324-1024.jpg" data-srcset="https://fivethirtyeight.com/wp-content/uploads/2022/06/GettyImages-99614324-1024.jpg?w=1024 1x, https://fivethirtyeight.com/wp-content/uploads/2022/06/GettyImages-99614324-1024.jpg?w=2048 2x"><figcaption>Abortion rights are generally popular in the U.S., but activists have struggled to convince Americans to base their vote on that support. <p>Tom Williams / Roll Call / Getty Images</p></figcaption></figure><p data-paragraph="main">Most Americans were able to keep living their lives as if nothing was happening in part because abortion isn’t an experience that affects everyone. Sure, nearly <a href="https://www.guttmacher.org/news-release/2017/abortion-common-experience-us-women-despite-dramatic-declines-rates" target="_blank" rel="noopener">one in four women</a> will have an abortion in her lifetime, but those women <a href="https://fivethirtyeight.com/features/how-abortion-has-changed-since-1973/" target="_blank" rel="noopener">aren’t evenly dispersed</a> across different walks of life. And the difficulty involved in getting an abortion <a href="https://projects.fivethirtyeight.com/abortion-restrictions-by-state/" target="_blank" rel="noopener">varies wildly depending on all kinds of factors</a> — geography, wealth, insurance coverage, age. </p>
-
-
-
-<p data-paragraph="main">But part of the problem for the abortion-rights movement is that it never quite convinced Americans to connect the dots between legal abortion and the many other ways that women’s lives have been transformed in the decades since the 1960s, and Roe. Abortion might still be controversial, but many of the other social changes it intersected with — sex outside marriage, having a baby outside of marriage, divorce, <a href="https://www.nytimes.com/2021/06/16/us/declining-birthrate-motherhood.html" target="_blank" rel="noopener">women delaying having children</a>, <a href="https://news.gallup.com/poll/267737/record-high-women-prefer-working-homemaking.aspx" target="_blank" rel="noopener">mothers working outside the home</a> — <a href="https://news.gallup.com/poll/351020/changing-one-gender-sharply-contentious-moral-issue.aspx" target="_blank" rel="noopener">have become normal, even expected</a>. Opposition to abortion is still tied up with <a href="https://fivethirtyeight.com/features/the-real-dividing-line-on-abortion/" target="_blank" rel="noopener">support for traditional gender roles</a>. But I’m not sure how many Americans actually connect abortion rights with their own personal choices and relationships.</p>
-
-
-
-<p data-paragraph="main">Is legal abortion necessary to help women lead the lives they want? It’s a question more Americans may have to ask themselves. Researchers can point you to studies suggesting that access to legal abortion <a href="https://www.nber.org/papers/w6034" target="_blank" rel="noopener">lowered child poverty</a>; kept women from <a href="https://www.journals.uchicago.edu/doi/10.1086/694293" target="_blank" rel="noopener">getting married as teenagers</a>; <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3512913#:~:text=The%20increase%20in%20wage%20rates,both%20intensive%20and%20extensive%20margins." target="_blank" rel="noopener">raised women’s wages</a>; <a href="https://link.springer.com/article/10.1007/s12122-004-1028-3" target="_blank" rel="noopener">increased women’s participation in the labor force</a>; <a href="https://iwpr.org/wp-content/uploads/2020/07/B377_Abortion-Access-Fact-Sheet_final.pdf" target="_blank" rel="noopener">made it more likely</a> for them to finish college; and <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3913899" target="_blank" rel="noopener">reduced maternal mortality</a>. But those trends are easier to spot in big data sets than in individual people’s lives. Would your friend have gotten her degree if only she’d had an abortion? Could your sister have gotten that big raise without one? Causal pathways aren’t easy to tease out in everyday life and they’re shaped as much by our beliefs and post hoc justifications as anything else.</p>
-
-
-
-<p data-paragraph="main">In the oral argument last December, lawyers for Mississippi argued that abortion simply isn’t necessary anymore. But that seems like a misreading of the country’s mood. Most Americans just want a status quo where abortion isn’t something you have to think about unless you need one. For many people I’ve spoken with over the years — on the campaign trail, at parties, even at family dinners — the issue feels exhausting, abstract and even a little lurid. They bring it up and then change the subject with a shrug. </p>
-
-
-
-<p data-paragraph="main">But that doesn’t mean they think abortion is unnecessary. Instead, the idea of a country without the right to abortion is for many Americans more like a political phantasm — something candidates use to motivate voters, not something that can actually become real.</p>
-
-
-
-<p data-paragraph="main">Except of course, it’s about to be.</p>
-
-
-
-<hr><figure><img loading="lazy" width="2048" height="1365" src="https://fivethirtyeight.com/wp-content/uploads/2022/06/GettyImages-1195734670-1024.jpg" alt='A pro-life demonstrator holds a sign with a photo of Donald Trump that reads "Most Pro-Life President Ever"' data-src="https://fivethirtyeight.com/wp-content/uploads/2022/06/GettyImages-1195734670-1024.jpg" data-srcset="https://fivethirtyeight.com/wp-content/uploads/2022/06/GettyImages-1195734670-1024.jpg?w=1024 1x, https://fivethirtyeight.com/wp-content/uploads/2022/06/GettyImages-1195734670-1024.jpg?w=2048 2x"><figcaption>Former President Donald Trump appealed to evangelical Christians by promising to put justices on the Supreme Court who would overturn Roe v. Wade. All three of the justices he appointed voted to overturn Roe v. Wade. <p>NICHOLAS KAMM / AFP via Getty Images</p></figcaption></figure><h2><strong>The Beginning</strong></h2>
-
-
-
-<p data-paragraph="main">While campaigning in 2016, former President Donald Trump <a href="https://www.cnbc.com/2016/10/19/trump-ill-appoint-supreme-court-justices-to-overturn-roe-v-wade-abortion-case.html" target="_blank" rel="noopener">said that he’d appoint</a> justices who would <a href="https://www.cnbc.com/2020/03/02/supreme-court-abortion-case-tests-trump-pledge-to-overturn-roe-v-wade.html" target="_blank" rel="noopener">overturn Roe v. Wade “automatically.”</a> I was one of the many journalists and legal experts who chalked this up to a typical Trump overpromise. <a href="https://fivethirtyeight.com/features/how-trumps-supreme-court-could-overturn-roe-v-wade-without-overturning-it/" target="_blank" rel="noopener">Days after the 2016 election</a>, I tried to sort out what Trump’s election would mean for abortion rights. The Supreme Court is (or was) a measured, sedate branch of government. Could Trump really appoint enough justices who were willing to overturn a decades-old precedent in one fell swoop? It seemed much likelier that Roe would be hollowed out over years or decades, until it collapsed under its own weight.</p>
-
-
-
-<p data-paragraph="main">It might not have been automatic, but the court certainly wasn’t patient. <a href="https://fivethirtyeight.com/features/how-amy-coney-barrett-could-change-the-supreme-court/" target="_blank" rel="noopener">Less than two years</a> after Trump appointed his third justice, Roe is gone. And the court’s decision is just the beginning. Dobbs will set in motion a swift and dramatic response. Within a month, <a href="https://www.nytimes.com/interactive/2022/05/07/us/abortion-access-roe-v-wade.html" target="_blank" rel="noopener">tens of millions of reproductive-age women</a> will be living in a state where abortion is illegal. </p>
-
-
-
-<figure><img loading="lazy" width="1422" height="986" src="https://fivethirtyeight.com/wp-content/uploads/2022/06/atd.ROE-MEDITATION.png" alt="" data-src="https://fivethirtyeight.com/wp-content/uploads/2022/06/atd.ROE-MEDITATION.png" data-srcset="https://fivethirtyeight.com/wp-content/uploads/2022/06/atd.ROE-MEDITATION.png?w=712 1x, https://fivethirtyeight.com/wp-content/uploads/2022/06/atd.ROE-MEDITATION.png?w=1424 2x"></figure><figure><img loading="lazy" width="670" height="1058" src="https://fivethirtyeight.com/wp-content/uploads/2022/06/atd.ROE-MEDITATION-mob.png" alt="" data-src="https://fivethirtyeight.com/wp-content/uploads/2022/06/atd.ROE-MEDITATION-mob.png" data-srcset="https://fivethirtyeight.com/wp-content/uploads/2022/06/atd.ROE-MEDITATION-mob.png?w=670 1x, https://fivethirtyeight.com/wp-content/uploads/2022/06/atd.ROE-MEDITATION-mob.png?w=1340 2x"></figure><p data-paragraph="main">In some corners of the abortion-rights movement, there’s a sense that Roe gave Americans a <a href="https://www.chicagotribune.com/suburbs/post-tribune/opinion/ct-ptb-davich-roe-wade-abortion-supreme-court-st-0506-20220505-uwlluylqdvh7hfzhhp44p3zyoe-story.html" target="_blank" rel="noopener">false sense of complacency</a>. And it’s true that for better or worse, a veil is being lifted. We’re not heading for another 10 years of the slow removal of abortion access — we’re about to see what happens when half the country takes away a right many people took for granted.</p>
-
-
-
-<p data-paragraph="main">The Supreme Court wrote that the issue of abortion belongs with the states. “This Court cannot bring about the permanent resolution of a rancorous national controversy simply by dictating a settlement and telling the people to move on,” Alito wrote. Now, it's set the battle lines for a conflict that seems likely to escalate. In states controlled by anti-abortion lawmakers, the question may soon be whether a <a href="https://www.newyorker.com/news/our-columnists/how-fetal-personhood-emerged-as-the-next-stage-of-the-abortion-wars" target="_blank" rel="noopener">fetus</a>, an embryo or <a href="https://www.npr.org/2011/06/01/136850622/abortion-foes-push-to-redefine-personhood" target="_blank" rel="noopener">a fertilized egg</a> has the same rights as a person. That will have effects everywhere – in courtrooms, hospitals, even the U.S. <a href="https://personhood.org/2019/06/03/pre-born-children-personhood-2020-census/" target="_blank" rel="noopener">census</a>. Murder could soon <a href="https://www.npr.org/2013/11/21/246534132/personhood-in-the-womb-a-constitutional-question" target="_blank" rel="noopener">mean a different thing</a> on opposite sides of state lines. Medical practice could change, since abortion care, although siloed in politics, is actually bound up with <a href="https://www.kff.org/womens-health-policy/issue-brief/understanding-pregnancy-loss-in-the-context-of-abortion-restrictions-and-fetal-harm-laws/" target="_blank" rel="noopener">many other kinds of health care</a>. The meaning of parenthood could be altered, along with all the legal structures that scaffold it. A Georgia law passed in 2019 <a href="https://www.legis.ga.gov/legislation/55445" target="_blank" rel="noopener">requires child support payments for fetuses</a>. So can a fetus <a href="https://lawreview.wlulaw.wlu.edu/if-a-fetus-is-a-person-it-should-get-child-support-due-process-and-citizenship/" target="_blank" rel="noopener">inherit money</a>? Can it <a href="https://scholarlycommons.law.case.edu/cgi/viewcontent.cgi?article=1334&amp;context=caselrev&amp;httpsredir=1&amp;referer=" target="_blank" rel="noopener">own land</a>?</p>
-
-
-
-<p data-paragraph="main">It will take a while, but these changes could insert themselves into people’s lives in ways that appear entirely separate from abortion. But it seems inevitable that people who are carrying wanted pregnancies will feel the effects of these restrictions too. People who use drugs during pregnancy <a href="https://www.guttmacher.org/state-policy/explore/substance-use-during-pregnancy" target="_blank" rel="noopener">can already be prosecuted</a> or reported in <a href="https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2755304?utm_source=For_The_Media&amp;amp%3Butm_medium=referral&amp;amp%3Butm_campaign=ftm_links&amp;amp%3Butm_term=111319" target="_blank" rel="noopener">many states</a>. If a fetus is considered a person, the stakes for everything a pregnant person does will be much higher. </p>
-
-
-
-<p data-paragraph="main">I’ve been thinking recently about when I arrived at a hospital in southern Indiana to give birth to my daughter last year. As I changed into my delivery gown, a nurse asked me for a urine sample. I asked her why, and she acknowledged that they were going to test it for drugs. When I protested — with the righteous, incoherent anger that only a woman who is five centimeters dilated can muster — they told me that if I refused to consent to the test, they’d act as if it was positive. That, they said, could mean calling in a social worker, someone who would evaluate whether I was capable of parenting my child. The nurse looked into my face with anxiety. “Do you have something to hide?” she said.</p>
-
-
-
-<p data-paragraph="main">I buckled, and consented to the test. What else could I do? I was unnerved by the prospect that my behavior was already being watched, with the assumption that I might be harming my unborn child. After Dobbs, the surveillance that pregnant people already experience could spiral in ways that are hard to predict and control. Already, a pregnant person drinking a cocktail in public risks moral judgment. In the future, it could invite a <a href="https://projects.propublica.org/graphics/maternity-drug-policies-by-state" target="_blank" rel="noopener">very different kind of scrutiny</a>. In fact, some poor and Black women <a href="https://onlinelibrary.wiley.com/doi/full/10.1002/hast.791" target="_blank" rel="noopener">are already living in this reality</a>.</p>
-
-
-
-<p data-paragraph="main">Meanwhile, abortion could soon be less restricted in some blue states than it ever has been. Democratic lawmakers in states like California are trying to create “<a href="https://www.politico.com/news/2022/05/11/blue-states-abortion-safe-havens-00031526" target="_blank" rel="noopener">havens” for abortion access</a>, <a href="https://www.theguardian.com/us-news/2022/may/12/abortion-california-gavin-newsom-funding-low-income" target="_blank" rel="noopener">even setting up state funds</a> to pay for the procedure. Some companies, too, <a href="https://fortune.com/2022/06/04/companies-that-cover-employee-travel-expenses-for-abortion-care-face-challenges/" target="_blank" rel="noopener">are offering to reimburse workers</a> who have to travel more than 100 miles for an abortion, laying the groundwork for a new standoff between corporations and GOP legislators.</p>
-
-
-
-<figure><img loading="lazy" width="2048" height="1365" src="https://fivethirtyeight.com/wp-content/uploads/2022/06/GettyImages-1240455532-1024.jpg" alt="Clinic escorts remove a privacy barrier outside a Mississippi abortion clinic" data-src="https://fivethirtyeight.com/wp-content/uploads/2022/06/GettyImages-1240455532-1024.jpg" data-srcset="https://fivethirtyeight.com/wp-content/uploads/2022/06/GettyImages-1240455532-1024.jpg?w=1024 1x, https://fivethirtyeight.com/wp-content/uploads/2022/06/GettyImages-1240455532-1024.jpg?w=2048 2x"><figcaption>The Dobbs decision will reshape American life and politics for decades in ways big and small. Many abortion clinics, for example, will close and others will likely open to accommodate the demand of pregnant people who live in states that restrict abortion. <p>Andrea Morales for The Washington Post via Getty Images</p></figcaption></figure><p data-paragraph="main">Judges and politicians have talked longingly for years about sending the abortion issue back to the states, but it will be hard for state legislatures to arrive at a peaceful truce. States are already trying to reach across each other’s borders, to make it <a href="https://www.wbur.org/onpoint/2022/03/24/inside-missouris-push-to-ban-out-of-state-abortions" target="_blank" rel="noopener">harder</a> or <a href="https://www.washingtonpost.com/politics/2022/04/30/connecticut-abortion-rights/" target="_blank" rel="noopener">easier</a> to travel for abortion. If Republicans win back the White House and a large enough congressional majority in 2024, a national abortion ban <a href="https://www.vanityfair.com/news/2022/05/mitch-mcconnell-acknowledges-a-national-abortion-ban-is-possible-if-roe-is-overturned" target="_blank" rel="noopener">could be a possibility</a>. It’s unlikely that anyone on either side of the abortion debate will be content to let the states have the last word.</p>
-
-
-
-<p data-paragraph="main">These changes are so fundamental that they feel like they might have the power to shake something in the country loose, to jolt us out of our political rut. We’re at a point where partisan allegiances and grudges shape everything around us, even <a href="https://pcl.sites.stanford.edu/sites/g/files/sbiybj22066/files/media/file/iyengar-degruyter-partisanship.pdf" target="_blank" rel="noopener">the most personal aspects</a> of who we are — our religion, our friends. But the country is about to change in palpable, unpredictable ways. <a href="https://www.nbcnews.com/business/business-news/limiting-abortion-access-hurts-women-financially-roe-v-wade-rcna27291" target="_blank" rel="noopener">Hundreds of thousands of people</a> will carry pregnancies to term that they might otherwise have ended. Abortion bans could lead to unexpected consequences — for <a href="https://www.nbcnews.com/news/us-news/birth-control-banned-roe-v-wade-overturned-legal-experts-warn-rcna28253" target="_blank" rel="noopener">birth control</a>, for <a href="https://www.politico.com/newsletters/politico-nightly/2022/05/23/how-abortion-bans-might-affect-ivf-00034409" target="_blank" rel="noopener">fertility treatments</a>, for <a href="https://www.courthousenews.com/crosshairs-on-roe-v-wade-could-usher-demise-of-other-rights/" target="_blank" rel="noopener">other rights</a> that seem completely unrelated. If the end of abortion rights — and everything that comes after — doesn’t unsettle our political order, I’m not sure what can.</p>
-
-
-
-<p data-paragraph="main">But even if Americans do chafe under the policies that are coming, this decision won’t be easy to undo. Abortion rights aren’t the only ones that have come under attack. Thanks to the <a href="https://www.brennancenter.org/our-work/policy-solutions/effects-shelby-county-v-holder" target="_blank" rel="noopener">Supreme Court</a> and <a href="https://www.brennancenter.org/our-work/research-reports/voting-laws-roundup-december-2021" target="_blank" rel="noopener">Republican legislators</a>, it’s much <a href="https://projects.fivethirtyeight.com/voting-restrictions-by-state/" target="_blank" rel="noopener">harder to vote</a> in many states than it was a decade ago. Those states, not coincidentally, are the ones where abortion bans will be the most stringent, and their lawmakers’ grasp on power will be hard to dislodge. There are only a handful of states where this November’s elections will actually have an impact on whether abortion stays legal.</p>
-
-
-
-<p data-paragraph="main">There’s a part of me that also wonders if most Americans will be too tired to tune in. Over the past few years, politics has wrung all of us dry. It’s a spectator sport, where we root for our own team’s victory from a safe distance. Maybe abortion will ossify further into one more line dividing us from them and them from us — not so different from the many other partisan feuds that have come to structure our lives.</p>
-
-
-
-<p data-paragraph="main">That, as much as anything, is Roe’s legacy, and the post-Dobbs reality. For decades, Americans ceded the fight over abortion to the loudest, most extreme voices and <a href="https://fivethirtyeight.com/features/what-americans-really-think-about-abortion/" target="_blank" rel="noopener">tried to pretend it wasn’t happening</a>. Today, the anti-abortion side won. Now, even though they really don’t want to, Americans have to decide how much abortion matters to them. </p>
-
-
-<p>Watch: https://abcnews.go.com/fivethirtyeight/video/supreme-court-overturns-roe-wade-fivethirtyeight-politics-podcast-85666091</p>]]></description>
-			<pubDate>Fri, 24 Jun 2022 19:45:00 +0100</pubDate>
-			<guid isPermaLink="false">1656099001859737</guid>
 		</item>
 
 	</channel>
