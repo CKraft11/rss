@@ -3,9 +3,177 @@
 		<title>Main stream | FreshRSS</title>
 		<link>http://radon</link>
 		<description>RSS feed of Main stream | FreshRSS</description>
-		<pubDate>Tue, 26 Jul 2022 10:59:06 +0100</pubDate>
-		<lastBuildDate>Tue, 26 Jul 2022 09:59:06 GMT</lastBuildDate>
+		<pubDate>Tue, 26 Jul 2022 11:29:06 +0100</pubDate>
+		<lastBuildDate>Tue, 26 Jul 2022 10:29:06 GMT</lastBuildDate>
 		<atom:link href="http://radon/i/?a=rss" rel="self" type="application/rss+xml" />
+		<item>
+			<title>Why Democrats’ Midterm Chances Don’t Hinge On Biden’s Approval Rating</title>
+			<link>https://fivethirtyeight.com/features/why-democrats-midterm-chances-dont-hinge-on-bidens-approval-rating/</link>
+						<dc:creator>Nathaniel Rakich</dc:creator>
+			<dc:creator>Nathaniel Rakich and Humera Lodhi</dc:creator>
+			<category>2022 Election</category>
+			<category>2022 Midterms</category>
+			<category>Generic Ballot</category>
+			<category>Joe Biden</category>
+			<category>Presidential Approval</category>
+			<description><![CDATA[<div>
+
+			<div>
+
+				<header><div>
+													<p><a href="https://fivethirtyeight.com/tag/2022-election/" name="">2022 Election</a></p>
+						
+													<h1>Why Democrats' Midterm Chances Don't Hinge On Biden's Approval Rating</h1>
+																	</div>
+
+										<div>
+						<div>
+															<p>By <a href="https://fivethirtyeight.com/contributors/nathaniel-rakich/" title="" rel="author">Nathaniel Rakich and Humera Lodhi</a> and <a href="https://fivethirtyeight.com/contributors/humera-lodhi/" title="" rel="author">Nathaniel Rakich and Humera Lodhi</a></p>
+							
+							<p>
+								<time>
+									Jul. 26, 2022, at 6:00 AM								</time></p>
+
+						</div>
+						<div>
+													</div> 
+					</div>
+					
+				</header><figure><span>
+									<div>
+						<picture><source media="(min-width: 768px)"><source><img alt="GENERIC-APPROVAL-4×3" src="https://fivethirtyeight.com/wp-content/uploads/2022/07/GENERIC-APPROVAL-4x3-1.png?w=917" data-sizes="(max-width: 768px) 100vw, (max-width: 1080px) 66vw, 684px" data-src="https://fivethirtyeight.com/wp-content/uploads/2022/07/GENERIC-APPROVAL-4x3-1.png?w=917" data-srcset="https://fivethirtyeight.com/wp-content/uploads/2022/07/GENERIC-APPROVAL-4x3-1.png?w=917 1x, https://fivethirtyeight.com/wp-content/uploads/2022/07/GENERIC-APPROVAL-4x3-1.png?w=1834 2x"></source></source></picture></div>
+
+				
+			</span>
+
+			
+								<figcaption><p>PHOTO ILLUSTRATION BY EMILY SCHERER / GETTY IMAGES</p>
+											</figcaption></figure></div>
+
+			
+		</div>
+
+
+
+
+
+<p data-paragraph="main">Earlier this month, FiveThirtyEight editor-in-chief Nate Silver <a href="https://fivethirtyeight.com/features/biden-is-very-unpopular-it-may-not-tell-us-much-about-the-midterms/" target="_blank" rel="noopener">noted an interesting disconnect</a> between two pieces of information most commonly used to predict the upcoming midterms: the president’s approval rating and polls of the generic congressional ballot (which ask Americans whether they plan to vote for the Republican or the Democratic candidate this fall).</p>
+
+
+
+<p data-paragraph="main">On one hand, President Biden is historically unpopular: As of July 25 at 5 p.m. Eastern, he had an <a href="https://projects.fivethirtyeight.com/biden-approval-rating/" target="_blank" rel="noopener">average approval rating</a> of 38 percent and an average disapproval rating of 57 percent — a net approval rating of -19 percentage points. You have to go back to Harry Truman to find a president with a net approval rating that bad at this point in his term.</p>
+
+
+
+<p data-paragraph="main">On the other, <a href="https://projects.fivethirtyeight.com/polls/generic-ballot/" target="_blank" rel="noopener">generic-congressional-ballot polls</a> are pretty close. As of the same date and time, Republicans had an average lead of 1 point.</p>
+
+
+
+<p data-paragraph="main">Those two numbers feel difficult to reconcile. Biden’s approval rating suggests that the national mood is extremely poor for Democrats, while the generic-ballot polling suggests that the political environment is only slightly Republican-leaning. But in reality, these two types of polls aren’t in opposition as much as you might think. They’re separate metrics, and a look back at past midterm elections shows they don’t always line up. But history also shows that when they do diverge, one is more predictive than the other.</p>
+
+
+
+<p data-paragraph="main">First, it’s kind of an obvious point, but presidential-approval polls and generic-ballot polls are measuring two different things. Presidential-approval polls are like a referendum — a simple thumbs-up or thumbs-down on the commander in chief. But generic-ballot polls are a choice, pitting the president’s party against a tangible alternative — one that, in this case, is <em>also</em> pretty unpopular (according to <a href="https://today.yougov.com/topics/politics/trackers/the-republican-party-favorability" target="_blank" rel="noopener">YouGov</a>, only 41 percent of registered voters view the GOP favorably). Biden may not look good to people in the abstract, but some may still prefer his policies to the alternative. For example, plenty of Democrats <a href="https://poll.qu.edu/poll-release?releaseid=3852" target="_blank" rel="noopener">tell pollsters</a> that they disapprove of Biden’s performance, but almost all of them also say in the same breath that they will vote Democratic in the midterms (that is, if they turn out to vote — an important caveat).</p>
+
+
+
+<p data-paragraph="main">Second, and unsurprisingly considering the first point, it’s not unusual for presidential-approval polls and generic-ballot polls to disagree. Just take a look at where the polls stood on July 25 in the past four midterm election years: 2006, 2010, 2014 and 2018.<a data-footnote-id="1" href="https://fivethirtyeight.com/wp-json/wp/v2/espn_verticals/398#fn-1" data-footnote-content='&lt;p&gt;&lt;p&gt;Based on FiveThirtyEight’s &lt;a href="https://projects.fivethirtyeight.com/trump-approval-ratings/" target="_blank" rel="noopener"&gt;presidential-approval-rating average for then-President Donald Trump&lt;/a&gt; and the &lt;a href="https://projects.fivethirtyeight.com/polls/generic-ballot/2018/" target="_blank" rel="noopener"&gt;2018 generic-ballot polling average&lt;/a&gt;, as well as what our presidential-approval and generic-ballot polling averages &lt;em&gt;would have &lt;/em&gt;said had they existed in 2006, 2010 and 2014, applying our current methodology to the polls at the time.&lt;/p&gt;
+&lt;/p&gt;'><sup>1</sup></a></p>
+
+
+
+<figure><img src="https://fivethirtyeight.com/wp-content/uploads/2022/07/rakich.APPROVAL-VS-GENERIC.0726-01.gif" alt="A range plot showing the difference between the president's net approval rating and the generic congressional ballot performance of the president's party on July 25 in midterm election years from 2006 to 2022" data-src="https://fivethirtyeight.com/wp-content/uploads/2022/07/rakich.APPROVAL-VS-GENERIC.0726-01.gif" data-srcset="https://fivethirtyeight.com/wp-content/uploads/2022/07/rakich.APPROVAL-VS-GENERIC.0726-01.gif?w=712 1x, https://fivethirtyeight.com/wp-content/uploads/2022/07/rakich.APPROVAL-VS-GENERIC.0726-01.gif?w=1424 2x"></figure><figure><img src="https://fivethirtyeight.com/wp-content/uploads/2022/07/rakich.APPROVAL-VS-GENERIC.0726-01-MOB.png" alt="A range plot showing the difference between the president's net approval rating and the generic congressional ballot performance of the president's party on July 25 in midterm election years from 2006 to 2022" data-src="https://fivethirtyeight.com/wp-content/uploads/2022/07/rakich.APPROVAL-VS-GENERIC.0726-01-MOB.png" data-srcset="https://fivethirtyeight.com/wp-content/uploads/2022/07/rakich.APPROVAL-VS-GENERIC.0726-01-MOB.png?w=712 1x, https://fivethirtyeight.com/wp-content/uploads/2022/07/rakich.APPROVAL-VS-GENERIC.0726-01-MOB.png?w=1424 2x"></figure><p data-paragraph="main">In 2010, there was little daylight between the two numbers. Then-President Barack Obama’s net approval rating was -2 points, and Democrats trailed by 3 points in generic-ballot polls. In 2018, the gap was a little wider but still nothing to write home about — just 4 points. That year, then-President Donald Trump’s net approval rating was 12 points underwater, while his Republicans trailed by 8 points.</p>
+
+
+
+<p data-paragraph="main">Meanwhile, in 2006, then-President George W. Bush and congressional Republicans were both in dire straits. But there was actually a decent-size, 7-point gap between Bush’s net approval rating (-19 points) and the GOP’s deficit on the generic congressional ballot (12 points). And in 2014, the difference between the two numbers was impossible to ignore. Obama’s net approval rating was -11 points, but Democrats actually <em>led</em> in generic-ballot polling by 2 points. That 13-point gap approaches the current 18-point gap between Biden’s numbers and those of congressional Democrats.</p>
+
+
+
+<p data-paragraph="main">Of course, it’s possible that Biden’s approval rating and the generic-ballot polling will come into better alignment as we get closer to the election. But again, historically, this hasn’t always happened. </p>
+
+
+
+<figure><img loading="lazy" width="711" height="644" src="https://fivethirtyeight.com/wp-content/uploads/2022/07/rakich.APPROVAL-VS-GENERIC.-726-02.png" alt="Four small line charts showing presidential approval ratings and party ballot performance over time. On each chart, one line shows the net approval rating for the president and another line shows the generic party ballot performance between July and November in midterm years from 2006 to 2018" data-src="https://fivethirtyeight.com/wp-content/uploads/2022/07/rakich.APPROVAL-VS-GENERIC.-726-02.png" data-srcset="https://fivethirtyeight.com/wp-content/uploads/2022/07/rakich.APPROVAL-VS-GENERIC.-726-02.png?w=711 1x, https://fivethirtyeight.com/wp-content/uploads/2022/07/rakich.APPROVAL-VS-GENERIC.-726-02.png?w=1422 2x"></figure><figure><img loading="lazy" width="335" height="857" src="https://fivethirtyeight.com/wp-content/uploads/2022/07/rakich.APPROVAL-VS-GENERIC.-726-02-MOB.png" alt="Four small line charts showing presidential approval ratings and party ballot performance over time. On each chart, one line shows the net approval rating for the president and another line shows the generic party ballot performance between July and November in midterm years from 2006 to 2018" data-src="https://fivethirtyeight.com/wp-content/uploads/2022/07/rakich.APPROVAL-VS-GENERIC.-726-02-MOB.png" data-srcset="https://fivethirtyeight.com/wp-content/uploads/2022/07/rakich.APPROVAL-VS-GENERIC.-726-02-MOB.png?w=335 1x, https://fivethirtyeight.com/wp-content/uploads/2022/07/rakich.APPROVAL-VS-GENERIC.-726-02-MOB.png?w=670 2x"></figure><p data-paragraph="main">In 2018, the gap wasn’t very large to begin with, but it did close from 4 points on July 25 to 2 points on Election Day. Trump’s net approval rating improved a bit, from -12 points to -11 points, while Republicans lost ground on the generic ballot, which went from D+8 to D+9.</p>
+
+
+
+<p data-paragraph="main">But in 2006 — when the gap was a not-insignificant 7 points as of July 25 — little changed. Bush’s net approval rating fell from -19 points to -20 points, and the generic-ballot polling moved in tandem from D+12 to D+14. By Election Day, the gap between presidential approval and the generic ballot was 6 points.</p>
+
+
+
+<p data-paragraph="main">In 2010, the gap also didn’t change much — but to the extent it did, it actually got wider. Granted, this was the year that presidential-approval polls and generic-ballot polls were just 1 point apart on July 25. And by Election Day, they were still in close agreement, albeit 2 points apart. Obama’s net approval rating went from -2 points to -4 points, and the Republican lead on the generic ballot increased by a bit more than that (from R+3 to R+7).</p>
+
+
+
+<p data-paragraph="main">Finally, in 2014 — perhaps the best analog to our current situation — Democrats’ standing in generic-ballot polls did deteriorate from a 2-point lead on July 25 to a 2-point deficit on Election Day. This was a bit closer to Obama’s -11-point net approval rating, which barely changed over the course of those three and a half months. But there was still a 9-point gap between the two numbers, so it’s hard to say they truly converged.</p>
+
+
+
+<p data-paragraph="main">In summary, it’s not unusual for presidential-approval polls and generic-ballot polls to still be several points apart on Election Day. So that leaves us with one final question: Which of those two indicators should we be paying more attention to?</p>
+
+
+
+<p data-paragraph="main">The answer is the generic ballot. Unsurprisingly, polls asking Americans which party they plan to vote for in the midterms have <a href="https://fivethirtyeight.com/features/some-early-clues-about-how-the-midterms-will-go/" target="_blank" rel="noopener">historically been more predictive of the midterm results</a> than polls asking about presidential approval. As <a href="https://fivethirtyeight.com/features/biden-is-very-unpopular-it-may-not-tell-us-much-about-the-midterms/" target="_blank" rel="noopener">Silver concluded</a>, the president’s popularity just doesn’t add all that much new information when you have polls that directly ask the question you want answered.</p>
+
+
+
+<p data-paragraph="main">In the past four midterm elections, the generic-ballot polling average has missed the national popular-vote margin for the House of Representatives by an average of only 2.5 points, while the presidential-approval polling average has “missed” (we’re using scare quotes because presidential-approval polls are not intended to be measuring this) the national popular vote margin by 5.5 points. In each of those cycles, regardless of whether the two numbers were in sync or not, the generic-ballot polling average came closer to the final vote margin — sometimes significantly closer.</p>
+
+
+<div>
+<section><header><h5>Presidential approval isn’t the best predictor of the midterms</h5>
+ <p>The national popular-vote margin for the U.S. House in the past four midterm elections compared with FiveThirtyEight’s polling average for both the president’s net approval rating and the generic congressional ballot</p>
+ </header><table data-carpenter-slug="rakich.approval-vs-generic.1"><thead><tr aria-hidden="true"><th colspan="2" scope="colgroup"></th>
+ <th colspan="2" scope="colgroup">Presidential Approval</th>
+ <th colspan="2" scope="colgroup">Generic Ballot</th>
+ </tr><tr><th colspan="1" scope="col">Election</th>
+ <th colspan="1" scope="col">House Popular Vote</th>
+ <th colspan="1" scope="col">Polling Average</th>
+ <th colspan="1" scope="col">Error</th>
+ <th colspan="1" scope="col">Polling Average</th>
+ <th colspan="1" scope="col">Error</th>
+ </tr></thead><tbody><tr><td>2006</td>
+ <td>D+7.9</td>
+ <td>-19.7</td>
+ <td>11.8</td>
+ <td>D+13.9</td>
+ <td>6.0</td>
+ </tr><tr><td>2010</td>
+ <td>R+6.6</td>
+ <td>-4.3</td>
+ <td>2.4</td>
+ <td>R+6.7</td>
+ <td>0.1</td>
+ </tr><tr><td>2014</td>
+ <td>R+5.8</td>
+ <td>-11.3</td>
+ <td>5.5</td>
+ <td>R+1.9</td>
+ <td>3.9</td>
+ </tr><tr><td>2018</td>
+ <td>D+8.6</td>
+ <td>-11.0</td>
+ <td>2.4</td>
+ <td>D+8.6</td>
+ <td>0.0</td>
+ </tr></tbody></table><footer><p>Using FiveThirtyEight’s polling average methodology applied retroactively for 2006, 2010 and 2014.</p>
+ <p>Sources: Polls, U.S. House of Representatives</p>
+ </footer></section></div>
+
+
+<p data-paragraph="main">On the surface, this appears to be good news for Democrats in 2022. Since generic-ballot polling is currently much better for the party than Biden’s approval rating, that would seem to suggest that a “red wave” is not in the cards. But not so fast. Go back and look at the chart above showing how the polling has changed from July to Election Day. While the generic-ballot polling and presidential-approval polling don’t always converge, there <em>is</em> one other pattern that’s evident: The generic-ballot polling got worse for the president’s party in all four cycles. </p>
+
+
+
+<p data-paragraph="main">That matches our previous research finding that the president’s party <a href="https://fivethirtyeight.com/features/our-best-tool-for-predicting-midterm-elections-doesnt-show-a-republican-wave-but-history-is-on-the-gops-side/" target="_blank" rel="noopener">typically loses ground on the generic ballot</a> as a midterm election approaches — a trend that’s especially pronounced when a Democratic president is in office. As <a href="https://fivethirtyeight.com/features/why-republicans-are-favored-to-win-the-house-but-not-the-senate/" target="_blank" rel="noopener">Silver also wrote</a> when unveiling our 2022 midterm forecast in June, most generic-ballot polls at this stage are conducted among registered voters, but by the fall they will be conducted among likely voters — a group that will probably be disproportionately Republican, both because Democrats tend to be more infrequent voters in general and because, currently, more Republicans than Democrats say they are <a href="https://www.youtube.com/watch?v=s_3O21aNiBc" target="_blank" rel="noopener">enthusiastic to vote</a>. </p>
+
+
+
+<p data-paragraph="main">So Republicans may lead in generic-ballot polls by only 1 point on average today. But by November, their lead will probably be a few points wider. And while that wouldn’t be as disastrous for Democrats as it would be if everyone’s midterm vote was dictated by how they rated Biden’s job performance, it would still be a great result for Republicans.</p>]]></description>
+			<pubDate>Tue, 26 Jul 2022 11:00:00 +0100</pubDate>
+			<guid isPermaLink="false">1658830502074626</guid>
+		</item>
 		<item>
 			<title>Politics Podcast: The Polls And Pundits Disagree (Again)</title>
 			<link>https://fivethirtyeight.com/features/politics-podcast-the-polls-and-pundits-disagree-again/</link>
@@ -195,7 +363,7 @@
 <p data-paragraph="main">Even on its own terms, though, the logic of tying the anti-abortion movement to the racist great replacement theory is deeply convoluted — and downright inaccurate. For instance, <a href="https://fivethirtyeight.com/features/how-abortion-has-changed-since-1973/" target="_blank" rel="noopener">fewer women are seeking abortions</a>, and women of color — particularly those who are Black — are more likely than white women to seek an abortion. Moreover, it’s likely that we’ll see <a href="https://fivethirtyeight.com/features/overturning-roe-v-wade-could-make-maternal-mortality-even-worse/" target="_blank" rel="noopener">more women of color die</a> as abortions become more limited, in spite of arguments from some on the far right that a near-total abortion ban is a <a href="https://www.vox.com/identities/2018/1/19/16906928/black-anti-abortion-movement-yoruba-richen-medical-racism" target="_blank" rel="noopener"><em>good </em>thing for people of color</a>, primarily Black people. In fact, according to analysis published in the December edition of the population-research journal “Demography,” a hypothetical total abortion ban would lead to <a href="https://read.dukeupress.edu/demography/article/58/6/2019/265968/The-Pregnancy-Related-Mortality-Impact-of-a-Total" target="_blank" rel="noopener">more pregnancy-related deaths among non-Hispanic Black people</a> than among any other racial group. </p>
 
 
-
+<p>Watch: https://abcnews.go.com/fivethirtyeight/video/supreme-court-overturns-roe-wade-fivethirtyeight-politics-podcast-85666091</p>
 
 
 <p data-paragraph="main">But<a href="https://www.littlebrown.com/titles/seyward-darby/sisters-in-hate/9781549199905/" target="_blank" rel="noopener"></a> logic is not the point in many of the mainstream racist arguments around restricting abortion access. “They tried to twist themselves into logical scientific explanations for all of these things. But they basically had to just make stuff up to justify what they wanted, which is for women — especially women of color — to not have any rights,” said Thompson, the historian.</p>
@@ -352,8 +520,8 @@
 
 
 
-<p data-paragraph="main">Part of the reason Republicans are not better positioned in the Senate is they don’t have a lot of easy pick-up opportunities, but one race where Republicans could gain traction is <a href="https://projects.fivethirtyeight.com/2022-election-forecast/senate/new-hampshire/" target="_blank" rel="noopener">the New Hampshire Senate race</a>. Democratic incumbent Sen. Maggie Hassan has led in <a href="https://projects.fivethirtyeight.com/polls/senate/new-hampshire/" target="_blank" rel="noopener">all but one poll this year against a series of potential Republican opponents</a>, but the GOP shouldn’t write the race off. Hassan’s lead is small in most of these polls, and it’s still early, with the primary not scheduled until Sept. 13.<a data-footnote-id="1" href="https://fivethirtyeight.com/wp-json/wp/v2/espn_verticals/398#fn-1" data-footnote-content="&lt;p&gt;&lt;p&gt;What the hell, New Hampshire?&lt;/p&gt;
-&lt;/p&gt;"><sup>1</sup></a></p>
+<p data-paragraph="main">Part of the reason Republicans are not better positioned in the Senate is they don’t have a lot of easy pick-up opportunities, but one race where Republicans could gain traction is <a href="https://projects.fivethirtyeight.com/2022-election-forecast/senate/new-hampshire/" target="_blank" rel="noopener">the New Hampshire Senate race</a>. Democratic incumbent Sen. Maggie Hassan has led in <a href="https://projects.fivethirtyeight.com/polls/senate/new-hampshire/" target="_blank" rel="noopener">all but one poll this year against a series of potential Republican opponents</a>, but the GOP shouldn’t write the race off. Hassan’s lead is small in most of these polls, and it’s still early, with the primary not scheduled until Sept. 13.<a data-footnote-id="2" href="https://fivethirtyeight.com/wp-json/wp/v2/espn_verticals/398#fn-2" data-footnote-content="&lt;p&gt;&lt;p&gt;What the hell, New Hampshire?&lt;/p&gt;
+&lt;/p&gt;"><sup>2</sup></a></p>
 
 
 
@@ -363,13 +531,13 @@
 <p>Watch: https://abcnews.go.com/fivethirtyeight/video/americans-pessimistic-changing-politics-87044495</p>
 
 
-<p data-paragraph="main">The factor that could help Republicans most is that New Hampshire — famous for polling leads that seem to evaporate overnight, like <a href="https://www.nbcnews.com/id/wbna22551718" target="_blank" rel="noopener">Barack Obama’s against Hillary Clinton’s in the Democratic primary there in 2008</a> — is <a href="https://fivethirtyeight.com/features/swing-voters-and-elastic-states/" target="_blank" rel="noopener">notoriously swingy</a>. I don’t just mean that it’s a <em>swing state</em>, although it frequently is in general elections. I also mean that it has a lot of swing <em>voters</em>: moderate, independent voters who split their tickets. Consider that, in 2020, Democratic Sen. Jeanne Shaheen won reelection there by 16 percentage points, while Republican Gov. Chris Sununu was reelected by 32 points on the same ballot.<a data-footnote-id="2" href="https://fivethirtyeight.com/wp-json/wp/v2/espn_verticals/398#fn-2" data-footnote-content="&lt;p&gt;&lt;p&gt;The contrast to a state like New Hampshire is a state like Georgia, which is also a swing state, but not because it has a lot of swing voters. Instead, it’s mostly a swing state because it has some very Republican-leaning groups like evangelical white voters and some very Democratic-leaning groups like Black voters and young, college-educated professionals, who roughly cancel one another out. Races in Georgia, then, tend to be more about who can turn out their base. New Hampshire is more about persuasion.&lt;/p&gt;
-&lt;/p&gt;"><sup>2</sup></a></p>
+<p data-paragraph="main">The factor that could help Republicans most is that New Hampshire — famous for polling leads that seem to evaporate overnight, like <a href="https://www.nbcnews.com/id/wbna22551718" target="_blank" rel="noopener">Barack Obama’s against Hillary Clinton’s in the Democratic primary there in 2008</a> — is <a href="https://fivethirtyeight.com/features/swing-voters-and-elastic-states/" target="_blank" rel="noopener">notoriously swingy</a>. I don’t just mean that it’s a <em>swing state</em>, although it frequently is in general elections. I also mean that it has a lot of swing <em>voters</em>: moderate, independent voters who split their tickets. Consider that, in 2020, Democratic Sen. Jeanne Shaheen won reelection there by 16 percentage points, while Republican Gov. Chris Sununu was reelected by 32 points on the same ballot.<a data-footnote-id="3" href="https://fivethirtyeight.com/wp-json/wp/v2/espn_verticals/398#fn-3" data-footnote-content="&lt;p&gt;&lt;p&gt;The contrast to a state like New Hampshire is a state like Georgia, which is also a swing state, but not because it has a lot of swing voters. Instead, it’s mostly a swing state because it has some very Republican-leaning groups like evangelical white voters and some very Democratic-leaning groups like Black voters and young, college-educated professionals, who roughly cancel one another out. Races in Georgia, then, tend to be more about who can turn out their base. New Hampshire is more about persuasion.&lt;/p&gt;
+&lt;/p&gt;"><sup>3</sup></a></p>
 
 
 
-<p data-paragraph="main">FiveThirtyEight measures this with our elasticity index, which is derived from voter-level survey data<a data-footnote-id="3" href="https://fivethirtyeight.com/wp-json/wp/v2/espn_verticals/398#fn-3" data-footnote-content='&lt;p&gt;&lt;p&gt;Specifically, we use the &lt;a href="https://cces.gov.harvard.edu/" target="_blank" rel="noopener"&gt;Cooperative Election Study&lt;/a&gt; from 2014 through 2020, which contains demographic information and presidential voting preferences for tens of thousands of voters. From this data, we can then determine how many voters in each state are likely to vote for each party and how many are plausibly up for grabs.&lt;/p&gt;
-&lt;/p&gt;'><sup>3</sup></a> to reflect how sensitive a state is to national trends. New Hampshire has an elasticity index of 1.21 — the fourth-highest in the country — which means that for every 1-point shift in the national environment, we’d expect New Hampshire to shift by about 1.2 points instead. So, for instance, a 5-point swing toward Republicans nationally would produce a 6-point swing there. That makes Hassan a bit more vulnerable.</p>
+<p data-paragraph="main">FiveThirtyEight measures this with our elasticity index, which is derived from voter-level survey data<a data-footnote-id="4" href="https://fivethirtyeight.com/wp-json/wp/v2/espn_verticals/398#fn-4" data-footnote-content='&lt;p&gt;&lt;p&gt;Specifically, we use the &lt;a href="https://cces.gov.harvard.edu/" target="_blank" rel="noopener"&gt;Cooperative Election Study&lt;/a&gt; from 2014 through 2020, which contains demographic information and presidential voting preferences for tens of thousands of voters. From this data, we can then determine how many voters in each state are likely to vote for each party and how many are plausibly up for grabs.&lt;/p&gt;
+&lt;/p&gt;'><sup>4</sup></a> to reflect how sensitive a state is to national trends. New Hampshire has an elasticity index of 1.21 — the fourth-highest in the country — which means that for every 1-point shift in the national environment, we’d expect New Hampshire to shift by about 1.2 points instead. So, for instance, a 5-point swing toward Republicans nationally would produce a 6-point swing there. That makes Hassan a bit more vulnerable.</p>
 
 
 
@@ -501,8 +669,8 @@
 
 
 
-<p data-paragraph="main">A third hypothesis: It’s all about the pork. Since each state has the same number of senators, a senator from a small state is more likely to extract concessions in exchange for pork-barrel spending,<a data-footnote-id="4" href="https://fivethirtyeight.com/wp-json/wp/v2/espn_verticals/398#fn-4" data-footnote-content="&lt;p&gt;&lt;p&gt;Of course, any senator can ask for concessions. But a pork-barrel project that makes a big dent in California or Texas’s finances is going to be pretty expensive. A small state is much cheaper to buy off.&lt;/p&gt;
-&lt;/p&gt;"><sup>4</sup></a> and this can make them more popular across party lines with voters at home (think Sens. Lisa Murkowski of Alaska or Joe Manchin of West Virginia). Whatever the reason, the statistical tendency of small-state Senate incumbents to overperform is fairly robust, and this is accounted for by our model.</p>
+<p data-paragraph="main">A third hypothesis: It’s all about the pork. Since each state has the same number of senators, a senator from a small state is more likely to extract concessions in exchange for pork-barrel spending,<a data-footnote-id="5" href="https://fivethirtyeight.com/wp-json/wp/v2/espn_verticals/398#fn-5" data-footnote-content="&lt;p&gt;&lt;p&gt;Of course, any senator can ask for concessions. But a pork-barrel project that makes a big dent in California or Texas’s finances is going to be pretty expensive. A small state is much cheaper to buy off.&lt;/p&gt;
+&lt;/p&gt;"><sup>5</sup></a> and this can make them more popular across party lines with voters at home (think Sens. Lisa Murkowski of Alaska or Joe Manchin of West Virginia). Whatever the reason, the statistical tendency of small-state Senate incumbents to overperform is fairly robust, and this is accounted for by our model.</p>
 
 
 
@@ -510,8 +678,8 @@
 
 
 
-<p data-paragraph="main">As part of our forecast, we <a href="https://fivethirtyeight.com/methodology/how-fivethirtyeights-house-and-senate-models-work/" target="_blank" rel="noopener">apply a process called CANTOR</a><a data-footnote-id="5" href="https://fivethirtyeight.com/wp-json/wp/v2/espn_verticals/398#fn-5" data-footnote-content='&lt;p&gt;&lt;p&gt;In the tradition of &lt;a href="https://en.wikipedia.org/wiki/PECOTA" target="_blank" rel="noopener"&gt;PECOTA&lt;/a&gt; and &lt;a href="https://projects.fivethirtyeight.com/carmelo/" target="_blank" rel="noopener"&gt;CARMELO&lt;/a&gt;, we created a stupid backronym for it: Congressional Algorithm using Neighboring Typologies to Optimize Regression.&lt;/p&gt;
-&lt;/p&gt;'><sup>5</sup></a> that determines which states and congressional districts are most similar to one another according to a variety of demographic, geographic and political variables — such as race, religion, income and education, population density, latitude and longitude, and voting behavior in recent presidential elections. A state like Hawaii qualifies as distinctive by this process, for instance. It has a far bigger Asian American and Native Hawaiian population than other states, it’s very Democratic, it’s very expensive and it’s <a href="https://www.nps.gov/havo/learn/nature/index.htm" target="_blank" rel="noopener">truly out there in the middle of nowhere in the Pacific Ocean</a>.</p>
+<p data-paragraph="main">As part of our forecast, we <a href="https://fivethirtyeight.com/methodology/how-fivethirtyeights-house-and-senate-models-work/" target="_blank" rel="noopener">apply a process called CANTOR</a><a data-footnote-id="6" href="https://fivethirtyeight.com/wp-json/wp/v2/espn_verticals/398#fn-6" data-footnote-content='&lt;p&gt;&lt;p&gt;In the tradition of &lt;a href="https://en.wikipedia.org/wiki/PECOTA" target="_blank" rel="noopener"&gt;PECOTA&lt;/a&gt; and &lt;a href="https://projects.fivethirtyeight.com/carmelo/" target="_blank" rel="noopener"&gt;CARMELO&lt;/a&gt;, we created a stupid backronym for it: Congressional Algorithm using Neighboring Typologies to Optimize Regression.&lt;/p&gt;
+&lt;/p&gt;'><sup>6</sup></a> that determines which states and congressional districts are most similar to one another according to a variety of demographic, geographic and political variables — such as race, religion, income and education, population density, latitude and longitude, and voting behavior in recent presidential elections. A state like Hawaii qualifies as distinctive by this process, for instance. It has a far bigger Asian American and Native Hawaiian population than other states, it’s very Democratic, it’s very expensive and it’s <a href="https://www.nps.gov/havo/learn/nature/index.htm" target="_blank" rel="noopener">truly out there in the middle of nowhere in the Pacific Ocean</a>.</p>
 
 
 
@@ -632,8 +800,8 @@
 
 
 
-<p data-paragraph="main">Another related theory is that there could be a stronger bond between voters and politicians in distinctive states. The politician may be a member of the minority group, or they may have ties to an industry that is uniquely important in the state. In the same sense that you probably know a married couple who are “perfect for one another,”<a data-footnote-id="6" href="https://fivethirtyeight.com/wp-json/wp/v2/espn_verticals/398#fn-6" data-footnote-content="&lt;p&gt;&lt;p&gt;Often, of course, a backhanded compliment which means they’d annoy the living hell out of anyone &lt;em&gt;but&lt;/em&gt; one another.&lt;/p&gt;
-&lt;/p&gt;"><sup>6</sup></a> there may be <a href="https://www.nytimes.com/2015/12/27/upshot/marriages-of-power-couples-reinforce-income-inequality.html" target="_blank" rel="noopener">stronger matching</a> in these cases.</p>
+<p data-paragraph="main">Another related theory is that there could be a stronger bond between voters and politicians in distinctive states. The politician may be a member of the minority group, or they may have ties to an industry that is uniquely important in the state. In the same sense that you probably know a married couple who are “perfect for one another,”<a data-footnote-id="7" href="https://fivethirtyeight.com/wp-json/wp/v2/espn_verticals/398#fn-7" data-footnote-content="&lt;p&gt;&lt;p&gt;Often, of course, a backhanded compliment which means they’d annoy the living hell out of anyone &lt;em&gt;but&lt;/em&gt; one another.&lt;/p&gt;
+&lt;/p&gt;"><sup>7</sup></a> there may be <a href="https://www.nytimes.com/2015/12/27/upshot/marriages-of-power-couples-reinforce-income-inequality.html" target="_blank" rel="noopener">stronger matching</a> in these cases.</p>
 
 
 
@@ -641,8 +809,8 @@
 
 
 
-<p data-paragraph="main">Overall, New England is a culturally distinctive region that is hard to pin down statistically, but is visible in everything from its cuisine to its <a href="https://www.nytimes.com/interactive/2014/04/23/upshot/24-upshot-baseball.html" target="_blank" rel="noopener">intense loyalty to the Boston Red Sox</a>. My subjective experience is that New England is considerably weirder — excuse me, “more distinctive” — than our metric describes it, and that means New England tends to be quite loyal to its incumbents. Hassan will hope that pattern holds.<a data-footnote-id="7" href="https://fivethirtyeight.com/wp-json/wp/v2/espn_verticals/398#fn-7" data-footnote-content="&lt;p&gt;&lt;p&gt;Although New Hampshire itself has had reasonably high turnover in the Senate.&lt;/p&gt;
-&lt;/p&gt;"><sup>7</sup></a></p>]]></description>
+<p data-paragraph="main">Overall, New England is a culturally distinctive region that is hard to pin down statistically, but is visible in everything from its cuisine to its <a href="https://www.nytimes.com/interactive/2014/04/23/upshot/24-upshot-baseball.html" target="_blank" rel="noopener">intense loyalty to the Boston Red Sox</a>. My subjective experience is that New England is considerably weirder — excuse me, “more distinctive” — than our metric describes it, and that means New England tends to be quite loyal to its incumbents. Hassan will hope that pattern holds.<a data-footnote-id="8" href="https://fivethirtyeight.com/wp-json/wp/v2/espn_verticals/398#fn-8" data-footnote-content="&lt;p&gt;&lt;p&gt;Although New Hampshire itself has had reasonably high turnover in the Senate.&lt;/p&gt;
+&lt;/p&gt;"><sup>8</sup></a></p>]]></description>
 			<pubDate>Fri, 22 Jul 2022 13:45:00 +0100</pubDate>
 			<guid isPermaLink="false">1658497502243535</guid>
 		</item>
@@ -844,8 +1012,8 @@
 
 
 
-<figure><img loading="lazy" width="1150" height="920" src="https://fivethirtyeight.com/wp-content/uploads/2022/07/biden-approval-rating-2-2.png" alt="" data-src="https://fivethirtyeight.com/wp-content/uploads/2022/07/biden-approval-rating-2-2.png" data-srcset="https://fivethirtyeight.com/wp-content/uploads/2022/07/biden-approval-rating-2-2.png?w=712 1x, https://fivethirtyeight.com/wp-content/uploads/2022/07/biden-approval-rating-2-2.png?w=1424 2x"></figure><p data-paragraph="main">According to FiveThirtyEight’s <a href="https://projects.fivethirtyeight.com/biden-approval-rating/" target="_blank" rel="noopener">presidential approval tracker</a>,<a data-footnote-id="8" href="https://fivethirtyeight.com/wp-json/wp/v2/espn_verticals/398#fn-8" data-footnote-content="&lt;p&gt;&lt;p&gt;As of 5 p.m. Eastern on Thursday.&lt;/p&gt;
-&lt;/p&gt;"><sup>8</sup></a> 37.5 percent of Americans approve of the job Biden is doing as president, while 57.2 percent disapprove (a net approval rating of -19.7 percentage points). At this time <a href="https://fivethirtyeight.com/features/one-of-the-few-things-americans-agree-on-space-is-cool/" target="_blank" rel="noopener">last week</a>, 38.7 percent approved and 56.0 percent disapproved (a net approval rating of -17.3 points). One month ago, Biden had an approval rating of 39.6 percent and a disapproval rating of 54.8 percent, for a net approval rating of -15.2 points.</p>
+<figure><img loading="lazy" width="1150" height="920" src="https://fivethirtyeight.com/wp-content/uploads/2022/07/biden-approval-rating-2-2.png" alt="" data-src="https://fivethirtyeight.com/wp-content/uploads/2022/07/biden-approval-rating-2-2.png" data-srcset="https://fivethirtyeight.com/wp-content/uploads/2022/07/biden-approval-rating-2-2.png?w=712 1x, https://fivethirtyeight.com/wp-content/uploads/2022/07/biden-approval-rating-2-2.png?w=1424 2x"></figure><p data-paragraph="main">According to FiveThirtyEight’s <a href="https://projects.fivethirtyeight.com/biden-approval-rating/" target="_blank" rel="noopener">presidential approval tracker</a>,<a data-footnote-id="9" href="https://fivethirtyeight.com/wp-json/wp/v2/espn_verticals/398#fn-9" data-footnote-content="&lt;p&gt;&lt;p&gt;As of 5 p.m. Eastern on Thursday.&lt;/p&gt;
+&lt;/p&gt;"><sup>9</sup></a> 37.5 percent of Americans approve of the job Biden is doing as president, while 57.2 percent disapprove (a net approval rating of -19.7 percentage points). At this time <a href="https://fivethirtyeight.com/features/one-of-the-few-things-americans-agree-on-space-is-cool/" target="_blank" rel="noopener">last week</a>, 38.7 percent approved and 56.0 percent disapproved (a net approval rating of -17.3 points). One month ago, Biden had an approval rating of 39.6 percent and a disapproval rating of 54.8 percent, for a net approval rating of -15.2 points.</p>
 
 
 
@@ -853,8 +1021,8 @@
 
 
 
-<figure><img loading="lazy" width="1150" height="920" src="https://fivethirtyeight.com/wp-content/uploads/2022/07/generic-ballot-2-2.png" alt="" data-src="https://fivethirtyeight.com/wp-content/uploads/2022/07/generic-ballot-2-2.png" data-srcset="https://fivethirtyeight.com/wp-content/uploads/2022/07/generic-ballot-2-2.png?w=712 1x, https://fivethirtyeight.com/wp-content/uploads/2022/07/generic-ballot-2-2.png?w=1424 2x"></figure><p data-paragraph="main"><br>In our average of polls of the <a href="https://projects.fivethirtyeight.com/congress-generic-ballot-polls/" target="_blank" rel="noopener">generic congressional ballot</a>,<a data-footnote-id="9" href="https://fivethirtyeight.com/wp-json/wp/v2/espn_verticals/398#fn-9" data-footnote-content="&lt;p&gt;&lt;p&gt;As of 5 p.m. Eastern on Thursday.&lt;/p&gt;
-&lt;/p&gt;"><sup>9</sup></a> Republicans currently lead by 1.1 points (44.3 percent to 43.2 percent). A week ago, Republicans led Democrats by 1.8 points (44.8 percent to 43.1 percent). At this time last month, voters preferred Republicans by 2.2 points (44.7 percent to 42.5 percent).</p>]]></description>
+<figure><img loading="lazy" width="1150" height="920" src="https://fivethirtyeight.com/wp-content/uploads/2022/07/generic-ballot-2-2.png" alt="" data-src="https://fivethirtyeight.com/wp-content/uploads/2022/07/generic-ballot-2-2.png" data-srcset="https://fivethirtyeight.com/wp-content/uploads/2022/07/generic-ballot-2-2.png?w=712 1x, https://fivethirtyeight.com/wp-content/uploads/2022/07/generic-ballot-2-2.png?w=1424 2x"></figure><p data-paragraph="main"><br>In our average of polls of the <a href="https://projects.fivethirtyeight.com/congress-generic-ballot-polls/" target="_blank" rel="noopener">generic congressional ballot</a>,<a data-footnote-id="10" href="https://fivethirtyeight.com/wp-json/wp/v2/espn_verticals/398#fn-10" data-footnote-content="&lt;p&gt;&lt;p&gt;As of 5 p.m. Eastern on Thursday.&lt;/p&gt;
+&lt;/p&gt;"><sup>10</sup></a> Republicans currently lead by 1.1 points (44.3 percent to 43.2 percent). A week ago, Republicans led Democrats by 1.8 points (44.8 percent to 43.1 percent). At this time last month, voters preferred Republicans by 2.2 points (44.7 percent to 42.5 percent).</p>]]></description>
 			<pubDate>Fri, 22 Jul 2022 11:00:00 +0100</pubDate>
 			<guid isPermaLink="false">1658488502162529</guid>
 		</item>
@@ -922,8 +1090,8 @@
 
 
 
-<p data-paragraph="main">Thomas and Alito would like to revisit more than just that, and their past dissents give us hints at how they might change the country next. Writing a dissenting opinion is a sign of when a justice was particularly unhappy with a given case’s outcome, since each justice <a href="https://www.scotusblog.com/glossary-of-legal-terms/" target="_blank" rel="noopener">isn’t required to write their own dissent</a> — they can (and often do) sign onto another colleague’s dissenting opinion. A FiveThirtyEight analysis of every case Thomas or Alito considered since they joined the court<a data-footnote-id="10" href="https://fivethirtyeight.com/wp-json/wp/v2/espn_verticals/398#fn-10" data-footnote-content="&lt;p&gt;&lt;p&gt;We looked at dissents that were specifically authored or co-authored by Thomas or Alito, rather than dissents they joined that were authored by other justices.&lt;/p&gt;
-&lt;/p&gt;"><sup>10</sup></a> found that Alito and Thomas have both dissented a lot, on some issues more than others. </p>
+<p data-paragraph="main">Thomas and Alito would like to revisit more than just that, and their past dissents give us hints at how they might change the country next. Writing a dissenting opinion is a sign of when a justice was particularly unhappy with a given case’s outcome, since each justice <a href="https://www.scotusblog.com/glossary-of-legal-terms/" target="_blank" rel="noopener">isn’t required to write their own dissent</a> — they can (and often do) sign onto another colleague’s dissenting opinion. A FiveThirtyEight analysis of every case Thomas or Alito considered since they joined the court<a data-footnote-id="11" href="https://fivethirtyeight.com/wp-json/wp/v2/espn_verticals/398#fn-11" data-footnote-content="&lt;p&gt;&lt;p&gt;We looked at dissents that were specifically authored or co-authored by Thomas or Alito, rather than dissents they joined that were authored by other justices.&lt;/p&gt;
+&lt;/p&gt;"><sup>11</sup></a> found that Alito and Thomas have both dissented a lot, on some issues more than others. </p>
 
 
 
@@ -969,8 +1137,8 @@
 
 
 
-<p data-paragraph="main">Over the years, Alito and Thomas have written many dissents on another topic: civil rights. In total, out of 413 cases on civil rights on which they’ve voted over the years, at least one of them has written dissents on 66 – 16 percent overall – but on close cases,<a data-footnote-id="11" href="https://fivethirtyeight.com/wp-json/wp/v2/espn_verticals/398#fn-11" data-footnote-content="&lt;p&gt;&lt;p&gt;Cases with three or four votes in the minority.&lt;/p&gt;
-&lt;/p&gt;"><sup>11</sup></a> that rises to 26 percent (34 out of 129). And if we look at close cases that were decided in a liberal direction, Thomas and Alito wrote dissents in a full 53 percent of them (32 out of 60).  </p>
+<p data-paragraph="main">Over the years, Alito and Thomas have written many dissents on another topic: civil rights. In total, out of 413 cases on civil rights on which they’ve voted over the years, at least one of them has written dissents on 66 – 16 percent overall – but on close cases,<a data-footnote-id="12" href="https://fivethirtyeight.com/wp-json/wp/v2/espn_verticals/398#fn-12" data-footnote-content="&lt;p&gt;&lt;p&gt;Cases with three or four votes in the minority.&lt;/p&gt;
+&lt;/p&gt;"><sup>12</sup></a> that rises to 26 percent (34 out of 129). And if we look at close cases that were decided in a liberal direction, Thomas and Alito wrote dissents in a full 53 percent of them (32 out of 60).  </p>
 
 
 
@@ -1056,8 +1224,8 @@
 
 
 
-<p data-paragraph="main">The vote will be an early bellwether for how Americans are thinking about abortion in the lead-up to the midterms. According to the <a href="https://coefficient.org/wp-content/uploads/2022/07/KS-VTB-Amendment-7.18.pdf" target="_blank" rel="noopener">first publicly released poll of the campaign,</a> conducted by <a href="https://coefficient.org/" target="_blank" rel="noopener">co/efficient</a> and shared exclusively with FiveThirtyEight, 47 percent of likely primary voters say they plan to vote for the <a href="https://sos.ks.gov/elections/22elec/2022-Primary-Election-Constitutional-Amendment-HCR-5003.pdf" target="_blank" rel="noopener">amendment</a>, while 43 percent say they plan to vote against it.<a data-footnote-id="12" href="https://fivethirtyeight.com/wp-json/wp/v2/espn_verticals/398#fn-12" data-footnote-content="&lt;p&gt;&lt;p&gt;This poll of 1,557 likely Kansas primary voters was conducted by mobile text response and automated landline interviews from July 17 to 18 and has a margin of error of ±2.78 percentage points.&lt;/p&gt;
-&lt;/p&gt;"><sup>12</sup></a></p>
+<p data-paragraph="main">The vote will be an early bellwether for how Americans are thinking about abortion in the lead-up to the midterms. According to the <a href="https://coefficient.org/wp-content/uploads/2022/07/KS-VTB-Amendment-7.18.pdf" target="_blank" rel="noopener">first publicly released poll of the campaign,</a> conducted by <a href="https://coefficient.org/" target="_blank" rel="noopener">co/efficient</a> and shared exclusively with FiveThirtyEight, 47 percent of likely primary voters say they plan to vote for the <a href="https://sos.ks.gov/elections/22elec/2022-Primary-Election-Constitutional-Amendment-HCR-5003.pdf" target="_blank" rel="noopener">amendment</a>, while 43 percent say they plan to vote against it.<a data-footnote-id="13" href="https://fivethirtyeight.com/wp-json/wp/v2/espn_verticals/398#fn-13" data-footnote-content="&lt;p&gt;&lt;p&gt;This poll of 1,557 likely Kansas primary voters was conducted by mobile text response and automated landline interviews from July 17 to 18 and has a margin of error of ±2.78 percentage points.&lt;/p&gt;
+&lt;/p&gt;"><sup>13</sup></a></p>
 
 
 
@@ -1187,8 +1355,8 @@
 
 
 
-<p data-paragraph="main">Republican Gov. Larry Hogan is term-limited, so the open-seat race for <strong>governor</strong> in this usually solid-blue state has attracted a total of nine Democratic contenders,<a data-footnote-id="13" href="https://fivethirtyeight.com/wp-json/wp/v2/espn_verticals/398#fn-13" data-footnote-content='&lt;p&gt;&lt;p&gt;After Rushern Baker &lt;a href="https://www.nbcwashington.com/decision-2022/rushern-baker-suspends-campaign-in-maryland-gubernatorial-primary/3074590/" target="_blank" rel="noopener"&gt;dropped out of the race&lt;/a&gt; in June.&lt;/p&gt;
-&lt;/p&gt;'><sup>13</sup></a> as there’s a <a href="https://fivethirtyeight.com/features/where-the-gop-could-make-or-break-its-chances-in-10-key-governors-races/" target="_blank" rel="noopener">good chance the party will be favored</a> in November. A range of candidates are running, too, with six notable Democrats in the mix — three of whom look poised to win the nomination.</p>
+<p data-paragraph="main">Republican Gov. Larry Hogan is term-limited, so the open-seat race for <strong>governor</strong> in this usually solid-blue state has attracted a total of nine Democratic contenders,<a data-footnote-id="14" href="https://fivethirtyeight.com/wp-json/wp/v2/espn_verticals/398#fn-14" data-footnote-content='&lt;p&gt;&lt;p&gt;After Rushern Baker &lt;a href="https://www.nbcwashington.com/decision-2022/rushern-baker-suspends-campaign-in-maryland-gubernatorial-primary/3074590/" target="_blank" rel="noopener"&gt;dropped out of the race&lt;/a&gt; in June.&lt;/p&gt;
+&lt;/p&gt;'><sup>14</sup></a> as there’s a <a href="https://fivethirtyeight.com/features/where-the-gop-could-make-or-break-its-chances-in-10-key-governors-races/" target="_blank" rel="noopener">good chance the party will be favored</a> in November. A range of candidates are running, too, with six notable Democrats in the mix — three of whom look poised to win the nomination.</p>
 
 
 
@@ -1248,8 +1416,8 @@
 
 
 
-<p data-paragraph="main">Finally, the <strong>6th District</strong> in western Maryland has a competitive GOP primary, with the winner set to face Democratic Rep. David Trone. The <a href="https://projects.fivethirtyeight.com/redistricting-2022-maps/maryland/" target="_blank" rel="noopener">new congressional map</a> made the 6th District much more competitive, too, turning it into a seat that is 1 point more Republican than the country as a whole,<a data-footnote-id="14" href="https://fivethirtyeight.com/wp-json/wp/v2/espn_verticals/398#fn-14" data-footnote-content="&lt;p&gt;&lt;p&gt;Partisan lean is the average margin difference between how a state or district votes and how the country votes overall. This version of partisan lean, meant to be used for congressional and gubernatorial elections, is calculated as 50 percent the state or district’s lean relative to the nation in the most recent presidential election, 25 percent its relative lean in the second-most-recent presidential election and 25 percent a custom state-legislative lean.&lt;/p&gt;
-&lt;/p&gt;"><sup>14</sup></a> as opposed to the old D+16 boundaries. <a href="https://www.washco-mdelections.org/_files/ugd/70dc4f_3b920cb0c3c748568755bc20d0e57076.pdf" target="_blank" rel="noopener">Six Republicans are running</a>, but the two main contenders are state Del. Neil Parrott and Matthew Foldi, a former writer for the conservative Washington Free Beacon.</p>
+<p data-paragraph="main">Finally, the <strong>6th District</strong> in western Maryland has a competitive GOP primary, with the winner set to face Democratic Rep. David Trone. The <a href="https://projects.fivethirtyeight.com/redistricting-2022-maps/maryland/" target="_blank" rel="noopener">new congressional map</a> made the 6th District much more competitive, too, turning it into a seat that is 1 point more Republican than the country as a whole,<a data-footnote-id="15" href="https://fivethirtyeight.com/wp-json/wp/v2/espn_verticals/398#fn-15" data-footnote-content="&lt;p&gt;&lt;p&gt;Partisan lean is the average margin difference between how a state or district votes and how the country votes overall. This version of partisan lean, meant to be used for congressional and gubernatorial elections, is calculated as 50 percent the state or district’s lean relative to the nation in the most recent presidential election, 25 percent its relative lean in the second-most-recent presidential election and 25 percent a custom state-legislative lean.&lt;/p&gt;
+&lt;/p&gt;"><sup>15</sup></a> as opposed to the old D+16 boundaries. <a href="https://www.washco-mdelections.org/_files/ugd/70dc4f_3b920cb0c3c748568755bc20d0e57076.pdf" target="_blank" rel="noopener">Six Republicans are running</a>, but the two main contenders are state Del. Neil Parrott and Matthew Foldi, a former writer for the conservative Washington Free Beacon.</p>
 
 
 
@@ -1403,8 +1571,8 @@
 
 
 
-<ol><li>Those who have explicitly said the 2020 election was illegitimate and/or took legal measures to try and overturn the election.<a data-footnote-id="15" href="https://fivethirtyeight.com/wp-json/wp/v2/espn_verticals/398#fn-15" data-footnote-content='&lt;p&gt;&lt;p&gt;Examples of the latter include members of Congress who &lt;a href="https://www.washingtonpost.com/graphics/2021/politics/congress-electoral-college-count-tracker/"&gt;voted against certifying election results&lt;/a&gt; or politicians who &lt;a href="https://www.supremecourt.gov/DocketPDF/22/22O155/163550/20201211132250339_Texas%20v.%20Pennsylvania%20Amicus%20Brief%20of%20126%20Representatives%20--%20corrected.pdf"&gt;signed an amicus brief for a Texas lawsuit&lt;/a&gt; that challenged election results in four states Biden won.&lt;/p&gt;
-&lt;/p&gt;'><sup>15</sup></a></li><li>Those who raised questions or concerns about the election but haven’t outright denied or affirmed it.</li><li>Those who have accepted Biden’s victory but have still raised questions or concerns about fraud.</li><li>Those who have accepted Biden’s victory without reservations.</li><li>Those who have refused or avoided directly answering questions about the election (e.g., by changing the subject when asked about it).</li><li>Those for whom no information is available.</li></ol><p data-paragraph="main">After doing that for all 1,148 Republican candidates for these offices in nominating contests through the end of June, here are four observations we have so far.</p>
+<ol><li>Those who have explicitly said the 2020 election was illegitimate and/or took legal measures to try and overturn the election.<a data-footnote-id="16" href="https://fivethirtyeight.com/wp-json/wp/v2/espn_verticals/398#fn-16" data-footnote-content='&lt;p&gt;&lt;p&gt;Examples of the latter include members of Congress who &lt;a href="https://www.washingtonpost.com/graphics/2021/politics/congress-electoral-college-count-tracker/"&gt;voted against certifying election results&lt;/a&gt; or politicians who &lt;a href="https://www.supremecourt.gov/DocketPDF/22/22O155/163550/20201211132250339_Texas%20v.%20Pennsylvania%20Amicus%20Brief%20of%20126%20Representatives%20--%20corrected.pdf"&gt;signed an amicus brief for a Texas lawsuit&lt;/a&gt; that challenged election results in four states Biden won.&lt;/p&gt;
+&lt;/p&gt;'><sup>16</sup></a></li><li>Those who raised questions or concerns about the election but haven’t outright denied or affirmed it.</li><li>Those who have accepted Biden’s victory but have still raised questions or concerns about fraud.</li><li>Those who have accepted Biden’s victory without reservations.</li><li>Those who have refused or avoided directly answering questions about the election (e.g., by changing the subject when asked about it).</li><li>Those for whom no information is available.</li></ol><p data-paragraph="main">After doing that for all 1,148 Republican candidates for these offices in nominating contests through the end of June, here are four observations we have so far.</p>
 
 
 
@@ -1412,8 +1580,8 @@
 
 
 
-<p data-paragraph="main">As mentioned above, out of 340 Republican nominees for Senate, House, governor, attorney general and secretary of state so far, 120 are full-blown election deniers (35 percent).<a data-footnote-id="16" href="https://fivethirtyeight.com/wp-json/wp/v2/espn_verticals/398#fn-16" data-footnote-content="&lt;p&gt;&lt;p&gt;Nominees include anyone running in the general election, so candidates advancing out of party conventions or California’s top-two primary to a November “runoff” are included.&lt;/p&gt;
-&lt;/p&gt;"><sup>16</sup></a> This includes people like Alabama Gov. Kay Ivey, who said in a <a href="https://www.youtube.com/watch?v=xztJw19j-CY" target="_blank" rel="noopener">campaign ad</a> that “the fake news, big tech and blue-state liberals stole the election from President Trump,” and Indiana Rep. Greg Pence, who <a href="https://www.therepublic.com/2021/01/08/rep-greg-pence-votes-to-object-to-pennsylvania-electoral-college-results/" target="_blank" rel="noopener">voted not to certify Pennsylvania’s electoral votes</a> (defying his brother, former Vice President Mike Pence) and hasn’t spoken out on the issue since. It also includes at least four people who attended the Jan. 6 riot at the U.S. Capitol: Pennsylvania gubernatorial nominee <a href="https://whyy.org/articles/new-video-appears-to-show-state-sen-mastriano-closer-to-capitol-riot-than-he-said/" target="_blank" rel="noopener">Doug Mastriano</a>, Ohio 9th Congressional District nominee <a href="https://www.toledoblade.com/local/politics/2021/04/01/QAnon-linked-Ohioan-whose-Trump-lawn-went-viral-is-running-for-Congress/stories/20210331121" target="_blank" rel="noopener">J.R. Majewski</a>, Oregon senatorial nominee <a href="https://www.koin.com/news/ex-senate-candidate-jo-rae-perkins-among-trump-supporters-in-dc/" target="_blank" rel="noopener">Jo Rae Perkins</a> and North Carolina 1st Congressional District nominee <a href="https://twitter.com/SandySmithNC/status/1346886855250337793?s=20&amp;t=rU_StxcdrnrwmsJoLMrmTw" target="_blank" rel="noopener">Sandy Smith</a>.</p>
+<p data-paragraph="main">As mentioned above, out of 340 Republican nominees for Senate, House, governor, attorney general and secretary of state so far, 120 are full-blown election deniers (35 percent).<a data-footnote-id="17" href="https://fivethirtyeight.com/wp-json/wp/v2/espn_verticals/398#fn-17" data-footnote-content="&lt;p&gt;&lt;p&gt;Nominees include anyone running in the general election, so candidates advancing out of party conventions or California’s top-two primary to a November “runoff” are included.&lt;/p&gt;
+&lt;/p&gt;"><sup>17</sup></a> This includes people like Alabama Gov. Kay Ivey, who said in a <a href="https://www.youtube.com/watch?v=xztJw19j-CY" target="_blank" rel="noopener">campaign ad</a> that “the fake news, big tech and blue-state liberals stole the election from President Trump,” and Indiana Rep. Greg Pence, who <a href="https://www.therepublic.com/2021/01/08/rep-greg-pence-votes-to-object-to-pennsylvania-electoral-college-results/" target="_blank" rel="noopener">voted not to certify Pennsylvania’s electoral votes</a> (defying his brother, former Vice President Mike Pence) and hasn’t spoken out on the issue since. It also includes at least four people who attended the Jan. 6 riot at the U.S. Capitol: Pennsylvania gubernatorial nominee <a href="https://whyy.org/articles/new-video-appears-to-show-state-sen-mastriano-closer-to-capitol-riot-than-he-said/" target="_blank" rel="noopener">Doug Mastriano</a>, Ohio 9th Congressional District nominee <a href="https://www.toledoblade.com/local/politics/2021/04/01/QAnon-linked-Ohioan-whose-Trump-lawn-went-viral-is-running-for-Congress/stories/20210331121" target="_blank" rel="noopener">J.R. Majewski</a>, Oregon senatorial nominee <a href="https://www.koin.com/news/ex-senate-candidate-jo-rae-perkins-among-trump-supporters-in-dc/" target="_blank" rel="noopener">Jo Rae Perkins</a> and North Carolina 1st Congressional District nominee <a href="https://twitter.com/SandySmithNC/status/1346886855250337793?s=20&amp;t=rU_StxcdrnrwmsJoLMrmTw" target="_blank" rel="noopener">Sandy Smith</a>.</p>
 
 
 <p>Watch: https://abcnews.go.com/theview/video/election-deniers-dominating-primaries-colorado-fivethirtyeight-85874712</p>
@@ -1513,8 +1681,8 @@
 
 
 
-<p data-paragraph="main">That said, Republican gubernatorial nominees <em>are</em> more conspiratorially minded than Republican Senate nominees, despite Senate elections being just as high-profile as gubernatorial elections. Only 18 percent (four out of 22)<a data-footnote-id="17" href="https://fivethirtyeight.com/wp-json/wp/v2/espn_verticals/398#fn-17" data-footnote-content="&lt;p&gt;&lt;p&gt;The denominator here includes Mark Meuser, who is the nominee in both the regularly scheduled and special U.S. Senate election in California, twice.&lt;/p&gt;
-&lt;/p&gt;"><sup>17</sup></a> of the GOP’s Senate nominees so far have fully rejected the election’s legitimacy, and only 9 percent more (two out of 22) have questioned it (a total of 27 percent). On the other hand, 59 percent have accepted it, either with (six out of 22) or without (seven out of 22) reservations. This fits with the Senate’s <a href="https://www.senate.gov/artandhistory/history/minute/Senate_Created.htm" target="_blank" rel="noopener">historical role</a> as the more temperate chamber of Congress than the more populist House.</p>
+<p data-paragraph="main">That said, Republican gubernatorial nominees <em>are</em> more conspiratorially minded than Republican Senate nominees, despite Senate elections being just as high-profile as gubernatorial elections. Only 18 percent (four out of 22)<a data-footnote-id="18" href="https://fivethirtyeight.com/wp-json/wp/v2/espn_verticals/398#fn-18" data-footnote-content="&lt;p&gt;&lt;p&gt;The denominator here includes Mark Meuser, who is the nominee in both the regularly scheduled and special U.S. Senate election in California, twice.&lt;/p&gt;
+&lt;/p&gt;"><sup>18</sup></a> of the GOP’s Senate nominees so far have fully rejected the election’s legitimacy, and only 9 percent more (two out of 22) have questioned it (a total of 27 percent). On the other hand, 59 percent have accepted it, either with (six out of 22) or without (seven out of 22) reservations. This fits with the Senate’s <a href="https://www.senate.gov/artandhistory/history/minute/Senate_Created.htm" target="_blank" rel="noopener">historical role</a> as the more temperate chamber of Congress than the more populist House.</p>
 
 
 <p>Watch: https://abcnews.go.com/fivethirtyeight/video/meet-nevada-gop-candidates-support-trumps-big-lie-85370871</p>
@@ -1540,8 +1708,8 @@
 
 
 
-<p data-paragraph="main">For instance, in the 91 contests in which at least one candidate entertains stolen election conspiracy theories and at least one candidate has accepted Biden as president, Republican voters opted for the pro-democracy candidate 49 times out of 91 (54 percent). The election-denying candidate won just 33 times (36 percent).<a data-footnote-id="18" href="https://fivethirtyeight.com/wp-json/wp/v2/espn_verticals/398#fn-18" data-footnote-content="&lt;p&gt;&lt;p&gt;The remaining nine races were won by a candidate whose position is unknown.&lt;/p&gt;
-&lt;/p&gt;"><sup>18</sup></a> In fact, candidates who accepted the election — either fully or while still raising questions about fraud — represent just 14 percent of total Republican primary candidates (winners and losers). Yet, these two groups were overrepresented in the primary winners: 22 percent of nominees (11 percent in each category) accepted the 2020 results.</p>
+<p data-paragraph="main">For instance, in the 91 contests in which at least one candidate entertains stolen election conspiracy theories and at least one candidate has accepted Biden as president, Republican voters opted for the pro-democracy candidate 49 times out of 91 (54 percent). The election-denying candidate won just 33 times (36 percent).<a data-footnote-id="19" href="https://fivethirtyeight.com/wp-json/wp/v2/espn_verticals/398#fn-19" data-footnote-content="&lt;p&gt;&lt;p&gt;The remaining nine races were won by a candidate whose position is unknown.&lt;/p&gt;
+&lt;/p&gt;"><sup>19</sup></a> In fact, candidates who accepted the election — either fully or while still raising questions about fraud — represent just 14 percent of total Republican primary candidates (winners and losers). Yet, these two groups were overrepresented in the primary winners: 22 percent of nominees (11 percent in each category) accepted the 2020 results.</p>
 
 
 
@@ -1652,8 +1820,8 @@
 
 
 
-<figure><img loading="lazy" width="1150" height="920" src="https://fivethirtyeight.com/wp-content/uploads/2022/07/biden-approval-rating-2-1.png" alt="" data-src="https://fivethirtyeight.com/wp-content/uploads/2022/07/biden-approval-rating-2-1.png" data-srcset="https://fivethirtyeight.com/wp-content/uploads/2022/07/biden-approval-rating-2-1.png?w=712 1x, https://fivethirtyeight.com/wp-content/uploads/2022/07/biden-approval-rating-2-1.png?w=1424 2x"></figure><p data-paragraph="main">According to FiveThirtyEight’s <a href="https://projects.fivethirtyeight.com/biden-approval-rating/" target="_blank" rel="noopener">presidential approval tracker</a>,<a data-footnote-id="22" href="https://fivethirtyeight.com/wp-json/wp/v2/espn_verticals/398#fn-22" data-footnote-content="&lt;p&gt;&lt;p&gt;As of 5 p.m. Eastern on Thursday.&lt;/p&gt;
-&lt;/p&gt;"><sup>22</sup></a> 38.7 percent of Americans approve of the job Biden is doing as president, while 56.0 percent disapprove (a net approval rating of -17.3 percentage points). At this time <a href="https://fivethirtyeight.com/features/what-happens-when-americans-dont-trust-institutions/" data-type="URL" data-id="https://fivethirtyeight.com/features/what-happens-when-americans-dont-trust-institutions/" target="_blank" rel="noopener">last week</a>, 38.6 percent approved and 56.3 percent disapproved (a net approval rating of -17.7 points). One month ago, Biden had an approval rating of 39.5 percent and a disapproval rating of 53.9 percent, for a net approval rating of -14.4 points.</p>
+<figure><img loading="lazy" width="1150" height="920" src="https://fivethirtyeight.com/wp-content/uploads/2022/07/biden-approval-rating-2-1.png" alt="" data-src="https://fivethirtyeight.com/wp-content/uploads/2022/07/biden-approval-rating-2-1.png" data-srcset="https://fivethirtyeight.com/wp-content/uploads/2022/07/biden-approval-rating-2-1.png?w=712 1x, https://fivethirtyeight.com/wp-content/uploads/2022/07/biden-approval-rating-2-1.png?w=1424 2x"></figure><p data-paragraph="main">According to FiveThirtyEight’s <a href="https://projects.fivethirtyeight.com/biden-approval-rating/" target="_blank" rel="noopener">presidential approval tracker</a>,<a data-footnote-id="20" href="https://fivethirtyeight.com/wp-json/wp/v2/espn_verticals/398#fn-20" data-footnote-content="&lt;p&gt;&lt;p&gt;As of 5 p.m. Eastern on Thursday.&lt;/p&gt;
+&lt;/p&gt;"><sup>20</sup></a> 38.7 percent of Americans approve of the job Biden is doing as president, while 56.0 percent disapprove (a net approval rating of -17.3 percentage points). At this time <a href="https://fivethirtyeight.com/features/what-happens-when-americans-dont-trust-institutions/" data-type="URL" data-id="https://fivethirtyeight.com/features/what-happens-when-americans-dont-trust-institutions/" target="_blank" rel="noopener">last week</a>, 38.6 percent approved and 56.3 percent disapproved (a net approval rating of -17.7 points). One month ago, Biden had an approval rating of 39.5 percent and a disapproval rating of 53.9 percent, for a net approval rating of -14.4 points.</p>
 
 
 
@@ -1661,8 +1829,8 @@
 
 
 
-<figure><img loading="lazy" width="1150" height="920" src="https://fivethirtyeight.com/wp-content/uploads/2022/07/generic-ballot-2-1.png" alt="" data-src="https://fivethirtyeight.com/wp-content/uploads/2022/07/generic-ballot-2-1.png" data-srcset="https://fivethirtyeight.com/wp-content/uploads/2022/07/generic-ballot-2-1.png?w=712 1x, https://fivethirtyeight.com/wp-content/uploads/2022/07/generic-ballot-2-1.png?w=1424 2x"></figure><p data-paragraph="main">In our average of polls of the <a href="https://projects.fivethirtyeight.com/congress-generic-ballot-polls/" target="_blank" rel="noopener">generic congressional ballot</a>,<a data-footnote-id="23" href="https://fivethirtyeight.com/wp-json/wp/v2/espn_verticals/398#fn-23" data-footnote-content="&lt;p&gt;&lt;p&gt;As of 5 p.m. Eastern on Thursday.&lt;/p&gt;
-&lt;/p&gt;"><sup>23</sup></a> Republicans currently lead by 1.8 points (44.8 percent to 43.0 percent). A week ago, Republicans led Democrats by 1.6 points (44.8 percent to 43.2 percent). At this time last month, voters preferred Republicans by 2.5 points (44.8 percent to 42.3 percent).</p>]]></description>
+<figure><img loading="lazy" width="1150" height="920" src="https://fivethirtyeight.com/wp-content/uploads/2022/07/generic-ballot-2-1.png" alt="" data-src="https://fivethirtyeight.com/wp-content/uploads/2022/07/generic-ballot-2-1.png" data-srcset="https://fivethirtyeight.com/wp-content/uploads/2022/07/generic-ballot-2-1.png?w=712 1x, https://fivethirtyeight.com/wp-content/uploads/2022/07/generic-ballot-2-1.png?w=1424 2x"></figure><p data-paragraph="main">In our average of polls of the <a href="https://projects.fivethirtyeight.com/congress-generic-ballot-polls/" target="_blank" rel="noopener">generic congressional ballot</a>,<a data-footnote-id="21" href="https://fivethirtyeight.com/wp-json/wp/v2/espn_verticals/398#fn-21" data-footnote-content="&lt;p&gt;&lt;p&gt;As of 5 p.m. Eastern on Thursday.&lt;/p&gt;
+&lt;/p&gt;"><sup>21</sup></a> Republicans currently lead by 1.8 points (44.8 percent to 43.0 percent). A week ago, Republicans led Democrats by 1.6 points (44.8 percent to 43.2 percent). At this time last month, voters preferred Republicans by 2.5 points (44.8 percent to 42.3 percent).</p>]]></description>
 			<pubDate>Fri, 15 Jul 2022 11:00:00 +0100</pubDate>
 			<guid isPermaLink="false">1657881001469716</guid>
 		</item>
@@ -1719,13 +1887,13 @@
 
 
 
-<p data-paragraph="main">This week, <a href="https://www.nytimes.com/2022/07/11/us/politics/biden-approval-polling-2024.html" target="_blank" rel="noopener">a Siena College/New York Times poll</a> showed President Biden with just a 33 percent approval rating, a result so poor that it touched off speculation — including from <a href="https://twitter.com/NateSilver538/status/1546520924957990913?s=20&amp;t=jKKV0neUqZUotFWPk7xMBQ" target="_blank" rel="noopener">yours truly</a> — about whether he would even run again in 2024. The Siena/New York Times number is on the low end of the polling consensus, but Biden’s <a href="https://projects.fivethirtyeight.com/biden-approval-rating/" target="_blank" rel="noopener">approval rating in our polling average</a> — about 39 percent<a data-footnote-id="19" href="https://fivethirtyeight.com/wp-json/wp/v2/espn_verticals/398#fn-19" data-footnote-content="&lt;p&gt;&lt;p&gt;As of 5 p.m. Eastern on Thursday.&lt;/p&gt;
-&lt;/p&gt;"><sup>19</sup></a> — is nonetheless a <a href="https://fivethirtyeight.com/features/whats-behind-bidens-record-low-approval-rating/" target="_blank" rel="noopener">historically low number</a>.</p>
+<p data-paragraph="main">This week, <a href="https://www.nytimes.com/2022/07/11/us/politics/biden-approval-polling-2024.html" target="_blank" rel="noopener">a Siena College/New York Times poll</a> showed President Biden with just a 33 percent approval rating, a result so poor that it touched off speculation — including from <a href="https://twitter.com/NateSilver538/status/1546520924957990913?s=20&amp;t=jKKV0neUqZUotFWPk7xMBQ" target="_blank" rel="noopener">yours truly</a> — about whether he would even run again in 2024. The Siena/New York Times number is on the low end of the polling consensus, but Biden’s <a href="https://projects.fivethirtyeight.com/biden-approval-rating/" target="_blank" rel="noopener">approval rating in our polling average</a> — about 39 percent<a data-footnote-id="22" href="https://fivethirtyeight.com/wp-json/wp/v2/espn_verticals/398#fn-22" data-footnote-content="&lt;p&gt;&lt;p&gt;As of 5 p.m. Eastern on Thursday.&lt;/p&gt;
+&lt;/p&gt;"><sup>22</sup></a> — is nonetheless a <a href="https://fivethirtyeight.com/features/whats-behind-bidens-record-low-approval-rating/" target="_blank" rel="noopener">historically low number</a>.</p>
 
 
 
-<p data-paragraph="main">And yet, the same poll showed a <a href="https://www.nytimes.com/2022/07/13/upshot/poll-2022-midterms-congress.html" target="_blank" rel="noopener">neck-and-neck race for Congress</a>. Democrats led by 1 percentage point among registered voters<a data-footnote-id="20" href="https://fivethirtyeight.com/wp-json/wp/v2/espn_verticals/398#fn-20" data-footnote-content="&lt;p&gt;&lt;p&gt;Which makes for the most direct comparison with the poll’s Biden approval number, which was also taken among registered voters.&lt;/p&gt;
-&lt;/p&gt;"><sup>20</sup></a> on the question of which party voters preferred controlled Congress and trailed by 1 point among likely voters.</p>
+<p data-paragraph="main">And yet, the same poll showed a <a href="https://www.nytimes.com/2022/07/13/upshot/poll-2022-midterms-congress.html" target="_blank" rel="noopener">neck-and-neck race for Congress</a>. Democrats led by 1 percentage point among registered voters<a data-footnote-id="23" href="https://fivethirtyeight.com/wp-json/wp/v2/espn_verticals/398#fn-23" data-footnote-content="&lt;p&gt;&lt;p&gt;Which makes for the most direct comparison with the poll’s Biden approval number, which was also taken among registered voters.&lt;/p&gt;
+&lt;/p&gt;"><sup>23</sup></a> on the question of which party voters preferred controlled Congress and trailed by 1 point among likely voters.</p>
 
 
 
@@ -1763,8 +1931,8 @@
 <p>Watch: https://abcnews.go.com/fivethirtyeight/video/democrats-supreme-court-fivethirtyeight-politics-podcast-86637136</p>
 
 
-<p data-paragraph="main">Even if there were a bigger gap, though, the “fundamentals” ultimately do not get all that much weight in the model. The reason is simply that, even at this fairly early point in the cycle, the generic ballot (at least if you properly adjust it to account for likely voters) and other indicators directly related to the current election have historically been more reliable predictors than the “fundamentals.” The model does expect conditions to get a bit worse for Democrats, but really just a bit.<a data-footnote-id="21" href="https://fivethirtyeight.com/wp-json/wp/v2/espn_verticals/398#fn-21" data-footnote-content="&lt;p&gt;&lt;p&gt;Specifically, at this point, the model regresses about one-sixth of the way toward the “fundamentals,” which means that it expects the House popular vote to swing about half of a point more toward Republicans between now and November.&lt;/p&gt;
-&lt;/p&gt;"><sup>21</sup></a></p>
+<p data-paragraph="main">Even if there were a bigger gap, though, the “fundamentals” ultimately do not get all that much weight in the model. The reason is simply that, even at this fairly early point in the cycle, the generic ballot (at least if you properly adjust it to account for likely voters) and other indicators directly related to the current election have historically been more reliable predictors than the “fundamentals.” The model does expect conditions to get a bit worse for Democrats, but really just a bit.<a data-footnote-id="24" href="https://fivethirtyeight.com/wp-json/wp/v2/espn_verticals/398#fn-24" data-footnote-content="&lt;p&gt;&lt;p&gt;Specifically, at this point, the model regresses about one-sixth of the way toward the “fundamentals,” which means that it expects the House popular vote to swing about half of a point more toward Republicans between now and November.&lt;/p&gt;
+&lt;/p&gt;"><sup>24</sup></a></p>
 
 
 
@@ -2456,71 +2624,6 @@
 <p data-paragraph="main">It’s important to remember that opinions on these issues can be complex — and genuinely cross-pressured. Sometimes people haven’t thought much about how these issues connect — meaning, it does not occur to them that bathroom bills or rules about sports participation could be discriminatory. Other times people have thought about these issues and still believe they are not discriminatory at their core. Either way, opinion on LGBTQ rights — as with everything — is more nuanced and complex than a single general survey question can show.</p>]]></description>
 			<pubDate>Tue, 12 Jul 2022 11:00:00 +0100</pubDate>
 			<guid isPermaLink="false">1657624502351361</guid>
-		</item>
-		<item>
-			<title>Politics Podcast: The Supreme Court Episode</title>
-			<link>https://fivethirtyeight.com/features/politics-podcast-the-supreme-court-episode/</link>
-						<dc:creator>Galen Druke</dc:creator>
-			<dc:creator>FiveThirtyEight</dc:creator>
-			<category>FiveThirtyEight Podcasts</category>
-			<category>Institutions</category>
-			<category>Politics Podcast</category>
-			<category>Roe V. Wade</category>
-			<category>Senate</category>
-			<category>Supreme Court</category>
-			<description><![CDATA[<div data-href="https://fivethirtyeight.com/features/politics-podcast-the-supreme-court-episode/">
-	<div data-podcast-id="339404" data-podcast-duration="0" data-podcast-title="Politics Podcast: The Supreme Court Episode">
-
-					<span><span>FiveThirtyEight</span></span>
-			
-		
-		<button aria-label="Play"></button>
-
-					<div>
-		
-		
-							<div>
-					<div>
-						<div></div>
-					</div>
-
-					<div> </div>
-
-					<audio preload="none" controls="controls">
-						<source src="https://www.podtrac.com/pts/redirect.mp3/traffic.megaphone.fm/ESP5384614776.mp3?updated=1657577530">
-					</source></audio>
-				</div>
-			
-					</div>
-		
-	</div>
-</div>
-<aside>
-	<div>
-		More: <a href="https://itunes.apple.com/us/podcast/fivethirtyeight-elections/id1077418457">Apple Podcasts</a> |
-		<span><a data-android-url="" href="http://m.espn.com/general/cast?id=14554755">ESPN App</a> |</span>
-		<a href="https://www.espn.com/espnradio/feeds/rss/podcast.xml?id=14554755">RSS</a>
-			</div>
-	</aside>
-
-
-
-
-<p data-paragraph="main">This past Supreme Court term featured the sharpest ideological divide in decades, with 21 percent of rulings seeing justices nominated by presidents of one party vote one way and justices nominated by presidents of the other party vote the opposite way. In this installment of the <a href="https://fivethirtyeight.com/tag/politics-podcast/" target="_blank" rel="noopener">FiveThirtyEight Politics podcast</a>, the crew analyzes the rightward direction of the court this term and what the majority conservative court could have in store in the future. Then they break down the Democrats’ response and how the party could try to tip the balance of the court or limit the power of the justices.</p>
-
-
-
-<p data-paragraph="main">But first the crew kicks off this SCOTUS-focused podcast by discussing a recent <a href="https://news.gallup.com/poll/394103/confidence-supreme-court-sinks-historic-low.aspx" target="_blank" rel="noopener">Gallup poll</a> that found American confidence in the Supreme Court at a 50-year low. The poll has inspired political commentators to argue that the court is putting its legitimacy in danger by straying too far from national public opinion.</p>
-
-
-
-<p data-paragraph="main"><em>You can listen to the episode by clicking the “play” button in the audio player above or by </em><a href="https://itunes.apple.com/us/podcast/fivethirtyeight-elections/id1077418457?mt=2" target="_blank" rel="noopener"><em>downloading it in iTunes</em></a><em>, the </em><a href="http://www.espn.com/espn/mobile/products/products/_/id/6857590" target="_blank" rel="noopener"><em>ESPN App</em></a><em> or your favorite podcast platform. If you are new to podcasts, </em><a href="https://fivethirtyeight.com/how-to-listen-to-fivethirtyeight-podcasts/" target="_blank" rel="noopener"><em>learn how to listen</em></a><em>.</em></p>
-
-
-
-<p data-paragraph="main"><em>The FiveThirtyEight Politics podcast is recorded Mondays and Thursdays. Help new listeners discover the show by </em><a href="https://itunes.apple.com/us/podcast/fivethirtyeight-elections/id1077418457?mt=2" target="_blank" rel="noopener"><em>leaving us a rating and review on iTunes</em></a><em>. Have a comment, question or suggestion for “good polling vs. bad polling”? Get in touch by email, </em><a href="https://twitter.com/FiveThirtyEight" target="_blank" rel="noopener"><em>on Twitter</em></a><em> or in the comments.</em></p>]]></description>
-			<pubDate>Mon, 11 Jul 2022 23:11:00 +0100</pubDate>
-			<guid isPermaLink="false">1657579501907522</guid>
 		</item>
 
 	</channel>
