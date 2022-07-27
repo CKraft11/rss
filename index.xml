@@ -3,8 +3,8 @@
 		<title>Main stream | FreshRSS</title>
 		<link>http://radon</link>
 		<description>RSS feed of Main stream | FreshRSS</description>
-		<pubDate>Wed, 27 Jul 2022 18:29:06 +0100</pubDate>
-		<lastBuildDate>Wed, 27 Jul 2022 17:29:06 GMT</lastBuildDate>
+		<pubDate>Wed, 27 Jul 2022 18:59:07 +0100</pubDate>
+		<lastBuildDate>Wed, 27 Jul 2022 17:59:07 GMT</lastBuildDate>
 		<atom:link href="http://radon/i/?a=rss" rel="self" type="application/rss+xml" />
 		<item>
 			<title>Are You A Voter Of Color? We Want To Hear From You.</title>
@@ -22,8 +22,9 @@
 				<header><div>
 													<p><a href="https://fivethirtyeight.com/tag/2022-election/" name="">2022 Election</a></p>
 						
-													<h1>Are You A Voter Of Color? We Want To Hear From You.We’re asking/seeking voters of color to talk with us about the issues that matter to them most ahead of this year’s midterm elections.</h1>
-																	</div>
+													<h1>Are You A Voter Of Color? We Want To Hear From You.</h1>
+																			<h2>We’re seeking voters of color to talk with us about the issues that matter to them most ahead of this year’s midterm elections.</h2>
+											</div>
 
 										<div>
 						<div>
@@ -2125,7 +2126,7 @@
 <p data-paragraph="main">From a zoomed-out perspective, the answer is that there’s a <a href="https://fivethirtyeight.com/features/why-democrats-in-congress-need-bidens-approval-rating-to-stay-in-the-mid-50s/" target="_blank" rel="noopener">reasonably strong relationship</a>. If you knew nothing else about the race for Congress, you’d expect an unpopular president’s party to lose seats. And indeed, that’s likely what will happen this year, too. Republicans are an 87 percent favorite to take over control of the House, <a href="https://projects.fivethirtyeight.com/2022-election-forecast/house/" target="_blank" rel="noopener">according to the Deluxe version of our forecast</a>. The Senate <a href="https://projects.fivethirtyeight.com/2022-election-forecast/senate/" target="_blank" rel="noopener">remains much closer to a toss-up</a>, but that has <a href="https://fivethirtyeight.com/features/why-republicans-are-favored-to-win-the-house-but-not-the-senate/" target="_blank" rel="noopener">more to do with poor Republican candidates</a> than anything the Democrats are doing well.</p>
 
 
-<p>Watch: https://abcnews.go.com/fivethirtyeight/video/democrats-continue-win-georgia-2022-fivethirtyeight-politics-podcast-86847505</p>
+
 
 
 <p data-paragraph="main">But predicting the number of seats lost in Congress based on the president’s approval rating is not <em>quite</em> the question we’re interested in from a forecasting standpoint. Rather, we want to know how much the president’s approval rating matters <em>given all the other information we have about the race</em>. In other words, is Biden’s poor approval already “baked in” to the congressional generic ballot polls and polls of individual House and Senate races? Or is there reason to think that the Democrats’ standing will get worse between now and November?</p>
