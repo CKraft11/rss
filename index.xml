@@ -3,9 +3,285 @@
 		<title>Main stream | FreshRSS</title>
 		<link>http://radon</link>
 		<description>RSS feed of Main stream | FreshRSS</description>
-		<pubDate>Fri, 05 Aug 2022 19:59:06 +0100</pubDate>
-		<lastBuildDate>Fri, 05 Aug 2022 18:59:06 GMT</lastBuildDate>
+		<pubDate>Fri, 05 Aug 2022 20:29:07 +0100</pubDate>
+		<lastBuildDate>Fri, 05 Aug 2022 19:29:07 GMT</lastBuildDate>
 		<atom:link href="http://radon/i/?a=rss" rel="self" type="application/rss+xml" />
+		<item>
+			<title>It’s Hard To Win A Senate Race When You’ve Never Won An Election Before</title>
+			<link>https://fivethirtyeight.com/features/its-hard-to-win-a-senate-race-when-youve-never-won-an-election-before/</link>
+						<dc:creator>Nate Silver</dc:creator>
+			<dc:creator>Nate Silver</dc:creator>
+			<category>2022 Election</category>
+			<category>2022 Midterms</category>
+			<category>Election Update</category>
+			<description><![CDATA[<div>
+
+			<div>
+
+				<header><div>
+													<p><a href="https://fivethirtyeight.com/tag/election-update/" name="">Election Update</a></p>
+						
+													<h1>It’s Hard To Win A Senate Race When You’ve Never Won An Election Before</h1>
+																	</div>
+
+										<div>
+						<div>
+															<p>By <a href="https://fivethirtyeight.com/contributors/nate-silver/" title="" rel="author">Nate Silver</a></p>
+							
+							<p>
+								<time>
+									Aug. 5, 2022, at 1:55 PM								</time></p>
+
+						</div>
+						<div>
+													</div> 
+					</div>
+					
+				</header><figure><span>
+									<div>
+						<picture><source media="(min-width: 768px)"><source><img alt="2022-ELECTIONUPDATE-0804-4×3" src="https://fivethirtyeight.com/wp-content/uploads/2022/08/2022-ELECTIONUPDATE-0804-4x3-1.png?w=916" data-sizes="(max-width: 768px) 100vw, (max-width: 1080px) 66vw, 684px" data-src="https://fivethirtyeight.com/wp-content/uploads/2022/08/2022-ELECTIONUPDATE-0804-4x3-1.png?w=916" data-srcset="https://fivethirtyeight.com/wp-content/uploads/2022/08/2022-ELECTIONUPDATE-0804-4x3-1.png?w=916 1x, https://fivethirtyeight.com/wp-content/uploads/2022/08/2022-ELECTIONUPDATE-0804-4x3-1.png?w=1832 2x"></source></source></picture></div>
+
+				
+			</span>
+
+			
+								<figcaption><p>ILLUSTRATION BY EMILY SCHERER</p>
+											</figcaption></figure></div>
+
+			
+		</div>
+
+
+
+
+
+<p data-paragraph="main">Politics doesn’t have a farm system in the way that professional baseball does. But it has a hierarchy of its own for cultivating political prospects. The path usually goes something like this: First, a candidate wins some relatively minor, local office like city council or state representative. Then, they either win a seat in the U.S. House, or a statewide office like attorney general. Only then do they run for Senate or governor.</p>
+
+
+
+<p data-paragraph="main">Most of the Democrats running in competitive Senate and gubernatorial races have followed a version of this course. For instance, John Fetterman, the Democratic candidate for Senate in Pennsylvania, was the mayor of Braddock, Pennsylvania for 13 years before being elected as the state’s lieutenant governor in 2018.</p>
+
+
+
+<p data-paragraph="main">But most of the Republicans haven’t. As a group, they have little experience running for office, and even less experience at actually <em>winning</em> general elections. Historically, such candidates have a poor track record – and in 2022 they could cost Republicans key gubernatorial races as well as control of the U.S. Senate. </p>
+
+
+
+<p data-paragraph="main">FiveThirtyEight’s model evaluates candidate experience as <a href="https://fivethirtyeight.com/methodology/how-fivethirtyeights-house-and-senate-models-work/" target="_blank" rel="noopener">part of our “fundamentals” calculation</a><a data-footnote-id="1" href="https://fivethirtyeight.com/wp-json/wp/v2/espn_verticals/398#fn-1" data-footnote-content="&lt;p&gt;&lt;p&gt;That is, our algorithm to predict race outcomes using factors other than polling, which we then combine with the polling average in each state to create a blended forecast.&lt;/p&gt;
+&lt;/p&gt;"><sup>1</sup></a>. Specifically, for Senate and gubernatorial candidates, we use a four-tiered system based on the candidate’s highest <em>elected</em><a data-footnote-id="2" href="https://fivethirtyeight.com/wp-json/wp/v2/espn_verticals/398#fn-2" data-footnote-content="&lt;p&gt;&lt;p&gt;Appointed offices don’t count&lt;/p&gt;
+&lt;/p&gt;"><sup>2</sup></a> office:</p>
+
+
+
+<ul><li>Tier 3: U.S. Senator or governor</li><li>Tier 2: U.S. representative, or statewide elected office (e.g., secretary of state), or mayor of a large city.</li><li>Tier 1: Any other nontrivial elected office (e.g., state senator).</li><li>Tier 0: Has never held any nontrivial elected office.</li></ul><p data-paragraph="main">The reason that experience in winning past elections can send a valuable statistical signal isn’t necessarily that experience in elected office is valuable unto itself. (For instance, candidates who are <em>appointed</em> to the U.S. Senate following a vacancy have <a href="https://fivethirtyeight.com/features/appointed-senators-rarely-win-re/" target="_blank" rel="noopener">poor track records at winning a Senate term for themselves</a>). Rather, it’s the act of <em>winning</em> an election that counts, since it’s a sign that a candidate is acceptable to some reasonably large group of voters.</p>
+
+
+
+<p data-paragraph="main">Let’s take a look at the experience level of nominees and presumed nominees running in competitive<a data-footnote-id="3" href="https://fivethirtyeight.com/wp-json/wp/v2/espn_verticals/398#fn-3" data-footnote-content="&lt;p&gt;&lt;p&gt;That is, races rated by FiveThirtyEight as toss-up, lean or likely.&lt;/p&gt;
+&lt;/p&gt;"><sup>3</sup></a> Senate races:</p>
+
+
+<div>
+<section><header><h5>Democratic Senate candidates have far more elected experience</h5>
+ <p>FiveThirtyEight’s experience ratings for candidates in competitive U.S. Senate elections</p>
+ </header><table data-carpenter-slug="silver.eu080522.1"><thead><tr aria-hidden="true"><th colspan="1" scope="col"></th>
+ <th colspan="2" scope="colgroup">Democrats</th>
+ <th colspan="2" scope="colgroup">Republicans</th>
+ </tr><tr><th colspan="1" scope="col">State</th>
+ <th colspan="1" scope="col">Candidate name</th>
+ <th colspan="1" scope="col">Tier</th>
+ <th colspan="1" scope="col">Candidate name</th>
+ <th colspan="1" scope="col">Tier</th>
+ </tr></thead><tbody><tr><td>Arizona</td>
+ <td>Mark Kelly <span>i</span></td>
+ <td>3</td>
+ <td>Blake Masters</td>
+ <td>0</td>
+ </tr><tr><td>Colorado</td>
+ <td>Michael Bennet <span>i</span></td>
+ <td>3</td>
+ <td>Joe O’Dea</td>
+ <td>0</td>
+ </tr><tr><td>Florida</td>
+ <td>Val Demings</td>
+ <td>2</td>
+ <td>Marco Rubio <span>i</span></td>
+ <td>3</td>
+ </tr><tr><td>Georgia</td>
+ <td>Raphael Warnock <span>i</span></td>
+ <td>3</td>
+ <td>Herschel Walker</td>
+ <td>0</td>
+ </tr><tr><td>Nevada</td>
+ <td>Catherine Cortez Masto <span>i</span></td>
+ <td>3</td>
+ <td>Adam Laxalt</td>
+ <td>2</td>
+ </tr><tr><td>New Hampshire</td>
+ <td>Maggie Hassan* <span>i</span></td>
+ <td>3</td>
+ <td>Donald Bolduc* <span>i</span></td>
+ <td>0</td>
+ </tr><tr><td>North Carolina</td>
+ <td>Cheri Beasley</td>
+ <td>2</td>
+ <td>Ted Budd</td>
+ <td>2</td>
+ </tr><tr><td>Ohio</td>
+ <td>Tim Ryan</td>
+ <td>2</td>
+ <td>J.D. Vance</td>
+ <td>0</td>
+ </tr><tr><td>Pennsylvania</td>
+ <td>John Fetterman</td>
+ <td>2</td>
+ <td>Mehmet Oz</td>
+ <td>0</td>
+ </tr><tr><td>Wisconsin</td>
+ <td>Mandela Barnes</td>
+ <td>2</td>
+ <td>Ron Johnson <span>i</span></td>
+ <td>3</td>
+ </tr><tr><td>Average</td>
+ <td></td>
+ <td>2.5</td>
+ <td></td>
+ <td>1.0</td>
+ </tr></tbody></table><footer><p>* Presumed nominee<br><i>i</i>  Incumbent</p>
+ </footer></section></div>
+
+
+<p data-paragraph="main">Democrats have an average experience score of 2.5 in these races, and all the candidates they’ve nominated or are projected to nominate qualify in at least the second tier of experience. Republicans’ average experience rating is just 1.0, by contrast. That’s partly because they have fewer incumbents running, but even if you exclude incumbents from the average, there’s still a huge gap: non-incumbent Democrats have an average experience rating of 2.0 versus 0.5 for Republicans.</p>
+
+
+
+<p data-paragraph="main">Indeed, the Republican nominees for Senate in Arizona, Colorado, Georgia, Ohio and Pennsylvania have never held elected office before. Nor has the party’s presumed nominee in New Hampshire, Donald Bolduc.<a data-footnote-id="4" href="https://fivethirtyeight.com/wp-json/wp/v2/espn_verticals/398#fn-4" data-footnote-content='&lt;p&gt;&lt;p&gt;Bolduc &lt;a href="https://scholars.unh.edu/cgi/viewcontent.cgi?article=1692&amp;amp;context=survey_center_polls" target="_blank" rel="noopener"&gt;easily led the only poll of the GOP primary&lt;/a&gt; in New Hampshire.&lt;/p&gt;
+&lt;/p&gt;'><sup>4</sup></a></p>
+
+
+
+<p data-paragraph="main">Having held elected office is not a prerequisite for higher office, and one can think of plenty of candidates, from Elizabeth Warren to Ted Cruz, who won races for the U.S. Senate as first-time candidates. Even so, some of them had pedigrees in politics or politics-related fields. Cruz had been solicitor general of Texas, for instance – an unelected office but one that gave him a significant public profile. Mark Kelly, the Democratic incumbent in Arizona, won a Senate race in his first election in 2020, but he had been an astronaut (often a <a href="https://en.wikipedia.org/wiki/Astronaut-politician#:~:text=In%201985%2C%20Senator%20Jake%20Garn,also%20as%20a%20payload%20specialist." target="_blank" rel="noopener">successful launching pad for political careers</a>) and is the husband of former U.S. representative Gabrielle Giffords.</p>
+
+
+
+<p data-paragraph="main">This year’s crop of Republican nominees don’t have those advantages. For instance, Democrats have a <a href="https://www.nytimes.com/2022/08/03/opinion/blake-masters-arizona-senate.html" target="_blank" rel="noopener">variety of potential attack lines against Blake Masters</a>, the newly-minted Republican Senate nominee in Arizona, from his ties to controversial billionaire Peter Thiel to his <a href="https://www.businessinsider.com/arizona-gop-senate-candidate-masters-privatizing-social-security-2022-6" target="_blank" rel="noopener">suggestions that he might privatize social security</a>. Ohio’s J.D. Vance has <a href="https://www.cleveland.com/news/2022/07/do-new-fundraising-numbers-in-ohios-us-senate-race-between-jd-vance-and-tim-ryan-provide-a-ray-of-hope-for-democrats.html" target="_blank" rel="noopener">had trouble raising money</a>, a sign that he may lack the donor networks of more experienced politicians. Pennsylvania’s Mehmet Oz has <a href="https://projects.fivethirtyeight.com/polls/governor/2022/pennsylvania/" target="_blank" rel="noopener">fallen well behind in polls</a> as he has been unable to fend off Fetterman attack ads that <a href="https://www.washingtonpost.com/politics/2022/07/27/fetterman-ad-new-jersey/" target="_blank" rel="noopener">emphasize his New Jersey residency</a>.<br></p>
+
+
+
+<p data-paragraph="main">How about gubernatorial races? Here are the experience ratings in elections for competitive gubernatorial seats:<a data-footnote-id="5" href="https://fivethirtyeight.com/wp-json/wp/v2/espn_verticals/398#fn-5" data-footnote-content='&lt;p&gt;&lt;p&gt;Plus Michigan, which falls just outside the range that the FiveThirtyEight model considers competitive but is competitive according to &lt;a href="https://www.cookpolitical.com/ratings/governor-race-ratings" target="_blank" rel="noopener"&gt;most other sources&lt;/a&gt;.&lt;/p&gt;
+&lt;/p&gt;'><sup>5</sup></a></p>
+
+
+<div>
+<section><header><h5>Democratic gubernatorial candidates are also more experienced</h5>
+ <p>FiveThirtyEight’s experience ratings for candidates in competitive U.S. gubernatorial elections</p>
+ </header><table data-carpenter-slug="silver.eu080522.2"><thead><tr aria-hidden="true"><th colspan="1" scope="col"></th>
+ <th colspan="2" scope="colgroup">Democrats</th>
+ <th colspan="2" scope="colgroup">Republicans</th>
+ </tr><tr><th colspan="1" scope="col">State</th>
+ <th colspan="1" scope="col">Candidate name</th>
+ <th colspan="1" scope="col">Tier</th>
+ <th colspan="1" scope="col">Candidate name</th>
+ <th colspan="1" scope="col">Tier</th>
+ </tr></thead><tbody><tr><td>Alaska</td>
+ <td>Les Gara*</td>
+ <td>1</td>
+ <td>Mike Dunleavy* <span>i</span></td>
+ <td>3</td>
+ </tr><tr><td>Arizona</td>
+ <td>Katie Hobbs</td>
+ <td>2</td>
+ <td>Kari Lake</td>
+ <td>0</td>
+ </tr><tr><td>Connecticut</td>
+ <td>Ned Lamont <span>i</span></td>
+ <td>3</td>
+ <td>Robert Stefanowski</td>
+ <td>0</td>
+ </tr><tr><td>Florida</td>
+ <td>Charlie Crist</td>
+ <td>3</td>
+ <td>Ron DeSantis <span>i</span></td>
+ <td>3</td>
+ </tr><tr><td>Georgia</td>
+ <td>Stacey Abrams</td>
+ <td>1</td>
+ <td>Brian Kemp <span>i</span></td>
+ <td>3</td>
+ </tr><tr><td>Kansas</td>
+ <td>Laura Kelly <span>i</span></td>
+ <td>3</td>
+ <td>Derek Schmidt</td>
+ <td>2</td>
+ </tr><tr><td>Maine</td>
+ <td>Janet Mills <span>i</span></td>
+ <td>3</td>
+ <td>Paul LePage</td>
+ <td>3</td>
+ </tr><tr><td>Michigan</td>
+ <td>Gretchen Whitmer</td>
+ <td>3</td>
+ <td>Tudor Dixon</td>
+ <td>0</td>
+ </tr><tr><td>Minnesota</td>
+ <td>Tim Walz* <span>i</span></td>
+ <td>3</td>
+ <td>Scott Jensen*</td>
+ <td>1</td>
+ </tr><tr><td>Nevada</td>
+ <td>Steve Sisolak <span>i</span></td>
+ <td>3</td>
+ <td>Joe Lombardo</td>
+ <td>1</td>
+ </tr><tr><td>New Mexico</td>
+ <td>Michelle Lujan Grisham <span>i</span></td>
+ <td>3</td>
+ <td>Mark Ronchetti</td>
+ <td>0</td>
+ </tr><tr><td>Oregon</td>
+ <td>Tina Kotek</td>
+ <td>1</td>
+ <td>Christine Drazan</td>
+ <td>1</td>
+ </tr><tr><td>Pennsylvania</td>
+ <td>Josh Shapiro</td>
+ <td>2</td>
+ <td>Doug Mastriano</td>
+ <td>1</td>
+ </tr><tr><td>Wisconsin</td>
+ <td>Tony Evers <span>i</span></td>
+ <td>3</td>
+ <td>Rebecca Kleefisch</td>
+ <td>2</td>
+ </tr><tr><td>Average</td>
+ <td></td>
+ <td>2.4</td>
+ <td></td>
+ <td>1.4</td>
+ </tr></tbody></table><footer><p>* Presumed nominee<br><i>i</i>  Incumbent</p>
+ </footer></section></div>
+
+
+<p data-paragraph="main">You can see another big gap there: Democrats have an average experience rating of 2.4, as compared to 1.4 for Republicans. Excluding incumbents, Democrats have an average rating of 1.7, versus 1.0 for Republicans.</p>
+
+
+
+<p data-paragraph="main">It’s important to note that we shouldn’t regard this as some sort of unlucky fluke for the GOP. Rather, this is part and parcel of the modern Republican Party. Former President Donald Trump didn’t have much political experience when he ran against the party establishment in 2016. Since then he has <a href="https://www.nytimes.com/2022/08/01/opinion/liz-cheney-trump-jan-6.html" target="_blank" rel="noopener">repeatedly intervened against candidates</a> who he thought were insufficiently loyal to him, regardless of their political pedigrees.</p>
+
+
+
+<p data-paragraph="main">Sure, there are Republicans who challenge Trump – like <a href="https://www.politico.com/news/2022/04/26/sununu-bucks-trump-in-2024-00027612" target="_blank" rel="noopener">New Hampshire Gov. Chris Sununu</a>. But that’s a case in point: Sununu <a href="https://www.politico.com/news/2021/11/09/sununu-wont-run-for-senate-520413" target="_blank" rel="noopener">chose not to run for the U.S. Senate</a>. That seat is <a href="https://fivethirtyeight.com/features/new-hampshire-is-tiny-and-pretty-weird-that-could-help-maggie-hassan/" target="_blank" rel="noopener">now pretty likely</a> to be retained by the Democratic incumbent, Maggie Hassan, since she’s likely to be running against an inexperienced Bolduc.</p>
+
+
+
+<p data-paragraph="main">Indeed, Democratic chances to keep the Senate continue to inch upward and are now <a href="https://projects.fivethirtyeight.com/2022-election-forecast/senate/?cid=rrpromo" target="_blank" rel="noopener">59 percent according to our Deluxe forecast</a> and 71 percent in the Classic version of our model. First-time candidates like Oz, Masters and Georgia’s Herschel Walker could blow races that Republicans would ordinarily be poised to win.</p>
+
+
+
+<p data-paragraph="main"><strong>CORRECTION (Aug. 5, 2022, 2:44 p.m.):</strong> The second table in this article has been updated to correct the spelling of Kari Lake’s and Michelle Lujan Grisham’s first names.</p>]]></description>
+			<pubDate>Fri, 05 Aug 2022 18:55:00 +0100</pubDate>
+			<guid isPermaLink="false">1659726001858190</guid>
+		</item>
 		<item>
 			<title>Why Most Americans Aren’t Paying Attention To The Monkeypox Outbreak</title>
 			<link>https://fivethirtyeight.com/features/most-americans-arent-paying-attention-to-the-monkeypox-outbreak/</link>
@@ -106,7 +382,8 @@
 
 
 
-<figure><img loading="lazy" width="1150" height="920" src="https://fivethirtyeight.com/wp-content/uploads/2022/08/biden-approval-rating-2.png" alt="" data-src="https://fivethirtyeight.com/wp-content/uploads/2022/08/biden-approval-rating-2.png" data-srcset="https://fivethirtyeight.com/wp-content/uploads/2022/08/biden-approval-rating-2.png?w=712 1x, https://fivethirtyeight.com/wp-content/uploads/2022/08/biden-approval-rating-2.png?w=1424 2x"></figure><p data-paragraph="main">According to FiveThirtyEight’s <a href="https://projects.fivethirtyeight.com/biden-approval-rating/" target="_blank" rel="noopener">presidential approval tracker</a>, 39.2 percent of Americans approve of the job Biden is doing as president, while 55.7 percent disapprove (a net approval rating of -16.5 points). At this time <a href="https://fivethirtyeight.com/features/murkowski-alaska-polls/" target="_blank" rel="noopener">last week</a>, 39.3 percent approved and 55.7 percent disapproved (a net approval rating of -16.4 points). One month ago, Biden had an approval rating of 39.2 percent and a disapproval rating of 55.9 percent, for a net approval rating of -16.7 points.</p>
+<figure><img loading="lazy" width="1150" height="920" src="https://fivethirtyeight.com/wp-content/uploads/2022/08/biden-approval-rating-2.png" alt="" data-src="https://fivethirtyeight.com/wp-content/uploads/2022/08/biden-approval-rating-2.png" data-srcset="https://fivethirtyeight.com/wp-content/uploads/2022/08/biden-approval-rating-2.png?w=712 1x, https://fivethirtyeight.com/wp-content/uploads/2022/08/biden-approval-rating-2.png?w=1424 2x"></figure><p data-paragraph="main">According to FiveThirtyEight’s <a href="https://projects.fivethirtyeight.com/biden-approval-rating/" target="_blank" rel="noopener">presidential approval tracker</a>,<a data-footnote-id="6" href="https://fivethirtyeight.com/wp-json/wp/v2/espn_verticals/398#fn-6" data-footnote-content="&lt;p&gt;&lt;p&gt;As of 5 p.m. Eastern on Thursday.&lt;/p&gt;
+&lt;/p&gt;"><sup>6</sup></a> 39.2 percent of Americans approve of the job Biden is doing as president, while 55.7 percent disapprove (a net approval rating of -16.5 points). At this time <a href="https://fivethirtyeight.com/features/murkowski-alaska-polls/" target="_blank" rel="noopener">last week</a>, 39.3 percent approved and 55.7 percent disapproved (a net approval rating of -16.4 points). One month ago, Biden had an approval rating of 39.2 percent and a disapproval rating of 55.9 percent, for a net approval rating of -16.7 points.</p>
 
 
 
@@ -114,7 +391,8 @@
 
 
 
-<figure><img loading="lazy" width="1150" height="920" src="https://fivethirtyeight.com/wp-content/uploads/2022/08/generic-ballot-2.png" alt="" data-src="https://fivethirtyeight.com/wp-content/uploads/2022/08/generic-ballot-2.png" data-srcset="https://fivethirtyeight.com/wp-content/uploads/2022/08/generic-ballot-2.png?w=712 1x, https://fivethirtyeight.com/wp-content/uploads/2022/08/generic-ballot-2.png?w=1424 2x"></figure><p data-paragraph="main">In our average of polls of the <a href="https://projects.fivethirtyeight.com/congress-generic-ballot-polls/" target="_blank" rel="noopener">generic congressional ballot</a>, Republicans and Democrats are roughly tied, 44.2 percent to 44.2 percent. A week ago, Republicans led Democrats by 0.2 points (44.1 percent to 43.9 percent). At this time last month, voters preferred Republicans by 2.0 points (42.8 percent to 44.8 percent).</p>]]></description>
+<figure><img loading="lazy" width="1150" height="920" src="https://fivethirtyeight.com/wp-content/uploads/2022/08/generic-ballot-2.png" alt="" data-src="https://fivethirtyeight.com/wp-content/uploads/2022/08/generic-ballot-2.png" data-srcset="https://fivethirtyeight.com/wp-content/uploads/2022/08/generic-ballot-2.png?w=712 1x, https://fivethirtyeight.com/wp-content/uploads/2022/08/generic-ballot-2.png?w=1424 2x"></figure><p data-paragraph="main">In our average of polls of the <a href="https://projects.fivethirtyeight.com/congress-generic-ballot-polls/" target="_blank" rel="noopener">generic congressional ballot</a>,<a data-footnote-id="7" href="https://fivethirtyeight.com/wp-json/wp/v2/espn_verticals/398#fn-7" data-footnote-content="&lt;p&gt;&lt;p&gt;As of 5 p.m. Eastern on Thursday.&lt;/p&gt;
+&lt;/p&gt;"><sup>7</sup></a> Republicans and Democrats are roughly tied, 44.2 percent to 44.2 percent. A week ago, Republicans led Democrats by 0.2 points (44.1 percent to 43.9 percent). At this time last month, voters preferred Republicans by 2.0 points (42.8 percent to 44.8 percent).</p>]]></description>
 			<pubDate>Fri, 05 Aug 2022 11:00:00 +0100</pubDate>
 			<guid isPermaLink="false">1659694501635472</guid>
 		</item>
@@ -371,8 +649,8 @@
 
 <figure><div>
 <div><iframe title="Democrats increasingly think abortion should always be legal" aria-label="Interactive line chart" src="https://datawrapper.dwcdn.net/gehgK/6/" scrolling="no" frameborder="0" height="400" sandbox="allow-scripts allow-same-origin"></iframe></div>
-</div></figure><p data-paragraph="main">The same uptick appears in a slightly different question from <a href="https://today.yougov.com/topics/economist/survey-results" target="_blank" rel="noopener">weekly tracking surveys by YouGov/The Economist</a>. Shortly before a draft of the Dobbs decision was <a href="https://www.politico.com/news/2022/05/02/read-justice-alito-initial-abortion-opinion-overturn-roe-v-wade-pdf-00029504" target="_blank" rel="noopener">leaked and obtained by Politico</a> in early May, <a href="https://docs.cdn.yougov.com/v29gmo3oqg/econTabReport%20%282%29.pdf" target="_blank" rel="noopener">only 42 percent of voters who cast their ballots for President Biden</a> in 2020 agreed with the following statement: “Abortion should always be legal. There should be no restrictions on abortion.”<a data-footnote-id="1" href="https://fivethirtyeight.com/wp-json/wp/v2/espn_verticals/398#fn-1" data-footnote-content="&lt;p&gt;&lt;p&gt;The April 9-12 survey was the last time YouGov/The Economist asked about the scenarios in which abortion should be legal or illegal before the leaked decision on Dobbs was published on May 2.&lt;/p&gt;
-&lt;/p&gt;"><sup>1</sup></a> But that share has now <a href="https://docs.cdn.yougov.com/d1ik3gw9iw/econTabReport.pdf" target="_blank" rel="noopener">grown</a> to <a href="https://docs.cdn.yougov.com/ldb835m1bk/econTabReport.pdf" target="_blank" rel="noopener">between 49 percent and 54 percent</a> in <a href="https://docs.cdn.yougov.com/k4maehoie4/econTabReport.pdf" target="_blank" rel="noopener">all six</a> of the surveys <a href="https://docs.cdn.yougov.com/0atxy0xx1u/econTabReport.pdf" target="_blank" rel="noopener">YouGov/The Economist</a> conducted since <a href="https://docs.cdn.yougov.com/0atxy0xx1u/econTabReport.pdf" target="_blank" rel="noopener">the Supreme Court</a> overturned <a href="https://docs.cdn.yougov.com/8gvsd6ko1j/20220625_econTabReport_revised.pdf" target="_blank" rel="noopener">Roe v. Wade</a>.</p>
+</div></figure><p data-paragraph="main">The same uptick appears in a slightly different question from <a href="https://today.yougov.com/topics/economist/survey-results" target="_blank" rel="noopener">weekly tracking surveys by YouGov/The Economist</a>. Shortly before a draft of the Dobbs decision was <a href="https://www.politico.com/news/2022/05/02/read-justice-alito-initial-abortion-opinion-overturn-roe-v-wade-pdf-00029504" target="_blank" rel="noopener">leaked and obtained by Politico</a> in early May, <a href="https://docs.cdn.yougov.com/v29gmo3oqg/econTabReport%20%282%29.pdf" target="_blank" rel="noopener">only 42 percent of voters who cast their ballots for President Biden</a> in 2020 agreed with the following statement: “Abortion should always be legal. There should be no restrictions on abortion.”<a data-footnote-id="8" href="https://fivethirtyeight.com/wp-json/wp/v2/espn_verticals/398#fn-8" data-footnote-content="&lt;p&gt;&lt;p&gt;The April 9-12 survey was the last time YouGov/The Economist asked about the scenarios in which abortion should be legal or illegal before the leaked decision on Dobbs was published on May 2.&lt;/p&gt;
+&lt;/p&gt;"><sup>8</sup></a> But that share has now <a href="https://docs.cdn.yougov.com/d1ik3gw9iw/econTabReport.pdf" target="_blank" rel="noopener">grown</a> to <a href="https://docs.cdn.yougov.com/ldb835m1bk/econTabReport.pdf" target="_blank" rel="noopener">between 49 percent and 54 percent</a> in <a href="https://docs.cdn.yougov.com/k4maehoie4/econTabReport.pdf" target="_blank" rel="noopener">all six</a> of the surveys <a href="https://docs.cdn.yougov.com/0atxy0xx1u/econTabReport.pdf" target="_blank" rel="noopener">YouGov/The Economist</a> conducted since <a href="https://docs.cdn.yougov.com/0atxy0xx1u/econTabReport.pdf" target="_blank" rel="noopener">the Supreme Court</a> overturned <a href="https://docs.cdn.yougov.com/8gvsd6ko1j/20220625_econTabReport_revised.pdf" target="_blank" rel="noopener">Roe v. Wade</a>.</p>
 
 
 
@@ -631,8 +909,8 @@
 
 
 
-<p data-paragraph="main">Happy primary day, Arizona, Kansas, Michigan, Missouri, Ohio and Washington! To celebrate, we’re catching you up on all the races to watch on the ballot today. Yesterday <a href="https://fivethirtyeight.com/features/how-far-right-will-republican-primary-voters-go-in-arizona-and-missouri/" target="_blank" rel="noopener">we previewed Arizona’s and Missouri’s primaries</a>; today we tackle Kansas, Michigan and Washington,<a data-footnote-id="2" href="https://fivethirtyeight.com/wp-json/wp/v2/espn_verticals/398#fn-2" data-footnote-content="&lt;p&gt;&lt;p&gt;Ohio is just holding primaries for state legislature today, and we’re not watching any of those races especially closely. Sorry, Buckeyes.&lt;/p&gt;
-&lt;/p&gt;"><sup>2</sup></a> and look ahead to one interesting race in Tennessee’s <a href="https://www.politico.com/story/2014/08/tennessee-primary-why-thursday-109808" target="_blank" rel="noopener">unusual Thursday primary</a>. Most notably, three Republican representatives who voted to impeach former President Donald Trump will presently learn whether they have retained the support of enough Republican voters to make the general election — arguably the biggest test of anti-Trumpism in a Republican primary to date. But that’s only a fraction of the action, so let’s go through everything state by state.</p>
+<p data-paragraph="main">Happy primary day, Arizona, Kansas, Michigan, Missouri, Ohio and Washington! To celebrate, we’re catching you up on all the races to watch on the ballot today. Yesterday <a href="https://fivethirtyeight.com/features/how-far-right-will-republican-primary-voters-go-in-arizona-and-missouri/" target="_blank" rel="noopener">we previewed Arizona’s and Missouri’s primaries</a>; today we tackle Kansas, Michigan and Washington,<a data-footnote-id="9" href="https://fivethirtyeight.com/wp-json/wp/v2/espn_verticals/398#fn-9" data-footnote-content="&lt;p&gt;&lt;p&gt;Ohio is just holding primaries for state legislature today, and we’re not watching any of those races especially closely. Sorry, Buckeyes.&lt;/p&gt;
+&lt;/p&gt;"><sup>9</sup></a> and look ahead to one interesting race in Tennessee’s <a href="https://www.politico.com/story/2014/08/tennessee-primary-why-thursday-109808" target="_blank" rel="noopener">unusual Thursday primary</a>. Most notably, three Republican representatives who voted to impeach former President Donald Trump will presently learn whether they have retained the support of enough Republican voters to make the general election — arguably the biggest test of anti-Trumpism in a Republican primary to date. But that’s only a fraction of the action, so let’s go through everything state by state.</p>
 
 
 
@@ -652,8 +930,8 @@
 
 
 
-<p data-paragraph="main">In the limited polling we have, Dixon <a href="https://www.michigannewssource.com/2022/07/exclusive-dixon-holds-strong-lead-in-new-poll-entering-final-days/" target="_blank" rel="noopener">looks to be the front-runner</a>, and the most recent <a href="https://emersoncollegepolling.com/michigan-2022-trump-endorsement-clears-path-for-tudor-dixon-in-republican-gubernatorial-nomination-rinke-vote-melts-away%EF%BF%BC/" target="_blank" rel="noopener">survey from Emerson College</a> suggests her advantage grew after Trump <a href="https://www.freep.com/story/news/politics/elections/2022/07/29/trump-endorses-tudor-dixon-michigan-governor/10115243002/" target="_blank" rel="noopener">endorsed her on Friday</a>. Emerson polled from Thursday through Saturday, and broke down how Trump’s support shifted the numbers: Dixon led Rinke 49 percent to 14 percent after the endorsement, a sizable uptick from her 39-percent-to-24-percent-edge beforehand.<a data-footnote-id="3" href="https://fivethirtyeight.com/wp-json/wp/v2/espn_verticals/398#fn-3" data-footnote-content="&lt;p&gt;&lt;p&gt;These figures included respondents who leaned toward a candidate.&lt;/p&gt;
-&lt;/p&gt;"><sup>3</sup></a> Before Trump’s entry, many big names in the Michigan GOP <a href="https://www.politico.com/news/2022/07/26/gop-messiest-primary-michigan-00047790" target="_blank" rel="noopener">had already lined up behind her</a>, too, including <a href="https://www.michiganradio.org/politics-government/2022-05-24/devos-family-endorses-tudor-dixon-for-michigan-governor" target="_blank" rel="noopener">the powerful DeVos family</a>, led by Betsy DeVos, Trump’s former secretary of education. </p>
+<p data-paragraph="main">In the limited polling we have, Dixon <a href="https://www.michigannewssource.com/2022/07/exclusive-dixon-holds-strong-lead-in-new-poll-entering-final-days/" target="_blank" rel="noopener">looks to be the front-runner</a>, and the most recent <a href="https://emersoncollegepolling.com/michigan-2022-trump-endorsement-clears-path-for-tudor-dixon-in-republican-gubernatorial-nomination-rinke-vote-melts-away%EF%BF%BC/" target="_blank" rel="noopener">survey from Emerson College</a> suggests her advantage grew after Trump <a href="https://www.freep.com/story/news/politics/elections/2022/07/29/trump-endorses-tudor-dixon-michigan-governor/10115243002/" target="_blank" rel="noopener">endorsed her on Friday</a>. Emerson polled from Thursday through Saturday, and broke down how Trump’s support shifted the numbers: Dixon led Rinke 49 percent to 14 percent after the endorsement, a sizable uptick from her 39-percent-to-24-percent-edge beforehand.<a data-footnote-id="10" href="https://fivethirtyeight.com/wp-json/wp/v2/espn_verticals/398#fn-10" data-footnote-content="&lt;p&gt;&lt;p&gt;These figures included respondents who leaned toward a candidate.&lt;/p&gt;
+&lt;/p&gt;"><sup>10</sup></a> Before Trump’s entry, many big names in the Michigan GOP <a href="https://www.politico.com/news/2022/07/26/gop-messiest-primary-michigan-00047790" target="_blank" rel="noopener">had already lined up behind her</a>, too, including <a href="https://www.michiganradio.org/politics-government/2022-05-24/devos-family-endorses-tudor-dixon-for-michigan-governor" target="_blank" rel="noopener">the powerful DeVos family</a>, led by Betsy DeVos, Trump’s former secretary of education. </p>
 
 
 
@@ -669,8 +947,8 @@
 
 
 
-<p data-paragraph="main">Meijer was one of the 10 Republicans who <a href="https://fivethirtyeight.com/features/all-but-one-house-republican-who-voted-to-impeach-trump-faces-a-trump-endorsed-challenger/" target="_blank" rel="noopener">voted to impeach</a> Trump after the Jan. 6 attack, which earned Gibbs <a href="https://apnews.com/article/donald-trump-congress-michigan-grand-rapids-impeachments-bfbb4564f73f2afdda6c5dbcb969c4ac" target="_blank" rel="noopener">Trump’s endorsement</a> last year, but until very recently, Gibbs <a href="https://www.opensecrets.org/races/outside-spending?cycle=2022&amp;id=MI03&amp;spec=N" target="_blank" rel="noopener">had received little outside support</a>. However, <a href="https://projects.fivethirtyeight.com/redistricting-2022-maps/michigan/" target="_blank" rel="noopener">redistricting has made this district more competitive</a>, shifting it from R+9 to D+3, according to <a href="https://fivethirtyeight.com/features/how-red-or-blue-is-your-state-your-congressional-district/" target="_blank" rel="noopener">FiveThirtyEight’s partisan lean metric</a>,<a data-footnote-id="4" href="https://fivethirtyeight.com/wp-json/wp/v2/espn_verticals/398#fn-4" data-footnote-content="&lt;p&gt;&lt;p&gt;Partisan lean is the average margin difference between how a state or district votes and how the country votes overall. This version of partisan lean, meant to be used for congressional and gubernatorial elections, is calculated as 50 percent the state or district’s lean relative to the nation in the most recent presidential election, 25 percent its relative lean in the second-most-recent presidential election and 25 percent a custom state-legislative lean.&lt;/p&gt;
-&lt;/p&gt;"><sup>4</sup></a> and as a result, the Democratic Congressional Campaign Committee has <a href="https://www.opensecrets.org/parties/indexp.php?cmte=DCCC&amp;cycle=2022" target="_blank" rel="noopener">dropped $450,000</a> on ads <a href="https://youtu.be/x5XVRDC50Do" target="_blank" rel="noopener">ostensibly attacking</a> Gibbs as “too conservative for west Michigan.” But this is <a href="https://www.latimes.com/politics/newsletter/2022-07-13/essential-politics-democrats-buying-ads-gop-far-right-candidates-essential-politics" target="_blank" rel="noopener">a well-worn ploy</a> designed to actually encourage GOP voters to back him.</p>
+<p data-paragraph="main">Meijer was one of the 10 Republicans who <a href="https://fivethirtyeight.com/features/all-but-one-house-republican-who-voted-to-impeach-trump-faces-a-trump-endorsed-challenger/" target="_blank" rel="noopener">voted to impeach</a> Trump after the Jan. 6 attack, which earned Gibbs <a href="https://apnews.com/article/donald-trump-congress-michigan-grand-rapids-impeachments-bfbb4564f73f2afdda6c5dbcb969c4ac" target="_blank" rel="noopener">Trump’s endorsement</a> last year, but until very recently, Gibbs <a href="https://www.opensecrets.org/races/outside-spending?cycle=2022&amp;id=MI03&amp;spec=N" target="_blank" rel="noopener">had received little outside support</a>. However, <a href="https://projects.fivethirtyeight.com/redistricting-2022-maps/michigan/" target="_blank" rel="noopener">redistricting has made this district more competitive</a>, shifting it from R+9 to D+3, according to <a href="https://fivethirtyeight.com/features/how-red-or-blue-is-your-state-your-congressional-district/" target="_blank" rel="noopener">FiveThirtyEight’s partisan lean metric</a>,<a data-footnote-id="11" href="https://fivethirtyeight.com/wp-json/wp/v2/espn_verticals/398#fn-11" data-footnote-content="&lt;p&gt;&lt;p&gt;Partisan lean is the average margin difference between how a state or district votes and how the country votes overall. This version of partisan lean, meant to be used for congressional and gubernatorial elections, is calculated as 50 percent the state or district’s lean relative to the nation in the most recent presidential election, 25 percent its relative lean in the second-most-recent presidential election and 25 percent a custom state-legislative lean.&lt;/p&gt;
+&lt;/p&gt;"><sup>11</sup></a> and as a result, the Democratic Congressional Campaign Committee has <a href="https://www.opensecrets.org/parties/indexp.php?cmte=DCCC&amp;cycle=2022" target="_blank" rel="noopener">dropped $450,000</a> on ads <a href="https://youtu.be/x5XVRDC50Do" target="_blank" rel="noopener">ostensibly attacking</a> Gibbs as “too conservative for west Michigan.” But this is <a href="https://www.latimes.com/politics/newsletter/2022-07-13/essential-politics-democrats-buying-ads-gop-far-right-candidates-essential-politics" target="_blank" rel="noopener">a well-worn ploy</a> designed to actually encourage GOP voters to back him.</p>
 
 
 <p>Watch: https://abcnews.go.com/fivethirtyeight/video/losing-big-midterms-biden-87269933</p>
@@ -1084,8 +1362,8 @@
 
 
 
-<figure><img loading="lazy" width="1422" height="948" src="https://fivethirtyeight.com/wp-content/uploads/2022/07/GettyImages-1241705443-3x2-1.jpg" alt="" data-src="https://fivethirtyeight.com/wp-content/uploads/2022/07/GettyImages-1241705443-3x2-1.jpg" data-srcset="https://fivethirtyeight.com/wp-content/uploads/2022/07/GettyImages-1241705443-3x2-1.jpg?w=712 1x, https://fivethirtyeight.com/wp-content/uploads/2022/07/GettyImages-1241705443-3x2-1.jpg?w=1424 2x"><figcaption>State Rep. Walt Blackman is one of three Republican front-runners in the state’s 2nd Congressional District. Should he win the seat, he’d be the state’s first Black member of Congress. <p>Bill Clark / CQ-Roll Call, Inc / Getty Images</p></figcaption></figure><p data-paragraph="main">Four congressional districts also have important primary action on Tuesday, and the <strong>2nd District</strong> in northern Arizona may present the GOP with its best shot at defeating a Democratic incumbent in the whole country. Moderate Democratic Rep. Tom O’Halleran <a href="https://rollcall.com/2022/07/11/ohalleran-keeps-running-against-the-odds/" target="_blank" rel="noopener">decided to seek reelection</a> even though <a href="https://projects.fivethirtyeight.com/redistricting-2022-maps/arizona/" target="_blank" rel="noopener">redistricting shifted his seat</a> from R+6 to R+15, according to FiveThirtyEight’s partisan lean metric.<a data-footnote-id="5" href="https://fivethirtyeight.com/wp-json/wp/v2/espn_verticals/398#fn-5" data-footnote-content="&lt;p&gt;&lt;p&gt;Partisan lean is the average margin difference between how a state or district votes and how the country votes overall. This version of partisan lean, meant to be used for congressional and gubernatorial elections, is calculated as 50 percent the state or district’s lean relative to the nation in the most recent presidential election, 25 percent its relative lean in the second-most-recent presidential election and 25 percent a custom state-legislative lean based on the statewide popular vote in the last four state House elections.&lt;/p&gt;
-&lt;/p&gt;"><sup>5</sup></a> The leading Republican contenders appear to be Navy SEAL veteran Eli Crane, state Rep. Walt Blackman and businessman Mark DeLuzio — although Ron Watkins, <a href="https://www.nytimes.com/2022/02/19/technology/qanon-messages-authors.html" target="_blank" rel="noopener">who may be behind Q</a>, the message board account that fueled the QAnon conspiracy theory, is also in the running.</p>
+<figure><img loading="lazy" width="1422" height="948" src="https://fivethirtyeight.com/wp-content/uploads/2022/07/GettyImages-1241705443-3x2-1.jpg" alt="" data-src="https://fivethirtyeight.com/wp-content/uploads/2022/07/GettyImages-1241705443-3x2-1.jpg" data-srcset="https://fivethirtyeight.com/wp-content/uploads/2022/07/GettyImages-1241705443-3x2-1.jpg?w=712 1x, https://fivethirtyeight.com/wp-content/uploads/2022/07/GettyImages-1241705443-3x2-1.jpg?w=1424 2x"><figcaption>State Rep. Walt Blackman is one of three Republican front-runners in the state’s 2nd Congressional District. Should he win the seat, he’d be the state’s first Black member of Congress. <p>Bill Clark / CQ-Roll Call, Inc / Getty Images</p></figcaption></figure><p data-paragraph="main">Four congressional districts also have important primary action on Tuesday, and the <strong>2nd District</strong> in northern Arizona may present the GOP with its best shot at defeating a Democratic incumbent in the whole country. Moderate Democratic Rep. Tom O’Halleran <a href="https://rollcall.com/2022/07/11/ohalleran-keeps-running-against-the-odds/" target="_blank" rel="noopener">decided to seek reelection</a> even though <a href="https://projects.fivethirtyeight.com/redistricting-2022-maps/arizona/" target="_blank" rel="noopener">redistricting shifted his seat</a> from R+6 to R+15, according to FiveThirtyEight’s partisan lean metric.<a data-footnote-id="12" href="https://fivethirtyeight.com/wp-json/wp/v2/espn_verticals/398#fn-12" data-footnote-content="&lt;p&gt;&lt;p&gt;Partisan lean is the average margin difference between how a state or district votes and how the country votes overall. This version of partisan lean, meant to be used for congressional and gubernatorial elections, is calculated as 50 percent the state or district’s lean relative to the nation in the most recent presidential election, 25 percent its relative lean in the second-most-recent presidential election and 25 percent a custom state-legislative lean based on the statewide popular vote in the last four state House elections.&lt;/p&gt;
+&lt;/p&gt;"><sup>12</sup></a> The leading Republican contenders appear to be Navy SEAL veteran Eli Crane, state Rep. Walt Blackman and businessman Mark DeLuzio — although Ron Watkins, <a href="https://www.nytimes.com/2022/02/19/technology/qanon-messages-authors.html" target="_blank" rel="noopener">who may be behind Q</a>, the message board account that fueled the QAnon conspiracy theory, is also in the running.</p>
 
 
 
@@ -1249,8 +1527,8 @@
 
 
 
-<p data-paragraph="main">For both Murkowski and Tshibaka, this poll offered hope and a warning. Murkowski clearly has a path to victory and <a href="https://projects.fivethirtyeight.com/2022-election-forecast/senate/alaska/" target="_blank" rel="noopener">FiveThirtyEight’s Senate forecast</a> currently gives her an 85 in 100 shot at winning.<a data-footnote-id="8" href="https://fivethirtyeight.com/wp-json/wp/v2/espn_verticals/398#fn-8" data-footnote-content="&lt;p&gt;&lt;p&gt;As of 5 p.m. Eastern on Thursday.&lt;/p&gt;
-&lt;/p&gt;"><sup>8</sup></a> But given the overall margin, the survey suggests she can’t afford to lose much more Republican support if she wants to come out on top. Moreover, because of how ranked choice voting works, Murkowski needs to ensure that Democratic voters who back a Democrat in the first round actually name Murkowski as their second choice. In top-two primary states, we’ve seen that races between two candidates from the same party <a href="https://www.sciencedirect.com/science/article/abs/pii/S0261379420301116" target="_blank" rel="noopener">can often produce</a> a fair amount of <a href="https://www.csmonitor.com/USA/Politics/Politics-Voices/2016/1024/Speaking-Politics-phrase-of-the-week-roll-off" target="_blank" rel="noopener">ballot roll-off</a> — that is, not casting a vote for a race — among voters from the party not represented. So if many Democrats don’t list a second preference this November, it could spell doom for Murkowski.</p>
+<p data-paragraph="main">For both Murkowski and Tshibaka, this poll offered hope and a warning. Murkowski clearly has a path to victory and <a href="https://projects.fivethirtyeight.com/2022-election-forecast/senate/alaska/" target="_blank" rel="noopener">FiveThirtyEight’s Senate forecast</a> currently gives her an 85 in 100 shot at winning.<a data-footnote-id="15" href="https://fivethirtyeight.com/wp-json/wp/v2/espn_verticals/398#fn-15" data-footnote-content="&lt;p&gt;&lt;p&gt;As of 5 p.m. Eastern on Thursday.&lt;/p&gt;
+&lt;/p&gt;"><sup>15</sup></a> But given the overall margin, the survey suggests she can’t afford to lose much more Republican support if she wants to come out on top. Moreover, because of how ranked choice voting works, Murkowski needs to ensure that Democratic voters who back a Democrat in the first round actually name Murkowski as their second choice. In top-two primary states, we’ve seen that races between two candidates from the same party <a href="https://www.sciencedirect.com/science/article/abs/pii/S0261379420301116" target="_blank" rel="noopener">can often produce</a> a fair amount of <a href="https://www.csmonitor.com/USA/Politics/Politics-Voices/2016/1024/Speaking-Politics-phrase-of-the-week-roll-off" target="_blank" rel="noopener">ballot roll-off</a> — that is, not casting a vote for a race — among voters from the party not represented. So if many Democrats don’t list a second preference this November, it could spell doom for Murkowski.</p>
 
 
 
@@ -1270,8 +1548,8 @@
 
 
 
-<figure><img loading="lazy" width="1150" height="920" src="https://fivethirtyeight.com/wp-content/uploads/2022/07/biden-approval-rating-2-3.png" alt="" data-src="https://fivethirtyeight.com/wp-content/uploads/2022/07/biden-approval-rating-2-3.png" data-srcset="https://fivethirtyeight.com/wp-content/uploads/2022/07/biden-approval-rating-2-3.png?w=712 1x, https://fivethirtyeight.com/wp-content/uploads/2022/07/biden-approval-rating-2-3.png?w=1424 2x"></figure><p data-paragraph="main">According to FiveThirtyEight’s <a href="https://projects.fivethirtyeight.com/biden-approval-rating/" target="_blank" rel="noopener">presidential approval tracker</a>,<a data-footnote-id="9" href="https://fivethirtyeight.com/wp-json/wp/v2/espn_verticals/398#fn-9" data-footnote-content="&lt;p&gt;&lt;p&gt;As of 5 p.m. Eastern on Thursday.&lt;/p&gt;
-&lt;/p&gt;"><sup>9</sup></a> 39.3 percent of Americans approve of the job Biden is doing as president, while 55.7 percent disapprove (a net approval rating of -16.4 points). At this time <a href="https://fivethirtyeight.com/features/why-democrats-are-disillusioned-over-climate-change/" target="_blank" rel="noopener">last week</a>, 37.5 percent approved and 57.2 percent disapproved (a net approval rating of -19.7 points). One month ago, Biden had an approval rating of 39.6 percent and a disapproval rating of 55.6 percent, for a net approval rating of -16.0 points.</p>
+<figure><img loading="lazy" width="1150" height="920" src="https://fivethirtyeight.com/wp-content/uploads/2022/07/biden-approval-rating-2-3.png" alt="" data-src="https://fivethirtyeight.com/wp-content/uploads/2022/07/biden-approval-rating-2-3.png" data-srcset="https://fivethirtyeight.com/wp-content/uploads/2022/07/biden-approval-rating-2-3.png?w=712 1x, https://fivethirtyeight.com/wp-content/uploads/2022/07/biden-approval-rating-2-3.png?w=1424 2x"></figure><p data-paragraph="main">According to FiveThirtyEight’s <a href="https://projects.fivethirtyeight.com/biden-approval-rating/" target="_blank" rel="noopener">presidential approval tracker</a>,<a data-footnote-id="16" href="https://fivethirtyeight.com/wp-json/wp/v2/espn_verticals/398#fn-16" data-footnote-content="&lt;p&gt;&lt;p&gt;As of 5 p.m. Eastern on Thursday.&lt;/p&gt;
+&lt;/p&gt;"><sup>16</sup></a> 39.3 percent of Americans approve of the job Biden is doing as president, while 55.7 percent disapprove (a net approval rating of -16.4 points). At this time <a href="https://fivethirtyeight.com/features/why-democrats-are-disillusioned-over-climate-change/" target="_blank" rel="noopener">last week</a>, 37.5 percent approved and 57.2 percent disapproved (a net approval rating of -19.7 points). One month ago, Biden had an approval rating of 39.6 percent and a disapproval rating of 55.6 percent, for a net approval rating of -16.0 points.</p>
 
 
 
@@ -1279,8 +1557,8 @@
 
 
 
-<figure><img loading="lazy" width="1150" height="920" src="https://fivethirtyeight.com/wp-content/uploads/2022/07/generic-ballot-2-3.png" alt="" data-src="https://fivethirtyeight.com/wp-content/uploads/2022/07/generic-ballot-2-3.png" data-srcset="https://fivethirtyeight.com/wp-content/uploads/2022/07/generic-ballot-2-3.png?w=712 1x, https://fivethirtyeight.com/wp-content/uploads/2022/07/generic-ballot-2-3.png?w=1424 2x"></figure><p data-paragraph="main">In our average of polls of the <a href="https://projects.fivethirtyeight.com/congress-generic-ballot-polls/" target="_blank" rel="noopener">generic congressional ballot</a>,<a data-footnote-id="10" href="https://fivethirtyeight.com/wp-json/wp/v2/espn_verticals/398#fn-10" data-footnote-content="&lt;p&gt;&lt;p&gt;As of 5 p.m. Eastern on Thursday.&lt;/p&gt;
-&lt;/p&gt;"><sup>10</sup></a> Republicans currently lead by 0.2 points (44.1 percent to 43.9 percent). A week ago, Republicans led Democrats by 1.1 points (44.3 percent to 43.2 percent). At this time last month, voters preferred Republicans by 1.9 points (44.6 percent to 42.7 percent).</p>]]></description>
+<figure><img loading="lazy" width="1150" height="920" src="https://fivethirtyeight.com/wp-content/uploads/2022/07/generic-ballot-2-3.png" alt="" data-src="https://fivethirtyeight.com/wp-content/uploads/2022/07/generic-ballot-2-3.png" data-srcset="https://fivethirtyeight.com/wp-content/uploads/2022/07/generic-ballot-2-3.png?w=712 1x, https://fivethirtyeight.com/wp-content/uploads/2022/07/generic-ballot-2-3.png?w=1424 2x"></figure><p data-paragraph="main">In our average of polls of the <a href="https://projects.fivethirtyeight.com/congress-generic-ballot-polls/" target="_blank" rel="noopener">generic congressional ballot</a>,<a data-footnote-id="17" href="https://fivethirtyeight.com/wp-json/wp/v2/espn_verticals/398#fn-17" data-footnote-content="&lt;p&gt;&lt;p&gt;As of 5 p.m. Eastern on Thursday.&lt;/p&gt;
+&lt;/p&gt;"><sup>17</sup></a> Republicans currently lead by 0.2 points (44.1 percent to 43.9 percent). A week ago, Republicans led Democrats by 1.1 points (44.3 percent to 43.2 percent). At this time last month, voters preferred Republicans by 1.9 points (44.6 percent to 42.7 percent).</p>]]></description>
 			<pubDate>Fri, 29 Jul 2022 11:00:00 +0100</pubDate>
 			<guid isPermaLink="false">1659397502415337</guid>
 		</item>
@@ -1334,8 +1612,8 @@
 
 
 
-<p data-paragraph="main">As was the case when we <a href="https://fivethirtyeight.com/features/why-republicans-are-favored-to-win-the-house-but-not-the-senate/" target="_blank" rel="noopener">launched the forecast a month ago</a>, the Deluxe version of FiveThirtyEight’s midterm model still rates the battle for <a href="https://projects.fivethirtyeight.com/2022-election-forecast/" target="_blank" rel="noopener">control of the Senate as a “toss-up.”</a> But within that category there’s been modest, but consistent movement toward Democrats. Their chances of winning the Senate <a href="https://projects.fivethirtyeight.com/2022-election-forecast/senate/" target="_blank" rel="noopener">now stand at 55 percent</a>. That’s up from 47 percent from forecast launch on June 30. It’s also up from 40 percent in a retroactive forecast dated back to June 1.<a data-footnote-id="6" href="https://fivethirtyeight.com/wp-json/wp/v2/espn_verticals/398#fn-6" data-footnote-content="&lt;p&gt;&lt;p&gt;Our retroactive forecast is based on information that would have been available at the time.&lt;/p&gt;
-&lt;/p&gt;"><sup>6</sup></a></p>
+<p data-paragraph="main">As was the case when we <a href="https://fivethirtyeight.com/features/why-republicans-are-favored-to-win-the-house-but-not-the-senate/" target="_blank" rel="noopener">launched the forecast a month ago</a>, the Deluxe version of FiveThirtyEight’s midterm model still rates the battle for <a href="https://projects.fivethirtyeight.com/2022-election-forecast/" target="_blank" rel="noopener">control of the Senate as a “toss-up.”</a> But within that category there’s been modest, but consistent movement toward Democrats. Their chances of winning the Senate <a href="https://projects.fivethirtyeight.com/2022-election-forecast/senate/" target="_blank" rel="noopener">now stand at 55 percent</a>. That’s up from 47 percent from forecast launch on June 30. It’s also up from 40 percent in a retroactive forecast dated back to June 1.<a data-footnote-id="13" href="https://fivethirtyeight.com/wp-json/wp/v2/espn_verticals/398#fn-13" data-footnote-content="&lt;p&gt;&lt;p&gt;Our retroactive forecast is based on information that would have been available at the time.&lt;/p&gt;
+&lt;/p&gt;"><sup>13</sup></a></p>
 
 
 
@@ -1361,8 +1639,8 @@
 <p>Watch: https://abcnews.go.com/fivethirtyeight/video/losing-big-midterms-biden-87269933</p>
 
 
-<p data-paragraph="main">In this case, though, I think the shift is worth discussing. One reason, as I’ve <a href="https://fivethirtyeight.com/features/maybe-dobbs-did-change-the-race-well-need-more-time-to-know-for-sure/" target="_blank" rel="noopener">discussed previously</a>, is that our model is designed to be pretty conservative — at least at this relatively early stage of the race.<a data-footnote-id="7" href="https://fivethirtyeight.com/wp-json/wp/v2/espn_verticals/398#fn-7" data-footnote-content="&lt;p&gt;&lt;p&gt;It may not feel early if you’re a political junkie, but for many voters, it is — consider that more than a dozen states still haven’t held their primaries.&lt;/p&gt;
-&lt;/p&gt;"><sup>7</sup></a> It takes a fair amount of data to get the model to change its opinion in July, more so than in October. So although the shift may be modest, it probably isn’t just statistical noise.</p>
+<p data-paragraph="main">In this case, though, I think the shift is worth discussing. One reason, as I’ve <a href="https://fivethirtyeight.com/features/maybe-dobbs-did-change-the-race-well-need-more-time-to-know-for-sure/" target="_blank" rel="noopener">discussed previously</a>, is that our model is designed to be pretty conservative — at least at this relatively early stage of the race.<a data-footnote-id="14" href="https://fivethirtyeight.com/wp-json/wp/v2/espn_verticals/398#fn-14" data-footnote-content="&lt;p&gt;&lt;p&gt;It may not feel early if you’re a political junkie, but for many voters, it is — consider that more than a dozen states still haven’t held their primaries.&lt;/p&gt;
+&lt;/p&gt;"><sup>14</sup></a> It takes a fair amount of data to get the model to change its opinion in July, more so than in October. So although the shift may be modest, it probably isn’t just statistical noise.</p>
 
 
 
@@ -1637,8 +1915,8 @@
 
 
 
-<p data-paragraph="main">Since 2009, the Democratic team has dominated with a 10-2 record, thanks largely to its <a href="https://fivethirtyeight.com/features/shohei-ohtani-mlb-all-star/" target="_blank" rel="noopener">Shohei Ohtani-esque</a> two-way threat, former Rep. Cedric Richmond. According to <a href="http://tinyurl.com/cbgstats" target="_blank" rel="noopener">statistics that I keep of the game</a>, the former Morehouse College baseball player hit .654/.757/1.077 in his Congressional Baseball Game career — <em>and</em> went 8-0 with a 2.64 ERA on the mound. Richmond was truly <a href="https://fivethirtyeight.com/features/we-calculated-advanced-stats-for-the-congressional-baseball-game/" target="_blank" rel="noopener">in a league of his own</a>; his 2.8 wins above replacement<a data-footnote-id="11" href="https://fivethirtyeight.com/wp-json/wp/v2/espn_verticals/398#fn-11" data-footnote-content='&lt;p&gt;&lt;p&gt;Which I calculated myself using &lt;a href="https://www.fangraphs.com/library/misc/war/" target="_blank" rel="noopener"&gt;FanGraphs’s formula&lt;/a&gt;. Unfortunately, until sabermetricians start treating the Congressional Baseball Game as seriously as they do MLB contests, WAR for the Congressional Baseball Game does not include defense or baserunning (other than stolen bases).&lt;/p&gt;
-&lt;/p&gt;'><sup>11</sup></a> over that span were seven times as many as any other player.</p>
+<p data-paragraph="main">Since 2009, the Democratic team has dominated with a 10-2 record, thanks largely to its <a href="https://fivethirtyeight.com/features/shohei-ohtani-mlb-all-star/" target="_blank" rel="noopener">Shohei Ohtani-esque</a> two-way threat, former Rep. Cedric Richmond. According to <a href="http://tinyurl.com/cbgstats" target="_blank" rel="noopener">statistics that I keep of the game</a>, the former Morehouse College baseball player hit .654/.757/1.077 in his Congressional Baseball Game career — <em>and</em> went 8-0 with a 2.64 ERA on the mound. Richmond was truly <a href="https://fivethirtyeight.com/features/we-calculated-advanced-stats-for-the-congressional-baseball-game/" target="_blank" rel="noopener">in a league of his own</a>; his 2.8 wins above replacement<a data-footnote-id="18" href="https://fivethirtyeight.com/wp-json/wp/v2/espn_verticals/398#fn-18" data-footnote-content='&lt;p&gt;&lt;p&gt;Which I calculated myself using &lt;a href="https://www.fangraphs.com/library/misc/war/" target="_blank" rel="noopener"&gt;FanGraphs’s formula&lt;/a&gt;. Unfortunately, until sabermetricians start treating the Congressional Baseball Game as seriously as they do MLB contests, WAR for the Congressional Baseball Game does not include defense or baserunning (other than stolen bases).&lt;/p&gt;
+&lt;/p&gt;'><sup>18</sup></a> over that span were seven times as many as any other player.</p>
 
 
 
@@ -2462,359 +2740,6 @@
 <p data-paragraph="main">Even a president who trusts the science. </p>]]></description>
 			<pubDate>Fri, 22 Jul 2022 17:56:00 +0100</pubDate>
 			<guid isPermaLink="false">1658511001523952</guid>
-		</item>
-		<item>
-			<title>New Hampshire Is Tiny And Pretty Weird. That Could Help Maggie Hassan.</title>
-			<link>https://fivethirtyeight.com/features/new-hampshire-is-tiny-and-pretty-weird-that-could-help-maggie-hassan/</link>
-						<dc:creator>Nate Silver</dc:creator>
-			<dc:creator>Nate Silver</dc:creator>
-			<category>2022 Election</category>
-			<category>Elastic States</category>
-			<category>Election Update</category>
-			<category>Election Updates</category>
-			<category>New Hampshire Politics</category>
-			<description><![CDATA[<div>
-
-			<div>
-
-				<header><div>
-													<p><a href="https://fivethirtyeight.com/tag/2022-election/" name="">2022 Election</a></p>
-						
-													<h1>New Hampshire Is Tiny And Pretty Weird. That Could Help Maggie Hassan.</h1>
-																	</div>
-
-										<div>
-						<div>
-															<p>By <a href="https://fivethirtyeight.com/contributors/nate-silver/" title="" rel="author">Nate Silver</a></p>
-							
-							<p>
-								<time>
-									Jul. 22, 2022, at 8:45 AM								</time></p>
-
-						</div>
-						<div>
-													</div> 
-					</div>
-					
-				</header><figure><span>
-									<div>
-						<picture><source media="(min-width: 768px)"><source><img alt="2022-ELECTIONUPDATE-0722-4×3" src="https://fivethirtyeight.com/wp-content/uploads/2022/07/2022-ELECTIONUPDATE-0722-4x3-1.png?w=916" data-sizes="(max-width: 768px) 100vw, (max-width: 1080px) 66vw, 684px" data-src="https://fivethirtyeight.com/wp-content/uploads/2022/07/2022-ELECTIONUPDATE-0722-4x3-1.png?w=916" data-srcset="https://fivethirtyeight.com/wp-content/uploads/2022/07/2022-ELECTIONUPDATE-0722-4x3-1.png?w=916 1x, https://fivethirtyeight.com/wp-content/uploads/2022/07/2022-ELECTIONUPDATE-0722-4x3-1.png?w=1832 2x"></source></source></picture></div>
-
-				
-			</span>
-
-			
-								<figcaption><p>ILLUSTRATION BY EMILY SCHERER</p>
-											</figcaption></figure></div>
-
-			
-		</div>
-
-
-
-
-
-<p data-paragraph="main">We remain in something of a summer doldrums for polling, and the overall outlook for November remains about the same as in recent weeks. But polls on the race for Congress <a href="https://projects.fivethirtyeight.com/polls/generic-ballot/" target="_blank" rel="noopener">have continued to inch slightly toward Democrats</a> in what may reflect the <a href="https://fivethirtyeight.com/features/maybe-dobbs-did-change-the-race-well-need-more-time-to-know-for-sure/" target="_blank" rel="noopener">impact of the Supreme Court’s decision to overturn Roe v. Wade</a>.</p>
-
-
-
-<p data-paragraph="main">In the Deluxe version of our <a href="https://projects.fivethirtyeight.com/2022-election-forecast/" target="_blank" rel="noopener">midterm election forecast</a>, Republicans have a 85 percent chance to win the House and a 51 percent chance to win the Senate, both largely unchanged from when <a href="https://fivethirtyeight.com/features/why-republicans-are-favored-to-win-the-house-but-not-the-senate/" target="_blank" rel="noopener">we launched the model three weeks ago</a>. Meanwhile, in the Classic version of the model, which sticks to purely quantitative factors and leaves out the expert race ratings published by <a href="https://www.cookpolitical.com/ratings/house-race-ratings" target="_blank" rel="noopener">the Cook Political Report</a> and other such groups, Republicans are actually underdogs to win control of the Senate, with a 39 percent chance.</p>
-
-
-
-<p data-paragraph="main">Part of the reason Republicans are not better positioned in the Senate is they don’t have a lot of easy pick-up opportunities, but one race where Republicans could gain traction is <a href="https://projects.fivethirtyeight.com/2022-election-forecast/senate/new-hampshire/" target="_blank" rel="noopener">the New Hampshire Senate race</a>. Democratic incumbent Sen. Maggie Hassan has led in <a href="https://projects.fivethirtyeight.com/polls/senate/new-hampshire/" target="_blank" rel="noopener">all but one poll this year against a series of potential Republican opponents</a>, but the GOP shouldn’t write the race off. Hassan’s lead is small in most of these polls, and it’s still early, with the primary not scheduled until Sept. 13.<a data-footnote-id="22" href="https://fivethirtyeight.com/wp-json/wp/v2/espn_verticals/398#fn-22" data-footnote-content="&lt;p&gt;&lt;p&gt;What the hell, New Hampshire?&lt;/p&gt;
-&lt;/p&gt;"><sup>22</sup></a></p>
-
-
-
-<p data-paragraph="main">New Hampshire is also an unusual state in that it has some factors that should make it relatively fertile ground to defeat an incumbent, and others that should make it a challenging one. So let’s take a look under the hood.</p>
-
-
-<p>Watch: https://abcnews.go.com/fivethirtyeight/video/americans-pessimistic-changing-politics-87044495</p>
-
-
-<p data-paragraph="main">The factor that could help Republicans most is that New Hampshire — famous for polling leads that seem to evaporate overnight, like <a href="https://www.nbcnews.com/id/wbna22551718" target="_blank" rel="noopener">Barack Obama’s against Hillary Clinton’s in the Democratic primary there in 2008</a> — is <a href="https://fivethirtyeight.com/features/swing-voters-and-elastic-states/" target="_blank" rel="noopener">notoriously swingy</a>. I don’t just mean that it’s a <em>swing state</em>, although it frequently is in general elections. I also mean that it has a lot of swing <em>voters</em>: moderate, independent voters who split their tickets. Consider that, in 2020, Democratic Sen. Jeanne Shaheen won reelection there by 16 percentage points, while Republican Gov. Chris Sununu was reelected by 32 points on the same ballot.<a data-footnote-id="23" href="https://fivethirtyeight.com/wp-json/wp/v2/espn_verticals/398#fn-23" data-footnote-content="&lt;p&gt;&lt;p&gt;The contrast to a state like New Hampshire is a state like Georgia, which is also a swing state, but not because it has a lot of swing voters. Instead, it’s mostly a swing state because it has some very Republican-leaning groups like evangelical white voters and some very Democratic-leaning groups like Black voters and young, college-educated professionals, who roughly cancel one another out. Races in Georgia, then, tend to be more about who can turn out their base. New Hampshire is more about persuasion.&lt;/p&gt;
-&lt;/p&gt;"><sup>23</sup></a></p>
-
-
-
-<p data-paragraph="main">FiveThirtyEight measures this with our elasticity index, which is derived from voter-level survey data<a data-footnote-id="24" href="https://fivethirtyeight.com/wp-json/wp/v2/espn_verticals/398#fn-24" data-footnote-content='&lt;p&gt;&lt;p&gt;Specifically, we use the &lt;a href="https://cces.gov.harvard.edu/" target="_blank" rel="noopener"&gt;Cooperative Election Study&lt;/a&gt; from 2014 through 2020, which contains demographic information and presidential voting preferences for tens of thousands of voters. From this data, we can then determine how many voters in each state are likely to vote for each party and how many are plausibly up for grabs.&lt;/p&gt;
-&lt;/p&gt;'><sup>24</sup></a> to reflect how sensitive a state is to national trends. New Hampshire has an elasticity index of 1.21 — the fourth-highest in the country — which means that for every 1-point shift in the national environment, we’d expect New Hampshire to shift by about 1.2 points instead. So, for instance, a 5-point swing toward Republicans nationally would produce a 6-point swing there. That makes Hassan a bit more vulnerable.</p>
-
-
-
-<p data-paragraph="main">What makes a state swingy? Generally speaking, the most reliable group of Democratic voters are Black voters, and the most reliable group of Republican voters are evangelical white Christians. New Hampshire is <a href="https://www.pewresearch.org/fact-tank/2016/02/29/how-religious-is-your-state/" target="_blank" rel="noopener">quite secular and quite white</a>, so neither party’s base is very large there.</p>
-
-
-
-<p data-paragraph="main">Likewise, most other high-elasticity states are relatively nonreligious and have relatively few Black voters, although states with large numbers of Latino voters <em>can</em> be pretty swingy, as <a href="https://www.washingtonpost.com/opinions/2022/07/11/latino-voters-are-shifting-right-heres-where-democrats-will-be-hit-hardest/" target="_blank" rel="noopener">Democrats are discovering to their dismay</a>.</p>
-
-
-
-<p data-paragraph="main"><section><header><h5>New Hampshire is a swingy state</h5>
- <p data-paragraph="main">FiveThirtyEight’s 2022 state elasticity scores</p>
- </header><table data-carpenter-slug="silver.eu07222022.3"><thead><tr><th colspan="1" scope="col">State</th>
- <th colspan="1" scope="col">Elasticity Score</th>
- </tr></thead><tbody><tr><td>Rhode Island</td>
- <td>1.29</td>
- </tr><tr><td>Hawaii</td>
- <td>1.23</td>
- </tr><tr><td>Alaska</td>
- <td>1.22</td>
- </tr><tr><td>New Hampshire</td>
- <td>1.21</td>
- </tr><tr><td>Vermont</td>
- <td>1.15</td>
- </tr><tr><td>Massachusetts</td>
- <td>1.14</td>
- </tr><tr><td>Maine</td>
- <td>1.14</td>
- </tr><tr><td>Utah</td>
- <td>1.11</td>
- </tr><tr><td>Connecticut</td>
- <td>1.10</td>
- </tr><tr><td>North Dakota</td>
- <td>1.09</td>
- </tr><tr><td>Colorado</td>
- <td>1.09</td>
- </tr><tr><td>Wyoming</td>
- <td>1.08</td>
- </tr><tr><td>New Mexico</td>
- <td>1.08</td>
- </tr><tr><td>Iowa</td>
- <td>1.07</td>
- </tr><tr><td>Arizona</td>
- <td>1.07</td>
- </tr><tr><td>Washington</td>
- <td>1.06</td>
- </tr><tr><td>Nevada</td>
- <td>1.06</td>
- </tr><tr><td>Wisconsin</td>
- <td>1.05</td>
- </tr><tr><td>West Virginia</td>
- <td>1.04</td>
- </tr><tr><td>Indiana</td>
- <td>1.04</td>
- </tr><tr><td>Michigan</td>
- <td>1.03</td>
- </tr><tr><td>Nebraska</td>
- <td>1.03</td>
- </tr><tr><td>Kansas</td>
- <td>1.03</td>
- </tr><tr><td>South Dakota</td>
- <td>1.03</td>
- </tr><tr><td>Ohio</td>
- <td>1.02</td>
- </tr><tr><td>Florida</td>
- <td>1.02</td>
- </tr><tr><td>Idaho</td>
- <td>1.02</td>
- </tr><tr><td>Arkansas</td>
- <td>1.02</td>
- </tr><tr><td>Texas</td>
- <td>1.01</td>
- </tr><tr><td>New Jersey</td>
- <td>1.01</td>
- </tr><tr><td>Minnesota</td>
- <td>1.00</td>
- </tr><tr><td>California</td>
- <td>1.00</td>
- </tr><tr><td>Pennsylvania</td>
- <td>0.99</td>
- </tr><tr><td>Oregon</td>
- <td>0.98</td>
- </tr><tr><td>New York</td>
- <td>0.97</td>
- </tr><tr><td>Illinois</td>
- <td>0.96</td>
- </tr><tr><td>Montana</td>
- <td>0.96</td>
- </tr><tr><td>South Carolina</td>
- <td>0.96</td>
- </tr><tr><td>Oklahoma</td>
- <td>0.96</td>
- </tr><tr><td>Kentucky</td>
- <td>0.95</td>
- </tr><tr><td>Missouri</td>
- <td>0.94</td>
- </tr><tr><td>Tennessee</td>
- <td>0.94</td>
- </tr><tr><td>Virginia</td>
- <td>0.94</td>
- </tr><tr><td>North Carolina</td>
- <td>0.93</td>
- </tr><tr><td>Louisiana</td>
- <td>0.92</td>
- </tr><tr><td>Georgia</td>
- <td>0.90</td>
- </tr><tr><td>Maryland</td>
- <td>0.87</td>
- </tr><tr><td>Delaware</td>
- <td>0.86</td>
- </tr><tr><td>Mississippi</td>
- <td>0.85</td>
- </tr><tr><td>Alabama</td>
- <td>0.83</td>
- </tr></tbody></table></section></p>
-
-
-
-<p data-paragraph="main">Elasticity isn’t the only factor the model considers, however. Another is a state’s population. And in smaller states, the incumbency advantage is larger.</p>
-
-
-
-<p data-paragraph="main">If you’re a Senate history buff, think about states that have a handful of electoral votes, like Vermont, West Virginia, Hawaii or North Dakota. They tend to have fairly long-tenured senators. Only four senators (Bernie Sanders, Patrick Leahy, Jim Jeffords and Robert Stafford) have represented Vermont since 1975, for example. (Although Leahy is retiring and not seeking reelection this year.)</p>
-
-
-
-<p data-paragraph="main">Why might the incumbency advantage be larger in small states? I can think of a few theories. One is that, in a smaller state, it’s easier for a senator to maintain a strong, personal relationship with influential constituents and to be visible in her community. A second theory is about competition: In a smaller state, there are fewer highly talented politicians with national aspirations, so an incumbent will be up against weaker opponents, on average.</p>
-
-
-
-<p data-paragraph="main">A third hypothesis: It’s all about the pork. Since each state has the same number of senators, a senator from a small state is more likely to extract concessions in exchange for pork-barrel spending,<a data-footnote-id="25" href="https://fivethirtyeight.com/wp-json/wp/v2/espn_verticals/398#fn-25" data-footnote-content="&lt;p&gt;&lt;p&gt;Of course, any senator can ask for concessions. But a pork-barrel project that makes a big dent in California or Texas’s finances is going to be pretty expensive. A small state is much cheaper to buy off.&lt;/p&gt;
-&lt;/p&gt;"><sup>25</sup></a> and this can make them more popular across party lines with voters at home (think Sens. Lisa Murkowski of Alaska or Joe Manchin of West Virginia). Whatever the reason, the statistical tendency of small-state Senate incumbents to overperform is fairly robust, and this is accounted for by our model.</p>
-
-
-
-<p data-paragraph="main">What else helps an incumbent? The weirder a state, the bigger the incumbency advantage. OK, I should probably clarify what I mean by “weird.” A more precise term would be “dissimilar” or “distinctive.”</p>
-
-
-
-<p data-paragraph="main">As part of our forecast, we <a href="https://fivethirtyeight.com/methodology/how-fivethirtyeights-house-and-senate-models-work/" target="_blank" rel="noopener">apply a process called CANTOR</a><a data-footnote-id="26" href="https://fivethirtyeight.com/wp-json/wp/v2/espn_verticals/398#fn-26" data-footnote-content='&lt;p&gt;&lt;p&gt;In the tradition of &lt;a href="https://en.wikipedia.org/wiki/PECOTA" target="_blank" rel="noopener"&gt;PECOTA&lt;/a&gt; and &lt;a href="https://projects.fivethirtyeight.com/carmelo/" target="_blank" rel="noopener"&gt;CARMELO&lt;/a&gt;, we created a stupid backronym for it: Congressional Algorithm using Neighboring Typologies to Optimize Regression.&lt;/p&gt;
-&lt;/p&gt;'><sup>26</sup></a> that determines which states and congressional districts are most similar to one another according to a variety of demographic, geographic and political variables — such as race, religion, income and education, population density, latitude and longitude, and voting behavior in recent presidential elections. A state like Hawaii qualifies as distinctive by this process, for instance. It has a far bigger Asian American and Native Hawaiian population than other states, it’s very Democratic, it’s very expensive and it’s <a href="https://www.nps.gov/havo/learn/nature/index.htm" target="_blank" rel="noopener">truly out there in the middle of nowhere in the Pacific Ocean</a>.</p>
-
-
-
-<p data-paragraph="main">New Hampshire counts as <em>somewhat</em> distinctive, by contrast. As I mentioned, it’s quite white and quite nonreligious relative to the rest of the country. It also has above-average incomes and education levels but below-average population density (in <a href="https://twitter.com/NateSilver538/status/1527753858621050886?s=20&amp;t=MLisH9eBBztsGjaGpI675w" target="_blank" rel="noopener">the way that FiveThirtyEight measures it</a>). On the other hand, it is toward the middle of the road politically. Overall, it ranks as the 25th-most distinctive state. Michigan is the state which most closely resembles the rest of the country, by contrast.</p>
-
-
-
-<p data-paragraph="main"><section><header><h5>New England is distinctive</h5>
- <p data-paragraph="main">States that are least similar to other states, according to FiveThirtyEight’s CANTOR</p>
- </header><table data-carpenter-slug="silver.eu07222022.2"><thead><tr><th colspan="1" scope="col">Rank</th>
- <th colspan="1" scope="col">State</th>
- </tr></thead><tbody><tr><td>1</td>
- <td>Hawaii</td>
- </tr><tr><td>2</td>
- <td>California</td>
- </tr><tr><td>3</td>
- <td>Utah</td>
- </tr><tr><td>4</td>
- <td>Alaska</td>
- </tr><tr><td>5</td>
- <td>Vermont</td>
- </tr><tr><td>6</td>
- <td>Massachusetts</td>
- </tr><tr><td>7</td>
- <td>Wyoming</td>
- </tr><tr><td>8</td>
- <td>New York</td>
- </tr><tr><td>9</td>
- <td>Maryland</td>
- </tr><tr><td>10</td>
- <td>West Virginia</td>
- </tr><tr><td>11</td>
- <td>New Jersey</td>
- </tr><tr><td>12</td>
- <td>Mississippi</td>
- </tr><tr><td>13</td>
- <td>North Dakota</td>
- </tr><tr><td>14</td>
- <td>Rhode Island</td>
- </tr><tr><td>15</td>
- <td>South Dakota</td>
- </tr><tr><td>16</td>
- <td>Idaho</td>
- </tr><tr><td>17</td>
- <td>Maine</td>
- </tr><tr><td>18</td>
- <td>Arkansas</td>
- </tr><tr><td>19</td>
- <td>New Mexico</td>
- </tr><tr><td>20</td>
- <td>Connecticut</td>
- </tr><tr><td>21</td>
- <td>Washington</td>
- </tr><tr><td>22</td>
- <td>Texas</td>
- </tr><tr><td>23</td>
- <td>Alabama</td>
- </tr><tr><td>24</td>
- <td>Oklahoma</td>
- </tr><tr><td>25</td>
- <td>New Hampshire</td>
- </tr><tr><td>26</td>
- <td>Nevada</td>
- </tr><tr><td>27</td>
- <td>Montana</td>
- </tr><tr><td>28</td>
- <td>Louisiana</td>
- </tr><tr><td>29</td>
- <td>Florida</td>
- </tr><tr><td>30</td>
- <td>Delaware</td>
- </tr><tr><td>31</td>
- <td>Oregon</td>
- </tr><tr><td>32</td>
- <td>Tennessee</td>
- </tr><tr><td>33</td>
- <td>Kentucky</td>
- </tr><tr><td>34</td>
- <td>Illinois</td>
- </tr><tr><td>35</td>
- <td>South Carolina</td>
- </tr><tr><td>36</td>
- <td>Colorado</td>
- </tr><tr><td>37</td>
- <td>Georgia</td>
- </tr><tr><td>38</td>
- <td>Arizona</td>
- </tr><tr><td>39</td>
- <td>Nebraska</td>
- </tr><tr><td>40</td>
- <td>Virginia</td>
- </tr><tr><td>41</td>
- <td>Iowa</td>
- </tr><tr><td>42</td>
- <td>Minnesota</td>
- </tr><tr><td>43</td>
- <td>North Carolina</td>
- </tr><tr><td>44</td>
- <td>Kansas</td>
- </tr><tr><td>45</td>
- <td>Missouri</td>
- </tr><tr><td>46</td>
- <td>Pennsylvania</td>
- </tr><tr><td>47</td>
- <td>Indiana</td>
- </tr><tr><td>48</td>
- <td>Wisconsin</td>
- </tr><tr><td>49</td>
- <td>Ohio</td>
- </tr><tr><td>50</td>
- <td>Michigan</td>
- </tr></tbody></table><footer><p data-paragraph="main">Factors that CANTOR considers include race, religion, age, gender, household income, educational status, voting behavior in recent presidential and state legislative elections, percentage of residents born abroad, population density, geographic region, latitude and longitude. </p>
- </footer></section></p>
-
-
-
-<p data-paragraph="main">How could distinctiveness provide an advantage to an incumbent? In some ways, the answers are similar to why small states have a leg up. If a state has a population with unique concerns — say, religious minorities like Mormon or Jewish voters, or a racial minority like Native Hawaiians — incumbents can exhibit competence by serving those populations in ways that somewhat cross party lines and are less subject to the whims of the national political environment.</p>
-
-
-
-<p data-paragraph="main">Another related theory is that there could be a stronger bond between voters and politicians in distinctive states. The politician may be a member of the minority group, or they may have ties to an industry that is uniquely important in the state. In the same sense that you probably know a married couple who are “perfect for one another,”<a data-footnote-id="27" href="https://fivethirtyeight.com/wp-json/wp/v2/espn_verticals/398#fn-27" data-footnote-content="&lt;p&gt;&lt;p&gt;Often, of course, a backhanded compliment which means they’d annoy the living hell out of anyone &lt;em&gt;but&lt;/em&gt; one another.&lt;/p&gt;
-&lt;/p&gt;"><sup>27</sup></a> there may be <a href="https://www.nytimes.com/2015/12/27/upshot/marriages-of-power-couples-reinforce-income-inequality.html" target="_blank" rel="noopener">stronger matching</a> in these cases.</p>
-
-
-
-<p data-paragraph="main">But a statistical measure of distinctiveness is only as good as its inputs, and there are some things CANTOR leaves out. Being home to an industry like gambling in Nevada or coal production in West Virginia is potentially politically important, for instance, but CANTOR doesn’t take this into consideration.</p>
-
-
-
-<p data-paragraph="main">Overall, New England is a culturally distinctive region that is hard to pin down statistically, but is visible in everything from its cuisine to its <a href="https://www.nytimes.com/interactive/2014/04/23/upshot/24-upshot-baseball.html" target="_blank" rel="noopener">intense loyalty to the Boston Red Sox</a>. My subjective experience is that New England is considerably weirder — excuse me, “more distinctive” — than our metric describes it, and that means New England tends to be quite loyal to its incumbents. Hassan will hope that pattern holds.<a data-footnote-id="28" href="https://fivethirtyeight.com/wp-json/wp/v2/espn_verticals/398#fn-28" data-footnote-content="&lt;p&gt;&lt;p&gt;Although New Hampshire itself has had reasonably high turnover in the Senate.&lt;/p&gt;
-&lt;/p&gt;"><sup>28</sup></a></p>]]></description>
-			<pubDate>Fri, 22 Jul 2022 13:45:00 +0100</pubDate>
-			<guid isPermaLink="false">1658497502243535</guid>
 		</item>
 
 	</channel>
