@@ -3,8 +3,8 @@
 		<title>Main stream | FreshRSS</title>
 		<link>http://radon</link>
 		<description>RSS feed of Main stream | FreshRSS</description>
-		<pubDate>Sat, 06 Aug 2022 00:59:06 +0100</pubDate>
-		<lastBuildDate>Fri, 05 Aug 2022 23:59:06 GMT</lastBuildDate>
+		<pubDate>Sat, 06 Aug 2022 01:29:06 +0100</pubDate>
+		<lastBuildDate>Sat, 06 Aug 2022 00:29:06 GMT</lastBuildDate>
 		<atom:link href="http://radon/i/?a=rss" rel="self" type="application/rss+xml" />
 		<item>
 			<title>It’s Hard To Win A Senate Race When You’ve Never Won An Election Before</title>
@@ -55,25 +55,25 @@
 
 
 
-<p data-paragraph="main">Politics doesn’t have a farm system in the way that professional baseball does. But it has a hierarchy of its own for cultivating political prospects. The path usually goes something like this: First, a candidate wins some relatively minor, local office like city council or state representative. Then, they either win a seat in the U.S. House, or a statewide office like attorney general. Only then do they run for Senate or governor.</p>
+<p data-paragraph="main">Politics doesn’t have a farm system in the way that professional baseball does. But it has a hierarchy of its own for cultivating political prospects. The path usually goes something like this: First, a candidate wins some relatively minor, local office like city council or state representative. Then, they either win a seat in the U.S. House or a statewide office like attorney general. Only then do they run for U.S. Senate or governor.</p>
 
 
 
-<p data-paragraph="main">Most of the Democrats running in competitive Senate and gubernatorial races have followed a version of this course. For instance, John Fetterman, the Democratic candidate for Senate in Pennsylvania, was the mayor of Braddock, Pennsylvania for 13 years before being elected as the state’s lieutenant governor in 2018.</p>
+<p data-paragraph="main">Most of the Democrats running in competitive Senate and gubernatorial races have followed a version of this course. For instance, John Fetterman, the Democratic candidate for Senate in Pennsylvania, was the mayor of Braddock, Pennsylvania, for 13 years before being elected as the state’s lieutenant governor in 2018.</p>
 
 
 
-<p data-paragraph="main">But most of the Republicans haven’t. As a group, they have little experience running for office, and even less experience at actually <em>winning</em> general elections. Historically, such candidates have a poor track record – and in 2022 they could cost Republicans key gubernatorial races as well as control of the U.S. Senate. </p>
+<p data-paragraph="main">But most of the Republicans haven’t. As a group, they have little experience running for office, and even less experience at actually <em>winning</em> general elections. Historically, such candidates have a poor track record — and in 2022 they could cost Republicans key gubernatorial races as well as control of the Senate. </p>
 
 
 
-<p data-paragraph="main">FiveThirtyEight’s model evaluates candidate experience as <a href="https://fivethirtyeight.com/methodology/how-fivethirtyeights-house-and-senate-models-work/" target="_blank" rel="noopener">part of our “fundamentals” calculation</a><a data-footnote-id="1" href="https://fivethirtyeight.com/wp-json/wp/v2/espn_verticals/398#fn-1" data-footnote-content="&lt;p&gt;&lt;p&gt;That is, our algorithm to predict race outcomes using factors other than polling, which we then combine with the polling average in each state to create a blended forecast.&lt;/p&gt;
-&lt;/p&gt;"><sup>1</sup></a>. Specifically, for Senate and gubernatorial candidates, we use a four-tiered system based on the candidate’s highest <em>elected</em><a data-footnote-id="2" href="https://fivethirtyeight.com/wp-json/wp/v2/espn_verticals/398#fn-2" data-footnote-content="&lt;p&gt;&lt;p&gt;Appointed offices don’t count&lt;/p&gt;
+<p data-paragraph="main">FiveThirtyEight’s model evaluates candidate experience as <a href="https://fivethirtyeight.com/methodology/how-fivethirtyeights-house-and-senate-models-work/" target="_blank" rel="noopener">part of our “fundamentals” calculation</a>.<a data-footnote-id="1" href="https://fivethirtyeight.com/wp-json/wp/v2/espn_verticals/398#fn-1" data-footnote-content="&lt;p&gt;&lt;p&gt;That is, our algorithm to predict race outcomes using factors other than polling, which we then combine with the polling average in each state to create a blended forecast.&lt;/p&gt;
+&lt;/p&gt;"><sup>1</sup></a> Specifically, for Senate and gubernatorial candidates, we use a four-tiered system based on the candidate’s highest <em>elected</em><a data-footnote-id="2" href="https://fivethirtyeight.com/wp-json/wp/v2/espn_verticals/398#fn-2" data-footnote-content="&lt;p&gt;&lt;p&gt;Appointed offices don’t count&lt;/p&gt;
 &lt;/p&gt;"><sup>2</sup></a> office:</p>
 
 
 
-<ul><li>Tier 3: U.S. Senator or governor</li><li>Tier 2: U.S. representative, or statewide elected office (e.g., secretary of state), or mayor of a large city.</li><li>Tier 1: Any other nontrivial elected office (e.g., state senator).</li><li>Tier 0: Has never held any nontrivial elected office.</li></ul><p data-paragraph="main">The reason that experience in winning past elections can send a valuable statistical signal isn’t necessarily that experience in elected office is valuable unto itself. (For instance, candidates who are <em>appointed</em> to the U.S. Senate following a vacancy have <a href="https://fivethirtyeight.com/features/appointed-senators-rarely-win-re/" target="_blank" rel="noopener">poor track records at winning a Senate term for themselves</a>). Rather, it’s the act of <em>winning</em> an election that counts, since it’s a sign that a candidate is acceptable to some reasonably large group of voters.</p>
+<ul><li>Tier 3: U.S. Senator or governor</li><li>Tier 2: U.S. representative or statewide elected office (e.g., secretary of state) or mayor of a large city</li><li>Tier 1: Any other nontrivial elected office (e.g., state senator)</li><li>Tier 0: Has never held any nontrivial elected office</li></ul><p data-paragraph="main">The reason that experience in winning past elections can send a valuable statistical signal isn’t necessarily that experience in elected office is valuable unto itself. (For instance, candidates who are <em>appointed</em> to the U.S. Senate following a vacancy have <a href="https://fivethirtyeight.com/features/appointed-senators-rarely-win-re/" target="_blank" rel="noopener">poor track records at winning a Senate term for themselves</a>.) Rather, it’s the act of <em>winning</em> an election that counts, since it’s a sign that a candidate is acceptable to some reasonably large group of voters.</p>
 
 
 
@@ -138,9 +138,9 @@
  <td>Mehmet Oz</td>
  <td>0</td>
  </tr><tr><td>Wisconsin</td>
- <td>Mandela Barnes</td>
+ <td>Mandela Barnes*</td>
  <td>2</td>
- <td>Ron Johnson <span>i</span></td>
+ <td>Ron Johnson* <span>i</span></td>
  <td>3</td>
  </tr><tr><td>Average</td>
  <td></td>
@@ -160,11 +160,11 @@
 
 
 
-<p data-paragraph="main">Having held elected office is not a prerequisite for higher office, and one can think of plenty of candidates, from Elizabeth Warren to Ted Cruz, who won races for the U.S. Senate as first-time candidates. Even so, some of them had pedigrees in politics or politics-related fields. Cruz had been solicitor general of Texas, for instance – an unelected office but one that gave him a significant public profile. Mark Kelly, the Democratic incumbent in Arizona, won a Senate race in his first election in 2020, but he had been an astronaut (often a <a href="https://en.wikipedia.org/wiki/Astronaut-politician#:~:text=In%201985%2C%20Senator%20Jake%20Garn,also%20as%20a%20payload%20specialist." target="_blank" rel="noopener">successful launching pad for political careers</a>) and is the husband of former U.S. representative Gabrielle Giffords.</p>
+<p data-paragraph="main">Having held elected office is not a prerequisite for higher office, and one can think of plenty of candidates, from Elizabeth Warren to Ted Cruz, who won races for the U.S. Senate as first-time candidates. Even so, some of them had pedigrees in politics or politics-related fields. Cruz had been solicitor general of Texas, for instance — an unelected office but one that gave him a significant public profile. Mark Kelly, the Democratic incumbent in Arizona, won a Senate race in his first election in 2020, but he had been an astronaut (often a <a href="https://en.wikipedia.org/wiki/Astronaut-politician#:~:text=In%201985%2C%20Senator%20Jake%20Garn,also%20as%20a%20payload%20specialist." target="_blank" rel="noopener">successful launching pad for political careers</a>) and is the husband of former U.S. Rep. Gabrielle Giffords.</p>
 
 
 
-<p data-paragraph="main">This year’s crop of Republican nominees don’t have those advantages. For instance, Democrats have a <a href="https://www.nytimes.com/2022/08/03/opinion/blake-masters-arizona-senate.html" target="_blank" rel="noopener">variety of potential attack lines against Blake Masters</a>, the newly-minted Republican Senate nominee in Arizona, from his ties to controversial billionaire Peter Thiel to his <a href="https://www.businessinsider.com/arizona-gop-senate-candidate-masters-privatizing-social-security-2022-6" target="_blank" rel="noopener">suggestions that he might privatize social security</a>. Ohio’s J.D. Vance has <a href="https://www.cleveland.com/news/2022/07/do-new-fundraising-numbers-in-ohios-us-senate-race-between-jd-vance-and-tim-ryan-provide-a-ray-of-hope-for-democrats.html" target="_blank" rel="noopener">had trouble raising money</a>, a sign that he may lack the donor networks of more experienced politicians. Pennsylvania’s Mehmet Oz has <a href="https://projects.fivethirtyeight.com/polls/governor/2022/pennsylvania/" target="_blank" rel="noopener">fallen well behind in polls</a> as he has been unable to fend off Fetterman attack ads that <a href="https://www.washingtonpost.com/politics/2022/07/27/fetterman-ad-new-jersey/" target="_blank" rel="noopener">emphasize his New Jersey residency</a>.<br></p>
+<p data-paragraph="main">This year’s crop of Republican nominees doesn’t have those advantages. For instance, Democrats have a <a href="https://www.nytimes.com/2022/08/03/opinion/blake-masters-arizona-senate.html" target="_blank" rel="noopener">variety of potential attack lines against Blake Masters</a>, the newly minted Republican Senate nominee in Arizona, from his ties to controversial billionaire Peter Thiel to his <a href="https://www.businessinsider.com/arizona-gop-senate-candidate-masters-privatizing-social-security-2022-6" target="_blank" rel="noopener">suggestions that he might privatize Social Security</a>. Ohio’s J.D. Vance has <a href="https://www.cleveland.com/news/2022/07/do-new-fundraising-numbers-in-ohios-us-senate-race-between-jd-vance-and-tim-ryan-provide-a-ray-of-hope-for-democrats.html" target="_blank" rel="noopener">had trouble raising money</a>, a sign that he may lack the donor networks of more experienced politicians. Pennsylvania’s Mehmet Oz has <a href="https://projects.fivethirtyeight.com/polls/governor/2022/pennsylvania/" target="_blank" rel="noopener">fallen well behind in polls</a> as he has been unable to fend off Fetterman attack ads that <a href="https://www.washingtonpost.com/politics/2022/07/27/fetterman-ad-new-jersey/" target="_blank" rel="noopener">emphasize his New Jersey residency</a>.<br></p>
 
 
 
@@ -270,7 +270,7 @@
 
 
 
-<p data-paragraph="main">Sure, there are Republicans who challenge Trump – like <a href="https://www.politico.com/news/2022/04/26/sununu-bucks-trump-in-2024-00027612" target="_blank" rel="noopener">New Hampshire Gov. Chris Sununu</a>. But that’s a case in point: Sununu <a href="https://www.politico.com/news/2021/11/09/sununu-wont-run-for-senate-520413" target="_blank" rel="noopener">chose not to run for the U.S. Senate</a>. That seat is <a href="https://fivethirtyeight.com/features/new-hampshire-is-tiny-and-pretty-weird-that-could-help-maggie-hassan/" target="_blank" rel="noopener">now pretty likely</a> to be retained by the Democratic incumbent, Maggie Hassan, since she’s likely to be running against an inexperienced Bolduc.</p>
+<p data-paragraph="main">Sure, there are Republicans who challenge Trump — like <a href="https://www.politico.com/news/2022/04/26/sununu-bucks-trump-in-2024-00027612" target="_blank" rel="noopener">New Hampshire Gov. Chris Sununu</a>. But that’s a case in point: Sununu <a href="https://www.politico.com/news/2021/11/09/sununu-wont-run-for-senate-520413" target="_blank" rel="noopener">chose not to run for the U.S. Senate</a>. That seat is <a href="https://fivethirtyeight.com/features/new-hampshire-is-tiny-and-pretty-weird-that-could-help-maggie-hassan/" target="_blank" rel="noopener">now pretty likely</a> to be retained by the Democratic incumbent, Maggie Hassan, since she’s likely to be running against an inexperienced Bolduc.</p>
 
 
 
@@ -282,7 +282,11 @@
 
 
 
-<p data-paragraph="main"><strong>CORRECTION (Aug. 5, 2022, 3:13 p.m.):</strong> The first table in this article has been updated to indicate that Donald Bolduc is not an incumbent in the U.S. Senate.</p>]]></description>
+<p data-paragraph="main"><strong>CORRECTION (Aug. 5, 2022, 3:13 p.m.):</strong> The first table in this article has been updated to indicate that Donald Bolduc is not an incumbent in the U.S. Senate.</p>
+
+
+
+<p data-paragraph="main"><strong>CORRECTION (Aug. 5, 2022, 6:57 p.m.):</strong> The first table in this article has been updated to indicate that Mandela Barnes and Ron Johnson are still presumed nominees.</p>]]></description>
 			<pubDate>Fri, 05 Aug 2022 18:55:00 +0100</pubDate>
 			<guid isPermaLink="false">1659726001858190</guid>
 		</item>
