@@ -3,9 +3,34 @@
 		<title>Main stream | FreshRSS</title>
 		<link>http://radon</link>
 		<description>RSS feed of Main stream | FreshRSS</description>
-		<pubDate>Wed, 10 Aug 2022 00:59:07 +0100</pubDate>
-		<lastBuildDate>Tue, 09 Aug 2022 23:59:07 GMT</lastBuildDate>
+		<pubDate>Wed, 10 Aug 2022 01:29:07 +0100</pubDate>
+		<lastBuildDate>Wed, 10 Aug 2022 00:29:07 GMT</lastBuildDate>
 		<atom:link href="http://radon/i/?a=rss" rel="self" type="application/rss+xml" />
+		<item>
+			<title>Elections Today In Minnesota, Wisconsin, Vermont And Connecticut: Live Results And Updates</title>
+			<link>https://fivethirtyeight.com/live-blog/wisconsin-minnesota-election/</link>
+						<dc:creator>FiveThirtyEight</dc:creator>
+			<dc:creator>FiveThirtyEight</dc:creator>
+			<category>2022 Election</category>
+			<category>2022 Governors Elections</category>
+			<category>2022 House Elections</category>
+			<category>2022 Midterms</category>
+			<category>2022 Primaries</category>
+			<category>2022 Senate Elections</category>
+			<category>Connecticut Election results</category>
+			<category>Connecticut Primary</category>
+			<category>Election Deniers</category>
+			<category>Election Results</category>
+			<category>Live Blog</category>
+			<category>Minnesota Politics</category>
+			<category>Primary Results</category>
+			<category>Wisconsin Election Results</category>
+			<category>Wisconsin Politics</category>
+			<category>Wisconsin Primary</category>
+			<description><![CDATA[]]></description>
+			<pubDate>Wed, 10 Aug 2022 00:00:00 +0100</pubDate>
+			<guid isPermaLink="false">1660090501733104</guid>
+		</item>
 		<item>
 			<title>Can Progressive Candidates In Minnesota, Vermont And Wisconsin Win Their Primaries?</title>
 			<link>https://fivethirtyeight.com/features/can-progressive-candidates-in-minnesota-vermont-and-wisconsin-win-their-primaries/</link>
@@ -2720,180 +2745,6 @@
 <p data-paragraph="main">That’s why Biden and Democrats’ policy shortcomings on some key issues, along with the broader discontent over the economy, could help Republicans narrow the margins among younger voters this year — whether through shifts in turnout or some degree of vote-switching. Suffice it to say that young Americans <a href="https://circle.tufts.edu/index.php/yesi2022" target="_blank" rel="noopener">could play a major role</a> in determining a number of close elections in 2022.</p>]]></description>
 			<pubDate>Wed, 27 Jul 2022 11:00:00 +0100</pubDate>
 			<guid isPermaLink="false">1658920501796814</guid>
-		</item>
-		<item>
-			<title>Why The Gap Between Biden’s Popularity and Democrats’ Polls Isn’t That Weird</title>
-			<link>https://fivethirtyeight.com/features/why-democrats-midterm-chances-dont-hinge-on-bidens-approval-rating/</link>
-						<dc:creator>Nathaniel Rakich</dc:creator>
-			<dc:creator>Nathaniel Rakich and Humera Lodhi</dc:creator>
-			<category>2022 Election</category>
-			<category>2022 Midterms</category>
-			<category>Generic Ballot</category>
-			<category>Joe Biden</category>
-			<category>Presidential Approval</category>
-			<description><![CDATA[<div>
-
-			<div>
-
-				<header><div>
-													<p><a href="https://fivethirtyeight.com/tag/2022-election/" name="">2022 Election</a></p>
-						
-													<h1>Why The Gap Between Biden's Popularity and Democrats' Polls Isn't That Weird</h1>
-																	</div>
-
-										<div>
-						<div>
-															<p>By <a href="https://fivethirtyeight.com/contributors/nathaniel-rakich/" title="" rel="author">Nathaniel Rakich and Humera Lodhi</a> and <a href="https://fivethirtyeight.com/contributors/humera-lodhi/" title="" rel="author">Nathaniel Rakich and Humera Lodhi</a></p>
-							
-							<p>
-								<time>
-									Jul. 26, 2022, at 6:00 AM								</time></p>
-
-						</div>
-						<div>
-													</div> 
-					</div>
-					
-				</header><figure><span>
-									<div>
-						<picture><source media="(min-width: 768px)"><source><img alt="GENERIC-APPROVAL-4×3" src="https://fivethirtyeight.com/wp-content/uploads/2022/07/GENERIC-APPROVAL-4x3-1.png?w=917" data-sizes="(max-width: 768px) 100vw, (max-width: 1080px) 66vw, 684px" data-src="https://fivethirtyeight.com/wp-content/uploads/2022/07/GENERIC-APPROVAL-4x3-1.png?w=917" data-srcset="https://fivethirtyeight.com/wp-content/uploads/2022/07/GENERIC-APPROVAL-4x3-1.png?w=917 1x, https://fivethirtyeight.com/wp-content/uploads/2022/07/GENERIC-APPROVAL-4x3-1.png?w=1834 2x"></source></source></picture></div>
-
-				
-			</span>
-
-			
-								<figcaption><p>PHOTO ILLUSTRATION BY EMILY SCHERER / GETTY IMAGES</p>
-											</figcaption></figure></div>
-
-			
-		</div>
-
-
-
-
-
-<p data-paragraph="main">Earlier this month, FiveThirtyEight editor-in-chief Nate Silver <a href="https://fivethirtyeight.com/features/biden-is-very-unpopular-it-may-not-tell-us-much-about-the-midterms/" target="_blank" rel="noopener">noted an interesting disconnect</a> between two pieces of information most commonly used to predict the upcoming midterms: the president’s approval rating and polls of the generic congressional ballot (which ask Americans whether they plan to vote for the Republican or the Democratic candidate this fall).</p>
-
-
-
-<p data-paragraph="main">On one hand, President Biden is historically unpopular: As of July 25 at 5 p.m. Eastern, he had an <a href="https://projects.fivethirtyeight.com/biden-approval-rating/" target="_blank" rel="noopener">average approval rating</a> of 38 percent and an average disapproval rating of 57 percent — a net approval rating of -19 percentage points. You have to go back to Harry Truman to find a president with a net approval rating that bad at this point in his term.</p>
-
-
-
-<p data-paragraph="main">On the other, <a href="https://projects.fivethirtyeight.com/polls/generic-ballot/" target="_blank" rel="noopener">generic-congressional-ballot polls</a> are pretty close. As of the same date and time, Republicans had an average lead of 1 point.</p>
-
-
-
-<p data-paragraph="main">Those two numbers feel difficult to reconcile. Biden’s approval rating suggests that the national mood is extremely poor for Democrats, while the generic-ballot polling suggests that the political environment is only slightly Republican-leaning. But in reality, these two types of polls aren’t in opposition as much as you might think. They’re separate metrics, and a look back at past midterm elections shows they don’t always line up. But history also shows that when they do diverge, one is more predictive than the other.</p>
-
-
-
-<p data-paragraph="main">First, it’s kind of an obvious point, but presidential-approval polls and generic-ballot polls are measuring two different things. Presidential-approval polls are like a referendum — a simple thumbs-up or thumbs-down on the commander in chief. But generic-ballot polls are a choice, pitting the president’s party against a tangible alternative — one that, in this case, is <em>also</em> pretty unpopular (according to <a href="https://today.yougov.com/topics/politics/trackers/the-republican-party-favorability" target="_blank" rel="noopener">YouGov</a>, only 41 percent of registered voters view the GOP favorably). Biden may not look good to people in the abstract, but some may still prefer his policies to the alternative. For example, plenty of Democrats <a href="https://poll.qu.edu/poll-release?releaseid=3852" target="_blank" rel="noopener">tell pollsters</a> that they disapprove of Biden’s performance, but almost all of them also say in the same breath that they will vote Democratic in the midterms (that is, if they turn out to vote — an important caveat).</p>
-
-
-
-<p data-paragraph="main">Second, and unsurprisingly considering the first point, it’s not unusual for presidential-approval polls and generic-ballot polls to disagree. Just take a look at where the polls stood on July 25 in the past four midterm election years: 2006, 2010, 2014 and 2018.<a data-footnote-id="22" href="https://fivethirtyeight.com/wp-json/wp/v2/espn_verticals/398#fn-22" data-footnote-content='&lt;p&gt;&lt;p&gt;Based on FiveThirtyEight’s &lt;a href="https://projects.fivethirtyeight.com/trump-approval-ratings/" target="_blank" rel="noopener"&gt;presidential-approval-rating average for then-President Donald Trump&lt;/a&gt; and the &lt;a href="https://projects.fivethirtyeight.com/polls/generic-ballot/2018/" target="_blank" rel="noopener"&gt;2018 generic-ballot polling average&lt;/a&gt;, as well as what our presidential-approval and generic-ballot polling averages &lt;em&gt;would have &lt;/em&gt;said had they existed in 2006, 2010 and 2014, applying our current methodology to the polls at the time.&lt;/p&gt;
-&lt;/p&gt;'><sup>22</sup></a></p>
-
-
-<p>Watch: https://abcnews.go.com/fivethirtyeight/video/democrats-continue-win-georgia-2022-fivethirtyeight-politics-podcast-86847505</p>
-
-
-<figure><img loading="lazy" width="1422" height="1258" src="https://fivethirtyeight.com/wp-content/uploads/2022/07/rakich.APPROVAL-VS-GENERIC.0726-01-use.png" alt="" data-src="https://fivethirtyeight.com/wp-content/uploads/2022/07/rakich.APPROVAL-VS-GENERIC.0726-01-use.png" data-srcset="https://fivethirtyeight.com/wp-content/uploads/2022/07/rakich.APPROVAL-VS-GENERIC.0726-01-use.png?w=712 1x, https://fivethirtyeight.com/wp-content/uploads/2022/07/rakich.APPROVAL-VS-GENERIC.0726-01-use.png?w=1424 2x"></figure><figure><img loading="lazy" width="670" height="1872" src="https://fivethirtyeight.com/wp-content/uploads/2022/07/rakich.APPROVAL-VS-GENERIC.0726-01-mob-use.png" alt="" data-src="https://fivethirtyeight.com/wp-content/uploads/2022/07/rakich.APPROVAL-VS-GENERIC.0726-01-mob-use.png" data-srcset="https://fivethirtyeight.com/wp-content/uploads/2022/07/rakich.APPROVAL-VS-GENERIC.0726-01-mob-use.png?w=670 1x, https://fivethirtyeight.com/wp-content/uploads/2022/07/rakich.APPROVAL-VS-GENERIC.0726-01-mob-use.png?w=1340 2x"></figure><p data-paragraph="main">In 2010, there was little daylight between the two numbers. Then-President Barack Obama’s net approval rating was -2 points, and Democrats trailed by 3 points in generic-ballot polls. In 2018, the gap was a little wider but still nothing to write home about — just 4 points. That year, then-President Donald Trump’s net approval rating was 12 points underwater, while his Republicans trailed by 8 points.</p>
-
-
-
-<p data-paragraph="main">Meanwhile, in 2006, then-President George W. Bush and congressional Republicans were both in dire straits. But there was actually a decent-size, 7-point gap between Bush’s net approval rating (-19 points) and the GOP’s deficit on the generic congressional ballot (12 points). And in 2014, the difference between the two numbers was impossible to ignore. Obama’s net approval rating was -11 points, but Democrats actually <em>led</em> in generic-ballot polling by 2 points. That 13-point gap approaches the current 18-point gap between Biden’s numbers and those of congressional Democrats.</p>
-
-
-
-<p data-paragraph="main">Of course, it’s possible that Biden’s approval rating and the generic-ballot polling will come into better alignment as we get closer to the election. But again, historically, this hasn’t always happened. </p>
-
-
-
-<figure><img loading="lazy" width="1422" height="1286" src="https://fivethirtyeight.com/wp-content/uploads/2022/07/rakich.APPROVAL-VS-GENERIC.-726-02-use.png" alt="" data-src="https://fivethirtyeight.com/wp-content/uploads/2022/07/rakich.APPROVAL-VS-GENERIC.-726-02-use.png" data-srcset="https://fivethirtyeight.com/wp-content/uploads/2022/07/rakich.APPROVAL-VS-GENERIC.-726-02-use.png?w=712 1x, https://fivethirtyeight.com/wp-content/uploads/2022/07/rakich.APPROVAL-VS-GENERIC.-726-02-use.png?w=1424 2x"></figure><figure><img loading="lazy" width="670" height="2120" src="https://fivethirtyeight.com/wp-content/uploads/2022/07/rakich.APPROVAL-VS-GENERIC.-726-02-mob-final.png" alt="" data-src="https://fivethirtyeight.com/wp-content/uploads/2022/07/rakich.APPROVAL-VS-GENERIC.-726-02-mob-final.png" data-srcset="https://fivethirtyeight.com/wp-content/uploads/2022/07/rakich.APPROVAL-VS-GENERIC.-726-02-mob-final.png?w=670 1x, https://fivethirtyeight.com/wp-content/uploads/2022/07/rakich.APPROVAL-VS-GENERIC.-726-02-mob-final.png?w=1340 2x"></figure><p data-paragraph="main">In 2018, the gap wasn’t very large to begin with, but it did close from 4 points on July 25 to 2 points on Election Day. Trump’s net approval rating improved a bit, from -12 points to -11 points, while Republicans lost ground on the generic ballot, which went from D+8 to D+9.</p>
-
-
-
-<p data-paragraph="main">But in 2006 — when the gap was a not-insignificant 7 points as of July 25 — little changed. Bush’s net approval rating fell from -19 points to -20 points, and the generic-ballot polling moved in tandem from D+12 to D+14. By Election Day, the gap between presidential approval and the generic ballot was 6 points.</p>
-
-
-
-<p data-paragraph="main">In 2010, the gap also didn’t change much — but to the extent it did, it actually got wider. Granted, this was the year that presidential-approval polls and generic-ballot polls were just 1 point apart on July 25. And by Election Day, they were still in close agreement, albeit 2 points apart. Obama’s net approval rating went from -2 points to -4 points, and the Republican lead on the generic ballot increased by a bit more than that (from R+3 to R+7).</p>
-
-
-<p>Watch: https://abcnews.go.com/ThisWeek/video/buy-dems-energizing-abortion-evens-midterms-equation-silver-86558599</p>
-
-
-<p data-paragraph="main">Finally, in 2014 — perhaps the best analog to our current situation — Democrats’ standing in generic-ballot polls did deteriorate from a 2-point lead on July 25 to a 2-point deficit on Election Day. This was a bit closer to Obama’s -11-point net approval rating, which barely changed over the course of those three and a half months. But there was still a 9-point gap between the two numbers, so it’s hard to say they truly converged.</p>
-
-
-
-<p data-paragraph="main">In summary, it’s not unusual for presidential-approval polls and generic-ballot polls to still be several points apart on Election Day. So that leaves us with one final question: Which of those two indicators should we be paying more attention to?</p>
-
-
-
-<p data-paragraph="main">The answer is the generic ballot. Unsurprisingly, polls asking Americans which party they plan to vote for in the midterms have <a href="https://fivethirtyeight.com/features/some-early-clues-about-how-the-midterms-will-go/" target="_blank" rel="noopener">historically been more predictive of the midterm results</a> than polls asking about presidential approval. As <a href="https://fivethirtyeight.com/features/biden-is-very-unpopular-it-may-not-tell-us-much-about-the-midterms/" target="_blank" rel="noopener">Silver concluded</a>, the president’s popularity just doesn’t add all that much new information when you have polls that directly ask the question you want answered.</p>
-
-
-
-<p data-paragraph="main">In the past four midterm elections, the generic-ballot polling average has missed the national popular-vote margin for the House of Representatives by an average of only 2.5 points, while the presidential-approval polling average has “missed” (we’re using scare quotes because presidential-approval polls are not intended to be measuring this) the national popular vote margin by 5.5 points. In each of those cycles, regardless of whether the two numbers were in sync or not, the generic-ballot polling average came closer to the final vote margin — sometimes significantly closer.</p>
-
-
-<div>
-<section><header><h5>Presidential approval isn’t the best predictor of the midterms</h5>
- <p>The national popular-vote margin for the U.S. House in the past four midterm elections compared with FiveThirtyEight’s polling average for both the president’s net approval rating and the generic congressional ballot</p>
- </header><table data-carpenter-slug="rakich.approval-vs-generic.1"><thead><tr aria-hidden="true"><th colspan="2" scope="colgroup"></th>
- <th colspan="2" scope="colgroup">Presidential Approval</th>
- <th colspan="2" scope="colgroup">Generic Ballot</th>
- </tr><tr><th colspan="1" scope="col">Election</th>
- <th colspan="1" scope="col">House Popular Vote</th>
- <th colspan="1" scope="col">Polling Average</th>
- <th colspan="1" scope="col">Error</th>
- <th colspan="1" scope="col">Polling Average</th>
- <th colspan="1" scope="col">Error</th>
- </tr></thead><tbody><tr><td>2006</td>
- <td>D+7.9</td>
- <td>-19.7</td>
- <td>11.8</td>
- <td>D+13.9</td>
- <td>6.0</td>
- </tr><tr><td>2010</td>
- <td>R+6.6</td>
- <td>-4.3</td>
- <td>2.4</td>
- <td>R+6.7</td>
- <td>0.1</td>
- </tr><tr><td>2014</td>
- <td>R+5.8</td>
- <td>-11.3</td>
- <td>5.5</td>
- <td>R+1.9</td>
- <td>3.9</td>
- </tr><tr><td>2018</td>
- <td>D+8.6</td>
- <td>-11.0</td>
- <td>2.4</td>
- <td>D+8.6</td>
- <td>0.0</td>
- </tr></tbody></table><footer><p>Using FiveThirtyEight’s polling average methodology applied retroactively for 2006, 2010 and 2014.</p>
- <p>Sources: Polls, U.S. House of Representatives</p>
- </footer></section></div>
-
-
-<p data-paragraph="main">On the surface, this appears to be good news for Democrats in 2022. Since generic-ballot polling is currently much better for the party than Biden’s approval rating, that would seem to suggest that a “red wave” is not in the cards. But not so fast. Go back and look at the chart above showing how the polling has changed from July to Election Day. While the generic-ballot polling and presidential-approval polling don’t always converge, there <em>is</em> one other pattern that’s evident: The generic-ballot polling got worse for the president’s party in all four cycles. </p>
-
-
-<p>Watch: https://abcnews.go.com/fivethirtyeight/video/democrats-spent-1m-ad-candidate-fivethirtyeight-86844594</p>
-
-
-<p data-paragraph="main">That matches our previous research finding that the president’s party <a href="https://fivethirtyeight.com/features/our-best-tool-for-predicting-midterm-elections-doesnt-show-a-republican-wave-but-history-is-on-the-gops-side/" target="_blank" rel="noopener">typically loses ground on the generic ballot</a> as a midterm election approaches — a trend that’s especially pronounced when a Democratic president is in office. As <a href="https://fivethirtyeight.com/features/why-republicans-are-favored-to-win-the-house-but-not-the-senate/" target="_blank" rel="noopener">Silver also wrote</a> when unveiling our 2022 midterm forecast in June, most generic-ballot polls at this stage are conducted among registered voters, but by the fall they will be conducted among likely voters — a group that will probably be disproportionately Republican, both because Democrats tend to be more infrequent voters in general and because, currently, more Republicans than Democrats say they are <a href="https://www.youtube.com/watch?v=s_3O21aNiBc" target="_blank" rel="noopener">enthusiastic to vote</a>. </p>
-
-
-
-<p data-paragraph="main">So Republicans may lead in generic-ballot polls by only 1 point on average today. But by November, their lead will probably be a few points wider. And while that wouldn’t be as disastrous for Democrats as it would be if everyone’s midterm vote was dictated by how they rated Biden’s job performance, it would still be a great result for Republicans.</p>]]></description>
-			<pubDate>Tue, 26 Jul 2022 11:00:00 +0100</pubDate>
-			<guid isPermaLink="false">1658830502074626</guid>
 		</item>
 
 	</channel>
