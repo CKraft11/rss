@@ -3,9 +3,74 @@
 		<title>Main stream | FreshRSS</title>
 		<link>http://radon</link>
 		<description>RSS feed of Main stream | FreshRSS</description>
-		<pubDate>Mon, 22 Aug 2022 23:59:07 +0100</pubDate>
-		<lastBuildDate>Mon, 22 Aug 2022 22:59:07 GMT</lastBuildDate>
+		<pubDate>Tue, 23 Aug 2022 00:29:07 +0100</pubDate>
+		<lastBuildDate>Mon, 22 Aug 2022 23:29:07 GMT</lastBuildDate>
 		<atom:link href="http://radon/i/?a=rss" rel="self" type="application/rss+xml" />
+		<item>
+			<title>Politics Podcast: The Trump Investigations And What Americans Think About Them</title>
+			<link>https://fivethirtyeight.com/features/politics-podcast-the-trump-investigations-and-what-americans-think-about-them/</link>
+						<dc:creator>Galen Druke</dc:creator>
+			<dc:creator>FiveThirtyEight</dc:creator>
+			<category>2022 Primaries</category>
+			<category>FiveThirtyEight Podcasts</category>
+			<category>Jan. 6 Investigation</category>
+			<category>Politics Podcast</category>
+			<category>President Trump</category>
+			<category>Public Opinion</category>
+			<description><![CDATA[<div data-href="https://fivethirtyeight.com/features/politics-podcast-the-trump-investigations-and-what-americans-think-about-them/">
+	<div data-podcast-id="342573" data-podcast-duration="0" data-podcast-title="Politics Podcast: The Trump Investigations And What Americans Think About Them">
+
+					<span><span>FiveThirtyEight</span></span>
+			
+		
+		<button aria-label="Play"></button>
+
+					<div>
+		
+		
+							<div>
+					<div>
+						<div></div>
+					</div>
+
+					<div> </div>
+
+					<audio preload="none" controls="controls">
+						<source src="https://www.podtrac.com/pts/redirect.mp3/traffic.megaphone.fm/ESP2515300733.mp3?updated=1661205613">
+					</source></audio>
+				</div>
+			
+					</div>
+		
+	</div>
+</div>
+<aside>
+	<div>
+		More: <a href="https://itunes.apple.com/us/podcast/fivethirtyeight-elections/id1077418457">Apple Podcasts</a> |
+		<span><a data-android-url="" href="http://m.espn.com/general/cast?id=14554755">ESPN App</a> |</span>
+		<a href="https://www.espn.com/espnradio/feeds/rss/podcast.xml?id=14554755">RSS</a>
+			</div>
+	</aside>
+
+
+
+
+<p data-paragraph="main">What happens when a former president who is facing all kinds of legal problems is still the de facto party leader and considering another run for the White House? In this installment of the <a href="https://fivethirtyeight.com/tag/politics-podcast/" target="_blank" rel="noopener">FiveThirtyEight Politics podcast</a>, the crew dives into four major investigations into former President Donald Trump’s actions, the legal consequences he could be facing and how Americans are reacting to these evolving cases.</p>
+
+
+
+<p data-paragraph="main">The team also analyzes <a href="https://today.yougov.com/topics/politics/articles-reports/2022/08/16/how-often-and-why-do-americans-change-their-minds?utm_medium=organic_social&amp;utm_source=twitter&amp;utm_campaign=SM-2022-08-US-B2C-Politics" target="_blank" rel="noopener">a new poll from YouGov</a> that breaks down how 78 percent of Americans say they have changed their mind on at least one political issue over their lifetimes. Finally, senior elections analyst Nathaniel Rakich gives a quick overview of the New York congressional and Florida primaries we’re tracking this Tuesday.</p>
+
+
+
+<p data-paragraph="main"><em>You can listen to the episode by clicking the “play” button in the audio player above or by </em><a href="https://itunes.apple.com/us/podcast/fivethirtyeight-elections/id1077418457?mt=2" target="_blank" rel="noopener"><em>downloading it in iTunes</em></a><em>, the </em><a href="http://www.espn.com/espn/mobile/products/products/_/id/6857590" target="_blank" rel="noopener"><em>ESPN App</em></a><em> or your favorite podcast platform. If you are new to podcasts, </em><a href="https://fivethirtyeight.com/how-to-listen-to-fivethirtyeight-podcasts/" target="_blank" rel="noopener"><em>learn how to listen</em></a><em>.</em></p>
+
+
+
+<p data-paragraph="main"><em>The FiveThirtyEight Politics podcast is recorded Mondays and Thursdays. Help new listeners discover the show by </em><a href="https://itunes.apple.com/us/podcast/fivethirtyeight-elections/id1077418457?mt=2" target="_blank" rel="noopener"><em>leaving us a rating and review on iTunes</em></a><em>. Have a comment, question or suggestion for “good polling vs. bad polling”? Get in touch by email, </em><a href="https://twitter.com/FiveThirtyEight" target="_blank" rel="noopener"><em>on Twitter</em></a><em> or in the comments.</em></p>]]></description>
+			<pubDate>Mon, 22 Aug 2022 22:57:00 +0100</pubDate>
+			<guid isPermaLink="false">1661209201887150</guid>
+		</item>
 		<item>
 			<title>New York Is Holding Another Primary. Here’s Everything You Need To Know.</title>
 			<link>https://fivethirtyeight.com/features/new-york-is-holding-another-primary-heres-everything-you-need-to-know/</link>
@@ -2783,77 +2848,6 @@
 <p data-paragraph="main">As we watch to see how these races will play out tonight, you should come join us! Our <a href="https://fivethirtyeight.com/live-blog/" target="_blank" rel="noopener">live blog</a> of the results will start at 7 p.m. Eastern, so please come hang out as we process all the results and more.</p>]]></description>
 			<pubDate>Tue, 09 Aug 2022 11:00:00 +0100</pubDate>
 			<guid isPermaLink="false">1660041001620811</guid>
-		</item>
-		<item>
-			<title>Politics Podcast: Could The Inflation Reduction Act Save Biden’s Approval Rating?</title>
-			<link>https://fivethirtyeight.com/features/politics-podcast-could-the-inflation-reduction-act-save-bidens-approval-rating/</link>
-						<dc:creator>Galen Druke</dc:creator>
-			<dc:creator>FiveThirtyEight</dc:creator>
-			<category>2022 Midterms</category>
-			<category>Abortion</category>
-			<category>Climate Change</category>
-			<category>Crime</category>
-			<category>FiveThirtyEight Podcasts</category>
-			<category>Inflation</category>
-			<category>Politics Podcast</category>
-			<category>Polling Accuracy</category>
-			<description><![CDATA[<div data-href="https://fivethirtyeight.com/features/politics-podcast-could-the-inflation-reduction-act-save-bidens-approval-rating/">
-	<div data-podcast-id="341356" data-podcast-duration="0" data-podcast-title="Politics Podcast: Could The Inflation Reduction Act Save Biden's Approval Rating?">
-
-					<span><span>FiveThirtyEight</span></span>
-			
-		
-		<button aria-label="Play"></button>
-
-					<div>
-		
-		
-							<div>
-					<div>
-						<div></div>
-					</div>
-
-					<div> </div>
-
-					<audio preload="none" controls="controls">
-						<source src="https://www.podtrac.com/pts/redirect.mp3/traffic.megaphone.fm/ESP8042678434.mp3?updated=1659996040">
-					</source></audio>
-				</div>
-			
-					</div>
-		
-	</div>
-</div>
-<aside>
-	<div>
-		More: <a href="https://itunes.apple.com/us/podcast/fivethirtyeight-elections/id1077418457">Apple Podcasts</a> |
-		<span><a data-android-url="" href="http://m.espn.com/general/cast?id=14554755">ESPN App</a> |</span>
-		<a href="https://www.espn.com/espnradio/feeds/rss/podcast.xml?id=14554755">RSS</a>
-			</div>
-	</aside>
-
-
-
-
-<p data-paragraph="main">On Sunday, the Senate passed the largest climate change intervention bill in American history, the Inflation Reduction Act. In this installment of the <a href="https://fivethirtyeight.com/tag/politics-podcast/" target="_blank" rel="noopener">FiveThirtyEight Politics podcast</a>, the crew discusses whether Democrats could turn around Biden’s approval rating with this newest piece of legislation, assuming they can get it through the House. </p>
-
-
-
-<p data-paragraph="main">The team then reviews <a href="https://gothamist.com/news/ny-gov-kathy-hochul-has-early-lead-over-republican-rival-lee-zeldin-polls-show" target="_blank" rel="noopener">a polling experiment</a> that tested how live polls by Siena College compared with online and text message polls by Emerson College. They also give a preview of the latest round of polling from FiveThirtyEight’s collaboration with Ipsos, which broke down how Americans view gun violence and crime.</p>
-
-
-
-<p data-paragraph="main">Finally, the crew checks in on debates surrounding new abortion bans around the country, including Indiana’s, which was the first new legislation since the overturning of Roe v. Wade to ban abortions with few exceptions.</p>
-
-
-
-<p data-paragraph="main"><em>You can listen to the episode by clicking the “play” button in the audio player above or by </em><a href="https://itunes.apple.com/us/podcast/fivethirtyeight-elections/id1077418457?mt=2" target="_blank" rel="noopener"><em>downloading it in iTunes</em></a><em>, the </em><a href="http://www.espn.com/espn/mobile/products/products/_/id/6857590" target="_blank" rel="noopener"><em>ESPN App</em></a><em> or your favorite podcast platform. If you are new to podcasts, </em><a href="https://fivethirtyeight.com/how-to-listen-to-fivethirtyeight-podcasts/" target="_blank" rel="noopener"><em>learn how to listen</em></a><em>.</em></p>
-
-
-
-<p data-paragraph="main"><em>The FiveThirtyEight Politics podcast is recorded Mondays and Thursdays. Help new listeners discover the show by </em><a href="https://itunes.apple.com/us/podcast/fivethirtyeight-elections/id1077418457?mt=2" target="_blank" rel="noopener"><em>leaving us a rating and review on iTunes</em></a><em>. Have a comment, question or suggestion for “good polling vs. bad polling”? Get in touch by email, </em><a href="https://twitter.com/FiveThirtyEight" target="_blank" rel="noopener"><em>on Twitter</em></a><em> or in the comments.</em></p>]]></description>
-			<pubDate>Mon, 08 Aug 2022 22:57:00 +0100</pubDate>
-			<guid isPermaLink="false">1659996002106477</guid>
 		</item>
 
 	</channel>
