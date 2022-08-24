@@ -3,9 +3,35 @@
 		<title>Main stream | FreshRSS</title>
 		<link>http://radon</link>
 		<description>RSS feed of Main stream | FreshRSS</description>
-		<pubDate>Wed, 24 Aug 2022 00:59:07 +0100</pubDate>
-		<lastBuildDate>Tue, 23 Aug 2022 23:59:07 GMT</lastBuildDate>
+		<pubDate>Wed, 24 Aug 2022 01:29:06 +0100</pubDate>
+		<lastBuildDate>Wed, 24 Aug 2022 00:29:06 GMT</lastBuildDate>
 		<atom:link href="http://radon/i/?a=rss" rel="self" type="application/rss+xml" />
+		<item>
+			<title>Elections Today In New York, Florida And Oklahoma: Live Results And Updates</title>
+			<link>https://fivethirtyeight.com/live-blog/new-york-florida-election/</link>
+						<dc:creator>FiveThirtyEight</dc:creator>
+			<dc:creator>FiveThirtyEight</dc:creator>
+			<category>2022 Election</category>
+			<category>2022 Governors Elections</category>
+			<category>2022 House Elections</category>
+			<category>2022 Midterms</category>
+			<category>2022 Primaries</category>
+			<category>2022 Senate Elections</category>
+			<category>Donald Trump</category>
+			<category>Election Deniers</category>
+			<category>Florida Election Results</category>
+			<category>Florida Politics</category>
+			<category>Florida Primary</category>
+			<category>Live Blog</category>
+			<category>New York Election Results</category>
+			<category>New York Politics</category>
+			<category>New York Primary</category>
+			<category>Oklahoma Politics</category>
+			<category>Oklahoma Primary</category>
+			<description><![CDATA[]]></description>
+			<pubDate>Wed, 24 Aug 2022 00:00:00 +0100</pubDate>
+			<guid isPermaLink="false">1661299201873533</guid>
+		</item>
 		<item>
 			<title>13 Races To Watch In Florida And Oklahoma</title>
 			<link>https://fivethirtyeight.com/features/13-races-to-watch-in-florida-and-oklahoma/</link>
@@ -2870,31 +2896,6 @@
 <p data-paragraph="main"><em>Additional reporting by Zoha Qamar. Art direction by Dan Dao. Copy editing by Santul Nerkar. Story editing by Sarah Frostenson.</em></p>]]></description>
 			<pubDate>Wed, 10 Aug 2022 11:00:00 +0100</pubDate>
 			<guid isPermaLink="false">1660126500986039</guid>
-		</item>
-		<item>
-			<title>What Went Down In Elections In Minnesota, Wisconsin, Vermont And Connecticut</title>
-			<link>https://fivethirtyeight.com/live-blog/wisconsin-minnesota-election/</link>
-						<dc:creator>FiveThirtyEight</dc:creator>
-			<dc:creator>FiveThirtyEight</dc:creator>
-			<category>2022 Election</category>
-			<category>2022 Governors Elections</category>
-			<category>2022 House Elections</category>
-			<category>2022 Midterms</category>
-			<category>2022 Primaries</category>
-			<category>2022 Senate Elections</category>
-			<category>Connecticut Election results</category>
-			<category>Connecticut Primary</category>
-			<category>Election Deniers</category>
-			<category>Election Results</category>
-			<category>Live Blog</category>
-			<category>Minnesota Politics</category>
-			<category>Primary Results</category>
-			<category>Wisconsin Election Results</category>
-			<category>Wisconsin Politics</category>
-			<category>Wisconsin Primary</category>
-			<description><![CDATA[]]></description>
-			<pubDate>Wed, 10 Aug 2022 00:00:00 +0100</pubDate>
-			<guid isPermaLink="false">1660090501733104</guid>
 		</item>
 
 	</channel>
