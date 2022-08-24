@@ -3,9 +3,79 @@
 		<title>Main stream | FreshRSS</title>
 		<link>http://radon</link>
 		<description>RSS feed of Main stream | FreshRSS</description>
-		<pubDate>Wed, 24 Aug 2022 23:29:06 +0100</pubDate>
-		<lastBuildDate>Wed, 24 Aug 2022 22:29:06 GMT</lastBuildDate>
+		<pubDate>Wed, 24 Aug 2022 23:59:06 +0100</pubDate>
+		<lastBuildDate>Wed, 24 Aug 2022 22:59:06 GMT</lastBuildDate>
 		<atom:link href="http://radon/i/?a=rss" rel="self" type="application/rss+xml" />
+		<item>
+			<title>Politics Podcast: If The Midterms Were Tomorrow, Republicans Might Be In Trouble</title>
+			<link>https://fivethirtyeight.com/features/politics-podcast-if-the-midterms-were-tomorrow-republicans-might-be-in-trouble/</link>
+						<dc:creator>Galen Druke</dc:creator>
+			<dc:creator>FiveThirtyEight</dc:creator>
+			<category>2022 Midterms</category>
+			<category>2022 Primaries</category>
+			<category>FiveThirtyEight Podcasts</category>
+			<category>New York</category>
+			<category>Politics Podcast</category>
+			<category>Public Opinion</category>
+			<category>Special Elections</category>
+			<description><![CDATA[<div data-href="https://fivethirtyeight.com/features/politics-podcast-if-the-midterms-were-tomorrow-republicans-might-be-in-trouble/">
+	<div data-podcast-id="343100" data-podcast-duration="0" data-podcast-title="Politics Podcast: If The Midterms Were Tomorrow, Republicans Might Be In Trouble">
+
+					<span><span>FiveThirtyEight</span></span>
+			
+		
+		<button aria-label="Play"></button>
+
+					<div>
+		
+		
+							<div>
+					<div>
+						<div></div>
+					</div>
+
+					<div> </div>
+
+					<audio preload="none" controls="controls">
+						<source src="https://www.podtrac.com/pts/redirect.mp3/traffic.megaphone.fm/ESP7866890223.mp3?updated=1661376660">
+					</source></audio>
+				</div>
+			
+					</div>
+		
+	</div>
+</div>
+<aside>
+	<div>
+		More: <a href="https://itunes.apple.com/us/podcast/fivethirtyeight-elections/id1077418457">Apple Podcasts</a> |
+		<span><a data-android-url="" href="http://m.espn.com/general/cast?id=14554755">ESPN App</a> |</span>
+		<a href="https://www.espn.com/espnradio/feeds/rss/podcast.xml?id=14554755">RSS</a>
+			</div>
+	</aside>
+
+
+
+
+<p data-paragraph="main">Rep. Jerrold Nadler won his Manhattan primary against fellow Rep. Carolyn Maloney in a walk on Tuesday. And in downtown Manhattan, the former federal prosecutor and lead counsel in Trump’s first impeachment inquiry, Dan Goldman, pulled out a victory in a crowded field. </p>
+
+
+
+<p data-paragraph="main">Elsewhere in the state, Democrats overperformed in two special elections, including a win in New York’s 19th District, which is 4 percentage points more Republican than the nation, according to FiveThirtyEight’s partisan lean metric. </p>
+
+
+
+<p data-paragraph="main">In this installment of the FiveThirtyEight Politics podcast, the crew discusses what these results mean for the midterms this fall and where other indicators of the political environment are pointing.</p>
+
+
+
+<p data-paragraph="main"><em>You can listen to the episode by clicking the “play” button in the audio player above or by </em><a href="https://itunes.apple.com/us/podcast/fivethirtyeight-elections/id1077418457?mt=2" target="_blank" rel="noopener"><em>downloading it in iTunes</em></a><em>, the </em><a href="http://www.espn.com/espn/mobile/products/products/_/id/6857590" target="_blank" rel="noopener"><em>ESPN App</em></a><em> or your favorite podcast platform. If you are new to podcasts, </em><a href="https://fivethirtyeight.com/how-to-listen-to-fivethirtyeight-podcasts/" target="_blank" rel="noopener"><em>learn how to listen</em></a><em>.</em></p>
+
+
+
+<p data-paragraph="main"><em>The FiveThirtyEight Politics podcast is recorded Mondays and Thursdays. Help new listeners discover the show by </em><a href="https://itunes.apple.com/us/podcast/fivethirtyeight-elections/id1077418457?mt=2" target="_blank" rel="noopener"><em>leaving us a rating and review on iTunes</em></a><em>. Have a comment, question or suggestion for “good polling vs. bad polling”? Get in touch by email, </em><a href="https://twitter.com/FiveThirtyEight" target="_blank" rel="noopener"><em>on Twitter</em></a><em> or in the comments.</em></p>]]></description>
+			<pubDate>Wed, 24 Aug 2022 22:28:00 +0100</pubDate>
+			<guid isPermaLink="false">1661380201321906</guid>
+		</item>
 		<item>
 			<title>Yes, Special Elections Really Are Signaling A Better-Than-Expected Midterm For Democrats</title>
 			<link>https://fivethirtyeight.com/features/yes-special-elections-really-are-signaling-a-better-than-expected-midterm-for-democrats/</link>
@@ -2882,71 +2952,6 @@
 <p data-paragraph="main">He turned out to be a sales representative for a medical device company. Nuzzo sent him on his way and turned back to me. “Every strange man knocking at the door is just a new adventure,” she said. I asked her if she’d feel safer once the clinic was open and full of people, with all the new security measures in place. “Honestly?” she said. “I don’t think I’ll ever feel safe again.”</p>]]></description>
 			<pubDate>Thu, 11 Aug 2022 11:00:00 +0100</pubDate>
 			<guid isPermaLink="false">1660858201650432</guid>
-		</item>
-		<item>
-			<title>Politics Podcast: Democrats Over-Perform Again In Wake Of The Dobbs Decision</title>
-			<link>https://fivethirtyeight.com/features/politics-podcast-republican-outsiders-have-made-their-mark-this-cycle/</link>
-						<dc:creator>Galen Druke</dc:creator>
-			<dc:creator>FiveThirtyEight</dc:creator>
-			<category>2022 Midterms</category>
-			<category>FiveThirtyEight Podcasts</category>
-			<category>Minnesota</category>
-			<category>Politics Podcast</category>
-			<category>Vermont</category>
-			<category>Wisconsin</category>
-			<description><![CDATA[<div data-href="https://fivethirtyeight.com/features/politics-podcast-republican-outsiders-have-made-their-mark-this-cycle/">
-	<div data-podcast-id="341799" data-podcast-duration="0" data-podcast-title="Politics Podcast: Democrats Over-Perform Again In Wake Of The Dobbs Decision">
-
-					<span><span>FiveThirtyEight</span></span>
-			
-		
-		<button aria-label="Play"></button>
-
-					<div>
-		
-		
-							<div>
-					<div>
-						<div></div>
-					</div>
-
-					<div> </div>
-
-					<audio preload="none" controls="controls">
-						<source src="https://www.podtrac.com/pts/redirect.mp3/traffic.megaphone.fm/ESP5986716757.mp3?updated=1660168182">
-					</source></audio>
-				</div>
-			
-					</div>
-		
-	</div>
-</div>
-<aside>
-	<div>
-		More: <a href="https://itunes.apple.com/us/podcast/fivethirtyeight-elections/id1077418457">Apple Podcasts</a> |
-		<span><a data-android-url="" href="http://m.espn.com/general/cast?id=14554755">ESPN App</a> |</span>
-		<a href="https://www.espn.com/espnradio/feeds/rss/podcast.xml?id=14554755">RSS</a>
-			</div>
-	</aside>
-
-
-
-
-<p data-paragraph="main">In Minnesota’s special general election on Tuesday, Republican Brad Finstad won by only 4 percentage points in the 1st Congressional District, where then-President Donald Trump won by double digits in 2020, adding evidence to the idea that the GOP is experiencing a backlash after the Supreme Court’s decision on abortion. </p>
-
-
-
-<p data-paragraph="main">In this installment of the <a href="https://fivethirtyeight.com/tag/politics-podcast/" target="_blank" rel="noopener">FiveThirtyEight Politics podcast</a>, the crew breaks down this election as well as notable primary races in Minnesota, Vermont and Wisconsin. They also look at how incumbents are faring in the midterm primaries overall and discuss the FBI’s search of Mar-a-Lago, Trump’s home in Florida, and what that may mean for the Justice Department’s larger investigation.</p>
-
-
-
-<p data-paragraph="main"><em>You can listen to the episode by clicking the “play” button in the audio player above or by </em><a href="https://itunes.apple.com/us/podcast/fivethirtyeight-elections/id1077418457?mt=2" target="_blank" rel="noopener"><em>downloading it in iTunes</em></a><em>, the </em><a href="http://www.espn.com/espn/mobile/products/products/_/id/6857590" target="_blank" rel="noopener"><em>ESPN App</em></a><em> or your favorite podcast platform. If you are new to podcasts, </em><a href="https://fivethirtyeight.com/how-to-listen-to-fivethirtyeight-podcasts/" target="_blank" rel="noopener"><em>learn how to listen</em></a><em>.</em></p>
-
-
-
-<p data-paragraph="main"><em>The FiveThirtyEight Politics podcast is recorded Mondays and Thursdays. Help new listeners discover the show by </em><a href="https://itunes.apple.com/us/podcast/fivethirtyeight-elections/id1077418457?mt=2" target="_blank" rel="noopener"><em>leaving us a rating and review on iTunes</em></a><em>. Have a comment, question or suggestion for “good polling vs. bad polling”? Get in touch by email, </em><a href="https://twitter.com/FiveThirtyEight" target="_blank" rel="noopener"><em>on Twitter</em></a><em> or in the comments.</em></p>]]></description>
-			<pubDate>Wed, 10 Aug 2022 22:48:00 +0100</pubDate>
-			<guid isPermaLink="false">1660171501225498</guid>
 		</item>
 
 	</channel>
