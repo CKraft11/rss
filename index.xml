@@ -3,9 +3,36 @@
 		<title>Main stream | FreshRSS</title>
 		<link>http://radon</link>
 		<description>RSS feed of Main stream | FreshRSS</description>
-		<pubDate>Thu, 01 Sep 2022 11:59:07 +0100</pubDate>
-		<lastBuildDate>Thu, 01 Sep 2022 10:59:07 GMT</lastBuildDate>
+		<pubDate>Thu, 01 Sep 2022 12:29:07 +0100</pubDate>
+		<lastBuildDate>Thu, 01 Sep 2022 11:29:07 GMT</lastBuildDate>
 		<atom:link href="http://radon/i/?a=rss" rel="self" type="application/rss+xml" />
+		<item>
+			<title>Explore The Ways Republicans Or Democrats Could Win The Midterms</title>
+			<link>https://projects.fivethirtyeight.com/2022-flip-senate-house/</link>
+						<dc:creator>Ryan Best</dc:creator>
+			<dc:creator>Ryan Best， Jay Boice， Aaron Bycoffe and Nate Silver</dc:creator>
+			<category>2022 Election</category>
+			<category>2022 Election Forecast</category>
+			<description><![CDATA[<p>UPDATED Aug. 31, 2022, at 2:44 PM</p>
+<p>Explore The Ways Republicans Or Democrats Could Win The MidtermsPick the winner of each race to see how FiveThirtyEight’s forecast would change.</p>
+<p><a href="https://projects.fivethirtyeight.com/2022-election-forecast/">2022 election forecast</a><a href="https://fivethirtyeight.com/methodology/how-fivethirtyeights-house-and-senate-models-work/">How our forecast works</a></p>
+<p>By <a href="https://fivethirtyeight.com/contributors/ryan-best/">Ryan Best</a>, <a href="https://fivethirtyeight.com/contributors/jay-boice/">Jay Boice</a>, <a href="https://fivethirtyeight.com/contributors/aaron-bycoffe/">Aaron Bycoffe</a> and <a href="https://fivethirtyeight.com/contributors/nate-silver/">Nate Silver</a></p>
+<p>FiveThirtyEight’s Senate and House forecasts are based on myriad factors, with changes in one race often influencing odds in another. To see just how much individual races can change the forecast, first try picking different winners in key Senate races (or feel free to <a tabindex="0">skip ahead to key races in the House</a>!).<a tabindex="0" data-number="1" aria-label="Footnote 1. Select to expand footnote.">1</a> But beware, the choices you make in the Senate affect the House, and vice versa.</p>
+<p>iIncumbent candidate Scroll to see more racesDemocrats are <em>slightly favored</em> to win the Senate</p>
+<p>Based on FiveThirtyEight’s current forecast</p>
+<p>Republicans win33 in 100MAJORITY56REPSEATS5452525456DEMSEATSDemocrats win67 in 100Average: 50.656565454525250505050525254545656REPSEATSDEMSEATSMorelikelyMorelikelyRepublicans are <em>favored</em> to win the House</p>
+<p>Based on FiveThirtyEight’s current forecast</p>
+<p>Republicans win76 in 100MAJORITY270REPSEATS255240225225240255270DEMSEATSDemocrats win24 in 100Average: 228.7270270255255240240225225225225240240255255270270REPSEATSDEMSEATSMorelikelyMorelikelyWho will control Congress?</p>
+<p>Based on FiveThirtyEight’s current forecast</p>
+<p><strong>Republicans</strong> win <strong>both</strong> chambers<strong aria-hidden="true">33 in 100</strong><strong>Republicans</strong> win the Senate<br>
+<strong>Democrats</strong> win the House<strong aria-hidden="true">&lt;1 in 100</strong><strong>Democrats</strong> win the Senate<br>
+<strong>Republicans</strong> win the House<strong aria-hidden="true">43 in 100</strong><strong>Democrats</strong> win <strong>both</strong> chambers<strong aria-hidden="true">23 in 100</strong>Odds displayed in the graphics may not match numeric odds due to rounding.</p>
+<p>How this works: We start with the 40,000 simulations that our election forecast runs every time it updates. When you choose the winner of a race, we throw out any simulations where the outcome you picked didn’t happen and recalculate each party’s chances of winning each chamber using just the remaining simulations. If you choose enough unlikely outcomes, we’ll eventually wind up with so few simulations that we can’t produce accurate results. When that happens, we go back to our full set of simulations and run a series of regressions to see how your scenario might look if it turned up more often.</p>
+<p>In simplified terms, the regressions start off by looking at the vote share for each candidate in every simulation and seeing how the rest of the map changed in response to big or small wins. Let’s say you picked Democratic Sen. Raphael Warnock to win Georgia. In some of our simulations, Warnock may have won Georgia very narrowly, and in others, he may have lost it very narrowly. But in simulations where he won Georgia by a big margin, Democrats may have also won big in toss-up races and pulled some Democratic-leaning races into their column, while the reverse may be true in simulations where Warnock lost Georgia by a wide margin. We figure out how every other race tended to look in that full range of scenarios, tracking not just whether other Democratic candidates usually won other races but also how much they generally won or lost each one by.</p>
+<p>After all of that, we take some representative examples of scenarios that include the picks you made and use what we learned from our regression analysis to adjust all 40,000 simulations, and then recalculate win probabilities for each race and chamber of Congress. Finally, we blend those adjusted simulations with any of the original simulations that still apply and produce a final forecast.</p>]]></description>
+			<pubDate>Thu, 01 Sep 2022 11:00:00 +0100</pubDate>
+			<guid isPermaLink="false">1662030001344217</guid>
+		</item>
 		<item>
 			<title>Meet 6 Democrats Of Color Who Want To See Their Party Change</title>
 			<link>https://fivethirtyeight.com/features/meet-6-democrats-of-color-who-want-to-see-their-party-change/</link>
@@ -3463,176 +3490,6 @@
 			<description><![CDATA[]]></description>
 			<pubDate>Wed, 17 Aug 2022 01:59:00 +0100</pubDate>
 			<guid isPermaLink="false">1660858201650445</guid>
-		</item>
-		<item>
-			<title>Why Ilhan Omar Almost Lost Her Primary</title>
-			<link>https://fivethirtyeight.com/features/why-ilhan-omar-almost-lost-her-primary/</link>
-						<dc:creator>Alex Samuels</dc:creator>
-			<dc:creator>Alex Samuels</dc:creator>
-			<category>2022 Primaries</category>
-			<category>Democrats</category>
-			<category>Ilhan Omar</category>
-			<category>The Squad</category>
-			<description><![CDATA[<div>
-
-			<div>
-
-				<header><div>
-													<p><a href="https://fivethirtyeight.com/tag/the-squad/" name="">The Squad</a></p>
-						
-													<h1>Why Ilhan Omar Almost Lost Her Primary</h1>
-																	</div>
-
-										<div>
-						<div>
-															<p>By <a href="https://fivethirtyeight.com/contributors/alex-samuels/" title="" rel="author">Alex Samuels</a></p>
-							
-							<p>
-								<time>
-									Aug. 16, 2022, at 6:00 AM								</time></p>
-
-						</div>
-						<div>
-													</div> 
-					</div>
-					
-				</header><figure><span>
-									<div>
-						<picture><source media="(min-width: 768px)"><source><img alt="OMAR-DISLIKED-4×3" src="https://fivethirtyeight.com/wp-content/uploads/2022/08/OMAR-DISLIKED-4x3-1.png?w=916" data-sizes="(max-width: 768px) 100vw, (max-width: 1080px) 66vw, 684px" data-src="https://fivethirtyeight.com/wp-content/uploads/2022/08/OMAR-DISLIKED-4x3-1.png?w=916" data-srcset="https://fivethirtyeight.com/wp-content/uploads/2022/08/OMAR-DISLIKED-4x3-1.png?w=916 1x, https://fivethirtyeight.com/wp-content/uploads/2022/08/OMAR-DISLIKED-4x3-1.png?w=1832 2x"></source></source></picture></div>
-
-				
-			</span>
-
-			
-								<figcaption><p>PHOTO ILLUSTRATION BY EMILY SCHERER / GETTY IMAGES</p>
-											</figcaption></figure></div>
-
-			
-		</div>
-
-
-
-
-
-<p data-paragraph="main">Conventional wisdom suggests that members of opposing political parties <a href="https://fivethirtyeight.com/features/republicans-really-really-dislike-biden-but-its-not-just-about-him/" target="_blank" rel="noopener">don’t like each other</a> — and I mean <a href="https://fivethirtyeight.com/features/how-hatred-negative-partisanship-came-to-dominate-american-politics/" target="_blank" rel="noopener"><em>really </em>don’t like each other</a>. But what does it mean when members of your own party are seemingly aching to get you out of office too? </p>
-
-
-
-<p data-paragraph="main">Minnesota Rep. Ilhan Omar must be asking herself that question <a href="https://abcnews.go.com/Politics/ilhan-omar-squeaks-victory-tuesday-night-primary-surprises/story?id=88165446" target="_blank" rel="noopener">after nearly losing her primary</a> on Aug. 9. She is a <a href="https://fivethirtyeight.com/features/what-the-squad-tells-us-about-progressives-ability-to-win-voters-of-color/" target="_blank" rel="noopener">member of the progressive group</a> of mostly women of color commonly known as “the Squad,” and a week rarely goes by without one of them making headlines: New York Rep. Alexandria Ocasio-Cortez has been <a href="https://www.nytimes.com/2021/09/15/style/aoc-met-gala-dress.html" target="_blank" rel="noopener">repeatedly admonished</a> by both fans and critics for <a href="https://www.usatoday.com/story/news/factcheck/2022/07/27/fact-check-aoc-arrested-during-protest-supreme-court/10117539002/" target="_blank" rel="noopener">alleged political stunts</a>; Michigan Rep. Rashida Tlaib <a href="https://www.nbcnews.com/politics/congress/democratic-congresswoman-apologizes-distraction-caused-calling-trump-motherf-n956231" target="_blank" rel="noopener">stirred controversy</a> in 2019 for dropping the F-bomb while calling for then-President Donald Trump’s impeachment; and Massachusetts Rep. Ayanna Pressley <em>and </em>New York Rep. Jamaal Bowman <a href="https://www.nbcnews.com/politics/politics-news/reps-ayanna-pressley-jamaal-bowman-tweet-delete-defense-will-smiths-os-rcna21787" target="_blank" rel="noopener">faced blowback</a> in March for posting and then later deleting tweets that seemed to defend actor Will Smith for slapping comedian Chris Rock onstage at the Oscars.</p>
-
-
-
-<p data-paragraph="main">In other words, Omar isn’t the only one who’s attracted negative headlines over the years. But it does seem as if Omar routinely receives the most flak from both Republicans and<em> </em>Democrats. It’s a hard thing to quantify, but she may even be the Squad’s <em>most</em> controversial member.</p>
-
-
-
-<p data-paragraph="main">Why?</p>
-
-
-
-<p data-paragraph="main">To be sure, there is no one explanation for why Omar is seemingly so disliked. Perhaps more than her fellow Squad members, she has repeatedly questioned the U.S. government’s relationship with Israel in ways that have angered members of both parties. There was the time in 2019 when she responded to a tweet and said the American Israel Public Affairs Committee, a pro-Israel group, was “<a href="https://www.npr.org/2019/03/07/700901834/minnesota-congresswoman-ignites-debate-on-israel-and-anti-semitism" target="_blank" rel="noopener">all about the Benjamins</a>,” a comment that angered lawmakers from her own party (not to mention the GOP) because it invoked historical anti-Semitic tropes linking Jewish people with money and power. Then there was the time in 2021 when she compared the actions of the U.S. and Israel to those of <a href="https://www.bbc.com/news/world-us-canada-57436573" target="_blank" rel="noopener">militant Islamist groups Hamas and the Taliban</a>. But it’s not just her criticism of U.S. policy on Israel; she’s also had problems with politics at home. In fact, her <a href="https://www.nytimes.com/2022/08/10/us/politics/ilhan-omar-policing.html" target="_blank" rel="noopener">support for a 2021 ballot initiative</a> to replace the Minneapolis Police Department with a new Department of Public Safety may have turned off moderate Democratic voters in her primary last Tuesday, for example. </p>
-
-
-
-<p data-paragraph="main">Many members of the Squad have experienced <a href="https://www.politico.com/story/2019/07/14/trump-congress-go-back-where-they-came-from-1415692" target="_blank" rel="noopener">racist attacks</a>, but as a Muslim woman born in Somalia, Omar may be uniquely vulnerable to a particularly toxic mix of <a href="https://www.nytimes.com/video/us/politics/100000007372113/trump-biden-ilhan-omar-minnesota.html" target="_blank" rel="noopener">virulence and xenophobia</a>.</p>
-
-
-
-<p data-paragraph="main">“The fact that Omar still wears the hijab is a reminder that she’s maybe ‘not one of us’ or that she’s different,” said <a href="https://cla.umn.edu/about/directory/profile/mdminta" target="_blank" rel="noopener">Michael Minta</a>, a political scientist at the University of Minnesota, Twin Cities, who specializes in congressional politics as well as race and ethnic politics. In fact, Omar <a href="https://www.theguardian.com/us-news/2019/jan/03/ilhan-omar-hijab-congress-headwear" target="_blank" rel="noopener">is the first to wear a hijab</a> in Congress, and while Minta did say that fellow Squad member Tlaib, who is also Muslim, sometimes wears <a href="https://www.bbc.com/news/world-us-canada-46751362" target="_blank" rel="noopener">traditional Palestinian clothes</a>, she doesn’t do it often. “Omar, on the other hand, is a visible representation of what Islam is. She’s also Black. And that intersection makes her a lightning rod,” he said.</p>
-
-
-
-<p data-paragraph="main">Multiple Squad members have faced primary challengers this year. Omar and <a href="https://www.nytimes.com/interactive/2022/08/02/us/elections/results-missouri-us-house-district-1.html" target="_blank" rel="noopener">Rep. Cori Bush of Missouri</a> had four, Tlaib and Bowman had three<a data-footnote-id="17" href="https://fivethirtyeight.com/wp-json/wp/v2/espn_verticals/398#fn-17" data-footnote-content='&lt;p&gt;&lt;p&gt;Bowman had three challengers until one of them &lt;a href="https://www.facebook.com/Jaffe4NY" target="_blank" rel="noopener"&gt;suspended his campaign&lt;/a&gt; earlier this month.&lt;/p&gt;
-&lt;/p&gt;'><sup>17</sup></a> but Ocasio-Cortez and Pressley had <a href="https://www.bostonherald.com/2022/02/02/massachusetts-congressional-races-draw-few-challenges-so-far/" target="_blank" rel="noopener">none</a>. Only Omar has <a href="https://abcnews.go.com/Politics/minnesota-2022-primary-results/story?id=88109247" target="_blank" rel="noopener">come close to being defeated</a>. (We don’t yet know how Bowman will fare in his primary on Aug. 23, <a href="https://jewishinsider.com/2022/04/bowman-challenger-vedat-gashi-announces-470k-initial-fundraising-haul/" target="_blank" rel="noopener">but fundraising suggests</a> he may have a fight on his hands.) Still, Bush <a href="https://abcnews.go.com/Politics/missouri-2022-primary-election-results/story?id=87750676" target="_blank" rel="noopener">beat her nearest primary opponent</a> by about 43 percentage points; Tlaib won <a href="https://abcnews.go.com/Politics/michigan-2022-primary-election-results/story?id=87750801" target="_blank" rel="noopener">by about 41 points</a>. Omar, however, <a href="https://www.nytimes.com/interactive/2022/08/09/us/elections/results-minnesota-us-house-district-5.html" target="_blank" rel="noopener">won by only 2 points</a>. In fact, Omar is the <em>only</em> Squad member to face back-to-back competitive primaries <a href="https://www.vox.com/2018/10/31/18014442/midterms-election-2018-ilhan-omar-minnesota-5th" target="_blank" rel="noopener">following her initial 2018 win.</a></p>
-
-
-<section><header><h5>Why do Democrats dislike Rep. Ilhan Omar?</h5>
-<p>The margins by which the six U.S. House members known as “the Squad” have won as incumbents against their closest challengers in the 2020 and 2022 primaries, their 2022 districts and those districts’ partisan leans</p>
-</header><table data-carpenter-slug="samuels.ilhan-omar.2"><thead><tr aria-hidden="true"><th colspan="3" scope="colgroup"></th>
-<th colspan="2" scope="colgroup">win margin</th>
-</tr><tr><th colspan="1" scope="col">Squad member</th>
-<th colspan="1" scope="col">District</th>
-<th colspan="1" scope="col">District partisan lean</th>
-<th colspan="1" scope="col">2020 Primary</th>
-<th colspan="1" scope="col">2022 Primary</th>
-</tr></thead><tbody><tr><td>Ilhan Omar</td>
-<td>MN-05</td>
-<td><span></span>D+57</td>
-<td>+19.7</td>
-<td>+2.2</td>
-</tr><tr><td>Rashida Tlaib</td>
-<td>MI-12</td>
-<td><span></span>D+44</td>
-<td>+32.5</td>
-<td>+41.4</td>
-</tr><tr><td>Cori Bush</td>
-<td>MO-01</td>
-<td><span></span>D+52</td>
-<td>—</td>
-<td>+42.9</td>
-</tr><tr><td>Alexandria Ocasio-Cortez</td>
-<td>NY-14</td>
-<td><span></span>D+57</td>
-<td>+56.3</td>
-<td>—</td>
-</tr><tr><td>Jamaal Bowman</td>
-<td>NY-16</td>
-<td><span></span>D+40</td>
-<td>—</td>
-<td>—</td>
-</tr><tr><td>Ayanna Pressley</td>
-<td>MA-07</td>
-<td><span></span>D+73</td>
-<td>—</td>
-<td>—</td>
-</tr></tbody></table><footer><p>In the 2020 primaries, both Bush and Bowman challenged Democratic incumbents and won. Pressley ran unopposed.</p>
-<p>Bowman’s 2022 primary is on Aug. 23. Ocasio-Cortez and Pressley will run unopposed.</p>
-<p>Win margins for 2022 are current as of Aug. 15 at 2:30 p.m. Eastern.</p>
-<p>Sources: ABC News, State Election Offices</p>
-</footer></section><p data-paragraph="main">Unpacking why Omar’s most recent primary was so close, though, is hard for the reasons I cited earlier. “Anti-Muslim sentiment certainly plays a role,” said <a href="https://www.brookings.edu/experts/shadi-hamid/" target="_blank" rel="noopener">Shadi Hamid</a>, a senior fellow in the Center for Middle East Policy at the Brookings Institution who studies the intersection of religion and politics. “But it’s hard to know <em>how </em>much it plays a role in this specific case because you would have to disentangle that from the fact that [Omar’s] outspoken; she’s controversial; she wears the hijab and talks about Israel more than most members of Congress.”</p>
-
-
-
-<p data-paragraph="main">The University of Minnesota’s Minta, however, pointed to a number of missteps Omar had made at home. <a href="https://www.startribune.com/divided-left-field-of-minneapolis-mayoral-hopefuls-have-unified-message-don-t-rank-frey/600107813/" target="_blank" rel="noopener">For instance, she didn’t back</a> Minneapolis Mayor Jacob Frey’s reelection bid in part because he <a href="https://www.fox9.com/news/rep-omar-endorses-2-frey-opponents-for-minneapolis-mayor" target="_blank" rel="noopener">didn’t support the amendment change</a> to replace the city’s police department. Frey, in turn, <a href="https://www.startribune.com/minneapolis-mayor-jacob-frey-other-west-metro-mayors-endorse-don-samuels-over-rep-ilhan-omar/600195677/" target="_blank" rel="noopener">endorsed Omar’s main primary opponent</a>, former Minneapolis City Council and school board member Don Samuels.<a data-footnote-id="18" href="https://fivethirtyeight.com/wp-json/wp/v2/espn_verticals/398#fn-18" data-footnote-content="&lt;p&gt;&lt;p&gt;No relation to me.&lt;/p&gt;
-&lt;/p&gt;"><sup>18</sup></a> There’s not a ton of recent polling on Frey, but a <a href="https://www.kare11.com/article/news/politics/minneapolis-voters-split-on-frey-unfavorable-view-of-city-council/89-9a1c639f-8072-4c4d-a85b-50cee01d8465" target="_blank" rel="noopener">September survey suggests</a> that a majority of the city’s Black voters view him in a favorable light. “I think that having the incumbent mayor against you may have divided Omar’s coalition,” Minta said.</p>
-
-
-
-<p data-paragraph="main">Samuels also <a href="https://abcnews.go.com/Politics/ilhan-omar-faces-primary-challenger-hopes-find-weakness/story?id=88147930" target="_blank" rel="noopener">repeatedly criticized</a> Omar for her support of replacing the city’s police department with a Department of Public Safety, a bid <a href="https://vote.minneapolismn.gov/results-data/election-results/2021/ballot-questions/" target="_blank" rel="noopener">which ultimately failed</a> by roughly 12 points in November. Minta told me that Omar’s support for this ballot measure could have angered Black and white voters who didn’t want to disband the police department but wanted to reform it instead. On top of that, Omar has continued to call <a href="https://ilhanomar.com/issue/criminal-justice/" target="_blank" rel="noopener">for police reform</a>, which puts her at odds with other Democrats in the area who have moved away from calling for sweeping police reform in the years after <a href="https://fivethirtyeight.com/features/what-has-and-hasnt-changed-since-george-floyd-was-murdered/" target="_blank" rel="noopener">George Floyd’s murder in police custody</a>. Frey, for example, once promised to reform and rebuild the city’s police department <a href="https://www.startribune.com/minneapolis-mayor-freys-credibility-on-police-battered-by-false-claims-about-reform/600148638/" target="_blank" rel="noopener">but later retreated</a> from this pledge. Samuels, meanwhile, attempted to make the race against Omar a referendum on that November vote <a href="https://theintercept.com/2022/04/15/minnesota-policing-ilhan-omar-reelection-don-samuels/" target="_blank" rel="noopener">by touting his past support</a> for more resources and better training for police officers versus annihilating the department completely. </p>
-
-
-
-<p data-paragraph="main">“Some Black activists in the past have argued that Omar is out of touch with the community, particularly as it relates to ‘defund the police,’” Minta said. “There was also an uptick in crime in some of the urban areas in and around the city around the time when this proposal was going around, and many people still wanted police on the streets to fight crime. As a result, the more progressive messaging on policing was not in sync with some of the city resident’s demands.”</p>
-
-
-
-<p data-paragraph="main">It may also be the case, though, that Omar just <a href="https://www.washingtonpost.com/politics/2022/08/09/ilhan-omar-primary/" target="_blank" rel="noopener">didn’t take her primary challenge too seriously</a>. For instance, Omar and Samuels didn’t debate, and despite amassing a sizable war chest of her own — <a rel="noreferrer noopener" href="https://www.nytimes.com/2022/08/09/us/politics/ilhan-omar-faces-a-primary-challenge-in-her-minnesota-house-district.html" target="_blank">over $2.3 million</a> — Omar didn’t air any TV campaign ads against him. Samuels was also perhaps a surprisingly strong primary opponent. He had his own name recognition in the community as a longtime resident and activist of north Minneapolis and a former city council and school board member. He also <a href="https://www.startribune.com/samuels-outraises-omar-as-august-dfl-primary-approaches-according-to-new-campaign-finance-reports/600191471/" target="_blank" rel="noopener">raised a lot of money</a> — though <a href="https://www.fec.gov/data/elections/house/MN/05/2022/" target="_blank" rel="noopener">ultimately less</a> than Omar — which boosted his overall campaign and had the backing of a number of establishment Democrats in the area, plus <a href="https://www.startribune.com/samuels-over-omar-in-dfl-primary/600194820/" target="_blank" rel="noopener">the endorsement</a> of Minneapolis’s big newspaper, the Star Tribune, which put Omar in a tough spot even though she was the incumbent.</p>
-
-
-
-<p data-paragraph="main">But Omar’s struggles at home don’t fully explain what happened last Tuesday or why Omar has faced a primary challenge each time she has sought reelection. Remember, she’s the only member of the Squad to face back-to-back challenges while other outspoken members, like Ocasio-Cortez, have run unopposed.</p>
-
-
-
-<p data-paragraph="main">That brings us back to Omar’s identity. “She has these various identities that make her really susceptible to being targeted because she’s so visible,” said <a href="https://polisci.msu.edu/people/directory/lajevardi-nazita.html" target="_blank" rel="noopener">Nazita Lajevardi</a>, a political scientist at Michigan State University who studies political behavior as well as race and ethnic politics. “She’s a woman, first and foremost; she’s Black; she’s veiled, and she’s an immigrant. These four things are in a sense competing for how she can be really attacked, and they make her particularly vulnerable.” </p>
-
-
-
-<p data-paragraph="main">In fact, Lajevardi told me that Omar’s identity is likely one reason why so many Democrats feel emboldened to challenge her. Omar’s image has been <a href="https://www.washingtonpost.com/politics/2019/03/02/poster-linking-rep-ilhan-omar-sparks-outrage-injuries-wva-state-capitol/" target="_blank" rel="noopener">used by Republicans</a> as <a href="https://www.yahoo.com/news/lauren-boebert-calls-rep-ilhan-203009186.html" target="_blank" rel="noopener">a sort of bogey(wo)man</a> since she first won in 2018, and that, Lajevardi said, could buoy Democrats who want to similarly knock her down. It hasn’t helped, Lajevardi added, that establishment Democrats, <a href="https://www.theguardian.com/us-news/2021/jun/10/ilhan-omar-democrats-harassment-silencing-israel-hamas-taliban" target="_blank" rel="noopener">like House Speaker Nancy Pelosi</a>, have also <a href="https://www.wptv.com/news/world/house-speaker-nancy-pelosi-admonishes-freshman-rep-ilhan-omar-over-israel-tweet" target="_blank" rel="noopener">publicly admonished Omar</a>, which could also embolden moderate Democrats with similar views, like Samuels.</p>
-
-
-
-<p data-paragraph="main">While it’s true that Omar’s criticism of Israel may go too far for many Democrats, Lajevardi stressed that as an immigrant woman, Omar’s comments on Israel might be interpreted differently than if they came from someone who was white or born in the United States. “Nativity is super important here because people seem to think that if she questions how the United States might be responsible for any sort of harm or violence abroad, then perhaps that means she’s not loyal to the United States,” Lajevardi said. “When she’s critical of Israel, people aren’t just listening to arguments of somebody being critical of Israel, but the image of her — her body politics and identity — matters, too, in shaping how that message is received.”</p>
-
-
-
-<p data-paragraph="main">As a result, Omar’s an easy target in a way that other Squad members just aren’t. She is a disruptive representative because of who she is and what ideas she represents. And because she built a coalition with the progressive arm of the Democratic Party, which has an uneasy relationship with the rest of the party, she is an easy scapegoat for both establishment Democrats and Republicans. “So will she get another challenge in 2024? Seems likely,” Minta said. </p>
-
-
-
-<p data-paragraph="main"><strong>CLARIFICATION (Aug. 16, 1:37 p.m.):</strong> This story has been updated to explain that although no debate took place between Omar and Samuels, Omar’s campaign says she did not decline to debate him.</p>]]></description>
-			<pubDate>Tue, 16 Aug 2022 11:00:00 +0100</pubDate>
-			<guid isPermaLink="false">1660858201650443</guid>
 		</item>
 
 	</channel>
