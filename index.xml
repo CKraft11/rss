@@ -3,9 +3,74 @@
 		<title>Main stream | FreshRSS</title>
 		<link>http://radon</link>
 		<description>RSS feed of Main stream | FreshRSS</description>
-		<pubDate>Wed, 07 Sep 2022 00:29:06 +0100</pubDate>
-		<lastBuildDate>Tue, 06 Sep 2022 23:29:06 GMT</lastBuildDate>
+		<pubDate>Wed, 07 Sep 2022 00:59:06 +0100</pubDate>
+		<lastBuildDate>Tue, 06 Sep 2022 23:59:06 GMT</lastBuildDate>
 		<atom:link href="http://radon/i/?a=rss" rel="self" type="application/rss+xml" />
+		<item>
+			<title>Politics Podcast: What To Expect Between Now And Election Day</title>
+			<link>https://fivethirtyeight.com/features/politics-podcast-what-to-expect-between-now-and-election-day/</link>
+						<dc:creator>Galen Druke</dc:creator>
+			<dc:creator>FiveThirtyEight</dc:creator>
+			<category>Abortion</category>
+			<category>FiveThirtyEight Podcasts</category>
+			<category>Politics Podcast</category>
+			<category>Public Opinion</category>
+			<category>Student Debt</category>
+			<category>The Biden Administration</category>
+			<description><![CDATA[<div data-href="https://fivethirtyeight.com/features/politics-podcast-what-to-expect-between-now-and-election-day/">
+	<div data-podcast-id="343610" data-podcast-duration="0" data-podcast-title="Politics Podcast: What To Expect Between Now And Election Day">
+
+					<span><span>FiveThirtyEight</span></span>
+			
+		
+		<button aria-label="Play"></button>
+
+					<div>
+		
+		
+							<div>
+					<div>
+						<div></div>
+					</div>
+
+					<div> </div>
+
+					<audio preload="none" controls="controls">
+						<source src="https://www.podtrac.com/pts/redirect.mp3/traffic.megaphone.fm/ESP5620875797.mp3?updated=1662504910">
+					</source></audio>
+				</div>
+			
+					</div>
+		
+	</div>
+</div>
+<aside>
+	<div>
+		More: <a href="https://itunes.apple.com/us/podcast/fivethirtyeight-elections/id1077418457">Apple Podcasts</a> |
+		<span><a data-android-url="" href="http://m.espn.com/general/cast?id=14554755">ESPN App</a> |</span>
+		<a href="https://www.espn.com/espnradio/feeds/rss/podcast.xml?id=14554755">RSS</a>
+			</div>
+	</aside>
+
+
+
+
+<p data-paragraph="main">Labor Day traditionally marks the point at which general election campaigning truly ramps up — summer vacation is over, TV ads flood the airways and pollsters switch their models from registered voters to likely voters. In this installment of the <a href="https://fivethirtyeight.com/tag/politics-podcast/" target="_blank" rel="noopener">FiveThirtyEight Politics podcast</a>, the crew discusses how they expect the next few months leading up to the midterm elections to play out, based on historical trends.​​ They then play a game of midterm trivia, reviewing the largest midterm election swings, key policy issues and how Americans have followed past midterm news.</p>
+
+
+
+<p data-paragraph="main">The team also analyzes the media attention surrounding the Centers for Disease Control and Prevention’s recently published <a href="https://www.cdc.gov/nchs/data/vsrr/vsrr023.pdf" target="_blank" rel="noopener">life expectancy report</a> for 2021 and the political implications of falling life expectancy beyond the COVID-19 pandemic.</p>
+
+
+
+<p data-paragraph="main"><em>You can listen to the episode by clicking the “play” button in the audio player above or by </em><a href="https://itunes.apple.com/us/podcast/fivethirtyeight-elections/id1077418457?mt=2" target="_blank" rel="noopener"><em>downloading it in iTunes</em></a><em>, the </em><a href="http://www.espn.com/espn/mobile/products/products/_/id/6857590" target="_blank" rel="noopener"><em>ESPN App</em></a><em> or your favorite podcast platform. If you are new to podcasts, </em><a href="https://fivethirtyeight.com/how-to-listen-to-fivethirtyeight-podcasts/" target="_blank" rel="noopener"><em>learn how to listen</em></a><em>.</em></p>
+
+
+
+<p data-paragraph="main"><em>The FiveThirtyEight Politics podcast is recorded Mondays and Thursdays. Help new listeners discover the show by </em><a href="https://itunes.apple.com/us/podcast/fivethirtyeight-elections/id1077418457?mt=2" target="_blank" rel="noopener"><em>leaving us a rating and review on iTunes</em></a><em>. Have a comment, question or suggestion for “good polling vs. bad polling”? Get in touch by email, </em><a href="https://twitter.com/FiveThirtyEight" target="_blank" rel="noopener"><em>on Twitter</em></a><em> or in the comments.</em></p>]]></description>
+			<pubDate>Tue, 06 Sep 2022 23:52:00 +0100</pubDate>
+			<guid isPermaLink="false">1662507001201432</guid>
+		</item>
 		<item>
 			<title>Where Candidates Who Deny The 2020 Election Results Are On The Ballot — And Where They Could Win</title>
 			<link>https://projects.fivethirtyeight.com/republicans-trump-election-fraud/</link>
@@ -2795,306 +2860,6 @@
 <p data-paragraph="main"><em>The FiveThirtyEight Politics podcast is recorded Mondays and Thursdays. Help new listeners discover the show by </em><a href="https://itunes.apple.com/us/podcast/fivethirtyeight-elections/id1077418457?mt=2" target="_blank" rel="noopener"><em>leaving us a rating and review on iTunes</em></a><em>. Have a comment, question or suggestion for “good polling vs. bad polling”? Get in touch by email, </em><a href="https://twitter.com/FiveThirtyEight" target="_blank" rel="noopener"><em>on Twitter</em></a><em> or in the comments.</em></p>]]></description>
 			<pubDate>Mon, 22 Aug 2022 22:57:00 +0100</pubDate>
 			<guid isPermaLink="false">1661209201887150</guid>
-		</item>
-		<item>
-			<title>New York Is Holding Another Primary. Here’s Everything You Need To Know.</title>
-			<link>https://fivethirtyeight.com/features/new-york-is-holding-another-primary-heres-everything-you-need-to-know/</link>
-						<dc:creator>Nathaniel Rakich</dc:creator>
-			<dc:creator>Nathaniel Rakich</dc:creator>
-			<category>2022 Election</category>
-			<category>2022 Primaries</category>
-			<category>New York Primary</category>
-			<description><![CDATA[<div>
-
-			<div>
-
-				<header><div>
-													<p><a href="https://fivethirtyeight.com/tag/2022-election/" name="">2022 Election</a></p>
-						
-													<h1>New York Is Holding Another Primary. Here’s Everything You Need To Know.</h1>
-																	</div>
-
-										<div>
-						<div>
-															<p>By <a href="https://fivethirtyeight.com/contributors/nathaniel-rakich/" title="" rel="author">Nathaniel Rakich</a></p>
-							
-							<p>
-								<time>
-									Aug. 22, 2022, at 6:00 AM								</time></p>
-
-						</div>
-						<div>
-													</div> 
-					</div>
-					
-				</header><figure><span>
-									<div>
-						<picture><source media="(min-width: 768px)"><source><img alt="Election 2022 House NY District 12" src="https://fivethirtyeight.com/wp-content/uploads/2022/08/AP22230587759618-4x3-1.jpg?w=916" data-sizes="(max-width: 768px) 100vw, (max-width: 1080px) 66vw, 684px" data-src="https://fivethirtyeight.com/wp-content/uploads/2022/08/AP22230587759618-4x3-1.jpg?w=916" data-srcset="https://fivethirtyeight.com/wp-content/uploads/2022/08/AP22230587759618-4x3-1.jpg?w=916 1x, https://fivethirtyeight.com/wp-content/uploads/2022/08/AP22230587759618-4x3-1.jpg?w=1832 2x"></source></source></picture></div>
-
-				
-			</span>
-
-			
-								<figcaption>
-						For the third election in a row, longtime Democratic Rep. Carolyn Maloney, pictured here with her daughter, is facing a serious primary challenge.													<p>Mary Altaffer / AP Photo</p>
-											</figcaption></figure></div>
-
-			
-		</div>
-
-
-
-
-
-<p data-paragraph="main">In late April, New York was all set to hold its primary election as scheduled on June 28 when word came down from the New York Court of Appeals: The state’s Democratic-drawn congressional map was an <a href="https://fivethirtyeight.com/features/new-york-just-cost-democrats-their-big-redistricting-advantage/" target="_blank" rel="noopener">unconstitutional partisan gerrymander</a> and would have to be redrawn. </p>
-
-
-
-<p data-paragraph="main">The move threw both the calendar and campaigns into chaos. The need for more time to draw a new map led to the <a href="https://spectrumlocalnews.com/nys/central-ny/news/2022/04/29/ny-s-congressional--state-primaries-to-be-held-aug--23--judge-rules" target="_blank" rel="noopener">postponement of New York’s primaries</a> for Congress<a data-footnote-id="21" href="https://fivethirtyeight.com/wp-json/wp/v2/espn_verticals/398#fn-21" data-footnote-content="&lt;p&gt;&lt;p&gt;And for the state Senate, whose map was also thrown out.&lt;/p&gt;
-&lt;/p&gt;"><sup>21</sup></a> to Aug. 23 — this Tuesday. And the <a href="https://projects.fivethirtyeight.com/redistricting-2022-maps/new-york/court_plan/" target="_blank" rel="noopener">new map</a> has radically changed the configuration of several districts, separating many incumbents from their geographic base and setting off a game of electoral musical chairs. As a result, at least one incumbent, and possibly as many as five, will lose their primaries.</p>
-
-
-
-<p data-paragraph="main">In addition, there’s the usual menagerie of competitive primaries for rare open seats, plus two special elections that will continue to shed light on whether the national political environment has shifted toward Democrats in the wake of the Supreme Court’s decision in Dobbs v. Jackson. So without further ado, here are all the races you should be watching in New York this week.</p>
-
-
-
-<div><hr><span></span></div>
-
-
-
-
-<figure><img loading="lazy" width="1422" height="948" src="https://fivethirtyeight.com/wp-content/uploads/2022/08/GettyImages-1242584954-3x2-1.jpg" alt="" data-src="https://fivethirtyeight.com/wp-content/uploads/2022/08/GettyImages-1242584954-3x2-1.jpg" data-srcset="https://fivethirtyeight.com/wp-content/uploads/2022/08/GettyImages-1242584954-3x2-1.jpg?w=712 1x, https://fivethirtyeight.com/wp-content/uploads/2022/08/GettyImages-1242584954-3x2-1.jpg?w=1424 2x"><figcaption>Redistricting may have united the Upper West Side and Upper East Side of Manhattan in New York’s 12th District, but it has also pitted two longtime Democratic representatives, Jerrold Nadler and Carolyn Maloney, against each other. <p>Jeenah Moon / The Washington Post / Getty Images</p></figcaption></figure><p data-paragraph="main"><strong>Races to watch:</strong> 1st, 3rd, 4th, 10th, 12th, 16th, 17th, 18th, 19th, 22nd and 23rd congressional districts</p>
-
-
-
-<p data-paragraph="main"><strong>Polls close: </strong>9 p.m. Eastern</p>
-
-
-
-<p data-paragraph="main">The reason we know at least one incumbent will lose their primary? Two of them are running against each other in the Democratic primary for New York’s <strong>12th District</strong>. Rep. Jerrold Nadler has represented the Upper West Side of Manhattan for 30 years, while Rep. Carolyn Maloney has represented the Upper East Side for virtually the same amount of time.<a data-footnote-id="22" href="https://fivethirtyeight.com/wp-json/wp/v2/espn_verticals/398#fn-22" data-footnote-content="&lt;p&gt;&lt;p&gt;Both were first elected in 1992, but because Nadler’s district was vacant at the time, he was sworn in two months before Maloney.&lt;/p&gt;
-&lt;/p&gt;"><sup>22</sup></a> But this year, the two neighborhoods were (<a href="https://www.washingtonpost.com/politics/2022/05/21/only-new-york-upper-west-sides-nadler-taking-upper-east-sides-maloney/" target="_blank" rel="noopener">quite controversially</a>) drawn into the same seat.</p>
-
-
-
-<p data-paragraph="main">On paper, Maloney should be the favorite: She has outraised Nadler <a href="https://www.fec.gov/data/candidate/H2NY14037/?cycle=2022&amp;election_full=true" target="_blank" rel="noopener">$4.0 million</a> to <a href="https://www.fec.gov/data/candidate/H2NY17071/?cycle=2022&amp;election_full=true" target="_blank" rel="noopener">$1.9 million</a>, and 61 percent of the new district’s residents were also in her old district (the remaining 39 percent were in Nadler’s). However, not everyone in Maloney’s old district loves her; in 2020, she barely survived a primary challenge from attorney Suraj Patel. Though redistricting removed the most pro-Patel parts of Maloney’s old district (Queens and Brooklyn), Maloney defeated Patel only 50 percent to 37 percent in the Manhattan portion of the district in 2020. And much to Maloney’s chagrin, Patel is running here again in 2022, and he’s raised a serious amount of money too (<a href="https://www.fec.gov/data/candidate/H8NY12129/?cycle=2022&amp;election_full=true" target="_blank" rel="noopener">$1.3 million</a>).</p>
-
-
-
-<p data-paragraph="main">Ideology hasn’t been a major dividing line in the race, though. All three candidates support liberal policies, and both Nadler and Maloney have snagged major progressive endorsements: <a href="https://twitter.com/ewarren/status/1536695096632037376?lang=en" target="_blank" rel="noopener">Sen. Elizabeth Warren</a> and the <a href="https://nypost.com/2022/06/01/jerry-nadler-gets-working-families-party-endorsement-over-carolyn-maloney/" target="_blank" rel="noopener">Working Families Party</a> for Nadler, <a href="https://www.nydailynews.com/news/politics/new-york-elections-government/ny-election-2022-rep-carolyn-maloney-gloria-steinem-endorsement-20220126-xvffiqpepfaafigofd6sy2zltm-story.html" target="_blank" rel="noopener">Gloria Steinem</a> for Maloney. Instead, they’ve been campaigning more on identity. In a district with a significant Jewish population, Nadler has emphasized that he is the <a href="https://www.nytimes.com/2022/06/22/nyregion/jewish-congress-nadler-nyc.html" target="_blank" rel="noopener">last Jewish person representing New York City in the House</a>. Maloney, who shattered multiple glass ceilings early in her career, has argued that the Dobbs decision has made it especially important to <a href="https://www.nytimes.com/2022/08/16/nyregion/carolyn-maloney-women-nadler.html" target="_blank" rel="noopener">send a woman to Congress</a>. And the 38-year-old Patel is running against the two septuagenarians on an implicit message of <a href="https://www.nytimes.com/2022/07/14/nyregion/suraj-patel-nadler-maloney.html" target="_blank" rel="noopener">generational change</a>.</p>
-
-
-
-<p data-paragraph="main">But in the campaign’s closing days, Nadler has started to break out of the pack. In early August, Maloney had to <a href="https://www.bloomberg.com/news/articles/2022-08-04/carolyn-maloney-apologizes-to-joe-biden-for-saying-he-won-t-run-in-2024" target="_blank" rel="noopener">apologize</a> after her opponents <a href="https://www.ny1.com/nyc/all-boroughs/politics/2022/08/03/maloney-attempts-to-clean-up-comments-about-biden-s-future" target="_blank" rel="noopener">pounced on her</a> for a debate answer in which she said she didn’t think President Biden would run for reelection. Nadler also picked up two potentially meaningful endorsements: one from <a href="https://www.nytimes.com/2022/08/13/opinion/new-york-congress-jerrold-nadler.html" target="_blank" rel="noopener">The New York Times</a>, the other from <a href="https://www.ny1.com/nyc/all-boroughs/politics/2022/08/15/schumer-endorses-nadler-over-maloney" target="_blank" rel="noopener">Senate Majority Leader Chuck Schumer</a>. The <a href="https://emersoncollegepolling.com/new-york-district-12-poll-nadler-extends-lead-over-maloney-and-patel-in-ny-12-primary/" target="_blank" rel="noopener">most recent polling</a> (fielded Aug. 12-17 by Emerson College) now gives Nadler 43 percent support, Maloney 24 percent and Patel 14 percent. </p>
-
-
-
-<p data-paragraph="main">Redistricting could also cost Democratic Rep. Mondaire Jones his seat — but, in a twist, because he tried to <em>avoid</em> a member-versus-member primary. When New York’s new congressional map was finalized, Jones’s neighbor, Democratic Rep. Sean Patrick Maloney (no relation to Carolyn), got drawn out of his 18th District into Jones’s 17th District. Despite the fact that 74 percent of Maloney’s constituents remained in the 18th, Maloney quickly announced he would run for reelection in the (bluer) 17th — <a href="https://www.nydailynews.com/news/politics/us-elections-government/ny-mondaire-jones-sean-patrick-maloney-democratic-redistricting-20220517-rzoghopsmrbclglt2tkdaybeju-story.html" target="_blank" rel="noopener">without, Jones said, giving him a heads-up</a>. </p>
-
-
-
-<p data-paragraph="main">That left Jones, a progressive rising star and one of the two <a href="https://www.lohud.com/story/news/politics/2021/01/03/mondaire-jones-congress-house-of-representatives/4112104001/" target="_blank" rel="noopener">first openly gay Black members of Congress</a>, with only bad choices about where to run for reelection. Ultimately, he made the surprising decision to move <a href="https://twitter.com/JacobRubashkin/status/1527872550696628224?s=20&amp;t=TCZRffNPPuWFa1GakKLanw" target="_blank" rel="noopener">an hour’s drive south</a> and run in the deep-blue <strong>10th District</strong> in the heart of New York City — a seat with zero overlap with his political base.</p>
-
-
-
-<figure><img loading="lazy" width="1422" height="948" src="https://fivethirtyeight.com/wp-content/uploads/2022/08/AP22227694218105-3x2-1.jpg" alt="" data-src="https://fivethirtyeight.com/wp-content/uploads/2022/08/AP22227694218105-3x2-1.jpg" data-srcset="https://fivethirtyeight.com/wp-content/uploads/2022/08/AP22227694218105-3x2-1.jpg?w=712 1x, https://fivethirtyeight.com/wp-content/uploads/2022/08/AP22227694218105-3x2-1.jpg?w=1424 2x"><figcaption>State Assembly member Yuh-Line Niou and Rep. Mondaire Jones are two of the 13 names that will appear on the ballot for New York’s 10th District, making it one of the most hotly contested primaries of the night. <p>Mary Altaffer / AP Photo</p></figcaption></figure><p data-paragraph="main">Problem is, lots of ambitious local politicians have also had their eye on this (previously) open seat. For instance, state Assembly member Yuh-Line Niou has eaten into Jones’s progressive support, sporting <a href="https://www.cityandstateny.com/politics/2022/08/endorsements-new-yorks-10th-congressional-district/374474/" target="_blank" rel="noopener">endorsements</a> from the Working Families Party and New York City Public Advocate Jumaane Williams. New York City Council member Carlina Rivera is also running with the support of <a href="https://www.amny.com/politics/speaker-adrienne-adams-endorses-carlina-rivera/" target="_blank" rel="noopener">influential local leaders</a>, one of the state’s <a href="https://nypost.com/2022/07/05/seiu-1199-backs-carlina-rivera-in-crowded-dem-primary-ny-10/" target="_blank" rel="noopener">most powerful unions</a> and several Hispanic groups, one of which is <a href="https://www.politico.com/news/2022/08/18/latino-pac-drops-500-000-in-last-minute-ad-buy-for-new-york-congressional-candidate-00052438" target="_blank" rel="noopener">spending $500,000</a> on her behalf. Meanwhile, former Rep. Elizabeth Holtzman, who at the time of her election in 1972 was the <a href="https://history.house.gov/Oral-History/Women/Representative-Holtzman/" target="_blank" rel="noopener">youngest woman</a> ever elected to Congress,<a data-footnote-id="23" href="https://fivethirtyeight.com/wp-json/wp/v2/espn_verticals/398#fn-23" data-footnote-content='&lt;p&gt;&lt;p&gt;That distinction is &lt;a href="https://www.bu.edu/pardeeschool/2018/11/07/pardee-school-alumna-youngest-woman-ever-elected-to-congress/" target="_blank" rel="noopener"&gt;now held&lt;/a&gt; by fellow New Yorker Rep. Alexandria Ocasio-Cortez.&lt;/p&gt;
-&lt;/p&gt;'><sup>23</sup></a> is <a href="https://www.nytimes.com/2022/07/23/nyregion/liz-holtzman-congress.html" target="_blank" rel="noopener">seeking a comeback</a> after 42 years away from Washington. State Assembly member Jo Anne Simon could also be boosted by the fact that she’s the only candidate who currently holds office on the Brooklyn side of the district. And even former New York City Mayor Bill de Blasio briefly ran for the seat, although he <a href="https://gothamist.com/news/de-blasio-drops-out-of-crowded-congressional-race-citing-low-poll-numbers" target="_blank" rel="noopener">dropped out</a> in July due to lack of support.</p>
-
-
-
-<p data-paragraph="main">However, the home stretch of the campaign has been defined by yet another candidate: former federal prosecutor Daniel Goldman, who served as the lead Democratic counsel for then-President Donald Trump’s first impeachment trial. Goldman has already used his personal wealth (he is an heir to the <a href="https://www.politico.com/news/2022/07/21/denim-dynasty-cash-among-ny-10-contributions-flowing-from-outside-the-district-00046920" target="_blank" rel="noopener">Levi Strauss jeans fortune</a>) to raise <a href="https://www.fec.gov/data/candidate/H2NY10308/?cycle=2022&amp;election_full=true" target="_blank" rel="noopener">$3.4 million</a> for his campaign in the span of just two months (Jones, at <a href="https://www.fec.gov/data/candidate/H0NY17174/?cycle=2022&amp;election_full=true" target="_blank" rel="noopener">$3.6 million</a>, was the only other candidate to raise more than $640,000). And after spending at least <a href="https://www.politico.com/news/2022/08/11/goldman-fcc-ny-10-00050938" target="_blank" rel="noopener">$2.8 million</a> on TV ads, Goldman appears to have jumped out to a small lead: An <a href="https://emersoncollegepolling.com/new-york-district-10-primary-poll-goldman-leads-pack-while-niou-rivera-and-jones-remain-top-tier-contenders/" target="_blank" rel="noopener">Emerson College poll</a> conducted Aug. 10-13 put Goldman at 22 percent support, Niou at 17 percent, Jones at 13 percent, Rivera at 13 percent, Simon at 6 percent and Holtzman at 4 percent. On Aug. 13, Goldman also snagged the coveted endorsement of <a href="https://www.nytimes.com/2022/08/13/opinion/new-york-congress-dan-goldman.html" target="_blank" rel="noopener">The New York Times</a>, likely tipping even more voters in his direction.</p>
-
-
-
-<p data-paragraph="main">Back in the <strong>17th District</strong>, though, Sean Patrick Maloney may not get off scot-free. Many progressives resented Maloney’s strong-arming of Jones, and one of them, state Sen. Alessandra Biaggi, <a href="https://www.nytimes.com/2022/05/23/nyregion/biaggi-sean-patrick-maloney.html" target="_blank" rel="noopener">decided to run against him</a>. Biaggi has experience unseating powerful incumbents — in 2018, she defeated a former leader of the Independent Democratic Conference, a breakaway group of Democratic state senators who formed a governing coalition with Republicans — and progressives like the <a href="https://www.politico.com/news/2022/06/13/wfp-to-drop-maloney-endorsement-and-back-biaggi-00039040" target="_blank" rel="noopener">Working Families Party</a> and <a href="https://www.ny1.com/nyc/all-boroughs/inside-city-hall/2022/06/07/aoc-endorses-biaggi-in-primary-against-dccc-chair" target="_blank" rel="noopener">Rep. Alexandria Ocasio-Cortez</a> are solidly in her corner.</p>
-
-
-
-<figure><img loading="lazy" width="1422" height="948" src="https://fivethirtyeight.com/wp-content/uploads/2022/08/GettyImages-1415436381-3x2-1.jpg" alt="" data-src="https://fivethirtyeight.com/wp-content/uploads/2022/08/GettyImages-1415436381-3x2-1.jpg" data-srcset="https://fivethirtyeight.com/wp-content/uploads/2022/08/GettyImages-1415436381-3x2-1.jpg?w=712 1x, https://fivethirtyeight.com/wp-content/uploads/2022/08/GettyImages-1415436381-3x2-1.jpg?w=1424 2x"><figcaption>Rep. Sean Patrick Maloney’s decision to run in New York’s 17th District, currently represented by Rep. Mondaire Jones, has earned him the ire of progressives, one of whom, state Sen. Alessandra Biaggi, is challenging him for the seat. <p>Michael M. Santiago / Getty Images</p></figcaption></figure><p data-paragraph="main">By contrast, Maloney <a href="https://hvmag.com/archive/congressman-sean-patrick-maloney-mr-pragmatic-goes-back-to-washington/" target="_blank" rel="noopener">started his House career</a> as a moderate, but he has <a href="https://www.nytimes.com/2022/06/10/us/politics/ocasio-cortez-maloney-new-york-primary.html" target="_blank" rel="noopener">sounded more liberal lately</a>. He is, however, an establishment Democrat through and through: He chairs the Democratic Congressional Campaign Committee, and former President Bill Clinton (who lives in the newly drawn district) has <a href="https://www.nytimes.com/2022/08/10/nyregion/maloney-clinton-endorsement.html" target="_blank" rel="noopener">endorsed him</a>. Those connections have helped Maloney handily outraise Biaggi, <a href="https://www.fec.gov/data/candidate/H2NY22139/?cycle=2022&amp;election_full=true" target="_blank" rel="noopener">$4.0 million</a> to <a href="https://www.fec.gov/data/candidate/H2NY03196/?cycle=2022&amp;election_full=true" target="_blank" rel="noopener">$807,000</a>. Additionally, any disadvantage Maloney has from representing only 25 percent of the new district’s residents is nullified by the fact that Biaggi’s Senate district does not overlap at all with the new 17th. </p>
-
-
-
-<p data-paragraph="main">Unsurprisingly, then, both campaigns released <a href="https://www.politico.com/f/?id=00000182-369c-d60a-a1fe-76bcde140000" target="_blank" rel="noopener">internal</a> <a href="https://www.politico.com/f/?id=00000182-369e-d7d7-a3c2-f69e2c270000" target="_blank" rel="noopener">polls</a> in July giving Maloney the lead — though of course, they disagreed on its size. Averaging the two gives Maloney 43 percent and Biaggi 20 percent; however, 38 percent of voters were still undecided. </p>
-
-
-
-<p data-paragraph="main">Given his access to money and his more moderate reputation, Maloney would likely be Democrats’ stronger candidate here in the fall. And with a <a href="https://fivethirtyeight.com/features/how-red-or-blue-is-your-state-your-congressional-district/" target="_blank" rel="noopener">FiveThirtyEight partisan lean</a><a data-footnote-id="24" href="https://fivethirtyeight.com/wp-json/wp/v2/espn_verticals/398#fn-24" data-footnote-content="&lt;p&gt;&lt;p&gt;Partisan lean is the average margin difference between how a state or district votes and how the country votes overall. This version of partisan lean, meant to be used for congressional and gubernatorial elections, is calculated as 50 percent the state or district’s lean relative to the nation in the most recent presidential election, 25 percent its relative lean in the second-most-recent presidential election and 25 percent a custom state-legislative lean.&lt;/p&gt;
-&lt;/p&gt;"><sup>24</sup></a> of D+7, this district <a href="https://projects.fivethirtyeight.com/2022-election-forecast/house/new-york/17/" target="_blank" rel="noopener">could be vulnerable</a> in a pro-Republican midterm environment. For their part, the GOP has a five-way primary for the seat, with state Assembly member Michael Lawler the apparent front-runner. He has raised <a href="https://www.fec.gov/data/candidate/H2NY17162/?cycle=2022&amp;election_full=true" target="_blank" rel="noopener">$519,000</a>, more than twice the (<a href="https://www.fec.gov/data/candidate/H2NY16099/" target="_blank" rel="noopener">mostly self-funded</a>) total of his closest opponent, Somers Council member William Faulkner.</p>
-
-
-
-<figure><img loading="lazy" width="1422" height="948" src="https://fivethirtyeight.com/wp-content/uploads/2022/08/GettyImages-1385199257-3x2-1.jpg" alt="" data-src="https://fivethirtyeight.com/wp-content/uploads/2022/08/GettyImages-1385199257-3x2-1.jpg" data-srcset="https://fivethirtyeight.com/wp-content/uploads/2022/08/GettyImages-1385199257-3x2-1.jpg?w=712 1x, https://fivethirtyeight.com/wp-content/uploads/2022/08/GettyImages-1385199257-3x2-1.jpg?w=1424 2x"><figcaption>Rep. Jamaal Bowman is the latest member of the progressive “Squad” to face a nontrivial primary challenge from their right. <p>Michael M. Santiago / Getty Images</p></figcaption></figure><p data-paragraph="main">The final incumbent in potential danger on Tuesday is Democratic Rep. Jamaal Bowman in New York’s <strong>16th District</strong>. A member of “<a href="https://fivethirtyeight.com/features/what-the-squad-tells-us-about-progressives-ability-to-win-voters-of-color/" target="_blank" rel="noopener">the Squad</a>,” a group of progressive lawmakers of color, Bowman successfully primaried then-Rep. Eliot Engel from the left two years ago. But as such, Bowman still has enemies within the party, and he faces two nontrivial challengers: Westchester County legislators Vedat Gashi and Catherine Parker. Gashi boasts <a href="https://jewishinsider.com/2022/08/vedat-gashi-eliot-engel-jamaal-bowman-congress-primary-new-york/" target="_blank" rel="noopener">Engel’s endorsement</a> and has outraised Parker <a href="https://www.fec.gov/data/candidate/H2NY16081/?cycle=2022&amp;election_full=true" target="_blank" rel="noopener">$838,000</a> to <a href="https://www.fec.gov/data/candidate/H0NY17281/?cycle=2022&amp;election_full=true" target="_blank" rel="noopener">$374,000</a>, so he looks like the more serious threat to Bowman. However, the split in the anti-progressive vote will likely redound to the incumbent’s already-considerable advantage. His <a href="https://bowmanforcongress.com/endorsements/" target="_blank" rel="noopener">endorsements</a> run the gamut from Schumer and House Speaker Nancy Pelosi to Sen. Bernie Sanders and Ocasio-Cortez, and he has raised more money (<a href="https://www.fec.gov/data/candidate/H0NY16143/?cycle=2022&amp;election_full=true" target="_blank" rel="noopener">$1.6 million</a>) than Gashi and Parker combined.</p>
-
-
-
-<p data-paragraph="main">Next up are the several districts whose incumbents simply aren’t running for reelection, opening the door to primary scrums. Take the <strong>1st District</strong>, a Long Island seat from which Republican Rep. Lee Zeldin is retiring to run for governor. The Suffolk County Republican Party’s executive committee <a href="https://riverheadlocal.com/2022/02/22/in-race-to-succeed-zeldin-in-ny-01-as-democrats-gear-up-for-primary-county-republican-leadership-unites-behind-one-candidate/" target="_blank" rel="noopener">unanimously endorsed</a> Nick LaLota, the chief of staff of the county legislature, in the Republican primary back in February, but then cryptocurrency trader Michelle Bond jumped into the race in May. Since then, Bond has raised <a href="https://www.fec.gov/data/candidate/H2NY01257/?cycle=2022&amp;election_full=true" target="_blank" rel="noopener">$1.1 million</a> (including more than $800,000 of her own money), more than twice LaLota’s total (almost <a href="https://www.fec.gov/data/candidate/H2NY01190/?cycle=2022&amp;election_full=true" target="_blank" rel="noopener">$485,000</a>). Super PACs — including a pro-cryptocurrency group <a href="https://www.theblock.co/post/160714/crypto-booster-michelle-bond-is-running-for-congress-with-help-from-her-ftx-exec-boyfriend" target="_blank" rel="noopener">funded by Bond’s boyfriend</a>! — have also spent <a href="https://www.opensecrets.org/races/outside-spending?cycle=2022&amp;id=NY01&amp;spec=N" target="_blank" rel="noopener">more than $1 million</a> to help Bond win. </p>
-
-
-
-<p data-paragraph="main">The campaign has <a href="https://www.newsday.com/opinion/the-point/the-point-newsday-nick-lalota-michelle-bond-1st-congressional-district-o7kc32fw" target="_blank" rel="noopener">devolved into a series of attacks</a> over both candidates’ past work for Democrats and weak ties to the district (LaLota lives outside its boundaries; Bond just moved there this year). But while both candidates have tied themselves to Trump, the extreme pro-Trump group <a href="https://www.newsday.com/opinion/the-point/the-point-newsday-long-island-loud-majority-kevin-smith-shawn-farash-cait-corrigan-o7kc32fw" target="_blank" rel="noopener">Long Island Loud Majority</a> is in Bond’s corner. That may prove damaging, however, if she advances to the general election against presumptive Democratic nominee Bridget Fleming, given that this R+5 seat is <a href="https://projects.fivethirtyeight.com/2022-election-forecast/house/new-york/1/" target="_blank" rel="noopener">expected to be competitive this year</a>.</p>
-
-
-
-<p data-paragraph="main">A similar battle between Trumpy and Trumpier is unfolding in another open Republican primary on the opposite end of the state: in the <strong>23rd District</strong>, outside Buffalo. New York GOP Chair Nick Langworthy and real-estate developer Carl Paladino <a href="https://www.nytimes.com/2022/08/11/nyregion/carl-paladino-langworthy-primary.html" target="_blank" rel="noopener">used to be political allies</a>, but now they are competing against each other for the right to succeed Rep. Chris Jacobs in this safe-red (R+23) seat. And the primary has gotten <a href="https://nypost.com/2022/08/12/paladino-langworthy-trade-blows-as-bitter-upstate-ny-gop-house-race-gets-nastier/" target="_blank" rel="noopener">nasty</a>, with the candidates throwing around epithets like “Cowardly Carl” and “Lying Langworthy.”</p>
-
-
-
-<figure><img loading="lazy" width="1422" height="948" src="https://fivethirtyeight.com/wp-content/uploads/2022/08/GettyImages-627844786-3x2-1.jpg" alt="" data-src="https://fivethirtyeight.com/wp-content/uploads/2022/08/GettyImages-627844786-3x2-1.jpg" data-srcset="https://fivethirtyeight.com/wp-content/uploads/2022/08/GettyImages-627844786-3x2-1.jpg?w=712 1x, https://fivethirtyeight.com/wp-content/uploads/2022/08/GettyImages-627844786-3x2-1.jpg?w=1424 2x"><figcaption>Real-estate developer Carl Paladino, running for New York’s 23rd District, is in a dead heat with New York GOP Chair Nick Langworthy in what has proven to be a particularly nasty primary.</figcaption></figure><p data-paragraph="main">A Trump supporter since <a href="https://www.wgrz.com/article/news/politics/elections/erie-county-gop-chair-backs-trump-for-president/71-66400594" target="_blank" rel="noopener">early 2016</a>, Langworthy has <a href="https://www.politico.com/news/2022/07/28/charges-of-fake-trump-endorsement-roil-gop-primary-00048482" target="_blank" rel="noopener">hugged Trump closely</a> in his campaign — perhaps a little too closely, as Paladino has accused Langworthy of misleading voters into thinking Trump has endorsed him. (The former president has not weighed in.) But in many ways, Paladino is the OG Trump: He ran a grievance-fueled campaign for governor in 2010 in which he made <a href="https://buffalonews.com/news/local/the-highlights-and-lowlights-of-carl-paladinos-political-career/article_2fccf2e4-6eb4-5840-8b87-90d2a3088a2b.html" target="_blank" rel="noopener">sexist and homophobic comments</a> and <a href="https://www.youtube.com/watch?v=SisVSg9jov8" target="_blank" rel="noopener">threatened reporters</a>; in 2017, he was <a href="https://www.timesunion.com/7day-state/article/Report-Carl-Paladino-removed-from-Buffalo-school-11859264.php" target="_blank" rel="noopener">removed from the Buffalo school board</a> after making <a href="https://buffalonews.com/news/local/outrage-and-calls-for-paladino-to-resign-grow-over-obama-comments/article_35135d61-0032-59c4-b759-7e6276836750.html" target="_blank" rel="noopener">racist comments about Michelle Obama</a>. And in this campaign, he has the support of pro-Trump House members like <a href="https://twitter.com/jessemckinley/status/1549052639337336833?s=20&amp;t=PhrrflHYzKj6HSd5-3AdlQ" target="_blank" rel="noopener">Reps. Elise Stefanik and Matt Gaetz</a>.</p>
-
-
-
-<p data-paragraph="main">Paladino has also outraised Langworthy <a href="https://www.fec.gov/data/candidate/H2NY23202/?cycle=2022&amp;election_full=true" target="_blank" rel="noopener">$1.5 million</a> to <a href="https://www.fec.gov/data/candidate/H2NY23228/?cycle=2022&amp;election_full=true" target="_blank" rel="noopener">$370,000</a>, but almost all of Paladino’s haul came from his own bank account, while almost all of Langworthy’s is from individual donors, generally a better sign of public support. A pro-Langworthy super PAC has also helped close the spending gap with <a href="https://www.opensecrets.org/races/outside-spending?cycle=2022&amp;id=NY23&amp;spec=N" target="_blank" rel="noopener">more than $1 million</a> in spending. As a result, a <a href="https://buffalonews.com/news/local/govt-and-politics/paladino-langworthy-spar-over-campaigns-status-as-primary-day-draws-nearer/article_07003c14-1342-11ed-ba23-9fcf66167600.html" target="_blank" rel="noopener">poll from early August</a> put Langworthy at 39 percent and Paladino at 37 percent. A note of caution, though: While the poll itself was not sponsored by any interest group, the person who spearheaded the poll, Barry Zeplowitz, has given money to Langworthy’s campaign and worked for Langworthy previously.</p>
-
-
-
-<p data-paragraph="main">By contrast, the seat that Republican Rep. John Katko is retiring from — the new <strong>22nd District</strong> — leans Democratic by 2 percentage points, so the GOP primary to replace him has seen a lot less red meat. Former New York GOP Treasurer Steve Wells is the front-runner there, and he has <a href="https://www.syracuse.com/politics/2022/07/cny-race-for-congress-steve-wells-ducks-trump-talk-while-opponent-embraces-ex-prez.html" target="_blank" rel="noopener">avoided talking about Trump</a> on the stump — sometimes to the frustration of voters. That may leave an opening for Navy veteran Brandon Williams, who has embraced the former president (but not his lies that the 2020 election was stolen). Wells has outraised Williams <a href="https://www.fec.gov/data/candidate/H2NY22238/?cycle=2022&amp;election_full=true" target="_blank" rel="noopener">$691,000</a> to <a href="https://www.fec.gov/data/candidate/H2NY22212/?cycle=2022&amp;election_full=true" target="_blank" rel="noopener">$214,000</a>, but the race appears close enough that the cavalry has intervened: The Congressional Leadership Fund, a super PAC affiliated with House GOP leadership, swooped in last week with an almost <a href="https://www.syracuse.com/politics/2022/08/national-gop-group-boosts-steve-wells-with-300k-ad-blitz-as-his-campaign-donations-drop-off.html" target="_blank" rel="noopener">$300,000 TV-ad buy</a> to help Wells lock down the nomination.</p>
-
-
-
-<p data-paragraph="main">Either Wells or Williams will be in for a <a href="https://projects.fivethirtyeight.com/2022-election-forecast/house/new-york/22/" target="_blank" rel="noopener">tough race this fall</a> against whoever emerges from the Democratic primary here. Four Democrats are in the running, but the clear front-runner is Navy reservist Francis Conole, who has outraised his nearest opponent <a href="https://www.fec.gov/data/candidate/H0NY24063/?cycle=2022&amp;election_full=true" target="_blank" rel="noopener">$1.1 million</a> to <a href="https://www.fec.gov/data/candidate/H2NY24150/?cycle=2022&amp;election_full=true" target="_blank" rel="noopener">$133,000</a>. </p>
-
-
-
-<p data-paragraph="main">Democrats have a couple open seats of their own. Rep. Tom Suozzi left the <strong>3rd District</strong> behind to run (unsuccessfully) for governor, and the Democratic primary to replace him sports four serious candidates. The <a href="https://www.nydailynews.com/news/politics/new-york-elections-government/ny-election-2022-tom-suozzi-new-york-governor-campaign-20220613-chn534pnyrgcbc5y2hmcowv2nq-story.html" target="_blank" rel="noopener">centrist Suozzi</a> has <a href="https://twitter.com/JCColtin/status/1546483878117900294?s=20&amp;t=i_AZ9Y-uC7nQPw3LKTANbA" target="_blank" rel="noopener">endorsed</a> Nassau County Legislator Josh Lafazan, who is also Democrats’ top fundraiser in this race, with <a href="https://www.fec.gov/data/candidate/H2NY03162/?cycle=2022&amp;election_full=true" target="_blank" rel="noopener">$1.6 million</a>. Lafazan has said he, like Suozzi, would join the bipartisan <a href="https://twitter.com/JoshLafazan/status/1557071069223305224" target="_blank" rel="noopener">Problem Solvers Caucus</a> in Congress, but his opponents have <a href="https://www.newsday.com/long-island/politics/3rd-congressional-district-democratic-primary-kaiman-zimmerman-lafazan-darrigo-rasool-p3tp6wgu" target="_blank" rel="noopener">attacked him for being <em>too</em> bipartisan</a>, having once accepted the endorsement of the Conservative Party of New York and supported making police officers a protected class.</p>
-
-
-
-<p data-paragraph="main">Hoping to capitalize is Democratic National Committee member Robert Zimmerman, who is close behind with <a href="https://www.fec.gov/data/candidate/H2NY03188/?cycle=2022&amp;election_full=true" target="_blank" rel="noopener">$1.4 million raised</a>. Zimmerman, with <a href="https://zimmermanforcongress.com/endorsements/" target="_blank" rel="noopener">endorsements</a> from former Secretary of State Hillary Clinton and several current and past members of the New York congressional delegation, is the clear establishment pick and has <a href="https://www.cityandstateny.com/politics/2022/07/one-most-competitive-long-island-primaries-recent-memory-five-candidates-vie-replace-tom-suozzi/375103/" target="_blank" rel="noopener">more liberal views</a>. However, the race’s true progressive is community organizer Melanie D’Arrigo, who attempted to primary Suozzi in 2020 and, this time, boasts endorsements from <a href="https://ourrevolution.com/endorsements/" target="_blank" rel="noopener">Our Revolution</a> and <a href="https://indivisible.org/candidates" target="_blank" rel="noopener">Indivisible</a>. However, she has raised <a href="https://www.fec.gov/data/candidate/H0NY03075/?cycle=2022&amp;election_full=true" target="_blank" rel="noopener">less than $392,000</a>. Former Town of North Hempstead Supervisor Jon Kaiman, <a href="https://www.cityandstateny.com/politics/2022/07/one-most-competitive-long-island-primaries-recent-memory-five-candidates-vie-replace-tom-suozzi/375103/" target="_blank" rel="noopener">another centrist</a>, is the last serious contender: He’s raised <a href="https://www.fec.gov/data/candidate/H2NY03170/?cycle=2022&amp;election_full=true" target="_blank" rel="noopener">almost $644,000</a> and has the support of the well-organized Service Employees International Union, Local 32BJ.</p>
-
-
-
-<p data-paragraph="main">There’s no independent polling of the primary, but a <a href="https://www.newsday.com/opinion/the-point/the-point-newsday-cd3-primary-robert-zimmerman-lirr-electric-women-candidates-o7kc32fw" target="_blank" rel="noopener">July internal poll</a> from Zimmerman’s campaign gave him 17 percent, Kaiman 13 percent, D’Arrigo 12 percent and Lafazan 10 percent. Once you factor in the fact that internal polls <a href="https://fivethirtyeight.com/features/is-don-blankenship-really-surging-in-west-virginia/" target="_blank" rel="noopener">tend to overstate their sponsors</a>, that’s consistent with a four-way toss-up. But the candidates should get used to that: Whoever wins the Democratic nod will be thrown into a highly competitive general election. While the <a href="https://projects.fivethirtyeight.com/2022-election-forecast/house/new-york/3/" target="_blank" rel="noopener">FiveThirtyEight forecast</a> currently says Lafazan would be ever-so-slightly favored to beat presumptive GOP nominee George Santos, a more liberal candidate may be an underdog.</p>
-
-
-
-<p data-paragraph="main">Next door in the <strong>4th District</strong>, Democratic Rep. Kathleen Rice is also retiring, and the <a href="https://www.cityandstateny.com/politics/2022/08/long-island-supposedly-safe-democratic-district-still-reeling-2021-red-wave/375736/" target="_blank" rel="noopener">Democratic primary</a> will probably decide who succeeds her in the House (though, with a D+10 partisan lean, the seat <a href="https://projects.fivethirtyeight.com/2022-election-forecast/house/new-york/4/" target="_blank" rel="noopener">isn’t <em>totally</em> safe</a>). On paper, the front-runner is former Town of Hempstead Supervisor Laura Gillen, a self-described “<a href="https://jewishinsider.com/2022/03/laura-gillen-hopes-to-follow-in-kathleen-rices-footsteps/" target="_blank" rel="noopener">moderate to conservative Democrat</a>” who has raised <a href="https://www.fec.gov/data/candidate/H2NY04244/?cycle=2022&amp;election_full=true" target="_blank" rel="noopener">$630,500</a>. However, some observers think New York Democratic Party Chair Jay Jacobs is <a href="https://www.newsday.com/long-island/politics/jay-jacobs-rice-corbett-congress-nassau-ioas4adg" target="_blank" rel="noopener">putting a thumb on the scale</a> for Malverne Village Mayor Keith Corbett, who has raised a respectable <a href="https://www.fec.gov/data/candidate/H2NY04269/?cycle=2022&amp;election_full=true" target="_blank" rel="noopener">$414,000</a>. Despite Gillen’s moderation, Jacobs <a href="https://www.newsday.com/long-island/politics/corbett-congress-4th-district-rice-malverne-t37045" target="_blank" rel="noopener">has claimed</a> that Corbett is more electable than she is. (After Gillen allegedly told him serving in Congress has been a dream of hers since she was a little girl, Jacobs replied, “I’m not here to help people with their dreams. I’m here to elect Democrats.”) Gillen’s <a href="https://www.newsday.com/opinion/the-point/the-point-newsday-nassau-redistricting-ny-primary-turnout-laura-gillen-o7kc32fw" target="_blank" rel="noopener">internal polls</a> say she has nothing to worry about, but we’ll be keeping an eye on this race just the same.</p>
-
-
-
-<p data-paragraph="main"></p>
-
-
-
-<figure><img loading="lazy" width="1422" height="948" src="https://fivethirtyeight.com/wp-content/uploads/2022/08/GettyImages-1242580180-3x2-1.jpg" alt="" data-src="https://fivethirtyeight.com/wp-content/uploads/2022/08/GettyImages-1242580180-3x2-1.jpg" data-srcset="https://fivethirtyeight.com/wp-content/uploads/2022/08/GettyImages-1242580180-3x2-1.jpg?w=712 1x, https://fivethirtyeight.com/wp-content/uploads/2022/08/GettyImages-1242580180-3x2-1.jpg?w=1424 2x"><figcaption>Democrat Pat Ryan is facing off against Republican Marc Molinaro in a heated special election for New York’s 19th District, which was vacated by Antonio Delgado once he was appointed as lieutenant governor. <p>Bill Clark / CQ-Roll Call, Inc / Getty Images</p></figcaption></figure><p data-paragraph="main">Finally, New York will hold special general elections to fill two vacant seats in the House. By far the one that has gotten the most attention is in the <strong>19th District</strong>, which became vacant after Democratic Rep. Antonio Delgado <a href="https://www.nydailynews.com/news/politics/new-york-elections-government/ny-antonio-delgado-lieutenant-governor-hochul-albany-20220525-cj45ukhvonh3nfdaelyq6epyku-story.html" target="_blank" rel="noopener">resigned to become lieutenant governor</a>. Now, Republicans believe they have an excellent chance to flip this R+4 seat. The National Republican Campaign Committee has spent <a href="https://www.opensecrets.org/parties/indexp.php?cmte=NRCC&amp;cycle=2022" target="_blank" rel="noopener">$1.2 million</a> attacking the Democratic candidate, Ulster County Executive Pat Ryan, with ads like <a href="https://nrcc.org/2022/08/03/new-ny-19-tv-ad-criminals-and-coddlers/" target="_blank" rel="noopener">this one</a> focused on public safety. Meanwhile, Republican Dutchess County Executive Marc Molinaro is a GOP rising star who still garners name recognition for his unsuccessful 2018 gubernatorial campaign, when he carried this district by <a href="https://www.elections.ny.gov/NYSBOE/elections/2018/general/2018GovByCD.pdf" target="_blank" rel="noopener">11 percentage points</a>.</p>
-
-
-
-<p data-paragraph="main">All we have to go off here are internal polls, but we can triangulate that Molinaro is probably a slight favorite. In late July, a <a href="https://nypost.com/2022/08/02/marc-molinaro-leads-pat-ryan-in-ny-congressional-race-poll/" target="_blank" rel="noopener">poll commissioned by a pro-Molinaro group</a> found the Republican ahead 50 percent to 40 percent. But then, in early August, a <a href="https://twitter.com/mahoneyw/status/1559233246721974277?s=20&amp;t=q_RPwV3F_nJuRJwQVDijfA" target="_blank" rel="noopener">DCCC poll</a> put Molinaro at 46 percent and Ryan at 43 percent. Since each of those polls is probably a bit biased toward their side, we can guesstimate that Molinaro’s real lead is in the mid-single digits. </p>
-
-
-
-<p data-paragraph="main">However, there is actually a chance that both Molinaro and Ryan are in Congress next year. That’s because this special election is for the old, pre-redistricting 19th District — but the <a href="https://projects.fivethirtyeight.com/redistricting-2022-maps/new-york/" target="_blank" rel="noopener">new congressional map</a> that takes effect for November’s election carves that district up. Ryan is seeking a full term in the new <strong>18th District</strong>, the district Sean Patrick Maloney left behind. (That means Ryan is running in a Democratic primary in a different district at the same time he is competing in this special election. However, he shouldn’t have much trouble defeating his two underfunded opponents, CNN contributor Aisha Mills and financial adviser Moses Mugulusi.)</p>
-
-
-
-<p data-paragraph="main">Meanwhile, Molinaro is seeking a full term in the <strong>new 19th District</strong>, where he is unopposed in the Republican primary, but in this district, there <em>is</em> a primary to watch on the Democratic side. Attorney Josh Riley has raised the most cash overall (<a href="https://www.fec.gov/data/candidate/H8NY22177/?cycle=2022&amp;election_full=true" target="_blank" rel="noopener">$1.4 million</a>), but business owner Jamie Cheney has raised <a href="https://www.fec.gov/data/candidate/H2NY19135/?cycle=2022&amp;election_full=true" target="_blank" rel="noopener">more than $631,000</a> in just three months of campaigning — a faster <em>rate</em> of fundraising.</p>
-
-
-<p>Watch: https://abcnews.go.com/fivethirtyeight/video/election-deniers-running-florida-york-fivethirtyeight-88692918</p>
-
-
-<p data-paragraph="main">Tuesday’s other special election is in the <strong>old 23rd District</strong>, from which Republican Rep. Tom Reed <a href="https://rollcall.com/2022/05/10/ny-rep-tom-reed-resigns-cites-extremism-in-house/" target="_blank" rel="noopener">resigned in May</a> in order to take a job at a lobbying firm. (That said, Reed was already <a href="https://www.localsyr.com/news/local-news/rep-tom-reed-apologizes-after-sexual-harassment-allegations-wont-run-for-governor-re-election/" target="_blank" rel="noopener">not running for reelection</a> in light of allegations that he had made unwanted sexual advances toward a lobbyist.) Given the seat’s R+15 partisan lean, Steuben County Republican Party Chair Joe Sempolinski is the odds-on favorite to defeat Tioga County Democratic Committee Chair Max Della Pia (however, because Sempolinski is not running in the regularly scheduled primary, he would serve in Congress for only a few months). </p>
-
-
-
-<p data-paragraph="main">We’re still watching the margin, though, because of what it could say about the national political environment. When one party consistently does better in special elections than the partisan lean of districts would suggest, it has historically been a <a href="https://fivethirtyeight.com/features/special-elections-so-far-point-to-a-democratic-wave-in-2018/" target="_blank" rel="noopener">good sign for that party</a> in the <a href="https://fivethirtyeight.com/features/some-early-clues-about-how-the-midterms-will-go/" target="_blank" rel="noopener">upcoming midterms</a>. And while special elections overall since Biden’s inauguration <a href="https://fivethirtyeight.com/features/what-can-special-elections-so-far-tell-us-about-the-2022-midterms/" target="_blank" rel="noopener">haven’t advantaged one party over the other</a>, things may have shifted since the Dobbs decision in late June. Democrats outperformed their partisan baseline in the two special elections following the decision. The margin in Nebraska’s 1st District was 12 points better for Democrats than partisan lean would have predicted, and the margin in Minnesota’s 1st was 11 points better.</p>
-
-
-<div>
-<section><header><h5>2021-22 special elections have been a mixed bag</h5>
- <p>How the final vote-share margins in federal special elections in the 2022 cycle compare with the seats’ FiveThirtyEight partisan leans</p>
- </header><table data-carpenter-slug="rakich.special-elex.5"><thead><tr><th colspan="1" scope="col">Date</th>
- <th colspan="1" scope="col">Seat</th>
- <th colspan="1" scope="col">Partisan Lean</th>
- <th colspan="1" scope="col">Vote Margin</th>
- <th colspan="1" scope="col">Margin Swing</th>
- </tr></thead><tbody><tr><td>March 20, 2021</td>
- <td>Louisiana 2nd*</td>
- <td>D+51</td>
- <td>D+66</td>
- <td>D+15</td>
- </tr><tr><td>March 20, 2021</td>
- <td>Louisiana 5th*</td>
- <td>R+31</td>
- <td>R+45</td>
- <td>R+13</td>
- </tr><tr><td>May 1, 2021</td>
- <td>Texas 6th*</td>
- <td>R+11</td>
- <td>R+25</td>
- <td>R+14</td>
- </tr><tr><td>June 1, 2021</td>
- <td>New Mexico 1st</td>
- <td>D+18</td>
- <td>D+25</td>
- <td>D+7</td>
- </tr><tr><td>Nov. 2, 2021</td>
- <td>Ohio 11th</td>
- <td>D+57</td>
- <td>D+58</td>
- <td>EVEN</td>
- </tr><tr><td>Nov. 2, 2021</td>
- <td>Ohio 15th</td>
- <td>R+19</td>
- <td>R+17</td>
- <td>D+2</td>
- </tr><tr><td>Jan. 11, 2022</td>
- <td>Florida 20th</td>
- <td>D+53</td>
- <td>D+60</td>
- <td>D+7</td>
- </tr><tr><td>June 7, 2022</td>
- <td>California 22nd</td>
- <td>R+11</td>
- <td>R+24</td>
- <td>R+14</td>
- </tr><tr><td>June 14, 2022</td>
- <td>Texas 34th*</td>
- <td>D+5</td>
- <td>R+5</td>
- <td>R+10</td>
- </tr><tr><td>June 28, 2022</td>
- <td>Nebraska 1st</td>
- <td>R+17</td>
- <td>R+5</td>
- <td>D+12</td>
- </tr><tr><td>Aug. 9, 2022</td>
- <td>Minnesota 1st</td>
- <td>R+15</td>
- <td>R+4</td>
- <td>D+11</td>
- </tr><tr><td></td>
- <td>Average</td>
- <td>D+7</td>
- <td>D+8</td>
- <td>EVEN</td>
- </tr></tbody></table><footer><p>Partisan lean is the average margin difference between how a state or district votes and how the country votes overall. This version of partisan lean, meant to be used for congressional and gubernatorial elections, is calculated as 50 percent the state or district’s lean relative to the nation in the most recent presidential election, 25 percent its relative lean in the second-most-recent presidential election and 25 percent a custom state-legislative lean.</p>
- <p>The Aug. 16 special election in Alaska is excluded because it was a ranked-choice election and the results are not yet final.</p>
- <p>*Vote margin is the total vote share of all Democratic candidates combined minus the total vote share of all Republican candidates combined.</p>
- <p>Source: State election offices</p>
- </footer></section></div>
-
-
-<p data-paragraph="main">That said, last Tuesday, Alaska held a special House election where <em>Republicans</em> are currently doing 8 points better than partisan lean would suggest — but it’s hard to know how much stock to put in that. That election used ranked-choice voting, and the ranked-choice tabulations haven’t taken place yet (that 8-point overperformance is based solely on voters’ first-place votes). In addition, many absentee ballots still haven’t been counted yet, so the margin of first-place votes will probably change as well.</p>
-
-
-
-<p data-paragraph="main">This is where the special elections in New York will come in handy. They’ll give us two more data points, allowing us to say with more certainty whether the political winds have shifted. If Democrats win in the 19th District and come within, say, single digits in the 23rd, it will be a strong sign that the Dobbs decision really has given Democrats a shot in the arm. If not, though, we may not be in a Democratic-leaning political environment after all.</p>
-
-
-
-<div><hr><span></span></div>
-
-
-
-
-<p data-paragraph="main">That’s already a ton of races to watch — but New York isn’t the only state holding its primary on Tuesday. Tomorrow, my colleague Geoffrey Skelley will preview all the important races in Florida and Oklahoma. And remember to join us on Tuesday night for our <a href="https://fivethirtyeight.com/live-blog/" target="_blank" rel="noopener">live blog</a> of the results.</p>
-
-
-
-<p data-paragraph="main"><strong>CORRECTION (Aug. 22, 2022, 3:00 p.m.): </strong>A previous version of this article said the Congressional Progressive Caucus endorsed Rep. Carolyn Maloney, but it only endorsed Maloney pre-redistricting and not under the current district lines, as both Maloney and Rep. Jerrold Nadler are members of the CPC.</p>]]></description>
-			<pubDate>Mon, 22 Aug 2022 11:00:00 +0100</pubDate>
-			<guid isPermaLink="false">1661164201233202</guid>
 		</item>
 
 	</channel>
