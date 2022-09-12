@@ -3,8 +3,8 @@
 		<title>Main stream | FreshRSS</title>
 		<link>http://radon</link>
 		<description>RSS feed of Main stream | FreshRSS</description>
-		<pubDate>Mon, 12 Sep 2022 16:29:07 +0100</pubDate>
-		<lastBuildDate>Mon, 12 Sep 2022 15:29:07 GMT</lastBuildDate>
+		<pubDate>Mon, 12 Sep 2022 16:59:07 +0100</pubDate>
+		<lastBuildDate>Mon, 12 Sep 2022 15:59:07 GMT</lastBuildDate>
 		<atom:link href="http://radon/i/?a=rss" rel="self" type="application/rss+xml" />
 		<item>
 			<title>Why Republicans Keep Failing To Pass Abortion Bans</title>
@@ -26,7 +26,7 @@
 										<div>
 						<div>
 															<p>By <a href="https://fivethirtyeight.com/contributors/amelia-thomson-deveaux/" title="" rel="author">Amelia Thomson-DeVeaux</a></p>
-							
+							<p>Graphics by <a href="https://fivethirtyeight.com/contributors/humera-lodhi/" rel="author">Humera Lodhi</a></p>
 							<p>
 								<time>
 									Sep. 12, 2022, at 6:00 AM								</time></p>
