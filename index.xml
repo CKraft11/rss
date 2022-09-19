@@ -3,8 +3,8 @@
 		<title>Main stream | FreshRSS</title>
 		<link>http://radon</link>
 		<description>RSS feed of Main stream | FreshRSS</description>
-		<pubDate>Mon, 19 Sep 2022 20:59:06 +0100</pubDate>
-		<lastBuildDate>Mon, 19 Sep 2022 19:59:06 GMT</lastBuildDate>
+		<pubDate>Mon, 19 Sep 2022 21:29:06 +0100</pubDate>
+		<lastBuildDate>Mon, 19 Sep 2022 20:29:06 GMT</lastBuildDate>
 		<atom:link href="http://radon/i/?a=rss" rel="self" type="application/rss+xml" />
 		<item>
 			<title>Lindsey Graham’s Abortion Ban Is Dividing GOP Senate Candidates In Swing States</title>
@@ -55,11 +55,7 @@
 
 
 
-<p data-paragraph="main">Last week, Republican Sen. Lindsey Graham <a href="https://www.nytimes.com/2022/09/13/us/politics/lindsey-graham-abortion.html" target="_blank" rel="noopener">introduced a 15-week federal abortion ban</a>, to the consternation of <a href="https://thehill.com/homenews/senate/3649653-these-15-gop-senators-have-signaled-opposition-to-grahams-abortion-ban/" target="_blank" rel="noopener">many of his Senate colleagues</a>. Republicans at every level of government are <a href="https://fivethirtyeight.com/features/why-republicans-keep-failing-to-pass-abortion-bans/" target="_blank" rel="noopener">splintering over how far their abortion bans should go</a>, and, judging by the campaign trail, Graham’s proposal is yet another wedge. </p>
-
-
-
-<p data-paragraph="main">We took a look at how Republican candidates are responding in the 10 closest Senate races, according <a href="https://projects.fivethirtyeight.com/2022-election-forecast/senate/" target="_blank" rel="noopener">to our midterm forecast</a>.<a data-footnote-id="1" href="https://fivethirtyeight.com/wp-json/wp/v2/espn_verticals/398#fn-1" data-footnote-content="&lt;p&gt;&lt;p&gt;As of 12:30 p.m. Eastern.&lt;/p&gt;
+<p data-paragraph="main">Last week, Republican Sen. Lindsey Graham <a href="https://www.nytimes.com/2022/09/13/us/politics/lindsey-graham-abortion.html" target="_blank" rel="noopener">introduced a 15-week federal abortion ban</a>, to the consternation of <a href="https://thehill.com/homenews/senate/3649653-these-15-gop-senators-have-signaled-opposition-to-grahams-abortion-ban/" target="_blank" rel="noopener">many of his Senate colleagues</a>. Republicans at every level of government are <a href="https://fivethirtyeight.com/features/why-republicans-keep-failing-to-pass-abortion-bans/" target="_blank" rel="noopener">splintering over how far their abortion bans should go</a>, and judging by the campaign trail, Graham’s proposal is yet another wedge. We took a look at how Republican candidates are responding in the 10 closest Senate races, according <a href="https://projects.fivethirtyeight.com/2022-election-forecast/senate/" target="_blank" rel="noopener">to our midterm forecast</a>.<a data-footnote-id="1" href="https://fivethirtyeight.com/wp-json/wp/v2/espn_verticals/398#fn-1" data-footnote-content="&lt;p&gt;&lt;p&gt;As of 12:30 p.m. Eastern.&lt;/p&gt;
 &lt;/p&gt;"><sup>1</sup></a> They fell into three major categories:</p>
 
 
@@ -84,13 +80,13 @@
 
 
 
-<p data-paragraph="main">The candidates’ responses make more sense when you look at public opinion on abortion in each of their states. Drawing on <a href="https://civiqs.com/results/abortion_legal?annotations=true&amp;uncertainty=true&amp;zoomIn=true&amp;home_state=New%20Hampshire" target="_blank" rel="noopener">state-level data from Civiqs</a>, we took a look at the share of respondents who think abortion should be legal in some or all cases. Majorities of respondents in every state think abortion should be legal in at least some cases, but support in some states is much higher than others. The four candidates in our subset who are publicly supporting a national 15-week ban — Walker, Masters, Rubio and Budd — are from states where relatively low shares of residents support legal abortion in some or all cases. Support for legal abortion is higher in the remaining states — particularly in New Hampshire, where Bolduc has been trying hard to distance himself from the ban. The only major exception is Vance, who has refused to take a stand on the 15-week ban despite the fact that Ohio residents are the least supportive of legal abortion of the group. Johnson’s opposition to the bill is noteworthy, too, given that support for legal abortion in Wisconsin is not especially high.</p>
+<p data-paragraph="main">The candidates’ responses make more sense when you look at public opinion on abortion in each of their states. Drawing on <a href="https://civiqs.com/results/abortion_legal?annotations=true&amp;uncertainty=true&amp;zoomIn=true&amp;home_state=New%20Hampshire" target="_blank" rel="noopener">state-level data from Civiqs</a>, we took a look at the share of registered voters who think abortion should be legal in some or all cases. Majorities of registered voters in every state think abortion should be legal in at least some cases, but support in some states is much higher than others. The four candidates in our subset who are publicly supporting a national 15-week ban — Walker, Masters, Rubio and Budd — are from states where relatively low shares of residents support legal abortion in some or all cases. Support for legal abortion is higher in the remaining states — particularly in New Hampshire, where Bolduc has been trying hard to distance himself from the ban. The only major exception is Vance, who has refused to take a stand on the 15-week ban despite the fact that Ohio residents are the least supportive of legal abortion of the group. Johnson’s opposition to the bill is noteworthy, too, given that support for legal abortion in Wisconsin is not especially high.</p>
 
 
 <div>
 
 <section><header><h5>Support for legal abortion varies by state</h5>
- <p>Share of respondents in each state who said they believe abortion should be legal or illegal in all or most cases</p>
+ <p>Share of registered voters in each state who said they believe abortion should be legal or illegal in all or most cases</p>
  </header><table data-carpenter-slug="atd.graham-senate.1"><thead><tr><th colspan="1" scope="col" data-sort-index="0" aria-sort="descending" data-sort-default="true"><span>State<span><span>▲</span><span>▼</span></span>
  </span>
  </th>
@@ -130,7 +126,7 @@
  </tr><tr><td>New Hampshire</td>
  <td>69</td>
  <td>28</td>
- </tr></tbody></table><footer><p>Updated as of Sept. 17.</p>
+ </tr></tbody></table><footer><p>Does not include respondents who said “not sure.” Based on the Sept. 17, 2022, results of an online daily-tracking survey, which has received 245,506 responses from registered voters since Nov. 6, 2016.</p>
  <p>Source: Civiqs</p>
  </footer></section></div>
 
@@ -143,7 +139,7 @@
 
 
 
-<p data-paragraph="main">According to a Kaiser Family Foundation poll <a href="https://www.kff.org/womens-health-policy/poll-finding/kff-health-tracking-poll-july-2022/" target="_blank" rel="noopener">conducted from July 7-17</a>, 60 percent of women voters between the ages of 18 and 49 said they are now “more motivated” to vote in the upcoming elections because of the Supreme Court’s ruling, up 19 percentage points from May, when respondents were presented with a scenario based on the leaked draft of the opinion. (Many men <a href="https://fivethirtyeight.com/features/the-real-dividing-line-on-abortion/" target="_blank" rel="noopener">also support abortion rights</a>, and there’s evidence that the ruling <a href="https://www.vox.com/policy-and-politics/2022/9/4/23333329/roe-voter-registration-dobbs-midterms-democrats" target="_blank" rel="noopener">may have galvanized some of them too</a>.) Support for legal abortion grew by 5 percentage points between March and August, according to <a href="https://www.wsj.com/articles/support-for-legalized-abortion-grows-since-dobbs-ruling-wsj-poll-shows-11662210020" target="_blank" rel="noopener">polling by The Wall Street Journal</a>, which is a remarkable shift for an issue where public opinion is typically static. And even though <a href="https://news.gallup.com/poll/235469/trimesters-key-abortion-views.aspx" target="_blank" rel="noopener">some polls have suggested</a> that Americans might support a ban on abortions after the first trimester of pregnancy, which is essentially what a 15-week ban would do, <a href="https://www.wsj.com/articles/support-for-15-week-abortion-ban-outweighs-opposition-wsj-poll-finds-11648821601" target="_blank" rel="noopener">polls specifically</a> <a href="https://www.prri.org/research/political-and-religious-activation-and-polarization-in-the-wake-of-the-roe-overturn/" target="_blank" rel="noopener">asking about bans</a> on <a href="https://morningconsult.com/2022/07/13/state-abortion-restrictions-opposition-survey/" target="_blank" rel="noopener">abortion after 15 weeks</a> show that <a href="https://apnews.com/article/abortion-health-congress-government-and-politics-fc8c68d1c4dd29ef0a364050013b8cf4" target="_blank" rel="noopener">respondents are divided</a>.</p>
+<p data-paragraph="main">According to a Kaiser Family Foundation poll <a href="https://www.kff.org/womens-health-policy/poll-finding/kff-health-tracking-poll-july-2022/" target="_blank" rel="noopener">conducted from July 7-17</a>, 60 percent of women voters between the ages of 18 and 49 said they are now “more motivated” to vote in the upcoming elections because of the Supreme Court’s ruling, up 19 percentage points from May, when registered voters were presented with a scenario based on the leaked draft of the opinion. (Many men <a href="https://fivethirtyeight.com/features/the-real-dividing-line-on-abortion/" target="_blank" rel="noopener">also support abortion rights</a>, and there’s evidence that the ruling <a href="https://www.vox.com/policy-and-politics/2022/9/4/23333329/roe-voter-registration-dobbs-midterms-democrats" target="_blank" rel="noopener">may have galvanized some of them too</a>.) Support for legal abortion grew by 5 percentage points between March and August, according to <a href="https://www.wsj.com/articles/support-for-legalized-abortion-grows-since-dobbs-ruling-wsj-poll-shows-11662210020" target="_blank" rel="noopener">polling by The Wall Street Journal</a>, which is a remarkable shift for an issue where public opinion is typically static. And even though <a href="https://news.gallup.com/poll/235469/trimesters-key-abortion-views.aspx" target="_blank" rel="noopener">some polls have suggested</a> that Americans might support a ban on abortions after the first trimester of pregnancy, which is essentially what a 15-week ban would do, <a href="https://www.wsj.com/articles/support-for-15-week-abortion-ban-outweighs-opposition-wsj-poll-finds-11648821601" target="_blank" rel="noopener">polls specifically</a> <a href="https://www.prri.org/research/political-and-religious-activation-and-polarization-in-the-wake-of-the-roe-overturn/" target="_blank" rel="noopener">asking about bans</a> on <a href="https://morningconsult.com/2022/07/13/state-abortion-restrictions-opposition-survey/" target="_blank" rel="noopener">abortion after 15 weeks</a> show that <a href="https://apnews.com/article/abortion-health-congress-government-and-politics-fc8c68d1c4dd29ef0a364050013b8cf4" target="_blank" rel="noopener">respondents are divided</a>.</p>
 
 
 
@@ -155,7 +151,11 @@
 
 
 
-<p data-paragraph="main">So even if a 15-week abortion ban seems a lot more restrained than some of the bans that are currently in effect around the country, supporting one still might not be good politics for Republican Senate candidates right now. There’s not a lot of evidence that Republican voters will be galvanized by the proposal — and it could end up rallying Democratic voters.</p>]]></description>
+<p data-paragraph="main">So even if a 15-week abortion ban seems a lot more restrained than some of the bans that are currently in effect around the country, supporting one still might not be good politics for Republican Senate candidates right now. There’s not a lot of evidence that Republican voters will be galvanized by the proposal — and it could end up rallying Democratic voters.</p>
+
+
+
+<p data-paragraph="main"><strong>CLARIFICATION (Sept. 19, 2022, 3:36 p.m.):</strong> This article, including the table, has been updated to clarify that respondents in the Civiqs and Kaiser Family Foundation polls are registered voters.</p>]]></description>
 			<pubDate>Mon, 19 Sep 2022 19:00:00 +0100</pubDate>
 			<guid isPermaLink="false">1663614001251747</guid>
 		</item>
