@@ -3,14 +3,15 @@
 		<title>Main stream | FreshRSS</title>
 		<link>http://radon</link>
 		<description>RSS feed of Main stream | FreshRSS</description>
-		<pubDate>Wed, 21 Sep 2022 16:59:06 +0100</pubDate>
-		<lastBuildDate>Wed, 21 Sep 2022 15:59:06 GMT</lastBuildDate>
+		<pubDate>Wed, 21 Sep 2022 17:29:06 +0100</pubDate>
+		<lastBuildDate>Wed, 21 Sep 2022 16:29:06 GMT</lastBuildDate>
 		<atom:link href="http://radon/i/?a=rss" rel="self" type="application/rss+xml" />
 		<item>
 			<title>Latino Voters Shifted Right in 2020. What Does That Mean for Arizona and Nevada This Year?</title>
 			<link>https://fivethirtyeight.com/features/latino-voters-shifted-right-in-2020-what-does-that-mean-for-arizona-and-nevada-this-year/</link>
 						<dc:creator>Geoffrey Skelley</dc:creator>
 			<dc:creator>Geoffrey Skelley</dc:creator>
+			<category>2022 Election</category>
 			<category>2022 Governors Elections</category>
 			<category>2022 Midterms</category>
 			<category>2022 Senate Elections</category>
@@ -26,7 +27,7 @@
 			<div>
 
 				<header><div>
-													<p><a href="https://fivethirtyeight.com/tag/2022-midterms/" name="">2022 Midterms</a></p>
+													<p><a href="https://fivethirtyeight.com/tag/2022-election/" name="">2022 Election</a></p>
 						
 													<h1>Latino Voters Shifted Right in 2020. What Does That Mean for Arizona and Nevada This Year?</h1>
 																	</div>
@@ -112,7 +113,7 @@
 			<guid isPermaLink="false">1663771501370583</guid>
 		</item>
 		<item>
-			<title>In 2022, People Of Color Will (Again) Be Underrepresented On The Ballot</title>
+			<title>It’s 2022, And People Of Color Are Still Underrepresented On The Ballot</title>
 			<link>https://fivethirtyeight.com/features/2022-candidates-race-data/</link>
 						<dc:creator>Nathaniel Rakich</dc:creator>
 			<dc:creator>Nathaniel Rakich</dc:creator>
@@ -128,7 +129,7 @@
 				<header><div>
 													<p><a href="https://fivethirtyeight.com/tag/2022-election/" name="">2022 Election</a></p>
 						
-													<h1>In 2022, People Of Color Will (Again) Be Underrepresented On The Ballot</h1>
+													<h1>It’s 2022, And People Of Color Are Still Underrepresented On The Ballot</h1>
 																	</div>
 
 										<div>
@@ -880,6 +881,7 @@
 			<link>https://fivethirtyeight.com/features/lindsey-grahams-abortion-ban-is-dividing-gop-senate-candidates-in-swing-states/</link>
 						<dc:creator>Amelia Thomson-DeVeaux</dc:creator>
 			<dc:creator>Amelia Thomson-DeVeaux</dc:creator>
+			<category>2022 Election</category>
 			<category>2022 Midterms</category>
 			<category>Abortion</category>
 			<category>Election Update</category>
@@ -888,7 +890,7 @@
 			<div>
 
 				<header><div>
-													<p><a href="https://fivethirtyeight.com/tag/election-update/" name="">Election Update</a></p>
+													<p><a href="https://fivethirtyeight.com/tag/2022-election/" name="">2022 Election</a></p>
 						
 													<h1>Lindsey Graham’s Abortion Ban Is Dividing GOP Senate Candidates In Swing States</h1>
 																	</div>
@@ -1264,8 +1266,8 @@
 
 
 
-<figure><img loading="lazy" width="1150" height="920" src="https://fivethirtyeight.com/wp-content/uploads/2022/09/biden-approval-rating-2-2.png" alt="" data-src="https://fivethirtyeight.com/wp-content/uploads/2022/09/biden-approval-rating-2-2.png" data-srcset="https://fivethirtyeight.com/wp-content/uploads/2022/09/biden-approval-rating-2-2.png?w=712 1x, https://fivethirtyeight.com/wp-content/uploads/2022/09/biden-approval-rating-2-2.png?w=1424 2x"></figure><p data-paragraph="main">According to FiveThirtyEight’s <a href="https://projects.fivethirtyeight.com/biden-approval-rating/" target="_blank" rel="noopener">presidential approval tracker</a>,<a data-footnote-id="12" href="https://fivethirtyeight.com/wp-json/wp/v2/espn_verticals/398#fn-12" data-footnote-content="&lt;p&gt;&lt;p&gt;As of 5 p.m. Eastern on Thursday.&lt;/p&gt;
-&lt;/p&gt;"><sup>12</sup></a> 42.3 percent of Americans approve of the job Biden is doing as president, while 53.1 percent disapprove (a net approval rating of -10.8 percentage points). At this time <a href="https://fivethirtyeight.com/features/the-supreme-court-is-more-unpopular-than-ever-that-could-help-democrats/" target="_blank" rel="noopener">last week</a>, 42.4 percent approved and 53.2 percent disapproved (a net approval rating of -10.8 points). One month ago, Biden had an approval rating of 40.2 percent and a disapproval rating of 55.2 percent, for a net approval rating of -15.0 points.</p>
+<figure><img loading="lazy" width="1150" height="920" src="https://fivethirtyeight.com/wp-content/uploads/2022/09/biden-approval-rating-2-2.png" alt="" data-src="https://fivethirtyeight.com/wp-content/uploads/2022/09/biden-approval-rating-2-2.png" data-srcset="https://fivethirtyeight.com/wp-content/uploads/2022/09/biden-approval-rating-2-2.png?w=712 1x, https://fivethirtyeight.com/wp-content/uploads/2022/09/biden-approval-rating-2-2.png?w=1424 2x"></figure><p data-paragraph="main">According to FiveThirtyEight’s <a href="https://projects.fivethirtyeight.com/biden-approval-rating/" target="_blank" rel="noopener">presidential approval tracker</a>,<a data-footnote-id="10" href="https://fivethirtyeight.com/wp-json/wp/v2/espn_verticals/398#fn-10" data-footnote-content="&lt;p&gt;&lt;p&gt;As of 5 p.m. Eastern on Thursday.&lt;/p&gt;
+&lt;/p&gt;"><sup>10</sup></a> 42.3 percent of Americans approve of the job Biden is doing as president, while 53.1 percent disapprove (a net approval rating of -10.8 percentage points). At this time <a href="https://fivethirtyeight.com/features/the-supreme-court-is-more-unpopular-than-ever-that-could-help-democrats/" target="_blank" rel="noopener">last week</a>, 42.4 percent approved and 53.2 percent disapproved (a net approval rating of -10.8 points). One month ago, Biden had an approval rating of 40.2 percent and a disapproval rating of 55.2 percent, for a net approval rating of -15.0 points.</p>
 
 
 
@@ -1273,8 +1275,8 @@
 
 
 
-<figure><img loading="lazy" width="1150" height="920" src="https://fivethirtyeight.com/wp-content/uploads/2022/09/generic-ballot-2-2.png" alt="" data-src="https://fivethirtyeight.com/wp-content/uploads/2022/09/generic-ballot-2-2.png" data-srcset="https://fivethirtyeight.com/wp-content/uploads/2022/09/generic-ballot-2-2.png?w=712 1x, https://fivethirtyeight.com/wp-content/uploads/2022/09/generic-ballot-2-2.png?w=1424 2x"></figure><p data-paragraph="main">In our average of polls of the <a href="https://projects.fivethirtyeight.com/congress-generic-ballot-polls/" target="_blank" rel="noopener">generic congressional ballot</a>,<a data-footnote-id="13" href="https://fivethirtyeight.com/wp-json/wp/v2/espn_verticals/398#fn-13" data-footnote-content="&lt;p&gt;&lt;p&gt;As of 5 p.m. Eastern on Thursday.&lt;/p&gt;
-&lt;/p&gt;"><sup>13</sup></a> Democrats currently lead by 1.4 points (44.8 percent to 43.4 percent). <a href="https://fivethirtyeight.com/features/the-supreme-court-is-more-unpopular-than-ever-that-could-help-democrats/" target="_blank" rel="noopener">A week ago</a>, Democrats led Republicans by 1.2 points (44.9 percent to 43.7 percent). At this time last month, voters preferred Democrats by 0.5 points (43.9 percent to 43.4 percent).</p>]]></description>
+<figure><img loading="lazy" width="1150" height="920" src="https://fivethirtyeight.com/wp-content/uploads/2022/09/generic-ballot-2-2.png" alt="" data-src="https://fivethirtyeight.com/wp-content/uploads/2022/09/generic-ballot-2-2.png" data-srcset="https://fivethirtyeight.com/wp-content/uploads/2022/09/generic-ballot-2-2.png?w=712 1x, https://fivethirtyeight.com/wp-content/uploads/2022/09/generic-ballot-2-2.png?w=1424 2x"></figure><p data-paragraph="main">In our average of polls of the <a href="https://projects.fivethirtyeight.com/congress-generic-ballot-polls/" target="_blank" rel="noopener">generic congressional ballot</a>,<a data-footnote-id="11" href="https://fivethirtyeight.com/wp-json/wp/v2/espn_verticals/398#fn-11" data-footnote-content="&lt;p&gt;&lt;p&gt;As of 5 p.m. Eastern on Thursday.&lt;/p&gt;
+&lt;/p&gt;"><sup>11</sup></a> Democrats currently lead by 1.4 points (44.8 percent to 43.4 percent). <a href="https://fivethirtyeight.com/features/the-supreme-court-is-more-unpopular-than-ever-that-could-help-democrats/" target="_blank" rel="noopener">A week ago</a>, Democrats led Republicans by 1.2 points (44.9 percent to 43.7 percent). At this time last month, voters preferred Democrats by 0.5 points (43.9 percent to 43.4 percent).</p>]]></description>
 			<pubDate>Fri, 16 Sep 2022 11:00:00 +0100</pubDate>
 			<guid isPermaLink="false">1663326001606776</guid>
 		</item>
@@ -1329,8 +1331,8 @@
 
 
 
-<p data-paragraph="main">As Democrats’ prospects for the midterms have improved — they’re now up to a 71 percent chance of keeping the <a href="https://projects.fivethirtyeight.com/2022-election-forecast/senate/" target="_blank" rel="noopener">Senate</a> and a 29 percent chance of retaining the <a href="https://projects.fivethirtyeight.com/2022-election-forecast/house/" target="_blank" rel="noopener">House</a>, according to the 2022 FiveThirtyEight midterm election forecast<a data-footnote-id="10" href="https://fivethirtyeight.com/wp-json/wp/v2/espn_verticals/398#fn-10" data-footnote-content="&lt;p&gt;&lt;p&gt;Forecast odds throughout are as of 5 p.m. Eastern on Thursday.&lt;/p&gt;
-&lt;/p&gt;"><sup>10</sup></a> — I’ve observed a corresponding increase in concern among liberals that the polls might overestimate Democrats’ position again, as they did in 2016 and 2020. Even among commenters who are analyzing the race from an arm’s-length distance, there sometimes seems to be a <em>presumption</em> that the polls will be biased toward Democrats.</p>
+<p data-paragraph="main">As Democrats’ prospects for the midterms have improved — they’re now up to a 71 percent chance of keeping the <a href="https://projects.fivethirtyeight.com/2022-election-forecast/senate/" target="_blank" rel="noopener">Senate</a> and a 29 percent chance of retaining the <a href="https://projects.fivethirtyeight.com/2022-election-forecast/house/" target="_blank" rel="noopener">House</a>, according to the 2022 FiveThirtyEight midterm election forecast<a data-footnote-id="12" href="https://fivethirtyeight.com/wp-json/wp/v2/espn_verticals/398#fn-12" data-footnote-content="&lt;p&gt;&lt;p&gt;Forecast odds throughout are as of 5 p.m. Eastern on Thursday.&lt;/p&gt;
+&lt;/p&gt;"><sup>12</sup></a> — I’ve observed a corresponding increase in concern among liberals that the polls might overestimate Democrats’ position again, as they did in 2016 and 2020. Even among commenters who are analyzing the race from an arm’s-length distance, there sometimes seems to be a <em>presumption</em> that the polls will be biased toward Democrats.</p>
 
 
 
@@ -1476,8 +1478,8 @@
  </footer></section></div>
 
 
-<p data-paragraph="main">Historically, the correlation between the polling bias in a given cycle and the bias in the previous cycle is either essentially zero or slightly negative, depending on whether you define “previous cycle” as “two years ago” or “four years ago.”<a data-footnote-id="11" href="https://fivethirtyeight.com/wp-json/wp/v2/espn_verticals/398#fn-11" data-footnote-content="&lt;p&gt;&lt;p&gt;Meaning, the bias is, if anything, more likely to reverse itself than sustain itself.&lt;/p&gt;
-&lt;/p&gt;"><sup>11</sup></a></p>
+<p data-paragraph="main">Historically, the correlation between the polling bias in a given cycle and the bias in the previous cycle is either essentially zero or slightly negative, depending on whether you define “previous cycle” as “two years ago” or “four years ago.”<a data-footnote-id="13" href="https://fivethirtyeight.com/wp-json/wp/v2/espn_verticals/398#fn-13" data-footnote-content="&lt;p&gt;&lt;p&gt;Meaning, the bias is, if anything, more likely to reverse itself than sustain itself.&lt;/p&gt;
+&lt;/p&gt;"><sup>13</sup></a></p>
 
 
 
