@@ -3,9 +3,448 @@
 		<title>Main stream | FreshRSS</title>
 		<link>http://radon</link>
 		<description>RSS feed of Main stream | FreshRSS</description>
-		<pubDate>Sat, 24 Sep 2022 02:29:06 +0100</pubDate>
-		<lastBuildDate>Sat, 24 Sep 2022 01:29:06 GMT</lastBuildDate>
+		<pubDate>Sat, 24 Sep 2022 02:59:07 +0100</pubDate>
+		<lastBuildDate>Sat, 24 Sep 2022 01:59:07 GMT</lastBuildDate>
 		<atom:link href="http://radon/i/?a=rss" rel="self" type="application/rss+xml" />
+		<item>
+			<title>We Fixed An Error In Our Deluxe Midterm Forecast </title>
+			<link>https://fivethirtyeight.com/features/we-fixed-an-error-in-our-deluxe-midterms-forecast/</link>
+						<dc:creator>Nathaniel Rakich</dc:creator>
+			<dc:creator>Nathaniel Rakich</dc:creator>
+			<category>2022 Election</category>
+			<category>2022 Election Forecast</category>
+			<category>2022 Midterms</category>
+			<category>Election Update</category>
+			<description><![CDATA[<div>
+
+			<div>
+
+				<header>
+					<div>
+													<p><a href="https://fivethirtyeight.com/tag/2022-election/" name="">2022 Election</a></p>
+						
+													<h1>We Fixed An Error In Our Deluxe Midterm Forecast</h1>
+																	</div>
+
+										<div>
+						<div>
+															<p>By <a href="https://fivethirtyeight.com/contributors/nathaniel-rakich/" title="" rel="author">Nathaniel Rakich</a></p>
+							
+							<p>
+								<time>
+									Sep. 23, 2022, at 8:30 PM								</time>
+							</p>
+
+						</div>
+						<div>
+													</div> 
+					</div>
+					
+				</header>
+
+				
+		<figure>
+			<span>
+				
+			</span>
+
+			
+			
+		</figure>
+
+		
+			</div>
+
+			
+		</div>
+
+
+
+
+
+<p data-paragraph="main">The Deluxe version of the <a href="https://projects.fivethirtyeight.com/2022-election-forecast/" target="_blank" rel="noopener">FiveThirtyEight midterm forecast</a> just shifted slightly, but it’s not because of anything that happened in politics. Rather, it’s because we identified — and fixed — an error related to missing data that was leading to incorrect odds for several Senate, House and gubernatorial races. We wanted to take some time to explain what happened, how we identified it and the effect the correction had.</p>
+
+
+
+<p data-paragraph="main">On Thursday, <a href="https://centerforpolitics.org/crystalball/" target="_blank" rel="noopener">Sabato’s Crystal Ball</a> — one of three election forecasters whose race ratings factor into the Deluxe version of the FiveThirtyEight midterm forecast — <a href="https://twitter.com/kkondik/status/1573028316981886977?s=20&amp;t=pYC6OhjJG8aZYBRDwMps1g" target="_blank" rel="noopener">moved the Ohio 9th Congressional District</a> from “toss-up” to “leans Democratic.” When we went to input this change into our forecast, though, we found that our spreadsheet of race ratings was missing any Crystal Ball rating for the Ohio 9th whatsoever. </p>
+
+
+
+<p data-paragraph="main">Upon closer inspection, we discovered we were actually missing Crystal Ball ratings for dozens of races. We used to have this data, but a look back at old files shows it was accidentally deleted on June 30.<a data-footnote-id="1" href="https://fivethirtyeight.com/wp-json/wp/v2/espn_verticals/398#fn-1" data-footnote-content='&lt;p&gt;&lt;p&gt;You can see a sudden change in our forecast odds on that date for &lt;a href="https://projects.fivethirtyeight.com/2022-election-forecast/house/arizona/2/" target="_blank" rel="noopener"&gt;certain races&lt;/a&gt;, but it went unnoticed because June 30 was the day we launched the forecast.&lt;/p&gt;
+&lt;/p&gt;'><sup>1</sup></a> (Ratings from the other expert race raters, <a href="http://www.insideelections.com/" target="_blank" rel="noopener">Inside Elections</a> and the <a href="https://www.cookpolitical.com/" target="_blank" rel="noopener">Cook Political Report</a>, were unaffected.) </p>
+
+
+
+<p data-paragraph="main">On Friday, we re-collected the Crystal Ball ratings data and added it back into the model — and the <a href="https://projects.fivethirtyeight.com/2022-election-forecast/" target="_blank" rel="noopener">Deluxe version of the forecast</a> has changed slightly as a result. (The Lite and Classic versions of the forecast, which don’t incorporate expert race ratings, remain unchanged.) Democrats’ overall odds of winning the House increased by 0.7 percentage points to 32-in-100, but their odds of winning the Senate decreased by 0.5 points to 70-in-100. More importantly, though, some individual races did shift significantly. Here’s every race whose odds changed by at least 1 percentage point.</p>
+
+
+<div>
+
+<section>
+ <header>
+ <h2>Several races shifted after we fixed a bug in our forecast</h2>
+ <p>Every race where the odds of winning shifted by 1 percentage point or more after we added missing Sabato’s Crystal Ball ratings to the FiveThirtyEight Deluxe forecast</p>
+ </header>
+ <table data-carpenter-slug="rakich.model-bug.1" data-expandable-rows="20">
+ <thead>
+ <tr aria-hidden="true">
+ <td colspan="1"></td>
+ <th colspan="2" scope="colgroup">Dem. Chance of Winning</th>
+ <td colspan="1"></td>
+ </tr>
+ <tr>
+ <th colspan="1" scope="col">Race</th>
+ <th colspan="1" scope="col">Before</th>
+ <th colspan="1" scope="col">After</th>
+ <th colspan="1" scope="col">Change</th>
+ </tr>
+ </thead>
+ <tbody>
+ <tr>
+ <td>TX-15</td>
+ <td data-suffix="%" data-suffixpadding="1.1em">41.3%</td>
+ <td data-suffix="%" data-suffixpadding="1.1em">55.9%</td>
+ <td>+14.7</td>
+ </tr>
+ <tr>
+ <td>NC-13</td>
+ <td>45.6</td>
+ <td>32.4</td>
+ <td>-13.2</td>
+ </tr>
+ <tr>
+ <td>MI-03</td>
+ <td>81.7</td>
+ <td>68.9</td>
+ <td>-12.8</td>
+ </tr>
+ <tr>
+ <td>IA-03</td>
+ <td>34.2</td>
+ <td>46.1</td>
+ <td>+11.9</td>
+ </tr>
+ <tr>
+ <td>CO-08</td>
+ <td>44.7</td>
+ <td>33.0</td>
+ <td>-11.7</td>
+ </tr>
+ <tr>
+ <td>WA-08</td>
+ <td>75.8</td>
+ <td>85.9</td>
+ <td>+10.1</td>
+ </tr>
+ <tr>
+ <td>NV-03</td>
+ <td>64.9</td>
+ <td>74.6</td>
+ <td>+9.6</td>
+ </tr>
+ <tr>
+ <td>OR-05</td>
+ <td>38.7</td>
+ <td>46.6</td>
+ <td>+7.9</td>
+ </tr>
+ <tr>
+ <td>CA-13</td>
+ <td>69.5</td>
+ <td>77.3</td>
+ <td>+7.9</td>
+ </tr>
+ <tr>
+ <td>NY-19</td>
+ <td>43.3</td>
+ <td>50.9</td>
+ <td>+7.6</td>
+ </tr>
+ <tr>
+ <td>NH-01</td>
+ <td>77.2</td>
+ <td>84.8</td>
+ <td>+7.6</td>
+ </tr>
+ <tr>
+ <td>CA-45</td>
+ <td>38.0</td>
+ <td>30.4</td>
+ <td>-7.6</td>
+ </tr>
+ <tr>
+ <td>IN-01</td>
+ <td>79.3</td>
+ <td>86.3</td>
+ <td>+7.0</td>
+ </tr>
+ <tr>
+ <td>TX-28</td>
+ <td>76.8</td>
+ <td>83.0</td>
+ <td>+6.2</td>
+ </tr>
+ <tr>
+ <td>AK-AL</td>
+ <td>35.2</td>
+ <td>41.2</td>
+ <td>+6.1</td>
+ </tr>
+ <tr>
+ <td>NY-18</td>
+ <td>62.5</td>
+ <td>68.5</td>
+ <td>+6.0</td>
+ </tr>
+ <tr>
+ <td>RI-02</td>
+ <td>76.8</td>
+ <td>82.3</td>
+ <td>+5.5</td>
+ </tr>
+ <tr>
+ <td>NJ-07</td>
+ <td>43.0</td>
+ <td>37.7</td>
+ <td>-5.3</td>
+ </tr>
+ <tr>
+ <td>IL-13</td>
+ <td>86.2</td>
+ <td>90.6</td>
+ <td>+4.4</td>
+ </tr>
+ <tr>
+ <td>MD-06</td>
+ <td>66.8</td>
+ <td>62.5</td>
+ <td>-4.4</td>
+ </tr>
+ <tr>
+ <td>CA-09</td>
+ <td>77.8</td>
+ <td>82.0</td>
+ <td>+4.2</td>
+ </tr>
+ <tr>
+ <td>NY-03</td>
+ <td>77.2</td>
+ <td>73.3</td>
+ <td>-3.9</td>
+ </tr>
+ <tr>
+ <td>CT-05</td>
+ <td>77.6</td>
+ <td>81.5</td>
+ <td>+3.9</td>
+ </tr>
+ <tr>
+ <td>NY-22</td>
+ <td>54.2</td>
+ <td>50.5</td>
+ <td>-3.7</td>
+ </tr>
+ <tr>
+ <td>CT-02</td>
+ <td>87.6</td>
+ <td>84.3</td>
+ <td>-3.4</td>
+ </tr>
+ <tr>
+ <td>NE-02</td>
+ <td>17.1</td>
+ <td>14.0</td>
+ <td>-3.1</td>
+ </tr>
+ <tr>
+ <td>TX-34</td>
+ <td>81.1</td>
+ <td>78.1</td>
+ <td>-3.0</td>
+ </tr>
+ <tr>
+ <td>CO-07</td>
+ <td>88.1</td>
+ <td>91.0</td>
+ <td>+2.8</td>
+ </tr>
+ <tr>
+ <td>NJ-03</td>
+ <td>92.3</td>
+ <td>89.5</td>
+ <td>-2.8</td>
+ </tr>
+ <tr>
+ <td>MI-07</td>
+ <td>78.8</td>
+ <td>76.1</td>
+ <td>-2.7</td>
+ </tr>
+ <tr>
+ <td>OH-09</td>
+ <td>72.4</td>
+ <td>74.8</td>
+ <td>+2.4</td>
+ </tr>
+ <tr>
+ <td>CA-41</td>
+ <td>11.4</td>
+ <td>13.7</td>
+ <td>+2.4</td>
+ </tr>
+ <tr>
+ <td>OR-06</td>
+ <td>72.7</td>
+ <td>74.9</td>
+ <td>+2.2</td>
+ </tr>
+ <tr>
+ <td>MI-08</td>
+ <td>83.1</td>
+ <td>81.0</td>
+ <td>-2.1</td>
+ </tr>
+ <tr>
+ <td>WI Gov.</td>
+ <td>67.8</td>
+ <td>65.8</td>
+ <td>-2.0</td>
+ </tr>
+ <tr>
+ <td>WI Sen.</td>
+ <td>42.0</td>
+ <td>39.9</td>
+ <td>-2.0</td>
+ </tr>
+ <tr>
+ <td>NY-01</td>
+ <td>33.2</td>
+ <td>31.2</td>
+ <td>-2.0</td>
+ </tr>
+ <tr>
+ <td>AZ-04</td>
+ <td>91.9</td>
+ <td>93.8</td>
+ <td>+2.0</td>
+ </tr>
+ <tr>
+ <td>IA-02</td>
+ <td>13.0</td>
+ <td>11.1</td>
+ <td>-1.9</td>
+ </tr>
+ <tr>
+ <td>NY-17</td>
+ <td>89.1</td>
+ <td>87.2</td>
+ <td>-1.9</td>
+ </tr>
+ <tr>
+ <td>IL-14</td>
+ <td>91.0</td>
+ <td>89.2</td>
+ <td>-1.8</td>
+ </tr>
+ <tr>
+ <td>IA-01</td>
+ <td>11.4</td>
+ <td>9.9</td>
+ <td>-1.5</td>
+ </tr>
+ <tr>
+ <td>IL-11</td>
+ <td>96.3</td>
+ <td>94.9</td>
+ <td>-1.5</td>
+ </tr>
+ <tr>
+ <td>GA-02</td>
+ <td>93.8</td>
+ <td>95.2</td>
+ <td>+1.3</td>
+ </tr>
+ <tr>
+ <td>NC-14</td>
+ <td>97.4</td>
+ <td>96.0</td>
+ <td>-1.3</td>
+ </tr>
+ <tr>
+ <td>CA-25</td>
+ <td>96.6</td>
+ <td>95.3</td>
+ <td>-1.3</td>
+ </tr>
+ <tr>
+ <td>VA-02</td>
+ <td>50.6</td>
+ <td>49.3</td>
+ <td>-1.3</td>
+ </tr>
+ <tr>
+ <td>NJ-05</td>
+ <td>96.5</td>
+ <td>95.2</td>
+ <td>-1.3</td>
+ </tr>
+ <tr>
+ <td>WA-03</td>
+ <td>2.9</td>
+ <td>4.2</td>
+ <td>+1.3</td>
+ </tr>
+ <tr>
+ <td>WI-03</td>
+ <td>26.8</td>
+ <td>25.6</td>
+ <td>-1.2</td>
+ </tr>
+ <tr>
+ <td>AZ-02</td>
+ <td>50.8</td>
+ <td>49.6</td>
+ <td>-1.2</td>
+ </tr>
+ <tr>
+ <td>TN-05</td>
+ <td>3.8</td>
+ <td>2.7</td>
+ <td>-1.1</td>
+ </tr>
+ <tr>
+ <td>CA-49</td>
+ <td>93.7</td>
+ <td>92.6</td>
+ <td>-1.1</td>
+ </tr>
+ <tr>
+ <td>NH-02</td>
+ <td>95.1</td>
+ <td>94.0</td>
+ <td>-1.0</td>
+ </tr>
+ <tr>
+ <td>NM-03</td>
+ <td>97.2</td>
+ <td>96.2</td>
+ <td>-1.0</td>
+ </tr>
+ </tbody>
+ </table>
+ <div><a>Show more rows</a></div>
+</section>
+</div>
+
+
+<p data-paragraph="main">We know how much readers rely on our forecast to be as accurate as possible, and we’re aware that, for some people — politicians, campaign staffers and voters alike — the forecast represents something more than just a number on a page. So we’re taking steps to ensure this error doesn’t recur. We usually use an automated process to collect and update race ratings, but we’ve turned that off so that we can manually check all future ratings changes from all three election forecasters. And while we’re still unsure how the data got deleted, we are actively investigating to ensure we patch up any systematic problems in our workflow. We hope you’ll continue to use and trust our forecast.</p>
+
+
+
+<p data-paragraph="main"><strong>CORRECTION (Sept. 23, 2022, 8:36 p.m.): </strong>An earlier version of this article transposed Democrats’ chances of winning the House and Senate. Democrats have a 32-in-100 chance of winning the House and a 70-in-100 chance of winning the Senate, not the other way around. </p>]]></description>
+			<pubDate>Sat, 24 Sep 2022 01:30:00 +0100</pubDate>
+			<guid isPermaLink="false">1663983001358153</guid>
+		</item>
 		<item>
 			<title>The Polls Still Do Not Show A GOP Bounce Back</title>
 			<link>https://fivethirtyeight.com/features/the-polls-still-do-not-show-a-gop-bounce-back/</link>
@@ -90,9 +529,9 @@
 
 
 
-<p data-paragraph="main">For the purposes of this article’s exercise, though, the comparative simplicity of our standalone polling averages should work well. So let’s look at all races where there have been a) at least two polls between the Supreme Court’s decision to overturn Roe v. Wade on June 24<a data-footnote-id="1" href="https://fivethirtyeight.com/wp-json/wp/v2/espn_verticals/398#fn-1" data-footnote-content='&lt;p&gt;&lt;p&gt;Which &lt;a href="https://fivethirtyeight.com/features/what-democrats-win-in-alaska-tells-us-about-november/" target="_blank" rel="noopener"&gt;clearly seems to have been an inflection point in the race for Congress&lt;/a&gt;.&lt;/p&gt;
-&lt;/p&gt;'><sup>1</sup></a> and Aug. 22, and b) at least two polls between Aug. 22 and now. In these states, we have enough data to establish a post-Dobbs baseline and to see whether there’s been a meaningful shift. Eleven Senate races meet this criteria<a data-footnote-id="2" href="https://fivethirtyeight.com/wp-json/wp/v2/espn_verticals/398#fn-2" data-footnote-content="&lt;p&gt;&lt;p&gt;I excluded Utah, where the race is between an independent and a Republican.&lt;/p&gt;
-&lt;/p&gt;"><sup>2</sup></a>; here is how the polling average has changed in each one:</p>
+<p data-paragraph="main">For the purposes of this article’s exercise, though, the comparative simplicity of our standalone polling averages should work well. So let’s look at all races where there have been a) at least two polls between the Supreme Court’s decision to overturn Roe v. Wade on June 24<a data-footnote-id="2" href="https://fivethirtyeight.com/wp-json/wp/v2/espn_verticals/398#fn-2" data-footnote-content='&lt;p&gt;&lt;p&gt;Which &lt;a href="https://fivethirtyeight.com/features/what-democrats-win-in-alaska-tells-us-about-november/" target="_blank" rel="noopener"&gt;clearly seems to have been an inflection point in the race for Congress&lt;/a&gt;.&lt;/p&gt;
+&lt;/p&gt;'><sup>2</sup></a> and Aug. 22, and b) at least two polls between Aug. 22 and now. In these states, we have enough data to establish a post-Dobbs baseline and to see whether there’s been a meaningful shift. Eleven Senate races meet this criteria<a data-footnote-id="3" href="https://fivethirtyeight.com/wp-json/wp/v2/espn_verticals/398#fn-3" data-footnote-content="&lt;p&gt;&lt;p&gt;I excluded Utah, where the race is between an independent and a Republican.&lt;/p&gt;
+&lt;/p&gt;"><sup>3</sup></a>; here is how the polling average has changed in each one:</p>
 
 
 <div>
@@ -386,8 +825,8 @@
 
 
 
-<figure><img loading="lazy" width="1150" height="920" src="https://fivethirtyeight.com/wp-content/uploads/2022/09/biden-approval-rating-2-3.png" alt="" data-src="https://fivethirtyeight.com/wp-content/uploads/2022/09/biden-approval-rating-2-3.png" data-srcset="https://fivethirtyeight.com/wp-content/uploads/2022/09/biden-approval-rating-2-3.png?w=712 1x, https://fivethirtyeight.com/wp-content/uploads/2022/09/biden-approval-rating-2-3.png?w=1424 2x"></figure><p data-paragraph="main">According to FiveThirtyEight’s <a href="https://projects.fivethirtyeight.com/biden-approval-rating/" target="_blank" rel="noopener">presidential approval tracker</a>,<a data-footnote-id="3" href="https://fivethirtyeight.com/wp-json/wp/v2/espn_verticals/398#fn-3" data-footnote-content="&lt;p&gt;&lt;p&gt;As of 5 p.m. Eastern on Thursday.&lt;/p&gt;
-&lt;/p&gt;"><sup>3</sup></a> 42.5 percent of Americans approve of the job Biden is doing as president, while 53.0 percent disapprove (a net approval rating of -10.5 points). At this time <a href="https://fivethirtyeight.com/features/strongtrust-in-institutions-is-eroding-on-both-sides-of-the-pond-and-the-queen-was-not-exempt-strong/" target="_blank" rel="noopener">last week</a>, 42.3 percent approved and 53.1 percent disapproved (a net approval rating of -10.8 points). One month ago, Biden had an approval rating of 40.9 percent and a disapproval rating of 54.3 percent, for a net approval rating of -13.4 points.</p>
+<figure><img loading="lazy" width="1150" height="920" src="https://fivethirtyeight.com/wp-content/uploads/2022/09/biden-approval-rating-2-3.png" alt="" data-src="https://fivethirtyeight.com/wp-content/uploads/2022/09/biden-approval-rating-2-3.png" data-srcset="https://fivethirtyeight.com/wp-content/uploads/2022/09/biden-approval-rating-2-3.png?w=712 1x, https://fivethirtyeight.com/wp-content/uploads/2022/09/biden-approval-rating-2-3.png?w=1424 2x"></figure><p data-paragraph="main">According to FiveThirtyEight’s <a href="https://projects.fivethirtyeight.com/biden-approval-rating/" target="_blank" rel="noopener">presidential approval tracker</a>,<a data-footnote-id="4" href="https://fivethirtyeight.com/wp-json/wp/v2/espn_verticals/398#fn-4" data-footnote-content="&lt;p&gt;&lt;p&gt;As of 5 p.m. Eastern on Thursday.&lt;/p&gt;
+&lt;/p&gt;"><sup>4</sup></a> 42.5 percent of Americans approve of the job Biden is doing as president, while 53.0 percent disapprove (a net approval rating of -10.5 points). At this time <a href="https://fivethirtyeight.com/features/strongtrust-in-institutions-is-eroding-on-both-sides-of-the-pond-and-the-queen-was-not-exempt-strong/" target="_blank" rel="noopener">last week</a>, 42.3 percent approved and 53.1 percent disapproved (a net approval rating of -10.8 points). One month ago, Biden had an approval rating of 40.9 percent and a disapproval rating of 54.3 percent, for a net approval rating of -13.4 points.</p>
 
 
 
@@ -395,8 +834,8 @@
 
 
 
-<figure><img loading="lazy" width="1150" height="920" src="https://fivethirtyeight.com/wp-content/uploads/2022/09/generic-ballot-2-3.png" alt="" data-src="https://fivethirtyeight.com/wp-content/uploads/2022/09/generic-ballot-2-3.png" data-srcset="https://fivethirtyeight.com/wp-content/uploads/2022/09/generic-ballot-2-3.png?w=712 1x, https://fivethirtyeight.com/wp-content/uploads/2022/09/generic-ballot-2-3.png?w=1424 2x"></figure><p data-paragraph="main">In our average of polls of the <a href="https://projects.fivethirtyeight.com/congress-generic-ballot-polls/" target="_blank" rel="noopener">generic congressional ballot</a>,<a data-footnote-id="4" href="https://fivethirtyeight.com/wp-json/wp/v2/espn_verticals/398#fn-4" data-footnote-content="&lt;p&gt;&lt;p&gt;As of 5 p.m. Eastern on Thursday.&lt;/p&gt;
-&lt;/p&gt;"><sup>4</sup></a> Democrats currently lead Republicans by 1.9 points (45.2 percent to 43.3 percent). A week ago, Democrats led by 1.4 points (44.8 percent to 43.4 percent). At this time last month, voters preferred Democrats by 0.4 points (43.9 percent to 43.5 percent).</p>]]></description>
+<figure><img loading="lazy" width="1150" height="920" src="https://fivethirtyeight.com/wp-content/uploads/2022/09/generic-ballot-2-3.png" alt="" data-src="https://fivethirtyeight.com/wp-content/uploads/2022/09/generic-ballot-2-3.png" data-srcset="https://fivethirtyeight.com/wp-content/uploads/2022/09/generic-ballot-2-3.png?w=712 1x, https://fivethirtyeight.com/wp-content/uploads/2022/09/generic-ballot-2-3.png?w=1424 2x"></figure><p data-paragraph="main">In our average of polls of the <a href="https://projects.fivethirtyeight.com/congress-generic-ballot-polls/" target="_blank" rel="noopener">generic congressional ballot</a>,<a data-footnote-id="5" href="https://fivethirtyeight.com/wp-json/wp/v2/espn_verticals/398#fn-5" data-footnote-content="&lt;p&gt;&lt;p&gt;As of 5 p.m. Eastern on Thursday.&lt;/p&gt;
+&lt;/p&gt;"><sup>5</sup></a> Democrats currently lead Republicans by 1.9 points (45.2 percent to 43.3 percent). A week ago, Democrats led by 1.4 points (44.8 percent to 43.4 percent). At this time last month, voters preferred Democrats by 0.4 points (43.9 percent to 43.5 percent).</p>]]></description>
 			<pubDate>Fri, 23 Sep 2022 11:00:00 +0100</pubDate>
 			<guid isPermaLink="false">1663929001072666</guid>
 		</item>
@@ -645,8 +1084,8 @@
 
 
 
-<p data-paragraph="main">Although we don’t have data for Latino voters from every poll of these races, these Democratic candidates’ overall electoral situations are currently at least a little favorable — if far from certain. Kelly holds an 8-point lead in <a href="https://projects.fivethirtyeight.com/polls/senate/2022/arizona/" target="_blank" rel="noopener">FiveThirtyEight’s polling average</a>,<a data-footnote-id="5" href="https://fivethirtyeight.com/wp-json/wp/v2/espn_verticals/398#fn-5" data-footnote-content="&lt;p&gt;&lt;p&gt;As of Tuesday at 5 p.m. Eastern.&lt;/p&gt;
-&lt;/p&gt;"><sup>5</sup></a> and the FiveThirtyEight 2022 midterm election forecast <a href="https://projects.fivethirtyeight.com/2022-election-forecast/senate/arizona/" target="_blank" rel="noopener">views Kelly as a favorite</a>, while Hobbs <a href="https://projects.fivethirtyeight.com/polls/governor/2022/arizona/" target="_blank" rel="noopener">holds a slimmer 3-point advantage</a> in <a href="https://projects.fivethirtyeight.com/2022-election-forecast/governor/arizona/" target="_blank" rel="noopener">Arizona’s toss-up governor’s race</a>. In Nevada, Cortez Masto has a <a href="https://projects.fivethirtyeight.com/polls/senate/2022/nevada/" target="_blank" rel="noopener">3-point edge</a> and <a href="https://projects.fivethirtyeight.com/polls/governor/2022/nevada/" target="_blank" rel="noopener">Sisolak a 2-point lead</a>, and our forecast <a href="https://projects.fivethirtyeight.com/2022-election-forecast/senate/nevada/" target="_blank" rel="noopener">makes each</a> of them <a href="https://projects.fivethirtyeight.com/2022-election-forecast/governor/nevada/" target="_blank" rel="noopener">a slight favorite</a>. </p>
+<p data-paragraph="main">Although we don’t have data for Latino voters from every poll of these races, these Democratic candidates’ overall electoral situations are currently at least a little favorable — if far from certain. Kelly holds an 8-point lead in <a href="https://projects.fivethirtyeight.com/polls/senate/2022/arizona/" target="_blank" rel="noopener">FiveThirtyEight’s polling average</a>,<a data-footnote-id="6" href="https://fivethirtyeight.com/wp-json/wp/v2/espn_verticals/398#fn-6" data-footnote-content="&lt;p&gt;&lt;p&gt;As of Tuesday at 5 p.m. Eastern.&lt;/p&gt;
+&lt;/p&gt;"><sup>6</sup></a> and the FiveThirtyEight 2022 midterm election forecast <a href="https://projects.fivethirtyeight.com/2022-election-forecast/senate/arizona/" target="_blank" rel="noopener">views Kelly as a favorite</a>, while Hobbs <a href="https://projects.fivethirtyeight.com/polls/governor/2022/arizona/" target="_blank" rel="noopener">holds a slimmer 3-point advantage</a> in <a href="https://projects.fivethirtyeight.com/2022-election-forecast/governor/arizona/" target="_blank" rel="noopener">Arizona’s toss-up governor’s race</a>. In Nevada, Cortez Masto has a <a href="https://projects.fivethirtyeight.com/polls/senate/2022/nevada/" target="_blank" rel="noopener">3-point edge</a> and <a href="https://projects.fivethirtyeight.com/polls/governor/2022/nevada/" target="_blank" rel="noopener">Sisolak a 2-point lead</a>, and our forecast <a href="https://projects.fivethirtyeight.com/2022-election-forecast/senate/nevada/" target="_blank" rel="noopener">makes each</a> of them <a href="https://projects.fivethirtyeight.com/2022-election-forecast/governor/nevada/" target="_blank" rel="noopener">a slight favorite</a>. </p>
 
 
 
@@ -722,8 +1161,8 @@
 
 
 
-<p data-paragraph="main">In 2022, 30 percent of the candidates who ran in Democratic or Republican primaries for Senate, House or governor were people of color, according to new data collected throughout the primary season by political scientists <a href="http://polisci.emory.edu/home/people/biography/fraga-bernard.html" target="_blank" rel="noopener">Bernard Fraga</a> and <a href="https://hunterrendleman.com/" target="_blank" rel="noopener">Hunter Rendleman</a>.<a data-footnote-id="6" href="https://fivethirtyeight.com/wp-json/wp/v2/espn_verticals/398#fn-6" data-footnote-content="&lt;p&gt;&lt;p&gt;Using statements made by candidates, membership in racial and ethnic caucuses or organizations, racial and ethnic advocacy organizations, news articles and candidate websites. This research is, by nature, not comprehensive — for example, Fraga and Rendleman were unable to confirm some candidates’ racial identities — but the data is close enough to identify important trends.&lt;/p&gt;
-&lt;/p&gt;"><sup>6</sup></a> And the data shows that only 28 percent of the candidates appearing on the November ballot will be people of color. In other words, in all likelihood, 2023 will not be the year that people of color are proportionally represented in the halls of government.</p>
+<p data-paragraph="main">In 2022, 30 percent of the candidates who ran in Democratic or Republican primaries for Senate, House or governor were people of color, according to new data collected throughout the primary season by political scientists <a href="http://polisci.emory.edu/home/people/biography/fraga-bernard.html" target="_blank" rel="noopener">Bernard Fraga</a> and <a href="https://hunterrendleman.com/" target="_blank" rel="noopener">Hunter Rendleman</a>.<a data-footnote-id="7" href="https://fivethirtyeight.com/wp-json/wp/v2/espn_verticals/398#fn-7" data-footnote-content="&lt;p&gt;&lt;p&gt;Using statements made by candidates, membership in racial and ethnic caucuses or organizations, racial and ethnic advocacy organizations, news articles and candidate websites. This research is, by nature, not comprehensive — for example, Fraga and Rendleman were unable to confirm some candidates’ racial identities — but the data is close enough to identify important trends.&lt;/p&gt;
+&lt;/p&gt;"><sup>7</sup></a> And the data shows that only 28 percent of the candidates appearing on the November ballot will be people of color. In other words, in all likelihood, 2023 will not be the year that people of color are proportionally represented in the halls of government.</p>
 
 
 
@@ -816,8 +1255,8 @@
  </footer></section></div>
 
 
-<p data-paragraph="main">And here is the breakdown for candidates who won their party’s nomination or otherwise advanced to the general election:<a data-footnote-id="7" href="https://fivethirtyeight.com/wp-json/wp/v2/espn_verticals/398#fn-7" data-footnote-content="&lt;p&gt;&lt;p&gt;Alaska, California and Washington hold all-party primaries, meaning multiple candidates from the same party can make the November ballot.&lt;/p&gt;
-&lt;/p&gt;"><sup>7</sup></a></p>
+<p data-paragraph="main">And here is the breakdown for candidates who won their party’s nomination or otherwise advanced to the general election:<a data-footnote-id="8" href="https://fivethirtyeight.com/wp-json/wp/v2/espn_verticals/398#fn-8" data-footnote-content="&lt;p&gt;&lt;p&gt;Alaska, California and Washington hold all-party primaries, meaning multiple candidates from the same party can make the November ballot.&lt;/p&gt;
+&lt;/p&gt;"><sup>8</sup></a></p>
 
 
 <div>
@@ -984,8 +1423,8 @@
 
 
 
-<p data-paragraph="main">It sure looks like it. Wisconsin’s U.S. Senate race has the second-fewest polls of any competitive<a data-footnote-id="8" href="https://fivethirtyeight.com/wp-json/wp/v2/espn_verticals/398#fn-8" data-footnote-content='&lt;p&gt;&lt;p&gt;Those not rated “Solid Republican” or “Solid Democratic” by &lt;a href="https://projects.fivethirtyeight.com/2022-election-forecast/senate/" target="_blank" rel="noopener"&gt;our forecast&lt;/a&gt;.&lt;/p&gt;
-&lt;/p&gt;'><sup>8</sup></a> Senate race nationwide. </p>
+<p data-paragraph="main">It sure looks like it. Wisconsin’s U.S. Senate race has the second-fewest polls of any competitive<a data-footnote-id="9" href="https://fivethirtyeight.com/wp-json/wp/v2/espn_verticals/398#fn-9" data-footnote-content='&lt;p&gt;&lt;p&gt;Those not rated “Solid Republican” or “Solid Democratic” by &lt;a href="https://projects.fivethirtyeight.com/2022-election-forecast/senate/" target="_blank" rel="noopener"&gt;our forecast&lt;/a&gt;.&lt;/p&gt;
+&lt;/p&gt;'><sup>9</sup></a> Senate race nationwide. </p>
 
 
 <div>
@@ -1020,9 +1459,9 @@
  </footer></section></div>
 
 
-<p data-paragraph="main">In fact, until last week, we didn’t even have enough Wisconsin polls to generate a <a href="https://projects.fivethirtyeight.com/polls/senate/2022/wisconsin/" target="_blank" rel="noopener">polling average for that race</a>.<a data-footnote-id="9" href="https://fivethirtyeight.com/wp-json/wp/v2/espn_verticals/398#fn-9" data-footnote-content="&lt;p&gt;&lt;p&gt;We don’t generate a polling average for a race until there are at least five different polls conducted since Jan. 1 by at least three different pollsters.&lt;/p&gt;
-&lt;/p&gt;"><sup>9</sup></a> But now that we do, it looks like Democratic Lt. Gov. Mandela Barnes holds a slight lead over incumbent Republican Sen. Ron Johnson, 48.7 percent to 47.5 percent.<a data-footnote-id="10" href="https://fivethirtyeight.com/wp-json/wp/v2/espn_verticals/398#fn-10" data-footnote-content="&lt;p&gt;&lt;p&gt;All numbers in this article are as of 9 a.m. Eastern on Tuesday.&lt;/p&gt;
-&lt;/p&gt;"><sup>10</sup></a></p>
+<p data-paragraph="main">In fact, until last week, we didn’t even have enough Wisconsin polls to generate a <a href="https://projects.fivethirtyeight.com/polls/senate/2022/wisconsin/" target="_blank" rel="noopener">polling average for that race</a>.<a data-footnote-id="10" href="https://fivethirtyeight.com/wp-json/wp/v2/espn_verticals/398#fn-10" data-footnote-content="&lt;p&gt;&lt;p&gt;We don’t generate a polling average for a race until there are at least five different polls conducted since Jan. 1 by at least three different pollsters.&lt;/p&gt;
+&lt;/p&gt;"><sup>10</sup></a> But now that we do, it looks like Democratic Lt. Gov. Mandela Barnes holds a slight lead over incumbent Republican Sen. Ron Johnson, 48.7 percent to 47.5 percent.<a data-footnote-id="11" href="https://fivethirtyeight.com/wp-json/wp/v2/espn_verticals/398#fn-11" data-footnote-content="&lt;p&gt;&lt;p&gt;All numbers in this article are as of 9 a.m. Eastern on Tuesday.&lt;/p&gt;
+&lt;/p&gt;"><sup>11</sup></a></p>
 
 
 
@@ -1121,8 +1560,8 @@
 
 
 
-<p data-paragraph="main">When the Supreme Court announced in June that it was <a href="https://fivethirtyeight.com/features/the-supreme-courts-argument-for-overturning-roe-v-wade/" target="_blank" rel="noopener">overturning Roe v. Wade</a>, the 1973 decision establishing a constitutional right to abortion, Nancy Evans (not her real name),<a data-footnote-id="11" href="https://fivethirtyeight.com/wp-json/wp/v2/espn_verticals/398#fn-11" data-footnote-content="&lt;p&gt;&lt;p&gt;Evans asked that we change her name became she fears reprisal at work for her views.&lt;/p&gt;
-&lt;/p&gt;"><sup>11</sup></a> 51, started to worry about the unintended consequences for low-income women and women of color. Peter Wong, 54, wondered what <em>other </em>enshrined rights might be on the chopping block.</p>
+<p data-paragraph="main">When the Supreme Court announced in June that it was <a href="https://fivethirtyeight.com/features/the-supreme-courts-argument-for-overturning-roe-v-wade/" target="_blank" rel="noopener">overturning Roe v. Wade</a>, the 1973 decision establishing a constitutional right to abortion, Nancy Evans (not her real name),<a data-footnote-id="12" href="https://fivethirtyeight.com/wp-json/wp/v2/espn_verticals/398#fn-12" data-footnote-content="&lt;p&gt;&lt;p&gt;Evans asked that we change her name became she fears reprisal at work for her views.&lt;/p&gt;
+&lt;/p&gt;"><sup>12</sup></a> 51, started to worry about the unintended consequences for low-income women and women of color. Peter Wong, 54, wondered what <em>other </em>enshrined rights might be on the chopping block.</p>
 
 
 
@@ -1480,8 +1919,8 @@
 
 
 
-<p data-paragraph="main">Last week, Republican Sen. Lindsey Graham <a href="https://www.nytimes.com/2022/09/13/us/politics/lindsey-graham-abortion.html" target="_blank" rel="noopener">introduced a 15-week federal abortion ban</a>, to the consternation of <a href="https://thehill.com/homenews/senate/3649653-these-15-gop-senators-have-signaled-opposition-to-grahams-abortion-ban/" target="_blank" rel="noopener">many of his Senate colleagues</a>. Republicans at every level of government are <a href="https://fivethirtyeight.com/features/why-republicans-keep-failing-to-pass-abortion-bans/" target="_blank" rel="noopener">splintering over how far their abortion bans should go</a>, and judging by the campaign trail, Graham’s proposal is yet another wedge. We took a look at how Republican candidates are responding in the 10 closest Senate races, according <a href="https://projects.fivethirtyeight.com/2022-election-forecast/senate/" target="_blank" rel="noopener">to our midterm forecast</a>.<a data-footnote-id="12" href="https://fivethirtyeight.com/wp-json/wp/v2/espn_verticals/398#fn-12" data-footnote-content="&lt;p&gt;&lt;p&gt;As of 12:30 p.m. Eastern.&lt;/p&gt;
-&lt;/p&gt;"><sup>12</sup></a> They fell into three major categories:</p>
+<p data-paragraph="main">Last week, Republican Sen. Lindsey Graham <a href="https://www.nytimes.com/2022/09/13/us/politics/lindsey-graham-abortion.html" target="_blank" rel="noopener">introduced a 15-week federal abortion ban</a>, to the consternation of <a href="https://thehill.com/homenews/senate/3649653-these-15-gop-senators-have-signaled-opposition-to-grahams-abortion-ban/" target="_blank" rel="noopener">many of his Senate colleagues</a>. Republicans at every level of government are <a href="https://fivethirtyeight.com/features/why-republicans-keep-failing-to-pass-abortion-bans/" target="_blank" rel="noopener">splintering over how far their abortion bans should go</a>, and judging by the campaign trail, Graham’s proposal is yet another wedge. We took a look at how Republican candidates are responding in the 10 closest Senate races, according <a href="https://projects.fivethirtyeight.com/2022-election-forecast/senate/" target="_blank" rel="noopener">to our midterm forecast</a>.<a data-footnote-id="13" href="https://fivethirtyeight.com/wp-json/wp/v2/espn_verticals/398#fn-13" data-footnote-content="&lt;p&gt;&lt;p&gt;As of 12:30 p.m. Eastern.&lt;/p&gt;
+&lt;/p&gt;"><sup>13</sup></a> They fell into three major categories:</p>
 
 
 
@@ -1642,8 +2081,8 @@
 
 
 
-<p data-paragraph="main">To be sure, <a href="https://projects.fivethirtyeight.com/2022-election-forecast/" target="_blank" rel="noopener">FiveThirtyEight’s 2022 midterm election forecast</a> gives incumbent Democratic Sen. Michael Bennet about a <a href="https://projects.fivethirtyeight.com/2022-election-forecast/senate/colorado/" target="_blank" rel="noopener">9-in-10 chance</a> of beating his Republican opponent, Joe O’Dea.<a data-footnote-id="13" href="https://fivethirtyeight.com/wp-json/wp/v2/espn_verticals/398#fn-13" data-footnote-content="&lt;p&gt;&lt;p&gt;As of 5 p.m. Eastern this past Friday.&lt;/p&gt;
-&lt;/p&gt;"><sup>13</sup></a> And Colorado also hasn’t elected a Republican senator <a href="https://www.senate.gov/states/CO/senators.htm" target="_blank" rel="noopener">since 2014</a>. (The time before that was <a href="https://www.nytimes.com/2002/11/06/us/the-2002-elections-the-senate-colorado-saving-a-seat-for-the-republicans.html" target="_blank" rel="noopener">in 2002</a>.) But both parties are taking this year’s race seriously: In an interview with Politico, Bennet warned that “<a href="https://www.politico.com/news/2022/05/24/michael-bennet-colorado-senate-00034518" target="_blank" rel="noopener">Colorado remains a swing state</a>,” while Senate Minority Leader Mitch McConnell reportedly assured Republicans recently that he’s “all in” on the race and lavished praise on O’Dea, whom he called “<a href="https://www.axios.com/2022/07/20/mcconnell-colorado-senate-race" target="_blank" rel="noopener">the perfect candidate</a>” for the state.</p>
+<p data-paragraph="main">To be sure, <a href="https://projects.fivethirtyeight.com/2022-election-forecast/" target="_blank" rel="noopener">FiveThirtyEight’s 2022 midterm election forecast</a> gives incumbent Democratic Sen. Michael Bennet about a <a href="https://projects.fivethirtyeight.com/2022-election-forecast/senate/colorado/" target="_blank" rel="noopener">9-in-10 chance</a> of beating his Republican opponent, Joe O’Dea.<a data-footnote-id="14" href="https://fivethirtyeight.com/wp-json/wp/v2/espn_verticals/398#fn-14" data-footnote-content="&lt;p&gt;&lt;p&gt;As of 5 p.m. Eastern this past Friday.&lt;/p&gt;
+&lt;/p&gt;"><sup>14</sup></a> And Colorado also hasn’t elected a Republican senator <a href="https://www.senate.gov/states/CO/senators.htm" target="_blank" rel="noopener">since 2014</a>. (The time before that was <a href="https://www.nytimes.com/2002/11/06/us/the-2002-elections-the-senate-colorado-saving-a-seat-for-the-republicans.html" target="_blank" rel="noopener">in 2002</a>.) But both parties are taking this year’s race seriously: In an interview with Politico, Bennet warned that “<a href="https://www.politico.com/news/2022/05/24/michael-bennet-colorado-senate-00034518" target="_blank" rel="noopener">Colorado remains a swing state</a>,” while Senate Minority Leader Mitch McConnell reportedly assured Republicans recently that he’s “all in” on the race and lavished praise on O’Dea, whom he called “<a href="https://www.axios.com/2022/07/20/mcconnell-colorado-senate-race" target="_blank" rel="noopener">the perfect candidate</a>” for the state.</p>
 
 
 
@@ -1821,8 +2260,8 @@
 
 
 
-<figure><img loading="lazy" width="1150" height="920" src="https://fivethirtyeight.com/wp-content/uploads/2022/09/biden-approval-rating-2-2.png" alt="" data-src="https://fivethirtyeight.com/wp-content/uploads/2022/09/biden-approval-rating-2-2.png" data-srcset="https://fivethirtyeight.com/wp-content/uploads/2022/09/biden-approval-rating-2-2.png?w=712 1x, https://fivethirtyeight.com/wp-content/uploads/2022/09/biden-approval-rating-2-2.png?w=1424 2x"></figure><p data-paragraph="main">According to FiveThirtyEight’s <a href="https://projects.fivethirtyeight.com/biden-approval-rating/" target="_blank" rel="noopener">presidential approval tracker</a>,<a data-footnote-id="16" href="https://fivethirtyeight.com/wp-json/wp/v2/espn_verticals/398#fn-16" data-footnote-content="&lt;p&gt;&lt;p&gt;As of 5 p.m. Eastern on Thursday.&lt;/p&gt;
-&lt;/p&gt;"><sup>16</sup></a> 42.3 percent of Americans approve of the job Biden is doing as president, while 53.1 percent disapprove (a net approval rating of -10.8 percentage points). At this time <a href="https://fivethirtyeight.com/features/the-supreme-court-is-more-unpopular-than-ever-that-could-help-democrats/" target="_blank" rel="noopener">last week</a>, 42.4 percent approved and 53.2 percent disapproved (a net approval rating of -10.8 points). One month ago, Biden had an approval rating of 40.2 percent and a disapproval rating of 55.2 percent, for a net approval rating of -15.0 points.</p>
+<figure><img loading="lazy" width="1150" height="920" src="https://fivethirtyeight.com/wp-content/uploads/2022/09/biden-approval-rating-2-2.png" alt="" data-src="https://fivethirtyeight.com/wp-content/uploads/2022/09/biden-approval-rating-2-2.png" data-srcset="https://fivethirtyeight.com/wp-content/uploads/2022/09/biden-approval-rating-2-2.png?w=712 1x, https://fivethirtyeight.com/wp-content/uploads/2022/09/biden-approval-rating-2-2.png?w=1424 2x"></figure><p data-paragraph="main">According to FiveThirtyEight’s <a href="https://projects.fivethirtyeight.com/biden-approval-rating/" target="_blank" rel="noopener">presidential approval tracker</a>,<a data-footnote-id="17" href="https://fivethirtyeight.com/wp-json/wp/v2/espn_verticals/398#fn-17" data-footnote-content="&lt;p&gt;&lt;p&gt;As of 5 p.m. Eastern on Thursday.&lt;/p&gt;
+&lt;/p&gt;"><sup>17</sup></a> 42.3 percent of Americans approve of the job Biden is doing as president, while 53.1 percent disapprove (a net approval rating of -10.8 percentage points). At this time <a href="https://fivethirtyeight.com/features/the-supreme-court-is-more-unpopular-than-ever-that-could-help-democrats/" target="_blank" rel="noopener">last week</a>, 42.4 percent approved and 53.2 percent disapproved (a net approval rating of -10.8 points). One month ago, Biden had an approval rating of 40.2 percent and a disapproval rating of 55.2 percent, for a net approval rating of -15.0 points.</p>
 
 
 
@@ -1830,8 +2269,8 @@
 
 
 
-<figure><img loading="lazy" width="1150" height="920" src="https://fivethirtyeight.com/wp-content/uploads/2022/09/generic-ballot-2-2.png" alt="" data-src="https://fivethirtyeight.com/wp-content/uploads/2022/09/generic-ballot-2-2.png" data-srcset="https://fivethirtyeight.com/wp-content/uploads/2022/09/generic-ballot-2-2.png?w=712 1x, https://fivethirtyeight.com/wp-content/uploads/2022/09/generic-ballot-2-2.png?w=1424 2x"></figure><p data-paragraph="main">In our average of polls of the <a href="https://projects.fivethirtyeight.com/congress-generic-ballot-polls/" target="_blank" rel="noopener">generic congressional ballot</a>,<a data-footnote-id="17" href="https://fivethirtyeight.com/wp-json/wp/v2/espn_verticals/398#fn-17" data-footnote-content="&lt;p&gt;&lt;p&gt;As of 5 p.m. Eastern on Thursday.&lt;/p&gt;
-&lt;/p&gt;"><sup>17</sup></a> Democrats currently lead by 1.4 points (44.8 percent to 43.4 percent). <a href="https://fivethirtyeight.com/features/the-supreme-court-is-more-unpopular-than-ever-that-could-help-democrats/" target="_blank" rel="noopener">A week ago</a>, Democrats led Republicans by 1.2 points (44.9 percent to 43.7 percent). At this time last month, voters preferred Democrats by 0.5 points (43.9 percent to 43.4 percent).</p>]]></description>
+<figure><img loading="lazy" width="1150" height="920" src="https://fivethirtyeight.com/wp-content/uploads/2022/09/generic-ballot-2-2.png" alt="" data-src="https://fivethirtyeight.com/wp-content/uploads/2022/09/generic-ballot-2-2.png" data-srcset="https://fivethirtyeight.com/wp-content/uploads/2022/09/generic-ballot-2-2.png?w=712 1x, https://fivethirtyeight.com/wp-content/uploads/2022/09/generic-ballot-2-2.png?w=1424 2x"></figure><p data-paragraph="main">In our average of polls of the <a href="https://projects.fivethirtyeight.com/congress-generic-ballot-polls/" target="_blank" rel="noopener">generic congressional ballot</a>,<a data-footnote-id="18" href="https://fivethirtyeight.com/wp-json/wp/v2/espn_verticals/398#fn-18" data-footnote-content="&lt;p&gt;&lt;p&gt;As of 5 p.m. Eastern on Thursday.&lt;/p&gt;
+&lt;/p&gt;"><sup>18</sup></a> Democrats currently lead by 1.4 points (44.8 percent to 43.4 percent). <a href="https://fivethirtyeight.com/features/the-supreme-court-is-more-unpopular-than-ever-that-could-help-democrats/" target="_blank" rel="noopener">A week ago</a>, Democrats led Republicans by 1.2 points (44.9 percent to 43.7 percent). At this time last month, voters preferred Democrats by 0.5 points (43.9 percent to 43.4 percent).</p>]]></description>
 			<pubDate>Fri, 16 Sep 2022 11:00:00 +0100</pubDate>
 			<guid isPermaLink="false">1663326001606776</guid>
 		</item>
@@ -1886,8 +2325,8 @@
 
 
 
-<p data-paragraph="main">As Democrats’ prospects for the midterms have improved — they’re now up to a 71 percent chance of keeping the <a href="https://projects.fivethirtyeight.com/2022-election-forecast/senate/" target="_blank" rel="noopener">Senate</a> and a 29 percent chance of retaining the <a href="https://projects.fivethirtyeight.com/2022-election-forecast/house/" target="_blank" rel="noopener">House</a>, according to the 2022 FiveThirtyEight midterm election forecast<a data-footnote-id="14" href="https://fivethirtyeight.com/wp-json/wp/v2/espn_verticals/398#fn-14" data-footnote-content="&lt;p&gt;&lt;p&gt;Forecast odds throughout are as of 5 p.m. Eastern on Thursday.&lt;/p&gt;
-&lt;/p&gt;"><sup>14</sup></a> — I’ve observed a corresponding increase in concern among liberals that the polls might overestimate Democrats’ position again, as they did in 2016 and 2020. Even among commenters who are analyzing the race from an arm’s-length distance, there sometimes seems to be a <em>presumption</em> that the polls will be biased toward Democrats.</p>
+<p data-paragraph="main">As Democrats’ prospects for the midterms have improved — they’re now up to a 71 percent chance of keeping the <a href="https://projects.fivethirtyeight.com/2022-election-forecast/senate/" target="_blank" rel="noopener">Senate</a> and a 29 percent chance of retaining the <a href="https://projects.fivethirtyeight.com/2022-election-forecast/house/" target="_blank" rel="noopener">House</a>, according to the 2022 FiveThirtyEight midterm election forecast<a data-footnote-id="15" href="https://fivethirtyeight.com/wp-json/wp/v2/espn_verticals/398#fn-15" data-footnote-content="&lt;p&gt;&lt;p&gt;Forecast odds throughout are as of 5 p.m. Eastern on Thursday.&lt;/p&gt;
+&lt;/p&gt;"><sup>15</sup></a> — I’ve observed a corresponding increase in concern among liberals that the polls might overestimate Democrats’ position again, as they did in 2016 and 2020. Even among commenters who are analyzing the race from an arm’s-length distance, there sometimes seems to be a <em>presumption</em> that the polls will be biased toward Democrats.</p>
 
 
 
@@ -2033,8 +2472,8 @@
  </footer></section></div>
 
 
-<p data-paragraph="main">Historically, the correlation between the polling bias in a given cycle and the bias in the previous cycle is either essentially zero or slightly negative, depending on whether you define “previous cycle” as “two years ago” or “four years ago.”<a data-footnote-id="15" href="https://fivethirtyeight.com/wp-json/wp/v2/espn_verticals/398#fn-15" data-footnote-content="&lt;p&gt;&lt;p&gt;Meaning, the bias is, if anything, more likely to reverse itself than sustain itself.&lt;/p&gt;
-&lt;/p&gt;"><sup>15</sup></a></p>
+<p data-paragraph="main">Historically, the correlation between the polling bias in a given cycle and the bias in the previous cycle is either essentially zero or slightly negative, depending on whether you define “previous cycle” as “two years ago” or “four years ago.”<a data-footnote-id="16" href="https://fivethirtyeight.com/wp-json/wp/v2/espn_verticals/398#fn-16" data-footnote-content="&lt;p&gt;&lt;p&gt;Meaning, the bias is, if anything, more likely to reverse itself than sustain itself.&lt;/p&gt;
+&lt;/p&gt;"><sup>16</sup></a></p>
 
 
 
@@ -2678,289 +3117,6 @@ In the Democratic primary for governor of Rhode Island, incumbent Dan McKee (sec
 <p data-paragraph="main">Please join us for our final primary live blog in 2022 on Tuesday starting at 7 p.m. Eastern. We’ll react to the results in New Hampshire and Rhode Island and talk about the contours of the upcoming general election now that we’re less than two months from November.</p>]]></description>
 			<pubDate>Mon, 12 Sep 2022 11:00:00 +0100</pubDate>
 			<guid isPermaLink="false">1662979501608711</guid>
-		</item>
-		<item>
-			<title>Why A State Like Michigan Might Actually Be A Blue State</title>
-			<link>https://fivethirtyeight.com/features/why-a-state-like-michigan-might-actually-be-a-blue-state/</link>
-						<dc:creator>Nate Silver</dc:creator>
-			<dc:creator>Nate Silver</dc:creator>
-			<category>2022 Election</category>
-			<category>Election Update</category>
-			<category>Election Updates</category>
-			<category>Partisan Lean</category>
-			<description><![CDATA[<div>
-
-			<div>
-
-				<header><div>
-													<p><a href="https://fivethirtyeight.com/tag/2022-election/" name="">2022 Election</a></p>
-						
-													<h1>Why A State Like Michigan Might Actually Be A Blue State</h1>
-																	</div>
-
-										<div>
-						<div>
-															<p>By <a href="https://fivethirtyeight.com/contributors/nate-silver/" title="" rel="author">Nate Silver</a></p>
-							
-							<p>
-								<time>
-									Sep. 9, 2022, at 9:00 AM								</time></p>
-
-						</div>
-						<div>
-													</div> 
-					</div>
-					
-				</header><figure><span>
-									<div>
-						<picture><source media="(min-width: 768px)"><source><img alt="2022-ELECTIONUPDATE-0909-4×3" src="https://fivethirtyeight.com/wp-content/uploads/2022/09/2022-ELECTIONUPDATE-0909-4x3-1.png?w=916" data-sizes="(max-width: 768px) 100vw, (max-width: 1080px) 66vw, 684px" data-src="https://fivethirtyeight.com/wp-content/uploads/2022/09/2022-ELECTIONUPDATE-0909-4x3-1.png?w=916" data-srcset="https://fivethirtyeight.com/wp-content/uploads/2022/09/2022-ELECTIONUPDATE-0909-4x3-1.png?w=916 1x, https://fivethirtyeight.com/wp-content/uploads/2022/09/2022-ELECTIONUPDATE-0909-4x3-1.png?w=1832 2x"></source></source></picture></div>
-
-				
-			</span>
-
-			
-								<figcaption><p>ILLUSTRATION BY EMILY SCHERER</p>
-											</figcaption></figure></div>
-
-			
-		</div>
-
-
-
-
-
-<p data-paragraph="main">Is Michigan a red state or a blue state?</p>
-
-
-
-<p data-paragraph="main">“It’s a purple state,” you might say! But sorry, I’m not going to let you off so easily. You have to pick the <a href="https://en.wikipedia.org/wiki/Red_pill_and_blue_pill" target="_blank" rel="noopener">red pill or the blue pill</a>.</p>
-
-
-
-<p data-paragraph="main">As a Michigan native, I’d say Michigan is a blue state. Not that this assessment requires any particular local knowledge. It has voted Democratic for president all but once since 1992 (it voted for former President Donald Trump in 2016). Its governorship has bounced back and forth more, but its current governor, Gretchen Whitmer, is a Democrat and a <a href="https://projects.fivethirtyeight.com/2022-election-forecast/governor/michigan/" target="_blank" rel="noopener">clear favorite for reelection</a>, according to the FiveThirtyEight 2022 midterm election forecast. Democrats have also controlled both of its U.S. Senate seats since the 2000 elections. The state legislature is Republican-controlled, but Democrats should be <a href="https://www.bridgemi.com/michigan-government/michigan-redistricting-drafts-could-make-state-senate-toss" target="_blank" rel="noopener">competitive this year</a> after redistricting. So it’s a close call, but I’m going with Michigan as a “blue state.”</p>
-
-
-
-<p data-paragraph="main">But according to FiveThirtyEight’s partisan lean index, Michigan is <em>Republican</em>-leaning. Specifically, it’s 1.2 percentage points more Republican than the country overall.<a data-footnote-id="14" href="https://fivethirtyeight.com/wp-json/wp/v2/espn_verticals/398#fn-14" data-footnote-content="&lt;p&gt;&lt;p&gt;Partisan lean is the average margin difference between how a state or district votes and how the country votes overall. This version of partisan lean, meant to be used for congressional and gubernatorial elections, is calculated as 50 percent the state or district’s lean relative to the nation in the most recent presidential election, 25 percent its relative lean in the second-most-recent presidential election and 25 percent a custom state-legislative lean.&lt;/p&gt;
-&lt;/p&gt;"><sup>14</sup></a> It’s close, but Michigan’s partisan lean nods toward “red state.” </p>
-
-
-
-<p data-paragraph="main">So, who’s right in this case? Me or the algorithm?</p>
-
-
-
-<p data-paragraph="main">Well, I’m a wee bit biased here, but I think I’m right. Michigan is more a blue state than a red state, and the distinction reveals something important about the balance of power in politics today and the strategies of the major political parties.</p>
-
-
-
-<p data-paragraph="main">FiveThirtyEight’s partisan lean index classifies Michigan as Republican-leaning because it has been less blue than the country as a whole in recent elections. Case in point: In 2020, now-President Joe Biden won Michigan by 2.8 points, less than his 4.5-point margin in the national popular vote.</p>
-
-
-
-<p data-paragraph="main">Then again, the national popular vote might not be the best baseline. After all, it depends in part on states where Democrats win by huge margins, without getting any additional benefit in the Electoral College. For instance, Biden won California by more than 5 million votes. But suppose he’d won it by <em>only</em> 1 million votes. It would still be a comfortable margin, but in that case, Biden would have won the national popular vote by only 1.9 points, and Michigan would have been to the left of the country as a whole, without changing the Electoral College outcome at all.</p>
-
-
-
-<p data-paragraph="main">This is somewhat complex, so let me state my hypothesis as clearly as possible — there are two of them, really:</p>
-
-
-
-<ol><li>Parties are trying to win control of the presidency and Congress. But since the popular vote doesn’t determine control of these, parties don’t actually care about the popular vote. Therefore, measures like FiveThirtyEight’s partisan lean index that are calibrated based on the popular vote may be flawed.</li><li>Republicans currently have <a href="https://fivethirtyeight.com/features/advantage-gop/">a structural advantage in many of America’s political institutions</a>. However, it doesn’t necessarily follow that Republicans will win more than half the time.</li></ol><p data-paragraph="main">Let’s start with that second point. One important but easy-to-overlook facet of American elections is that each party wins about half the time. Over the past 40 years, for example, Democrats have controlled the presidency for 18 years (two years and counting for Biden, eight each for former Presidents Barack Obama and Bill Clinton) while Republicans have had it for 22. Also in the past 40 years, Democrats have held the U.S. Senate for just short of 20 years,<a data-footnote-id="15" href="https://fivethirtyeight.com/wp-json/wp/v2/espn_verticals/398#fn-15" data-footnote-content='&lt;p&gt;&lt;p&gt;Vermont Sen. James Jeffords &lt;a href="https://vtdigger.org/2021/05/23/way-ahead-of-his-time-jim-jeffords-2001-political-switch-back-in-the-spotlight/" target="_blank" rel="noopener"&gt;began caucusing with the Democrats&lt;/a&gt; about 6 months into the 107th Congress, giving Democrats majority control. So more precisely, Democrats have controlled the Senate for about 19.5 of the past 40 years, and Republicans 20.5.&lt;/p&gt;
-&lt;/p&gt;'><sup>15</sup></a> and Republicans for just slightly more than 20 years. The House? Democrats have been in charge for roughly 20 years and the GOP for 20.</p>
-
-
-
-<p data-paragraph="main">It’s true that Republicans currently enjoy a structural advantage <a href="https://www.nationalreview.com/2020/12/wisconsin-was-the-electoral-college-tipping-point-state-again/" target="_blank" rel="noopener">in the Electoral College</a> and <a href="https://fivethirtyeight.com/features/the-senates-rural-skew-makes-it-very-hard-for-democrats-to-win-the-supreme-court/" target="_blank" rel="noopener">the U.S. Senate</a>, such that they can expect to win both with less than half of the popular vote. (They also had an advantage in the U.S. House for most of the 2010s, although that has <a href="https://projects.fivethirtyeight.com/redistricting-2022-maps/" target="_blank" rel="noopener">been reduced somewhat following redistricting</a>.) But I don’t think it necessarily follows that Republicans can expect to win those offices more than half the time.</p>
-
-
-
-<p data-paragraph="main">After all, Republicans haven’t done a great job of winning these offices recently. They lost the presidency in 2020. They don’t control the Senate — and they may not get it back this year. The FiveThirtyEight forecast now shows Democrats with a 70 percent chance of <a href="https://projects.fivethirtyeight.com/2022-election-forecast/senate/?cid=rrpromo" target="_blank" rel="noopener">keeping control of the Senate</a>.</p>
-
-
-
-<p data-paragraph="main">That said, some votes are more valuable than others. In a presidential election, for instance, the marginal vote in Michigan matters a lot more than the marginal vote in California. And in the Senate, a voter in North Dakota has a lot more power than one in Texas, since Texas has the same number of senators despite having more than 37 times the inhabitants. This creates <a href="https://fivethirtyeight.com/features/the-senates-rural-skew-makes-it-very-hard-for-democrats-to-win-the-supreme-court/" target="_blank" rel="noopener">a significant bias in the Senate toward white, rural voters</a>, who are overrepresented in low-population states, and moreover, Republicans in the Trump era have adopted a particularly potent strategy of catering to those voters. </p>
-
-
-<p>Watch: https://abcnews.go.com/fivethirtyeight/video/abortion-stay-legal-pennsylvania-fivethirtyeight-89543566</p>
-
-
-<p data-paragraph="main">Put another way, the upshot of the structural bias toward Republicans may not be that they can attain some permanent supermajority, but rather that they are able to win elections half the time <em>despite</em> advancing policies that are significantly to the right of the <a href="https://www.cantorsparadise.com/the-median-voter-theorem-c81630b57fa4" target="_blank" rel="noopener">median voter</a>, especially on issues like abortion, gun control and environmental regulation. It’s likely not a coincidence either that these issues have <a href="https://www.pewresearch.org/social-trends/2018/05/22/urban-suburban-and-rural-residents-views-on-key-social-and-political-issues/" target="_blank" rel="noopener">strong urban-rural divides</a>, which speak to the GOP’s current advantage in the Senate.</p>
-
-
-
-<p data-paragraph="main">And yet it’s not as though Republicans are in some untenable position. Their structural advantages give them a much bigger margin for error, and so they still have decent chances in the Senate despite nominating a poor slate of candidates. They’re also <a href="https://projects.fivethirtyeight.com/2022-election-forecast/house/?cid=rrpromo" target="_blank" rel="noopener">favored to win the House</a> according to the FiveThirtyEight forecast. And they <a href="https://electionbettingodds.com/PresidentialParty2024.html" target="_blank" rel="noopener">have plenty of hope of winning the presidency back in 2024</a>.</p>
-
-
-
-<p data-paragraph="main">It may seem strange to talk about the parties in such an abstract manner, as though they’re rational actors pursuing some <a href="https://en.wikipedia.org/wiki/Nash_equilibrium" target="_blank" rel="noopener">game-theory-derived Nash equilibrium</a>. Indeed, this description leaves a lot to be desired. The Republican Party and the Democratic Party are not simple entities. Although there are formal party structures such as the Republican National Committee, in practice, much of a party’s power rests with current, former and aspiring elected officials, along with donors, other public figures who are influential within the party and, of course, the voters. These groups’ objectives don’t always align, and sometimes that can result in outcomes such as <a href="https://fivethirtyeight.com/features/its-hard-to-win-a-senate-race-when-youve-never-won-an-election-before/" target="_blank" rel="noopener">nominating subpar candidates to key Senate races</a> or <a href="https://fivethirtyeight.com/features/why-trumps-presence-in-the-midterms-is-risky-for-the-gop/" target="_blank" rel="noopener">having a former president interfere in a midterm in unhelpful ways</a>.</p>
-
-
-
-<p data-paragraph="main">But if neither party is particularly happy with its situation — well, that’s sometimes what an equilibrium looks like, in the same sense that both sides often walk away feeling a little unhappy after a tough negotiation.</p>
-
-
-
-<p data-paragraph="main">Still, this has considerations for our partisan lean index. The implication we frequently take from it — in fact, this is an assumption built into our various forecast models — is over the long run, such as if you play out the next 40 years given current party coalitions, the <em>popular</em> vote for Congress and the presidency will be tied in an average year.</p>
-
-
-
-<p data-paragraph="main">I don’t think that’s the correct implication, though. My assertion here, instead, is that each party will continue to win elections about half the time even though Democrats are likely to continue to win the popular vote <em>more</em> than half the time.</p>
-
-
-
-<p data-paragraph="main">Since 2016, for instance, Democrats have won the popular vote for the presidency by 2.1 points (Hillary Clinton) and 4.5 points (Biden). They also won the popular vote for the U.S. House by 3.1 points in 2020 and 8.6 points in 2018, but lost it by 1.1 point in 2016. This is a crude method, but if you average those five figures, you wind up with Democrats winning the popular vote by 3.4 points on average.</p>
-
-
-
-<p data-paragraph="main">Here’s what our partisan lean index would look like in a year where Democrats win the national popular vote by 3.4 points. Note that a state like Michigan — along with Nevada and Pennsylvania — now rates as slightly blue rather than slightly red. Wisconsin, Georgia, North Carolina, Arizona and Florida are still red-leaning, however. </p>
-
-
-<div>
-<section><header><h5>The FiveThirtyEight partisan lean index, recalibrated</h5>
- <p>How each state votes in an election where Democrats win the popular vote by 3.4 percentage points</p>
- </header><table data-carpenter-slug="rakich.partisan-lean.2"><thead><tr><th colspan="1" scope="col">State</th>
- <th colspan="1" scope="col">Partisan Lean</th>
- <th colspan="1" scope="col"></th>
- <th colspan="1" scope="col">State</th>
- <th colspan="1" scope="col">Partisan Lean</th>
- </tr></thead><tbody><tr><td>Massachusetts</td>
- <td>D+36.0</td>
- <td></td>
- <td>Arizona</td>
- <td>R+4.2</td>
- </tr><tr><td>Hawaii</td>
- <td>D+35.0</td>
- <td></td>
- <td>Florida</td>
- <td>R+4.2</td>
- </tr><tr><td>Vermont</td>
- <td>D+30.9</td>
- <td></td>
- <td>Iowa</td>
- <td>R+6.3</td>
- </tr><tr><td>Maryland</td>
- <td>D+29.3</td>
- <td></td>
- <td>Texas</td>
- <td>R+8.6</td>
- </tr><tr><td>California</td>
- <td>D+28.9</td>
- <td></td>
- <td>Ohio</td>
- <td>R+9.0</td>
- </tr><tr><td>Rhode Island</td>
- <td>D+27.4</td>
- <td></td>
- <td>Alaska</td>
- <td>R+11.2</td>
- </tr><tr><td>New York</td>
- <td>D+23.4</td>
- <td></td>
- <td>South Carolina</td>
- <td>R+15.2</td>
- </tr><tr><td>Delaware</td>
- <td>D+17.1</td>
- <td></td>
- <td>Indiana</td>
- <td>R+16.6</td>
- </tr><tr><td>Illinois</td>
- <td>D+16.8</td>
- <td></td>
- <td>Montana</td>
- <td>R+16.6</td>
- </tr><tr><td>Washington</td>
- <td>D+15.8</td>
- <td></td>
- <td>Mississippi</td>
- <td>R+16.9</td>
- </tr><tr><td>Connecticut</td>
- <td>D+15.5</td>
- <td></td>
- <td>Louisiana</td>
- <td>R+17.1</td>
- </tr><tr><td>New Jersey</td>
- <td>D+15.4</td>
- <td></td>
- <td>Kansas</td>
- <td>R+17.3</td>
- </tr><tr><td>Oregon</td>
- <td>D+14.0</td>
- <td></td>
- <td>Missouri</td>
- <td>R+17.8</td>
- </tr><tr><td>New Mexico</td>
- <td>D+10.4</td>
- <td></td>
- <td>Nebraska</td>
- <td>R+21.4</td>
- </tr><tr><td>Colorado</td>
- <td>D+9.8</td>
- <td></td>
- <td>Utah</td>
- <td>R+22.9</td>
- </tr><tr><td>Virginia</td>
- <td>D+8.0</td>
- <td></td>
- <td>Kentucky</td>
- <td>R+23.7</td>
- </tr><tr><td>Maine</td>
- <td>D+7.4</td>
- <td></td>
- <td>Tennessee</td>
- <td>R+26.0</td>
- </tr><tr><td>Minnesota</td>
- <td>D+5.3</td>
- <td></td>
- <td>Alabama</td>
- <td>R+26.2</td>
- </tr><tr><td>New Hampshire</td>
- <td>D+3.7</td>
- <td></td>
- <td>Arkansas</td>
- <td>R+28.4</td>
- </tr><tr><td>Michigan</td>
- <td>D+1.8</td>
- <td></td>
- <td>South Dakota</td>
- <td>R+28.8</td>
- </tr><tr><td>Nevada</td>
- <td>D+0.9</td>
- <td></td>
- <td>West Virginia</td>
- <td>R+32.1</td>
- </tr><tr><td>Pennsylvania</td>
- <td>D+0.5</td>
- <td></td>
- <td>Idaho</td>
- <td>R+33.6</td>
- </tr><tr><td>Wisconsin</td>
- <td>R+0.7</td>
- <td></td>
- <td>Oklahoma</td>
- <td>R+33.8</td>
- </tr><tr><td>North Carolina</td>
- <td>R+1.4</td>
- <td></td>
- <td>North Dakota</td>
- <td>R+33.8</td>
- </tr><tr><td>Georgia</td>
- <td>R+4.0</td>
- <td></td>
- <td>Wyoming</td>
- <td>R+46.3</td>
- </tr></tbody></table><footer><p>Partisan lean is the average margin difference between how a state or district votes and how the country votes overall. This version of partisan lean, meant to be used for congressional and gubernatorial elections, is calculated as 50 percent the state or district’s lean relative to the nation in the most recent presidential election, 25 percent its relative lean in the second-most-recent presidential election and 25 percent a custom state-legislative lean.</p>
- <p>Sources: State election websites, Daily Kos Elections</p>
- </footer></section></div>
-
-
-<p data-paragraph="main">That all seems fairly intuitive relative to how recent elections have gone — more so than the implication that Michigan is a red state. To be clear, this is not an official change to our partisan lean index; it’s just me playing out the logical implications of an idea. </p>
-
-
-
-<p data-paragraph="main">It’s also not a prediction for what will happen this year, but still, these figures may be more in line with how future elections will play out — both in theory and in practice.</p>]]></description>
-			<pubDate>Fri, 09 Sep 2022 14:00:00 +0100</pubDate>
-			<guid isPermaLink="false">1662732001204105</guid>
 		</item>
 
 	</channel>
