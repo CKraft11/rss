@@ -3,8 +3,8 @@
 		<title>Main stream | FreshRSS</title>
 		<link>http://radon</link>
 		<description>RSS feed of Main stream | FreshRSS</description>
-		<pubDate>Tue, 27 Sep 2022 21:29:07 +0100</pubDate>
-		<lastBuildDate>Tue, 27 Sep 2022 20:29:07 GMT</lastBuildDate>
+		<pubDate>Tue, 27 Sep 2022 21:59:06 +0100</pubDate>
+		<lastBuildDate>Tue, 27 Sep 2022 20:59:06 GMT</lastBuildDate>
 		<atom:link href="http://radon/i/?a=rss" rel="self" type="application/rss+xml" />
 		<item>
 			<title>Progressives Took A Step Back In The 2022 Primaries — But They’re Playing The Long Game</title>
@@ -489,6 +489,7 @@
 			<link>https://fivethirtyeight.com/features/come-to-our-politics-podcast-live-show/</link>
 						<dc:creator>Chadwick Matlin</dc:creator>
 			<dc:creator>Chadwick Matlin</dc:creator>
+			<category>Election Update</category>
 			<category>FiveThirtyEight Podcasts</category>
 			<category>Housekeeping</category>
 			<category>Politics Podcast</category>
@@ -1217,7 +1218,7 @@
 			<div>
 
 				<header><div>
-													<p><a href="https://fivethirtyeight.com/tag/election-update/" name="">Election Update</a></p>
+													<p><a href="https://fivethirtyeight.com/tag/2022-election/" name="">2022 Election</a></p>
 						
 													<h1>The Polls Still Do Not Show A GOP Bounceback</h1>
 																	</div>
