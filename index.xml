@@ -3,9 +3,75 @@
 		<title>Main stream | FreshRSS</title>
 		<link>http://radon</link>
 		<description>RSS feed of Main stream | FreshRSS</description>
-		<pubDate>Thu, 13 Oct 2022 22:29:06 +0100</pubDate>
-		<lastBuildDate>Thu, 13 Oct 2022 21:29:06 GMT</lastBuildDate>
+		<pubDate>Thu, 13 Oct 2022 22:59:07 +0100</pubDate>
+		<lastBuildDate>Thu, 13 Oct 2022 21:59:07 GMT</lastBuildDate>
 		<atom:link href="http://radon/i/?a=rss" rel="self" type="application/rss+xml" />
+		<item>
+			<title>Politics Podcast: Is Oregon Going To Elect A Republican Governor?</title>
+			<link>https://fivethirtyeight.com/features/politics-podcast-is-oregon-going-to-elect-a-republican-governor/</link>
+						<dc:creator>Galen Druke</dc:creator>
+			<dc:creator>FiveThirtyEight</dc:creator>
+			<category>FiveThirtyEight Podcasts</category>
+			<category>Georgia</category>
+			<category>Herschel Walker</category>
+			<category>Model Talk</category>
+			<category>Politics Podcast</category>
+			<category>Public Opinion</category>
+			<category>Scandals</category>
+			<description><![CDATA[<div data-href="https://fivethirtyeight.com/features/politics-podcast-is-oregon-going-to-elect-a-republican-governor/">
+	<div data-podcast-id="345927" data-podcast-duration="0" data-podcast-title="Politics Podcast: Is Oregon Going To Elect A Republican Governor?">
+
+					<span><span>FiveThirtyEight</span></span>
+			
+		
+		<button aria-label="Play"></button>
+
+					<div>
+		
+		
+							<div>
+					<div>
+						<div></div>
+					</div>
+
+					<div> </div>
+
+					<audio preload="none" controls="controls">
+						<source src="https://www.podtrac.com/pts/redirect.mp3/traffic.megaphone.fm/ESP9925678837.mp3?updated=1665692299">
+					</source></audio>
+				</div>
+			
+					</div>
+		
+	</div>
+</div>
+<aside>
+	<div>
+		More: <a href="https://itunes.apple.com/us/podcast/fivethirtyeight-elections/id1077418457">Apple Podcasts</a> |
+		<span><a data-android-url="" href="http://m.espn.com/general/cast?id=14554755">ESPN App</a> |</span>
+		<a href="https://www.espn.com/espnradio/feeds/rss/podcast.xml?id=14554755">RSS</a>
+			</div>
+	</aside>
+
+
+
+
+<p data-paragraph="main">With less than a month before the midterm elections, we’re tackling some of the most common questions about how last-minute polling and political shifts could affect the <a rel="noreferrer noopener" href="https://projects.fivethirtyeight.com/2022-election-forecast/" target="_blank">FiveThirtyEight midterm forecast</a>.</p>
+
+
+
+<p data-paragraph="main">In this installment of “Model Talk” on the <a rel="noreferrer noopener" href="https://fivethirtyeight.com/tag/politics-podcast/" target="_blank">FiveThirtyEight Politics podcast</a>, Nate Silver and Galen Druke break down why there is a gap between many states’ Senate and governor forecasts and which states they actually consider purple. They also answer some listener questions on how the model factors in undecided voters and how they personally would rate Senate candidates with similar odds.<br><a href="https://fivethirtyeight.slack.com/team/U02SZAWBZJT" target="_blank" rel="noopener">@Emily Venezky</a></p>
+
+
+
+<p data-paragraph="main"><em>You can listen to the episode by clicking the “play” button in the audio player above or by </em><a href="https://itunes.apple.com/us/podcast/fivethirtyeight-elections/id1077418457?mt=2" target="_blank" rel="noopener"><em>downloading it in iTunes</em></a><em>, the </em><a href="http://www.espn.com/espn/mobile/products/products/_/id/6857590" target="_blank" rel="noopener"><em>ESPN App</em></a><em> or your favorite podcast platform. If you are new to podcasts, </em><a href="https://fivethirtyeight.com/how-to-listen-to-fivethirtyeight-podcasts/" target="_blank" rel="noopener"><em>learn how to listen</em></a><em>.</em></p>
+
+
+
+<p data-paragraph="main"><em>The FiveThirtyEight Politics podcast is recorded Mondays and Thursdays. Help new listeners discover the show by </em><a href="https://itunes.apple.com/us/podcast/fivethirtyeight-elections/id1077418457?mt=2" target="_blank" rel="noopener"><em>leaving us a rating and review on iTunes</em></a><em>. Have a comment, question or suggestion for “good polling vs. bad polling”? Get in touch by email, </em><a href="https://twitter.com/FiveThirtyEight" target="_blank" rel="noopener"><em>on Twitter</em></a><em> or in the comments.</em></p>]]></description>
+			<pubDate>Thu, 13 Oct 2022 21:34:00 +0100</pubDate>
+			<guid isPermaLink="false">1665697501244518</guid>
+		</item>
 		<item>
 			<title>What Attacks On John Fetterman’s Health Reveal About Disability And Politics</title>
 			<link>https://fivethirtyeight.com/features/john-fettermans-attacks-on-health-disability-and-politics/</link>
@@ -485,9 +551,9 @@
 
 
 
-<p data-paragraph="main">This November, 26 states have both a Senate and a governor’s race, and using the <a href="https://projects.fivethirtyeight.com/2022-election-forecast/" target="_blank" rel="noopener">FiveThirtyEight midterm forecast’s</a> average margin from each contest, we can project just how close the races in 24 of those states will run together.<a data-footnote-id="9" href="https://fivethirtyeight.com/wp-json/wp/v2/espn_verticals/398#fn-9" data-footnote-content='&lt;p&gt;&lt;p&gt;Because of a special election, Oklahoma has two Senate races with its single gubernatorial election, so we actually have 25 cases as we compare Oklahoma’s governor’s race to each Senate contest. We excluded Oregon and Alaska from this analysis because Oregon independent Betsy Johnson &lt;a href="https://fivethirtyeight.com/features/why-republicans-could-win-oregons-governorship-for-the-first-time-in-40-years/" target="_blank" rel="noopener"&gt;looks likely to win&lt;/a&gt; more than 10 percent of the vote in the state’s &lt;a href="https://projects.fivethirtyeight.com/2022-election-forecast/governor/oregon/" target="_blank" rel="noopener"&gt;governor’s race&lt;/a&gt;, which complicates comparing the forecast margin to Oregon’s &lt;a href="https://projects.fivethirtyeight.com/2022-election-forecast/senate/oregon/" target="_blank" rel="noopener"&gt;Senate contest&lt;/a&gt;; and because multiple candidates from the same party are running in &lt;a href="https://projects.fivethirtyeight.com/2022-election-forecast/senate/alaska/" target="_blank" rel="noopener"&gt;Alaska’s Senate race&lt;/a&gt; and a high-profile independent, former Gov. Bill Walker, is also running in the state’s gubernatorial contest. Projected margins are from our Deluxe forecast as of 4:30 p.m. Eastern on Oct. 11.&lt;/p&gt;
-&lt;/p&gt;'><sup>9</sup></a> In Vermont, we estimate Welch should win by roughly 23 percentage points over his Republican opponent, while we expect Scott to defeat his Democratic opponent by about 24 points, putting those races a whopping 47 points apart. But Vermont is tracking to be an outlier: Our forecast’s median difference between the margins in a state’s Senate and governor races is only a bit more than 6 points (Pennsylvania), as the table below shows.<a data-footnote-id="10" href="https://fivethirtyeight.com/wp-json/wp/v2/espn_verticals/398#fn-10" data-footnote-content="&lt;p&gt;&lt;p&gt;We used the median rather than the average across these states and races because we don’t have a large sample size, which makes outlier results like Vermont’s more likely to skew an average and potentially understate the amount of straight-ticket voting going on these days.&lt;/p&gt;
-&lt;/p&gt;"><sup>10</sup></a> That median difference would be the lowest in a midterm election in over three decades, indicative of how split-ticket voting has declined as a result of the increased polarization and nationalization of American politics.</p>
+<p data-paragraph="main">This November, 26 states have both a Senate and a governor’s race, and using the <a href="https://projects.fivethirtyeight.com/2022-election-forecast/" target="_blank" rel="noopener">FiveThirtyEight midterm forecast’s</a> average margin from each contest, we can project just how close the races in 24 of those states will run together.<a data-footnote-id="12" href="https://fivethirtyeight.com/wp-json/wp/v2/espn_verticals/398#fn-12" data-footnote-content='&lt;p&gt;&lt;p&gt;Because of a special election, Oklahoma has two Senate races with its single gubernatorial election, so we actually have 25 cases as we compare Oklahoma’s governor’s race to each Senate contest. We excluded Oregon and Alaska from this analysis because Oregon independent Betsy Johnson &lt;a href="https://fivethirtyeight.com/features/why-republicans-could-win-oregons-governorship-for-the-first-time-in-40-years/" target="_blank" rel="noopener"&gt;looks likely to win&lt;/a&gt; more than 10 percent of the vote in the state’s &lt;a href="https://projects.fivethirtyeight.com/2022-election-forecast/governor/oregon/" target="_blank" rel="noopener"&gt;governor’s race&lt;/a&gt;, which complicates comparing the forecast margin to Oregon’s &lt;a href="https://projects.fivethirtyeight.com/2022-election-forecast/senate/oregon/" target="_blank" rel="noopener"&gt;Senate contest&lt;/a&gt;; and because multiple candidates from the same party are running in &lt;a href="https://projects.fivethirtyeight.com/2022-election-forecast/senate/alaska/" target="_blank" rel="noopener"&gt;Alaska’s Senate race&lt;/a&gt; and a high-profile independent, former Gov. Bill Walker, is also running in the state’s gubernatorial contest. Projected margins are from our Deluxe forecast as of 4:30 p.m. Eastern on Oct. 11.&lt;/p&gt;
+&lt;/p&gt;'><sup>12</sup></a> In Vermont, we estimate Welch should win by roughly 23 percentage points over his Republican opponent, while we expect Scott to defeat his Democratic opponent by about 24 points, putting those races a whopping 47 points apart. But Vermont is tracking to be an outlier: Our forecast’s median difference between the margins in a state’s Senate and governor races is only a bit more than 6 points (Pennsylvania), as the table below shows.<a data-footnote-id="13" href="https://fivethirtyeight.com/wp-json/wp/v2/espn_verticals/398#fn-13" data-footnote-content="&lt;p&gt;&lt;p&gt;We used the median rather than the average across these states and races because we don’t have a large sample size, which makes outlier results like Vermont’s more likely to skew an average and potentially understate the amount of straight-ticket voting going on these days.&lt;/p&gt;
+&lt;/p&gt;"><sup>13</sup></a> That median difference would be the lowest in a midterm election in over three decades, indicative of how split-ticket voting has declined as a result of the increased polarization and nationalization of American politics.</p>
 
 
 <div>
@@ -692,8 +758,8 @@
 <p>Watch: https://abcnews.go.com/fivethirtyeight/video/voting-rights-north-carolina-hinge-supreme-court-election-91401195</p>
 
 
-<p data-paragraph="main">Overall, should the 2022 results in these states mirror our projected vote margins — and they largely did in 2018 — this midterm will likely feature the smallest median gap between concurrent Senate and gubernatorial races in midterms dating back to 1990.<a data-footnote-id="11" href="https://fivethirtyeight.com/wp-json/wp/v2/espn_verticals/398#fn-11" data-footnote-content="&lt;p&gt;&lt;p&gt;We’re looking at midterm elections not only because 2022 is a midterm, but because 36 of the 50 states elect governors in midterms, so midterms are where the concurrent Senate-governor elections mostly occur.&lt;/p&gt;
-&lt;/p&gt;"><sup>11</sup></a> The 2022 estimated median would be even lower than the 2018 median, which had already set a modern record with a median difference of about 10 points. The overall decline in split-ticket voting isn’t limited to only Senate and governor races, either: In 2020, most Senate and House races <a href="https://fivethirtyeight.com/features/there-wasnt-that-much-split-ticket-voting-in-2020/" target="_blank" rel="noopener">didn’t differ markedly</a> from the presidential vote in their state or district. </p>
+<p data-paragraph="main">Overall, should the 2022 results in these states mirror our projected vote margins — and they largely did in 2018 — this midterm will likely feature the smallest median gap between concurrent Senate and gubernatorial races in midterms dating back to 1990.<a data-footnote-id="14" href="https://fivethirtyeight.com/wp-json/wp/v2/espn_verticals/398#fn-14" data-footnote-content="&lt;p&gt;&lt;p&gt;We’re looking at midterm elections not only because 2022 is a midterm, but because 36 of the 50 states elect governors in midterms, so midterms are where the concurrent Senate-governor elections mostly occur.&lt;/p&gt;
+&lt;/p&gt;"><sup>14</sup></a> The 2022 estimated median would be even lower than the 2018 median, which had already set a modern record with a median difference of about 10 points. The overall decline in split-ticket voting isn’t limited to only Senate and governor races, either: In 2020, most Senate and House races <a href="https://fivethirtyeight.com/features/there-wasnt-that-much-split-ticket-voting-in-2020/" target="_blank" rel="noopener">didn’t differ markedly</a> from the presidential vote in their state or district. </p>
 
 
 
@@ -882,9 +948,9 @@
 
 
 
-<p data-paragraph="main">But this district isn’t a pure toss-up. The 8th District leans very slightly<em> </em>toward the GOP, with a partisan lean of R+3,<a data-footnote-id="12" href="https://fivethirtyeight.com/wp-json/wp/v2/espn_verticals/398#fn-12" data-footnote-content="&lt;p&gt;&lt;p&gt;Partisan lean is the average margin difference between how a state or district votes and how the country votes overall. This version of partisan lean, meant to be used for congressional and gubernatorial elections, is calculated as 50 percent the state or district’s lean relative to the nation in the most recent presidential election, 25 percent its relative lean in the second-most-recent presidential election and 25 percent a custom state-legislative lean.&lt;/p&gt;
-&lt;/p&gt;"><sup>12</sup></a> and right now, Republican candidate Barbara Kirkmeyer has a more than 2-in-3 chance of capturing the Centennial State’s newest district, according to <a href="https://projects.fivethirtyeight.com/2022-election-forecast/house/colorado/8/" target="_blank" rel="noopener">FiveThirtyEight’s 2022 midterm election forecast</a>.<a data-footnote-id="13" href="https://fivethirtyeight.com/wp-json/wp/v2/espn_verticals/398#fn-13" data-footnote-content="&lt;p&gt;&lt;p&gt;As of 5 p.m. Eastern on Tuesday.&lt;/p&gt;
-&lt;/p&gt;"><sup>13</sup></a> And this district has a few quirks that could make it a winner for the GOP, including its demographics, each party’s candidates and national interest in the race. As a result, this district could be another disappointment for Democrats — who are expected, at least by our metrics, to <a href="https://projects.fivethirtyeight.com/2022-election-forecast/house/" target="_blank" rel="noopener">lose control of the U.S. House</a> following this year’s midterm elections. Let’s break down why this brand-new district is currently looking to be a red one this fall. </p>
+<p data-paragraph="main">But this district isn’t a pure toss-up. The 8th District leans very slightly<em> </em>toward the GOP, with a partisan lean of R+3,<a data-footnote-id="9" href="https://fivethirtyeight.com/wp-json/wp/v2/espn_verticals/398#fn-9" data-footnote-content="&lt;p&gt;&lt;p&gt;Partisan lean is the average margin difference between how a state or district votes and how the country votes overall. This version of partisan lean, meant to be used for congressional and gubernatorial elections, is calculated as 50 percent the state or district’s lean relative to the nation in the most recent presidential election, 25 percent its relative lean in the second-most-recent presidential election and 25 percent a custom state-legislative lean.&lt;/p&gt;
+&lt;/p&gt;"><sup>9</sup></a> and right now, Republican candidate Barbara Kirkmeyer has a more than 2-in-3 chance of capturing the Centennial State’s newest district, according to <a href="https://projects.fivethirtyeight.com/2022-election-forecast/house/colorado/8/" target="_blank" rel="noopener">FiveThirtyEight’s 2022 midterm election forecast</a>.<a data-footnote-id="10" href="https://fivethirtyeight.com/wp-json/wp/v2/espn_verticals/398#fn-10" data-footnote-content="&lt;p&gt;&lt;p&gt;As of 5 p.m. Eastern on Tuesday.&lt;/p&gt;
+&lt;/p&gt;"><sup>10</sup></a> And this district has a few quirks that could make it a winner for the GOP, including its demographics, each party’s candidates and national interest in the race. As a result, this district could be another disappointment for Democrats — who are expected, at least by our metrics, to <a href="https://projects.fivethirtyeight.com/2022-election-forecast/house/" target="_blank" rel="noopener">lose control of the U.S. House</a> following this year’s midterm elections. Let’s break down why this brand-new district is currently looking to be a red one this fall. </p>
 
 
 
@@ -906,8 +972,8 @@
 
 
 
-<p data-paragraph="main">Moreover, <a href="https://coloradosun.com/2022/07/05/unaffiliated-voters-colorado-2022-primaries/" target="_blank" rel="noopener">much like a significant chunk of voters in Colorado</a>, a <a href="https://redistricting.colorado.gov/content/congressional-final-approved" target="_blank" rel="noopener">high share of registered voters</a> in the district (46 percent) are unaffiliated with either major political party.<a data-footnote-id="14" href="https://fivethirtyeight.com/wp-json/wp/v2/espn_verticals/398#fn-14" data-footnote-content="&lt;p&gt;&lt;p&gt;According to data from the state&amp;#8217;s redistricting commission, as of Sept. 1, 2022.&lt;/p&gt;
-&lt;/p&gt;"><sup>14</sup></a> Of the remaining electorate, about half are registered Republicans (24 percent) or Democrats (27 percent).</p>
+<p data-paragraph="main">Moreover, <a href="https://coloradosun.com/2022/07/05/unaffiliated-voters-colorado-2022-primaries/" target="_blank" rel="noopener">much like a significant chunk of voters in Colorado</a>, a <a href="https://redistricting.colorado.gov/content/congressional-final-approved" target="_blank" rel="noopener">high share of registered voters</a> in the district (46 percent) are unaffiliated with either major political party.<a data-footnote-id="11" href="https://fivethirtyeight.com/wp-json/wp/v2/espn_verticals/398#fn-11" data-footnote-content="&lt;p&gt;&lt;p&gt;According to data from the state&amp;#8217;s redistricting commission, as of Sept. 1, 2022.&lt;/p&gt;
+&lt;/p&gt;"><sup>11</sup></a> Of the remaining electorate, about half are registered Republicans (24 percent) or Democrats (27 percent).</p>
 
 
 
@@ -3311,139 +3377,6 @@
 <p data-paragraph="main">As always, we’ll need to wait and see to know for sure how public opinion will change in response to this story. You can bet that we’ll keep an extra close eye on Georgia polling for the next few weeks.</p>]]></description>
 			<pubDate>Tue, 04 Oct 2022 21:25:00 +0100</pubDate>
 			<guid isPermaLink="false">1664919001852104</guid>
-		</item>
-		<item>
-			<title>Young Women’s Views On Abortion Could Reshape The Midterms — And The Future Of Politics</title>
-			<link>https://fivethirtyeight.com/features/young-womens-views-on-abortion-could-reshape-the-midterms-and-the-future-of-politics/</link>
-						<dc:creator>Amelia Thomson-DeVeaux</dc:creator>
-			<dc:creator>Amelia Thomson-DeVeaux</dc:creator>
-			<category>2022 Election</category>
-			<category>2022 Midterms</category>
-			<category>Abortion</category>
-			<category>Ipsos</category>
-			<category>Women Voters</category>
-			<category>Youth Vote</category>
-			<description><![CDATA[<div>
-
-			<div>
-
-				<header><div>
-													<p><a href="https://fivethirtyeight.com/tag/2022-election/" name="">2022 Election</a></p>
-						
-													<h1>Young Women’s Views On Abortion Could Reshape The Midterms — And The Future Of Politics</h1>
-																	</div>
-
-										<div>
-						<div>
-															<p>By <a href="https://fivethirtyeight.com/contributors/amelia-thomson-deveaux/" title="" rel="author">Amelia Thomson-DeVeaux</a></p>
-																					<p>
-								<time>
-									Oct. 4, 2022, at 9:58 AM								</time></p>
-						</div>
-						<div>
-													</div> 
-					</div>
-					
-				</header><figure><span>
-									<div>
-						<picture><source media="(min-width: 768px)"><source><img alt="National Rallies For Abortion Rights Held Across The U.S." src="https://fivethirtyeight.com/wp-content/uploads/2022/10/GettyImages-1240671408-4x3-1.jpg?w=916" data-sizes="(max-width: 768px) 100vw, (max-width: 1080px) 66vw, 684px" data-src="https://fivethirtyeight.com/wp-content/uploads/2022/10/GettyImages-1240671408-4x3-1.jpg?w=916" data-srcset="https://fivethirtyeight.com/wp-content/uploads/2022/10/GettyImages-1240671408-4x3-1.jpg?w=916 1x, https://fivethirtyeight.com/wp-content/uploads/2022/10/GettyImages-1240671408-4x3-1.jpg?w=1832 2x"></source></source></picture></div>
-
-				
-			</span>
-
-			
-								<figcaption><p>Kent Nishimura / Los Angeles Times via Getty Images</p>
-											</figcaption></figure></div>
-
-			
-		</div>
-
-
-
-
-
-<p data-paragraph="main">In most midterm years, young voters tend to sit out the election. But 2022 could be a different kind of year. Turnout among 18- to 24-year-olds <a href="https://about.bgov.com/brief/election-demographics-and-voter-turnout/" target="_blank" rel="noopener">nearly doubled between the 2014 and 2018 midterm cycles</a>. And the Supreme Court’s June ruling in Dobbs v. Jackson Women’s Health Organization, which allows states to ban abortion for the first time in nearly five decades, suddenly put a <a href="https://fivethirtyeight.com/features/women-have-swung-toward-democrats-since-the-dobbs-decision/" target="_blank" rel="noopener">spotlight on reproductive-health issues</a> in many key elections. </p>
-
-
-
-<p data-paragraph="main">That could motivate the country’s youngest voters — particularly women — to turn out in higher numbers. A <a href="https://www.americansurveycenter.org/research/gender-generation-and-abortion-shifting-politics-and-perspectives-after-roe/" target="_blank" rel="noopener">large, recently released survey</a> from the American Enterprise Institute’s Survey Center on American Life shows that women between age 18 and 29 are especially likely to say not only that they’re following news about abortion rights and access closely but also that abortion is a critical issue for them.<a data-footnote-id="24" href="https://fivethirtyeight.com/wp-json/wp/v2/espn_verticals/398#fn-24" data-footnote-content='&lt;p&gt;&lt;p&gt;AEI’s American Perspectives Survey was conducted Aug. 12-21 among a random sample of 5,049 U.S. adults using the &lt;a href="https://www.ipsos.com/en-us/solutions/public-affairs/knowledgepanel" target="_blank" rel="noopener"&gt;Ipsos KnowledgePanel&lt;/a&gt;.&lt;/p&gt;
-&lt;/p&gt;'><sup>24</sup></a> They’re also more likely than young men to say that they’re single-issue voters on abortion.</p>
-
-
-
-<p data-paragraph="main">But even though young women appear to be following politics more closely than they were before the Dobbs decision, it may be harder for Democrats to mobilize them now than it was even a month or two ago. Since the summer, abortion appears to have become a less prominent issue. Data from the ongoing <a href="https://www.ipsos.com/en-us/news-polls/FiveThirtyEight-2022-midterm-election" target="_blank" rel="noopener">FiveThirtyEight/Ipsos survey</a> using Ipsos’s <a href="https://www.ipsos.com/en-us/solutions/public-affairs/knowledgepanel" target="_blank" rel="noopener">KnowledgePanel</a> indicates that the share of Americans who say they have heard a lot about abortion in the news declined from August to September.<a data-footnote-id="25" href="https://fivethirtyeight.com/wp-json/wp/v2/espn_verticals/398#fn-25" data-footnote-content="&lt;p&gt;&lt;p&gt;Across all five waves of our ongoing panel survey conducted between April and September, respondents were asked whether they had seen a lot of coverage of the 20 major issues we asked about in the past month, including “other” and “none of these.”&lt;/p&gt;
-&lt;/p&gt;"><sup>25</sup></a> And probably not unrelatedly, the share of Americans who say that abortion is one of the most important issues facing the country fell over that period as well, after peaking in July.<a data-footnote-id="26" href="https://fivethirtyeight.com/wp-json/wp/v2/espn_verticals/398#fn-26" data-footnote-content="&lt;p&gt;&lt;p&gt;Across all five waves of our ongoing panel survey, we asked respondents about the most important issues in three different ways: an open-ended question where they could write which issue or issues were most important to them, and two multiple-choice questions where respondents could choose up to three issues from a list of 20 (including “other” or “none of these”) that they were personally worried about or that they thought were most important to the country. The sample is weighted to match the general population.&lt;/p&gt;
-&lt;/p&gt;"><sup>26</sup></a> </p>
-
-
-
-<p data-paragraph="main">Experts told me, though, that young women’s reaction to living in a country with increasingly limited abortion access might take a while to take shape. Because fewer young voters usually turn out in <a href="https://circle.tufts.edu/latest-research/2018-youth-voter-turnout-increased-every-state#arizona" target="_blank" rel="noopener">midterm elections</a> than in <a href="https://circle.tufts.edu/our-research/broadening-youth-voting#youth-voting-in-recent-elections" target="_blank" rel="noopener">presidential elections</a>, we may not feel the full impact of Dobbs among this group right away — particularly if Republicans succeed in restricting abortion in purple states like <a href="https://fivethirtyeight.com/videos/will-abortion-stay-legal-in-pennsylvania/" target="_blank" rel="noopener">Pennsylvania</a>, <a href="https://fivethirtyeight.com/videos/abortion-access-in-north-carolina-might-hinge-on-5-seats-in-the-state-legislature/" target="_blank" rel="noopener">North Carolina</a> and <a href="https://www.virginiamercury.com/blog-va/youngkins-office-says-no-plans-for-abortion-bill-at-special-session-next-week/" target="_blank" rel="noopener">Virginia</a> in upcoming legislative sessions. So this year’s elections represent the first test of how young women are responding to the Supreme Court’s decision and its aftermath.</p>
-
-
-
-<div><hr><span></span></div>
-
-
-
-
-<p data-paragraph="main">Overall, women and men don’t tend to think about abortion very differently — with the exception of the youngest generation of women. According to the Survey Center on American Life’s American Perspectives Survey, nearly two-thirds (65 percent) of women between 18 and 29 think abortion should be legal in all or most cases, compared with 56 percent of men in the same age group and 52 percent of women 65 or over. The “most” versus “all” distinction is important because smaller shares tend to think that abortion should always be legal, with no limitations at all. But nearly half (48 percent) of 18- to 29-year-old women think abortion should be legal in <em>all</em> circumstances, compared with only 34 percent of both 18- to 29-year-old men and women 65 or over. </p>
-
-
-<p>Watch: https://abcnews.go.com/fivethirtyeight/video/abortion-stay-legal-pennsylvania-fivethirtyeight-89543566</p>
-
-
-<p data-paragraph="main">And young women have been paying attention to the news, as <a href="https://www.nytimes.com/interactive/2022/us/abortion-laws-roe-v-wade.html" target="_blank" rel="noopener">14 states have successfully banned nearly all abortions</a> over the past few months. Sixty-four percent of 18- to 29-year-old women say they’re following news about abortion laws and restrictions very or somewhat closely — more than the share who say they’re closely following news about gas prices and inflation (55 percent) or the 2022 midterm elections (25 percent). Young women are also much likelier than Americans as a whole to say that abortion is a critical issue for them personally, by 61 percent to 36 percent. That’s true compared with other women, too: Only 34 percent of women 65 or over say that abortion is a critical issue for them. </p>
-
-
-
-<p data-paragraph="main"></p><div><iframe title="Young women are much likelier to say abortion is a critical issue" aria-label="Split Bars" src="https://datawrapper.dwcdn.net/aAByO/10/" scrolling="no" frameborder="0" height="386" sandbox="allow-scripts allow-same-origin"></iframe></div>
-
-
-
-<p data-paragraph="main">The survey raises an intriguing possibility: that young women are likelier than their older counterparts to see the Supreme Court’s ruling, and the ensuing scramble to ban abortion in red states, as an attack on <em>all</em> women and not just a new set of restrictions on a medical procedure. </p>
-
-
-
-<p data-paragraph="main">The researchers asked a set of questions designed to gauge whether people think of themselves as part of a distinct group, where things that happen to other people like them matter for them as well. The findings suggest that women who believe that what happens to other women in the U.S. affects their lives too were far likelier than women who don’t feel those connections to support abortion rights. Young women, meanwhile, were especially likely to feel a sense of linked fate with other women. About two-thirds (67 percent) of 18- to 29-year-old women said that everything or most things that happen to other women affected them too, compared with only 36 percent of women 65 or over. </p>
-
-
-
-<p data-paragraph="main">Young women seem to feel a more acute sense of discrimination in general. The vast majority (82 percent) of women 65 or over say that people don’t treat them any differently because of their gender, whereas a much smaller majority (54 percent) of young women say the same. And 39 percent of young women say they think people treat them worse because of their gender.</p>
-
-
-
-<p data-paragraph="main"></p><p data-paragraph="main">Watch: https://abcnews.go.com/Politics/video/abortion-access-north-carolina-hinge-seats-state-legislature-90385347</p>
-
-
-
-<p data-paragraph="main">In other words, young women might be more likely than other demographic groups to feel that their own lives could be affected by abortion bans. Of course, women between 18 and 29 do make up <a href="https://fivethirtyeight.com/features/how-abortion-has-changed-since-1973/" target="_blank" rel="noopener">a large share of women</a> who get abortions, but the number of abortions performed in the U.S. every year is relatively small — suggesting that this sense of shared consequences could make this issue feel especially personal for young women, particularly in the short term. “I could imagine a woman in her 20s looking at the cost of child care, the difficulty of being a parent, and thinking, ‘Being able to get an abortion is something that really matters for women,’” said Kelly Dittmar, a political scientist at Rutgers University-Camden and the director of research at the Center for American Women and Politics.</p>
-
-
-
-<p data-paragraph="main">The bad news for Democrats is that there are signs that abortion may be fading as a priority, even for younger women. The American Perspectives Survey was conducted in August, but it’s possible that if the same questions were asked today, enthusiasm around the issue of abortion might be lower. According to the ongoing FiveThirtyEight/Ipsos poll, shortly after the Supreme Court’s ruling, 29 percent of reproductive-aged women (ages 18-44) said that abortion was one of the top three issues facing the country — a substantially higher share than women 45 or over (18 percent), men between 18 and 44 (18 percent), and men 45 or over (12 percent).<a data-footnote-id="27" href="https://fivethirtyeight.com/wp-json/wp/v2/espn_verticals/398#fn-27" data-footnote-content="&lt;p&gt;&lt;p&gt;Based on five waves of a 2022 FiveThirtyEight/Ipsos panel survey drawn from a sample of up to 2,006 adults. Each sample was weighted to match the general population. Respondents could select up to three issues from a list of 20.&lt;/p&gt;
-&lt;/p&gt;"><sup>27</sup></a> But since then, the issue has lost some steam. Even among reproductive-aged women, only 12 percent listed abortion as one of their highest priorities in the most recent wave of the survey, conducted Sept. 6-19.</p>
-
-
-
-<p data-paragraph="main"></p><div><iframe title="Abortion isn't as high a priority for some younger women" aria-label="Split Bars" src="https://datawrapper.dwcdn.net/Aqq03/12/" scrolling="no" frameborder="0" height="368" sandbox="allow-scripts allow-same-origin"></iframe></div>
-
-
-
-<p data-paragraph="main">That trend probably has something to do with Americans’ hearing less about abortion in the news now than in the summer. The FiveThirtyEight/Ipsos survey found that the share of reproductive-aged women who said they’d heard a lot about abortion in the news dropped from 70 percent just after the Dobbs ruling to 47 percent in September. So a lot could depend on whether stories about people who can’t get abortions even in dire circumstances — like the <a href="https://www.dispatch.com/story/news/2022/07/14/what-know-10-year-old-rape-survivor-and-columbus-man-arrested-indiana-abortion/10057679002/" target="_blank" rel="noopener">10-year-old rape survivor who had to travel</a> from Ohio to Indiana for an abortion in July — make their way back into the headlines over the coming month. And then there’s the fact that only 25 percent of young women in the American Perspectives Survey said they were following news about the midterm elections very closely, suggesting that their concern about abortion rights may not translate into enthusiasm to vote in the upcoming elections.</p>
-
-
-
-<p data-paragraph="main">But Mary-Kate Lizotte, an Augusta University political scientist who studies women’s political participation, said that the abrupt restrictions on abortion access could end up being a generation-defining event, even if young women don’t dramatically reshape the outcome of the midterms. After all, only a handful of races will determine which party controls Congress — not all of them statewide — and these <a href="https://www.pewresearch.org/fact-tank/2014/07/24/voter-turnout-always-drops-off-for-midterm-elections-but-why/" target="_blank" rel="noopener">elections generally get less attention</a> than in presidential years. Whether or not the issue brings a lot of young women to the polls in key races, she said, the Supreme Court’s decision and the bans that followed are likely to shape young women’s views of the GOP for years to come, solidifying their antipathy to the party as they grow older and start voting more regularly. </p>
-
-
-
-<p data-paragraph="main">“For a lot of voters, particularly young women who are going to be impacted in a very real way, this is going to be one of the first times that they really cared about something when it comes to politics,” said Lizotte. “That’s going to anchor the way many [young women] view the parties — not just in 2022, but in 2024 and beyond.” </p>
-
-
-
-<p data-paragraph="main"><strong>CORRECTION (Oct. 5, 2022, 11:05 a.m.):</strong> This article has been updated to explain the methodology and question wording used in the ongoing FiveThirtyEight/Ipsos panel survey. Specifically, we corrected the question wording to clarify that respondents were not asked to give the top three issues that were most important to them but rather were asked to select <em>up to three</em> issues from a list of 20. The second chart has been updated along the same lines.</p>]]></description>
-			<pubDate>Tue, 04 Oct 2022 14:58:00 +0100</pubDate>
-			<guid isPermaLink="false">1664896501846341</guid>
 		</item>
 
 	</channel>
