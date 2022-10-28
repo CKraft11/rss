@@ -3,9 +3,167 @@
 		<title>Main stream | FreshRSS</title>
 		<link>http://radon</link>
 		<description>RSS feed of Main stream | FreshRSS</description>
-		<pubDate>Fri, 28 Oct 2022 14:59:06 +0100</pubDate>
-		<lastBuildDate>Fri, 28 Oct 2022 13:59:06 GMT</lastBuildDate>
+		<pubDate>Fri, 28 Oct 2022 15:29:06 +0100</pubDate>
+		<lastBuildDate>Fri, 28 Oct 2022 14:29:06 GMT</lastBuildDate>
 		<atom:link href="http://radon/i/?a=rss" rel="self" type="application/rss+xml" />
+		<item>
+			<title>Where Our Model Thinks The Polls Might Be Biased</title>
+			<link>https://fivethirtyeight.com/features/where-our-model-thinks-the-polls-might-be-biased/</link>
+						<dc:creator>Nate Silver</dc:creator>
+			<dc:creator>Nate Silver</dc:creator>
+			<category>2022 Election</category>
+			<category>Election Update</category>
+			<description><![CDATA[<div>
+
+			<div>
+
+				<header><div>
+													<p><a href="https://fivethirtyeight.com/tag/2022-election/" name="">2022 Election</a></p>
+						
+													<h1>Where Our Model Thinks The Polls Might Be Biased</h1>
+																	</div>
+
+										<div>
+						<div>
+															<p>By <a href="https://fivethirtyeight.com/contributors/nate-silver/" title="" rel="author">Nate Silver</a></p>
+																					<p>
+								<time>
+									Oct. 28, 2022, at 9:52 AM								</time></p>
+						</div>
+						<div>
+													</div> 
+					</div>
+					
+				</header><figure><span>
+									<div>
+						<picture><source media="(min-width: 768px)"><source><img alt="2022-ELECTIONUPDATE-1028-4×3" src="https://fivethirtyeight.com/wp-content/uploads/2022/10/2022-ELECTIONUPDATE-1028-4x3-1.png?w=916" data-sizes="(max-width: 768px) 100vw, (max-width: 1080px) 66vw, 684px" data-src="https://fivethirtyeight.com/wp-content/uploads/2022/10/2022-ELECTIONUPDATE-1028-4x3-1.png?w=916" data-srcset="https://fivethirtyeight.com/wp-content/uploads/2022/10/2022-ELECTIONUPDATE-1028-4x3-1.png?w=916 1x, https://fivethirtyeight.com/wp-content/uploads/2022/10/2022-ELECTIONUPDATE-1028-4x3-1.png?w=1832 2x"></source></source></picture></div>
+
+				
+			</span>
+
+			
+								<figcaption><p>ILLUSTRATION BY EMILY SCHERER</p>
+											</figcaption></figure></div>
+
+			
+		</div>
+
+
+
+
+
+<p data-paragraph="main">With less than two weeks until Election Day, Republicans now have a 48 percent chance of taking the Senate, according to FiveThirtyEight’s Deluxe forecast, their highest figure since late July and putting the battle for Senate control <a href="https://fivethirtyeight.com/features/the-senate-is-a-toss-up/" target="_blank" rel="noopener">officially in toss-up territory</a>. But whether that shift will continue or has peaked is in the eye of the beholder.</p>
+
+
+
+<p data-paragraph="main">Most recently, the GOP hasn’t seen the rapid gains in the forecast that they did a week or two ago, and if you scroll through our <a href="https://projects.fivethirtyeight.com/polls/" target="_blank" rel="noopener">latest polls page</a>, you can find <a href="https://www.monmouth.edu/polling-institute/reports/monmouthpoll_ga_102622/" target="_blank" rel="noopener">a</a> <a href="https://www.bw.edu/news/2022/fall/us-senate-race-remains-close-in-final-bw-ohio-pulse-poll" target="_blank" rel="noopener">decent</a> <a href="https://www.filesforprogress.org/datasets/2022/10/dfp_nh_midterm_tabs.pdf" target="_blank" rel="noopener">number</a> of <a href="https://www.cnn.com/2022/10/24/politics/cnn-poll-senate-races-wisconsin-pennsylvania" target="_blank" rel="noopener">polls</a> that have good news for Democrats along with <a href="https://fivethirtyeight.com/features/gop-polls/" target="_blank" rel="noopener">quite a few others</a> that look strong for Republicans. Still, the current picture leaves Democrats without much margin to spare. Unless they can pull off an upset in North Carolina, Ohio, or Wisconsin, Democrats will need to win two of the three closest Senate races – Georgia, Pennsylvania and Nevada – in order to maintain their majority, while also holding Arizona and New Hampshire.</p>
+
+
+
+<p data-paragraph="main">In the House, meanwhile, Republicans have an <a href="https://projects.fivethirtyeight.com/2022-election-forecast/house/" target="_blank" rel="noopener">81 percent chance of taking over the chamber</a>, putting Democrats in a tough — although hardly impossible — position. (<a href="http://twodimes.net/poker/?g=h&amp;b=&amp;d=&amp;h=Ac+Ad%0D%0A5c+5d" target="_blank" rel="noopener">In poker terms</a>, it’s as though they have pocket 5’s against pocket aces.) Unlike in the Senate, Democrats will have to do more than just win the majority of toss-up races to control the House. In fact, there are now 219 seats that our model rates as lean Republican, likely Republican or solid Republican, one more than the 218 needed for a majority. So even if Democrats won <em>all</em> the toss-ups, it wouldn’t quite be enough.<a data-footnote-id="1" href="https://fivethirtyeight.com/wp-json/wp/v2/espn_verticals/398#fn-1" data-footnote-content="&lt;p&gt;&lt;p&gt;Although, in practice, in an election where things are going well enough for Democrats to win all the toss-ups, they’d probably pick up their fair share of lean Republican seats too.&lt;/p&gt;
+&lt;/p&gt;"><sup>1</sup></a> To keep the House, Democrats will need for our model to be systematically underestimating them.</p>
+
+
+
+<p data-paragraph="main">That can happen – <a href="https://fivethirtyeight.com/features/trump-is-just-a-normal-polling-error-behind-clinton/" target="_blank" rel="noopener">forecast and polling errors are correlated</a>. That said, what the <em>polls</em> say and what the FiveThirtyEight <em>forecast</em> says are not quite the same. Most importantly, our Deluxe forecast already assumes the Republicans probably <em>will</em> beat what polls currently show.</p>
+
+
+
+<p data-paragraph="main">Below, you can find a comparison between the FiveThirtyEight <a href="https://projects.fivethirtyeight.com/polls/senate/2022/nevada/" target="_blank" rel="noopener">polling average</a> for each Senate race where we calculate a polling average, and the projected margin of victory or defeat in the same races according to the Deluxe forecast:</p>
+
+
+<div>
+<section><header><h2>The Deluxe model expects Republicans to beat their polls</h2>
+ <p>FiveThirtyEight polling average and projected margin of victory (or defeat) from FiveThirtyEight Deluxe forecast as of Oct. 27, in 18 Senate races </p>
+ </header><table data-carpenter-slug="silver.eu080522.3"><thead><tr><th colspan="1" scope="col">State</th>
+ <th colspan="1" scope="col">Polling Average</th>
+ <th colspan="1" scope="col">Deluxe forecast</th>
+ </tr></thead><tbody><tr><td>New York</td>
+ <td>+15.5</td>
+ <td>+18.8</td>
+ </tr><tr><td>Illinois</td>
+ <td>+14.7</td>
+ <td>+16.3</td>
+ </tr><tr><td>Connecticut</td>
+ <td>+12.4</td>
+ <td>+15.8</td>
+ </tr><tr><td>Colorado</td>
+ <td>+8.8</td>
+ <td>+7.6</td>
+ </tr><tr><td>Washington</td>
+ <td>+8.6</td>
+ <td>+9.4</td>
+ </tr><tr><td>New Hampshire</td>
+ <td>+5.3</td>
+ <td>+5.0</td>
+ </tr><tr><td>Arizona</td>
+ <td>+3.6</td>
+ <td>+3.7</td>
+ </tr><tr><td>Pennsylvania</td>
+ <td>+2.5</td>
+ <td>+1.5</td>
+ </tr><tr><td>Georgia</td>
+ <td>+1.7</td>
+ <td>+0.3</td>
+ </tr><tr><td>Nevada</td>
+ <td>+0.5</td>
+ <td>-0.3</td>
+ </tr><tr><td>Ohio</td>
+ <td>-1.4</td>
+ <td>-4.5</td>
+ </tr><tr><td>North Carolina</td>
+ <td>-2.6</td>
+ <td>-4.4</td>
+ </tr><tr><td>Wisconsin</td>
+ <td>-3.4</td>
+ <td>-4.2</td>
+ </tr><tr><td>Florida</td>
+ <td>-7.0</td>
+ <td>-9.2</td>
+ </tr><tr><td>Iowa</td>
+ <td>-7.1</td>
+ <td>-13.5</td>
+ </tr><tr><td>Utah*</td>
+ <td>-7.8</td>
+ <td>-13.2</td>
+ </tr><tr><td>Missouri</td>
+ <td>-11.5</td>
+ <td>-18.1</td>
+ </tr><tr><td>Oklahoma†</td>
+ <td>-15.7</td>
+ <td>-25.3</td>
+ </tr></tbody></table><footer><p>* In Utah, the figures reflect Mike Lee’s margin against Evan McMullin, an independent.</p>
+ <p>† In Oklahoma, figures reflect the regular Senate election; Oklahoma also has a special Senate election.</p>
+ <p>Senate races with a polling average on <a href="https://projects.fivethirtyeight.com/polls/%E2%80%9C">FiveThirtyEight’s polls page</a> are included. </p>
+ </footer></section></div>
+
+
+<p data-paragraph="main">In Ohio, for instance, Democrat Tim Ryan trails by only 1.4 percentage points in our polling average, but is projected to lose by 4.5 points, which implies a 3-point polling bias against Republican J.D. Vance.</p>
+
+
+
+<p data-paragraph="main">That’s on the high side for the competitive Senate races, but the Deluxe forecast does expect Republicans to somewhat overperform their polls in most of the other competitive races: by 1 to 2 points in Georgia and North Carolina, and by about 1 point in Wisconsin, Nevada and Pennsylvania. It doesn’t expect much polling bias in Arizona and New Hampshire, by contrast.</p>
+
+
+
+<p data-paragraph="main">In some of the less competitive races, the Deluxe forecasts thinks the bias could be more severe. Check out Iowa, Missouri and Oklahoma, for instance, where Republicans are projected to do much better than their polling – although there are relatively few recent polls of Missouri and Oklahoma. Meanwhile, Democrats are expected to outperform their polls in blue-state races such as Washington, Connecticut, Illinois and New York.</p>
+
+
+
+<p data-paragraph="main">To some degree, this <a href="https://fivethirtyeight.com/features/why-fivethirtyeight-gave-trump-a-better-chance-than-almost-anyone-else/" target="_blank" rel="noopener">matches the pattern from previous years</a>, although not perfectly so.<a data-footnote-id="2" href="https://fivethirtyeight.com/wp-json/wp/v2/espn_verticals/398#fn-2" data-footnote-content="&lt;p&gt;&lt;p&gt;We aren’t expecting an especially large polling error in Wisconsin, for instance, where polls were poor in 2016 and 2020 – although the polls have Republican Ron Johnson ahead there anyway, so he doesn’t need a polling error to win.&lt;/p&gt;
+&lt;/p&gt;"><sup>2</sup></a> But one fairly good heuristic is simply that Republicans tend to outperform their polls in red states, while Democrats do so in blue states – see the map below for an example of this from 2016.</p>
+
+
+
+<p data-paragraph="main">Why do Republicans do better in the forecast than the polling average? There isn’t any built-in <a href="https://gelliottmorris.substack.com/p/the-polling-website-where-republicans" target="_blank" rel="noopener">unskewing</a> or assumption of polling bias in the model. Rather, it’s a bunch of little things that tend to add up:</p>
+
+
+
+<ul><li>Our forecast makes additional adjustments to the polls beyond what is shown in our polling averages. In particular, this includes a likely voter adjustment and a timeline adjustment, both of which help Republicans at the margin. The likely voter adjustment helps Republicans because they tend to do better in polls of likely voters than registered ones.<a data-footnote-id="3" href="https://fivethirtyeight.com/wp-json/wp/v2/espn_verticals/398#fn-3" data-footnote-content="&lt;p&gt;&lt;p&gt;Although we’re at the point now where there are relatively few registered-voter polls of Senate races, so this doesn’t make much difference in most races.&lt;/p&gt;
+&lt;/p&gt;"><sup>3</sup></a> The timeline adjustment accounts for how the generic ballot has shifted since polls were conducted, and since it’s <a href="https://projects.fivethirtyeight.com/polls/generic-ballot/">shifted in a somewhat Republican direction recently</a>, that tends to help the GOP too.</li><li>In some states – Rust Belt swing states such as Pennsylvania, Ohio, Wisconsin, and redder ones like Iowa and Missouri – the “fundamentals” our model considers are more favorable for Republicans than the polls. The most important of these is simply <a href="https://fivethirtyeight.com/features/how-red-or-blue-is-your-state-your-congressional-district/">overall state partisanship</a>. Republicans have done fairly well in these states in recent years, so you might expect them to do well again in what is likely to be a fairly good year nationally for the party.</li><li>In addition, the model considers macro-level fundamentals, such as the poor historic performance of the president’s party at the midterms, and <a href="https://projects.fivethirtyeight.com/biden-approval-rating/">President Biden’s mediocre approval ratings</a>. So the model endorses the idea that Democrats <a href="https://www.nbcnews.com/politics/2022-election/democrats-agonize-2022-election-facing-political-gravity-final-stretch-rcna54148">have been coming back to gravity</a>. These factors zero out in the model by Election Day, though, so they don’t have too much effect now given how close we are to the election.</li><li>Finally, the <a href="https://www.cookpolitical.com/ratings/senate-race-ratings">expert ratings</a> that the Deluxe model uses are more bullish for Republicans in several key Senate races than polls and other objective indicators.</li></ul><p data-paragraph="main">While none of this is good news for Democrats, it should guard against one potential misinterpretation of our forecast. You might be tempted to take the FiveThirtyEight Deluxe forecast, and then mentally shade it further to Republicans because you worry that the polls could underestimate Republicans again. Heck, <a href="https://fivethirtyeight.com/features/5-reasons-for-democrats-to-still-be-concerned-about-the-midterms/" target="_blank" rel="noopener">I’ve even been tempted to do this myself</a>. But the Deluxe forecast <em>already assumes</em> that Republicans will do better than what current polls show, by around 2 percentage points in the average Congressional race. You may be double-counting, in other words, if you take the Deluxe forecast and then assume additional polling bias on top of it. Some of it is already baked into the model.</p>]]></description>
+			<pubDate>Fri, 28 Oct 2022 14:52:00 +0100</pubDate>
+			<guid isPermaLink="false">1666966501937784</guid>
+		</item>
 		<item>
 			<title>The Supreme Court Could Overturn Another Major Precedent. This Time, Americans Might Agree.</title>
 			<link>https://fivethirtyeight.com/features/the-supreme-court-could-overturn-another-major-precedent-this-time-americans-might-agree/</link>
@@ -105,8 +263,8 @@
 
 
 
-<figure><img loading="lazy" width="1150" height="920" src="https://fivethirtyeight.com/wp-content/uploads/2022/10/biden-approval-rating-2-2.png" alt="" data-src="https://fivethirtyeight.com/wp-content/uploads/2022/10/biden-approval-rating-2-2.png" data-srcset="https://fivethirtyeight.com/wp-content/uploads/2022/10/biden-approval-rating-2-2.png?w=712 1x, https://fivethirtyeight.com/wp-content/uploads/2022/10/biden-approval-rating-2-2.png?w=1424 2x"></figure><p data-paragraph="main">According to FiveThirtyEight’s <a href="https://projects.fivethirtyeight.com/biden-approval-rating/" target="_blank" rel="noopener">presidential approval tracker</a>,<a data-footnote-id="1" href="https://fivethirtyeight.com/wp-json/wp/v2/espn_verticals/398#fn-1" data-footnote-content="&lt;p&gt;&lt;p&gt;As of Thursday at 5 p.m. Eastern.&lt;/p&gt;
-&lt;/p&gt;"><sup>1</sup></a> 42.3 percent of Americans approve of the job Biden is doing as president, while 53.0 percent disapprove (a net approval rating of -10.7 points). At this time last week, 42.0 percent approved and 53.4 percent disapproved (a net approval rating of -11.4 points). One month ago, Biden had an approval rating of 42.3 percent and a disapproval rating of 53.3 percent, for a net approval rating of -11.0 points.</p>
+<figure><img loading="lazy" width="1150" height="920" src="https://fivethirtyeight.com/wp-content/uploads/2022/10/biden-approval-rating-2-2.png" alt="" data-src="https://fivethirtyeight.com/wp-content/uploads/2022/10/biden-approval-rating-2-2.png" data-srcset="https://fivethirtyeight.com/wp-content/uploads/2022/10/biden-approval-rating-2-2.png?w=712 1x, https://fivethirtyeight.com/wp-content/uploads/2022/10/biden-approval-rating-2-2.png?w=1424 2x"></figure><p data-paragraph="main">According to FiveThirtyEight’s <a href="https://projects.fivethirtyeight.com/biden-approval-rating/" target="_blank" rel="noopener">presidential approval tracker</a>,<a data-footnote-id="4" href="https://fivethirtyeight.com/wp-json/wp/v2/espn_verticals/398#fn-4" data-footnote-content="&lt;p&gt;&lt;p&gt;As of Thursday at 5 p.m. Eastern.&lt;/p&gt;
+&lt;/p&gt;"><sup>4</sup></a> 42.3 percent of Americans approve of the job Biden is doing as president, while 53.0 percent disapprove (a net approval rating of -10.7 points). At this time last week, 42.0 percent approved and 53.4 percent disapproved (a net approval rating of -11.4 points). One month ago, Biden had an approval rating of 42.3 percent and a disapproval rating of 53.3 percent, for a net approval rating of -11.0 points.</p>
 
 
 
@@ -114,8 +272,8 @@
 
 
 
-<figure><img loading="lazy" width="1150" height="920" src="https://fivethirtyeight.com/wp-content/uploads/2022/10/generic-ballot-2-2.png" alt="" data-src="https://fivethirtyeight.com/wp-content/uploads/2022/10/generic-ballot-2-2.png" data-srcset="https://fivethirtyeight.com/wp-content/uploads/2022/10/generic-ballot-2-2.png?w=712 1x, https://fivethirtyeight.com/wp-content/uploads/2022/10/generic-ballot-2-2.png?w=1424 2x"></figure><p data-paragraph="main">In our average of polls of the <a href="https://projects.fivethirtyeight.com/congress-generic-ballot-polls/" target="_blank" rel="noopener">generic congressional ballot,</a><a data-footnote-id="2" href="https://fivethirtyeight.com/wp-json/wp/v2/espn_verticals/398#fn-2" data-footnote-content="&lt;p&gt;&lt;p&gt;As of Thursday at 5 p.m. Eastern.&lt;/p&gt;
-&lt;/p&gt;"><sup>2</sup></a> Republicans currently lead Democrats by 0.6 points (45.6 percent to 45.0 percent). A week ago, Republicans led by 0.1 point (45.0 percent to 44.9 percent). At this time last month, voters preferred Democrats by 1.4 points (45.0 percent to 43.5 percent).</p>]]></description>
+<figure><img loading="lazy" width="1150" height="920" src="https://fivethirtyeight.com/wp-content/uploads/2022/10/generic-ballot-2-2.png" alt="" data-src="https://fivethirtyeight.com/wp-content/uploads/2022/10/generic-ballot-2-2.png" data-srcset="https://fivethirtyeight.com/wp-content/uploads/2022/10/generic-ballot-2-2.png?w=712 1x, https://fivethirtyeight.com/wp-content/uploads/2022/10/generic-ballot-2-2.png?w=1424 2x"></figure><p data-paragraph="main">In our average of polls of the <a href="https://projects.fivethirtyeight.com/congress-generic-ballot-polls/" target="_blank" rel="noopener">generic congressional ballot,</a><a data-footnote-id="5" href="https://fivethirtyeight.com/wp-json/wp/v2/espn_verticals/398#fn-5" data-footnote-content="&lt;p&gt;&lt;p&gt;As of Thursday at 5 p.m. Eastern.&lt;/p&gt;
+&lt;/p&gt;"><sup>5</sup></a> Republicans currently lead Democrats by 0.6 points (45.6 percent to 45.0 percent). A week ago, Republicans led by 0.1 point (45.0 percent to 44.9 percent). At this time last month, voters preferred Democrats by 1.4 points (45.0 percent to 43.5 percent).</p>]]></description>
 			<pubDate>Fri, 28 Oct 2022 11:00:00 +0100</pubDate>
 			<guid isPermaLink="false">1666953001723832</guid>
 		</item>
@@ -252,14 +410,14 @@
 
 
 
-<p data-paragraph="main">In each of <a href="https://fivethirtyeight.com/tag/american-issues/" target="_blank" rel="noopener">our surveys this year</a>, “inflation or increasing costs” has ranked as the most important concern for the country, and it was no different this time around, as 65 percent of Americans selected that issue.<a data-footnote-id="3" href="https://fivethirtyeight.com/wp-json/wp/v2/espn_verticals/398#fn-3" data-footnote-content="&lt;p&gt;&lt;p&gt;Conducted Oct. 13-23, 2022, among 1,540 respondents. As was the case in the previous waves of our survey, we asked respondents about the most important issues in three different ways: an open-ended question where they could write what issue or issues were most important to them, and then two multiple-choice questions where respondents could choose up to three issues from a list of 20, including “other” or “none of these,” that they were either personally worried about or that they thought were most important to the country. The sample is weighted to match the general population. This poll’s margin of error is +/- 3.1 percentage points.&lt;/p&gt;
-&lt;/p&gt;"><sup>3</sup></a> This marked a new high in any of our six waves of issue polling, an indication that concerns about inflation have risen ahead of the election — a potentially beneficial political development for Republicans, who as the out-party can capitalize on the public’s economic concerns. Rounding out the top three issues were “political extremism or polarization” (32 percent) and “crime or gun violence” (28 percent). Meanwhile, “immigration” and “climate change” ranked fourth and fifth at 21 percent and 16 percent.</p>
+<p data-paragraph="main">In each of <a href="https://fivethirtyeight.com/tag/american-issues/" target="_blank" rel="noopener">our surveys this year</a>, “inflation or increasing costs” has ranked as the most important concern for the country, and it was no different this time around, as 65 percent of Americans selected that issue.<a data-footnote-id="6" href="https://fivethirtyeight.com/wp-json/wp/v2/espn_verticals/398#fn-6" data-footnote-content="&lt;p&gt;&lt;p&gt;Conducted Oct. 13-23, 2022, among 1,540 respondents. As was the case in the previous waves of our survey, we asked respondents about the most important issues in three different ways: an open-ended question where they could write what issue or issues were most important to them, and then two multiple-choice questions where respondents could choose up to three issues from a list of 20, including “other” or “none of these,” that they were either personally worried about or that they thought were most important to the country. The sample is weighted to match the general population. This poll’s margin of error is +/- 3.1 percentage points.&lt;/p&gt;
+&lt;/p&gt;"><sup>6</sup></a> This marked a new high in any of our six waves of issue polling, an indication that concerns about inflation have risen ahead of the election — a potentially beneficial political development for Republicans, who as the out-party can capitalize on the public’s economic concerns. Rounding out the top three issues were “political extremism or polarization” (32 percent) and “crime or gun violence” (28 percent). Meanwhile, “immigration” and “climate change” ranked fourth and fifth at 21 percent and 16 percent.</p>
 
 
 
-<figure><img loading="lazy" width="1422" height="2046" src="https://fivethirtyeight.com/wp-content/uploads/2022/10/skelley-fuong.IPSOS-PRE-ELECTION.1026-final.png" alt="A stream chart showing the share of Americans who said each issue was among the most important facing the county in six waves of a FiveThirtyEight/Ipsos survey, April to October 2022. The issues are: inflation, crime and gun violence, political extremism, climate change, immigration, government budget/debt, abortion, economic inequality, foreign conflict or terrorism, healthcare, election security, drug addiction, education, taxes, unemployment and natural disasters." data-src="https://fivethirtyeight.com/wp-content/uploads/2022/10/skelley-fuong.IPSOS-PRE-ELECTION.1026-final.png" data-srcset="https://fivethirtyeight.com/wp-content/uploads/2022/10/skelley-fuong.IPSOS-PRE-ELECTION.1026-final.png?w=712 1x, https://fivethirtyeight.com/wp-content/uploads/2022/10/skelley-fuong.IPSOS-PRE-ELECTION.1026-final.png?w=1424 2x"></figure><figure><img loading="lazy" width="670" height="1406" src="https://fivethirtyeight.com/wp-content/uploads/2022/10/skelley-fuong.IPSOS-PRE-ELECTION.1026-mob-use.png" alt="A stream chart showing the share of Americans who said each issue was among the most important facing the county in six waves of a FiveThirtyEight/Ipsos survey, April to October 2022. The issues are: inflation, crime and gun violence, political extremism, climate change, immigration, government budget/debt, abortion, economic inequality, foreign conflict or terrorism, healthcare, election security, drug addiction, education, taxes, unemployment and natural disasters." data-src="https://fivethirtyeight.com/wp-content/uploads/2022/10/skelley-fuong.IPSOS-PRE-ELECTION.1026-mob-use.png" data-srcset="https://fivethirtyeight.com/wp-content/uploads/2022/10/skelley-fuong.IPSOS-PRE-ELECTION.1026-mob-use.png?w=670 1x, https://fivethirtyeight.com/wp-content/uploads/2022/10/skelley-fuong.IPSOS-PRE-ELECTION.1026-mob-use.png?w=1340 2x"></figure><p data-paragraph="main">But with the election right around the corner, we wanted to take a closer look at the views of likely voters.<a data-footnote-id="4" href="https://fivethirtyeight.com/wp-json/wp/v2/espn_verticals/398#fn-4" data-footnote-content="&lt;p&gt;&lt;p&gt;Defined as respondents who were “certain or almost certain” to vote in the 2022 midterm elections.&lt;/p&gt;
-&lt;/p&gt;"><sup>4</sup></a> Overall, our poll found likely voters split evenly at 41 percent over whether they planned to vote for a Democrat or a Republican in the upcoming congressional election, about the same as in <a href="https://fivethirtyeight.com/features/democrats-republicans-climate-change-immigration-ipsos-poll/" target="_blank" rel="noopener">our September wave</a>. But because most likely voters will vote Democratic or Republican, we asked the other respondents — those who were undecided, planned to vote for an independent or third-party candidate, would not vote or skipped the question — which major party they would support if they <em>had</em> to choose, as voters who lean toward one party <a href="https://agadjanianpolitics.wordpress.com/2017/01/02/charting-the-behavior-of-leaners-vs-partisans-from-self-described-partisanship/" target="_blank" rel="noopener">tend to vote for that party</a>. Even with those responses incorporated, however, likely voters remained almost evenly divided: Forty-nine percent said they would back a Democratic candidate, and 48 percent a Republican one. Nearly all self-identified Democrats and Republicans planned to vote for their respective parties, while independents preferred Democrats over Republicans, 49 percent to 42 percent.<a data-footnote-id="5" href="https://fivethirtyeight.com/wp-json/wp/v2/espn_verticals/398#fn-5" data-footnote-content="&lt;p&gt;&lt;p&gt;When asked to choose between the major parties.&lt;/p&gt;
-&lt;/p&gt;"><sup>5</sup></a></p>
+<figure><img loading="lazy" width="1422" height="2046" src="https://fivethirtyeight.com/wp-content/uploads/2022/10/skelley-fuong.IPSOS-PRE-ELECTION.1026-final.png" alt="A stream chart showing the share of Americans who said each issue was among the most important facing the county in six waves of a FiveThirtyEight/Ipsos survey, April to October 2022. The issues are: inflation, crime and gun violence, political extremism, climate change, immigration, government budget/debt, abortion, economic inequality, foreign conflict or terrorism, healthcare, election security, drug addiction, education, taxes, unemployment and natural disasters." data-src="https://fivethirtyeight.com/wp-content/uploads/2022/10/skelley-fuong.IPSOS-PRE-ELECTION.1026-final.png" data-srcset="https://fivethirtyeight.com/wp-content/uploads/2022/10/skelley-fuong.IPSOS-PRE-ELECTION.1026-final.png?w=712 1x, https://fivethirtyeight.com/wp-content/uploads/2022/10/skelley-fuong.IPSOS-PRE-ELECTION.1026-final.png?w=1424 2x"></figure><figure><img loading="lazy" width="670" height="1406" src="https://fivethirtyeight.com/wp-content/uploads/2022/10/skelley-fuong.IPSOS-PRE-ELECTION.1026-mob-use.png" alt="A stream chart showing the share of Americans who said each issue was among the most important facing the county in six waves of a FiveThirtyEight/Ipsos survey, April to October 2022. The issues are: inflation, crime and gun violence, political extremism, climate change, immigration, government budget/debt, abortion, economic inequality, foreign conflict or terrorism, healthcare, election security, drug addiction, education, taxes, unemployment and natural disasters." data-src="https://fivethirtyeight.com/wp-content/uploads/2022/10/skelley-fuong.IPSOS-PRE-ELECTION.1026-mob-use.png" data-srcset="https://fivethirtyeight.com/wp-content/uploads/2022/10/skelley-fuong.IPSOS-PRE-ELECTION.1026-mob-use.png?w=670 1x, https://fivethirtyeight.com/wp-content/uploads/2022/10/skelley-fuong.IPSOS-PRE-ELECTION.1026-mob-use.png?w=1340 2x"></figure><p data-paragraph="main">But with the election right around the corner, we wanted to take a closer look at the views of likely voters.<a data-footnote-id="7" href="https://fivethirtyeight.com/wp-json/wp/v2/espn_verticals/398#fn-7" data-footnote-content="&lt;p&gt;&lt;p&gt;Defined as respondents who were “certain or almost certain” to vote in the 2022 midterm elections.&lt;/p&gt;
+&lt;/p&gt;"><sup>7</sup></a> Overall, our poll found likely voters split evenly at 41 percent over whether they planned to vote for a Democrat or a Republican in the upcoming congressional election, about the same as in <a href="https://fivethirtyeight.com/features/democrats-republicans-climate-change-immigration-ipsos-poll/" target="_blank" rel="noopener">our September wave</a>. But because most likely voters will vote Democratic or Republican, we asked the other respondents — those who were undecided, planned to vote for an independent or third-party candidate, would not vote or skipped the question — which major party they would support if they <em>had</em> to choose, as voters who lean toward one party <a href="https://agadjanianpolitics.wordpress.com/2017/01/02/charting-the-behavior-of-leaners-vs-partisans-from-self-described-partisanship/" target="_blank" rel="noopener">tend to vote for that party</a>. Even with those responses incorporated, however, likely voters remained almost evenly divided: Forty-nine percent said they would back a Democratic candidate, and 48 percent a Republican one. Nearly all self-identified Democrats and Republicans planned to vote for their respective parties, while independents preferred Democrats over Republicans, 49 percent to 42 percent.<a data-footnote-id="8" href="https://fivethirtyeight.com/wp-json/wp/v2/espn_verticals/398#fn-8" data-footnote-content="&lt;p&gt;&lt;p&gt;When asked to choose between the major parties.&lt;/p&gt;
+&lt;/p&gt;"><sup>8</sup></a></p>
 
 
 
@@ -267,8 +425,8 @@
 
 
 
-<p data-paragraph="main">But while likely voters were split on which party they planned to vote for, they largely felt that neither party had earned the right to govern after November. Overall, 51 percent of likely voters said Democrats hadn’t earned another two years controlling the federal government, while 39 percent said they had.<a data-footnote-id="6" href="https://fivethirtyeight.com/wp-json/wp/v2/espn_verticals/398#fn-6" data-footnote-content="&lt;p&gt;&lt;p&gt;Likely voters could select “yes,” “no,” “don’t know” or skip the question.&lt;/p&gt;
-&lt;/p&gt;"><sup>6</sup></a> Among independents, 50 percent said Democrats didn’t deserve another two years and 34 percent said they did, while Democrats and Republicans mostly answered in accordance with their party. </p>
+<p data-paragraph="main">But while likely voters were split on which party they planned to vote for, they largely felt that neither party had earned the right to govern after November. Overall, 51 percent of likely voters said Democrats hadn’t earned another two years controlling the federal government, while 39 percent said they had.<a data-footnote-id="9" href="https://fivethirtyeight.com/wp-json/wp/v2/espn_verticals/398#fn-9" data-footnote-content="&lt;p&gt;&lt;p&gt;Likely voters could select “yes,” “no,” “don’t know” or skip the question.&lt;/p&gt;
+&lt;/p&gt;"><sup>9</sup></a> Among independents, 50 percent said Democrats didn’t deserve another two years and 34 percent said they did, while Democrats and Republicans mostly answered in accordance with their party. </p>
 
 
 
@@ -292,8 +450,8 @@
 
 
 
-<p data-paragraph="main">We also wanted to know what voters thought were the values and beliefs of the two major parties. Overall, almost 79 percent of likely voters said they understood the values and beliefs of each party “very” or “somewhat” well, but there were some notable, if unsurprising, differences.<a data-footnote-id="7" href="https://fivethirtyeight.com/wp-json/wp/v2/espn_verticals/398#fn-7" data-footnote-content="&lt;p&gt;&lt;p&gt;Other options included “not very well,” “not at all” or skipping the question.&lt;/p&gt;
-&lt;/p&gt;"><sup>7</sup></a> About 9 in 10 Democrats and Republicans said they knew their party, whereas around two-thirds said the same of the opposition. Meanwhile, about 80 percent of independents said they understood each party. </p>
+<p data-paragraph="main">We also wanted to know what voters thought were the values and beliefs of the two major parties. Overall, almost 79 percent of likely voters said they understood the values and beliefs of each party “very” or “somewhat” well, but there were some notable, if unsurprising, differences.<a data-footnote-id="10" href="https://fivethirtyeight.com/wp-json/wp/v2/espn_verticals/398#fn-10" data-footnote-content="&lt;p&gt;&lt;p&gt;Other options included “not very well,” “not at all” or skipping the question.&lt;/p&gt;
+&lt;/p&gt;"><sup>10</sup></a> About 9 in 10 Democrats and Republicans said they knew their party, whereas around two-thirds said the same of the opposition. Meanwhile, about 80 percent of independents said they understood each party. </p>
 
 
 
@@ -392,13 +550,13 @@
 
 
 
-<p data-paragraph="main">There’s a sense, in conversations with voters like Watson and Vasquez, that the country is in the midst of a reckoning over what it means to be Christian in America.<a data-footnote-id="8" href="https://fivethirtyeight.com/wp-json/wp/v2/espn_verticals/398#fn-8" data-footnote-content="&lt;p&gt;&lt;p&gt;Crystal Vasquez, Kathy Watson, Becky Carrizales and Scott Barum participated in FiveThirtyEight’s survey with PerryUndem and YouGov. Carolyn Novak participated in an online focus group conducted separately by FiveThirtyEight and PerryUndem.&lt;/p&gt;
-&lt;/p&gt;"><sup>8</sup></a> On one side, there are the people who see Christians <a href="https://www.theatlantic.com/politics/archive/2016/06/the-christians-who-believe-theyre-being-persecuted-in-america/488468/" target="_blank" rel="noopener">as the victims</a> of a successful campaign to infuse the country with secular values, forcing Christians — particularly conservative ones — to accept values they violently disagree with. But many Americans think Christians occupy a very different role. In their version of the country’s current drama, Christians are the villains, <a href="https://www.nytimes.com/2022/07/08/us/christian-nationalism-politicians.html" target="_blank" rel="noopener">ensconcing their own beliefs in law and politics</a> even as their numbers dwindle. There’s a thread of unease on both sides — as if the one thing everyone agrees on is that these two ways of thinking about Christianity in America simply can’t coexist.</p>
+<p data-paragraph="main">There’s a sense, in conversations with voters like Watson and Vasquez, that the country is in the midst of a reckoning over what it means to be Christian in America.<a data-footnote-id="11" href="https://fivethirtyeight.com/wp-json/wp/v2/espn_verticals/398#fn-11" data-footnote-content="&lt;p&gt;&lt;p&gt;Crystal Vasquez, Kathy Watson, Becky Carrizales and Scott Barum participated in FiveThirtyEight’s survey with PerryUndem and YouGov. Carolyn Novak participated in an online focus group conducted separately by FiveThirtyEight and PerryUndem.&lt;/p&gt;
+&lt;/p&gt;"><sup>11</sup></a> On one side, there are the people who see Christians <a href="https://www.theatlantic.com/politics/archive/2016/06/the-christians-who-believe-theyre-being-persecuted-in-america/488468/" target="_blank" rel="noopener">as the victims</a> of a successful campaign to infuse the country with secular values, forcing Christians — particularly conservative ones — to accept values they violently disagree with. But many Americans think Christians occupy a very different role. In their version of the country’s current drama, Christians are the villains, <a href="https://www.nytimes.com/2022/07/08/us/christian-nationalism-politicians.html" target="_blank" rel="noopener">ensconcing their own beliefs in law and politics</a> even as their numbers dwindle. There’s a thread of unease on both sides — as if the one thing everyone agrees on is that these two ways of thinking about Christianity in America simply can’t coexist.</p>
 
 
 
-<p data-paragraph="main">A <a href="https://perryundem.com/wp-content/uploads/2022/10/538-PerryUndem-YouGov-Survey_Topline-Results.pdf" target="_blank" rel="noopener">FiveThirtyEight/PerryUndem/YouGov survey</a> of likely voters shows just how deep this fissure runs.<a data-footnote-id="9" href="https://fivethirtyeight.com/wp-json/wp/v2/espn_verticals/398#fn-9" data-footnote-content="&lt;p&gt;&lt;p&gt;Conducted Aug. 10-21, 2022, among 1,796 likely voters, including oversamples of Black, Latino and Asian American/Pacific Islander respondents. Likely voters included registered voters who said that they are “almost certain to” or will “probably” vote in the November midterm elections. The sample is weighted to match the general population. The poll’s margin of error is +/- 3 percentage points.&lt;/p&gt;
-&lt;/p&gt;"><sup>9</sup></a> In this second installment of our exploration of invisible divides — the differences in worldview that shape how people vote and think about their place in America — <a href="https://perryundem.com/wp-content/uploads/2022/10/538-regression-placeholder.pdf" target="_blank" rel="noopener">we found profound disagreements</a> about how much power Christians really have, and the role they should play in the country’s politics and culture. Like the other divides we’re exploring, these divisions track fairly neatly along partisan lines and help explain why the gap between Republicans and Democrats sometimes feels unbridgeable: It’s because their ways of thinking about the world are increasingly irreconcilable.</p>
+<p data-paragraph="main">A <a href="https://perryundem.com/wp-content/uploads/2022/10/538-PerryUndem-YouGov-Survey_Topline-Results.pdf" target="_blank" rel="noopener">FiveThirtyEight/PerryUndem/YouGov survey</a> of likely voters shows just how deep this fissure runs.<a data-footnote-id="12" href="https://fivethirtyeight.com/wp-json/wp/v2/espn_verticals/398#fn-12" data-footnote-content="&lt;p&gt;&lt;p&gt;Conducted Aug. 10-21, 2022, among 1,796 likely voters, including oversamples of Black, Latino and Asian American/Pacific Islander respondents. Likely voters included registered voters who said that they are “almost certain to” or will “probably” vote in the November midterm elections. The sample is weighted to match the general population. The poll’s margin of error is +/- 3 percentage points.&lt;/p&gt;
+&lt;/p&gt;"><sup>12</sup></a> In this second installment of our exploration of invisible divides — the differences in worldview that shape how people vote and think about their place in America — <a href="https://perryundem.com/wp-content/uploads/2022/10/538-regression-placeholder.pdf" target="_blank" rel="noopener">we found profound disagreements</a> about how much power Christians really have, and the role they should play in the country’s politics and culture. Like the other divides we’re exploring, these divisions track fairly neatly along partisan lines and help explain why the gap between Republicans and Democrats sometimes feels unbridgeable: It’s because their ways of thinking about the world are increasingly irreconcilable.</p>
 
 
 
@@ -407,8 +565,8 @@
 
 
 
-<p data-paragraph="main">Are Christians victims? It depends on who you ask. Nearly half (46 percent) of survey respondents told us that discrimination against Christians is a problem in American society today, while a majority (54 percent) think it’s not.<a data-footnote-id="10" href="https://fivethirtyeight.com/wp-json/wp/v2/espn_verticals/398#fn-10" data-footnote-content="&lt;p&gt;&lt;p&gt;Respondents were asked how big of a problem they viewed each topic from a list of 11.&lt;/p&gt;
-&lt;/p&gt;"><sup>10</sup></a> They were also divided along similar lines about whether far-right Christians are trying to impose their beliefs on other people: A majority (56 percent) agreed they are, while another 33 percent disagreed, and 10 percent weren’t sure. The political fissures on this question are as wide as religious divides, like church attendance, and sometimes wider — signaling that anxiety about what it means to be Christian may be shaped as much by people’s political allegiances as their religious ties.</p>
+<p data-paragraph="main">Are Christians victims? It depends on who you ask. Nearly half (46 percent) of survey respondents told us that discrimination against Christians is a problem in American society today, while a majority (54 percent) think it’s not.<a data-footnote-id="13" href="https://fivethirtyeight.com/wp-json/wp/v2/espn_verticals/398#fn-13" data-footnote-content="&lt;p&gt;&lt;p&gt;Respondents were asked how big of a problem they viewed each topic from a list of 11.&lt;/p&gt;
+&lt;/p&gt;"><sup>13</sup></a> They were also divided along similar lines about whether far-right Christians are trying to impose their beliefs on other people: A majority (56 percent) agreed they are, while another 33 percent disagreed, and 10 percent weren’t sure. The political fissures on this question are as wide as religious divides, like church attendance, and sometimes wider — signaling that anxiety about what it means to be Christian may be shaped as much by people’s political allegiances as their religious ties.</p>
 
 
 
@@ -432,9 +590,9 @@
 
 
 
-<p data-paragraph="main">Today, the beliefs and actions of a relatively small group of people may be calcifying this divide. A minority of Americans support views that could be described as Christian nationalist, an ideology <a href="https://academic.oup.com/book/33661" target="_blank" rel="noopener">defined by social scientists</a> as the belief that the U.S. is a Christian nation, and should be returned to its Christian foundations — by force, if necessary. According to our survey, only 27 percent of respondents agreed that the “government should favor Christianity over other religions,” and even fewer (22 percent) said that “God has called on conservative Christians to take control of our politics and culture.” Only 13 percent said that “the federal government should advocate for Christian religious values,”<a data-footnote-id="11" href="https://fivethirtyeight.com/wp-json/wp/v2/espn_verticals/398#fn-11" data-footnote-content="&lt;p&gt;&lt;p&gt;Other options included “the federal government should advocate for moral values that are shared by people of many faiths,” “the federal government should not advocate for any specific set of moral values,” “neither/no opinion” and skipping the question.&lt;/p&gt;
-&lt;/p&gt;"><sup>11</sup></a> and 19 percent said that “the federal government should stop enforcing separation of church and state.”<a data-footnote-id="12" href="https://fivethirtyeight.com/wp-json/wp/v2/espn_verticals/398#fn-12" data-footnote-content="&lt;p&gt;&lt;p&gt;Other options included “the federal government should enforce separation of church and state,” “neither/no opinion” and skipping the question.&lt;/p&gt;
-&lt;/p&gt;"><sup>12</sup></a></p>
+<p data-paragraph="main">Today, the beliefs and actions of a relatively small group of people may be calcifying this divide. A minority of Americans support views that could be described as Christian nationalist, an ideology <a href="https://academic.oup.com/book/33661" target="_blank" rel="noopener">defined by social scientists</a> as the belief that the U.S. is a Christian nation, and should be returned to its Christian foundations — by force, if necessary. According to our survey, only 27 percent of respondents agreed that the “government should favor Christianity over other religions,” and even fewer (22 percent) said that “God has called on conservative Christians to take control of our politics and culture.” Only 13 percent said that “the federal government should advocate for Christian religious values,”<a data-footnote-id="14" href="https://fivethirtyeight.com/wp-json/wp/v2/espn_verticals/398#fn-14" data-footnote-content="&lt;p&gt;&lt;p&gt;Other options included “the federal government should advocate for moral values that are shared by people of many faiths,” “the federal government should not advocate for any specific set of moral values,” “neither/no opinion” and skipping the question.&lt;/p&gt;
+&lt;/p&gt;"><sup>14</sup></a> and 19 percent said that “the federal government should stop enforcing separation of church and state.”<a data-footnote-id="15" href="https://fivethirtyeight.com/wp-json/wp/v2/espn_verticals/398#fn-15" data-footnote-content="&lt;p&gt;&lt;p&gt;Other options included “the federal government should enforce separation of church and state,” “neither/no opinion” and skipping the question.&lt;/p&gt;
+&lt;/p&gt;"><sup>15</sup></a></p>
 
 
 
@@ -530,8 +688,8 @@
 
 
 
-<p data-paragraph="main">Of course, many proponents of this theory lack data when making this assertion. The <a href="https://www.ipsos.com/en-us/news-polls/FiveThirtyEight-2022-midterm-election" target="_blank" rel="noopener">FiveThirtyEight/Ipsos poll</a>, conducted using Ipsos’s <a href="https://www.ipsos.com/en-us/solutions/public-affairs/knowledgepanel" target="_blank" rel="noopener">KnowledgePanel</a>, can shed some light on whether this is happening in 2022. Back in April, we launched a panel study with a group of about 2,000 Americans whose demographic makeup was representative of the U.S. The goal of the project was to see how their fears and beliefs changed in the six months leading up to the midterm elections. However, we’ve found this project has additional, unintended value. Following that initial survey, there was a large drop-off in participation in the second wave and a smaller drop-off between the second and third wave, after which participation largely plateaued. In total, there was a 23 percent decline in the number of participants between the first wave and the sixth and most recent wave (the results of this wave are forthcoming).<a data-footnote-id="13" href="https://fivethirtyeight.com/wp-json/wp/v2/espn_verticals/398#fn-13" data-footnote-content='&lt;p&gt;&lt;p&gt;We also saw &lt;a href="https://www.pewresearch.org/methods/2018/10/09/the-rbs-poll-comports-well-with-data-from-the-full-voter-file-about-the-partisanship-of-registered-voters/" target="_blank" rel="noopener"&gt;typical declines in the shares of responses&lt;/a&gt; by age and race, among other demographic groupings, such that younger, Black and Hispanic respondents participated at lower rates relative to other age groups and races and ethnicities.&lt;/p&gt;
-&lt;/p&gt;'><sup>13</sup></a> This allows us, in a limited way, to examine something called “nonresponse bias” — that is, who is <a href="https://www.nytimes.com/interactive/2022/10/24/opinion/frustrated-with-polling-pollsters-are-too.html" target="_blank" rel="noopener"><em>not</em> answering surveys</a> — and how it impacts polling data.</p>
+<p data-paragraph="main">Of course, many proponents of this theory lack data when making this assertion. The <a href="https://www.ipsos.com/en-us/news-polls/FiveThirtyEight-2022-midterm-election" target="_blank" rel="noopener">FiveThirtyEight/Ipsos poll</a>, conducted using Ipsos’s <a href="https://www.ipsos.com/en-us/solutions/public-affairs/knowledgepanel" target="_blank" rel="noopener">KnowledgePanel</a>, can shed some light on whether this is happening in 2022. Back in April, we launched a panel study with a group of about 2,000 Americans whose demographic makeup was representative of the U.S. The goal of the project was to see how their fears and beliefs changed in the six months leading up to the midterm elections. However, we’ve found this project has additional, unintended value. Following that initial survey, there was a large drop-off in participation in the second wave and a smaller drop-off between the second and third wave, after which participation largely plateaued. In total, there was a 23 percent decline in the number of participants between the first wave and the sixth and most recent wave (the results of this wave are forthcoming).<a data-footnote-id="16" href="https://fivethirtyeight.com/wp-json/wp/v2/espn_verticals/398#fn-16" data-footnote-content='&lt;p&gt;&lt;p&gt;We also saw &lt;a href="https://www.pewresearch.org/methods/2018/10/09/the-rbs-poll-comports-well-with-data-from-the-full-voter-file-about-the-partisanship-of-registered-voters/" target="_blank" rel="noopener"&gt;typical declines in the shares of responses&lt;/a&gt; by age and race, among other demographic groupings, such that younger, Black and Hispanic respondents participated at lower rates relative to other age groups and races and ethnicities.&lt;/p&gt;
+&lt;/p&gt;'><sup>16</sup></a> This allows us, in a limited way, to examine something called “nonresponse bias” — that is, who is <a href="https://www.nytimes.com/interactive/2022/10/24/opinion/frustrated-with-polling-pollsters-are-too.html" target="_blank" rel="noopener"><em>not</em> answering surveys</a> — and how it impacts polling data.</p>
 
 
 
@@ -539,8 +697,8 @@
 
 
 
-<p data-paragraph="main">The charts below show the share of various types of respondents from our initial survey who then took part in subsequent waves.<a data-footnote-id="14" href="https://fivethirtyeight.com/wp-json/wp/v2/espn_verticals/398#fn-14" data-footnote-content="&lt;p&gt;&lt;p&gt;The shares calculated for this analysis are not weighted. We’re focusing on unweighted data here to examine the raw number of people participating in surveys, their demographic breakdown and how that changes over time.&lt;/p&gt;
-&lt;/p&gt;"><sup>14</sup></a> By looking at each individual wave, we can get a sense of response rates for the different demographic groups we’ve surveyed: </p>
+<p data-paragraph="main">The charts below show the share of various types of respondents from our initial survey who then took part in subsequent waves.<a data-footnote-id="17" href="https://fivethirtyeight.com/wp-json/wp/v2/espn_verticals/398#fn-17" data-footnote-content="&lt;p&gt;&lt;p&gt;The shares calculated for this analysis are not weighted. We’re focusing on unweighted data here to examine the raw number of people participating in surveys, their demographic breakdown and how that changes over time.&lt;/p&gt;
+&lt;/p&gt;"><sup>17</sup></a> By looking at each individual wave, we can get a sense of response rates for the different demographic groups we’ve surveyed: </p>
 
 
 
@@ -564,8 +722,8 @@
 
 
 
-<p data-paragraph="main">Likewise, people who said they get most of their news from Fox News were also more likely than the average respondent to continue in the survey. And Americans who primarily get their news from social media or who do not consume political news at all were also among the most likely to drop out.<a data-footnote-id="15" href="https://fivethirtyeight.com/wp-json/wp/v2/espn_verticals/398#fn-15" data-footnote-content="&lt;p&gt;&lt;p&gt;Respondents were asked what their main source of news is. “Mainstream” sources include the answer choices “ABC / CBS / NBC News,” “The New York Times, Washington Post or Wall Street Journal,” “Telemundo,” “Univision,” “public television or radio” or “your local newspaper.” “Social” includes “YouTube” or “social media.” “Online” refers to “digital or online news.” Other options included “FOX News,” “MSNBC,” “CNN,” “Other” or “None of these” and skipping the question.&lt;/p&gt;
-&lt;/p&gt;"><sup>15</sup></a></p>
+<p data-paragraph="main">Likewise, people who said they get most of their news from Fox News were also more likely than the average respondent to continue in the survey. And Americans who primarily get their news from social media or who do not consume political news at all were also among the most likely to drop out.<a data-footnote-id="18" href="https://fivethirtyeight.com/wp-json/wp/v2/espn_verticals/398#fn-18" data-footnote-content="&lt;p&gt;&lt;p&gt;Respondents were asked what their main source of news is. “Mainstream” sources include the answer choices “ABC / CBS / NBC News,” “The New York Times, Washington Post or Wall Street Journal,” “Telemundo,” “Univision,” “public television or radio” or “your local newspaper.” “Social” includes “YouTube” or “social media.” “Online” refers to “digital or online news.” Other options included “FOX News,” “MSNBC,” “CNN,” “Other” or “None of these” and skipping the question.&lt;/p&gt;
+&lt;/p&gt;"><sup>18</sup></a></p>
 
 
 
@@ -659,8 +817,8 @@
 
 
 
-<p data-paragraph="main">Currently, 44 percent of the population<a data-footnote-id="16" href="https://fivethirtyeight.com/wp-json/wp/v2/espn_verticals/398#fn-16" data-footnote-content="&lt;p&gt;&lt;p&gt;Of the 50 states.&lt;/p&gt;
-&lt;/p&gt;"><sup>16</sup></a> resides in one of the 25 states where Republicans control state government, and 38 percent live in one of the 16 states controlled by Democrats. But that could change after the midterms when <a href="https://ballotpedia.org/State_legislative_elections,_2022" target="_blank" rel="noopener">88 state-legislative chambers</a> and <a href="https://projects.fivethirtyeight.com/2022-election-forecast/governor/" target="_blank" rel="noopener">36 governorships</a> are on the ballot.</p>
+<p data-paragraph="main">Currently, 44 percent of the population<a data-footnote-id="19" href="https://fivethirtyeight.com/wp-json/wp/v2/espn_verticals/398#fn-19" data-footnote-content="&lt;p&gt;&lt;p&gt;Of the 50 states.&lt;/p&gt;
+&lt;/p&gt;"><sup>19</sup></a> resides in one of the 25 states where Republicans control state government, and 38 percent live in one of the 16 states controlled by Democrats. But that could change after the midterms when <a href="https://ballotpedia.org/State_legislative_elections,_2022" target="_blank" rel="noopener">88 state-legislative chambers</a> and <a href="https://projects.fivethirtyeight.com/2022-election-forecast/governor/" target="_blank" rel="noopener">36 governorships</a> are on the ballot.</p>
 
 
 <div>
@@ -944,9 +1102,9 @@
 
 
 
-<p data-paragraph="main">Let’s start with three states where Democrats currently control the governorship and both chambers of the state legislature, but could potentially lose all three. In <strong>Nevada</strong>, the governor’s race is a toss-up, according to the <a href="https://projects.fivethirtyeight.com/2022-election-forecast/governor/nevada/" target="_blank" rel="noopener">FiveThirtyEight forecast</a>.<a data-footnote-id="17" href="https://fivethirtyeight.com/wp-json/wp/v2/espn_verticals/398#fn-17" data-footnote-content="&lt;p&gt;&lt;p&gt;All forecast odds are as of 5 p.m. Eastern on Tuesday, Oct. 25.&lt;/p&gt;
-&lt;/p&gt;"><sup>17</sup></a> And although Democratic mapmakers tried to make the chamber more solidly Democratic in redistricting, the state Assembly is rated “Lean Democratic” by <a href="https://projects.cnalysis.com/21-22/state-legislative/nevada#lower" target="_blank" rel="noopener">CNalysis</a>, a state-legislative forecasting website. Republicans could also flip the state Senate, though that will likely be a taller order. There are only <a href="https://projects.cnalysis.com/21-22/state-legislative/nevada#upper" target="_blank" rel="noopener">three competitive seats</a> this cycle, and Republicans need to win all three to take control, including one with a <a href="https://fivethirtyeight.com/features/how-red-or-blue-is-your-state-your-congressional-district/" target="_blank" rel="noopener">FiveThirtyEight partisan lean</a> of D+7.<a data-footnote-id="18" href="https://fivethirtyeight.com/wp-json/wp/v2/espn_verticals/398#fn-18" data-footnote-content="&lt;p&gt;&lt;p&gt;Partisan lean is the average margin difference between how a state or district votes and how the country votes overall. This version of partisan lean, meant to be used for congressional and gubernatorial elections, is calculated as 50 percent the state or district’s lean relative to the nation in the most recent presidential election, 25 percent its relative lean in the second-most-recent presidential election and 25 percent a custom state-legislative lean.&lt;/p&gt;
-&lt;/p&gt;"><sup>18</sup></a></p>
+<p data-paragraph="main">Let’s start with three states where Democrats currently control the governorship and both chambers of the state legislature, but could potentially lose all three. In <strong>Nevada</strong>, the governor’s race is a toss-up, according to the <a href="https://projects.fivethirtyeight.com/2022-election-forecast/governor/nevada/" target="_blank" rel="noopener">FiveThirtyEight forecast</a>.<a data-footnote-id="20" href="https://fivethirtyeight.com/wp-json/wp/v2/espn_verticals/398#fn-20" data-footnote-content="&lt;p&gt;&lt;p&gt;All forecast odds are as of 5 p.m. Eastern on Tuesday, Oct. 25.&lt;/p&gt;
+&lt;/p&gt;"><sup>20</sup></a> And although Democratic mapmakers tried to make the chamber more solidly Democratic in redistricting, the state Assembly is rated “Lean Democratic” by <a href="https://projects.cnalysis.com/21-22/state-legislative/nevada#lower" target="_blank" rel="noopener">CNalysis</a>, a state-legislative forecasting website. Republicans could also flip the state Senate, though that will likely be a taller order. There are only <a href="https://projects.cnalysis.com/21-22/state-legislative/nevada#upper" target="_blank" rel="noopener">three competitive seats</a> this cycle, and Republicans need to win all three to take control, including one with a <a href="https://fivethirtyeight.com/features/how-red-or-blue-is-your-state-your-congressional-district/" target="_blank" rel="noopener">FiveThirtyEight partisan lean</a> of D+7.<a data-footnote-id="21" href="https://fivethirtyeight.com/wp-json/wp/v2/espn_verticals/398#fn-21" data-footnote-content="&lt;p&gt;&lt;p&gt;Partisan lean is the average margin difference between how a state or district votes and how the country votes overall. This version of partisan lean, meant to be used for congressional and gubernatorial elections, is calculated as 50 percent the state or district’s lean relative to the nation in the most recent presidential election, 25 percent its relative lean in the second-most-recent presidential election and 25 percent a custom state-legislative lean.&lt;/p&gt;
+&lt;/p&gt;"><sup>21</sup></a></p>
 
 
 
@@ -1018,8 +1176,8 @@
 
 
 
-<p data-paragraph="main">In <strong>New Hampshire</strong>, Republicans took complete control of state government after the 2020 elections, and Democrats are eager to flip them back. The 400-member state House is prone to wild swings from election to election: It went from a 225-175 Republican majority <a href="https://www.ncsl.org/Portals/1/Documents/Elections/Legis_Control_2017_March_1_9%20am.pdf" target="_blank" rel="noopener">after 2016</a> to a 234-166 Democratic majority <a href="https://www.ncsl.org/Portals/1/Documents/Elections/Legis_Control_2019_February%201st.pdf" target="_blank" rel="noopener">after 2018</a> to a 213-187 Republican majority <a href="https://www.ncsl.org/documents/elections/Legis_Control_2-2021.pdf" target="_blank" rel="noopener">after 2020</a>.<a data-footnote-id="19" href="https://fivethirtyeight.com/wp-json/wp/v2/espn_verticals/398#fn-19" data-footnote-content="&lt;p&gt;&lt;p&gt;Such a large legislature in such a small state means that only a few votes are cast for each seat, making it easier for just a handful of swing voters to change an election result. In addition, some New Hampshire state House districts are represented by multiple representatives, so when one district swings, it can affect several seats.&lt;/p&gt;
-&lt;/p&gt;"><sup>19</sup></a> The Democratic Legislative Campaign Committee is also <a href="https://www.thedailybeast.com/newly-united-democrats-aim-to-flip-these-key-state-seats" target="_blank" rel="noopener">targeting the state Senate</a>, but that will be <a href="https://www.nhpr.org/nh-news/2022-10-24/nh-state-senate-redistricting-gerrymandering-elections-voting" target="_blank" rel="noopener">more difficult</a>. Democrats would have to win at least one district that former President Donald Trump carried in 2020 to gain a majority. Even if they manage that, they almost certainly won’t take complete control since Republican Gov. Chris Sununu is a <a href="https://projects.fivethirtyeight.com/2022-election-forecast/governor/new-hampshire/" target="_blank" rel="noopener">solid bet</a> to win reelection.</p>
+<p data-paragraph="main">In <strong>New Hampshire</strong>, Republicans took complete control of state government after the 2020 elections, and Democrats are eager to flip them back. The 400-member state House is prone to wild swings from election to election: It went from a 225-175 Republican majority <a href="https://www.ncsl.org/Portals/1/Documents/Elections/Legis_Control_2017_March_1_9%20am.pdf" target="_blank" rel="noopener">after 2016</a> to a 234-166 Democratic majority <a href="https://www.ncsl.org/Portals/1/Documents/Elections/Legis_Control_2019_February%201st.pdf" target="_blank" rel="noopener">after 2018</a> to a 213-187 Republican majority <a href="https://www.ncsl.org/documents/elections/Legis_Control_2-2021.pdf" target="_blank" rel="noopener">after 2020</a>.<a data-footnote-id="22" href="https://fivethirtyeight.com/wp-json/wp/v2/espn_verticals/398#fn-22" data-footnote-content="&lt;p&gt;&lt;p&gt;Such a large legislature in such a small state means that only a few votes are cast for each seat, making it easier for just a handful of swing voters to change an election result. In addition, some New Hampshire state House districts are represented by multiple representatives, so when one district swings, it can affect several seats.&lt;/p&gt;
+&lt;/p&gt;"><sup>22</sup></a> The Democratic Legislative Campaign Committee is also <a href="https://www.thedailybeast.com/newly-united-democrats-aim-to-flip-these-key-state-seats" target="_blank" rel="noopener">targeting the state Senate</a>, but that will be <a href="https://www.nhpr.org/nh-news/2022-10-24/nh-state-senate-redistricting-gerrymandering-elections-voting" target="_blank" rel="noopener">more difficult</a>. Democrats would have to win at least one district that former President Donald Trump carried in 2020 to gain a majority. Even if they manage that, they almost certainly won’t take complete control since Republican Gov. Chris Sununu is a <a href="https://projects.fivethirtyeight.com/2022-election-forecast/governor/new-hampshire/" target="_blank" rel="noopener">solid bet</a> to win reelection.</p>
 
 
 
@@ -1114,8 +1272,8 @@
 
 
 
-<p data-paragraph="main">Those numbers seem very likely to change this year. There are 25 women affiliated with a major party running for governor, and 12 of them have a 50-in-100 or greater chance of winning their race, according to our Deluxe forecast as of Tuesday at 12 p.m. Eastern. (All data in this story is as of that same date and time.) Of course, their odds vary a lot. But as the table below shows, nine women are at least likely to win their races — which means they have a minimum of a 75-in-100 chance of winning. Two of those candidates could set records for their state: Democrats Maura Healey of Massachusetts and Kathy Hochul of New York, both of whom would become the first woman <em>elected</em> as governor of their states.<a data-footnote-id="20" href="https://fivethirtyeight.com/wp-json/wp/v2/espn_verticals/398#fn-20" data-footnote-content='&lt;p&gt;&lt;p&gt;In 2001, then-Lt. Gov. Jane Swift of Massachusetts &lt;a href="https://www.nytimes.com/2001/04/11/us/in-a-first-woman-takes-over-governorship-of-massachusetts.html" target="_blank" rel="noopener"&gt;took over&lt;/a&gt; after then-Gov. Paul Cellucci resigned, making her the first woman to serve as governor of the state. In 2021, then-Lt. Gov. Hochul replaced Andrew Cuomo &lt;a href="https://www.nytimes.com/2021/08/08/nyregion/cuomo-kathy-hochul.html" target="_blank" rel="noopener"&gt;after he resigned as governor&lt;/a&gt;, becoming the first woman to serve as governor of the state.&lt;/p&gt;
-&lt;/p&gt;'><sup>20</sup></a></p>
+<p data-paragraph="main">Those numbers seem very likely to change this year. There are 25 women affiliated with a major party running for governor, and 12 of them have a 50-in-100 or greater chance of winning their race, according to our Deluxe forecast as of Tuesday at 12 p.m. Eastern. (All data in this story is as of that same date and time.) Of course, their odds vary a lot. But as the table below shows, nine women are at least likely to win their races — which means they have a minimum of a 75-in-100 chance of winning. Two of those candidates could set records for their state: Democrats Maura Healey of Massachusetts and Kathy Hochul of New York, both of whom would become the first woman <em>elected</em> as governor of their states.<a data-footnote-id="23" href="https://fivethirtyeight.com/wp-json/wp/v2/espn_verticals/398#fn-23" data-footnote-content='&lt;p&gt;&lt;p&gt;In 2001, then-Lt. Gov. Jane Swift of Massachusetts &lt;a href="https://www.nytimes.com/2001/04/11/us/in-a-first-woman-takes-over-governorship-of-massachusetts.html" target="_blank" rel="noopener"&gt;took over&lt;/a&gt; after then-Gov. Paul Cellucci resigned, making her the first woman to serve as governor of the state. In 2021, then-Lt. Gov. Hochul replaced Andrew Cuomo &lt;a href="https://www.nytimes.com/2021/08/08/nyregion/cuomo-kathy-hochul.html" target="_blank" rel="noopener"&gt;after he resigned as governor&lt;/a&gt;, becoming the first woman to serve as governor of the state.&lt;/p&gt;
+&lt;/p&gt;'><sup>23</sup></a></p>
 
 
 <div>
@@ -1292,8 +1450,8 @@
 
 
 
-<p data-paragraph="main">More women running for governor — and winning — is a noteworthy change in the status quo. But it’s not a full transformation, particularly because the pool of women likely to win gubernatorial races is overwhelmingly white.<a data-footnote-id="21" href="https://fivethirtyeight.com/wp-json/wp/v2/espn_verticals/398#fn-21" data-footnote-content="&lt;p&gt;&lt;p&gt;Data on candidate race and ethnicity was collected by political scientists Bernard Fraga and Hunter Rendleman. They relied on statements made by candidates, membership in racial and ethnic caucuses or organizations, racial and ethnic advocacy organizations, news articles and candidate websites. This research is, by nature, not comprehensive — for example, Fraga and Rendleman were unable to confirm some candidates’ racial identities — but the data is close enough to identify important trends. It is also worth noting that some candidates belong to multiple races or ethnicities. And the numbers in this story exclude candidates for whom race/ethnicity are unknown.&lt;/p&gt;
-&lt;/p&gt;"><sup>21</sup></a> Among the 25 women running, only four are candidates of color — and three of them have very low odds of winning. So it’s likely that <a href="https://projects.fivethirtyeight.com/2022-election-forecast/governor/new-mexico/" target="_blank" rel="noopener">Michelle Lujan Grisham</a>, the incumbent governor of New Mexico, will be the only woman of color elected governor this year.</p>
+<p data-paragraph="main">More women running for governor — and winning — is a noteworthy change in the status quo. But it’s not a full transformation, particularly because the pool of women likely to win gubernatorial races is overwhelmingly white.<a data-footnote-id="24" href="https://fivethirtyeight.com/wp-json/wp/v2/espn_verticals/398#fn-24" data-footnote-content="&lt;p&gt;&lt;p&gt;Data on candidate race and ethnicity was collected by political scientists Bernard Fraga and Hunter Rendleman. They relied on statements made by candidates, membership in racial and ethnic caucuses or organizations, racial and ethnic advocacy organizations, news articles and candidate websites. This research is, by nature, not comprehensive — for example, Fraga and Rendleman were unable to confirm some candidates’ racial identities — but the data is close enough to identify important trends. It is also worth noting that some candidates belong to multiple races or ethnicities. And the numbers in this story exclude candidates for whom race/ethnicity are unknown.&lt;/p&gt;
+&lt;/p&gt;"><sup>24</sup></a> Among the 25 women running, only four are candidates of color — and three of them have very low odds of winning. So it’s likely that <a href="https://projects.fivethirtyeight.com/2022-election-forecast/governor/new-mexico/" target="_blank" rel="noopener">Michelle Lujan Grisham</a>, the incumbent governor of New Mexico, will be the only woman of color elected governor this year.</p>
 
 
 
@@ -1305,8 +1463,8 @@
 
 
 
-<p data-paragraph="main">This year, it’s possible the number of women in Congress will hold steady — but it’s more likely that women’s representation will <em>decrease</em>. According to FiveThirtyEight’s Deluxe forecast, there are 124 women running for House seats and six women running for Senate who have a 50-in-100 or greater chance of winning their race. If a woman won in all those races,<a data-footnote-id="22" href="https://fivethirtyeight.com/wp-json/wp/v2/espn_verticals/398#fn-22" data-footnote-content="&lt;p&gt;&lt;p&gt;There are two races that feature two women candidates who each currently have a 50-in-100 chance of winning: Kansas’s 3rd District, with Republican Amanda Adkins and Democratic Rep. Sharice Davids; and the Alaska Senate race, with Kelly Tshibaka and Sen. Lisa Murkowski, both of whom are Republicans.&lt;/p&gt;
-&lt;/p&gt;"><sup>22</sup></a> there would still be 147 women in Congress, including the 19 female senators who are not up for reelection — the same number as now. But as the table below shows, a lot of those House candidates are in very close races.</p>
+<p data-paragraph="main">This year, it’s possible the number of women in Congress will hold steady — but it’s more likely that women’s representation will <em>decrease</em>. According to FiveThirtyEight’s Deluxe forecast, there are 124 women running for House seats and six women running for Senate who have a 50-in-100 or greater chance of winning their race. If a woman won in all those races,<a data-footnote-id="25" href="https://fivethirtyeight.com/wp-json/wp/v2/espn_verticals/398#fn-25" data-footnote-content="&lt;p&gt;&lt;p&gt;There are two races that feature two women candidates who each currently have a 50-in-100 chance of winning: Kansas’s 3rd District, with Republican Amanda Adkins and Democratic Rep. Sharice Davids; and the Alaska Senate race, with Kelly Tshibaka and Sen. Lisa Murkowski, both of whom are Republicans.&lt;/p&gt;
+&lt;/p&gt;"><sup>25</sup></a> there would still be 147 women in Congress, including the 19 female senators who are not up for reelection — the same number as now. But as the table below shows, a lot of those House candidates are in very close races.</p>
 
 
 <div>
@@ -1481,14 +1639,14 @@
 
 
 
-<p data-paragraph="main">It’s far from guaranteed that women will increase their numbers in Congress. If we narrow our criteria and look only at the women candidates who are likely to win their races — that is, the candidates with a 75-in-100 or greater chance of winning, according to the Deluxe forecast — the number of women in Congress shrinks to 135.<a data-footnote-id="23" href="https://fivethirtyeight.com/wp-json/wp/v2/espn_verticals/398#fn-23" data-footnote-content="&lt;p&gt;&lt;p&gt;Again, counting the 19 female senators who are not up for reelection.&lt;/p&gt;
-&lt;/p&gt;"><sup>23</sup></a> That would mean a substantial <em>reduction</em> in the number of women serving. </p>
+<p data-paragraph="main">It’s far from guaranteed that women will increase their numbers in Congress. If we narrow our criteria and look only at the women candidates who are likely to win their races — that is, the candidates with a 75-in-100 or greater chance of winning, according to the Deluxe forecast — the number of women in Congress shrinks to 135.<a data-footnote-id="26" href="https://fivethirtyeight.com/wp-json/wp/v2/espn_verticals/398#fn-26" data-footnote-content="&lt;p&gt;&lt;p&gt;Again, counting the 19 female senators who are not up for reelection.&lt;/p&gt;
+&lt;/p&gt;"><sup>26</sup></a> That would mean a substantial <em>reduction</em> in the number of women serving. </p>
 
 
 
-<p data-paragraph="main">Part of the reason for this situation is that a lot of women in both parties are running for seats where they have basically no chance of winning. According to the Deluxe forecast, 48 percent of all female House candidates and 30 percent of all female Senate candidates are running in seats where they have 50-in-100 or greater chance of winning.<a data-footnote-id="24" href="https://fivethirtyeight.com/wp-json/wp/v2/espn_verticals/398#fn-24" data-footnote-content="&lt;p&gt;&lt;p&gt;This includes Kansas’s 3rd District and the Alaska Senate race, which each feature two women candidates with 50-in-100 chance of winning.&lt;/p&gt;
-&lt;/p&gt;"><sup>24</sup></a> But 8 percent of female House candidates are running in seats where their chance of winning is between 10-in-100 and 49-in-100, and a whopping 44 percent of female House candidates and 60 percent of female Senate candidates are running in races where their chances of winning are 9-in-100 or less.<a data-footnote-id="25" href="https://fivethirtyeight.com/wp-json/wp/v2/espn_verticals/398#fn-25" data-footnote-content="&lt;p&gt;&lt;p&gt;It is worth noting, though, that this includes races such as the Alaska Senate race, where Democrat Patricia Chesbro, whose chance of winning is less than 1-in-100, is running against two other women, Kelly Tshibaka and Sen. Lisa Murkowski.&lt;/p&gt;
-&lt;/p&gt;"><sup>25</sup></a></p>
+<p data-paragraph="main">Part of the reason for this situation is that a lot of women in both parties are running for seats where they have basically no chance of winning. According to the Deluxe forecast, 48 percent of all female House candidates and 30 percent of all female Senate candidates are running in seats where they have 50-in-100 or greater chance of winning.<a data-footnote-id="27" href="https://fivethirtyeight.com/wp-json/wp/v2/espn_verticals/398#fn-27" data-footnote-content="&lt;p&gt;&lt;p&gt;This includes Kansas’s 3rd District and the Alaska Senate race, which each feature two women candidates with 50-in-100 chance of winning.&lt;/p&gt;
+&lt;/p&gt;"><sup>27</sup></a> But 8 percent of female House candidates are running in seats where their chance of winning is between 10-in-100 and 49-in-100, and a whopping 44 percent of female House candidates and 60 percent of female Senate candidates are running in races where their chances of winning are 9-in-100 or less.<a data-footnote-id="28" href="https://fivethirtyeight.com/wp-json/wp/v2/espn_verticals/398#fn-28" data-footnote-content="&lt;p&gt;&lt;p&gt;It is worth noting, though, that this includes races such as the Alaska Senate race, where Democrat Patricia Chesbro, whose chance of winning is less than 1-in-100, is running against two other women, Kelly Tshibaka and Sen. Lisa Murkowski.&lt;/p&gt;
+&lt;/p&gt;"><sup>28</sup></a></p>
 
 
 
@@ -1496,8 +1654,8 @@
 
 
 
-<p data-paragraph="main">The number of women of color in Congress could increase, though, depending on how some toss-up races turn out. Fifty-three female House candidates of color are running in races where they have at least a 50-in-100 chance of winning. An additional senator — <a href="https://projects.fivethirtyeight.com/2022-election-forecast/senate/illinois/" target="_blank" rel="noopener">Tammy Duckworth of Illinois</a> — falls into that same range of chance. So if all of those candidates win, the number of women of color in Congress would increase <a href="https://cawp.rutgers.edu/women-color-elective-office-2021" target="_blank" rel="noopener">from 49</a> to 54 — although, of course, not all of these candidates are guaranteed to win.<a data-footnote-id="26" href="https://fivethirtyeight.com/wp-json/wp/v2/espn_verticals/398#fn-26" data-footnote-content="&lt;p&gt;&lt;p&gt;Counting Sen. Mazie Hirono, who is Asian and is not up for reelection.&lt;/p&gt;
-&lt;/p&gt;"><sup>26</sup></a></p>
+<p data-paragraph="main">The number of women of color in Congress could increase, though, depending on how some toss-up races turn out. Fifty-three female House candidates of color are running in races where they have at least a 50-in-100 chance of winning. An additional senator — <a href="https://projects.fivethirtyeight.com/2022-election-forecast/senate/illinois/" target="_blank" rel="noopener">Tammy Duckworth of Illinois</a> — falls into that same range of chance. So if all of those candidates win, the number of women of color in Congress would increase <a href="https://cawp.rutgers.edu/women-color-elective-office-2021" target="_blank" rel="noopener">from 49</a> to 54 — although, of course, not all of these candidates are guaranteed to win.<a data-footnote-id="29" href="https://fivethirtyeight.com/wp-json/wp/v2/espn_verticals/398#fn-29" data-footnote-content="&lt;p&gt;&lt;p&gt;Counting Sen. Mazie Hirono, who is Asian and is not up for reelection.&lt;/p&gt;
+&lt;/p&gt;"><sup>29</sup></a></p>
 
 
 
@@ -1574,9 +1732,9 @@
 
 
 
-<figure><img loading="lazy" width="1312" height="1103" src="https://fivethirtyeight.com/wp-content/uploads/2022/10/Screen-Shot-2022-10-24-at-3.51.37-PM-1.png" alt="" data-src="https://fivethirtyeight.com/wp-content/uploads/2022/10/Screen-Shot-2022-10-24-at-3.51.37-PM-1.png" data-srcset="https://fivethirtyeight.com/wp-content/uploads/2022/10/Screen-Shot-2022-10-24-at-3.51.37-PM-1.png?w=712 1x, https://fivethirtyeight.com/wp-content/uploads/2022/10/Screen-Shot-2022-10-24-at-3.51.37-PM-1.png?w=1424 2x"></figure><p data-paragraph="main">Luna is one of well over a hundred of candidates running this fall who have denied the legitimacy of the 2020 election<a data-footnote-id="27" href="https://fivethirtyeight.com/wp-json/wp/v2/espn_verticals/398#fn-27" data-footnote-content="&lt;p&gt;&lt;p&gt;These are candidates who either clearly stated that the election was stolen from Trump, or took legal action to overturn the results, such as voting not to certify election results or joining lawsuits that sought to overturn the election.&lt;/p&gt;
-&lt;/p&gt;"><sup>27</sup></a> and have a strong chance of winning their race. Of the 185 Republican candidates running for House, Senate and governor’s seats who have denied the legitimacy of the 2020 election, 124 — or 67 percent — are in races our forecast currently pins at “Solid R,” meaning they have a 95-in-100 or better chance of winning. Overall, a bigger share of election deniers are running in Solid R races than Republican candidates in general: Of the 496 Republican candidates running for House, Senate and governor, 225 — or 45 percent — are in Solid R races.<a data-footnote-id="28" href="https://fivethirtyeight.com/wp-json/wp/v2/espn_verticals/398#fn-28" data-footnote-content="&lt;p&gt;&lt;p&gt;We considered the viable candidates (i.e., those with at least a 10 percent chance of winning) for races in which more than one Republican was running for office in the general election.&lt;/p&gt;
-&lt;/p&gt;"><sup>28</sup></a> </p>
+<figure><img loading="lazy" width="1312" height="1103" src="https://fivethirtyeight.com/wp-content/uploads/2022/10/Screen-Shot-2022-10-24-at-3.51.37-PM-1.png" alt="" data-src="https://fivethirtyeight.com/wp-content/uploads/2022/10/Screen-Shot-2022-10-24-at-3.51.37-PM-1.png" data-srcset="https://fivethirtyeight.com/wp-content/uploads/2022/10/Screen-Shot-2022-10-24-at-3.51.37-PM-1.png?w=712 1x, https://fivethirtyeight.com/wp-content/uploads/2022/10/Screen-Shot-2022-10-24-at-3.51.37-PM-1.png?w=1424 2x"></figure><p data-paragraph="main">Luna is one of well over a hundred of candidates running this fall who have denied the legitimacy of the 2020 election<a data-footnote-id="30" href="https://fivethirtyeight.com/wp-json/wp/v2/espn_verticals/398#fn-30" data-footnote-content="&lt;p&gt;&lt;p&gt;These are candidates who either clearly stated that the election was stolen from Trump, or took legal action to overturn the results, such as voting not to certify election results or joining lawsuits that sought to overturn the election.&lt;/p&gt;
+&lt;/p&gt;"><sup>30</sup></a> and have a strong chance of winning their race. Of the 185 Republican candidates running for House, Senate and governor’s seats who have denied the legitimacy of the 2020 election, 124 — or 67 percent — are in races our forecast currently pins at “Solid R,” meaning they have a 95-in-100 or better chance of winning. Overall, a bigger share of election deniers are running in Solid R races than Republican candidates in general: Of the 496 Republican candidates running for House, Senate and governor, 225 — or 45 percent — are in Solid R races.<a data-footnote-id="31" href="https://fivethirtyeight.com/wp-json/wp/v2/espn_verticals/398#fn-31" data-footnote-content="&lt;p&gt;&lt;p&gt;We considered the viable candidates (i.e., those with at least a 10 percent chance of winning) for races in which more than one Republican was running for office in the general election.&lt;/p&gt;
+&lt;/p&gt;"><sup>31</sup></a> </p>
 
 
 
@@ -1666,8 +1824,8 @@
 
 
 
-<p data-paragraph="main">That doesn’t mean, however, that <a href="https://www.nytimes.com/interactive/2022/10/24/opinion/frustrated-with-polling-pollsters-are-too.html" target="_blank" rel="noopener">there aren’t reasons to be worried</a> about the state of polling in 2022. One big concern is that we have fewer surveys of individual contests in 2022 than in previous midterms. And a larger share of that smaller pie has been conducted by partisan pollsters and/or sponsored by partisan organizations, based on an analysis of polls conducted from early May to late October in the 2010, 2014, 2018 and 2022 midterm election cycles.<a data-footnote-id="29" href="https://fivethirtyeight.com/wp-json/wp/v2/espn_verticals/398#fn-29" data-footnote-content="&lt;p&gt;&lt;p&gt;We aggregated poll and poll sponsorship data across all races for the U.S. Senate, U.S. House (including the generic ballot) and governor in FiveThirtyEight’s database. We removed polls from the same pollster and sponsor(s) with overlapping dates to prevent overweighting them in the analysis. An individual survey by one pollster that asked questions about multiple races we’re interested in — such as one asking about a state’s Senate and governor race — is counted as separate polls when discussing the number of polls for Senate, House and governor races. Our analysis is based on polls whose final date in the field falls between 180 and 15 days from Election Day, which is the equivalent point in the election cycle for 2022 as of Oct. 24 at 2 p.m. Eastern.&lt;/p&gt;
-&lt;/p&gt;"><sup>29</sup></a> As a result, we have less information about individual contests and are more reliant on polls that could be notably biased toward one party.</p>
+<p data-paragraph="main">That doesn’t mean, however, that <a href="https://www.nytimes.com/interactive/2022/10/24/opinion/frustrated-with-polling-pollsters-are-too.html" target="_blank" rel="noopener">there aren’t reasons to be worried</a> about the state of polling in 2022. One big concern is that we have fewer surveys of individual contests in 2022 than in previous midterms. And a larger share of that smaller pie has been conducted by partisan pollsters and/or sponsored by partisan organizations, based on an analysis of polls conducted from early May to late October in the 2010, 2014, 2018 and 2022 midterm election cycles.<a data-footnote-id="32" href="https://fivethirtyeight.com/wp-json/wp/v2/espn_verticals/398#fn-32" data-footnote-content="&lt;p&gt;&lt;p&gt;We aggregated poll and poll sponsorship data across all races for the U.S. Senate, U.S. House (including the generic ballot) and governor in FiveThirtyEight’s database. We removed polls from the same pollster and sponsor(s) with overlapping dates to prevent overweighting them in the analysis. An individual survey by one pollster that asked questions about multiple races we’re interested in — such as one asking about a state’s Senate and governor race — is counted as separate polls when discussing the number of polls for Senate, House and governor races. Our analysis is based on polls whose final date in the field falls between 180 and 15 days from Election Day, which is the equivalent point in the election cycle for 2022 as of Oct. 24 at 2 p.m. Eastern.&lt;/p&gt;
+&lt;/p&gt;"><sup>32</sup></a> As a result, we have less information about individual contests and are more reliant on polls that could be notably biased toward one party.</p>
 
 
 
@@ -1711,8 +1869,8 @@
 
 
 
-<p data-paragraph="main">On <a href="https://projects.fivethirtyeight.com/polls/" target="_blank" rel="noopener">FiveThirtyEight’s polls page</a>, we denote whether a poll is sponsored by an organization that is considered partisan or is sponsored by a campaign.<a data-footnote-id="30" href="https://fivethirtyeight.com/wp-json/wp/v2/espn_verticals/398#fn-30" data-footnote-content='&lt;p&gt;&lt;p&gt;Organizations are considered partisan if they operate on behalf of a candidate, party, campaign committee, &lt;a href="https://www.fec.gov/press/resources-journalists/political-action-committees-pacs/" target="_blank" rel="noopener"&gt;PAC, super PAC, hybrid PAC&lt;/a&gt;, 501(c)(4), 501(c)(5) or 501(c)(6) organization that conducts a large majority of its political activity on behalf of one political party.&lt;/p&gt;
-&lt;/p&gt;'><sup>30</sup></a> When we looked at the share of partisan polls in 2022 and for previous midterms, we found that the percentage of polls in Senate, House and gubernatorial contests coming from partisan sources has reached new heights.</p>
+<p data-paragraph="main">On <a href="https://projects.fivethirtyeight.com/polls/" target="_blank" rel="noopener">FiveThirtyEight’s polls page</a>, we denote whether a poll is sponsored by an organization that is considered partisan or is sponsored by a campaign.<a data-footnote-id="33" href="https://fivethirtyeight.com/wp-json/wp/v2/espn_verticals/398#fn-33" data-footnote-content='&lt;p&gt;&lt;p&gt;Organizations are considered partisan if they operate on behalf of a candidate, party, campaign committee, &lt;a href="https://www.fec.gov/press/resources-journalists/political-action-committees-pacs/" target="_blank" rel="noopener"&gt;PAC, super PAC, hybrid PAC&lt;/a&gt;, 501(c)(4), 501(c)(5) or 501(c)(6) organization that conducts a large majority of its political activity on behalf of one political party.&lt;/p&gt;
+&lt;/p&gt;'><sup>33</sup></a> When we looked at the share of partisan polls in 2022 and for previous midterms, we found that the percentage of polls in Senate, House and gubernatorial contests coming from partisan sources has reached new heights.</p>
 
 
 
@@ -1724,13 +1882,13 @@
 
 
 
-<p data-paragraph="main">Conversely, we’re seeing a smaller number of horse-race polls conducted by or sponsored by “legacy media” outlets, which we broadly define as longstanding news sources with a major national reach.<a data-footnote-id="31" href="https://fivethirtyeight.com/wp-json/wp/v2/espn_verticals/398#fn-31" data-footnote-content="&lt;p&gt;&lt;p&gt;This would include major network and cable news outlets, national papers of record, wire services and prominent national news magazines.&lt;/p&gt;
-&lt;/p&gt;"><sup>31</sup></a> For instance, in 2010, legacy media sponsored and/or conducted 85 Senate polls and 64 governors polls between May and late October. But in the same span this year, the corresponding figures are just 25 Senate polls and 33 governors surveys.</p>
+<p data-paragraph="main">Conversely, we’re seeing a smaller number of horse-race polls conducted by or sponsored by “legacy media” outlets, which we broadly define as longstanding news sources with a major national reach.<a data-footnote-id="34" href="https://fivethirtyeight.com/wp-json/wp/v2/espn_verticals/398#fn-34" data-footnote-content="&lt;p&gt;&lt;p&gt;This would include major network and cable news outlets, national papers of record, wire services and prominent national news magazines.&lt;/p&gt;
+&lt;/p&gt;"><sup>34</sup></a> For instance, in 2010, legacy media sponsored and/or conducted 85 Senate polls and 64 governors polls between May and late October. But in the same span this year, the corresponding figures are just 25 Senate polls and 33 governors surveys.</p>
 
 
 
-<p data-paragraph="main">This situation is perhaps best-illustrated by the rise of The Trafalgar Group, a Republican pollster <a href="https://www.thetrafalgargroup.org/Polling-Methodology/" target="_blank" rel="noopener">that reaches respondents</a> in different ways by using a <a href="https://www.aapor.org/getattachment/Education-Resources/Reports/AAPOR-Mixed-Mode-Task-Force-Executive-Summary-FINAL.pdf.aspx" target="_blank" rel="noopener">mixed-mode approach</a>. This cycle, Trafalgar is tied for the most Senate polls conducted (23) and ranks second in gubernatorial surveys (25),<a data-footnote-id="32" href="https://fivethirtyeight.com/wp-json/wp/v2/espn_verticals/398#fn-32" data-footnote-content="&lt;p&gt;&lt;p&gt;This includes one poll Trafalgar conducted in conjunction with InsiderAdvantage, another pollster.&lt;/p&gt;
-&lt;/p&gt;"><sup>32</sup></a> after releasing only a handful of polls in the same period in 2018 (the pollster <a href="https://twitter.com/NateSilver538/status/1322301003090268162?s=20" target="_blank" rel="noopener">became more prominent</a> in 2020). In both cases, Trafalgar is either tied with or just trails Emerson College, another mixed-mode pollster that has become prodigious over the past couple of election cycles — although Emerson is nonpartisan.</p>
+<p data-paragraph="main">This situation is perhaps best-illustrated by the rise of The Trafalgar Group, a Republican pollster <a href="https://www.thetrafalgargroup.org/Polling-Methodology/" target="_blank" rel="noopener">that reaches respondents</a> in different ways by using a <a href="https://www.aapor.org/getattachment/Education-Resources/Reports/AAPOR-Mixed-Mode-Task-Force-Executive-Summary-FINAL.pdf.aspx" target="_blank" rel="noopener">mixed-mode approach</a>. This cycle, Trafalgar is tied for the most Senate polls conducted (23) and ranks second in gubernatorial surveys (25),<a data-footnote-id="35" href="https://fivethirtyeight.com/wp-json/wp/v2/espn_verticals/398#fn-35" data-footnote-content="&lt;p&gt;&lt;p&gt;This includes one poll Trafalgar conducted in conjunction with InsiderAdvantage, another pollster.&lt;/p&gt;
+&lt;/p&gt;"><sup>35</sup></a> after releasing only a handful of polls in the same period in 2018 (the pollster <a href="https://twitter.com/NateSilver538/status/1322301003090268162?s=20" target="_blank" rel="noopener">became more prominent</a> in 2020). In both cases, Trafalgar is either tied with or just trails Emerson College, another mixed-mode pollster that has become prodigious over the past couple of election cycles — although Emerson is nonpartisan.</p>
 
 
 
@@ -1890,8 +2048,8 @@
 
 
 
-<p data-paragraph="main">The generic congressional ballot is a poll question that asks people nationwide which party they plan to vote for for Congress (without naming specific candidates). And as recently as Oct. 13, Democrats led by 1.1 percentage points in FiveThirtyEight’s <a href="https://projects.fivethirtyeight.com/polls/generic-ballot/" target="_blank" rel="noopener">generic congressional ballot polling average</a>. Now, however, Republicans lead in this polling average by 0.5 points,<a data-footnote-id="33" href="https://fivethirtyeight.com/wp-json/wp/v2/espn_verticals/398#fn-33" data-footnote-content="&lt;p&gt;&lt;p&gt;All numbers in this article are as of Oct. 24 at 5:30 p.m. Eastern.&lt;/p&gt;
-&lt;/p&gt;"><sup>33</sup></a> suggesting the national mood has turned back toward the GOP. </p>
+<p data-paragraph="main">The generic congressional ballot is a poll question that asks people nationwide which party they plan to vote for for Congress (without naming specific candidates). And as recently as Oct. 13, Democrats led by 1.1 percentage points in FiveThirtyEight’s <a href="https://projects.fivethirtyeight.com/polls/generic-ballot/" target="_blank" rel="noopener">generic congressional ballot polling average</a>. Now, however, Republicans lead in this polling average by 0.5 points,<a data-footnote-id="36" href="https://fivethirtyeight.com/wp-json/wp/v2/espn_verticals/398#fn-36" data-footnote-content="&lt;p&gt;&lt;p&gt;All numbers in this article are as of Oct. 24 at 5:30 p.m. Eastern.&lt;/p&gt;
+&lt;/p&gt;"><sup>36</sup></a> suggesting the national mood has turned back toward the GOP. </p>
 
 
 
@@ -2013,8 +2171,8 @@
  </footer></section></div>
 
 
-<p data-paragraph="main">Finally, generic-ballot polling historically tends to get worse for the president’s party as the election approaches. The graph below shows how the FiveThirtyEight generic-ballot polling average<a data-footnote-id="34" href="https://fivethirtyeight.com/wp-json/wp/v2/espn_verticals/398#fn-34" data-footnote-content="&lt;p&gt;&lt;p&gt;Calculated retroactively for 2006, 2010 and 2014, since we only debuted the modern version of our generic-ballot average in 2018.&lt;/p&gt;
-&lt;/p&gt;"><sup>34</sup></a> shifted in the last 90 days of the 2006, 2010, 2014 and 2018 midterms. As you can see, the president’s party lost ground in the final month of every year but 2018.</p>
+<p data-paragraph="main">Finally, generic-ballot polling historically tends to get worse for the president’s party as the election approaches. The graph below shows how the FiveThirtyEight generic-ballot polling average<a data-footnote-id="37" href="https://fivethirtyeight.com/wp-json/wp/v2/espn_verticals/398#fn-37" data-footnote-content="&lt;p&gt;&lt;p&gt;Calculated retroactively for 2006, 2010 and 2014, since we only debuted the modern version of our generic-ballot average in 2018.&lt;/p&gt;
+&lt;/p&gt;"><sup>37</sup></a> shifted in the last 90 days of the 2006, 2010, 2014 and 2018 midterms. As you can see, the president’s party lost ground in the final month of every year but 2018.</p>
 
 
 
@@ -2082,8 +2240,8 @@
 
 
 
-<p data-paragraph="main">It was a question that befuddled <a href="https://www.cookpolitical.com/analysis/national/national-politics/lessons-latino-voters" target="_blank" rel="noopener">election prognosticators</a> and <a href="https://www.npr.org/2020/11/05/931836590/how-texas-longtime-democratic-and-heavily-latino-county-flipped-red" target="_blank" rel="noopener">the media</a> in <a href="https://www.texastribune.org/2020/11/04/joe-biden-texas-border-democrats/" target="_blank" rel="noopener">the Lone Star State</a>: How did then-President Donald Trump gain traction in or outright flip a sizable chunk of the 28 counties<a data-footnote-id="39" href="https://fivethirtyeight.com/wp-json/wp/v2/espn_verticals/398#fn-39" data-footnote-content="&lt;p&gt;&lt;p&gt;Brewster, Brooks, Cameron, Culberson, Dimmit, Duval, El Paso, Frio, Hidalgo, Hudspeth, Jeff Davis, Jim Hogg, Jim Wells, Kenedy, Kinney, Kleberg, La Salle, Maverick, Nueces, Presidio, Reeves, Starr, Terrell, Val Verde, Webb, Willacy, Zapata and Zavala.&lt;/p&gt;
-&lt;/p&gt;"><sup>39</sup></a> along the Texas-Mexico border in 2020?</p>
+<p data-paragraph="main">It was a question that befuddled <a href="https://www.cookpolitical.com/analysis/national/national-politics/lessons-latino-voters" target="_blank" rel="noopener">election prognosticators</a> and <a href="https://www.npr.org/2020/11/05/931836590/how-texas-longtime-democratic-and-heavily-latino-county-flipped-red" target="_blank" rel="noopener">the media</a> in <a href="https://www.texastribune.org/2020/11/04/joe-biden-texas-border-democrats/" target="_blank" rel="noopener">the Lone Star State</a>: How did then-President Donald Trump gain traction in or outright flip a sizable chunk of the 28 counties<a data-footnote-id="42" href="https://fivethirtyeight.com/wp-json/wp/v2/espn_verticals/398#fn-42" data-footnote-content="&lt;p&gt;&lt;p&gt;Brewster, Brooks, Cameron, Culberson, Dimmit, Duval, El Paso, Frio, Hidalgo, Hudspeth, Jeff Davis, Jim Hogg, Jim Wells, Kenedy, Kinney, Kleberg, La Salle, Maverick, Nueces, Presidio, Reeves, Starr, Terrell, Val Verde, Webb, Willacy, Zapata and Zavala.&lt;/p&gt;
+&lt;/p&gt;"><sup>42</sup></a> along the Texas-Mexico border in 2020?</p>
 
 
 
@@ -2124,8 +2282,8 @@
  </footer></section></div>
 
 
-<p data-paragraph="main">To be clear, even though redistricting <a href="https://fivethirtyeight.com/features/texass-new-congressional-map-could-give-a-huge-boost-to-gop-incumbents/" target="_blank" rel="noopener">improved Democrats’ chances</a> in two of the districts highlighted above, they’re still on the defensive this year.<a data-footnote-id="40" href="https://fivethirtyeight.com/wp-json/wp/v2/espn_verticals/398#fn-40" data-footnote-content="&lt;p&gt;&lt;p&gt;The other, Texas’s 15th District, moved slightly in Republicans’ favor.&lt;/p&gt;
-&lt;/p&gt;"><sup>40</sup></a> And they have good reason to be: Over the summer, Republicans have <a href="https://www.texastribune.org/2022/10/16/south-texas-GOP-fundraising/" target="_blank" rel="noopener">outraised their rivals</a> in all three districts, and the Cook Political Report recently moved their election ratings for <a href="https://twitter.com/Redistrict/status/1577668535425318912" target="_blank" rel="noopener">the 15th and 34th Districts</a> toward the GOP. And as the chart above shows, <a href="https://projects.fivethirtyeight.com/2022-election-forecast/house/" target="_blank" rel="noopener">even our forecast</a> indicates that there’s a decent chance that Republicans will hold or flip one or more of these seats in the next Congress. So how did this region become more competitive, and what does Republicans’ electoral future there look like? Let’s dive in.</p>
+<p data-paragraph="main">To be clear, even though redistricting <a href="https://fivethirtyeight.com/features/texass-new-congressional-map-could-give-a-huge-boost-to-gop-incumbents/" target="_blank" rel="noopener">improved Democrats’ chances</a> in two of the districts highlighted above, they’re still on the defensive this year.<a data-footnote-id="43" href="https://fivethirtyeight.com/wp-json/wp/v2/espn_verticals/398#fn-43" data-footnote-content="&lt;p&gt;&lt;p&gt;The other, Texas’s 15th District, moved slightly in Republicans’ favor.&lt;/p&gt;
+&lt;/p&gt;"><sup>43</sup></a> And they have good reason to be: Over the summer, Republicans have <a href="https://www.texastribune.org/2022/10/16/south-texas-GOP-fundraising/" target="_blank" rel="noopener">outraised their rivals</a> in all three districts, and the Cook Political Report recently moved their election ratings for <a href="https://twitter.com/Redistrict/status/1577668535425318912" target="_blank" rel="noopener">the 15th and 34th Districts</a> toward the GOP. And as the chart above shows, <a href="https://projects.fivethirtyeight.com/2022-election-forecast/house/" target="_blank" rel="noopener">even our forecast</a> indicates that there’s a decent chance that Republicans will hold or flip one or more of these seats in the next Congress. So how did this region become more competitive, and what does Republicans’ electoral future there look like? Let’s dive in.</p>
 
 
 
@@ -2137,8 +2295,8 @@
 
 
 
-<p data-paragraph="main">According to our forecast, Republicans’ best chance of gaining a congressional seat in South Texas is the now-open 15th District — which <a href="https://docs.google.com/spreadsheets/d/1JR48I4oPAM_mTfeu8-EryAb3G5t3r6JUzKVoL40nbv4/edit#gid=1774019621" target="_blank" rel="noopener">Trump won by 3 points in 2020</a> — where Democrat Michelle Vallejo and Republican Monica De La Cruz <a href="https://projects.fivethirtyeight.com/2022-election-forecast/house/texas/15/" target="_blank" rel="noopener">are neck-and-neck.</a><a data-footnote-id="41" href="https://fivethirtyeight.com/wp-json/wp/v2/espn_verticals/398#fn-41" data-footnote-content="&lt;p&gt;&lt;p&gt;According to our Deluxe forecast, as of this past Friday at 5 p.m. Eastern.&lt;/p&gt;
-&lt;/p&gt;"><sup>41</sup></a></p>
+<p data-paragraph="main">According to our forecast, Republicans’ best chance of gaining a congressional seat in South Texas is the now-open 15th District — which <a href="https://docs.google.com/spreadsheets/d/1JR48I4oPAM_mTfeu8-EryAb3G5t3r6JUzKVoL40nbv4/edit#gid=1774019621" target="_blank" rel="noopener">Trump won by 3 points in 2020</a> — where Democrat Michelle Vallejo and Republican Monica De La Cruz <a href="https://projects.fivethirtyeight.com/2022-election-forecast/house/texas/15/" target="_blank" rel="noopener">are neck-and-neck.</a><a data-footnote-id="44" href="https://fivethirtyeight.com/wp-json/wp/v2/espn_verticals/398#fn-44" data-footnote-content="&lt;p&gt;&lt;p&gt;According to our Deluxe forecast, as of this past Friday at 5 p.m. Eastern.&lt;/p&gt;
+&lt;/p&gt;"><sup>44</sup></a></p>
 
 
 
@@ -2166,13 +2324,13 @@
 
 
 
-<p data-paragraph="main">Both the 28th and 34th Districts in Texas lean more toward Democrats, so the focus here is mainly about how narrow of a race can Republicans make it, if they don’t win outright. In the race for the 34th, Gonzalez has <a href="https://projects.fivethirtyeight.com/2022-election-forecast/house/texas/34/" target="_blank" rel="noopener">about a 2-in-3 chance</a> of besting Flores,<a data-footnote-id="42" href="https://fivethirtyeight.com/wp-json/wp/v2/espn_verticals/398#fn-42" data-footnote-content="&lt;p&gt;&lt;p&gt;According to our Deluxe forecast, as of this past Friday at 5 p.m. Eastern.&lt;/p&gt;
-&lt;/p&gt;"><sup>42</sup></a> who is running for reelection following her victory in the special election this past June. Gonzalez currently represents the 15th District, but <a href="https://www.expressnews.com/news/legislature/article/South-Texas-Rep-Vicente-Gonzalez-switch-districts-16565817.php" target="_blank" rel="noopener">decided to run in the 34th</a> after his old district was made more competitive in redistricting.</p>
+<p data-paragraph="main">Both the 28th and 34th Districts in Texas lean more toward Democrats, so the focus here is mainly about how narrow of a race can Republicans make it, if they don’t win outright. In the race for the 34th, Gonzalez has <a href="https://projects.fivethirtyeight.com/2022-election-forecast/house/texas/34/" target="_blank" rel="noopener">about a 2-in-3 chance</a> of besting Flores,<a data-footnote-id="45" href="https://fivethirtyeight.com/wp-json/wp/v2/espn_verticals/398#fn-45" data-footnote-content="&lt;p&gt;&lt;p&gt;According to our Deluxe forecast, as of this past Friday at 5 p.m. Eastern.&lt;/p&gt;
+&lt;/p&gt;"><sup>45</sup></a> who is running for reelection following her victory in the special election this past June. Gonzalez currently represents the 15th District, but <a href="https://www.expressnews.com/news/legislature/article/South-Texas-Rep-Vicente-Gonzalez-switch-districts-16565817.php" target="_blank" rel="noopener">decided to run in the 34th</a> after his old district was made more competitive in redistricting.</p>
 
 
 
-<p data-paragraph="main">What’s working in the Democrat’s favor is that the 34th District is now much safer for Democrats than it was during Flores’s special election. That election was <a href="https://www.texastribune.org/2022/06/14/texas-special-election-tx-34-mayra-flores-dan-sanchez/" target="_blank" rel="noopener">conducted under the old district lines</a>, which had a FiveThirtyEight partisan lean of D+5<a data-footnote-id="43" href="https://fivethirtyeight.com/wp-json/wp/v2/espn_verticals/398#fn-43" data-footnote-content="&lt;p&gt;&lt;p&gt;Partisan lean is the average margin difference between how a state or district votes and how the country votes overall. This version of partisan lean, meant to be used for congressional and gubernatorial elections, is calculated as 50 percent the state or district’s lean relative to the nation in the most recent presidential election, 25 percent its relative lean in the second-most-recent presidential election and 25 percent a custom state-legislative lean.&lt;/p&gt;
-&lt;/p&gt;"><sup>43</sup></a> — meaning it was 5 points more Democratic than the country as a whole — but the new district has a partisan lean of D+17. And while we have <a href="https://projects.fivethirtyeight.com/polls/house/2022/texas/34/?states=DE" target="_blank" rel="noopener">very little polling</a> in this race, an <a href="https://projects.fivethirtyeight.com/polls/house/texas/" target="_blank" rel="noopener">RMG Research/U.S. Term Limits survey</a> conducted July 23-Aug. 1 gave Gonzalez a 4-point edge among likely voters. Also, during the special election, Flores’s Democratic rival was <a href="https://www.texastribune.org/2022/06/06/republicans-south-texas-special-election-tx-34/" target="_blank" rel="noopener">significantly underfunded</a> and got little help from the national party; Gonzalez, though, has <a href="https://www.opensecrets.org/races/candidates?cycle=2022&amp;id=TX34&amp;spec=N" target="_blank" rel="noopener">a small advantage</a> over Flores when it comes to cash on hand, and he is receiving help from Democrats’ <a href="https://www.opensecrets.org/races/outside-spending?cycle=2022&amp;id=TX34" target="_blank" rel="noopener">national campaign spending arm</a>.</p>
+<p data-paragraph="main">What’s working in the Democrat’s favor is that the 34th District is now much safer for Democrats than it was during Flores’s special election. That election was <a href="https://www.texastribune.org/2022/06/14/texas-special-election-tx-34-mayra-flores-dan-sanchez/" target="_blank" rel="noopener">conducted under the old district lines</a>, which had a FiveThirtyEight partisan lean of D+5<a data-footnote-id="46" href="https://fivethirtyeight.com/wp-json/wp/v2/espn_verticals/398#fn-46" data-footnote-content="&lt;p&gt;&lt;p&gt;Partisan lean is the average margin difference between how a state or district votes and how the country votes overall. This version of partisan lean, meant to be used for congressional and gubernatorial elections, is calculated as 50 percent the state or district’s lean relative to the nation in the most recent presidential election, 25 percent its relative lean in the second-most-recent presidential election and 25 percent a custom state-legislative lean.&lt;/p&gt;
+&lt;/p&gt;"><sup>46</sup></a> — meaning it was 5 points more Democratic than the country as a whole — but the new district has a partisan lean of D+17. And while we have <a href="https://projects.fivethirtyeight.com/polls/house/2022/texas/34/?states=DE" target="_blank" rel="noopener">very little polling</a> in this race, an <a href="https://projects.fivethirtyeight.com/polls/house/texas/" target="_blank" rel="noopener">RMG Research/U.S. Term Limits survey</a> conducted July 23-Aug. 1 gave Gonzalez a 4-point edge among likely voters. Also, during the special election, Flores’s Democratic rival was <a href="https://www.texastribune.org/2022/06/06/republicans-south-texas-special-election-tx-34/" target="_blank" rel="noopener">significantly underfunded</a> and got little help from the national party; Gonzalez, though, has <a href="https://www.opensecrets.org/races/candidates?cycle=2022&amp;id=TX34&amp;spec=N" target="_blank" rel="noopener">a small advantage</a> over Flores when it comes to cash on hand, and he is receiving help from Democrats’ <a href="https://www.opensecrets.org/races/outside-spending?cycle=2022&amp;id=TX34" target="_blank" rel="noopener">national campaign spending arm</a>.</p>
 
 
 
@@ -2180,8 +2338,8 @@
 
 
 
-<p data-paragraph="main">Of the three competitive districts this fall, arguably the easiest race for Democrats will be in the 28th District, where longtime Democratic Rep. Henry Cuellar has roughly an <a href="https://projects.fivethirtyeight.com/2022-election-forecast/house/texas/28/" target="_blank" rel="noopener">8-in-10 chance</a> of beating Republican Cassy Garcia.<a data-footnote-id="44" href="https://fivethirtyeight.com/wp-json/wp/v2/espn_verticals/398#fn-44" data-footnote-content="&lt;p&gt;&lt;p&gt;According to our Deluxe forecast, as of this past Friday at 5 p.m. Eastern.&lt;/p&gt;
-&lt;/p&gt;"><sup>44</sup></a> There are many likely explanations for this. First, he’s <a href="https://www.opensecrets.org/races/summary?cycle=2022&amp;id=TX28" target="_blank" rel="noopener">raised much more money</a> overall than his rival. Also, the 28th District became slightly bluer in redistricting, going from a partisan lean of D+4 to D+7. But what could be helping Cuellar the most is that he’s no longer in the headlines for an FBI raid on his home and campaign office in January — at least <a href="https://www.cbsnews.com/news/henry-cuellar-texas-representative-not-fbi-investigation-target/" target="_blank" rel="noopener">compared with how he was</a> around the time of his <a href="https://www.texastribune.org/2022/05/19/henry-cuellar-jessica-cisneros-runoff-texas/" target="_blank" rel="noopener">competitive primary</a> — and subsequent runoff election — this spring. (Cuellar’s attorney has said he is not the target of the investigation.)</p>
+<p data-paragraph="main">Of the three competitive districts this fall, arguably the easiest race for Democrats will be in the 28th District, where longtime Democratic Rep. Henry Cuellar has roughly an <a href="https://projects.fivethirtyeight.com/2022-election-forecast/house/texas/28/" target="_blank" rel="noopener">8-in-10 chance</a> of beating Republican Cassy Garcia.<a data-footnote-id="47" href="https://fivethirtyeight.com/wp-json/wp/v2/espn_verticals/398#fn-47" data-footnote-content="&lt;p&gt;&lt;p&gt;According to our Deluxe forecast, as of this past Friday at 5 p.m. Eastern.&lt;/p&gt;
+&lt;/p&gt;"><sup>47</sup></a> There are many likely explanations for this. First, he’s <a href="https://www.opensecrets.org/races/summary?cycle=2022&amp;id=TX28" target="_blank" rel="noopener">raised much more money</a> overall than his rival. Also, the 28th District became slightly bluer in redistricting, going from a partisan lean of D+4 to D+7. But what could be helping Cuellar the most is that he’s no longer in the headlines for an FBI raid on his home and campaign office in January — at least <a href="https://www.cbsnews.com/news/henry-cuellar-texas-representative-not-fbi-investigation-target/" target="_blank" rel="noopener">compared with how he was</a> around the time of his <a href="https://www.texastribune.org/2022/05/19/henry-cuellar-jessica-cisneros-runoff-texas/" target="_blank" rel="noopener">competitive primary</a> — and subsequent runoff election — this spring. (Cuellar’s attorney has said he is not the target of the investigation.)</p>
 
 
 
@@ -2283,8 +2441,8 @@
 
 
 
-<p data-paragraph="main">FiveThirtyEight has <a href="https://perryundem.com/wp-content/uploads/2022/10/538-PerryUndem-YouGov-Survey_Topline-Results.pdf" target="_blank" rel="noopener">partnered with PerryUndem and YouGov</a> to survey likely voters on how deep these types of fissures run.<a data-footnote-id="35" href="https://fivethirtyeight.com/wp-json/wp/v2/espn_verticals/398#fn-35" data-footnote-content="&lt;p&gt;&lt;p&gt;Conducted Aug. 10-21, 2022, among 1,796 likely voters, including oversamples of Black, Latino and Asian American/Pacific Islander respondents. Likely voters included registered voters who said that they are “almost certain to” or will “probably” vote in the November midterm elections. The sample was weighted to match the general population. The poll’s margin of error is +/- 3 percentage points.&lt;/p&gt;
-&lt;/p&gt;"><sup>35</sup></a> In this first installment of our series exploring the invisible divides in America — the differences in worldview that shape <a href="https://perryundem.com/wp-content/uploads/2022/10/538-regression-placeholder.pdf" target="_blank" rel="noopener">how people vote and think about their place in America</a> — we look at the education divide. For the past two decades, a voter’s level of education has become an increasingly important predictor in how he or she votes. But we found that the divide is about more than just the level of education someone has: Americans have diverging attitudes about the role higher education itself plays in American society. Like other divides we’ll be exploring, they help explain why Republicans and Democrats seem unable to find common ground on so many issues.</p>
+<p data-paragraph="main">FiveThirtyEight has <a href="https://perryundem.com/wp-content/uploads/2022/10/538-PerryUndem-YouGov-Survey_Topline-Results.pdf" target="_blank" rel="noopener">partnered with PerryUndem and YouGov</a> to survey likely voters on how deep these types of fissures run.<a data-footnote-id="38" href="https://fivethirtyeight.com/wp-json/wp/v2/espn_verticals/398#fn-38" data-footnote-content="&lt;p&gt;&lt;p&gt;Conducted Aug. 10-21, 2022, among 1,796 likely voters, including oversamples of Black, Latino and Asian American/Pacific Islander respondents. Likely voters included registered voters who said that they are “almost certain to” or will “probably” vote in the November midterm elections. The sample was weighted to match the general population. The poll’s margin of error is +/- 3 percentage points.&lt;/p&gt;
+&lt;/p&gt;"><sup>38</sup></a> In this first installment of our series exploring the invisible divides in America — the differences in worldview that shape <a href="https://perryundem.com/wp-content/uploads/2022/10/538-regression-placeholder.pdf" target="_blank" rel="noopener">how people vote and think about their place in America</a> — we look at the education divide. For the past two decades, a voter’s level of education has become an increasingly important predictor in how he or she votes. But we found that the divide is about more than just the level of education someone has: Americans have diverging attitudes about the role higher education itself plays in American society. Like other divides we’ll be exploring, they help explain why Republicans and Democrats seem unable to find common ground on so many issues.</p>
 
 
 
@@ -2309,8 +2467,8 @@
 
 
 
-<p data-paragraph="main">Respondents were also asked a series of questions to gauge how they felt about higher education. Fifty-seven percent of respondents disagreed with the statement “college makes you lose common sense,” while 37 percent agreed. Of those who agreed, 65 percent planned to “definitely” vote for the Republican candidate in the upcoming midterms, while 12 percent of those who agreed planned to “definitely” vote for the Democratic candidate.<a data-footnote-id="36" href="https://fivethirtyeight.com/wp-json/wp/v2/espn_verticals/398#fn-36" data-footnote-content="&lt;p&gt;&lt;p&gt;Respondents were asked who they would vote for in the upcoming elections for the U.S. House of Representatives if they were held next week. Other options included “probably the Democrat,” “probably the Republican,” “other,” “I’m not sure,” “I wouldn’t vote” and skipping the question.&lt;/p&gt;
-&lt;/p&gt;"><sup>36</sup></a> </p>
+<p data-paragraph="main">Respondents were also asked a series of questions to gauge how they felt about higher education. Fifty-seven percent of respondents disagreed with the statement “college makes you lose common sense,” while 37 percent agreed. Of those who agreed, 65 percent planned to “definitely” vote for the Republican candidate in the upcoming midterms, while 12 percent of those who agreed planned to “definitely” vote for the Democratic candidate.<a data-footnote-id="39" href="https://fivethirtyeight.com/wp-json/wp/v2/espn_verticals/398#fn-39" data-footnote-content="&lt;p&gt;&lt;p&gt;Respondents were asked who they would vote for in the upcoming elections for the U.S. House of Representatives if they were held next week. Other options included “probably the Democrat,” “probably the Republican,” “other,” “I’m not sure,” “I wouldn’t vote” and skipping the question.&lt;/p&gt;
+&lt;/p&gt;"><sup>39</sup></a> </p>
 
 
 
@@ -2320,9 +2478,9 @@
 <p>Watch: https://abcnews.go.com/Politics/video/american-turning-point-politics-public-education-91859671</p>
 
 
-<p data-paragraph="main">Voters’ views on college often aligned with how they’d respond to other, seemingly unrelated questions. Those who agreed with statements like “college makes you lose common sense,” were less likely to think climate change (35 percent) and racism or racial inequality (40 percent) were problems than those who disagreed (both 85 percent),<a data-footnote-id="37" href="https://fivethirtyeight.com/wp-json/wp/v2/espn_verticals/398#fn-37" data-footnote-content="&lt;p&gt;&lt;p&gt;Respondents were asked how big of a problem they viewed each topic from a list of 11.&lt;/p&gt;
-&lt;/p&gt;"><sup>37</sup></a> and less likely to think that high school students should learn about sexism and gender inequality (32 percent) and systemic racism (28 percent).<a data-footnote-id="38" href="https://fivethirtyeight.com/wp-json/wp/v2/espn_verticals/398#fn-38" data-footnote-content="&lt;p&gt;&lt;p&gt;Respondents were asked whether they thought students in high school should learn about each topic from a list of eight.&lt;/p&gt;
-&lt;/p&gt;"><sup>38</sup></a> They were also more likely to think inflation and the national economy would be worse a year from now, independent of their household income levels, according to analysis by Duncan Gans, a senior research analyst with PerryUndem. </p>
+<p data-paragraph="main">Voters’ views on college often aligned with how they’d respond to other, seemingly unrelated questions. Those who agreed with statements like “college makes you lose common sense,” were less likely to think climate change (35 percent) and racism or racial inequality (40 percent) were problems than those who disagreed (both 85 percent),<a data-footnote-id="40" href="https://fivethirtyeight.com/wp-json/wp/v2/espn_verticals/398#fn-40" data-footnote-content="&lt;p&gt;&lt;p&gt;Respondents were asked how big of a problem they viewed each topic from a list of 11.&lt;/p&gt;
+&lt;/p&gt;"><sup>40</sup></a> and less likely to think that high school students should learn about sexism and gender inequality (32 percent) and systemic racism (28 percent).<a data-footnote-id="41" href="https://fivethirtyeight.com/wp-json/wp/v2/espn_verticals/398#fn-41" data-footnote-content="&lt;p&gt;&lt;p&gt;Respondents were asked whether they thought students in high school should learn about each topic from a list of eight.&lt;/p&gt;
+&lt;/p&gt;"><sup>41</sup></a> They were also more likely to think inflation and the national economy would be worse a year from now, independent of their household income levels, according to analysis by Duncan Gans, a senior research analyst with PerryUndem. </p>
 
 
 
@@ -3485,161 +3643,6 @@
 <p data-paragraph="main">But don’t y’all know? <a href="https://www.investopedia.com/articles/personal-finance/110415/why-does-house-always-win-look-casino-profitability.asp" target="_blank" rel="noopener">The House always wins</a>.</p>]]></description>
 			<pubDate>Wed, 19 Oct 2022 11:00:00 +0100</pubDate>
 			<guid isPermaLink="false">1666174502253423</guid>
-		</item>
-		<item>
-			<title>How Have The Georgia Polls Moved Since Herschel Walker’s Abortion Controversy?</title>
-			<link>https://fivethirtyeight.com/features/herschel-walker-polls/</link>
-						<dc:creator>Nathaniel Rakich</dc:creator>
-			<dc:creator>Nathaniel Rakich</dc:creator>
-			<category>2022 Election</category>
-			<category>2022 Midterms</category>
-			<category>2022 Senate Elections</category>
-			<category>Georgia Politics</category>
-			<category>Georgia Senate</category>
-			<category>Herschel Walker</category>
-			<category>Raphael Warnock</category>
-			<description><![CDATA[<div>
-
-			<div>
-
-				<header><div>
-													<p><a href="https://fivethirtyeight.com/tag/2022-election/" name="">2022 Election</a></p>
-						
-													<h1>How Have The Georgia Polls Moved Since Herschel Walker's Abortion Controversy?</h1>
-																	</div>
-
-										<div>
-						<div>
-															<p>By <a href="https://fivethirtyeight.com/contributors/nathaniel-rakich/" title="" rel="author">Nathaniel Rakich</a></p>
-																					<p>
-								<time>
-									Oct. 18, 2022, at 11:26 AM								</time></p>
-						</div>
-						<div>
-													</div> 
-					</div>
-					
-				</header><figure><span>
-									<div>
-						<picture><source media="(min-width: 768px)"><source><img alt="2022-ELECTIONUPDATE-1018-4×3" src="https://fivethirtyeight.com/wp-content/uploads/2022/10/2022-ELECTIONUPDATE-1018-4x3-1.png?w=916" data-sizes="(max-width: 768px) 100vw, (max-width: 1080px) 66vw, 684px" data-src="https://fivethirtyeight.com/wp-content/uploads/2022/10/2022-ELECTIONUPDATE-1018-4x3-1.png?w=916" data-srcset="https://fivethirtyeight.com/wp-content/uploads/2022/10/2022-ELECTIONUPDATE-1018-4x3-1.png?w=916 1x, https://fivethirtyeight.com/wp-content/uploads/2022/10/2022-ELECTIONUPDATE-1018-4x3-1.png?w=1832 2x"></source></source></picture></div>
-
-				
-			</span>
-
-			
-								<figcaption><p>ILLUSTRATION BY EMILY SCHERER</p>
-											</figcaption></figure></div>
-
-			
-		</div>
-
-
-
-
-
-<p data-paragraph="main">Two weeks ago, the <a href="https://www.thedailybeast.com/pro-life-herschel-walker-paid-for-girlfriends-abortion-georgia-senate" target="_blank" rel="noopener">world learned</a> that Herschel Walker, the Republican candidate for U.S. Senate in Georgia who supports a total abortion ban without exceptions, had paid for his pregnant then-girlfriend to get an abortion in 2009. (Walker denies this.) At the time, we cautioned that we would need to wait and see how the controversy might <a href="https://fivethirtyeight.com/features/herschel-walker-scandal/" target="_blank" rel="noopener">affect Walker’s chances of winning the race</a>.</p>
-
-
-
-<p data-paragraph="main">We now have new polling data that suggests that the story may have cost Walker <em>some</em> support. The <a href="https://www.thetrafalgargroup.org/wp-content/uploads/2022/10/GA-Gen-Poll-Report-1011.pdf" target="_blank" rel="noopener">Trafalgar Group</a>, <a href="https://poll.qu.edu/poll-release?releaseid=3858" target="_blank" rel="noopener">Quinnipiac University</a>, <a href="https://emersoncollegepolling.com/georgia-2022-sen-warnock-leads-walker-by-two-gov-kemp-leads-abrams-by-five/" target="_blank" rel="noopener">Emerson College</a> and <a href="https://insideradvantage.com/2022/10/17/insideradvantage-poll-warnock-holds-slim-lead-kemp-enjoys-commanding-advantage-jones-ahead-in-lt-gov-s-race/" target="_blank" rel="noopener">InsiderAdvantage</a> have all polled Georgia since the abortion story broke.<a data-footnote-id="26" href="https://fivethirtyeight.com/wp-json/wp/v2/espn_verticals/398#fn-26" data-footnote-content="&lt;p&gt;&lt;p&gt;In fact, InsiderAdvantage has polled a couple times; more on that in a bit.&lt;/p&gt;
-&lt;/p&gt;"><sup>26</sup></a> Those surveys showed Democratic Sen. Raphael Warnock leading, on average, 48 percent to 45 percent among likely voters. Previously, in those same pollsters’ most recent surveys taken before the news broke, the two candidates were essentially tied at 47 percent each.</p>
-
-
-<div>
-<section><header><h2>Warnock has gained since Walker’s abortion controversy</h2>
- <p>Margins of polls in Georgia’s U.S. Senate race before and after news broke that Herschel Walker had paid for his pregnant then-girlfriend to get an abortion in 2009</p>
- </header><table data-carpenter-slug="rakich.ga-sen.1"><thead><tr><th colspan="1" scope="col">Pollster</th>
- <th colspan="1" scope="col">Margin Before</th>
- <th colspan="1" scope="col">Margin After</th>
- <th colspan="1" scope="col">Shift</th>
- </tr></thead><tbody><tr><td>Trafalgar Group</td>
- <td><span>R+1</span></td>
- <td><span>D+2</span></td>
- <td><span>D+2</span></td>
- </tr><tr><td>Quinnipiac</td>
- <td><span>D+6</span></td>
- <td><span>D+7</span></td>
- <td><span>D+1</span></td>
- </tr><tr><td>Emerson College</td>
- <td><span>R+2</span></td>
- <td><span>D+2</span></td>
- <td><span>D+4</span></td>
- </tr><tr><td>InsiderAdvantage</td>
- <td><span>R+3</span></td>
- <td><span>D+3</span></td>
- <td><span>D+6</span></td>
- </tr><tr><td>Average</td>
- <td>EVEN</td>
- <td><span>D+3</span></td>
- <td><span>D+3</span></td>
- </tr></tbody></table><footer><p>The Trafalgar polls were conducted Aug. 24-27 and Oct. 8-11; Quinnipiac, Sept. 8-12 and Oct. 7-10; Emerson College, Aug. 28-29 and Oct. 6-7; and InsiderAdvantage, Sept. 6-7 and Oct. 16. All eight were among likely voters.</p>
- <p>Source: Polls</p>
- </footer></section></div>
-
-
-<p data-paragraph="main">That’s not a ton of movement; it’s also narrow enough to be within the surveys’ margins of error. But the consistency among pollsters gives us more confidence that it represents a true shift. Warnock now leads by 4.1 percentage points in the <a href="https://projects.fivethirtyeight.com/polls/senate/2022/georgia/" target="_blank" rel="noopener">FiveThirtyEight polling average of the race</a>,<a data-footnote-id="27" href="https://fivethirtyeight.com/wp-json/wp/v2/espn_verticals/398#fn-27" data-footnote-content="&lt;p&gt;&lt;p&gt;All numbers in this article are as of Oct. 18 at 10:30 a.m. Eastern.&lt;/p&gt;
-&lt;/p&gt;"><sup>27</sup></a> up from 2.1 points on the day the story broke.</p>
-
-
-
-<figure><img loading="lazy" width="1110" height="860" src="https://fivethirtyeight.com/wp-content/uploads/2022/10/rakich.GA-SEN.1018_2.png" alt="" data-src="https://fivethirtyeight.com/wp-content/uploads/2022/10/rakich.GA-SEN.1018_2.png" data-srcset="https://fivethirtyeight.com/wp-content/uploads/2022/10/rakich.GA-SEN.1018_2.png?w=712 1x, https://fivethirtyeight.com/wp-content/uploads/2022/10/rakich.GA-SEN.1018_2.png?w=1424 2x"></figure><figure><img loading="lazy" width="480" height="860" src="https://fivethirtyeight.com/wp-content/uploads/2022/10/rakich.GA-SEN.1018_2MOB.png" alt="" data-src="https://fivethirtyeight.com/wp-content/uploads/2022/10/rakich.GA-SEN.1018_2MOB.png" data-srcset="https://fivethirtyeight.com/wp-content/uploads/2022/10/rakich.GA-SEN.1018_2MOB.png?w=480 1x, https://fivethirtyeight.com/wp-content/uploads/2022/10/rakich.GA-SEN.1018_2MOB.png?w=960 2x"></figure><p data-paragraph="main">And as a result, <a href="https://projects.fivethirtyeight.com/2022-election-forecast/senate/georgia/" target="_blank" rel="noopener">our forecast for Georgia’s U.S. Senate race</a> has moved in the Democrats’ favor. Warnock now has a 59-in-100 chance of winning reelection, up slightly from 54-in-100 on Oct. 4.</p>
-
-
-
-<figure><img loading="lazy" width="1422" height="760" src="https://fivethirtyeight.com/wp-content/uploads/2022/10/rakich.GA-SEN.1018_1.png" alt="" data-src="https://fivethirtyeight.com/wp-content/uploads/2022/10/rakich.GA-SEN.1018_1.png" data-srcset="https://fivethirtyeight.com/wp-content/uploads/2022/10/rakich.GA-SEN.1018_1.png?w=712 1x, https://fivethirtyeight.com/wp-content/uploads/2022/10/rakich.GA-SEN.1018_1.png?w=1424 2x"></figure><figure><img loading="lazy" width="670" height="940" src="https://fivethirtyeight.com/wp-content/uploads/2022/10/rakich.GA-SEN.1018_1MOB.png" alt="" data-src="https://fivethirtyeight.com/wp-content/uploads/2022/10/rakich.GA-SEN.1018_1MOB.png" data-srcset="https://fivethirtyeight.com/wp-content/uploads/2022/10/rakich.GA-SEN.1018_1MOB.png?w=670 1x, https://fivethirtyeight.com/wp-content/uploads/2022/10/rakich.GA-SEN.1018_1MOB.png?w=1340 2x"></figure><p data-paragraph="main">But hang on a second — is there a chance this movement is for reasons other than Walker’s abortion controversy? After all, there’s no way to prove that the revelation <em>caused</em> this shift in the polls. And in fact, <a href="https://www.ajc.com/politics/uga-poll-warnock-walker-close-kemp-builds-lead-over-abrams/DAY5A2E4WFCFJJELA3WHAL6ILE/" target="_blank" rel="noopener">two</a> other <a href="https://www.surveyusa.com/client/PollReport.aspx?g=e363ce46-6a44-4584-9c5b-3c271473b1ba" target="_blank" rel="noopener">polls</a> conducted almost entirely <em>before</em> the abortion story broke also showed a shift toward Warnock in recent weeks.</p>
-
-
-<div>
-<section><header><h2>Warnock was gaining before Walker’s abortion controversy</h2>
- <p>Margins of two polls in Georgia’s U.S. Senate race conducted mostly just before news broke that Herschel Walker had paid for his then-girlfriend to get an abortion in 2009 vs. earlier polls conducted by the same pollster</p>
- </header><table data-carpenter-slug="rakich.ga-sen.2"><thead><tr><th colspan="1" scope="col">Pollster</th>
- <th colspan="1" scope="col">Old Margin</th>
- <th colspan="1" scope="col">New Margin</th>
- <th colspan="1" scope="col">Shift</th>
- </tr></thead><tbody><tr><td>SurveyUSA</td>
- <td><span>D+9</span></td>
- <td><span>D+12</span></td>
- <td><span>D+3</span></td>
- </tr><tr><td>University of Georgia</td>
- <td><span>R+2</span></td>
- <td><span>D+3</span></td>
- <td><span>D+5</span></td>
- </tr><tr><td>Average</td>
- <td><span>D+4</span></td>
- <td><span>D+8</span></td>
- <td><span>D+4</span></td>
- </tr></tbody></table><footer><p>The SurveyUSA polls were conducted Sept. 5-16 and Sept. 25-Oct. 4, and the University of Georgia polls were conducted July 21-24 and Sept. 30-Oct. 4. All four were among likely voters.</p>
- <p>Source: Polls</p>
- </footer></section></div>
-
-
-<p data-paragraph="main">That raises the question: Did anything else happen in September that could have hurt Walker or helped Warnock? Well, Democrats did spend the month hammering Walker in TV ads over <a href="https://www.nbcnews.com/politics/2022-election/democrats-emphasize-herschel-walkers-threats-ex-wife-new-georgia-ad-rcna45544" target="_blank" rel="noopener">old allegations of domestic abuse</a>. According to the <a href="https://mediaproject.wesleyan.edu/releases-100622/" target="_blank" rel="noopener">Wesleyan Media Project</a>, from Sept. 19 to Oct. 2, there were 7,257 pro-Democrat ads in the race compared to 5,934 pro-Republican ads.</p>
-
-
-<p>Watch: https://abcnews.go.com/fivethirtyeight/video/herschel-walker-goodwill-georgia-win-senate-seat-89425858</p>
-
-
-<p data-paragraph="main">The most likely answer is that movement in the race is due to a combination of the abortion story and other preexisting factors like the Democrats’ TV advantage. Polling from InsiderAdvantage bears this out. The firm has actually surveyed Georgia four times in the last six weeks, giving us a more granular look at how the race has shifted (or hasn’t).</p>
-
-
-
-<p data-paragraph="main">In InsiderAdvantage’s <a href="https://www.fox5atlanta.com/news/new-insideradvantage-fox-5-poll-kemp-widens-lead-over-abrams-senate-race-remains-tight" target="_blank" rel="noopener">Sept. 6-7 poll</a>, taken before both the abortion revelations and the last several weeks of Democratic advertising, Walker led 47 percent to 44 percent.  Then, the pollster was <a href="https://insideradvantage.com/2022/10/05/insideradvantagefox-5-poll-warnock-walker-still-in-statistical-tie/" target="_blank" rel="noopener">in the field on Oct. 3</a> when the abortion story broke that evening. As a result, it decided to scrub that poll and start over the next day. No details were released about that Oct. 3 poll, which is why it doesn’t show up on our polls page, but the pollster did tease that it showed Warnock leading by 1 point. That suggests that the race moved 4 points toward Warnock between Sept. 6-7 and Oct. 3 (at least according to this one pollster).</p>
-
-
-
-<p data-paragraph="main">InsiderAdvantage then released the poll it took on Oct. 4, the day after the abortion story broke: It showed Warnock leading by 4 points. That suggests that the race moved an additional 3 points toward Warnock between Oct. 3 and Oct. 4 (i.e., after the abortion story broke). Of course, this is just one poll. But 3 points is still a lot of movement in just one day.</p>
-
-
-
-<p data-paragraph="main">Finally, InsiderAdvantage released a new poll just this week, conducted on Oct. 16. That poll — the one we used in the table above — gave Warnock a 3-point lead. So Walker may have started to recover from the bad headlines … or this may have just been an insignificant shift caused by normal polling error. (Again, all the other shifts are within the margin of error too — we only feel comfortable discussing them because other pollsters have shown similar things.)</p>
-
-
-<p>Watch: https://abcnews.go.com/fivethirtyeight/video/races-bringing-democrats-odds-holding-senate-fivethirtyeight-91476350</p>
-
-
-<p data-paragraph="main">There are still three weeks until Election Day, so this isn’t the final word on Walker’s fate. It’s possible that his scandals will become old news and Walker will (continue to?) recover in the polls. According to our forecast, there’s an 18-in-100 chance that this race will go to a runoff on Dec. 6. (If no candidate gets a majority of the vote in the general election, Georgia requires a runoff election to be held between the top two finishers.) That could mean even more time for Walker’s scandals to recede into the rearview mirror — or for another scandal to occur. So basically, don’t take your eyes off this race.</p>]]></description>
-			<pubDate>Tue, 18 Oct 2022 16:26:00 +0100</pubDate>
-			<guid isPermaLink="false">1666107001764334</guid>
 		</item>
 
 	</channel>
