@@ -3,9 +3,563 @@
 		<title>Main stream | FreshRSS</title>
 		<link>http://radon</link>
 		<description>RSS feed of Main stream | FreshRSS</description>
-		<pubDate>Wed, 02 Nov 2022 10:59:06 +0000</pubDate>
-		<lastBuildDate>Wed, 02 Nov 2022 10:59:06 GMT</lastBuildDate>
+		<pubDate>Wed, 02 Nov 2022 11:29:06 +0000</pubDate>
+		<lastBuildDate>Wed, 02 Nov 2022 11:29:06 GMT</lastBuildDate>
 		<atom:link href="http://radon/i/?a=rss" rel="self" type="application/rss+xml" />
+		<item>
+			<title>The Republican Path To A House Majority Goes Through The Suburbs</title>
+			<link>https://fivethirtyeight.com/features/the-republican-path-to-a-house-majority-goes-through-the-suburbs/</link>
+						<dc:creator>Geoffrey Skelley</dc:creator>
+			<dc:creator>Geoffrey Skelley</dc:creator>
+			<category>2022 Election</category>
+			<category>2022 Election Forecast</category>
+			<category>2022 Midterms</category>
+			<category>House of Representatives</category>
+			<category>Rural</category>
+			<category>Suburbs</category>
+			<category>Urban</category>
+			<category>Urban Density</category>
+			<description><![CDATA[<div>
+
+			<div>
+
+				<header><div>
+													<p><a href="https://fivethirtyeight.com/tag/2022-election/" name="">2022 Election</a></p>
+						
+													<h1>The Republican Path To A House Majority Goes Through The Suburbs</h1>
+																			<h2>Reintroducing our urbanization index for 2022.</h2>
+											</div>
+
+										<div>
+						<div>
+															<p>By <a href="https://fivethirtyeight.com/contributors/geoffrey-skelley/" title="" rel="author">Geoffrey Skelley</a></p>
+															<p>
+					<span>Get the data on <a target="_blank" href="https://github.com/fivethirtyeight/data/tree/master/district-urbanization-index-2022">GitHub</a></span>
+			<span>GitHub data at <a target="_blank" href="https://github.com/fivethirtyeight/data/tree/master/district-urbanization-index-2022">data/district-urbanization-index-2022</a></span>
+			</p>
+							<p>
+								<time>
+									Nov. 2, 2022, at 6:00 AM								</time></p>
+						</div>
+						<div>
+													</div> 
+					</div>
+					
+				</header><figure><span>
+									<div>
+						<picture><source media="(min-width: 768px)"><source><img alt="Election 2022 Texas House" src="https://fivethirtyeight.com/wp-content/uploads/2022/11/AP22165853782984-4X3.jpg?w=917" data-sizes="(max-width: 768px) 100vw, (max-width: 1080px) 66vw, 684px" data-src="https://fivethirtyeight.com/wp-content/uploads/2022/11/AP22165853782984-4X3.jpg?w=917" data-srcset="https://fivethirtyeight.com/wp-content/uploads/2022/11/AP22165853782984-4X3.jpg?w=917 1x, https://fivethirtyeight.com/wp-content/uploads/2022/11/AP22165853782984-4X3.jpg?w=1834 2x"></source></source></picture></div>
+
+				
+			</span>
+
+			
+								<figcaption>
+						The race in Texas’s 34th Congressional District is one of many suburban-exurban districts that the two parties are vying for this fall.													<p>DENISE CATHEY / BROWNSVILLE HERALD / AP</p>
+											</figcaption></figure></div>
+
+			
+		</div>
+
+
+
+
+
+<p data-paragraph="main">Two years after helping <a href="https://fivethirtyeight.com/features/why-the-suburbs-have-shifted-blue/" target="_blank" rel="noopener">deliver President Biden the presidency</a>, and four years after decisively handing <a href="https://fivethirtyeight.com/features/the-suburbs-all-kinds-of-suburbs-delivered-the-house-to-democrats/" target="_blank" rel="noopener">control of the House of Representatives</a> to the Democratic Party, Americans living in the suburbs are poised to once again play a major role in an election.</p>
+
+
+
+<p data-paragraph="main">But after Democrats got the upper hand in suburban areas in 2018 and 2020, the pendulum looks set to swing back in the GOP’s direction in 2022 — at least to some extent. Most of the House races that will decide the election will take place in suburban and exurban districts: About 7 in 10 House races viewed as at least somewhat competitive — those not rated as solidly Democratic or Republican — are in predominantly suburban districts, according to in <a href="https://projects.fivethirtyeight.com/2022-election-forecast/house/" target="_blank" rel="noopener">FiveThirtyEight’s 2022 midterm forecast</a>.<a data-footnote-id="1" href="https://fivethirtyeight.com/wp-json/wp/v2/espn_verticals/398#fn-1" data-footnote-content="&lt;p&gt;&lt;p&gt;Based on the Deluxe forecast, as of Tuesday at 5 p.m. Eastern. Forecast ratings are based on win probabilities: Solid Democratic/Republican means a party’s chance of winning is 95 percent or better; likely Democratic/Republican means a party’s chances are between 75 and 95 percent; lean Democratic/Republican means a party’s chances are between 60 and 75 percent; and toss-up means each party has less than a 60 percent chance of winning.&lt;/p&gt;
+&lt;/p&gt;"><sup>1</sup></a> And Republicans, with better than a 4-in-5 shot of winning control of the House, according to the forecast, appear well-positioned to win a sufficient number of those seats to capture a majority.</p>
+
+
+
+<p data-paragraph="main">To identify which seats are predominantly suburban, we categorized all 435 House districts using <a href="https://fivethirtyeight.com/features/how-urban-or-rural-is-your-state-and-what-does-that-mean-for-the-2020-election/" target="_blank" rel="noopener">FiveThirtyEight’s urbanization index</a>, which measures how urban or rural a district is.<a data-footnote-id="2" href="https://fivethirtyeight.com/wp-json/wp/v2/espn_verticals/398#fn-2" data-footnote-content="&lt;p&gt;&lt;p&gt;FiveThirtyEight&amp;#8217;s urbanization index for congressional districts is the natural logarithm of the average number of people living within a five-mile radius of every census tract in a given district, based on a weighted average of the population of each census tract. The population of a census tract is according to 2020 census data.&lt;/p&gt;
+&lt;/p&gt;"><sup>2</sup></a> To help delineate the categories, we also considered the share of the population in each district that lives in places defined as rural, exurban or small town, suburban or small city, and urban core or large city.<a data-footnote-id="3" href="https://fivethirtyeight.com/wp-json/wp/v2/espn_verticals/398#fn-3" data-footnote-content="&lt;p&gt;&lt;p&gt;This is based on the population of surrounding census tracts. We define rural as having fewer than 25,000 people living within a five-mile radius of a census tract; exurban or small town as having between 25,000 and 99,999; suburban or small city as having between 100,000 and 249,999 people; and urban core or large city as having 250,000 or more.&lt;/p&gt;
+&lt;/p&gt;"><sup>3</sup></a> Using this information, we formulated six groupings that range from most dense to least dense: Dense Urban, Urban-Suburban, Dense Suburban, Suburban-Exurban, Rural-Exurban and Mostly Rural.<a data-footnote-id="4" href="https://fivethirtyeight.com/wp-json/wp/v2/espn_verticals/398#fn-4" data-footnote-content='&lt;p&gt;&lt;p&gt;Dense Urban seats have an urbanization index of 13 or higher; Urban-Suburban from 12.5 up to 13; Dense Suburban from 11.5 up to 12.5; Suburban-Exurban from 10.5 up to 11.5; Rural-Exurban from 9.5 up to 10.5; and Mostly Rural below 9.5. While we do not use their exact methodology, we owe a &lt;a href="https://www.bloomberg.com/news/articles/2018-11-20/citylab-s-congressional-density-index" target="_blank" rel="noopener"&gt;debt of inspiration to CityLab&lt;/a&gt;, which released its helpful &lt;a href="https://www.bloomberg.com/news/articles/2018-10-05/the-suburbs-are-the-midterm-election-battleground" target="_blank" rel="noopener"&gt;Congressional Density Index&lt;/a&gt; ahead of the 2018 midterms.&lt;/p&gt;
+&lt;/p&gt;'><sup>4</sup></a></p>
+
+
+
+<p data-paragraph="main">About half the districts in the House are categorized as Dense Suburban or Suburban-Exurban, which we would expect given that more of the nation’s population <a href="https://www.bloomberg.com/news/articles/2018-11-14/u-s-is-majority-suburban-but-doesn-t-define-suburb" target="_blank" rel="noopener">lives in suburban areas</a> compared with urban or rural ones. And in line with the higher level of electoral competitiveness in suburban and exurban areas, the average seat in these categories is notably less blue or red than its more urban or rural counterparts.</p>
+
+
+<div>
+<section><header><h2>Suburban and exurban seats are the most politically competitive</h2>
+ <p>Congressional districts by urbanization index grouping, with each grouping’s average share of the population in rural, exurban, suburban and urban census tracts and the districts’ average partisan lean according to FiveThirtyEight’s metric</p>
+ </header><table data-carpenter-slug="skelley.gop-suburbs-1102.1"><thead><tr aria-hidden="true"><td colspan="2"></td>
+ <th colspan="4" scope="colgroup">Avg. population per category</th>
+ <td colspan="1"></td>
+ </tr><tr><th colspan="1" scope="col">Grouping</th>
+ <th colspan="1" scope="col">Districts</th>
+ <th colspan="1" scope="col">Rural</th>
+ <th colspan="1" scope="col">Exurban</th>
+ <th colspan="1" scope="col">Suburban</th>
+ <th colspan="1" scope="col">Urban</th>
+ <th colspan="1" scope="col">Lean</th>
+ </tr></thead><tbody><tr><td>Dense Urban</td>
+ <td>36</td>
+ <td data-suffix="%" data-suffixpadding="1.1em">0%</td>
+ <td data-suffix="%" data-suffixpadding="1.1em">1%</td>
+ <td data-suffix="%" data-suffixpadding="1.1em">3%</td>
+ <td data-suffix="%" data-suffixpadding="1.1em">97%</td>
+ <td>D+49</td>
+ </tr><tr><td>Urban-Suburban</td>
+ <td>44</td>
+ <td>1</td>
+ <td>2</td>
+ <td>19</td>
+ <td>79</td>
+ <td>D+34</td>
+ </tr><tr><td>Dense Suburban</td>
+ <td>105</td>
+ <td>3</td>
+ <td>16</td>
+ <td>50</td>
+ <td>30</td>
+ <td>D+14</td>
+ </tr><tr><td>Suburban-Exurban</td>
+ <td>111</td>
+ <td>22</td>
+ <td>35</td>
+ <td>37</td>
+ <td>6</td>
+ <td>R+7</td>
+ </tr><tr><td>Rural-Exurban</td>
+ <td>89</td>
+ <td>47</td>
+ <td>35</td>
+ <td>18</td>
+ <td>0</td>
+ <td>R+25</td>
+ </tr><tr><td>Mostly Rural</td>
+ <td>50</td>
+ <td>72</td>
+ <td>25</td>
+ <td>3</td>
+ <td>0</td>
+ <td>R+30</td>
+ </tr></tbody></table><footer><p>FiveThirtyEight’s urbanization index for congressional districts is the natural logarithm of the average number of people living within a five-mile radius of every census tract in a given district, based on a weighted average of the population of each census tract. Dense Urban seats have an urbanization index of 13 or higher; Urban-Suburban from 12.5 to 13; Dense Suburban from 11.5 to 12.5; Suburban-Exurban from 10.5 to 11.5; Rural-Exurban from 9.5 to 10.5; and Mostly Rural below 9.5. Population data is taken from the 2020 census.</p>
+ <p>The average-per-category columns reflect the average share of each district’s population that lives in census tracts defined as rural, exurban or small town, suburban or small city, or urban core or large city, which are categorized as follows: Rural has fewer than 25,000 people living within a five-mile radius of a census tract; exurban or small town as having between 25,000 and 99,999; suburban or small city as having between 100,000 and 249,999 people; and urban core or large city as having 250,000 or more.</p>
+ <p>Partisan lean is the average margin difference between how a state or district votes and how the country votes overall. This version of partisan lean, meant to be used for congressional and gubernatorial elections, is calculated as 50 percent the state or district’s lean relative to the nation in the most recent presidential election, 25 percent its relative lean in the second-most-recent presidential election and 25 percent a custom state-legislative lean based on the statewide popular vote in the last four state House elections.</p>
+ <p>Source: U.S. Census Bureau</p>
+ </footer></section></div>
+
+
+<p data-paragraph="main">FiveThirtyEight’s forecast rates 75 districts as at least marginally competitive; of those, 53 are either Dense Suburban or Suburban-Exurban. (All data in this article is as of Tuesday at 5 p.m. Eastern.) As things stand, the suburban seats that are rated as lean or likely GOP would get Republicans to 211 seats when combining that with races that are rated Solid Republican, and winning most of the toss-up districts in those groupings would then put them over the top. Tellingly, of the 15 seats that have at least a 2 percent chance in our forecast of <a href="https://fivethirtyeight.com/features/house-tipping-point-districts/" target="_blank" rel="noopener">being the “tipping-point” district</a> — that is, the decisive 218th seat for a party’s House majority — 12 are either Dense Suburban or Suburban-Exurban districts. Republicans are favored to some extent in nine of them, although not a lock to win any.</p>
+
+
+<div>
+<section><header><h2>Most competitive House races are in the suburbs</h2>
+ <p>Congressional districts by urbanization-index grouping and competitiveness rating according to FiveThirtyEight’s Deluxe forecast, as of Nov. 1 at 5 p.m. Eastern</p>
+ </header><div>
+ <table data-carpenter-slug="skelley.suburban-seats.4"><thead><tr><th colspan="1" scope="col">Grouping</th>
+ <th colspan="1" scope="col">Solid D</th>
+ <th colspan="1" scope="col">Likely D</th>
+ <th colspan="1" scope="col">Lean D</th>
+ <th colspan="1" scope="col">Toss-up</th>
+ <th colspan="1" scope="col">Lean R</th>
+ <th colspan="1" scope="col">Likely R</th>
+ <th colspan="1" scope="col">Solid R</th>
+ </tr></thead><tbody><tr><td>Dense Urban</td>
+ <td>33</td>
+ <td>1</td>
+ <td>0</td>
+ <td>0</td>
+ <td>0</td>
+ <td>1</td>
+ <td>1</td>
+ </tr><tr><td>Urban-Suburban</td>
+ <td>35</td>
+ <td>4</td>
+ <td>3</td>
+ <td>0</td>
+ <td>0</td>
+ <td>1</td>
+ <td>1</td>
+ </tr><tr><td>Dense Suburban</td>
+ <td>65</td>
+ <td>5</td>
+ <td>2</td>
+ <td>3</td>
+ <td>1</td>
+ <td>9</td>
+ <td>20</td>
+ </tr><tr><td>Suburban-Exurban</td>
+ <td>21</td>
+ <td>9</td>
+ <td>13</td>
+ <td>6</td>
+ <td>2</td>
+ <td>3</td>
+ <td>57</td>
+ </tr><tr><td>Rural-Exurban</td>
+ <td>6</td>
+ <td>3</td>
+ <td>0</td>
+ <td>1</td>
+ <td>0</td>
+ <td>3</td>
+ <td>76</td>
+ </tr><tr><td>Mostly Rural</td>
+ <td>4</td>
+ <td>0</td>
+ <td>1</td>
+ <td>1</td>
+ <td>1</td>
+ <td>2</td>
+ <td>41</td>
+ </tr><tr><td>Total</td>
+ <td>164</td>
+ <td>22</td>
+ <td>19</td>
+ <td>11</td>
+ <td>4</td>
+ <td>19</td>
+ <td>196</td>
+ </tr></tbody></table></div>
+ <footer><p>FiveThirtyEight’s urbanization index for congressional districts is the natural logarithm of the average number of people living within a five-mile radius of every census tract in a given district, based on a weighted average of the population of each census tract. Dense Urban seats have an urbanization index of 13 or higher; Urban-Suburban from 12.5 up to 13; Dense Suburban from 11.5 up to 12.5; Suburban-Exurban from 10.5 up to 11.5; Rural-Exurban from 9.5 up to 10.5; and Mostly Rural below 9.5. Population data is taken from the 2020 census.</p>
+ <p>FiveThirtyEight’s forecast ratings are based on win probabilities: Solid Democratic/Republican means a party’s chance of winning is 95 percent or better; likely Democratic/Republican means a party’s chances are between 75 and 95 percent; lean Democratic/Republican means a party’s chances are between 60 and 75 percent; and toss-up means each party has less than a 60 percent chance of winning.</p>
+ </footer></section></div>
+
+
+<p data-paragraph="main">But that seat-by-seat count likely underestimates the GOP’s potential to capture suburban seats because the results in each district on Nov. 8 will not be <a href="https://brilliant.org/wiki/probability-independent-events/" target="_blank" rel="noopener">independent of each other</a>. That is, the swing to the right (or, less likely, the left) in a few districts <a href="https://projects.fivethirtyeight.com/2022-flip-senate-house/" target="_blank" rel="noopener">will probably signal</a> at least some shift in the same direction elsewhere. In our forecast’s simulations, the average outcome is 230 Republican seats, seven more seats than we get when we simply assign each seat to the party with the highest win probability. That’s because if Republicans win some of the swingiest seats where Democrats currently hold a slim edge, other highly competitive seats may also swing to the right. This is a reasonably likely outcome, too, considering the GOP now has a <a href="https://projects.fivethirtyeight.com/polls/generic-ballot/" target="_blank" rel="noopener">slight lead in the generic ballot</a> that <a href="https://fivethirtyeight.com/features/gop-polls/" target="_blank" rel="noopener">could grow by Election Day</a>. </p>
+
+
+
+<p data-paragraph="main">Let’s take a brief look at some of the key districts in each category. </p>
+
+
+
+<h2><strong>Suburban-Exurban districts</strong></h2>
+
+
+
+<p data-paragraph="main">Thirty-three of the 53 competitive suburban races are in districts classified as Suburban-Exurban. Overall, 11 of these seats are either toss-ups or favor the GOP to some extent. At the forefront of that group is <a href="https://projects.fivethirtyeight.com/2022-election-forecast/house/iowa/3/" target="_blank" rel="noopener">Iowa’s 3rd District</a>, a slightly right-leaning seat <a href="https://projects.fivethirtyeight.com/redistricting-2022-maps/iowa/" target="_blank" rel="noopener">that includes Des Moines</a>, which is the most likely tipping-point district in our forecast. Democratic Rep. Cindy Axne is defending this seat, but she appears to be a slight underdog. On the East Coast, three other light-red seats held by Democrats are also under threat. Reps. Elaine Luria and Susan Wild each have about a 50-50 chance of retaining <a href="https://projects.fivethirtyeight.com/2022-election-forecast/house/virginia/2/" target="_blank" rel="noopener">Virginia’s 2nd District</a> and <a href="https://projects.fivethirtyeight.com/2022-election-forecast/house/pennsylvania/7/" target="_blank" rel="noopener">Pennsylvania’s 7th District</a>, respectively, while Rep. Tom Malinowski is trailing in his reelection race in <a href="https://projects.fivethirtyeight.com/2022-election-forecast/house/new-jersey/7/" target="_blank" rel="noopener">New Jersey’s 7th District</a>.</p>
+
+
+
+<p data-paragraph="main">This group also includes a couple of toss-up races along the U.S.-Mexico border in South Texas, where Republicans <a href="https://fivethirtyeight.com/features/will-republican-gains-in-south-texas-win-them-more-house-seats/" target="_blank" rel="noopener">hope to build</a> on the <a href="https://fivethirtyeight.com/features/why-democratic-gains-in-texass-big-metro-areas-could-outweigh-republican-success-in-south-texas/" target="_blank" rel="noopener">gains they made in the region</a> in 2020. In <a href="https://projects.fivethirtyeight.com/2022-election-forecast/house/texas/34/" target="_blank" rel="noopener">Texas’s 34th District</a>, the incumbent-versus-incumbent contest between Democratic Rep. Vicente Gonzalez and Republican Rep. Mayra Flores appears up in the air despite the district’s fairly strong (<a href="https://projects.fivethirtyeight.com/redistricting-2022-maps/texas/" target="_blank" rel="noopener">on paper</a> at least) Democratic lean. There’s also a toss-up contest next door in the purple <a href="https://projects.fivethirtyeight.com/2022-election-forecast/house/texas/15/" target="_blank" rel="noopener">15th District</a>, although the Republican trend there might make this seat <a href="https://www.texastribune.org/2022/08/24/tx15-vallejo-de-la-cruz-2022-midterm/" target="_blank" rel="noopener">one of the GOP’s better pickup opportunities</a>.</p>
+
+
+
+<p data-paragraph="main">Democrats do hold at least a small edge in 22 of these Suburban-Exurban seats, yet while almost all of these are being defended by Democratic incumbents, there are some juicy targets for Republicans. This group includes some light-blue seats in the northeast, like <a href="https://projects.fivethirtyeight.com/2022-election-forecast/house/new-york/17/" target="_blank" rel="noopener">New York’s 17th District</a>, where Democratic Rep. Sean Patrick Maloney <a href="https://www.politico.com/news/2022/10/27/maloney-dems-new-york-midterms-00063645" target="_blank" rel="noopener">is at risk</a> of being the first chair of the Democratic Congressional Campaign Committee to lose reelection <a href="https://twitter.com/Redistrict/status/1584524155809996800?s=20&amp;t=79UbkR1fKrxQJVbJF2kxGQ" target="_blank" rel="noopener">since 1980</a>. But it also includes a couple red-leaning Rust Belt seats, such as <a href="https://projects.fivethirtyeight.com/2022-election-forecast/house/pennsylvania/8/" target="_blank" rel="noopener">Pennsylvania’s 8th District</a>, where Rep. Matt Cartwright is <a href="https://projects.fivethirtyeight.com/redistricting-2022-maps/pennsylvania/" target="_blank" rel="noopener">trying to defy gravity</a> as northeast Pennsylvania <a href="https://www.nytimes.com/2022/10/30/us/politics/blue-collar-voters-pennsylvania.html" target="_blank" rel="noopener">has shifted more Republican</a>.</p>
+
+
+
+<h2><strong>Dense Suburban</strong> districts</h2>
+
+
+
+<p data-paragraph="main">There are also 20 competitive races happening in the Dense Suburban category, including three toss-ups. Among that trio, Republicans are looking to flip two notable open seats: the bluest seat on their radar, <a href="https://projects.fivethirtyeight.com/2022-election-forecast/house/rhode-island/2/" target="_blank" rel="noopener">Rhode Island’s 2nd District</a>, and swingy suburban Pittsburgh turf in <a href="https://projects.fivethirtyeight.com/2022-election-forecast/house/pennsylvania/17/" target="_blank" rel="noopener">Pennsylvania’s 17th District</a>. But in the other toss-up race, <a href="https://projects.fivethirtyeight.com/2022-election-forecast/house/michigan/3/" target="_blank" rel="noopener">Michigan’s 3rd District</a>, Republicans <a href="https://fivethirtyeight.com/features/democrats-spent-loads-boosting-republicans-they-thought-were-less-electable-will-it-pay-off/" target="_blank" rel="noopener">may have made it harder</a> on themselves <a href="https://fivethirtyeight.com/features/with-cheneys-loss-just-2-house-republicans-who-voted-to-impeach-trump-are-on-the-ballot-in-november/" target="_blank" rel="noopener">by ousting</a> GOP Rep. Peter Meijer in the primary.</p>
+
+
+
+<p data-paragraph="main">Ten of those competitive seats currently advantage the GOP, including California’s blue-leaning but Republican-held <a href="https://projects.fivethirtyeight.com/2022-election-forecast/house/california/27/" target="_blank" rel="noopener">27th District</a>, which major outside Democratic groups <a href="https://twitter.com/allymutnick/status/1583489245708423168" target="_blank" rel="noopener">recently decided to abandon by cutting their ad spending</a>. And as the GOP’s chances have improved in the House, <a href="https://projects.fivethirtyeight.com/redistricting-2022-maps/ohio/" target="_blank" rel="noopener">two purple seats</a> in Ohio where Republicans are favored are now the second- and seventh-most likely tipping-point seats in our forecast: In the Cincinnati-based <a href="https://projects.fivethirtyeight.com/2022-election-forecast/house/ohio/1/" target="_blank" rel="noopener">1st District</a>, Republican Rep. Steve Chabot is likely to win, while Republicans look to have a similar edge in the open, Akron-based <a href="https://projects.fivethirtyeight.com/2022-election-forecast/house/ohio/13/" target="_blank" rel="noopener">13th District</a> south of Cleveland.</p>
+
+
+
+<p data-paragraph="main">Lastly, Democrats are favored in seven competitive seats in the Dense Suburban category, although some could still get picked off if the GOP has a good night. The open seat in <a href="https://projects.fivethirtyeight.com/2022-election-forecast/house/new-york/3/" target="_blank" rel="noopener">New York’s 3rd District</a> may be most in danger, as the Long Island-based seat is <a href="https://projects.fivethirtyeight.com/redistricting-2022-maps/new-york/" target="_blank" rel="noopener">only a light-blue seat</a>. But Democrats also need to defend <a href="https://projects.fivethirtyeight.com/2022-election-forecast/house/kansas/3/" target="_blank" rel="noopener">Kansas’s 3rd District</a>, a red-tinged seat in Kansas City’s suburbs, where <a href="https://www.nytimes.com/interactive/2022/10/27/upshot/times-siena-toplines-house-polls.html" target="_blank" rel="noopener">despite some recent strong polling</a> for Democratic Rep. Sharice Davids, neither party views the race as a done deal based on <a href="https://www.kansascity.com/news/politics-government/article267423067.html" target="_blank" rel="noopener">outside spending</a>.</p>
+
+
+
+<div><hr><span></span></div>
+
+
+
+
+<p data-paragraph="main">The suburbs make up a big chunk of the districts in the House of Representatives — and the lion’s share of the districts that will be most contested on Election Day. Republicans are favored to win the House, and should they capture a majority, there’s a high likelihood that their gains in seats in the Dense Suburban and Suburban-Exurban groupings will have played a starring role in that outcome.</p>]]></description>
+			<pubDate>Wed, 02 Nov 2022 10:00:00 +0000</pubDate>
+			<guid isPermaLink="false">1667386801908378</guid>
+		</item>
+		<item>
+			<title>How 5 Voters Of Color Are Thinking About The Economy</title>
+			<link>https://fivethirtyeight.com/features/how-5-voters-of-color-are-thinking-about-the-economy/</link>
+						<dc:creator>Alex Samuels</dc:creator>
+			<dc:creator>Alex Samuels</dc:creator>
+			<category>2022 Election</category>
+			<category>2022 Midterms</category>
+			<category>Voices Of Color</category>
+			<description><![CDATA[<div>
+
+			<div>
+
+				<header><div>
+													<p><a href="https://fivethirtyeight.com/tag/2022-election/" name="">2022 Election</a></p>
+						
+													<h1>How 5 Voters Of Color Are Thinking About The Economy</h1>
+																	</div>
+
+										<div>
+						<div>
+															<p>By <a href="https://fivethirtyeight.com/contributors/alex-samuels/" title="" rel="author">Alex Samuels</a></p>
+																					<p>
+								<time>
+									Nov. 2, 2022, at 6:00 AM								</time></p>
+						</div>
+						<div>
+													</div> 
+					</div>
+					
+				</header><figure><span>
+									<div>
+						<picture><source media="(min-width: 768px)"><source><img alt="VOICES-OF-COLOR-1102-4×3" src="https://fivethirtyeight.com/wp-content/uploads/2022/11/VOICES-OF-COLOR-1102-4x3-1.png?w=916" data-sizes="(max-width: 768px) 100vw, (max-width: 1080px) 66vw, 684px" data-src="https://fivethirtyeight.com/wp-content/uploads/2022/11/VOICES-OF-COLOR-1102-4x3-1.png?w=916" data-srcset="https://fivethirtyeight.com/wp-content/uploads/2022/11/VOICES-OF-COLOR-1102-4x3-1.png?w=916 1x, https://fivethirtyeight.com/wp-content/uploads/2022/11/VOICES-OF-COLOR-1102-4x3-1.png?w=1832 2x"></source></source></picture></div>
+
+				
+			</span>
+
+			
+								<figcaption><p>PHOTO ILLUSTRATION BY EMILY SCHERER / GETTY IMAGES</p>
+											</figcaption></figure></div>
+
+			
+		</div>
+
+
+
+
+
+<p data-paragraph="main"><em>Welcome to </em><a href="https://fivethirtyeight.com/tag/voices-of-color/" target="_blank" rel="noopener"><strong><em>Voices Of Color</em></strong></a><em>, a column that explores what’s on the minds of voters of color in this year’s midterm elections. Too often, media coverage focuses on the political preferences of white people with euphemisms like “</em><a href="https://www.npr.org/2018/04/07/599573817/what-we-mean-when-we-talk-about-suburban-women-voters" target="_blank" rel="noopener"><em>suburban women</em></a><em>” or “</em><a href="https://www.vox.com/2016/2/1/10889138/coded-language-thug-bossy" target="_blank" rel="noopener"><em>middle class</em></a><em>.” But in this column, we want to know what makes voters of color tick. </em></p>
+
+
+
+<p data-paragraph="main"><em>We want to explore their views on politics, policy, the future of our democracy, our two-party system and everything in between. We hope that this column offers fresh perspectives from the minds of those whose political opinions are often overlooked or</em><em> </em><a href="https://www.pewresearch.org/politics/2016/09/13/2-party-affiliation-among-voters-1992-2016/" target="_blank" rel="noopener"><em>assumed</em></a><em>. </em><em>If you think you might be a good fit for this column,</em><em> </em><a href="https://fivethirtyeight.com/features/are-you-a-voter-of-color-we-want-to-hear-from-you/" target="_blank" rel="noopener"><em>fill out this form</em></a><em> </em><em>— we might get in touch.</em></p>
+
+
+
+<div><hr><span></span></div>
+
+
+
+
+<p data-paragraph="main">Sergio Piedra, 51, remembers when “<a href="https://www.npr.org/2022/06/16/1105323610/flight-tickets-inflation-pandemic-revenge-travel-vacation-europe-recession" target="_blank" rel="noopener">revenge travel</a>” — or traveling to make up for lost time during the COVID-19 pandemic — was at an all-time high. But after an initial influx of out-of-towners to his home state of Florida, Piedra, who works for a local tourism marketing organization, began to notice a slight dip in visitors. </p>
+
+
+
+<p data-paragraph="main">“This is how I make a living,” he told me. “So it’s important to me that people are willing to travel.” And right now, ahead of the winter holiday season, he’s especially on edge. “It’s important to me that people are willing to travel, spend money and have a good time.” As concerns about the economy mount, however, it’s unclear whether that’ll be the case. While bookings and vacations <a href="https://www.nytimes.com/2022/02/15/travel/trends-spring-2022.html" target="_blank" rel="noopener">appeared to increase</a> throughout the United States this past spring, <a href="https://business.fau.edu/newsroom/press-releases/2022/florida-travel-slowdown.php" target="_blank" rel="noopener">they’ve since declined</a>. It <em>does </em>look like people will be traveling for the holidays — <a href="https://www.cbsnews.com/news/how-to-save-on-holiday-travel/" target="_blank" rel="noopener">but it won’t be cheap</a>.</p>
+
+
+
+<p data-paragraph="main">Piedra, who identifies as a Democrat, understands that other Americans may be worse off — both he and his wife are still employed — but the U.S. economy is still a top concern for him. And he’s far from being alone: The latest wave of our <a href="https://www.ipsos.com/en-us/news-polls/FiveThirtyEight-2022-midterm-election" target="_blank" rel="noopener">FiveThirtyEight/Ipsos</a> poll using Ipsos’s <a href="https://www.ipsos.com/en-us/solutions/public-affairs/knowledgepanel" target="_blank" rel="noopener">KnowledgePanel</a> found that “inflation or increasing costs” was top of mind for most Americans. (According to <a href="https://fivethirtyeight.com/features/ipsos-preelection-survey-likely-voters/" target="_blank" rel="noopener">our latest survey data</a>, 65 percent of Americans said that issue was among the most important facing the country.) </p>
+
+
+
+<figure><img loading="lazy" width="1422" height="2046" src="https://fivethirtyeight.com/wp-content/uploads/2022/10/skelley-fuong.IPSOS-PRE-ELECTION.1026-final.png" alt="" data-src="https://fivethirtyeight.com/wp-content/uploads/2022/10/skelley-fuong.IPSOS-PRE-ELECTION.1026-final.png" data-srcset="https://fivethirtyeight.com/wp-content/uploads/2022/10/skelley-fuong.IPSOS-PRE-ELECTION.1026-final.png?w=712 1x, https://fivethirtyeight.com/wp-content/uploads/2022/10/skelley-fuong.IPSOS-PRE-ELECTION.1026-final.png?w=1424 2x"></figure><figure><img loading="lazy" width="670" height="1406" src="https://fivethirtyeight.com/wp-content/uploads/2022/10/skelley-fuong.IPSOS-PRE-ELECTION.1026-mob-use.png" alt="" data-src="https://fivethirtyeight.com/wp-content/uploads/2022/10/skelley-fuong.IPSOS-PRE-ELECTION.1026-mob-use.png" data-srcset="https://fivethirtyeight.com/wp-content/uploads/2022/10/skelley-fuong.IPSOS-PRE-ELECTION.1026-mob-use.png?w=670 1x, https://fivethirtyeight.com/wp-content/uploads/2022/10/skelley-fuong.IPSOS-PRE-ELECTION.1026-mob-use.png?w=1340 2x"></figure><p data-paragraph="main">With early voting already underway, I wanted to better understand how concerns about the economy were impacting the choices of five voters of colors at the ballot box. In some cases, like Piedra’s, those fears haven’t stopped them from supporting Democrats. But other voters of color I spoke with said that, despite their political affiliation, they currently trust the GOP more on issues related to the economy. </p>
+
+
+
+<p data-paragraph="main">That was the case with James Harris, 23, who lives in California and identifies as an independent voter. In fact, Harris told me that he hopes the next Congress is gridlocked so that there’s more compromise in D.C. — something he’s optimistic will lead to more bipartisan solutions when it comes to addressing the country’s <a href="https://fortune.com/2022/10/06/7-top-economic-minds-think-global-recession-coming-some-say-its-here/" target="_blank" rel="noopener">current economic problems</a>. </p>
+
+
+
+<p data-paragraph="main">“If you have Republicans in the House, Democrats in the Senate and then [President] Biden in White House, there’s going to <em>have </em>to be compromise,” he said. “While Democrats might want to pass more ambitious bills that carry a steep price tag, Republicans aren’t going to want to increase spending. And, in the end, I think that might be a healthy balance.” (The Deluxe version of <a href="https://projects.fivethirtyeight.com/2022-election-forecast/house/" target="_blank" rel="noopener">FiveThirtyEight’s 2022 midterm election forecast</a> currently favors Republicans to win the House, while the <a href="https://projects.fivethirtyeight.com/2022-election-forecast/senate/" target="_blank" rel="noopener">Senate is a dead heat</a>.) </p>
+
+
+
+<p data-paragraph="main"></p><div><iframe title="Food, energy and housing costs are bipartisan concerns" aria-label="Dot Plot" src="https://datawrapper.dwcdn.net/N6fY3/2/" scrolling="no" frameborder="0" height="317" sandbox="allow-scripts allow-same-origin"></iframe></div>
+
+
+
+<p data-paragraph="main">As Harris and Piedra’s differing stances show, voters of color have competing views when it comes to what they’re most worried about regarding the economy <em>and </em>what they want the federal government to do about it. Despite my interviewees’ fears about the economy, though, not everyone viewed increased federal spending — such as Biden’s <a href="https://studentaid.gov/manage-loans/forgiveness-cancellation/debt-relief-info" target="_blank" rel="noopener">student loan forgiveness initiative</a> or the <a href="https://www.cnbc.com/2021/03/11/biden-1point9-trillion-covid-relief-package-thursday-afternoon.html" target="_blank" rel="noopener">COVID-19 stimulus checks</a> — as a bad<em> </em>thing. “I’m for them,” said 45-year-old Beth Napper, “not because I necessarily think they help the economy as a whole, but because I think they help <em>individuals</em> who are impacted by the economy that we’re in.”</p>
+
+
+
+<p data-paragraph="main"></p><div><hr><span></span></div>
+ 
+
+
+
+<p data-paragraph="main"><strong><em>The interviews below have been edited and condensed for clarity. </em></strong></p>
+
+
+
+<p data-paragraph="main"><strong>Alex Samuels: How much is the economy factoring into your voting decision in this election cycle? Is it more of a factor than it usually is or about the same? </strong></p>
+
+
+
+<p data-paragraph="main">Beth Napper (45, Virginia, Black, Democrat): Economic concerns comprise at least 60 percent of my decision for voting in this year’s midterm election, which is more than usual. </p>
+
+
+
+<p data-paragraph="main">Sergio Piedra (51, Florida, Hispanic, Democrat): I work in the tourism industry, so I can always feel the ebb and flow of the economy. I’ve been lucky enough to maintain a job [throughout the pandemic], but I understand that many others are struggling and I sympathize with that. When I go to the voting booth, concerns about the economy will be top of mind — but they always are for me. It won’t be any greater or less this year. Statistically, how the economy is doing comprises about 50 percent in how I decide who I vote for; the other 50 percent is a bunch of other things. </p>
+
+
+
+<p data-paragraph="main">James Harris (23, California, Hispanic and white, independent): I’ve never voted before, but the economy, in my opinion, is the most important issue for my family and me this year. I know that the unemployment rate is low right now, but, because of inflation, I think that confidence in the economy is very low, too. Right now, I’m worried about gas prices and the uncertainty of how things will go. I currently work two jobs — a night job and a day job — not because I’m living paycheck to paycheck, but because expenses are going up and I want to prepare for a possible recession next year. </p>
+
+
+
+<p data-paragraph="main">Zachary Bimslager (43, Texas, Black and white, Libertarian): It’s hard to quantify exactly how much the economy factors into my vote this year. It’s definitely the most important factor, but I wouldn’t say that it’s more or less important than it has been in any other election. The economy is always my No. 1 issue. </p>
+
+
+
+<p data-paragraph="main">Maya Kannan (19, Texas, Asian, Republican): This is the first election that I’ll be voting in, actually, but if I were to give a percentage, I’d say that the economy comprises about 40 percent of my voting decisions this year. It’s definitely my top issue.</p>
+
+
+
+<p data-paragraph="main"><strong>AS: What are you most worried about regarding the economy? </strong></p>
+
+
+
+<p data-paragraph="main">Piedra: I’m worried about people worrying about the economy. It almost becomes a self-fulfilling prophecy, you know: Things are bad, but it gets made worse if everyone is thinking about the worst possible outcome. I don’t mean to say that everyone needs to be as optimistic as I am, but we’ve been through so much as a country in the last few years and we’re still standing. We just need to keep moving forward. </p>
+
+
+
+<p data-paragraph="main">Napper: The impact of inflation and how long it will continue to ramp up. And while this doesn’t impact me directly, the trend toward a gig economy is something I’ve seen and heard more about from my friends, and I don’t think that’s sustainable for the average person to take them through their working life and into retirement.</p>
+
+
+
+<p data-paragraph="main">Harris: A lot of news outlets are predicting that we’re going to be in a recession next year, and I’m really nervous to see how things will turn out. My fear is that the people who will be most affected by a potential recession are retail workers or people who are just entering the workforce. I’m also worried about how high the unemployment rate will rise <em>if </em>we go into a recession.</p>
+
+
+
+<p data-paragraph="main">Bimslager: Obviously, the elephant in the room is inflation. While I’m also concerned about things like employment numbers, too, inflation is the top economic issue that I’m concerned about.</p>
+
+
+
+<p data-paragraph="main"><strong>AS: Have you swung back and forth in terms of the economic issues you’ve cared about most in 2022?</strong></p>
+
+
+
+<p data-paragraph="main">Piedra: The whole gas price shock threw me for a loop. At one point I was thinking, ‘Man, how high can these prices go?’ But I think I’ve reeled back from that as things have stabilized — relatively speaking — into the summer and fall. I don’t want to sound self-serving, but as we enter the holiday season, I’ve been thinking more about the impact the economy has on the tourism industry and whether people are going to get back to leisure traveling. </p>
+
+
+
+<p data-paragraph="main">Napper: No, I don’t think so. I feel like the same issues have been prevalent throughout all of 2022. </p>
+
+
+
+<p data-paragraph="main">Kannan: Yes, certainly. At the beginning of the year, unemployment was my top concern. I saw a number of people lose jobs and that started to scare me. Later on, after Russia’s invasion of Ukraine, rising gas prices became my biggest worry. Then, once inflation got out of hand, that became a bigger deal to me over energy prices. </p>
+
+
+
+<p data-paragraph="main"><strong>AS: Have your own personal finances — or your general financial situation — changed in the last few years?</strong></p>
+
+
+
+<p data-paragraph="main">Piedra: Not really, no. It has been steady. I’ve been through worse situations. For example, during the Great Recession, I didn’t get a pay raise for five years. But my wife and I have continued to work, receive pay increases and pay our bills — so that has been good.</p>
+
+
+
+<p data-paragraph="main">Harris: Before I moved to San Francisco, I was living in Indianapolis, where I went to school and graduated May 2022. While I was there, though, I didn’t own a car and would borrow my friend’s. Whenever I had to fill up the gas tank, it would be about $30, but, month by month, that increased and eventually it got closer to $50. I started noticing how much more I was paying in gas starting in summer 2021 compared to years prior. And throughout the year until now, it has gotten worse. Those small expenses that you have to do on a daily or weekly basis — like buying groceries or getting gas — add up, and it puts me in a hard position because I’ve had to sacrifice some of my wants to pay for these things.</p>
+
+
+
+<p data-paragraph="main">Bimslager: No. I’ve been employed by the same company for a very long time, so our salaries haven’t really been affected by issues with the economy. As a consumer, my buying power is down with the current inflation rates, but it hasn’t been <em>too</em> drastic.</p>
+
+
+
+<p data-paragraph="main"><strong>AS: Who do you think is responsible for your current financial situation?</strong></p>
+
+
+
+<p data-paragraph="main">Piedra: Myself. There’s a lot of factors that I can’t control — whether it’s the government or how many people are traveling at any given time — but, at the end of the day, you still have to work and make the right decisions economically. So, in a sense, I feel like I’m the one most responsible for what happens to me. </p>
+
+
+
+<p data-paragraph="main">Harris: In all honesty, part of it is on me. I know that I need to budget better and probably not do things like buy coffee in the morning or order Ubers. But I think the primary reason why the economy is in the position that it’s in is due to supply shortages all around the world. </p>
+
+
+
+<p data-paragraph="main">Bimslager: Ultimately, I am, but in a political context, I’d say that both parties are responsible. At any given point in time, I’d blame the political party in power, but I do think that both Democrats and Republicans make the same mistakes regarding the economy — particularly when it comes to federal spending. This is a systemic issue, though, so I wouldn’t necessarily blame neither Biden nor [former President Donald] Trump for where we are today. </p>
+
+
+
+<p data-paragraph="main">Kannan: I think that a lot rests on the previous president. While there was a lot of economic growth under the Trump administration, the beginning of certain spending expenditures that ultimately led to the economic issues we have now started with him. I also think you could argue that Trump wasn’t tough enough on Russia, and, if he were, that may have prevented some of the issues we’re facing now. </p>
+
+
+
+<p data-paragraph="main"><strong>AS: Are you more concerned about your own financial situation or the country’s?</strong></p>
+
+
+
+<p data-paragraph="main">Napper: The country’s. But what I’m really worried about is the middle class. What I’ve observed and heard in conversations with friends, families and the various communities I’m a part of is a concern for whether our country’s current economic situation is sustainable; and if it’s not, I’m worried about what the ripple effects of that will be. Will that mean higher taxes? More inflation? Those are all major concerns of mine.</p>
+
+
+
+<p data-paragraph="main">Harris: The country’s. I have a budget and try to follow it as closely as I can, but I am really worried about the country’s economy because if it isn’t in good shape, then unemployment will eventually go up. I’m also worried about job security — not just for my own sake, but for other Americans and my family members, too. </p>
+
+
+
+<p data-paragraph="main">Kannan: Definitely the country’s. Thankfully, my father is very established in his career and I’m pursuing a degree that has promising job prospects, so I’m not overly concerned about my own finances. That said, there’s definitely reason to suspect that many people in the U.S. are going to suffer from this period we’re in now. Inflation affects things like tuition, but a lot of jobs still require a college degree. And if more people forego a college education as a result, that could impact their future income. Certainly, the situation we’re in now is going to have long-term, negative effects for a very large swath of people in the country. </p>
+
+
+
+<p data-paragraph="main"><strong>AS: Do you think recent federal spending initiatives have contributed to rising inflation? </strong></p>
+
+
+
+<p data-paragraph="main">Piedra: I think so, but I also believe these things needed to be done for the good of the country. For every action, there’s going to be a reaction. </p>
+
+
+
+<p data-paragraph="main">Napper: Yes, but I support most of those initiatives. And while they’ve contributed to inflation, they’re by no means, at least in my mind, the root cause of what we’re seeing today. I think that the economic situation we’re in now has been in the works for some time. </p>
+
+
+
+<p data-paragraph="main">Harris: Absolutely. While I supported initiatives like the American Rescue Plan, I think the federal government also overspent during that time. And I’ve seen a lot of articles about PPP money getting stolen, so I wish that we would’ve spent less during the COVID-19 pandemic.</p>
+
+
+
+<p data-paragraph="main">Kannan: To a certain degree, but I wouldn’t blame them for everything we’re seeing now. The COVID-19 pandemic contributed to the country’s economic downturn, too. Of course, a certain amount of inflation is inevitable, and I think some federal spending initiatives — from both the Biden and Trump administrations — were wasteful, but I wouldn’t necessarily blame only the most <em>recent</em> ones for everything we’re seeing now.</p>
+
+
+
+<p data-paragraph="main"><strong>AS: Are you for or against recent Biden administration proposals and policies that have or will affect the economy — such as the COVID-19 stimulus checks or forgiving some student loan debt?</strong></p>
+
+
+
+<p data-paragraph="main">Piedra: I’m mostly for the things that [Biden] is doing. I may not agree with everything, but you have to give the man a shot at trying. The idea is to come up with something different from the previous administrations, and I want to see how that plays out.</p>
+
+
+
+<p data-paragraph="main">Harris: I didn’t receive any stimulus money because, at the time, I was still dependent on my parents. While I think a lot of people needed the money, and I supported giving COVID-19 stimulus checks to individuals, I believe that the way it was rolled out was ineffective because there was a lot of fraud. And, to be honest, I don’t support Biden’s student loan debt initiative because the cost of universities is still going to go up, and, 10 years from now, we’re still going to have people in debt. Even though a lot of people will be helped by loan forgiveness, [the initiative] still doesn’t address the underlying issue of why college tuition is increasing and how we can bring a stop to that.</p>
+
+
+
+<p data-paragraph="main">Bimslager: I’m not necessarily in favor of them primarily because I don’t think that a lot of these spending initiatives will lead to [Biden’s] desired outcome. For example, I don’t think that the Inflation Reduction Act will do much to curb inflation. That said, I’m not up in arms about these policies, either. </p>
+
+
+
+<p data-paragraph="main">Kannan: Conceptually, I agreed with the stimulus checks. My family received them, but I don’t think we necessarily needed them — so some of the spending there might have been excessive. I also question whether the stimulus checks discouraged people from seeking employment during the labor shortage. And while I understand the sentiment behind the student loan initiative, I wonder if now was the best time to deploy that. It also doesn’t really solve the problem of unaffordable higher education. It’s a policy to win votes, but it doesn’t solve the underlying issues at hand. </p>
+
+
+
+<p data-paragraph="main"><strong>AS: What, if anything, do you hope the federal government will do to alleviate your concerns regarding the economy?  </strong></p>
+
+
+
+<p data-paragraph="main">Napper: I would like to see more bipartisan support for measures that really deal with what I think are the root causes of our current economic situation. In an ideal world, I would like to see our representatives fight for what’s right for individuals versus corporations. I think that a lot of people equate the strength of our economy to the strength of corporations and, as far as I can tell, our corporations are as strong — or stronger — than they’ve ever been. That’s happening, though, at the detriment of the individual. So I want more policies that focus on helping people. I can’t name anything specific that I’d like to see, but I want more of a shift in the mindset of our politicians. </p>
+
+
+
+<p data-paragraph="main">Bimslager: They just need to stop spending so much money in general. But I’d have that critique of any administration, regardless of party. </p>
+
+
+
+<p data-paragraph="main">Kannan: There needs to be more accountability and transparency about how federal money is being spent. It is important to get an explanation of how specific spending initiatives in the budget accomplish the government’s goals — say, improved welfare, greater security, economic growth, et cetera. I’m not saying that we need to spend less necessarily, but we need to know what’s supposed to happen with that money. </p>
+
+
+
+<p data-paragraph="main"><strong>AS: Which party do you trust more on economic issues? Why? </strong></p>
+
+
+
+<p data-paragraph="main">Piedra: I’ll be loyal and say that I trust my party, the Democrats. I think with Democrats, there’s a degree of realism, but with Republicans, they just want to repeat the same tactic over and over again: Cut taxes here and allegedly cut spending there — and they never really do either well. Their economic messaging has become really tiresome to me.</p>
+
+
+
+<p data-paragraph="main">Napper: At the moment, I don’t trust either party because I feel that everyone is more concerned with being reelected than the work that we elect them to do while they’re there. I hope that there are individuals who are not that way, but, on the whole, that’s how I view both parties.</p>
+
+
+
+<p data-paragraph="main">Harris: Honestly, neither of them. But if I had to choose right now, I’d say that I trust the Republicans more. Republicans want to bring taxes down, which I support. We also need to focus on bringing federal spending down, and I think that the Republicans are more cognizant about that. </p>
+
+
+
+<p data-paragraph="main">Kannan: If you asked me this a few years ago, I would have said the Republican Party easily. But at the moment, the Democrats have a slight edge. That’s not to say that I fully trust them, but I think Republicans, unfortunately, given the current leadership, are not very good at determining which battles are worth fighting. When I was younger and first started identifying as Republican, politicians like Mitt Romney were quite content with globalization as a way of improving the standard of living. Trump, meanwhile, was ready to sacrifice standard of living just to counter globalization, which, to me, is not sound economic policy. </p>]]></description>
+			<pubDate>Wed, 02 Nov 2022 10:00:00 +0000</pubDate>
+			<guid isPermaLink="false">1667386801908377</guid>
+		</item>
 		<item>
 			<title>As States Banned Abortion, Thousands More Americans Got Pills Online Anyway</title>
 			<link>https://fivethirtyeight.com/features/medication-abortion-after-dobbs/</link>
@@ -61,8 +615,8 @@
 
 
 
-<p data-paragraph="main"><a href="https://jamanetwork.com/journals/jama/article-abstract/2797883" target="_blank" rel="noopener">A new research paper released today</a> begins to answer that question. It shows that Aid Access, <a href="https://www.vox.com/23056530/aid-access-abortion-roe-wade-pills-mifepristone" target="_blank" rel="noopener">an international abortion pill service</a> that <a href="https://www.cnn.com/2019/03/15/health/fda-aid-access-abortion-pill-warning" target="_blank" rel="noopener">distributes medication abortion</a> in places where it’s illegal, received a combined total of 6,533 more requests for pills from the United States in July and August 2022, with each month compared to an April 2022 baseline.<a data-footnote-id="1" href="https://fivethirtyeight.com/wp-json/wp/v2/espn_verticals/398#fn-1" data-footnote-content="&lt;p&gt;&lt;p&gt;The data compiled in the paper is limited to the 30 states in which Aid Access does not currently provide telemedecine abortion within a formal health care setting. It also excludes requests made to Aid Access for abortion pills that patients who said they were not yet pregnant requested in order to keep pills on hand, just in case. We calculated the difference between the number of requests made in July vs. April and in August vs. April to match the calculations we had made in our previous reporting on the #WeCount data. We did not use data from May or June, as the Supreme Court’s leaked opinion in May and final opinion in June could have caused noise we could not control for.&lt;/p&gt;
-&lt;/p&gt;"><sup>1</sup></a> <a href="https://www.sciencedirect.com/science/article/pii/S2667321522000373" target="_blank" rel="noopener">Previous analysis of Aid Access data suggests</a> that about 50 to 60 percent of requests result in completed abortions, which would mean at least an additional 3,267 abortions in July and August combined, compared to that April baseline. While this estimate is inexact, the increase demonstrates the role that self-managed abortion now plays in shaping abortion access in America.  </p>
+<p data-paragraph="main"><a href="https://jamanetwork.com/journals/jama/article-abstract/2797883" target="_blank" rel="noopener">A new research paper released today</a> begins to answer that question. It shows that Aid Access, <a href="https://www.vox.com/23056530/aid-access-abortion-roe-wade-pills-mifepristone" target="_blank" rel="noopener">an international abortion pill service</a> that <a href="https://www.cnn.com/2019/03/15/health/fda-aid-access-abortion-pill-warning" target="_blank" rel="noopener">distributes medication abortion</a> in places where it’s illegal, received a combined total of 6,533 more requests for pills from the United States in July and August 2022, with each month compared to an April 2022 baseline.<a data-footnote-id="5" href="https://fivethirtyeight.com/wp-json/wp/v2/espn_verticals/398#fn-5" data-footnote-content="&lt;p&gt;&lt;p&gt;The data compiled in the paper is limited to the 30 states in which Aid Access does not currently provide telemedecine abortion within a formal health care setting. It also excludes requests made to Aid Access for abortion pills that patients who said they were not yet pregnant requested in order to keep pills on hand, just in case. We calculated the difference between the number of requests made in July vs. April and in August vs. April to match the calculations we had made in our previous reporting on the #WeCount data. We did not use data from May or June, as the Supreme Court’s leaked opinion in May and final opinion in June could have caused noise we could not control for.&lt;/p&gt;
+&lt;/p&gt;"><sup>5</sup></a> <a href="https://www.sciencedirect.com/science/article/pii/S2667321522000373" target="_blank" rel="noopener">Previous analysis of Aid Access data suggests</a> that about 50 to 60 percent of requests result in completed abortions, which would mean at least an additional 3,267 abortions in July and August combined, compared to that April baseline. While this estimate is inexact, the increase demonstrates the role that self-managed abortion now plays in shaping abortion access in America.  </p>
 
 
 
@@ -78,13 +632,13 @@
 
 
 
-<p data-paragraph="main">After the constitutional right to abortion was overturned in June, Aid Access’s online request form blew up. According to the new paper, the number of weekly requests for abortion pills from Aid Access rose in a number of states, with the highest increases coming from people in states with full bans on abortion. For example, requests rose the most in Louisiana, Mississippi, Arkansas, Alabama and Oklahoma — all of which had implemented near-total bans on abortion by early July.<a data-footnote-id="2" href="https://fivethirtyeight.com/wp-json/wp/v2/espn_verticals/398#fn-2" data-footnote-content='&lt;p&gt;&lt;p&gt;&lt;a href="https://www.theadvocate.com/baton_rouge/news/politics/article_f0398ef4-045f-11ed-896d-db553e7f3549.html" target="_blank" rel="noopener"&gt;Louisiana banned abortion&lt;/a&gt; shortly after the Dobbs ruling, but a series of court rulings meant that abortion was intermittently available through the month of July. Abortion has been fully and consistently illegal in Louisiana &lt;a href="https://www.npr.org/2022/08/10/1116802767/louisianas-abortion-ban-has-doctors-worried-about-patients-and-their-own-careers" target="_blank" rel="noopener"&gt;since early August&lt;/a&gt;. Requests were measured per 100,000 female residents of reproductive age (15 to 44).&lt;/p&gt;
-&lt;/p&gt;'><sup>2</sup></a></p>
+<p data-paragraph="main">After the constitutional right to abortion was overturned in June, Aid Access’s online request form blew up. According to the new paper, the number of weekly requests for abortion pills from Aid Access rose in a number of states, with the highest increases coming from people in states with full bans on abortion. For example, requests rose the most in Louisiana, Mississippi, Arkansas, Alabama and Oklahoma — all of which had implemented near-total bans on abortion by early July.<a data-footnote-id="6" href="https://fivethirtyeight.com/wp-json/wp/v2/espn_verticals/398#fn-6" data-footnote-content='&lt;p&gt;&lt;p&gt;&lt;a href="https://www.theadvocate.com/baton_rouge/news/politics/article_f0398ef4-045f-11ed-896d-db553e7f3549.html" target="_blank" rel="noopener"&gt;Louisiana banned abortion&lt;/a&gt; shortly after the Dobbs ruling, but a series of court rulings meant that abortion was intermittently available through the month of July. Abortion has been fully and consistently illegal in Louisiana &lt;a href="https://www.npr.org/2022/08/10/1116802767/louisianas-abortion-ban-has-doctors-worried-about-patients-and-their-own-careers" target="_blank" rel="noopener"&gt;since early August&lt;/a&gt;. Requests were measured per 100,000 female residents of reproductive age (15 to 44).&lt;/p&gt;
+&lt;/p&gt;'><sup>6</sup></a></p>
 
 
 
-<p data-paragraph="main">In these states, some people may see an organization like Aid Access as their only option. <a href="https://jamanetwork.com/journals/jama/fullarticle/2798215?guestAccessKey=70c1bc40-5cc0-4bcf-a73d-a5b9b26ccf01&amp;utm_source=For_The_Media&amp;utm_medium=referral&amp;utm_campaign=ftm_links&amp;utm_content=tfl&amp;utm_term=110122" target="_blank" rel="noopener">Another paper published today</a> by Ushma Upadhyay, a professor and public health social scientist at the University of California, San Francisco, found that in the aftermath of the Supreme Court ruling, an estimated one-third of reproductive-age women in the U.S. live in a census tract more than an hour from an abortion facility.<a data-footnote-id="3" href="https://fivethirtyeight.com/wp-json/wp/v2/espn_verticals/398#fn-3" data-footnote-content="&lt;p&gt;&lt;p&gt;Excluding Hawaii and Alaska.&lt;/p&gt;
-&lt;/p&gt;"><sup>3</sup></a> For people living in Texas, estimated travel time to an abortion clinic rose by almost eight hours.</p>
+<p data-paragraph="main">In these states, some people may see an organization like Aid Access as their only option. <a href="https://jamanetwork.com/journals/jama/fullarticle/2798215?guestAccessKey=70c1bc40-5cc0-4bcf-a73d-a5b9b26ccf01&amp;utm_source=For_The_Media&amp;utm_medium=referral&amp;utm_campaign=ftm_links&amp;utm_content=tfl&amp;utm_term=110122" target="_blank" rel="noopener">Another paper published today</a> by Ushma Upadhyay, a professor and public health social scientist at the University of California, San Francisco, found that in the aftermath of the Supreme Court ruling, an estimated one-third of reproductive-age women in the U.S. live in a census tract more than an hour from an abortion facility.<a data-footnote-id="7" href="https://fivethirtyeight.com/wp-json/wp/v2/espn_verticals/398#fn-7" data-footnote-content="&lt;p&gt;&lt;p&gt;Excluding Hawaii and Alaska.&lt;/p&gt;
+&lt;/p&gt;"><sup>7</sup></a> For people living in Texas, estimated travel time to an abortion clinic rose by almost eight hours.</p>
 
 
 
@@ -522,8 +1076,8 @@
 
 
 
-<p data-paragraph="main">That topline number conceals an enormous amount of fluctuation between states. In all states that saw declines in their abortion numbers — which include the 15 states in which abortion was banned or severely limited over the summer — the number of abortions fell by about 22,000.<a data-footnote-id="4" href="https://fivethirtyeight.com/wp-json/wp/v2/espn_verticals/398#fn-4" data-footnote-content="&lt;p&gt;&lt;p&gt;This figure is based off #WeCount’s rounded estimates of the total number of abortions in each state and Washington, D.C. #WeCount provided monthly numbers of abortions provided by clinicians nationwide from April to August 2022. They received data from 100 percent of abortion providers in 29 states. In states where data from clinics was incomplete, the researchers used the data from available clinics and imputed the missing number of abortions each month from missing clinics by using estimates from several information sources, including state-level Guttmacher Institute data in 2020, state health departments, news articles, contacts known to missing clinics and knowledge of abortion volume by state. Self-managed abortions done without clinical support were not included.&lt;/p&gt;
-&lt;/p&gt;"><sup>4</sup></a> Some of those women appear to have traveled out of state, because in other states, the number of abortions rose by an aggregate of about 12,000. </p>
+<p data-paragraph="main">That topline number conceals an enormous amount of fluctuation between states. In all states that saw declines in their abortion numbers — which include the 15 states in which abortion was banned or severely limited over the summer — the number of abortions fell by about 22,000.<a data-footnote-id="8" href="https://fivethirtyeight.com/wp-json/wp/v2/espn_verticals/398#fn-8" data-footnote-content="&lt;p&gt;&lt;p&gt;This figure is based off #WeCount’s rounded estimates of the total number of abortions in each state and Washington, D.C. #WeCount provided monthly numbers of abortions provided by clinicians nationwide from April to August 2022. They received data from 100 percent of abortion providers in 29 states. In states where data from clinics was incomplete, the researchers used the data from available clinics and imputed the missing number of abortions each month from missing clinics by using estimates from several information sources, including state-level Guttmacher Institute data in 2020, state health departments, news articles, contacts known to missing clinics and knowledge of abortion volume by state. Self-managed abortions done without clinical support were not included.&lt;/p&gt;
+&lt;/p&gt;"><sup>8</sup></a> Some of those women appear to have traveled out of state, because in other states, the number of abortions rose by an aggregate of about 12,000. </p>
 
 
 
@@ -535,13 +1089,13 @@
 
 
 
-<p data-paragraph="main">The Supreme Court’s decision, though, turned entire regions of the country into abortion deserts. By the end of August, 11 states had banned abortion completely and four more had restricted it early in the first trimester.<a data-footnote-id="5" href="https://fivethirtyeight.com/wp-json/wp/v2/espn_verticals/398#fn-5" data-footnote-content="&lt;p&gt;&lt;p&gt;Abortion was banned in Alabama, Arkansas, Kentucky, Louisiana, Mississippi, Missouri, Oklahoma, South Dakota and Texas for all or most of July and August. Nineteenth-century bans on abortion were still on the books in Arizona and Wisconsin when Roe was overturned, and there were disputes in both states about whether the laws were still valid, but most or all abortion providers in both states stopped services during July and August because of the legal uncertainty. Abortion was banned until about six weeks of pregnancy in Georgia, Ohio, South Carolina and Tennessee for all or most of July and August.&lt;/p&gt;
-&lt;/p&gt;"><sup>5</sup></a> <a href="https://www.guttmacher.org/2022/10/100-days-post-roe-least-66-clinics-across-15-us-states-have-stopped-offering-abortion-care" target="_blank" rel="noopener">According to the Guttmacher Institute</a>, at least 66 clinics closed between the Dobbs decision and the end of October. </p>
+<p data-paragraph="main">The Supreme Court’s decision, though, turned entire regions of the country into abortion deserts. By the end of August, 11 states had banned abortion completely and four more had restricted it early in the first trimester.<a data-footnote-id="9" href="https://fivethirtyeight.com/wp-json/wp/v2/espn_verticals/398#fn-9" data-footnote-content="&lt;p&gt;&lt;p&gt;Abortion was banned in Alabama, Arkansas, Kentucky, Louisiana, Mississippi, Missouri, Oklahoma, South Dakota and Texas for all or most of July and August. Nineteenth-century bans on abortion were still on the books in Arizona and Wisconsin when Roe was overturned, and there were disputes in both states about whether the laws were still valid, but most or all abortion providers in both states stopped services during July and August because of the legal uncertainty. Abortion was banned until about six weeks of pregnancy in Georgia, Ohio, South Carolina and Tennessee for all or most of July and August.&lt;/p&gt;
+&lt;/p&gt;"><sup>9</sup></a> <a href="https://www.guttmacher.org/2022/10/100-days-post-roe-least-66-clinics-across-15-us-states-have-stopped-offering-abortion-care" target="_blank" rel="noopener">According to the Guttmacher Institute</a>, at least 66 clinics closed between the Dobbs decision and the end of October. </p>
 
 
 
-<figure><img loading="lazy" width="1422" height="948" src="https://fivethirtyeight.com/wp-content/uploads/2022/10/AP22182763845076-711.jpg" alt="The waiting room of the Women's Health Center of West Virginia" data-src="https://fivethirtyeight.com/wp-content/uploads/2022/10/AP22182763845076-711.jpg" data-srcset="https://fivethirtyeight.com/wp-content/uploads/2022/10/AP22182763845076-711.jpg?w=712 1x, https://fivethirtyeight.com/wp-content/uploads/2022/10/AP22182763845076-711.jpg?w=1424 2x"><figcaption>In September, West Virginia banned abortion, and waiting rooms like this one sat empty. Even before the ban, West Virginia’s lone abortion clinic was performing fewer abortions since the overturning of Roe v. Wade, in part because the state briefly banned abortion in July, as well. <p>Leah Willingham / AP Photo</p></figcaption></figure><p data-paragraph="main">The #WeCount data suggests that thousands of Americans traveled long distances to obtain abortions in July and August. In just those 15 states where abortion was either banned or became illegal after six weeks in the wake of Dobbs, there was a reduction of approximately 21,000 abortions relative to April and May. In some states with total bans, like Alabama and Mississippi, the number of abortions fell to zero in July; in others, the numbers were drastically reduced but clinics were able to serve reduced numbers of patients due to court orders or slightly less stringent restrictions. Clustered together across the South and Upper Midwest, these states formed blocs where obtaining an abortion required leaving the region, rather than crossing a single border.<a data-footnote-id="6" href="https://fivethirtyeight.com/wp-json/wp/v2/espn_verticals/398#fn-6" data-footnote-content='&lt;p&gt;&lt;p&gt;The monthly change in abortion numbers is being measured relative to April because there is no national data tracking abortions by month for previous years. Broadly, annual data tracked by the Guttmacher Institute has shown that &lt;a href="https://www.pewresearch.org/fact-tank/2022/06/24/what-the-data-says-about-abortion-in-the-u-s-2/" target="_blank" rel="noopener"&gt;the annual number of abortions has been on the rise&lt;/a&gt; since 2017, after falling for more than two decades. Guttmacher’s most recent figures, from 2020, &lt;a href="https://www.guttmacher.org/article/2022/06/long-term-decline-us-abortions-reverses-showing-rising-need-abortion-supreme-court" target="_blank" rel="noopener"&gt;counted 930,160 abortions&lt;/a&gt;, or a monthly average of 77,513. In contrast, #WeCount estimated a monthly total of about 85,000 abortions in April 2022 and 79,600 abortions in August. But the researchers were confident this still represented a real loss of access, both because past trends predict that the number of abortions would have grown between 2020 and 2022; and because the sample set #WeCount uses is different than Guttmacher’s, including, for example, telehealth providers that are not captured in previous Guttmacher data.&lt;/p&gt;
-&lt;/p&gt;'><sup>6</sup></a> </p>
+<figure><img loading="lazy" width="1422" height="948" src="https://fivethirtyeight.com/wp-content/uploads/2022/10/AP22182763845076-711.jpg" alt="The waiting room of the Women's Health Center of West Virginia" data-src="https://fivethirtyeight.com/wp-content/uploads/2022/10/AP22182763845076-711.jpg" data-srcset="https://fivethirtyeight.com/wp-content/uploads/2022/10/AP22182763845076-711.jpg?w=712 1x, https://fivethirtyeight.com/wp-content/uploads/2022/10/AP22182763845076-711.jpg?w=1424 2x"><figcaption>In September, West Virginia banned abortion, and waiting rooms like this one sat empty. Even before the ban, West Virginia’s lone abortion clinic was performing fewer abortions since the overturning of Roe v. Wade, in part because the state briefly banned abortion in July, as well. <p>Leah Willingham / AP Photo</p></figcaption></figure><p data-paragraph="main">The #WeCount data suggests that thousands of Americans traveled long distances to obtain abortions in July and August. In just those 15 states where abortion was either banned or became illegal after six weeks in the wake of Dobbs, there was a reduction of approximately 21,000 abortions relative to April and May. In some states with total bans, like Alabama and Mississippi, the number of abortions fell to zero in July; in others, the numbers were drastically reduced but clinics were able to serve reduced numbers of patients due to court orders or slightly less stringent restrictions. Clustered together across the South and Upper Midwest, these states formed blocs where obtaining an abortion required leaving the region, rather than crossing a single border.<a data-footnote-id="10" href="https://fivethirtyeight.com/wp-json/wp/v2/espn_verticals/398#fn-10" data-footnote-content='&lt;p&gt;&lt;p&gt;The monthly change in abortion numbers is being measured relative to April because there is no national data tracking abortions by month for previous years. Broadly, annual data tracked by the Guttmacher Institute has shown that &lt;a href="https://www.pewresearch.org/fact-tank/2022/06/24/what-the-data-says-about-abortion-in-the-u-s-2/" target="_blank" rel="noopener"&gt;the annual number of abortions has been on the rise&lt;/a&gt; since 2017, after falling for more than two decades. Guttmacher’s most recent figures, from 2020, &lt;a href="https://www.guttmacher.org/article/2022/06/long-term-decline-us-abortions-reverses-showing-rising-need-abortion-supreme-court" target="_blank" rel="noopener"&gt;counted 930,160 abortions&lt;/a&gt;, or a monthly average of 77,513. In contrast, #WeCount estimated a monthly total of about 85,000 abortions in April 2022 and 79,600 abortions in August. But the researchers were confident this still represented a real loss of access, both because past trends predict that the number of abortions would have grown between 2020 and 2022; and because the sample set #WeCount uses is different than Guttmacher’s, including, for example, telehealth providers that are not captured in previous Guttmacher data.&lt;/p&gt;
+&lt;/p&gt;'><sup>10</sup></a> </p>
 
 
 <p>Watch: https://abcnews.go.com/fivethirtyeight/video/voters-decide-future-abortion-rights-michigan-fivethirtyeight-92494272</p>
@@ -551,8 +1105,8 @@
 
 
 
-<figure><img loading="lazy" width="1422" height="3552" src="https://fivethirtyeight.com/wp-content/uploads/2022/10/koerth.atd_.ABORTION-EXCLUSIVE.1030.long-scroll-FINAL-1.png" alt="" data-src="https://fivethirtyeight.com/wp-content/uploads/2022/10/koerth.atd_.ABORTION-EXCLUSIVE.1030.long-scroll-FINAL-1.png" data-srcset="https://fivethirtyeight.com/wp-content/uploads/2022/10/koerth.atd_.ABORTION-EXCLUSIVE.1030.long-scroll-FINAL-1.png?w=712 1x, https://fivethirtyeight.com/wp-content/uploads/2022/10/koerth.atd_.ABORTION-EXCLUSIVE.1030.long-scroll-FINAL-1.png?w=1424 2x"></figure><figure><img loading="lazy" width="670" height="3670" src="https://fivethirtyeight.com/wp-content/uploads/2022/10/koerth.atd_.ABORTION-EXCLUSIVE.1030.long-scroll-mob-USE-1.png" alt="" data-src="https://fivethirtyeight.com/wp-content/uploads/2022/10/koerth.atd_.ABORTION-EXCLUSIVE.1030.long-scroll-mob-USE-1.png" data-srcset="https://fivethirtyeight.com/wp-content/uploads/2022/10/koerth.atd_.ABORTION-EXCLUSIVE.1030.long-scroll-mob-USE-1.png?w=670 1x, https://fivethirtyeight.com/wp-content/uploads/2022/10/koerth.atd_.ABORTION-EXCLUSIVE.1030.long-scroll-mob-USE-1.png?w=1340 2x"></figure><p data-paragraph="main">This kind of pattern has drastically increased wait times nationwide, especially in states — like Kansas — that have picked up the spillover from neighboring states that banned abortion. Caitlin Myers, an economics professor at Middlebury College who studies abortion, has <a href="https://fivethirtyeight.com/features/it-can-already-take-weeks-to-get-an-abortion/" target="_blank" rel="noopener">since March</a> been monitoring wait times at clinics in states where abortion remained legal. She found that by early August, only two of Kansas’s five abortion clinics were scheduling appointments, and the first available times were eight and 13 weekdays away.<a data-footnote-id="7" href="https://fivethirtyeight.com/wp-json/wp/v2/espn_verticals/398#fn-7" data-footnote-content="&lt;p&gt;&lt;p&gt;Since March, Myers and a team of student researchers have been calling every abortion clinic in Myers’s database of abortion providers who advertise their services publicly. In their calls, the researchers pose as pregnant women, saying they’re about six weeks pregnant and want the nearest possible abortion appointment.&lt;/p&gt;
-&lt;/p&gt;"><sup>7</sup></a> That month, the median wait time in Colorado and New Mexico was over two weeks. Waits for appointments at abortion clinics in southern Illinois were also higher than they were earlier in the summer. In August, 74 percent of patients at Planned Parenthood’s clinic in Asheville, North Carolina, came from outside the state, and the average wait time for a medication abortion was three weeks, <a href="https://www.acluofnorthcarolina.org/sites/default/files/field_documents/ppsat_v._moore_20cvs500147_pls_memo_of_law_iso_mot._for_partial_preliminary_injunction.pdf" target="_blank" rel="noopener">according to a recent legal filing</a>. </p>
+<figure><img loading="lazy" width="1422" height="3552" src="https://fivethirtyeight.com/wp-content/uploads/2022/10/koerth.atd_.ABORTION-EXCLUSIVE.1030.long-scroll-FINAL-1.png" alt="" data-src="https://fivethirtyeight.com/wp-content/uploads/2022/10/koerth.atd_.ABORTION-EXCLUSIVE.1030.long-scroll-FINAL-1.png" data-srcset="https://fivethirtyeight.com/wp-content/uploads/2022/10/koerth.atd_.ABORTION-EXCLUSIVE.1030.long-scroll-FINAL-1.png?w=712 1x, https://fivethirtyeight.com/wp-content/uploads/2022/10/koerth.atd_.ABORTION-EXCLUSIVE.1030.long-scroll-FINAL-1.png?w=1424 2x"></figure><figure><img loading="lazy" width="670" height="3670" src="https://fivethirtyeight.com/wp-content/uploads/2022/10/koerth.atd_.ABORTION-EXCLUSIVE.1030.long-scroll-mob-USE-1.png" alt="" data-src="https://fivethirtyeight.com/wp-content/uploads/2022/10/koerth.atd_.ABORTION-EXCLUSIVE.1030.long-scroll-mob-USE-1.png" data-srcset="https://fivethirtyeight.com/wp-content/uploads/2022/10/koerth.atd_.ABORTION-EXCLUSIVE.1030.long-scroll-mob-USE-1.png?w=670 1x, https://fivethirtyeight.com/wp-content/uploads/2022/10/koerth.atd_.ABORTION-EXCLUSIVE.1030.long-scroll-mob-USE-1.png?w=1340 2x"></figure><p data-paragraph="main">This kind of pattern has drastically increased wait times nationwide, especially in states — like Kansas — that have picked up the spillover from neighboring states that banned abortion. Caitlin Myers, an economics professor at Middlebury College who studies abortion, has <a href="https://fivethirtyeight.com/features/it-can-already-take-weeks-to-get-an-abortion/" target="_blank" rel="noopener">since March</a> been monitoring wait times at clinics in states where abortion remained legal. She found that by early August, only two of Kansas’s five abortion clinics were scheduling appointments, and the first available times were eight and 13 weekdays away.<a data-footnote-id="11" href="https://fivethirtyeight.com/wp-json/wp/v2/espn_verticals/398#fn-11" data-footnote-content="&lt;p&gt;&lt;p&gt;Since March, Myers and a team of student researchers have been calling every abortion clinic in Myers’s database of abortion providers who advertise their services publicly. In their calls, the researchers pose as pregnant women, saying they’re about six weeks pregnant and want the nearest possible abortion appointment.&lt;/p&gt;
+&lt;/p&gt;"><sup>11</sup></a> That month, the median wait time in Colorado and New Mexico was over two weeks. Waits for appointments at abortion clinics in southern Illinois were also higher than they were earlier in the summer. In August, 74 percent of patients at Planned Parenthood’s clinic in Asheville, North Carolina, came from outside the state, and the average wait time for a medication abortion was three weeks, <a href="https://www.acluofnorthcarolina.org/sites/default/files/field_documents/ppsat_v._moore_20cvs500147_pls_memo_of_law_iso_mot._for_partial_preliminary_injunction.pdf" target="_blank" rel="noopener">according to a recent legal filing</a>. </p>
 
 
 
@@ -649,8 +1203,8 @@
 
 
 
-<p data-paragraph="main">In the House, meanwhile, Republicans have an <a href="https://projects.fivethirtyeight.com/2022-election-forecast/house/" target="_blank" rel="noopener">81 percent chance of taking over the chamber</a>, putting Democrats in a tough — although hardly impossible — position. (<a href="http://twodimes.net/poker/?g=h&amp;b=&amp;d=&amp;h=Ac+Ad%0D%0A5c+5d" target="_blank" rel="noopener">In poker terms</a>, it’s as though they have pocket 5’s against pocket aces.) Unlike in the Senate, Democrats will have to do more than just win the majority of toss-up races to control the House. In fact, there are now 219 seats that our model rates as lean Republican, likely Republican or solid Republican, one more than the 218 needed for a majority. So even if Democrats won <em>all</em> the toss-ups, it wouldn’t quite be enough.<a data-footnote-id="8" href="https://fivethirtyeight.com/wp-json/wp/v2/espn_verticals/398#fn-8" data-footnote-content="&lt;p&gt;&lt;p&gt;Although, in practice, in an election where things are going well enough for Democrats to win all the toss-ups, they’d probably pick up their fair share of lean Republican seats too.&lt;/p&gt;
-&lt;/p&gt;"><sup>8</sup></a> To keep the House, Democrats will need for our model to be systematically underestimating them.</p>
+<p data-paragraph="main">In the House, meanwhile, Republicans have an <a href="https://projects.fivethirtyeight.com/2022-election-forecast/house/" target="_blank" rel="noopener">81 percent chance of taking over the chamber</a>, putting Democrats in a tough — although hardly impossible — position. (<a href="http://twodimes.net/poker/?g=h&amp;b=&amp;d=&amp;h=Ac+Ad%0D%0A5c+5d" target="_blank" rel="noopener">In poker terms</a>, it’s as though they have pocket 5’s against pocket aces.) Unlike in the Senate, Democrats will have to do more than just win the majority of toss-up races to control the House. In fact, there are now 219 seats that our model rates as lean Republican, likely Republican or solid Republican, one more than the 218 needed for a majority. So even if Democrats won <em>all</em> the toss-ups, it wouldn’t quite be enough.<a data-footnote-id="12" href="https://fivethirtyeight.com/wp-json/wp/v2/espn_verticals/398#fn-12" data-footnote-content="&lt;p&gt;&lt;p&gt;Although, in practice, in an election where things are going well enough for Democrats to win all the toss-ups, they’d probably pick up their fair share of lean Republican seats too.&lt;/p&gt;
+&lt;/p&gt;"><sup>12</sup></a> To keep the House, Democrats will need for our model to be systematically underestimating them.</p>
 
 
 
@@ -739,8 +1293,8 @@
 
 
 
-<p data-paragraph="main">To some degree, this <a href="https://fivethirtyeight.com/features/why-fivethirtyeight-gave-trump-a-better-chance-than-almost-anyone-else/" target="_blank" rel="noopener">matches the pattern from previous years</a>, although not perfectly so.<a data-footnote-id="9" href="https://fivethirtyeight.com/wp-json/wp/v2/espn_verticals/398#fn-9" data-footnote-content="&lt;p&gt;&lt;p&gt;We aren’t expecting an especially large polling error in Wisconsin, for instance, where polls were poor in 2016 and 2020 — although the polls have Republican Ron Johnson ahead there anyway, so he doesn’t need a polling error to win.&lt;/p&gt;
-&lt;/p&gt;"><sup>9</sup></a> But one fairly good heuristic is simply that Republicans tend to outperform their polls in red states, while Democrats do so in blue states — see the map below for an example of this from 2016.</p>
+<p data-paragraph="main">To some degree, this <a href="https://fivethirtyeight.com/features/why-fivethirtyeight-gave-trump-a-better-chance-than-almost-anyone-else/" target="_blank" rel="noopener">matches the pattern from previous years</a>, although not perfectly so.<a data-footnote-id="13" href="https://fivethirtyeight.com/wp-json/wp/v2/espn_verticals/398#fn-13" data-footnote-content="&lt;p&gt;&lt;p&gt;We aren’t expecting an especially large polling error in Wisconsin, for instance, where polls were poor in 2016 and 2020 — although the polls have Republican Ron Johnson ahead there anyway, so he doesn’t need a polling error to win.&lt;/p&gt;
+&lt;/p&gt;"><sup>13</sup></a> But one fairly good heuristic is simply that Republicans tend to outperform their polls in red states, while Democrats do so in blue states — see the map below for an example of this from 2016.</p>
 
 
 
@@ -748,8 +1302,8 @@
 
 
 
-<ul><li>Our forecast makes additional adjustments to the polls beyond what is shown in our polling averages. In particular, this includes a likely voter adjustment and a timeline adjustment, both of which help Republicans at the margin. The likely voter adjustment helps Republicans because they tend to do better in polls of likely voters than registered ones.<a data-footnote-id="10" href="https://fivethirtyeight.com/wp-json/wp/v2/espn_verticals/398#fn-10" data-footnote-content="&lt;p&gt;&lt;p&gt;Although we’re at the point now where there are relatively few registered-voter polls of Senate races, so this doesn’t make much difference in most races.&lt;/p&gt;
-&lt;/p&gt;"><sup>10</sup></a> The timeline adjustment accounts for how the generic ballot has shifted since polls were conducted, and since it’s <a href="https://projects.fivethirtyeight.com/polls/generic-ballot/">shifted in a somewhat Republican direction recently</a>, that tends to help the GOP too.</li><li>In some states — Rust Belt swing states such as Pennsylvania, Ohio, Wisconsin, and redder ones like Iowa and Missouri — the “fundamentals” our model considers are more favorable for Republicans than the polls. The most important of these is simply <a href="https://fivethirtyeight.com/features/how-red-or-blue-is-your-state-your-congressional-district/">overall state partisanship</a>. Republicans have done fairly well in these states in recent years, so you might expect them to do well again in what is likely to be a fairly good year nationally for the party.</li><li>In addition, the model considers macro-level fundamentals, such as the poor historic performance of the president’s party at the midterms, and <a href="https://projects.fivethirtyeight.com/biden-approval-rating/">President Biden’s mediocre approval ratings</a>. So the model endorses the idea that Democrats <a href="https://www.nbcnews.com/politics/2022-election/democrats-agonize-2022-election-facing-political-gravity-final-stretch-rcna54148">have been coming back to gravity</a>. These factors zero out in the model by Election Day, though, so they don’t have too much effect now given how close we are to the election.</li><li>Finally, the <a href="https://www.cookpolitical.com/ratings/senate-race-ratings">expert ratings</a> that the Deluxe model uses are more bullish for Republicans in several key Senate races than polls and other objective indicators.</li></ul><p data-paragraph="main">While none of this is good news for Democrats, it should guard against one potential misinterpretation of our forecast. You might be tempted to take the FiveThirtyEight Deluxe forecast, and then mentally shade it further to Republicans because you worry that the polls could underestimate Republicans again. Heck, <a href="https://fivethirtyeight.com/features/5-reasons-for-democrats-to-still-be-concerned-about-the-midterms/" target="_blank" rel="noopener">I’ve even been tempted to do this myself</a>. But the Deluxe forecast <em>already assumes</em> that Republicans will do better than what current polls show, by around 2 percentage points in the average Congressional race. You may be double-counting, in other words, if you take the Deluxe forecast and then assume additional polling bias on top of it. Some of it is already baked into the model.</p>
+<ul><li>Our forecast makes additional adjustments to the polls beyond what is shown in our polling averages. In particular, this includes a likely voter adjustment and a timeline adjustment, both of which help Republicans at the margin. The likely voter adjustment helps Republicans because they tend to do better in polls of likely voters than registered ones.<a data-footnote-id="14" href="https://fivethirtyeight.com/wp-json/wp/v2/espn_verticals/398#fn-14" data-footnote-content="&lt;p&gt;&lt;p&gt;Although we’re at the point now where there are relatively few registered-voter polls of Senate races, so this doesn’t make much difference in most races.&lt;/p&gt;
+&lt;/p&gt;"><sup>14</sup></a> The timeline adjustment accounts for how the generic ballot has shifted since polls were conducted, and since it’s <a href="https://projects.fivethirtyeight.com/polls/generic-ballot/">shifted in a somewhat Republican direction recently</a>, that tends to help the GOP too.</li><li>In some states — Rust Belt swing states such as Pennsylvania, Ohio, Wisconsin, and redder ones like Iowa and Missouri — the “fundamentals” our model considers are more favorable for Republicans than the polls. The most important of these is simply <a href="https://fivethirtyeight.com/features/how-red-or-blue-is-your-state-your-congressional-district/">overall state partisanship</a>. Republicans have done fairly well in these states in recent years, so you might expect them to do well again in what is likely to be a fairly good year nationally for the party.</li><li>In addition, the model considers macro-level fundamentals, such as the poor historic performance of the president’s party at the midterms, and <a href="https://projects.fivethirtyeight.com/biden-approval-rating/">President Biden’s mediocre approval ratings</a>. So the model endorses the idea that Democrats <a href="https://www.nbcnews.com/politics/2022-election/democrats-agonize-2022-election-facing-political-gravity-final-stretch-rcna54148">have been coming back to gravity</a>. These factors zero out in the model by Election Day, though, so they don’t have too much effect now given how close we are to the election.</li><li>Finally, the <a href="https://www.cookpolitical.com/ratings/senate-race-ratings">expert ratings</a> that the Deluxe model uses are more bullish for Republicans in several key Senate races than polls and other objective indicators.</li></ul><p data-paragraph="main">While none of this is good news for Democrats, it should guard against one potential misinterpretation of our forecast. You might be tempted to take the FiveThirtyEight Deluxe forecast, and then mentally shade it further to Republicans because you worry that the polls could underestimate Republicans again. Heck, <a href="https://fivethirtyeight.com/features/5-reasons-for-democrats-to-still-be-concerned-about-the-midterms/" target="_blank" rel="noopener">I’ve even been tempted to do this myself</a>. But the Deluxe forecast <em>already assumes</em> that Republicans will do better than what current polls show, by around 2 percentage points in the average Congressional race. You may be double-counting, in other words, if you take the Deluxe forecast and then assume additional polling bias on top of it. Some of it is already baked into the model.</p>
 
 
 <p>Watch: https://abcnews.go.com/fivethirtyeight/video/fivethirtyeight-midterm-model-weeks-left-92348137</p>]]></description>
@@ -855,8 +1409,8 @@
 
 
 
-<figure><img loading="lazy" width="1150" height="920" src="https://fivethirtyeight.com/wp-content/uploads/2022/10/biden-approval-rating-2-2.png" alt="" data-src="https://fivethirtyeight.com/wp-content/uploads/2022/10/biden-approval-rating-2-2.png" data-srcset="https://fivethirtyeight.com/wp-content/uploads/2022/10/biden-approval-rating-2-2.png?w=712 1x, https://fivethirtyeight.com/wp-content/uploads/2022/10/biden-approval-rating-2-2.png?w=1424 2x"></figure><p data-paragraph="main">According to FiveThirtyEight’s <a href="https://projects.fivethirtyeight.com/biden-approval-rating/" target="_blank" rel="noopener">presidential approval tracker</a>,<a data-footnote-id="11" href="https://fivethirtyeight.com/wp-json/wp/v2/espn_verticals/398#fn-11" data-footnote-content="&lt;p&gt;&lt;p&gt;As of Thursday at 5 p.m. Eastern.&lt;/p&gt;
-&lt;/p&gt;"><sup>11</sup></a> 42.3 percent of Americans approve of the job Biden is doing as president, while 53.0 percent disapprove (a net approval rating of -10.7 points). At this time last week, 42.0 percent approved and 53.4 percent disapproved (a net approval rating of -11.4 points). One month ago, Biden had an approval rating of 42.3 percent and a disapproval rating of 53.3 percent, for a net approval rating of -11.0 points.</p>
+<figure><img loading="lazy" width="1150" height="920" src="https://fivethirtyeight.com/wp-content/uploads/2022/10/biden-approval-rating-2-2.png" alt="" data-src="https://fivethirtyeight.com/wp-content/uploads/2022/10/biden-approval-rating-2-2.png" data-srcset="https://fivethirtyeight.com/wp-content/uploads/2022/10/biden-approval-rating-2-2.png?w=712 1x, https://fivethirtyeight.com/wp-content/uploads/2022/10/biden-approval-rating-2-2.png?w=1424 2x"></figure><p data-paragraph="main">According to FiveThirtyEight’s <a href="https://projects.fivethirtyeight.com/biden-approval-rating/" target="_blank" rel="noopener">presidential approval tracker</a>,<a data-footnote-id="15" href="https://fivethirtyeight.com/wp-json/wp/v2/espn_verticals/398#fn-15" data-footnote-content="&lt;p&gt;&lt;p&gt;As of Thursday at 5 p.m. Eastern.&lt;/p&gt;
+&lt;/p&gt;"><sup>15</sup></a> 42.3 percent of Americans approve of the job Biden is doing as president, while 53.0 percent disapprove (a net approval rating of -10.7 points). At this time last week, 42.0 percent approved and 53.4 percent disapproved (a net approval rating of -11.4 points). One month ago, Biden had an approval rating of 42.3 percent and a disapproval rating of 53.3 percent, for a net approval rating of -11.0 points.</p>
 
 
 
@@ -864,8 +1418,8 @@
 
 
 
-<figure><img loading="lazy" width="1150" height="920" src="https://fivethirtyeight.com/wp-content/uploads/2022/10/generic-ballot-2-2.png" alt="" data-src="https://fivethirtyeight.com/wp-content/uploads/2022/10/generic-ballot-2-2.png" data-srcset="https://fivethirtyeight.com/wp-content/uploads/2022/10/generic-ballot-2-2.png?w=712 1x, https://fivethirtyeight.com/wp-content/uploads/2022/10/generic-ballot-2-2.png?w=1424 2x"></figure><p data-paragraph="main">In our average of polls of the <a href="https://projects.fivethirtyeight.com/congress-generic-ballot-polls/" target="_blank" rel="noopener">generic congressional ballot,</a><a data-footnote-id="12" href="https://fivethirtyeight.com/wp-json/wp/v2/espn_verticals/398#fn-12" data-footnote-content="&lt;p&gt;&lt;p&gt;As of Thursday at 5 p.m. Eastern.&lt;/p&gt;
-&lt;/p&gt;"><sup>12</sup></a> Republicans currently lead Democrats by 0.6 points (45.6 percent to 45.0 percent). A week ago, Republicans led by 0.1 point (45.0 percent to 44.9 percent). At this time last month, voters preferred Democrats by 1.4 points (45.0 percent to 43.5 percent).</p>
+<figure><img loading="lazy" width="1150" height="920" src="https://fivethirtyeight.com/wp-content/uploads/2022/10/generic-ballot-2-2.png" alt="" data-src="https://fivethirtyeight.com/wp-content/uploads/2022/10/generic-ballot-2-2.png" data-srcset="https://fivethirtyeight.com/wp-content/uploads/2022/10/generic-ballot-2-2.png?w=712 1x, https://fivethirtyeight.com/wp-content/uploads/2022/10/generic-ballot-2-2.png?w=1424 2x"></figure><p data-paragraph="main">In our average of polls of the <a href="https://projects.fivethirtyeight.com/congress-generic-ballot-polls/" target="_blank" rel="noopener">generic congressional ballot,</a><a data-footnote-id="16" href="https://fivethirtyeight.com/wp-json/wp/v2/espn_verticals/398#fn-16" data-footnote-content="&lt;p&gt;&lt;p&gt;As of Thursday at 5 p.m. Eastern.&lt;/p&gt;
+&lt;/p&gt;"><sup>16</sup></a> Republicans currently lead Democrats by 0.6 points (45.6 percent to 45.0 percent). A week ago, Republicans led by 0.1 point (45.0 percent to 44.9 percent). At this time last month, voters preferred Democrats by 1.4 points (45.0 percent to 43.5 percent).</p>
 
 
 <p>Watch: https://abcnews.go.com/fivethirtyeight/video/arizonas-abortion-laws-back-1800s-fivethirtyeight-92215336</p>]]></description>
@@ -1005,14 +1559,14 @@
 
 
 
-<p data-paragraph="main">In each of <a href="https://fivethirtyeight.com/tag/american-issues/" target="_blank" rel="noopener">our surveys this year</a>, “inflation or increasing costs” has ranked as the most important concern for the country, and it was no different this time around, as 65 percent of Americans selected that issue.<a data-footnote-id="13" href="https://fivethirtyeight.com/wp-json/wp/v2/espn_verticals/398#fn-13" data-footnote-content="&lt;p&gt;&lt;p&gt;Conducted Oct. 13-23, 2022, among 1,540 respondents. As was the case in the previous waves of our survey, we asked respondents about the most important issues in three different ways: an open-ended question where they could write what issue or issues were most important to them, and then two multiple-choice questions where respondents could choose up to three issues from a list of 20, including “other” or “none of these,” that they were either personally worried about or that they thought were most important to the country. The sample is weighted to match the general population. This poll’s margin of error is +/- 3.1 percentage points.&lt;/p&gt;
-&lt;/p&gt;"><sup>13</sup></a> This marked a new high in any of our six waves of issue polling, an indication that concerns about inflation have risen ahead of the election — a potentially beneficial political development for Republicans, who as the out-party can capitalize on the public’s economic concerns. Rounding out the top three issues were “political extremism or polarization” (32 percent) and “crime or gun violence” (28 percent). Meanwhile, “immigration” and “climate change” ranked fourth and fifth at 21 percent and 16 percent.</p>
+<p data-paragraph="main">In each of <a href="https://fivethirtyeight.com/tag/american-issues/" target="_blank" rel="noopener">our surveys this year</a>, “inflation or increasing costs” has ranked as the most important concern for the country, and it was no different this time around, as 65 percent of Americans selected that issue.<a data-footnote-id="17" href="https://fivethirtyeight.com/wp-json/wp/v2/espn_verticals/398#fn-17" data-footnote-content="&lt;p&gt;&lt;p&gt;Conducted Oct. 13-23, 2022, among 1,540 respondents. As was the case in the previous waves of our survey, we asked respondents about the most important issues in three different ways: an open-ended question where they could write what issue or issues were most important to them, and then two multiple-choice questions where respondents could choose up to three issues from a list of 20, including “other” or “none of these,” that they were either personally worried about or that they thought were most important to the country. The sample is weighted to match the general population. This poll’s margin of error is +/- 3.1 percentage points.&lt;/p&gt;
+&lt;/p&gt;"><sup>17</sup></a> This marked a new high in any of our six waves of issue polling, an indication that concerns about inflation have risen ahead of the election — a potentially beneficial political development for Republicans, who as the out-party can capitalize on the public’s economic concerns. Rounding out the top three issues were “political extremism or polarization” (32 percent) and “crime or gun violence” (28 percent). Meanwhile, “immigration” and “climate change” ranked fourth and fifth at 21 percent and 16 percent.</p>
 
 
 
-<figure><img loading="lazy" width="1422" height="2046" src="https://fivethirtyeight.com/wp-content/uploads/2022/10/skelley-fuong.IPSOS-PRE-ELECTION.1026-final.png" alt="A stream chart showing the share of Americans who said each issue was among the most important facing the county in six waves of a FiveThirtyEight/Ipsos survey, April to October 2022. The issues are: inflation, crime and gun violence, political extremism, climate change, immigration, government budget/debt, abortion, economic inequality, foreign conflict or terrorism, healthcare, election security, drug addiction, education, taxes, unemployment and natural disasters." data-src="https://fivethirtyeight.com/wp-content/uploads/2022/10/skelley-fuong.IPSOS-PRE-ELECTION.1026-final.png" data-srcset="https://fivethirtyeight.com/wp-content/uploads/2022/10/skelley-fuong.IPSOS-PRE-ELECTION.1026-final.png?w=712 1x, https://fivethirtyeight.com/wp-content/uploads/2022/10/skelley-fuong.IPSOS-PRE-ELECTION.1026-final.png?w=1424 2x"></figure><figure><img loading="lazy" width="670" height="1406" src="https://fivethirtyeight.com/wp-content/uploads/2022/10/skelley-fuong.IPSOS-PRE-ELECTION.1026-mob-use.png" alt="A stream chart showing the share of Americans who said each issue was among the most important facing the county in six waves of a FiveThirtyEight/Ipsos survey, April to October 2022. The issues are: inflation, crime and gun violence, political extremism, climate change, immigration, government budget/debt, abortion, economic inequality, foreign conflict or terrorism, healthcare, election security, drug addiction, education, taxes, unemployment and natural disasters." data-src="https://fivethirtyeight.com/wp-content/uploads/2022/10/skelley-fuong.IPSOS-PRE-ELECTION.1026-mob-use.png" data-srcset="https://fivethirtyeight.com/wp-content/uploads/2022/10/skelley-fuong.IPSOS-PRE-ELECTION.1026-mob-use.png?w=670 1x, https://fivethirtyeight.com/wp-content/uploads/2022/10/skelley-fuong.IPSOS-PRE-ELECTION.1026-mob-use.png?w=1340 2x"></figure><p data-paragraph="main">But with the election right around the corner, we wanted to take a closer look at the views of likely voters.<a data-footnote-id="14" href="https://fivethirtyeight.com/wp-json/wp/v2/espn_verticals/398#fn-14" data-footnote-content="&lt;p&gt;&lt;p&gt;Defined as respondents who were “certain or almost certain” to vote in the 2022 midterm elections.&lt;/p&gt;
-&lt;/p&gt;"><sup>14</sup></a> Overall, our poll found likely voters split evenly at 41 percent over whether they planned to vote for a Democrat or a Republican in the upcoming congressional election, about the same as in <a href="https://fivethirtyeight.com/features/democrats-republicans-climate-change-immigration-ipsos-poll/" target="_blank" rel="noopener">our September wave</a>. But because most likely voters will vote Democratic or Republican, we asked the other respondents — those who were undecided, planned to vote for an independent or third-party candidate, would not vote or skipped the question — which major party they would support if they <em>had</em> to choose, as voters who lean toward one party <a href="https://agadjanianpolitics.wordpress.com/2017/01/02/charting-the-behavior-of-leaners-vs-partisans-from-self-described-partisanship/" target="_blank" rel="noopener">tend to vote for that party</a>. Even with those responses incorporated, however, likely voters remained almost evenly divided: Forty-nine percent said they would back a Democratic candidate, and 48 percent a Republican one. Nearly all self-identified Democrats and Republicans planned to vote for their respective parties, while independents preferred Democrats over Republicans, 49 percent to 42 percent.<a data-footnote-id="15" href="https://fivethirtyeight.com/wp-json/wp/v2/espn_verticals/398#fn-15" data-footnote-content="&lt;p&gt;&lt;p&gt;When asked to choose between the major parties.&lt;/p&gt;
-&lt;/p&gt;"><sup>15</sup></a></p>
+<figure><img loading="lazy" width="1422" height="2046" src="https://fivethirtyeight.com/wp-content/uploads/2022/10/skelley-fuong.IPSOS-PRE-ELECTION.1026-final.png" alt="A stream chart showing the share of Americans who said each issue was among the most important facing the county in six waves of a FiveThirtyEight/Ipsos survey, April to October 2022. The issues are: inflation, crime and gun violence, political extremism, climate change, immigration, government budget/debt, abortion, economic inequality, foreign conflict or terrorism, healthcare, election security, drug addiction, education, taxes, unemployment and natural disasters." data-src="https://fivethirtyeight.com/wp-content/uploads/2022/10/skelley-fuong.IPSOS-PRE-ELECTION.1026-final.png" data-srcset="https://fivethirtyeight.com/wp-content/uploads/2022/10/skelley-fuong.IPSOS-PRE-ELECTION.1026-final.png?w=712 1x, https://fivethirtyeight.com/wp-content/uploads/2022/10/skelley-fuong.IPSOS-PRE-ELECTION.1026-final.png?w=1424 2x"></figure><figure><img loading="lazy" width="670" height="1406" src="https://fivethirtyeight.com/wp-content/uploads/2022/10/skelley-fuong.IPSOS-PRE-ELECTION.1026-mob-use.png" alt="A stream chart showing the share of Americans who said each issue was among the most important facing the county in six waves of a FiveThirtyEight/Ipsos survey, April to October 2022. The issues are: inflation, crime and gun violence, political extremism, climate change, immigration, government budget/debt, abortion, economic inequality, foreign conflict or terrorism, healthcare, election security, drug addiction, education, taxes, unemployment and natural disasters." data-src="https://fivethirtyeight.com/wp-content/uploads/2022/10/skelley-fuong.IPSOS-PRE-ELECTION.1026-mob-use.png" data-srcset="https://fivethirtyeight.com/wp-content/uploads/2022/10/skelley-fuong.IPSOS-PRE-ELECTION.1026-mob-use.png?w=670 1x, https://fivethirtyeight.com/wp-content/uploads/2022/10/skelley-fuong.IPSOS-PRE-ELECTION.1026-mob-use.png?w=1340 2x"></figure><p data-paragraph="main">But with the election right around the corner, we wanted to take a closer look at the views of likely voters.<a data-footnote-id="18" href="https://fivethirtyeight.com/wp-json/wp/v2/espn_verticals/398#fn-18" data-footnote-content="&lt;p&gt;&lt;p&gt;Defined as respondents who were “certain or almost certain” to vote in the 2022 midterm elections.&lt;/p&gt;
+&lt;/p&gt;"><sup>18</sup></a> Overall, our poll found likely voters split evenly at 41 percent over whether they planned to vote for a Democrat or a Republican in the upcoming congressional election, about the same as in <a href="https://fivethirtyeight.com/features/democrats-republicans-climate-change-immigration-ipsos-poll/" target="_blank" rel="noopener">our September wave</a>. But because most likely voters will vote Democratic or Republican, we asked the other respondents — those who were undecided, planned to vote for an independent or third-party candidate, would not vote or skipped the question — which major party they would support if they <em>had</em> to choose, as voters who lean toward one party <a href="https://agadjanianpolitics.wordpress.com/2017/01/02/charting-the-behavior-of-leaners-vs-partisans-from-self-described-partisanship/" target="_blank" rel="noopener">tend to vote for that party</a>. Even with those responses incorporated, however, likely voters remained almost evenly divided: Forty-nine percent said they would back a Democratic candidate, and 48 percent a Republican one. Nearly all self-identified Democrats and Republicans planned to vote for their respective parties, while independents preferred Democrats over Republicans, 49 percent to 42 percent.<a data-footnote-id="19" href="https://fivethirtyeight.com/wp-json/wp/v2/espn_verticals/398#fn-19" data-footnote-content="&lt;p&gt;&lt;p&gt;When asked to choose between the major parties.&lt;/p&gt;
+&lt;/p&gt;"><sup>19</sup></a></p>
 
 
 
@@ -1020,8 +1574,8 @@
 
 
 
-<p data-paragraph="main">But while likely voters were split on which party they planned to vote for, they largely felt that neither party had earned the right to govern after November. Overall, 51 percent of likely voters said Democrats hadn’t earned another two years controlling the federal government, while 39 percent said they had.<a data-footnote-id="16" href="https://fivethirtyeight.com/wp-json/wp/v2/espn_verticals/398#fn-16" data-footnote-content="&lt;p&gt;&lt;p&gt;Likely voters could select “yes,” “no,” “don’t know” or skip the question.&lt;/p&gt;
-&lt;/p&gt;"><sup>16</sup></a> Among independents, 50 percent said Democrats didn’t deserve another two years and 34 percent said they did, while Democrats and Republicans mostly answered in accordance with their party. </p>
+<p data-paragraph="main">But while likely voters were split on which party they planned to vote for, they largely felt that neither party had earned the right to govern after November. Overall, 51 percent of likely voters said Democrats hadn’t earned another two years controlling the federal government, while 39 percent said they had.<a data-footnote-id="20" href="https://fivethirtyeight.com/wp-json/wp/v2/espn_verticals/398#fn-20" data-footnote-content="&lt;p&gt;&lt;p&gt;Likely voters could select “yes,” “no,” “don’t know” or skip the question.&lt;/p&gt;
+&lt;/p&gt;"><sup>20</sup></a> Among independents, 50 percent said Democrats didn’t deserve another two years and 34 percent said they did, while Democrats and Republicans mostly answered in accordance with their party. </p>
 
 
 
@@ -1045,8 +1599,8 @@
 
 
 
-<p data-paragraph="main">We also wanted to know what voters thought were the values and beliefs of the two major parties. Overall, almost 79 percent of likely voters said they understood the values and beliefs of each party “very” or “somewhat” well, but there were some notable, if unsurprising, differences.<a data-footnote-id="17" href="https://fivethirtyeight.com/wp-json/wp/v2/espn_verticals/398#fn-17" data-footnote-content="&lt;p&gt;&lt;p&gt;Other options included “not very well,” “not at all” or skipping the question.&lt;/p&gt;
-&lt;/p&gt;"><sup>17</sup></a> About 9 in 10 Democrats and Republicans said they knew their party, whereas around two-thirds said the same of the opposition. Meanwhile, about 80 percent of independents said they understood each party. </p>
+<p data-paragraph="main">We also wanted to know what voters thought were the values and beliefs of the two major parties. Overall, almost 79 percent of likely voters said they understood the values and beliefs of each party “very” or “somewhat” well, but there were some notable, if unsurprising, differences.<a data-footnote-id="21" href="https://fivethirtyeight.com/wp-json/wp/v2/espn_verticals/398#fn-21" data-footnote-content="&lt;p&gt;&lt;p&gt;Other options included “not very well,” “not at all” or skipping the question.&lt;/p&gt;
+&lt;/p&gt;"><sup>21</sup></a> About 9 in 10 Democrats and Republicans said they knew their party, whereas around two-thirds said the same of the opposition. Meanwhile, about 80 percent of independents said they understood each party. </p>
 
 
 
@@ -1145,13 +1699,13 @@
 
 
 
-<p data-paragraph="main">There’s a sense, in conversations with voters like Watson and Vasquez, that the country is in the midst of a reckoning over what it means to be Christian in America.<a data-footnote-id="18" href="https://fivethirtyeight.com/wp-json/wp/v2/espn_verticals/398#fn-18" data-footnote-content="&lt;p&gt;&lt;p&gt;Crystal Vasquez, Kathy Watson, Becky Carrizales and Scott Barum participated in FiveThirtyEight’s survey with PerryUndem and YouGov. Carolyn Novak participated in an online focus group conducted separately by FiveThirtyEight and PerryUndem.&lt;/p&gt;
-&lt;/p&gt;"><sup>18</sup></a> On one side, there are the people who see Christians <a href="https://www.theatlantic.com/politics/archive/2016/06/the-christians-who-believe-theyre-being-persecuted-in-america/488468/" target="_blank" rel="noopener">as the victims</a> of a successful campaign to infuse the country with secular values, forcing Christians — particularly conservative ones — to accept values they violently disagree with. But many Americans think Christians occupy a very different role. In their version of the country’s current drama, Christians are the villains, <a href="https://www.nytimes.com/2022/07/08/us/christian-nationalism-politicians.html" target="_blank" rel="noopener">ensconcing their own beliefs in law and politics</a> even as their numbers dwindle. There’s a thread of unease on both sides — as if the one thing everyone agrees on is that these two ways of thinking about Christianity in America simply can’t coexist.</p>
+<p data-paragraph="main">There’s a sense, in conversations with voters like Watson and Vasquez, that the country is in the midst of a reckoning over what it means to be Christian in America.<a data-footnote-id="22" href="https://fivethirtyeight.com/wp-json/wp/v2/espn_verticals/398#fn-22" data-footnote-content="&lt;p&gt;&lt;p&gt;Crystal Vasquez, Kathy Watson, Becky Carrizales and Scott Barum participated in FiveThirtyEight’s survey with PerryUndem and YouGov. Carolyn Novak participated in an online focus group conducted separately by FiveThirtyEight and PerryUndem.&lt;/p&gt;
+&lt;/p&gt;"><sup>22</sup></a> On one side, there are the people who see Christians <a href="https://www.theatlantic.com/politics/archive/2016/06/the-christians-who-believe-theyre-being-persecuted-in-america/488468/" target="_blank" rel="noopener">as the victims</a> of a successful campaign to infuse the country with secular values, forcing Christians — particularly conservative ones — to accept values they violently disagree with. But many Americans think Christians occupy a very different role. In their version of the country’s current drama, Christians are the villains, <a href="https://www.nytimes.com/2022/07/08/us/christian-nationalism-politicians.html" target="_blank" rel="noopener">ensconcing their own beliefs in law and politics</a> even as their numbers dwindle. There’s a thread of unease on both sides — as if the one thing everyone agrees on is that these two ways of thinking about Christianity in America simply can’t coexist.</p>
 
 
 
-<p data-paragraph="main">A <a href="https://perryundem.com/wp-content/uploads/2022/10/538-PerryUndem-YouGov-Survey_Topline-Results.pdf" target="_blank" rel="noopener">FiveThirtyEight/PerryUndem/YouGov survey</a> of likely voters shows just how deep this fissure runs.<a data-footnote-id="19" href="https://fivethirtyeight.com/wp-json/wp/v2/espn_verticals/398#fn-19" data-footnote-content="&lt;p&gt;&lt;p&gt;Conducted Aug. 10-21, 2022, among 1,796 likely voters, including oversamples of Black, Latino and Asian American/Pacific Islander respondents. Likely voters included registered voters who said that they are “almost certain to” or will “probably” vote in the November midterm elections. The sample is weighted to match the general population. The poll’s margin of error is +/- 3 percentage points.&lt;/p&gt;
-&lt;/p&gt;"><sup>19</sup></a> In this second installment of our exploration of invisible divides — the differences in worldview that shape how people vote and think about their place in America — <a href="https://perryundem.com/wp-content/uploads/2022/10/538-regression-placeholder.pdf" target="_blank" rel="noopener">we found profound disagreements</a> about how much power Christians really have, and the role they should play in the country’s politics and culture. Like the other divides we’re exploring, these divisions track fairly neatly along partisan lines and help explain why the gap between Republicans and Democrats sometimes feels unbridgeable: It’s because their ways of thinking about the world are increasingly irreconcilable.</p>
+<p data-paragraph="main">A <a href="https://perryundem.com/wp-content/uploads/2022/10/538-PerryUndem-YouGov-Survey_Topline-Results.pdf" target="_blank" rel="noopener">FiveThirtyEight/PerryUndem/YouGov survey</a> of likely voters shows just how deep this fissure runs.<a data-footnote-id="23" href="https://fivethirtyeight.com/wp-json/wp/v2/espn_verticals/398#fn-23" data-footnote-content="&lt;p&gt;&lt;p&gt;Conducted Aug. 10-21, 2022, among 1,796 likely voters, including oversamples of Black, Latino and Asian American/Pacific Islander respondents. Likely voters included registered voters who said that they are “almost certain to” or will “probably” vote in the November midterm elections. The sample is weighted to match the general population. The poll’s margin of error is +/- 3 percentage points.&lt;/p&gt;
+&lt;/p&gt;"><sup>23</sup></a> In this second installment of our exploration of invisible divides — the differences in worldview that shape how people vote and think about their place in America — <a href="https://perryundem.com/wp-content/uploads/2022/10/538-regression-placeholder.pdf" target="_blank" rel="noopener">we found profound disagreements</a> about how much power Christians really have, and the role they should play in the country’s politics and culture. Like the other divides we’re exploring, these divisions track fairly neatly along partisan lines and help explain why the gap between Republicans and Democrats sometimes feels unbridgeable: It’s because their ways of thinking about the world are increasingly irreconcilable.</p>
 
 
 
@@ -1160,8 +1714,8 @@
 
 
 
-<p data-paragraph="main">Are Christians victims? It depends on who you ask. Nearly half (46 percent) of survey respondents told us that discrimination against Christians is a problem in American society today, while a majority (54 percent) think it’s not.<a data-footnote-id="20" href="https://fivethirtyeight.com/wp-json/wp/v2/espn_verticals/398#fn-20" data-footnote-content="&lt;p&gt;&lt;p&gt;Respondents were asked how big of a problem they viewed each topic from a list of 11.&lt;/p&gt;
-&lt;/p&gt;"><sup>20</sup></a> They were also divided along similar lines about whether far-right Christians are trying to impose their beliefs on other people: A majority (56 percent) agreed they are, while another 33 percent disagreed, and 10 percent weren’t sure. The political fissures on this question are as wide as religious divides, like church attendance, and sometimes wider — signaling that anxiety about what it means to be Christian may be shaped as much by people’s political allegiances as their religious ties.</p>
+<p data-paragraph="main">Are Christians victims? It depends on who you ask. Nearly half (46 percent) of survey respondents told us that discrimination against Christians is a problem in American society today, while a majority (54 percent) think it’s not.<a data-footnote-id="24" href="https://fivethirtyeight.com/wp-json/wp/v2/espn_verticals/398#fn-24" data-footnote-content="&lt;p&gt;&lt;p&gt;Respondents were asked how big of a problem they viewed each topic from a list of 11.&lt;/p&gt;
+&lt;/p&gt;"><sup>24</sup></a> They were also divided along similar lines about whether far-right Christians are trying to impose their beliefs on other people: A majority (56 percent) agreed they are, while another 33 percent disagreed, and 10 percent weren’t sure. The political fissures on this question are as wide as religious divides, like church attendance, and sometimes wider — signaling that anxiety about what it means to be Christian may be shaped as much by people’s political allegiances as their religious ties.</p>
 
 
 
@@ -1185,9 +1739,9 @@
 
 
 
-<p data-paragraph="main">Today, the beliefs and actions of a relatively small group of people may be calcifying this divide. A minority of Americans support views that could be described as Christian nationalist, an ideology <a href="https://academic.oup.com/book/33661" target="_blank" rel="noopener">defined by social scientists</a> as the belief that the U.S. is a Christian nation, and should be returned to its Christian foundations — by force, if necessary. According to our survey, only 27 percent of respondents agreed that the “government should favor Christianity over other religions,” and even fewer (22 percent) said that “God has called on conservative Christians to take control of our politics and culture.” Only 13 percent said that “the federal government should advocate for Christian religious values,”<a data-footnote-id="21" href="https://fivethirtyeight.com/wp-json/wp/v2/espn_verticals/398#fn-21" data-footnote-content="&lt;p&gt;&lt;p&gt;Other options included “the federal government should advocate for moral values that are shared by people of many faiths,” “the federal government should not advocate for any specific set of moral values,” “neither/no opinion” and skipping the question.&lt;/p&gt;
-&lt;/p&gt;"><sup>21</sup></a> and 19 percent said that “the federal government should stop enforcing separation of church and state.”<a data-footnote-id="22" href="https://fivethirtyeight.com/wp-json/wp/v2/espn_verticals/398#fn-22" data-footnote-content="&lt;p&gt;&lt;p&gt;Other options included “the federal government should enforce separation of church and state,” “neither/no opinion” and skipping the question.&lt;/p&gt;
-&lt;/p&gt;"><sup>22</sup></a></p>
+<p data-paragraph="main">Today, the beliefs and actions of a relatively small group of people may be calcifying this divide. A minority of Americans support views that could be described as Christian nationalist, an ideology <a href="https://academic.oup.com/book/33661" target="_blank" rel="noopener">defined by social scientists</a> as the belief that the U.S. is a Christian nation, and should be returned to its Christian foundations — by force, if necessary. According to our survey, only 27 percent of respondents agreed that the “government should favor Christianity over other religions,” and even fewer (22 percent) said that “God has called on conservative Christians to take control of our politics and culture.” Only 13 percent said that “the federal government should advocate for Christian religious values,”<a data-footnote-id="25" href="https://fivethirtyeight.com/wp-json/wp/v2/espn_verticals/398#fn-25" data-footnote-content="&lt;p&gt;&lt;p&gt;Other options included “the federal government should advocate for moral values that are shared by people of many faiths,” “the federal government should not advocate for any specific set of moral values,” “neither/no opinion” and skipping the question.&lt;/p&gt;
+&lt;/p&gt;"><sup>25</sup></a> and 19 percent said that “the federal government should stop enforcing separation of church and state.”<a data-footnote-id="26" href="https://fivethirtyeight.com/wp-json/wp/v2/espn_verticals/398#fn-26" data-footnote-content="&lt;p&gt;&lt;p&gt;Other options included “the federal government should enforce separation of church and state,” “neither/no opinion” and skipping the question.&lt;/p&gt;
+&lt;/p&gt;"><sup>26</sup></a></p>
 
 
 
@@ -2954,308 +3508,6 @@
 <p data-paragraph="main">The districts are important symbolically as well, and both parties will be watching closely to see what happens. “If Republicans win or come extremely close to winning in any of these districts, I think the party will take it as a sign that their strategy — pouring in money, animating immigration-related issues and so forth — is starting to bear fruit,” Smith said. “In any case, though, I think this region is far more competitive than in the past, and I do think you’re going to see more Republican efforts to make the Lower Rio Grande Valley, if not red, then at least purple going forward.”</p>]]></description>
 			<pubDate>Mon, 24 Oct 2022 11:00:00 +0100</pubDate>
 			<guid isPermaLink="false">1666606501486427</guid>
-		</item>
-		<item>
-			<title>Is College Worth It? Voters Are Split.</title>
-			<link>https://fivethirtyeight.com/features/invisible-divides-college/</link>
-						<dc:creator>Monica Potts</dc:creator>
-			<dc:creator>Monica Potts</dc:creator>
-			<category>2022 Midterms</category>
-			<category>Academia</category>
-			<category>College</category>
-			<category>Higher Education</category>
-			<category>Invisible Divides</category>
-			<category>Partisanship</category>
-			<category>Polling</category>
-			<description><![CDATA[<div>
-
-			<div>
-
-				<header><div>
-													<p><a href="https://fivethirtyeight.com/tag/invisible-divides/" name="">Invisible Divides</a></p>
-						
-													<h1>Is College Worth It? Voters Are Split.</h1>
-																			<h2>This invisible divide is reshaping politics.</h2>
-											</div>
-
-										<div>
-						<div>
-															<p>By <a href="https://fivethirtyeight.com/contributors/monica-potts/" title="" rel="author">Monica Potts</a></p>
-																					<p>
-								<time>
-									Oct. 24, 2022, at 6:00 AM								</time></p>
-						</div>
-						<div>
-													</div> 
-					</div>
-					
-				</header><figure><span>
-									<div>
-						<picture><source media="(min-width: 768px)"><source><img alt="INVISIBLE-DIVIDES-1024-4×3" src="https://fivethirtyeight.com/wp-content/uploads/2022/10/INVISIBLE-DIVIDES-1024-4x3-1.png?w=916" data-sizes="(max-width: 768px) 100vw, (max-width: 1080px) 66vw, 684px" data-src="https://fivethirtyeight.com/wp-content/uploads/2022/10/INVISIBLE-DIVIDES-1024-4x3-1.png?w=916" data-srcset="https://fivethirtyeight.com/wp-content/uploads/2022/10/INVISIBLE-DIVIDES-1024-4x3-1.png?w=916 1x, https://fivethirtyeight.com/wp-content/uploads/2022/10/INVISIBLE-DIVIDES-1024-4x3-1.png?w=1832 2x"></source></source></picture></div>
-
-				
-			</span>
-
-			
-								<figcaption><p>PHOTO ILLUSTRATION BY EMILY SCHERER / GETTY IMAGES</p>
-											</figcaption></figure></div>
-
-			
-		</div>
-
-
-
-
-				<div>
-											<a href="https://fivethirtyeight.com/tag/invisible-divides/"><img loading="lazy" src="https://fivethirtyeight.com/wp-content/uploads/2022/10/InvisibleDivides-Block.png" alt="" width="153" height="115" data-src="https://fivethirtyeight.com/wp-content/uploads/2022/10/InvisibleDivides-Block.png" data-srcset="https://fivethirtyeight.com/wp-content/uploads/2022/10/InvisibleDivides-Block.png?w=153 1x, https://fivethirtyeight.com/wp-content/uploads/2022/10/InvisibleDivides-Block.png?w=306 2x"></a>
-										<div>
-						<p>This article is part of our <a href="https://fivethirtyeight.com/tag/invisible-divides/">Invisible Divides</a> series.</p>
-					</div>
-				</div>
-			
-
-
-<p data-paragraph="main"><em>Welcome to Invisible Divides, a series exploring the profound differences in worldview between Democrats and Republicans. These beliefs about education, religion, gender, race and political extremism align with partisanship — but run much deeper. Differences like these don’t just influence the ways Democrats and Republicans vote, but also how they think about their place in America. And they help explain why opposing views on important issues today seem increasingly irreconcilable.</em></p>
-
-
-
-<div><hr><span></span></div>
-
-
-
-
-<p data-paragraph="main">When Dale Nicholls started college in 1984, he soon realized books weren’t for him. So he entered the workforce, started a job as a truck driver and eventually worked his way up to owning and running his own trucking company. His professional experience, he said, taught him more than what he’d have been able to learn in school. </p>
-
-
-
-<p data-paragraph="main">“A lot of the degrees people are getting, there’s no use for them in the real world, and so you’re finding a lot of people come out of college and then can’t get a job because their degrees are no good,” he said in an interview with FiveThirtyEight.</p>
-
-
-
-<p data-paragraph="main">Nicholls, now 60, doesn’t believe that everyone should go to college no matter how much it costs and no matter how much debt students take on. This belief puts him on one side of a deep and growing divide in the American electorate regarding attitudes about higher education and its value. </p>
-
-
-
-<p data-paragraph="main">FiveThirtyEight has <a href="https://perryundem.com/wp-content/uploads/2022/10/538-PerryUndem-YouGov-Survey_Topline-Results.pdf" target="_blank" rel="noopener">partnered with PerryUndem and YouGov</a> to survey likely voters on how deep these types of fissures run.<a data-footnote-id="38" href="https://fivethirtyeight.com/wp-json/wp/v2/espn_verticals/398#fn-38" data-footnote-content="&lt;p&gt;&lt;p&gt;Conducted Aug. 10-21, 2022, among 1,796 likely voters, including oversamples of Black, Latino and Asian American/Pacific Islander respondents. Likely voters included registered voters who said that they are “almost certain to” or will “probably” vote in the November midterm elections. The sample was weighted to match the general population. The poll’s margin of error is +/- 3 percentage points.&lt;/p&gt;
-&lt;/p&gt;"><sup>38</sup></a> In this first installment of our series exploring the invisible divides in America — the differences in worldview that shape <a href="https://perryundem.com/wp-content/uploads/2022/10/538-regression-placeholder.pdf" target="_blank" rel="noopener">how people vote and think about their place in America</a> — we look at the education divide. For the past two decades, a voter’s level of education has become an increasingly important predictor in how he or she votes. But we found that the divide is about more than just the level of education someone has: Americans have diverging attitudes about the role higher education itself plays in American society. Like other divides we’ll be exploring, they help explain why Republicans and Democrats seem unable to find common ground on so many issues.</p>
-
-
-
-<div><hr><span></span></div>
-
-
-
-
-<p data-paragraph="main">Since the late 1990s, college-educated voters <a href="https://www.pewresearch.org/politics/2020/06/02/democratic-edge-in-party-identification-narrows-slightly/" target="_blank" rel="noopener">have been moving</a> towards the Democratic Party while voters without a college degree have become more decidedly Republican-leaning. By the time former President Barack Obama left office, those lines had solidified: A majority of college-educated voters identified as Democrats, while a majority of voters without a college degree identified as Republicans. In the 2016 election, <a href="https://fivethirtyeight.com/features/even-among-the-wealthy-education-predicts-trump-support/" target="_blank" rel="noopener">education was a better predictor</a> of who voted for former President Donald Trump than income.</p>
-
-
-
-<p data-paragraph="main"></p><div><iframe title="Voters are split on whether college is good for society" aria-label="Dot Plot" src="https://datawrapper.dwcdn.net/8g6Av/3/" scrolling="no" frameborder="0" height="593" sandbox="allow-scripts allow-same-origin"></iframe></div>
-
-
-
-<p data-paragraph="main">As this divide deepened, views on higher education <a href="https://www.pewresearch.org/social-trends/2019/08/19/the-growing-partisan-divide-in-views-of-higher-education-2/" target="_blank" rel="noopener">became even more partisan</a>. That has influenced how politicians talk about higher education, as well as their policy approaches to it. During his administration, Trump not only launched attacks on colleges, especially those he deemed elite — despite himself having graduated from the University of Pennsylvania — but began accusing them of spreading liberal propaganda. “Too many Universities and School Systems are about Radical Left Indoctrination, not Education,” <a href="https://www.usatoday.com/story/news/politics/2020/07/10/trump-accuses-colleges-radical-left-indoctrination-threatens-tax-exemption/5415908002/" target="_blank" rel="noopener">he wrote on Twitter in 2020</a>. </p>
-
-
-
-<p data-paragraph="main">In the FiveThirtyEight/PerryUndem/YouGov survey — which Nicholls participated in — 51 percent of respondents agreed with the idea that “a college education is the best way to get ahead in the U.S.” But agreement differed significantly by respondent’s partisan affiliations: Seventy-one percent of self-identified Democrats agreed while 37 percent of self-identified Republicans did. </p>
-
-
-
-<p data-paragraph="main">Respondents were also asked a series of questions to gauge how they felt about higher education. Fifty-seven percent of respondents disagreed with the statement “college makes you lose common sense,” while 37 percent agreed. Of those who agreed, 65 percent planned to “definitely” vote for the Republican candidate in the upcoming midterms, while 12 percent of those who agreed planned to “definitely” vote for the Democratic candidate.<a data-footnote-id="39" href="https://fivethirtyeight.com/wp-json/wp/v2/espn_verticals/398#fn-39" data-footnote-content="&lt;p&gt;&lt;p&gt;Respondents were asked who they would vote for in the upcoming elections for the U.S. House of Representatives if they were held next week. Other options included “probably the Democrat,” “probably the Republican,” “other,” “I’m not sure,” “I wouldn’t vote” and skipping the question.&lt;/p&gt;
-&lt;/p&gt;"><sup>39</sup></a> </p>
-
-
-
-<p data-paragraph="main">More than 4 in 5 Republicans agreed with the statements that “most college professors teach liberal propaganda” and “high schools are trying to teach liberal propaganda,” compared with 17 and 16 percent of Democrats, respectively. Those who agreed with one of these statements generally also agreed with the other (90 percent). There weren’t huge differences in how people answered these questions based on level of education (except for people with postgraduate degrees). Instead, it was partisanship that mattered. </p>
-
-
-<p>Watch: https://abcnews.go.com/Politics/video/american-turning-point-politics-public-education-91859671</p>
-
-
-<p data-paragraph="main">Voters’ views on college often aligned with how they’d respond to other, seemingly unrelated questions. Those who agreed with statements like “college makes you lose common sense,” were less likely to think climate change (35 percent) and racism or racial inequality (40 percent) were problems than those who disagreed (both 85 percent),<a data-footnote-id="40" href="https://fivethirtyeight.com/wp-json/wp/v2/espn_verticals/398#fn-40" data-footnote-content="&lt;p&gt;&lt;p&gt;Respondents were asked how big of a problem they viewed each topic from a list of 11.&lt;/p&gt;
-&lt;/p&gt;"><sup>40</sup></a> and less likely to think that high school students should learn about sexism and gender inequality (32 percent) and systemic racism (28 percent).<a data-footnote-id="41" href="https://fivethirtyeight.com/wp-json/wp/v2/espn_verticals/398#fn-41" data-footnote-content="&lt;p&gt;&lt;p&gt;Respondents were asked whether they thought students in high school should learn about each topic from a list of eight.&lt;/p&gt;
-&lt;/p&gt;"><sup>41</sup></a> They were also more likely to think inflation and the national economy would be worse a year from now, independent of their household income levels, according to analysis by Duncan Gans, a senior research analyst with PerryUndem. </p>
-
-
-
-<p data-paragraph="main">This hints that the division is about more than simply getting a college education or having a higher income. “College” and, relatedly, “elitism” are concepts that seem to be linked to otherwise unrelated ideas — like support for LGBTQ+ rights or racial justice — which have, in turn, become associated with the identity of the Democratic Party. Increasingly, it seems that when politicians like Trump rail against the elite — a word that might otherwise mean a level of wealth and power he, himself, has — it’s meant as a cultural designation, not a socioeconomic one. </p>
-
-
-
-<p data-paragraph="main">Sharon Martin, who is 71 and lives in Virginia, participated in an online focus group as part of our poll. “I believe the young people go into college to get an education but instead are taught how to think as a group,” she wrote. “They are taught, or should I say instructed, by professors that I believe are pushing their ideals and desires.”</p>
-
-
-
-<p data-paragraph="main">Jim Burke, a 61-year-old from Pennsylvania who spoke with FiveThirtyEight after taking part in the survey, agreed. He’s a pharmacist who went to a Catholic college and became conservative after having children. “My daughter went to college as a staunch Republican and she came out a liberal Democrat,” he said. “Totally due to her education.” (In 2020, voters under 30 were the <a href="https://fivethirtyeight.com/features/how-biden-lost-the-support-of-young-americans/" target="_blank" rel="noopener">most Democratic-leaning age group</a>, although this age group is <a href="https://www.nytimes.com/2020/10/08/upshot/youth-voting-2020-election.html" target="_blank" rel="noopener">less likely to vote than older groups</a>.)</p>
-
-
-
-<p data-paragraph="main">It’s easy enough to see how this divide manifests in American society, as concern over what is taught in colleges has also trickled down to lower levels of education. Over the past two years, PEN America <a href="https://docs.google.com/spreadsheets/d/1Tj5WQVBmB6SQg-zP_M8uZsQQGH09TxmBY73v23zpyr0/edit#gid=1505554870" target="_blank" rel="noopener">has been tracking laws</a> that aim to prevent public college professors and primary and secondary education teachers from teaching “divisive” concepts, which may include racism, sexism or gender identity. Fourteen states have passed such laws, but bills have been introduced across the country. States <a href="https://www.nytimes.com/2022/04/12/us/politics/transgender-laws-us.html" target="_blank" rel="noopener">have also passed laws restricting</a> LGBTQ+ students’ access to school sports and health care and <a href="https://pen.org/report/banned-usa-growing-movement-to-censor-books-in-schools/" target="_blank" rel="noopener">banned school libraries from carrying books</a> on subjects deemed controversial. This fall, a Pennsylvania school district <a href="https://www.politico.com/newsletters/weekly-cybersecurity/2022/09/26/culture-wars-take-aim-at-stem-education-00058782" target="_blank" rel="noopener">pulled the “Girls Who Code” book series</a>, meant to encourage girls of color to enter careers in tech. Across the country, <a href="https://www.politico.com/news/2022/08/01/gop-arizona-school-superintendent-seat-00048792" target="_blank" rel="noopener">many</a> <a href="https://www.mlive.com/public-interest/2022/09/culture-wars-take-center-stage-in-tudor-dixons-education-proposals.html" target="_blank" rel="noopener">Republican</a> <a href="https://www.businessinsider.com/republicans-2022-elections-critical-race-theory-education-culture-wars-scalise-2021-12" target="_blank" rel="noopener">candidates</a> have made battles over what’s taught in schools central to their campaigns.</p>
-
-
-
-<p data-paragraph="main">President Biden’s student loan forgiveness plan has illuminated the depths of this anti-elitism divide. In September, about a month after Biden <a href="https://www.whitehouse.gov/briefing-room/statements-releases/2022/08/24/fact-sheet-president-biden-announces-student-loan-relief-for-borrowers-who-need-it-most/" target="_blank" rel="noopener">announced his plan</a> to cancel up to $20,000 in student loan debt for certain borrowers, 22 Republican governors sent him a letter asking him to withdraw the plan. They <a href="https://www.rga.org/wp-content/uploads/2022/09/Joint-Governors-Letter-Opposing-the-Biden-Student-Loan-Forgiveness-Plan-9-12-22.pdf" target="_blank" rel="noopener">argued it</a> “rewards the rich and punishes the poor” by taxing hourly workers who hadn’t gone to college just to benefit higher earners who had. (Of course, not everyone who owes student loans is a higher earner — the U.S. Department of Education estimates that <a href="https://www.whitehouse.gov/briefing-room/statements-releases/2022/08/24/fact-sheet-president-biden-announces-student-loan-relief-for-borrowers-who-need-it-most/" target="_blank" rel="noopener">87 percent of the debt</a> cancellation benefits will go to those who earn less than $75,000 annually.)</p>
-
-
-
-<p data-paragraph="main">It’s not surprising that polls show voters divided on student loan forgiveness by party. In a <a href="https://civiqs.com/reports/2022/8/31/report-student-loan-debt-forgiveness-divides-americans" target="_blank" rel="noopener">Daily Kos/Civiqs Poll from August</a>, right after Biden’s plan was announced, 88 percent of Republicans and 56 percent of independent voters disapproved, while 88 percent of Democrats approved. A <a href="https://poll.qu.edu/poll-release?releaseid=3854" target="_blank" rel="noopener">Quinnipiac University poll</a>, also from the end of August, found that 81 percent of Republicans disapproved while 88 percent of Democrats approved. </p>
-
-
-
-<p data-paragraph="main">But Rachel Fishman, the acting director with the Education Policy program at New America, said there are partisan divides on whether the government should be funding colleges and universities at all. New America’s <a href="https://www.newamerica.org/education-policy/reports/varying-degrees-2022/findings" target="_blank" rel="noopener">annual report</a> measuring attitudes about higher education found this year that 77 percent of Democrats thought the government should be more responsible for funding higher education, while 63 percent of Republicans said students should be more responsible. </p>
-
-
-
-<p data-paragraph="main">“You can kind of piece together from there how the subsequent answers on questions about funding and value kind of fall into place from that notion,” Fishman said. </p>
-
-
-
-<p data-paragraph="main">In the New America survey, Republicans viewed attending college as something students themselves benefit from, but did not necessarily see <em>colleges</em> as something that benefited communities or the country as a whole. This could have implications for many battles to come, as Democrats want to <a href="https://www.washingtonpost.com/local/education/house-democrats-unveil-higher-education-plan-to-lower-college-costs/2019/10/14/9c8aedb6-eed2-11e9-89eb-ec56cd414732_story.html" target="_blank" rel="noopener">increase federal funding</a> for higher education and make at least some colleges free, while Republicans are more focused on <a href="https://subscriber.politicopro.com/article/2022/09/foxx-plans-for-vigorous-higher-ed-bill-next-year-00056530" target="_blank" rel="noopener">scaling back student loan forgiveness</a> and on <a href="https://www.edweek.org/policy-politics/heres-the-long-list-of-topics-republicans-want-banned-from-the-classroom/2022/02" target="_blank" rel="noopener">curriculum battles</a>.</p>
-
-
-
-<p data-paragraph="main">It could also matter for bigger questions, like whether high school graduates should have equal access to higher education regardless of their ability to pay; whether and how to fund alternatives to colleges and universities; how to best prepare students for higher education; and whether research led by academic institutions is trusted. </p>
-
-
-
-<p data-paragraph="main">Indeed, it’s becoming clearer that some voters think higher education institutions are actually bad for the country. “As much good as I think they do, I think they do as much harm,” Burke said. “The one thing that they do do well is they … make the kids think. Unfortunately, that thinking is guided to a specific point, and not just open ended.”</p>
-
-
-
-<p data-paragraph="main"><em>Holly Fuong and Duncan Gans contributed research.</em></p>
-
-
-
-<p data-paragraph="main"></p><p data-paragraph="main">Watch: https://abcnews.go.com/fivethirtyeight/video/republicans-odds-controlling-congress-improved-fivethirtyeight-91887598</p>]]></description>
-			<pubDate>Mon, 24 Oct 2022 11:00:00 +0100</pubDate>
-			<guid isPermaLink="false">1666606501486426</guid>
-		</item>
-		<item>
-			<title>Why I’m Telling My Friends That The Senate Is A Toss-Up</title>
-			<link>https://fivethirtyeight.com/features/the-senate-is-a-toss-up/</link>
-						<dc:creator>Nate Silver</dc:creator>
-			<dc:creator>Nate Silver</dc:creator>
-			<category>2022 Election</category>
-			<category>Arizona Senate</category>
-			<category>Congress</category>
-			<category>Georgia Senate</category>
-			<category>Pennsylvania Senate</category>
-			<category>Polling Averages</category>
-			<category>Polling Bias</category>
-			<category>Senate</category>
-			<description><![CDATA[<div>
-
-			<div>
-
-				<header><div>
-													<p><a href="https://fivethirtyeight.com/tag/2022-election/" name="">2022 Election</a></p>
-						
-													<h1>Why I'm Telling My Friends That The Senate Is A Toss-Up</h1>
-																	</div>
-
-										<div>
-						<div>
-															<p>By <a href="https://fivethirtyeight.com/contributors/nate-silver/" title="" rel="author">Nate Silver</a></p>
-																					<p>
-								<time>
-									Oct. 21, 2022, at 6:00 AM								</time></p>
-						</div>
-						<div>
-													</div> 
-					</div>
-					
-				</header><figure><span>
-									<div>
-						<picture><source media="(min-width: 768px)"><source><img alt="2022-ELECTIONUPDATE-1021-4×3" src="https://fivethirtyeight.com/wp-content/uploads/2022/10/2022-ELECTIONUPDATE-1021-4x3-1.png?w=916" data-sizes="(max-width: 768px) 100vw, (max-width: 1080px) 66vw, 684px" data-src="https://fivethirtyeight.com/wp-content/uploads/2022/10/2022-ELECTIONUPDATE-1021-4x3-1.png?w=916" data-srcset="https://fivethirtyeight.com/wp-content/uploads/2022/10/2022-ELECTIONUPDATE-1021-4x3-1.png?w=916 1x, https://fivethirtyeight.com/wp-content/uploads/2022/10/2022-ELECTIONUPDATE-1021-4x3-1.png?w=1832 2x"></source></source></picture></div>
-
-				
-			</span>
-
-			
-								<figcaption><p>ILLUSTRATION BY EMILY SCHERER</p>
-											</figcaption></figure></div>
-
-			
-		</div>
-
-
-
-
-
-<p data-paragraph="main">The Senate <a href="https://fivethirtyeight.com/features/why-republicans-are-favored-to-win-the-house-but-not-the-senate/" target="_blank" rel="noopener">started out as a toss-up</a> when we launched our forecast in June — and after a summer in which political developments <a href="https://fivethirtyeight.com/features/the-political-environment-might-be-improving-for-democrats/" target="_blank" rel="noopener">mostly played to Democrats’ favor</a>, there is now clear movement back toward Republicans. The FiveThirtyEight Senate forecast gives Democrats a 58 percent chance of keeping control of the Senate, down from a peak of 71 percent last month.<a data-footnote-id="43" href="https://fivethirtyeight.com/wp-json/wp/v2/espn_verticals/398#fn-43" data-footnote-content="&lt;p&gt;&lt;p&gt;All forecast odds and polling average figures are as of Thursday, Oct. 20, at 5:30 p.m. Eastern.&lt;/p&gt;
-&lt;/p&gt;"><sup>43</sup></a></p>
-
-
-
-<p data-paragraph="main">How to translate a roughly 60 percent chance into words is a tricky one, since it’s right on the threshold where you might choose to emphasize that one party is ahead <em>or</em> that it’s pretty close to 50-50. Poker players use the term “<a href="https://www.pokervip.com/poker-terms/flip" target="_blank" rel="noopener">flip</a>” (short for “coin flip”) when two hands have about an equal chance of winning, even if the chances aren’t <em>exactly</em> equal. Most players would describe <a href="http://twodimes.net/poker/?g=h&amp;b=&amp;d=&amp;h=Ac+Ks%0D%0ATd+Th" target="_blank" rel="noopener">this poker hand</a> as a “flip,” for instance, even though the pair of 10s would win 57 percent of the time.</p>
-
-
-
-<p data-paragraph="main">In politics, the similar term “toss-up” is often applied, although the definition is fuzzy. We’re even inconsistent in how we use it ourselves.<a data-footnote-id="44" href="https://fivethirtyeight.com/wp-json/wp/v2/espn_verticals/398#fn-44" data-footnote-content="&lt;p&gt;&lt;p&gt;The longstanding “official” FiveThirtyEight definition of a toss-up is a race where both parties have less than a 60 percent chance of winning, although in some of the text that the forecast interactive autogenerates, we’ve used a 55 percent threshold instead.&lt;/p&gt;
-&lt;/p&gt;"><sup>44</sup></a></p>
-
-
-
-<p data-paragraph="main">But let’s get real. If a friend asked me to characterize the Senate race, I’d say “it’s pretty fucking close,” and emphasize that neither party has much of an advantage. Here’s why.</p>
-
-
-
-<p data-paragraph="main">For one thing, as of Thursday afternoon, Republicans realized a slight lead (of 0.1 percentage points) in the FiveThirtyEight <a href="https://projects.fivethirtyeight.com/polls/generic-ballot/" target="_blank" rel="noopener">generic ballot average</a> for the first time since Aug. 2. </p>
-
-
-
-<figure><img loading="lazy" width="1422" height="900" src="https://fivethirtyeight.com/wp-content/uploads/2022/10/generic-ballot-polls-711-2.png" alt="A line chart showing voter preferences on the generic ballot, with Republicans leading by one-tenth of a percentage point as of Thursday, Oct. 20, 2022." data-src="https://fivethirtyeight.com/wp-content/uploads/2022/10/generic-ballot-polls-711-2.png" data-srcset="https://fivethirtyeight.com/wp-content/uploads/2022/10/generic-ballot-polls-711-2.png?w=712 1x, https://fivethirtyeight.com/wp-content/uploads/2022/10/generic-ballot-polls-711-2.png?w=1424 2x"></figure><figure><img loading="lazy" width="670" height="900" src="https://fivethirtyeight.com/wp-content/uploads/2022/10/generic-ballot-polls-335-2.png" alt="A line chart showing voter preferences on the generic ballot, with Republicans leading by one-tenth of a percentage point as of Thursday, Oct. 20, 2022." data-src="https://fivethirtyeight.com/wp-content/uploads/2022/10/generic-ballot-polls-335-2.png" data-srcset="https://fivethirtyeight.com/wp-content/uploads/2022/10/generic-ballot-polls-335-2.png?w=670 1x, https://fivethirtyeight.com/wp-content/uploads/2022/10/generic-ballot-polls-335-2.png?w=1340 2x"></figure><p data-paragraph="main">Obviously, a lead of a tenth of a percentage point isn’t much. The advantage may have flipped back by the time that you’re reading this. But the tied generic ballot overstates the case for Democrats. That’s because our <em>polling average</em> takes generic ballot polls as they come, which are a combination of polls of likely voters, registered voters and all adults. Our <em>model</em>, however, <a href="https://fivethirtyeight.com/methodology/how-fivethirtyeights-house-and-senate-models-work/" target="_blank" rel="noopener">takes an additional step</a> and adjusts polls of registered voters and adults to make them more similar to polls of likely voters, which this year have been more favorable to Republicans. So a tie on the generic ballot among all polls translates to a slight GOP lead with the likely voter adjustment.</p>
-
-
-
-<p data-paragraph="main"></p><p data-paragraph="main">Watch: https://abcnews.go.com/fivethirtyeight/video/republicans-odds-controlling-congress-improved-fivethirtyeight-91887598</p>
-
-
-
-<p data-paragraph="main">Something else that’s made this year’s forecast hard to convey in plain English is that there are three entirely plausible scenarios: A Republican sweep of Congress, a Democratic sweep or a split Congress (which would more likely involve a Democratic Senate and a GOP House, rather than the other way around). Until recently, a split Congress had the most likely of the three scenarios, though the chances of this outcome were under 50 percent. Now, however, a GOP sweep (41 percent) is more likely than a split (38 percent):</p>
-
-
-
-<figure><img loading="lazy" width="1422" height="446" src="https://fivethirtyeight.com/wp-content/uploads/2022/10/joint-probs-711-2.png" alt="Four small circular charts displaying the odds of Democrats or Republicans having full or partial control of Congress, with Republicans winning both chambers at 41-in-100 and Democrats winning the Senate and Republicans the House at 38-in-100." data-src="https://fivethirtyeight.com/wp-content/uploads/2022/10/joint-probs-711-2.png" data-srcset="https://fivethirtyeight.com/wp-content/uploads/2022/10/joint-probs-711-2.png?w=712 1x, https://fivethirtyeight.com/wp-content/uploads/2022/10/joint-probs-711-2.png?w=1424 2x"></figure><figure><img loading="lazy" width="670" height="661" src="https://fivethirtyeight.com/wp-content/uploads/2022/10/joint-probs-335-2.png" alt="Four small circular charts displaying the odds of Democrats or Republicans having full or partial control of Congress, with Republicans winning both chambers at 41-in-100 and Democrats winning the Senate and Republicans the House at 38-in-100." data-src="https://fivethirtyeight.com/wp-content/uploads/2022/10/joint-probs-335-2.png" data-srcset="https://fivethirtyeight.com/wp-content/uploads/2022/10/joint-probs-335-2.png?w=670 1x, https://fivethirtyeight.com/wp-content/uploads/2022/10/joint-probs-335-2.png?w=1340 2x"></figure><p data-paragraph="main">And all of that is before getting into the chance that the polls could overstate support for Democrats again, as they did in 2016 and 2020. This is a complicated subject; I <a href="https://fivethirtyeight.com/features/will-the-polls-overestimate-democrats-again/" target="_blank" rel="noopener"><em>mostly</em> think</a> the model does a good job of accounting for this, and one should keep in mind there’s also the possibility that the polls could be biased <em>against</em> Democrats. But I’m <a href="https://fivethirtyeight.com/features/5-reasons-for-democrats-to-still-be-concerned-about-the-midterms/" target="_blank" rel="noopener">not entirely confident</a>, so my mental model is slightly more favorable to the GOP than the FiveThirtyEight forecast itself. It’s worth noting, though, that some of the states where people had been most concerned about the polls being wrong, such as Wisconsin and Ohio, have <a href="https://projects.fivethirtyeight.com/2022-election-forecast/senate/wisconsin/" target="_blank" rel="noopener">shown a shift</a> toward the GOP <a href="https://projects.fivethirtyeight.com/2022-election-forecast/senate/ohio/" target="_blank" rel="noopener">in recent weeks</a>.</p>
-
-
-
-<p data-paragraph="main">But the main reason why I think of the race for control of the Senate as a toss-up — rather than slightly favoring Democrats — is because there’s been steady movement toward the GOP in our model over the past few weeks. In principle, past movement <em>shouldn’t</em> predict future movement in our forecast and it should instead <a href="https://www.britannica.com/science/random-walk" target="_blank" rel="noopener">resemble a random walk</a>. (We put a lot of effort in our modeling into trying to minimize <a href="https://corporatefinanceinstitute.com/resources/knowledge/other/autocorrelation/" target="_blank" rel="noopener">autocorrelation</a>.) This year, though, the forecast has moved in a predictable-seeming way, with a long, slow and steady climb toward Democrats over the summer, and now a consistent shift back toward Republicans.</p>
-
-
-
-<figure><img loading="lazy" width="1422" height="808" src="https://fivethirtyeight.com/wp-content/uploads/2022/10/2022-senate-change-711-2.png" alt="A line chart showing odds for Democrats and Republicans to control the Senate. Democrats currently have a 58-in-100 chance, a noticeable decrease from mid-September." data-src="https://fivethirtyeight.com/wp-content/uploads/2022/10/2022-senate-change-711-2.png" data-srcset="https://fivethirtyeight.com/wp-content/uploads/2022/10/2022-senate-change-711-2.png?w=712 1x, https://fivethirtyeight.com/wp-content/uploads/2022/10/2022-senate-change-711-2.png?w=1424 2x"></figure><figure><img loading="lazy" width="670" height="916" src="https://fivethirtyeight.com/wp-content/uploads/2022/10/2022-senate-change-335-2.png" alt="A line chart showing odds for Democrats and Republicans to control the Senate. Democrats currently have a 58-in-100 chance, a noticeable decrease from mid-September." data-src="https://fivethirtyeight.com/wp-content/uploads/2022/10/2022-senate-change-335-2.png" data-srcset="https://fivethirtyeight.com/wp-content/uploads/2022/10/2022-senate-change-335-2.png?w=670 1x, https://fivethirtyeight.com/wp-content/uploads/2022/10/2022-senate-change-335-2.png?w=1340 2x"></figure><p data-paragraph="main">What’s produced this pattern? It’s hard to know whether it reflects the real state of the race or is an artifact of how our model works. The summer produced an unusual streak of favorable developments for Democrats, from the <a href="https://fivethirtyeight.com/features/politics-podcast-republican-outsiders-have-made-their-mark-this-cycle/" target="_blank" rel="noopener">backlash to the Supreme Court’s decision</a> to overturn the constitutional right to abortion, to <a href="https://www.nytimes.com/2022/09/13/business/us-gas-prices-inflation.html" target="_blank" rel="noopener">lower gas prices</a>, to <a href="https://fivethirtyeight.com/features/why-trumps-presence-in-the-midterms-is-risky-for-the-gop/" target="_blank" rel="noopener">former President Donald Trump’s unhelpful involvement</a> in the midterms, to a string of <a href="https://fivethirtyeight.com/features/politics-podcast-could-the-inflation-reduction-act-save-bidens-approval-rating/" target="_blank" rel="noopener">legislative victories for President Biden</a>. There is, of course, a tendency to see patterns in random noise, but it’s as though the coin really did come up heads for Democrats six or seven times in a row.</p>
-
-
-
-<p data-paragraph="main">From a modeling standpoint, another challenge is that Democrats were defying political gravity. The president’s party <a href="https://fivethirtyeight.com/features/why-the-presidents-party-almost-always-has-a-bad-midterm/" target="_blank" rel="noopener">typically performs poorly in the midterms</a>. There <em>have been</em> some exceptions and <a href="https://fivethirtyeight.com/features/will-this-be-an-asterisk-election/" target="_blank" rel="noopener">there <em>is</em> some reason to think this year may be one of them</a>. But the model has been trying to balance polls showing Democrats having a pretty good year against its prior expectation that the electoral environment should be poor for Democrats.</p>
-
-
-
-<p data-paragraph="main">As the election nears, the model relies on its priors less and trusts the polls more, so it was initially skeptical of buying into a post-Dobbs surge for Democrats. Right about the time the model had fully priced in Democrats’ improved polling, though, the news cycle shifted toward a set of stories that were more favorable for Republicans, such as <a href="https://www.vox.com/policy-and-politics/2022/9/22/23365868/desantis-marthas-vineyard-migrants-midterms-border" target="_blank" rel="noopener">immigration</a> and <a href="https://www.nytimes.com/2022/10/13/business/economy/high-inflation.html" target="_blank" rel="noopener">renewed concerns about inflation</a>.</p>
-
-
-
-<p data-paragraph="main">It’s also possible to overstate the case for Republican momentum. Midterm elections <a href="https://fivethirtyeight.com/features/betting-markets-are-treating-the-midterm-elections-like-its-a-presidential-election/" target="_blank" rel="noopener">tend not to turn on a dime</a> in the way that presidential elections sometimes do. And there haven’t been any self-evidently important developments in the news cycle in the past week or so. If you’re one of those people who thinks <a href="https://www.washingtonpost.com/politics/2022/10/18/gas-prices-election-biden/" target="_blank" rel="noopener">gas prices are all-determining of election outcomes</a>, they’ve <a href="https://gasprices.aaa.com/" target="_blank" rel="noopener">even started to come down again slightly</a>.</p>
-
-
-
-<p data-paragraph="main">Rather, this is more a case of now having more evidence to confirm that the Democrats’ summer polling surge wasn’t sustainable.</p>
-
-
-
-<p data-paragraph="main">That doesn’t mean it was fake: In fact, Democrats had a string of <a href="https://fivethirtyeight.com/features/yes-special-elections-really-are-signaling-a-better-than-expected-midterm-for-democrats/" target="_blank" rel="noopener">excellent special election and ballot referendum results</a> in which they met or exceeded their polling. If you’d held the midterms in late August, I’d have bet heavily on Democrats to win the Senate. It sure would be nice to have another special election or two now, and to see how these polling shifts translate into real results. Polls can sometimes change for reasons that don’t reflect the underlying reality of the race, such as because of <a href="https://moeblog.substack.com/p/pollings-new-problem-partisan-non" target="_blank" rel="noopener">partisan nonresponse bias</a> or <a href="https://fivethirtyeight.com/features/heres-proof-some-pollsters-are-putting-a-thumb-on-the-scale/" target="_blank" rel="noopener">pollster herding</a>.</p>
-
-
-
-<p data-paragraph="main">And certainly, Democrats have plenty of paths to retain the Senate. Republicans don’t have any sure-fire pickups; Nevada is the <a href="https://projects.fivethirtyeight.com/2022-election-forecast/senate/nevada/" target="_blank" rel="noopener">most likely</a>, and even there, GOP chances are only 53 percent, according to our forecast. Meanwhile, Democrat John Fetterman is <a href="https://projects.fivethirtyeight.com/polls/senate/2022/pennsylvania/" target="_blank" rel="noopener">still ahead in polls of Pennsylvania</a>, although his margin over Republican Mehmet Oz has narrowed. The model is likely to be quite sensitive to new polling in Pennsylvania going forward. If Democrats gain a seat there, meaning that the GOP would need to flip two Democratic-held seats to take the chamber, that starts to become a tall order. Nevada, sure, but I’m not sure Republicans would want to count on Herschel Walker in Georgia or Blake Masters in Arizona.</p>
-
-
-
-<p data-paragraph="main">But the bottom line is this: If you’d asked me a month ago — or really even a week ago — which party’s position I’d rather be in, I would have said the Democrats. Now, I honestly don’t know.</p>]]></description>
-			<pubDate>Fri, 21 Oct 2022 11:00:00 +0100</pubDate>
-			<guid isPermaLink="false">1666350001201904</guid>
 		</item>
 
 	</channel>
