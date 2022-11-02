@@ -3,9 +3,69 @@
 		<title>Main stream | FreshRSS</title>
 		<link>http://radon</link>
 		<description>RSS feed of Main stream | FreshRSS</description>
-		<pubDate>Wed, 02 Nov 2022 20:59:07 +0000</pubDate>
-		<lastBuildDate>Wed, 02 Nov 2022 20:59:07 GMT</lastBuildDate>
+		<pubDate>Wed, 02 Nov 2022 21:29:07 +0000</pubDate>
+		<lastBuildDate>Wed, 02 Nov 2022 21:29:07 GMT</lastBuildDate>
 		<atom:link href="http://radon/i/?a=rss" rel="self" type="application/rss+xml" />
+		<item>
+			<title>Politics Podcast: There Are At Least Seven Incredibly Close Senate Races</title>
+			<link>https://fivethirtyeight.com/features/politics-podcast-there-are-at-least-seven-incredibly-close-senate-races/</link>
+						<dc:creator>Galen Druke</dc:creator>
+			<dc:creator>FiveThirtyEight</dc:creator>
+			<category>2022 Midterms</category>
+			<category>FiveThirtyEight Podcasts</category>
+			<category>Model Talk</category>
+			<category>Politics Podcast</category>
+			<category>Public Opinion</category>
+			<description><![CDATA[<div data-href="https://fivethirtyeight.com/features/politics-podcast-there-are-at-least-seven-incredibly-close-senate-races/">
+	<div data-podcast-id="347470" data-podcast-duration="0" data-podcast-title="Politics Podcast: There Are At Least Seven Incredibly Close Senate Races">
+
+					<span><span>FiveThirtyEight</span></span>
+			
+		
+		<button aria-label="Play"></button>
+
+					<div>
+		
+		
+							<div>
+					<div>
+						<div></div>
+					</div>
+
+					<div> </div>
+
+					<audio preload="none" controls="controls">
+						<source src="https://www.podtrac.com/pts/redirect.mp3/traffic.megaphone.fm/ESP5188199230.mp3?updated=1667421034">
+					</source></audio>
+				</div>
+			
+					</div>
+		
+	</div>
+</div>
+<aside>
+	<div>
+		More: <a href="https://itunes.apple.com/us/podcast/fivethirtyeight-elections/id1077418457">Apple Podcasts</a> |
+		<span><a data-android-url="" href="http://m.espn.com/general/cast?id=14554755">ESPN App</a> |</span>
+		<a href="https://www.espn.com/espnradio/feeds/rss/podcast.xml?id=14554755">RSS</a>
+			</div>
+	</aside>
+
+
+
+
+<p data-paragraph="main">FiveThirtyEight’s <a rel="noreferrer noopener" href="https://projects.fivethirtyeight.com/2022-election-forecast/senate/" target="_blank">midterms forecast</a> continues to show Democrats and Republicans in a dead heat Senate race, with Republicans taking a very slight advantage. Recent polls have sent some contradictory messages, but the long and short of it is that seven races are now separated by three points or less polling average. Nate Silver and Galen Druke discuss what to make of it in this installment of “Model Talk” for the <a rel="noreferrer noopener" href="https://fivethirtyeight.com/tag/politics-podcast/" target="_blank">FiveThirtyEight Politics podcast</a>. They also answer listener questions and ponder whether analysts actually believe the polls anymore.</p>
+
+
+
+<p data-paragraph="main"><em>You can listen to the episode by clicking the “play” button in the audio player above or by </em><a href="https://itunes.apple.com/us/podcast/fivethirtyeight-elections/id1077418457?mt=2" target="_blank" rel="noopener"><em>downloading it in iTunes</em></a><em>, the </em><a href="http://www.espn.com/espn/mobile/products/products/_/id/6857590" target="_blank" rel="noopener"><em>ESPN App</em></a><em> or your favorite podcast platform. If you are new to podcasts, </em><a href="https://fivethirtyeight.com/how-to-listen-to-fivethirtyeight-podcasts/" target="_blank" rel="noopener"><em>learn how to listen</em></a><em>.</em></p>
+
+
+
+<p data-paragraph="main"><em>The FiveThirtyEight Politics podcast is recorded Mondays and Thursdays. Help new listeners discover the show by </em><a href="https://itunes.apple.com/us/podcast/fivethirtyeight-elections/id1077418457?mt=2" target="_blank" rel="noopener"><em>leaving us a rating and review on iTunes</em></a><em>. Have a comment, question or suggestion for “good polling vs. bad polling”? Get in touch by email, </em><a href="https://twitter.com/FiveThirtyEight" target="_blank" rel="noopener"><em>on Twitter</em></a><em> or in the comments.</em></p>]]></description>
+			<pubDate>Wed, 02 Nov 2022 20:26:00 +0000</pubDate>
+			<guid isPermaLink="false">1667422801938352</guid>
+		</item>
 		<item>
 			<title>The Case For A Republican Sweep On Election Night</title>
 			<link>https://fivethirtyeight.com/features/the-case-for-a-republican-sweep-on-election-night/</link>
@@ -3365,211 +3425,6 @@
 <p data-paragraph="main"><em>The FiveThirtyEight Politics podcast is recorded Mondays and Thursdays. Help new listeners discover the show by </em><a href="https://itunes.apple.com/us/podcast/fivethirtyeight-elections/id1077418457?mt=2" target="_blank" rel="noopener"><em>leaving us a rating and review on iTunes</em></a><em>. Have a comment, question or suggestion for “good polling vs. bad polling”? Get in touch by email, </em><a href="https://twitter.com/FiveThirtyEight" target="_blank" rel="noopener"><em>on Twitter</em></a><em> or in the comments.</em></p>]]></description>
 			<pubDate>Mon, 24 Oct 2022 23:36:00 +0100</pubDate>
 			<guid isPermaLink="false">1666651501905624</guid>
-		</item>
-		<item>
-			<title>The Polls Are Getting Better For Republicans</title>
-			<link>https://fivethirtyeight.com/features/gop-polls/</link>
-						<dc:creator>Nathaniel Rakich</dc:creator>
-			<dc:creator>Nathaniel Rakich</dc:creator>
-			<category>2022 Election</category>
-			<category>2022 Midterms</category>
-			<category>Democrats</category>
-			<category>Election Update</category>
-			<category>Generic Ballot</category>
-			<category>Polling</category>
-			<category>Polls</category>
-			<category>Republicans</category>
-			<description><![CDATA[<div>
-
-			<div>
-
-				<header><div>
-													<p><a href="https://fivethirtyeight.com/tag/2022-election/" name="">2022 Election</a></p>
-						
-													<h1>The Polls Are Getting Better For Republicans</h1>
-																			<h2>It is a midterm year after all.</h2>
-											</div>
-
-										<div>
-						<div>
-															<p>By <a href="https://fivethirtyeight.com/contributors/nathaniel-rakich/" title="" rel="author">Nathaniel Rakich</a></p>
-																					<p>
-								<time>
-									Oct. 24, 2022, at 6:04 PM								</time></p>
-						</div>
-						<div>
-													</div> 
-					</div>
-					
-				</header><figure><span>
-									<div>
-						<picture><source media="(min-width: 768px)"><source><img alt="2022-ELECTIONUPDATE-1025-POLLS-4×3" src="https://fivethirtyeight.com/wp-content/uploads/2022/10/2022-ELECTIONUPDATE-1025-POLLS-4x3-1.png?w=916" data-sizes="(max-width: 768px) 100vw, (max-width: 1080px) 66vw, 684px" data-src="https://fivethirtyeight.com/wp-content/uploads/2022/10/2022-ELECTIONUPDATE-1025-POLLS-4x3-1.png?w=916" data-srcset="https://fivethirtyeight.com/wp-content/uploads/2022/10/2022-ELECTIONUPDATE-1025-POLLS-4x3-1.png?w=916 1x, https://fivethirtyeight.com/wp-content/uploads/2022/10/2022-ELECTIONUPDATE-1025-POLLS-4x3-1.png?w=1832 2x"></source></source></picture></div>
-
-				
-			</span>
-
-			
-								<figcaption><p>ILLUSTRATION BY FIVETHIRTYEIGHT</p>
-											</figcaption></figure></div>
-
-			
-		</div>
-
-
-
-
-
-<p data-paragraph="main">For months, Democrats were defying midterm gravity. Now, it looks like they may be coming back down to earth.</p>
-
-
-
-<p data-paragraph="main">The president’s party <a href="https://fivethirtyeight.com/features/why-the-presidents-party-almost-always-has-a-bad-midterm/" target="_blank" rel="noopener">almost always does poorly in midterm elections</a>, and early in the year, it looked like that trend would hold true in 2022. But after the Supreme Court overturned the constitutional right to an abortion in its Dobbs v. Jackson Women’s Health Organization case, Democrats experienced a boost in the polls. </p>
-
-
-
-<p data-paragraph="main">The generic congressional ballot is a poll question that asks people nationwide which party they plan to vote for for Congress (without naming specific candidates). And as recently as Oct. 13, Democrats led by 1.1 percentage points in FiveThirtyEight’s <a href="https://projects.fivethirtyeight.com/polls/generic-ballot/" target="_blank" rel="noopener">generic congressional ballot polling average</a>. Now, however, Republicans lead in this polling average by 0.5 points,<a data-footnote-id="36" href="https://fivethirtyeight.com/wp-json/wp/v2/espn_verticals/398#fn-36" data-footnote-content="&lt;p&gt;&lt;p&gt;All numbers in this article are as of Oct. 24 at 5:30 p.m. Eastern.&lt;/p&gt;
-&lt;/p&gt;"><sup>36</sup></a> suggesting the national mood has turned back toward the GOP. </p>
-
-
-
-<figure><img loading="lazy" width="1422" height="920" src="https://fivethirtyeight.com/wp-content/uploads/2022/10/generic-ballot-polls-711-2-1.png" alt="" data-src="https://fivethirtyeight.com/wp-content/uploads/2022/10/generic-ballot-polls-711-2-1.png" data-srcset="https://fivethirtyeight.com/wp-content/uploads/2022/10/generic-ballot-polls-711-2-1.png?w=712 1x, https://fivethirtyeight.com/wp-content/uploads/2022/10/generic-ballot-polls-711-2-1.png?w=1424 2x"></figure><figure><img loading="lazy" width="670" height="920" src="https://fivethirtyeight.com/wp-content/uploads/2022/10/generic-ballot-polls-335-2-1.png" alt="" data-src="https://fivethirtyeight.com/wp-content/uploads/2022/10/generic-ballot-polls-335-2-1.png" data-srcset="https://fivethirtyeight.com/wp-content/uploads/2022/10/generic-ballot-polls-335-2-1.png?w=670 1x, https://fivethirtyeight.com/wp-content/uploads/2022/10/generic-ballot-polls-335-2-1.png?w=1340 2x"></figure><figure><img alt=""></figure><p data-paragraph="main">Individual polls mostly confirm this movement. I compared generic-ballot polls with a <a href="https://projects.fivethirtyeight.com/pollster-ratings/" target="_blank" rel="noopener">FiveThirtyEight pollster rating</a> of B+ or higher from October to the same polls conducted in September. On average, they showed a 1.2-point shift toward Republicans. This included shifts of 4 points from two of the best pollsters in the business, <a href="https://www.monmouth.edu/polling-institute/documents/monmouthpoll_us_102022.pdf/" target="_blank" rel="noopener">Monmouth University</a> and <a href="https://www.nytimes.com/2022/10/17/us/politics/republicans-economy-nyt-siena-poll.html" target="_blank" rel="noopener">Siena College/The New York Times Upshot</a>.</p>
-
-
-<div>
-<section><header><h2>Generic-ballot polls are moving toward the GOP</h2>
- <p>September and October polls of the generic congressional ballot conducted by pollsters with FiveThirtyEight pollster ratings of at least B+</p>
- </header><table data-carpenter-slug="rakich.gop-rebound.1"><thead><tr><th colspan="1" scope="col">Pollster</th>
- <th colspan="1" scope="col">Pop.</th>
- <th colspan="1" scope="col">September Poll</th>
- <th colspan="1" scope="col">October Poll</th>
- <th colspan="1" scope="col">Change</th>
- </tr></thead><tbody><tr><td>TIPP Insights</td>
- <td>RV</td>
- <td>D+2</td>
- <td>D+1</td>
- <td>R+1</td>
- </tr><tr><td>YouGov/The Economist</td>
- <td>LV</td>
- <td>R+1</td>
- <td>R+1</td>
- <td>—</td>
- </tr><tr><td>YouGov/Yahoo News</td>
- <td>RV</td>
- <td>D+4</td>
- <td>D+2</td>
- <td>R+2</td>
- </tr><tr><td>Monmouth University</td>
- <td>RV</td>
- <td>R+2</td>
- <td>R+6</td>
- <td>R+4</td>
- </tr><tr><td>Hart Research/Public Opinion Strategies/NBC News</td>
- <td>RV</td>
- <td>EVEN</td>
- <td>D+1</td>
- <td>D+1</td>
- </tr><tr><td>YouGov/CBS News</td>
- <td>LV</td>
- <td>R+1</td>
- <td>R+2</td>
- <td>R+1</td>
- </tr><tr><td>Harris/Harvard</td>
- <td>RV</td>
- <td>D+2</td>
- <td>EVEN</td>
- <td>R+2</td>
- </tr><tr><td>Trafalgar Group</td>
- <td>LV</td>
- <td>R+6</td>
- <td>R+5</td>
- <td>D+1</td>
- </tr><tr><td>Siena/New York Times Upshot</td>
- <td>LV</td>
- <td>D+1</td>
- <td>R+3</td>
- <td>R+4</td>
- </tr><tr><td>Fox News</td>
- <td>RV</td>
- <td>D+3</td>
- <td>D+3</td>
- <td>—</td>
- </tr><tr><td>Average</td>
- <td></td>
- <td></td>
- <td></td>
- <td>R+1</td>
- </tr></tbody></table><footer><p>If a pollster conducted multiple polls in either September or October, the most recent poll was used.</p>
- <p>Source: Polls</p>
- </footer></section></div>
-
-
-<p data-paragraph="main">This change has affected FiveThirtyEight’s midterm forecasts too. Democrats’ chances of <a href="https://projects.fivethirtyeight.com/2022-election-forecast/senate/" target="_blank" rel="noopener">holding onto Senate control</a> have fallen from 66-in-100 on Oct. 13 to 55-in-100 today. And Republicans have gone from having a 69-in-100 chance of <a href="https://projects.fivethirtyeight.com/2022-election-forecast/house/" target="_blank" rel="noopener">flipping the House</a> on Oct. 13 to an 80-in-100 chance today.</p>
-
-
-
-<figure><img loading="lazy" width="1422" height="808" src="https://fivethirtyeight.com/wp-content/uploads/2022/10/image.png" alt="" data-src="https://fivethirtyeight.com/wp-content/uploads/2022/10/image.png" data-srcset="https://fivethirtyeight.com/wp-content/uploads/2022/10/image.png?w=712 1x, https://fivethirtyeight.com/wp-content/uploads/2022/10/image.png?w=1424 2x"></figure><figure><img loading="lazy" width="670" height="916" src="https://fivethirtyeight.com/wp-content/uploads/2022/10/image-1-1.png" alt="Line chart of how each party's forecasted change of winning the House have changed over time, according to the FiveThirtyEight deluxe forecast. The latest forecast shows Republicans with a 80 in 100 chance to win the chamber, and Democrats with a 20 in 100 chance to win." data-src="https://fivethirtyeight.com/wp-content/uploads/2022/10/image-1-1.png" data-srcset="https://fivethirtyeight.com/wp-content/uploads/2022/10/image-1-1.png?w=670 1x, https://fivethirtyeight.com/wp-content/uploads/2022/10/image-1-1.png?w=1340 2x"></figure><p data-paragraph="main">Republicans’ chances in the House have risen that high because the forecast expects the final margin to be even better for Republicans than the generic-ballot polls currently suggest. The forecast projects that, on average, Republicans will win the national popular vote for the House by 4.0 points.</p>
-
-
-
-<p data-paragraph="main">How does the forecast get from 0.5 points to 4.0 points? For one thing, Democrats aren’t fielding a candidate in 23 House districts this year, so they won’t get any votes there. In comparison, there are only 14 districts where Republicans aren’t fielding a candidate. However, all the uncontested districts were already safe for the other party, so this shouldn’t affect the seat breakdown.</p>
-
-
-
-<p data-paragraph="main">In addition, our average of generic-ballot polls includes polls of adults, registered voters and likely voters. But if you’re interested in who will win an election, you’re most interested in the polls of likely voters. And likely voter polls tend to be <a href="https://fivethirtyeight.com/features/registered-voter-polls-will-usually-overrate-democrats/" target="_blank" rel="noopener">better for Republicans</a> than the other two types. For example, if we were to calculate a generic-ballot polling average using only likely voter polls, Republicans would lead by 1.1 points, not 0.5. And here are the four most recent generic-ballot polls that have released numbers among both registered voters and likely voters:</p>
-
-
-<div>
-<section><header><h2>Likely voter polls tend to be more Republican</h2>
- <p>The four most recent polls of the generic congressional ballot that released numbers among both registered and likely voters</p>
- </header><table data-carpenter-slug="rakich.gop-rebound.2"><thead><tr><th colspan="1" scope="col">Pollster</th>
- <th colspan="1" scope="col">Dates</th>
- <th colspan="1" scope="col">RV Poll</th>
- <th colspan="1" scope="col">LV Poll</th>
- <th colspan="1" scope="col">Shift</th>
- </tr></thead><tbody><tr><td>Hart Research/Public Opinion Strategies/NBC News</td>
- <td>Oct. 14-18</td>
- <td>D+1</td>
- <td>R+1</td>
- <td>R+2</td>
- </tr><tr><td>YouGov/The Economist</td>
- <td>Oct. 16-18</td>
- <td>D+1</td>
- <td>R+1</td>
- <td>R+2</td>
- </tr><tr><td>Harris/Harvard</td>
- <td>Oct. 12-13</td>
- <td>EVEN</td>
- <td>R+6</td>
- <td>R+6</td>
- </tr><tr><td>Siena/New York Times Upshot</td>
- <td>Oct. 9-12</td>
- <td>R+1</td>
- <td>R+3</td>
- <td>R+2</td>
- </tr></tbody></table><footer><p>Source: Polls</p>
- </footer></section></div>
-
-
-<p data-paragraph="main">Finally, generic-ballot polling historically tends to get worse for the president’s party as the election approaches. The graph below shows how the FiveThirtyEight generic-ballot polling average<a data-footnote-id="37" href="https://fivethirtyeight.com/wp-json/wp/v2/espn_verticals/398#fn-37" data-footnote-content="&lt;p&gt;&lt;p&gt;Calculated retroactively for 2006, 2010 and 2014, since we only debuted the modern version of our generic-ballot average in 2018.&lt;/p&gt;
-&lt;/p&gt;"><sup>37</sup></a> shifted in the last 90 days of the 2006, 2010, 2014 and 2018 midterms. As you can see, the president’s party lost ground in the final month of every year but 2018.</p>
-
-
-
-<p data-paragraph="main"></p><div><iframe title="The president's party tends to stumble in the home stretch" aria-label="Interactive line chart" src="https://datawrapper.dwcdn.net/U5fBR/4/" scrolling="no" frameborder="0" height="500" sandbox="allow-scripts allow-same-origin"></iframe></div>
-
-
-
-<p data-paragraph="main">Of course, we’re only two weeks away from Election Day, and millions of Americans have already <a href="https://rpubs.com/ElectProject/early_vote_2022" target="_blank" rel="noopener">voted early or absentee</a>, but there is still time for polls to get better for Republicans. On average, in 2006, 2010, 2014 and 2018, the generic-ballot margin got 1.2 points worse for the president’s party in the final 15 days.</p>
-
-
-
-<p data-paragraph="main">But that doesn’t mean the Dobbs decision didn’t make a difference. Take another look at that graph. The 2022 line (along with the 2014 line) is at the very top of the chart. In other words, Democrats may lose ground from here on out, but they are starting from a higher baseline than usual. And without the boost Democrats received over the summer, we may have been forecasting a so-called “red wave” — a Republican landslide of 6-10 points. While the possibility of another polling error in Republicans’ favor means that outcome is still on the table, it’s more likely that 2022 will be a more modest Republican victory. For Democrats, it could have been a lot worse.</p>
-
-
-
-<p data-paragraph="main"><em>Aaron Bycoffe contributed research.</em></p>]]></description>
-			<pubDate>Mon, 24 Oct 2022 23:04:00 +0100</pubDate>
-			<guid isPermaLink="false">1666651501905623</guid>
 		</item>
 
 	</channel>
