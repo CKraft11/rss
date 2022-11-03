@@ -3,8 +3,8 @@
 		<title>Main stream | FreshRSS</title>
 		<link>http://radon</link>
 		<description>RSS feed of Main stream | FreshRSS</description>
-		<pubDate>Thu, 03 Nov 2022 14:29:07 +0000</pubDate>
-		<lastBuildDate>Thu, 03 Nov 2022 14:29:07 GMT</lastBuildDate>
+		<pubDate>Thu, 03 Nov 2022 14:59:06 +0000</pubDate>
+		<lastBuildDate>Thu, 03 Nov 2022 14:59:06 GMT</lastBuildDate>
 		<atom:link href="http://radon/i/?a=rss" rel="self" type="application/rss+xml" />
 		<item>
 			<title>What Happens If Georgia’s Senate Race Goes To A Runoff — Again?</title>
@@ -71,7 +71,7 @@
 
 
 
-<p data-paragraph="main">So Walker wins by the narrowest of margins … right? Not so fast. As it turns out, 49.3 percent of the vote wouldn’t be enough for him to win outright. <a href="https://codes.findlaw.com/ga/title-21-elections/ga-code-sect-21-2-501.html" target="_blank" rel="noopener">Georgia law</a> mandates that candidates must receive a majority of the vote in order to win an election; if no one does so, the top-two finishers advance to <a href="https://www.sos.ga.gov/sites/default/files/forms/2022%20State%20Scheduled%20Elections%20Short%20Calendar.pdf" target="_blank" rel="noopener">a runoff election on Dec. 6</a>. Oliver’s presence on the ballot complicates things because he could, theoretically, siphon votes from both candidates and prevent Walker or Warnock from reaching the 50 percent threshold required to win on the first ballot. And with the tightening of the race, it’s looking increasingly likely that the Georgia Senate race will head to a runoff — <a href="https://fivethirtyeight.com/features/how-democrats-won-the-georgia-runoffs/" target="_blank" rel="noopener">again</a>. That could give Walker or Warnock a second chance to win even if neither gets the most votes on Nov. 8.</p>
+<p data-paragraph="main">So Walker wins by the narrowest of margins … right? Not so fast. As it turns out, 49.3 percent of the vote wouldn’t be enough for him to win outright. <a href="https://codes.findlaw.com/ga/title-21-elections/ga-code-sect-21-2-501.html" target="_blank" rel="noopener">Georgia law</a> mandates that candidates must receive a majority of the vote in order to win an election; if no one does so, the top-two finishers advance to <a href="https://www.sos.ga.gov/sites/default/files/forms/2022%20State%20Scheduled%20Elections%20Short%20Calendar.pdf" target="_blank" rel="noopener">a runoff election on Dec. 6</a>. Oliver’s presence on the ballot complicates things because he could, theoretically, siphon votes from both candidates and prevent Walker or Warnock from reaching the 50 percent threshold required to win on the first ballot. And with the tightening of the race, it’s looking increasingly likely that the Georgia Senate race will head to a runoff — <a href="https://fivethirtyeight.com/features/how-democrats-won-the-georgia-runoffs/" target="_blank" rel="noopener">again</a>. That could give Walker or Warnock a second chance to win.</p>
 
 
 
@@ -183,7 +183,11 @@
 
 
 
-<p data-paragraph="main"><em>Nathaniel Rakich contributed research.</em></p>]]></description>
+<p data-paragraph="main"><em>Nathaniel Rakich contributed research.</em></p>
+
+
+
+<p data-paragraph="main"><strong>CLARIFICATION (Nov. 3, 2022, 10:05 a.m.):</strong> A previous version of this story suggested that if neither Warnock nor Walker got the most votes, they would have a second chance to win. This phrasing suggested that the third-party candidate in the race would get the most votes, which is extremely unlikely. It is more a matter of whether Warnock or Walker gets a majority of the overall vote.</p>]]></description>
 			<pubDate>Thu, 03 Nov 2022 10:00:00 +0000</pubDate>
 			<guid isPermaLink="false">1667472301080986</guid>
 		</item>
@@ -1628,16 +1632,36 @@
 
 
 
-<p data-paragraph="main">After then-President Donald Trump’s speech on Jan. 6, 2021, some of his supporters left his rally and smashed their way into the U.S. Capitol building, and now <a href="https://www.insider.com/all-the-us-capitol-pro-trump-riot-arrests-charges-names-2021-1" target="_blank" rel="noopener">nearly a thousand of them are facing charges</a>. But some in the crowd that day have gone on to try to enter the Capitol the old-fashioned way: by running for Congress. </p>
+<p data-paragraph="main"><strong>UPDATE (Nov. 3, 2022, 10:15 a.m.):</strong> This story has been updated to include Leon Benjamin Jr. and Dan Cox, after FiveThirtyEight confirmed both candidates said they attended the Jan. 6 rally.</p>
 
 
 
-<p data-paragraph="main">There are at least nine GOP candidates running for Senate, House and governor seats this fall who were in attendance at the Jan. 6 rally, according to FiveThirtyEight’s database. Their attendance indicates an extreme acceptance of Trump’s inaccurate claims of a stolen election. Of those nine, just one is running in a race that is either likely or solidly Republican, according to <a href="https://projects.fivethirtyeight.com/2022-election-forecast/" target="_blank" rel="noopener">our Deluxe forecast</a>. Here’s a closer look at each of those nine candidates, including what we know about their activities that day and how likely they are to win their election, as of Monday at 12 p.m. Eastern. (All data in this article is as of this date and time.)</p>
+<p data-paragraph="main">After then-President Donald Trump’s speech on Jan. 6, 2021, some of his supporters left his rally and smashed their way into the U.S. Capitol building, and now <a href="https://www.insider.com/all-the-us-capitol-pro-trump-riot-arrests-charges-names-2021-1" target="_blank" rel="noopener">nearly a thousand of them are facing charges</a>. But some in the crowd that day have gone on to try to enter the Capitol the old-fashioned way: by running for Congress. </p>
+
+
+
+<p data-paragraph="main">There are at least 11 GOP candidates running for Senate, House and governor seats this fall who were in attendance at the Jan. 6 rally, according to FiveThirtyEight’s database. Their attendance indicates an extreme acceptance of Trump’s inaccurate claims of a stolen election. Of those 11, just one is running in a race that is either likely or solidly Republican, according to <a href="https://projects.fivethirtyeight.com/2022-election-forecast/" target="_blank" rel="noopener">our Deluxe forecast</a>. Here’s a closer look at each of those 11 candidates, including what we know about their activities that day and how likely they are to win their election, as of Monday at 12 p.m. Eastern. (All data in this article is as of this date and time.)</p>
 
 
 
 <div><hr><span></span></div>
 
+
+
+
+<h2><strong>Leon Benjamin Sr.: Virginia’s 4th District</strong></h2>
+
+
+
+<p data-paragraph="main">Benjamin, a pastor and military veteran, attended Trump’s speech on Jan. 6 and joined crowds outside of the Capitol, according to <a href="https://www.facebook.com/LeonBenjaminVA4/posts/232560558273020" target="_blank" rel="noopener">photos</a> he posted to social media the next day. Benjamin challenged Democratic incumbent Rep. Donald McEachin for this seat in 2020 but lost <a href="https://historical.elections.virginia.gov/elections/search/year_from:2020/year_to:2020/office_id:5/district_id:27257/stage:General" target="_blank" rel="noopener">by 23 percentage points</a>. He was <a href="https://www.progress-index.com/story/news/2020/06/28/richmond-pastor-picked-to-be-4th-district-gop-candidate/112169704/" target="_blank" rel="noopener">named the Republican candidate</a> once again during a nominating convention in June but will likely face a similar outcome next week. Our forecast gives Benjamin <a href="https://projects.fivethirtyeight.com/2022-election-forecast/house/virginia/4/" target="_blank" rel="noopener">a less than 1-in-100</a> chance of winning. </p>
+
+
+
+<h2><strong>Dan Cox: Maryland governor</strong></h2>
+
+
+
+<p data-paragraph="main">Cox, a Republican representative in the Maryland House of Delegates, <a href="https://www.youtube.com/watch?v=ko_0iA6wkEM" target="_blank" rel="noopener">attended the Jan. 6 rally with seven of his children</a>, though he says he did not participate in the attack on the Capitol. However, during the riot, he did <a href="https://www.marylandmatters.org/2021/01/08/after-traitor-tweet-cox-denounces-mob-violence-at-u-s-capitol/" target="_blank" rel="noopener">tweet that former Vice President Mike Pence was a traitor</a>. Our forecast gives Cox <a href="https://projects.fivethirtyeight.com/2022-election-forecast/governor/maryland/" target="_blank" rel="noopener">a less than 1-in-100 chance</a> of winning Maryland’s gubernatorial race.</p>
 
 
 
@@ -1725,10 +1749,6 @@
 
 
 <p data-paragraph="main">Stay tuned for our coverage of the races featuring Jan. 6 attendees — in addition to all candidates who have denied the legitimacy of the 2020 election — in the days and weeks ahead.</p>
-
-
-
-<p data-paragraph="main"></p>
 
 
 
