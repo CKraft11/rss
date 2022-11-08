@@ -3,9 +3,35 @@
 		<title>Main stream | FreshRSS</title>
 		<link>http://radon</link>
 		<description>RSS feed of Main stream | FreshRSS</description>
-		<pubDate>Tue, 08 Nov 2022 15:29:07 +0000</pubDate>
-		<lastBuildDate>Tue, 08 Nov 2022 15:29:07 GMT</lastBuildDate>
+		<pubDate>Tue, 08 Nov 2022 15:59:06 +0000</pubDate>
+		<lastBuildDate>Tue, 08 Nov 2022 15:59:06 GMT</lastBuildDate>
 		<atom:link href="http://radon/i/?a=rss" rel="self" type="application/rss+xml" />
+		<item>
+			<title>2022 Election: Live Analysis and Results</title>
+			<link>https://fivethirtyeight.com/live-blog/2022-midterm-election/</link>
+						<dc:creator>FiveThirtyEight</dc:creator>
+			<dc:creator>FiveThirtyEight</dc:creator>
+			<category>2022 Election</category>
+			<category>2022 Governors Elections</category>
+			<category>2022 House Elections</category>
+			<category>2022 Midterms</category>
+			<category>2022 Senate Elections</category>
+			<category>Attorney General</category>
+			<category>Ballot Initiatives</category>
+			<category>Donald Trump</category>
+			<category>Election Results</category>
+			<category>Exit Polls</category>
+			<category>Joe Biden</category>
+			<category>Nate Silver</category>
+			<category>Polling</category>
+			<category>Polls</category>
+			<category>Secretary Of State</category>
+			<category>Swing States</category>
+			<category>Voter Turnout</category>
+			<description><![CDATA[]]></description>
+			<pubDate>Tue, 08 Nov 2022 15:00:00 +0000</pubDate>
+			<guid isPermaLink="false">1667921400580802</guid>
+		</item>
 		<item>
 			<title>Final Forecast: Republicans Are Favored To Win The House</title>
 			<link>https://fivethirtyeight.com/features/final-2022-house-forecast/</link>
@@ -2465,19 +2491,19 @@ Reporting errors, or instances where results are released and then un-released, 
 
 
 
-<p data-paragraph="main">In 2018, Democrats flipped five Republican-held seats in and around the Los Angeles and San Diego metropolitan areas, including four that contained parts of or were entirely within Orange County, the <a href="https://fullertonobserver.com/2020/01/03/remembering-nixonland-how-the-modern-rep" target="_blank" rel="noopener">historic base of the California GOP</a>. But in 2020, Republicans won back three of those five seats, and this year — in an electoral environment that generally favors them — they’re hoping to not only hold onto those seats, but also capture more districts being defended by Democratic incumbents in Southern California.<a data-footnote-id="18" href="https://fivethirtyeight.com/wp-json/wp/v2/espn_verticals/398#fn-18" data-footnote-content="&lt;p&gt;&lt;p&gt;For our purposes, we’re defining Southern California as everything south of San Luis Obispo, Kern and San Bernardino counties, inclusive of those counties, which run west to east across the state. The districts we examined here are located entirely in this region.&lt;/p&gt;
-&lt;/p&gt;"><sup>18</sup></a></p>
+<p data-paragraph="main">In 2018, Democrats flipped five Republican-held seats in and around the Los Angeles and San Diego metropolitan areas, including four that contained parts of or were entirely within Orange County, the <a href="https://fullertonobserver.com/2020/01/03/remembering-nixonland-how-the-modern-rep" target="_blank" rel="noopener">historic base of the California GOP</a>. But in 2020, Republicans won back three of those five seats, and this year — in an electoral environment that generally favors them — they’re hoping to not only hold onto those seats, but also capture more districts being defended by Democratic incumbents in Southern California.<a data-footnote-id="20" href="https://fivethirtyeight.com/wp-json/wp/v2/espn_verticals/398#fn-20" data-footnote-content="&lt;p&gt;&lt;p&gt;For our purposes, we’re defining Southern California as everything south of San Luis Obispo, Kern and San Bernardino counties, inclusive of those counties, which run west to east across the state. The districts we examined here are located entirely in this region.&lt;/p&gt;
+&lt;/p&gt;"><sup>20</sup></a></p>
 
 
 
-<p data-paragraph="main"><a href="https://projects.fivethirtyeight.com/redistricting-2022-maps/california/" target="_blank" rel="noopener">Following redistricting</a>, however, there are no surefire pickups for the GOP, as the potentially endangered Democratic incumbents in the region are defending seats that are at least 5 percentage points more Democratic-leaning than the country as a whole, according to FiveThirtyEight’s partisan lean.<a data-footnote-id="19" href="https://fivethirtyeight.com/wp-json/wp/v2/espn_verticals/398#fn-19" data-footnote-content="&lt;p&gt;&lt;p&gt;Partisan lean is the average margin difference between how a state or district votes and how the country votes overall. This version of partisan lean, meant to be used for congressional and gubernatorial elections, is calculated as 50 percent the state or district’s lean relative to the nation in the most recent presidential election, 25 percent its relative lean in the second-most-recent presidential election and 25 percent a custom state-legislative lean based on the statewide popular vote in the last four state House elections.&lt;/p&gt;
-&lt;/p&gt;"><sup>19</sup></a> As things stand, the Democrats in those seats are favored to win reelection. However, we’ve seen things <a href="https://projects.fivethirtyeight.com/polls/generic-ballot/" target="_blank" rel="noopener">continue to improve for the GOP nationally</a>: <a href="https://projects.fivethirtyeight.com/2022-election-forecast/house/" target="_blank" rel="noopener">FiveThirtyEight’s 2022 midterm forecast</a> now gives Republicans an 85-in-100 shot<a data-footnote-id="20" href="https://fivethirtyeight.com/wp-json/wp/v2/espn_verticals/398#fn-20" data-footnote-content="&lt;p&gt;&lt;p&gt;All figures in this story are based on the “Deluxe” forecast as of 5 p.m. Eastern on Nov. 3.&lt;/p&gt;
-&lt;/p&gt;"><sup>20</sup></a> of winning a majority in the House. Under these circumstances, the upper-end range of outcomes for the GOP could include wins in <a href="https://fivethirtyeight.com/features/2022-polling-error/" target="_blank" rel="noopener">some blue-leaning seats</a> in Southern California.</p>
+<p data-paragraph="main"><a href="https://projects.fivethirtyeight.com/redistricting-2022-maps/california/" target="_blank" rel="noopener">Following redistricting</a>, however, there are no surefire pickups for the GOP, as the potentially endangered Democratic incumbents in the region are defending seats that are at least 5 percentage points more Democratic-leaning than the country as a whole, according to FiveThirtyEight’s partisan lean.<a data-footnote-id="21" href="https://fivethirtyeight.com/wp-json/wp/v2/espn_verticals/398#fn-21" data-footnote-content="&lt;p&gt;&lt;p&gt;Partisan lean is the average margin difference between how a state or district votes and how the country votes overall. This version of partisan lean, meant to be used for congressional and gubernatorial elections, is calculated as 50 percent the state or district’s lean relative to the nation in the most recent presidential election, 25 percent its relative lean in the second-most-recent presidential election and 25 percent a custom state-legislative lean based on the statewide popular vote in the last four state House elections.&lt;/p&gt;
+&lt;/p&gt;"><sup>21</sup></a> As things stand, the Democrats in those seats are favored to win reelection. However, we’ve seen things <a href="https://projects.fivethirtyeight.com/polls/generic-ballot/" target="_blank" rel="noopener">continue to improve for the GOP nationally</a>: <a href="https://projects.fivethirtyeight.com/2022-election-forecast/house/" target="_blank" rel="noopener">FiveThirtyEight’s 2022 midterm forecast</a> now gives Republicans an 85-in-100 shot<a data-footnote-id="22" href="https://fivethirtyeight.com/wp-json/wp/v2/espn_verticals/398#fn-22" data-footnote-content="&lt;p&gt;&lt;p&gt;All figures in this story are based on the “Deluxe” forecast as of 5 p.m. Eastern on Nov. 3.&lt;/p&gt;
+&lt;/p&gt;"><sup>22</sup></a> of winning a majority in the House. Under these circumstances, the upper-end range of outcomes for the GOP could include wins in <a href="https://fivethirtyeight.com/features/2022-polling-error/" target="_blank" rel="noopener">some blue-leaning seats</a> in Southern California.</p>
 
 
 
-<p data-paragraph="main">Beyond the political environment, Republicans could make inroads in these districts because they <a href="https://www.latimes.com/california/story/2020-11-07/orange-county-went-for-biden-but-the-blue-wave-might-all-but-disappear" target="_blank" rel="noopener">aren’t necessarily as blue as they seem</a> based on <a href="https://about.bgov.com/news/four-california-districts-split-tickets-for-president-congress/" target="_blank" rel="noopener">the 2020 presidential vote</a> alone. That’s because some voters in this region are still more inclined to vote Republican down-ballot. Looking at House incumbents running in potentially competitive seats,<a data-footnote-id="21" href="https://fivethirtyeight.com/wp-json/wp/v2/espn_verticals/398#fn-21" data-footnote-content="&lt;p&gt;&lt;p&gt;To be more inclusive, we included any seat with a partisan lean between D+20 and R+20.&lt;/p&gt;
-&lt;/p&gt;"><sup>21</sup></a> we can see how this played out in 2020, as the Democratic incumbents mostly ran behind President Biden and the Republican incumbents ran ahead of former President Donald Trump, as the table below shows.</p>
+<p data-paragraph="main">Beyond the political environment, Republicans could make inroads in these districts because they <a href="https://www.latimes.com/california/story/2020-11-07/orange-county-went-for-biden-but-the-blue-wave-might-all-but-disappear" target="_blank" rel="noopener">aren’t necessarily as blue as they seem</a> based on <a href="https://about.bgov.com/news/four-california-districts-split-tickets-for-president-congress/" target="_blank" rel="noopener">the 2020 presidential vote</a> alone. That’s because some voters in this region are still more inclined to vote Republican down-ballot. Looking at House incumbents running in potentially competitive seats,<a data-footnote-id="23" href="https://fivethirtyeight.com/wp-json/wp/v2/espn_verticals/398#fn-23" data-footnote-content="&lt;p&gt;&lt;p&gt;To be more inclusive, we included any seat with a partisan lean between D+20 and R+20.&lt;/p&gt;
+&lt;/p&gt;"><sup>23</sup></a> we can see how this played out in 2020, as the Democratic incumbents mostly ran behind President Biden and the Republican incumbents ran ahead of former President Donald Trump, as the table below shows.</p>
 
 
 <div>
@@ -2555,8 +2581,8 @@ Reporting errors, or instances where results are released and then un-released, 
  </footer></section></div>
 
 
-<p data-paragraph="main">This degree of Democratic underperformance was atypical. Across the country, Democratic incumbents in the House ran about even with Biden in 2020, on average, although there were plenty who clearly ran ahead or behind him.<a data-footnote-id="22" href="https://fivethirtyeight.com/wp-json/wp/v2/espn_verticals/398#fn-22" data-footnote-content="&lt;p&gt;&lt;p&gt;Based on an analysis of the two-party vote for president and House in 178 districts with Democratic incumbents running that had House candidates from both parties who combined to win at least 95 percent of the vote.&lt;/p&gt;
-&lt;/p&gt;"><sup>22</sup></a> But in Southern California, Democratic Reps. Mike Levin, Katie Porter and Julia Brownley all ran 4 to 7 points behind Biden, while only Rep. Raul Ruiz ran ahead of the now-president among the Democratic incumbents we’re looking at here. Meanwhile, most of the Republican incumbents in this group ran ahead of Trump, including the three Republicans who won back Democratic-held seats in 2020 — Republican Reps. Mike Garcia, Young Kim and Michelle Steel. Now, redistricting has changed the district lines since 2020, but we’re talking about Biden-supporting turf that in some cases backed Republican John Cox in the <a href="https://docs.google.com/spreadsheets/d/17yr9mcAtuUdNjI9NEPYKxXsEldzzQ2ZaDwEAbnPRyS4/edit#gid=1938542161" target="_blank" rel="noopener">2018 gubernatorial race</a>, which now-Gov. Gavin Newsom <a href="https://uselectionatlas.org/RESULTS/" target="_blank" rel="noopener">won by 24 points statewide</a>.</p>
+<p data-paragraph="main">This degree of Democratic underperformance was atypical. Across the country, Democratic incumbents in the House ran about even with Biden in 2020, on average, although there were plenty who clearly ran ahead or behind him.<a data-footnote-id="24" href="https://fivethirtyeight.com/wp-json/wp/v2/espn_verticals/398#fn-24" data-footnote-content="&lt;p&gt;&lt;p&gt;Based on an analysis of the two-party vote for president and House in 178 districts with Democratic incumbents running that had House candidates from both parties who combined to win at least 95 percent of the vote.&lt;/p&gt;
+&lt;/p&gt;"><sup>24</sup></a> But in Southern California, Democratic Reps. Mike Levin, Katie Porter and Julia Brownley all ran 4 to 7 points behind Biden, while only Rep. Raul Ruiz ran ahead of the now-president among the Democratic incumbents we’re looking at here. Meanwhile, most of the Republican incumbents in this group ran ahead of Trump, including the three Republicans who won back Democratic-held seats in 2020 — Republican Reps. Mike Garcia, Young Kim and Michelle Steel. Now, redistricting has changed the district lines since 2020, but we’re talking about Biden-supporting turf that in some cases backed Republican John Cox in the <a href="https://docs.google.com/spreadsheets/d/17yr9mcAtuUdNjI9NEPYKxXsEldzzQ2ZaDwEAbnPRyS4/edit#gid=1938542161" target="_blank" rel="noopener">2018 gubernatorial race</a>, which now-Gov. Gavin Newsom <a href="https://uselectionatlas.org/RESULTS/" target="_blank" rel="noopener">won by 24 points statewide</a>.</p>
 
 
 
@@ -2568,8 +2594,8 @@ Reporting errors, or instances where results are released and then un-released, 
 
 
 
-<p data-paragraph="main">Just up the coast is Porter, who in two terms has become a high-profile member of the House thanks to <a href="https://spectrumnews1.com/ca/la-west/inside-the-issues/2022/08/29/katie-porter-looks-to-hold-gun-manufacturers-accountable" target="_blank" rel="noopener">her withering questioning</a> in congressional hearings. Porter ran about 5 points behind Biden in 2020 while winning by 7 points, 53.5 percent to 46.5 percent, but while her new district has a partisan lean (D+6) similar to that of her old turf,<a data-footnote-id="23" href="https://fivethirtyeight.com/wp-json/wp/v2/espn_verticals/398#fn-23" data-footnote-content="&lt;p&gt;&lt;p&gt;Compared with the old 45th District, her previous seat.&lt;/p&gt;
-&lt;/p&gt;"><sup>23</sup></a> a majority of the 47th District’s constituents are new to her: Only 41 percent of the people living in Porter’s old seat are in her new one, which is located entirely within Orange County.</p>
+<p data-paragraph="main">Just up the coast is Porter, who in two terms has become a high-profile member of the House thanks to <a href="https://spectrumnews1.com/ca/la-west/inside-the-issues/2022/08/29/katie-porter-looks-to-hold-gun-manufacturers-accountable" target="_blank" rel="noopener">her withering questioning</a> in congressional hearings. Porter ran about 5 points behind Biden in 2020 while winning by 7 points, 53.5 percent to 46.5 percent, but while her new district has a partisan lean (D+6) similar to that of her old turf,<a data-footnote-id="25" href="https://fivethirtyeight.com/wp-json/wp/v2/espn_verticals/398#fn-25" data-footnote-content="&lt;p&gt;&lt;p&gt;Compared with the old 45th District, her previous seat.&lt;/p&gt;
+&lt;/p&gt;"><sup>25</sup></a> a majority of the 47th District’s constituents are new to her: Only 41 percent of the people living in Porter’s old seat are in her new one, which is located entirely within Orange County.</p>
 
 
 
@@ -2585,8 +2611,8 @@ Reporting errors, or instances where results are released and then un-released, 
 
 
 
-<p data-paragraph="main">Turning quickly to the Republicans who might be in danger, the main one is Garcia, who is seeking reelection in the new 27th District north of Los Angeles, which went from about D+5 to D+8 in redistricting.<a data-footnote-id="24" href="https://fivethirtyeight.com/wp-json/wp/v2/espn_verticals/398#fn-24" data-footnote-content="&lt;p&gt;&lt;p&gt;Compared with the old 25th District, the seat’s previous number.&lt;/p&gt;
-&lt;/p&gt;"><sup>24</sup></a> Notably, Garcia is facing Democrat Christy Smith, a former state assemblywoman, for the third straight time: He defeated her in a May 2020 special election to capture this seat, held the seat in the November 2020 general election <a href="https://elections.cdn.sos.ca.gov/sov/2020-general/sov/24-us-reps.pdf" target="_blank" rel="noopener">by a 333-vote margin</a> and now meets her again in 2022. And a third win could well be on his way: Garcia has a 65 in 100 shot of winning, <a href="https://projects.fivethirtyeight.com/2022-election-forecast/house/california/27/" target="_blank" rel="noopener">per our forecast</a>, and considering he ran 10 points ahead of Trump in 2020, it’s not as surprising he has an edge in this blue-leaning district. Moreover, there’ve been other signs Garcia is well-positioned, including the recent decision by major outside Democratic groups <a href="https://twitter.com/allymutnick/status/1583489245708423168" target="_blank" rel="noopener">to cut their ad spending</a>.</p>
+<p data-paragraph="main">Turning quickly to the Republicans who might be in danger, the main one is Garcia, who is seeking reelection in the new 27th District north of Los Angeles, which went from about D+5 to D+8 in redistricting.<a data-footnote-id="26" href="https://fivethirtyeight.com/wp-json/wp/v2/espn_verticals/398#fn-26" data-footnote-content="&lt;p&gt;&lt;p&gt;Compared with the old 25th District, the seat’s previous number.&lt;/p&gt;
+&lt;/p&gt;"><sup>26</sup></a> Notably, Garcia is facing Democrat Christy Smith, a former state assemblywoman, for the third straight time: He defeated her in a May 2020 special election to capture this seat, held the seat in the November 2020 general election <a href="https://elections.cdn.sos.ca.gov/sov/2020-general/sov/24-us-reps.pdf" target="_blank" rel="noopener">by a 333-vote margin</a> and now meets her again in 2022. And a third win could well be on his way: Garcia has a 65 in 100 shot of winning, <a href="https://projects.fivethirtyeight.com/2022-election-forecast/house/california/27/" target="_blank" rel="noopener">per our forecast</a>, and considering he ran 10 points ahead of Trump in 2020, it’s not as surprising he has an edge in this blue-leaning district. Moreover, there’ve been other signs Garcia is well-positioned, including the recent decision by major outside Democratic groups <a href="https://twitter.com/allymutnick/status/1583489245708423168" target="_blank" rel="noopener">to cut their ad spending</a>.</p>
 
 
 
@@ -2692,8 +2718,8 @@ Reporting errors, or instances where results are released and then un-released, 
 
 
 
-<figure><img loading="lazy" width="1150" height="920" src="https://fivethirtyeight.com/wp-content/uploads/2022/11/biden-approval-rating-2-1.png" alt="" data-src="https://fivethirtyeight.com/wp-content/uploads/2022/11/biden-approval-rating-2-1.png" data-srcset="https://fivethirtyeight.com/wp-content/uploads/2022/11/biden-approval-rating-2-1.png?w=712 1x, https://fivethirtyeight.com/wp-content/uploads/2022/11/biden-approval-rating-2-1.png?w=1424 2x"></figure><p data-paragraph="main">According to FiveThirtyEight’s <a href="https://projects.fivethirtyeight.com/biden-approval-rating/" target="_blank" rel="noopener">presidential approval tracker</a>,<a data-footnote-id="25" href="https://fivethirtyeight.com/wp-json/wp/v2/espn_verticals/398#fn-25" data-footnote-content="&lt;p&gt;&lt;p&gt;As of Thursday at 5 p.m. Eastern.&lt;/p&gt;
-&lt;/p&gt;"><sup>25</sup></a> 42.2 percent of Americans approve of the job Biden is doing as president, while 53.2 percent disapprove (a net approval rating of -11 points). At this time <a href="https://fivethirtyeight.com/features/when-did-americans-stop-caring-about-covid-19/" target="_blank" rel="noopener">last week</a>, 42.3 percent approved and 53 percent disapproved (a net approval rating of -10.7 points). One month ago, Biden had an approval rating of 42.1 percent and a disapproval rating of 51.9 percent, for a net approval rating of -9.8 points.</p>
+<figure><img loading="lazy" width="1150" height="920" src="https://fivethirtyeight.com/wp-content/uploads/2022/11/biden-approval-rating-2-1.png" alt="" data-src="https://fivethirtyeight.com/wp-content/uploads/2022/11/biden-approval-rating-2-1.png" data-srcset="https://fivethirtyeight.com/wp-content/uploads/2022/11/biden-approval-rating-2-1.png?w=712 1x, https://fivethirtyeight.com/wp-content/uploads/2022/11/biden-approval-rating-2-1.png?w=1424 2x"></figure><p data-paragraph="main">According to FiveThirtyEight’s <a href="https://projects.fivethirtyeight.com/biden-approval-rating/" target="_blank" rel="noopener">presidential approval tracker</a>,<a data-footnote-id="18" href="https://fivethirtyeight.com/wp-json/wp/v2/espn_verticals/398#fn-18" data-footnote-content="&lt;p&gt;&lt;p&gt;As of Thursday at 5 p.m. Eastern.&lt;/p&gt;
+&lt;/p&gt;"><sup>18</sup></a> 42.2 percent of Americans approve of the job Biden is doing as president, while 53.2 percent disapprove (a net approval rating of -11 points). At this time <a href="https://fivethirtyeight.com/features/when-did-americans-stop-caring-about-covid-19/" target="_blank" rel="noopener">last week</a>, 42.3 percent approved and 53 percent disapproved (a net approval rating of -10.7 points). One month ago, Biden had an approval rating of 42.1 percent and a disapproval rating of 51.9 percent, for a net approval rating of -9.8 points.</p>
 
 
 
@@ -2701,8 +2727,8 @@ Reporting errors, or instances where results are released and then un-released, 
 
 
 
-<figure><img loading="lazy" width="1150" height="920" src="https://fivethirtyeight.com/wp-content/uploads/2022/11/generic-ballot-2-2.png" alt="" data-src="https://fivethirtyeight.com/wp-content/uploads/2022/11/generic-ballot-2-2.png" data-srcset="https://fivethirtyeight.com/wp-content/uploads/2022/11/generic-ballot-2-2.png?w=712 1x, https://fivethirtyeight.com/wp-content/uploads/2022/11/generic-ballot-2-2.png?w=1424 2x"></figure><p data-paragraph="main">In our average of polls of the <a href="https://projects.fivethirtyeight.com/congress-generic-ballot-polls/" target="_blank" rel="noopener">generic congressional ballot,</a><a data-footnote-id="26" href="https://fivethirtyeight.com/wp-json/wp/v2/espn_verticals/398#fn-26" data-footnote-content="&lt;p&gt;&lt;p&gt;As of Thursday at 5 p.m. Eastern.&lt;/p&gt;
-&lt;/p&gt;"><sup>26</sup></a> Republicans currently lead Democrats by 1.3 points (46.5 percent to 45.2 percent). A week ago, Republicans led by 0.6 points (45.6 percent to 45 percent). At this time last month, voters preferred Democrats by 1.2 points (45.4 percent to 44.2 percent).</p>]]></description>
+<figure><img loading="lazy" width="1150" height="920" src="https://fivethirtyeight.com/wp-content/uploads/2022/11/generic-ballot-2-2.png" alt="" data-src="https://fivethirtyeight.com/wp-content/uploads/2022/11/generic-ballot-2-2.png" data-srcset="https://fivethirtyeight.com/wp-content/uploads/2022/11/generic-ballot-2-2.png?w=712 1x, https://fivethirtyeight.com/wp-content/uploads/2022/11/generic-ballot-2-2.png?w=1424 2x"></figure><p data-paragraph="main">In our average of polls of the <a href="https://projects.fivethirtyeight.com/congress-generic-ballot-polls/" target="_blank" rel="noopener">generic congressional ballot,</a><a data-footnote-id="19" href="https://fivethirtyeight.com/wp-json/wp/v2/espn_verticals/398#fn-19" data-footnote-content="&lt;p&gt;&lt;p&gt;As of Thursday at 5 p.m. Eastern.&lt;/p&gt;
+&lt;/p&gt;"><sup>19</sup></a> Republicans currently lead Democrats by 1.3 points (46.5 percent to 45.2 percent). A week ago, Republicans led by 0.6 points (45.6 percent to 45 percent). At this time last month, voters preferred Democrats by 1.2 points (45.4 percent to 44.2 percent).</p>]]></description>
 			<pubDate>Fri, 04 Nov 2022 10:00:00 +0000</pubDate>
 			<guid isPermaLink="false">1667557800948792</guid>
 		</item>
@@ -3888,297 +3914,6 @@ Reporting errors, or instances where results are released and then un-released, 
 <p data-paragraph="main">The suburbs make up a big chunk of the districts in the House of Representatives — and the lion’s share of the districts that will be most contested on Election Day. Republicans are favored to win the House, and should they capture a majority, there’s a high likelihood that their gains in seats in the Dense Suburban and Suburban-Exurban groupings will have played a starring role in that outcome.</p>]]></description>
 			<pubDate>Wed, 02 Nov 2022 10:00:00 +0000</pubDate>
 			<guid isPermaLink="false">1667386801908378</guid>
-		</item>
-		<item>
-			<title>How 5 Voters Of Color Are Thinking About The Economy</title>
-			<link>https://fivethirtyeight.com/features/how-5-voters-of-color-are-thinking-about-the-economy/</link>
-						<dc:creator>Alex Samuels</dc:creator>
-			<dc:creator>Alex Samuels</dc:creator>
-			<category>2022 Election</category>
-			<category>2022 Midterms</category>
-			<category>Voices Of Color</category>
-			<description><![CDATA[<div>
-
-			<div>
-
-				<header><div>
-													<p><a href="https://fivethirtyeight.com/tag/2022-election/" name="">2022 Election</a></p>
-						
-													<h1>How 5 Voters Of Color Are Thinking About The Economy</h1>
-																	</div>
-
-										<div>
-						<div>
-															<p>By <a href="https://fivethirtyeight.com/contributors/alex-samuels/" title="" rel="author">Alex Samuels</a></p>
-																					<p>
-								<time>
-									Nov. 2, 2022, at 6:00 AM								</time></p>
-						</div>
-						<div>
-													</div> 
-					</div>
-					
-				</header><figure><span>
-									<div>
-						<picture><source media="(min-width: 768px)"><source><img alt="VOICES-OF-COLOR-1102-4×3" src="https://fivethirtyeight.com/wp-content/uploads/2022/11/VOICES-OF-COLOR-1102-4x3-1.png?w=916" data-sizes="(max-width: 768px) 100vw, (max-width: 1080px) 66vw, 684px" data-src="https://fivethirtyeight.com/wp-content/uploads/2022/11/VOICES-OF-COLOR-1102-4x3-1.png?w=916" data-srcset="https://fivethirtyeight.com/wp-content/uploads/2022/11/VOICES-OF-COLOR-1102-4x3-1.png?w=916 1x, https://fivethirtyeight.com/wp-content/uploads/2022/11/VOICES-OF-COLOR-1102-4x3-1.png?w=1832 2x"></source></source></picture></div>
-
-				
-			</span>
-
-			
-								<figcaption><p>PHOTO ILLUSTRATION BY EMILY SCHERER / GETTY IMAGES</p>
-											</figcaption></figure></div>
-
-			
-		</div>
-
-
-
-
-
-<p data-paragraph="main"><em>Welcome to </em><a href="https://fivethirtyeight.com/tag/voices-of-color/" target="_blank" rel="noopener"><strong><em>Voices Of Color</em></strong></a><em>, a column that explores what’s on the minds of voters of color in this year’s midterm elections. Too often, media coverage focuses on the political preferences of white people with euphemisms like “</em><a href="https://www.npr.org/2018/04/07/599573817/what-we-mean-when-we-talk-about-suburban-women-voters" target="_blank" rel="noopener"><em>suburban women</em></a><em>” or “</em><a href="https://www.vox.com/2016/2/1/10889138/coded-language-thug-bossy" target="_blank" rel="noopener"><em>middle class</em></a><em>.” But in this column, we want to know what makes voters of color tick. </em></p>
-
-
-
-<p data-paragraph="main"><em>We want to explore their views on politics, policy, the future of our democracy, our two-party system and everything in between. We hope that this column offers fresh perspectives from the minds of those whose political opinions are often overlooked or</em><em> </em><a href="https://www.pewresearch.org/politics/2016/09/13/2-party-affiliation-among-voters-1992-2016/" target="_blank" rel="noopener"><em>assumed</em></a><em>. </em><em>If you think you might be a good fit for this column,</em><em> </em><a href="https://fivethirtyeight.com/features/are-you-a-voter-of-color-we-want-to-hear-from-you/" target="_blank" rel="noopener"><em>fill out this form</em></a><em> </em><em>— we might get in touch.</em></p>
-
-
-
-<div><hr><span></span></div>
-
-
-
-
-<p data-paragraph="main">Sergio Piedra, 51, remembers when “<a href="https://www.npr.org/2022/06/16/1105323610/flight-tickets-inflation-pandemic-revenge-travel-vacation-europe-recession" target="_blank" rel="noopener">revenge travel</a>” — or traveling to make up for lost time during the COVID-19 pandemic — was at an all-time high. But after an initial influx of out-of-towners to his home state of Florida, Piedra, who works for a local tourism marketing organization, began to notice a slight dip in visitors. </p>
-
-
-
-<p data-paragraph="main">“This is how I make a living,” he told me. “So it’s important to me that people are willing to travel.” And right now, ahead of the winter holiday season, he’s especially on edge. “It’s important to me that people are willing to travel, spend money and have a good time.” As concerns about the economy mount, however, it’s unclear whether that’ll be the case. While bookings and vacations <a href="https://www.nytimes.com/2022/02/15/travel/trends-spring-2022.html" target="_blank" rel="noopener">appeared to increase</a> throughout the United States this past spring, <a href="https://business.fau.edu/newsroom/press-releases/2022/florida-travel-slowdown.php" target="_blank" rel="noopener">they’ve since declined</a>. It <em>does </em>look like people will be traveling for the holidays — <a href="https://www.cbsnews.com/news/how-to-save-on-holiday-travel/" target="_blank" rel="noopener">but it won’t be cheap</a>.</p>
-
-
-<p>Watch: https://abcnews.go.com/fivethirtyeight/video/americans-concerned-inflation-fivethirtyeight-politics-podcast-92497861</p>
-
-
-<p data-paragraph="main">Piedra, who identifies as a Democrat, understands that other Americans may be worse off — both he and his wife are still employed — but the U.S. economy is still a top concern for him. And he’s far from being alone: The latest wave of our <a href="https://www.ipsos.com/en-us/news-polls/FiveThirtyEight-2022-midterm-election" target="_blank" rel="noopener">FiveThirtyEight/Ipsos</a> poll using Ipsos’s <a href="https://www.ipsos.com/en-us/solutions/public-affairs/knowledgepanel" target="_blank" rel="noopener">KnowledgePanel</a> found that “inflation or increasing costs” was top of mind for most Americans. (According to <a href="https://fivethirtyeight.com/features/ipsos-preelection-survey-likely-voters/" target="_blank" rel="noopener">our latest survey data</a>, 65 percent of Americans said that issue was among the most important facing the country.) </p>
-
-
-
-<figure><img loading="lazy" width="1422" height="2046" src="https://fivethirtyeight.com/wp-content/uploads/2022/10/skelley-fuong.IPSOS-PRE-ELECTION.1026-final.png" alt="" data-src="https://fivethirtyeight.com/wp-content/uploads/2022/10/skelley-fuong.IPSOS-PRE-ELECTION.1026-final.png" data-srcset="https://fivethirtyeight.com/wp-content/uploads/2022/10/skelley-fuong.IPSOS-PRE-ELECTION.1026-final.png?w=712 1x, https://fivethirtyeight.com/wp-content/uploads/2022/10/skelley-fuong.IPSOS-PRE-ELECTION.1026-final.png?w=1424 2x"></figure><figure><img loading="lazy" width="670" height="1406" src="https://fivethirtyeight.com/wp-content/uploads/2022/10/skelley-fuong.IPSOS-PRE-ELECTION.1026-mob-use.png" alt="" data-src="https://fivethirtyeight.com/wp-content/uploads/2022/10/skelley-fuong.IPSOS-PRE-ELECTION.1026-mob-use.png" data-srcset="https://fivethirtyeight.com/wp-content/uploads/2022/10/skelley-fuong.IPSOS-PRE-ELECTION.1026-mob-use.png?w=670 1x, https://fivethirtyeight.com/wp-content/uploads/2022/10/skelley-fuong.IPSOS-PRE-ELECTION.1026-mob-use.png?w=1340 2x"></figure><p data-paragraph="main">With early voting already underway, I wanted to better understand how concerns about the economy were impacting the choices of five voters of colors at the ballot box. In some cases, like Piedra’s, those fears haven’t stopped them from supporting Democrats. But other voters of color I spoke with said that, despite their political affiliation, they currently trust the GOP more on issues related to the economy. </p>
-
-
-
-<p data-paragraph="main">That was the case with James Harris, 23, who lives in California and identifies as an independent voter. In fact, Harris told me that he hopes the next Congress is gridlocked so that there’s more compromise in D.C. — something he’s optimistic will lead to more bipartisan solutions when it comes to addressing the country’s <a href="https://fortune.com/2022/10/06/7-top-economic-minds-think-global-recession-coming-some-say-its-here/" target="_blank" rel="noopener">current economic problems</a>. </p>
-
-
-
-<p data-paragraph="main">“If you have Republicans in the House, Democrats in the Senate and then [President] Biden in White House, there’s going to <em>have </em>to be compromise,” he said. “While Democrats might want to pass more ambitious bills that carry a steep price tag, Republicans aren’t going to want to increase spending. And, in the end, I think that might be a healthy balance.” (The Deluxe version of <a href="https://projects.fivethirtyeight.com/2022-election-forecast/house/" target="_blank" rel="noopener">FiveThirtyEight’s 2022 midterm election forecast</a> currently favors Republicans to win the House, while the <a href="https://projects.fivethirtyeight.com/2022-election-forecast/senate/" target="_blank" rel="noopener">Senate is a dead heat</a>.) </p>
-
-
-
-<p data-paragraph="main"></p><div><iframe title="Food, energy and housing costs are bipartisan concerns" aria-label="Dot Plot" src="https://datawrapper.dwcdn.net/N6fY3/2/" scrolling="no" frameborder="0" height="317" sandbox="allow-scripts allow-same-origin"></iframe></div>
-
-
-
-<p data-paragraph="main">As Harris and Piedra’s differing stances show, voters of color have competing views when it comes to what they’re most worried about regarding the economy <em>and </em>what they want the federal government to do about it. Despite my interviewees’ fears about the economy, though, not everyone viewed increased federal spending — such as Biden’s <a href="https://studentaid.gov/manage-loans/forgiveness-cancellation/debt-relief-info" target="_blank" rel="noopener">student loan forgiveness initiative</a> or the <a href="https://www.cnbc.com/2021/03/11/biden-1point9-trillion-covid-relief-package-thursday-afternoon.html" target="_blank" rel="noopener">COVID-19 stimulus checks</a> — as a bad<em> </em>thing. “I’m for them,” said 45-year-old Beth Napper, “not because I necessarily think they help the economy as a whole, but because I think they help <em>individuals</em> who are impacted by the economy that we’re in.”</p>
-
-
-
-<p data-paragraph="main"></p><div><hr><span></span></div>
- 
-
-
-
-<p data-paragraph="main"><strong><em>The interviews below have been edited and condensed for clarity. </em></strong></p>
-
-
-
-<p data-paragraph="main"><strong>Alex Samuels: How much is the economy factoring into your voting decision in this election cycle? Is it more of a factor than it usually is or about the same? </strong></p>
-
-
-
-<p data-paragraph="main">Beth Napper (45, Virginia, Black, Democrat): Economic concerns comprise at least 60 percent of my decision for voting in this year’s midterm election, which is more than usual. </p>
-
-
-
-<p data-paragraph="main">Sergio Piedra (51, Florida, Hispanic, Democrat): I work in the tourism industry, so I can always feel the ebb and flow of the economy. I’ve been lucky enough to maintain a job [throughout the pandemic], but I understand that many others are struggling and I sympathize with that. When I go to the voting booth, concerns about the economy will be top of mind — but they always are for me. It won’t be any greater or less this year. Statistically, how the economy is doing comprises about 50 percent in how I decide who I vote for; the other 50 percent is a bunch of other things. </p>
-
-
-
-<p data-paragraph="main">James Harris (23, California, Hispanic and white, independent): I’ve never voted before, but the economy, in my opinion, is the most important issue for my family and me this year. I know that the unemployment rate is low right now, but, because of inflation, I think that confidence in the economy is very low, too. Right now, I’m worried about gas prices and the uncertainty of how things will go. I currently work two jobs — a night job and a day job — not because I’m living paycheck to paycheck, but because expenses are going up and I want to prepare for a possible recession next year. </p>
-
-
-
-<p data-paragraph="main">Zachary Bimslager (43, Texas, Black and white, Libertarian): It’s hard to quantify exactly how much the economy factors into my vote this year. It’s definitely the most important factor, but I wouldn’t say that it’s more or less important than it has been in any other election. The economy is always my No. 1 issue. </p>
-
-
-
-<p data-paragraph="main">Maya Kannan (19, Texas, Asian, Republican): This is the first election that I’ll be voting in, actually, but if I were to give a percentage, I’d say that the economy comprises about 40 percent of my voting decisions this year. It’s definitely my top issue.</p>
-
-
-
-<p data-paragraph="main"><strong>AS: What are you most worried about regarding the economy? </strong></p>
-
-
-
-<p data-paragraph="main">Piedra: I’m worried about people worrying about the economy. It almost becomes a self-fulfilling prophecy, you know: Things are bad, but it gets made worse if everyone is thinking about the worst possible outcome. I don’t mean to say that everyone needs to be as optimistic as I am, but we’ve been through so much as a country in the last few years and we’re still standing. We just need to keep moving forward. </p>
-
-
-
-<p data-paragraph="main">Napper: The impact of inflation and how long it will continue to ramp up. And while this doesn’t impact me directly, the trend toward a gig economy is something I’ve seen and heard more about from my friends, and I don’t think that’s sustainable for the average person to take them through their working life and into retirement.</p>
-
-
-
-<p data-paragraph="main">Harris: A lot of news outlets are predicting that we’re going to be in a recession next year, and I’m really nervous to see how things will turn out. My fear is that the people who will be most affected by a potential recession are retail workers or people who are just entering the workforce. I’m also worried about how high the unemployment rate will rise <em>if </em>we go into a recession.</p>
-
-
-
-<p data-paragraph="main">Bimslager: Obviously, the elephant in the room is inflation. While I’m also concerned about things like employment numbers, too, inflation is the top economic issue that I’m concerned about.</p>
-
-
-
-<p data-paragraph="main"><strong>AS: Have you swung back and forth in terms of the economic issues you’ve cared about most in 2022?</strong></p>
-
-
-
-<p data-paragraph="main">Piedra: The whole gas price shock threw me for a loop. At one point I was thinking, ‘Man, how high can these prices go?’ But I think I’ve reeled back from that as things have stabilized — relatively speaking — into the summer and fall. I don’t want to sound self-serving, but as we enter the holiday season, I’ve been thinking more about the impact the economy has on the tourism industry and whether people are going to get back to leisure traveling. </p>
-
-
-
-<p data-paragraph="main">Napper: No, I don’t think so. I feel like the same issues have been prevalent throughout all of 2022. </p>
-
-
-
-<p data-paragraph="main">Kannan: Yes, certainly. At the beginning of the year, unemployment was my top concern. I saw a number of people lose jobs and that started to scare me. Later on, after Russia’s invasion of Ukraine, rising gas prices became my biggest worry. Then, once inflation got out of hand, that became a bigger deal to me over energy prices. </p>
-
-
-
-<p data-paragraph="main"><strong>AS: Have your own personal finances — or your general financial situation — changed in the last few years?</strong></p>
-
-
-
-<p data-paragraph="main">Piedra: Not really, no. It has been steady. I’ve been through worse situations. For example, during the Great Recession, I didn’t get a pay raise for five years. But my wife and I have continued to work, receive pay increases and pay our bills — so that has been good.</p>
-
-
-
-<p data-paragraph="main">Harris: Before I moved to San Francisco, I was living in Indianapolis, where I went to school and graduated May 2022. While I was there, though, I didn’t own a car and would borrow my friend’s. Whenever I had to fill up the gas tank, it would be about $30, but, month by month, that increased and eventually it got closer to $50. I started noticing how much more I was paying in gas starting in summer 2021 compared to years prior. And throughout the year until now, it has gotten worse. Those small expenses that you have to do on a daily or weekly basis — like buying groceries or getting gas — add up, and it puts me in a hard position because I’ve had to sacrifice some of my wants to pay for these things.</p>
-
-
-
-<p data-paragraph="main">Bimslager: No. I’ve been employed by the same company for a very long time, so our salaries haven’t really been affected by issues with the economy. As a consumer, my buying power is down with the current inflation rates, but it hasn’t been <em>too</em> drastic.</p>
-
-
-
-<p data-paragraph="main"><strong>AS: Who do you think is responsible for your current financial situation?</strong></p>
-
-
-
-<p data-paragraph="main">Piedra: Myself. There’s a lot of factors that I can’t control — whether it’s the government or how many people are traveling at any given time — but, at the end of the day, you still have to work and make the right decisions economically. So, in a sense, I feel like I’m the one most responsible for what happens to me. </p>
-
-
-
-<p data-paragraph="main">Harris: In all honesty, part of it is on me. I know that I need to budget better and probably not do things like buy coffee in the morning or order Ubers. But I think the primary reason why the economy is in the position that it’s in is due to supply shortages all around the world. </p>
-
-
-
-<p data-paragraph="main">Bimslager: Ultimately, I am, but in a political context, I’d say that both parties are responsible. At any given point in time, I’d blame the political party in power, but I do think that both Democrats and Republicans make the same mistakes regarding the economy — particularly when it comes to federal spending. This is a systemic issue, though, so I wouldn’t necessarily blame neither Biden nor [former President Donald] Trump for where we are today. </p>
-
-
-
-<p data-paragraph="main">Kannan: I think that a lot rests on the previous president. While there was a lot of economic growth under the Trump administration, the beginning of certain spending expenditures that ultimately led to the economic issues we have now started with him. I also think you could argue that Trump wasn’t tough enough on Russia, and, if he were, that may have prevented some of the issues we’re facing now. </p>
-
-
-
-<p data-paragraph="main"><strong>AS: Are you more concerned about your own financial situation or the country’s?</strong></p>
-
-
-
-<p data-paragraph="main">Napper: The country’s. But what I’m really worried about is the middle class. What I’ve observed and heard in conversations with friends, families and the various communities I’m a part of is a concern for whether our country’s current economic situation is sustainable; and if it’s not, I’m worried about what the ripple effects of that will be. Will that mean higher taxes? More inflation? Those are all major concerns of mine.</p>
-
-
-
-<p data-paragraph="main">Harris: The country’s. I have a budget and try to follow it as closely as I can, but I am really worried about the country’s economy because if it isn’t in good shape, then unemployment will eventually go up. I’m also worried about job security — not just for my own sake, but for other Americans and my family members, too. </p>
-
-
-
-<p data-paragraph="main">Kannan: Definitely the country’s. Thankfully, my father is very established in his career and I’m pursuing a degree that has promising job prospects, so I’m not overly concerned about my own finances. That said, there’s definitely reason to suspect that many people in the U.S. are going to suffer from this period we’re in now. Inflation affects things like tuition, but a lot of jobs still require a college degree. And if more people forego a college education as a result, that could impact their future income. Certainly, the situation we’re in now is going to have long-term, negative effects for a very large swath of people in the country. </p>
-
-
-
-<p data-paragraph="main"><strong>AS: Do you think recent federal spending initiatives have contributed to rising inflation? </strong></p>
-
-
-
-<p data-paragraph="main">Piedra: I think so, but I also believe these things needed to be done for the good of the country. For every action, there’s going to be a reaction. </p>
-
-
-
-<p data-paragraph="main">Napper: Yes, but I support most of those initiatives. And while they’ve contributed to inflation, they’re by no means, at least in my mind, the root cause of what we’re seeing today. I think that the economic situation we’re in now has been in the works for some time. </p>
-
-
-
-<p data-paragraph="main">Harris: Absolutely. While I supported initiatives like the American Rescue Plan, I think the federal government also overspent during that time. And I’ve seen a lot of articles about PPP money getting stolen, so I wish that we would’ve spent less during the COVID-19 pandemic.</p>
-
-
-
-<p data-paragraph="main">Kannan: To a certain degree, but I wouldn’t blame them for everything we’re seeing now. The COVID-19 pandemic contributed to the country’s economic downturn, too. Of course, a certain amount of inflation is inevitable, and I think some federal spending initiatives — from both the Biden and Trump administrations — were wasteful, but I wouldn’t necessarily blame only the most <em>recent</em> ones for everything we’re seeing now.</p>
-
-
-
-<p data-paragraph="main"><strong>AS: Are you for or against recent Biden administration proposals and policies that have or will affect the economy — such as the COVID-19 stimulus checks or forgiving some student loan debt?</strong></p>
-
-
-
-<p data-paragraph="main">Piedra: I’m mostly for the things that [Biden] is doing. I may not agree with everything, but you have to give the man a shot at trying. The idea is to come up with something different from the previous administrations, and I want to see how that plays out.</p>
-
-
-
-<p data-paragraph="main">Harris: I didn’t receive any stimulus money because, at the time, I was still dependent on my parents. While I think a lot of people needed the money, and I supported giving COVID-19 stimulus checks to individuals, I believe that the way it was rolled out was ineffective because there was a lot of fraud. And, to be honest, I don’t support Biden’s student loan debt initiative because the cost of universities is still going to go up, and, 10 years from now, we’re still going to have people in debt. Even though a lot of people will be helped by loan forgiveness, [the initiative] still doesn’t address the underlying issue of why college tuition is increasing and how we can bring a stop to that.</p>
-
-
-
-<p data-paragraph="main">Bimslager: I’m not necessarily in favor of them primarily because I don’t think that a lot of these spending initiatives will lead to [Biden’s] desired outcome. For example, I don’t think that the Inflation Reduction Act will do much to curb inflation. That said, I’m not up in arms about these policies, either. </p>
-
-
-
-<p data-paragraph="main">Kannan: Conceptually, I agreed with the stimulus checks. My family received them, but I don’t think we necessarily needed them — so some of the spending there might have been excessive. I also question whether the stimulus checks discouraged people from seeking employment during the labor shortage. And while I understand the sentiment behind the student loan initiative, I wonder if now was the best time to deploy that. It also doesn’t really solve the problem of unaffordable higher education. It’s a policy to win votes, but it doesn’t solve the underlying issues at hand. </p>
-
-
-
-<p data-paragraph="main"><strong>AS: What, if anything, do you hope the federal government will do to alleviate your concerns regarding the economy?  </strong></p>
-
-
-
-<p data-paragraph="main">Napper: I would like to see more bipartisan support for measures that really deal with what I think are the root causes of our current economic situation. In an ideal world, I would like to see our representatives fight for what’s right for individuals versus corporations. I think that a lot of people equate the strength of our economy to the strength of corporations and, as far as I can tell, our corporations are as strong — or stronger — than they’ve ever been. That’s happening, though, at the detriment of the individual. So I want more policies that focus on helping people. I can’t name anything specific that I’d like to see, but I want more of a shift in the mindset of our politicians. </p>
-
-
-
-<p data-paragraph="main">Bimslager: They just need to stop spending so much money in general. But I’d have that critique of any administration, regardless of party. </p>
-
-
-
-<p data-paragraph="main">Kannan: There needs to be more accountability and transparency about how federal money is being spent. It is important to get an explanation of how specific spending initiatives in the budget accomplish the government’s goals — say, improved welfare, greater security, economic growth, et cetera. I’m not saying that we need to spend less necessarily, but we need to know what’s supposed to happen with that money. </p>
-
-
-
-<p data-paragraph="main"><strong>AS: Which party do you trust more on economic issues? Why? </strong></p>
-
-
-
-<p data-paragraph="main">Piedra: I’ll be loyal and say that I trust my party, the Democrats. I think with Democrats, there’s a degree of realism, but with Republicans, they just want to repeat the same tactic over and over again: Cut taxes here and allegedly cut spending there — and they never really do either well. Their economic messaging has become really tiresome to me.</p>
-
-
-
-<p data-paragraph="main">Napper: At the moment, I don’t trust either party because I feel that everyone is more concerned with being reelected than the work that we elect them to do while they’re there. I hope that there are individuals who are not that way, but, on the whole, that’s how I view both parties.</p>
-
-
-
-<p data-paragraph="main">Harris: Honestly, neither of them. But if I had to choose right now, I’d say that I trust the Republicans more. Republicans want to bring taxes down, which I support. We also need to focus on bringing federal spending down, and I think that the Republicans are more cognizant about that. </p>
-
-
-
-<p data-paragraph="main">Kannan: If you asked me this a few years ago, I would have said the Republican Party easily. But at the moment, the Democrats have a slight edge. That’s not to say that I fully trust them, but I think Republicans, unfortunately, given the current leadership, are not very good at determining which battles are worth fighting. When I was younger and first started identifying as Republican, politicians like Mitt Romney were quite content with globalization as a way of improving the standard of living. Trump, meanwhile, was ready to sacrifice standard of living just to counter globalization, which, to me, is not sound economic policy. </p>]]></description>
-			<pubDate>Wed, 02 Nov 2022 10:00:00 +0000</pubDate>
-			<guid isPermaLink="false">1667386801908377</guid>
 		</item>
 
 	</channel>
