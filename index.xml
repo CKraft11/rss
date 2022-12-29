@@ -3,14 +3,15 @@
 		<title>Main stream | FreshRSS</title>
 		<link>http://radon</link>
 		<description>RSS feed of Main stream | FreshRSS</description>
-		<pubDate>Thu, 29 Dec 2022 18:59:06 +0000</pubDate>
-		<lastBuildDate>Thu, 29 Dec 2022 18:59:06 GMT</lastBuildDate>
+		<pubDate>Thu, 29 Dec 2022 19:29:06 +0000</pubDate>
+		<lastBuildDate>Thu, 29 Dec 2022 19:29:06 GMT</lastBuildDate>
 		<atom:link href="http://radon/i/?a=rss" rel="self" type="application/rss+xml" />
 		<item>
 			<title>How 2022 Was A Win For Democracy</title>
 			<link>https://fivethirtyeight.com/features/how-2022-was-a-win-for-democracy/</link>
 						<dc:creator>Kaleigh Rogers</dc:creator>
 			<dc:creator>Kaleigh Rogers</dc:creator>
+			<category>2022 In Review</category>
 			<category>Democracy</category>
 			<category>Donald Trump</category>
 			<category>Election Integrity</category>
@@ -20,7 +21,7 @@
 
 				<header>
 					<div>
-													<p><a href="https://fivethirtyeight.com/tag/democracy/" name="">Democracy</a></p>
+													<p><a href="https://fivethirtyeight.com/tag/2022-in-review/" name="">2022 In Review</a></p>
 						
 													<h1>How 2022 Was A Win For Democracy</h1>
 																	</div>
