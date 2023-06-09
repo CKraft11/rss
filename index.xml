@@ -3,8 +3,8 @@
 		<title>Main stream | FreshRSS</title>
 		<link>http://radon</link>
 		<description>RSS feed of Main stream | FreshRSS</description>
-		<pubDate>Fri, 09 Jun 2023 22:59:06 +0100</pubDate>
-		<lastBuildDate>Fri, 09 Jun 2023 21:59:06 GMT</lastBuildDate>
+		<pubDate>Fri, 09 Jun 2023 23:29:07 +0100</pubDate>
+		<lastBuildDate>Fri, 09 Jun 2023 22:29:07 GMT</lastBuildDate>
 		<atom:link href="http://radon/i/?a=rss" rel="self" type="application/rss+xml" />
 		<item>
 			<title>Emergency Podcast: Trump’s Indictment, The Sequel</title>
@@ -13,6 +13,7 @@
 			<dc:creator>FiveThirtyEight</dc:creator>
 			<category>FiveThirtyEight Podcasts</category>
 			<category>Politics Podcast</category>
+			<category>Scandals</category>
 			<category>Trump indictment</category>
 			<description><![CDATA[<div></div>
 
@@ -80,9 +81,9 @@
 			<category>Asa Hutchinson</category>
 			<category>Chris Christie</category>
 			<category>Donald Trump</category>
-			<category>Legal</category>
 			<category>Mike Pence</category>
 			<category>Ron DeSantis</category>
+			<category>Scandals</category>
 			<category>Tim Scott</category>
 			<category>Trump indictment</category>
 			<category>Vivek Ramaswamy</category>
