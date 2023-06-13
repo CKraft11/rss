@@ -3,9 +3,73 @@
 		<title>Main stream | FreshRSS</title>
 		<link>http://radon</link>
 		<description>RSS feed of Main stream | FreshRSS</description>
-		<pubDate>Wed, 14 Jun 2023 00:29:06 +0100</pubDate>
-		<lastBuildDate>Tue, 13 Jun 2023 23:29:06 GMT</lastBuildDate>
+		<pubDate>Wed, 14 Jun 2023 00:59:07 +0100</pubDate>
+		<lastBuildDate>Tue, 13 Jun 2023 23:59:07 GMT</lastBuildDate>
 		<atom:link href="http://radon/i/?a=rss" rel="self" type="application/rss+xml" />
+		<item>
+			<title>Politics Podcast: How Trump’s Classified Documents Case Could End</title>
+			<link>https://fivethirtyeight.com/features/politics-podcast-how-trumps-classified-documents-case-could-end/</link>
+						<dc:creator>Galen Druke</dc:creator>
+			<dc:creator>FiveThirtyEight</dc:creator>
+			<category>FiveThirtyEight Podcasts</category>
+			<category>Politics Podcast</category>
+			<category>Scandals</category>
+			<category>Trump indictment</category>
+			<description><![CDATA[<div></div>
+
+
+<div data-href="https://fivethirtyeight.com/features/politics-podcast-how-trumps-classified-documents-case-could-end/">
+	<div data-podcast-id="360660" data-podcast-duration="0" data-podcast-title="Politics Podcast: How Trump's Classified Documents Case Could End">
+
+					<span><span>FiveThirtyEight</span></span>
+			
+		
+		<button aria-label="Play"></button>
+
+					<div>
+		
+		
+							<div>
+					<div>
+						<div></div>
+					</div>
+
+					<div> </div>
+
+					<audio preload="none" controls="controls">
+						<source src="https://www.podtrac.com/pts/redirect.mp3/traffic.megaphone.fm/ESP2037831191.mp3?updated=1686697340">
+					</source></audio>
+				</div>
+			
+					</div>
+		
+	</div>
+</div>
+<aside>
+	<div>
+		More: <a href="https://itunes.apple.com/us/podcast/fivethirtyeight-elections/id1077418457">Apple Podcasts</a> |
+		<span><a data-android-url="" href="http://m.espn.com/general/cast?id=14554755">ESPN App</a> |</span>
+		<a href="https://www.espn.com/espnradio/feeds/rss/podcast.xml?id=14554755">RSS </a>
+					| <a href="https://music.amazon.com/podcasts/c1a4c9d6-aa5b-4899-b78a-dd62f240ec29/fivethirtyeight-politics">Amazon Music</a>
+							| <a href="https://open.spotify.com/show/3C0iP88KSoGZk5KNWmuyF1?si=39a47edc33514971">Spotify</a>
+					</div>
+	</aside>
+
+
+
+
+<p data-paragraph="main">Former President Donald Trump was arraigned on Tuesday at a federal courthouse in Miami in relation to his alleged retention of classified documents and obstruction of justice. He pleaded not guilty, setting in motion a trial that could potentially run in tandem with his campaign for president. In this installment of the FiveThirtyEight Politics podcast, Galen Druke speaks with law professor and legal analyst Kate Shaw about how the case will proceed and what the possible outcomes are.</p>
+
+
+
+<p data-paragraph="main"><em>You can listen to the episode by clicking the “play” button in the audio player above or by </em><a href="https://itunes.apple.com/us/podcast/fivethirtyeight-elections/id1077418457?mt=2" target="_blank" rel="noopener"><em>downloading it in iTunes</em></a><em>, the </em><a href="http://www.espn.com/espn/mobile/products/products/_/id/6857590" target="_blank" rel="noopener"><em>ESPN App</em></a><em> or your favorite podcast platform. If you are new to podcasts, </em><a href="https://fivethirtyeight.com/how-to-listen-to-fivethirtyeight-podcasts/" target="_blank" rel="noopener"><em>learn how to listen</em></a><em>.</em></p>
+
+
+
+<p data-paragraph="main"><em>The FiveThirtyEight Politics podcast is recorded Mondays and Thursdays. Help new listeners discover the show by </em><a href="https://itunes.apple.com/us/podcast/fivethirtyeight-elections/id1077418457?mt=2" target="_blank" rel="noopener"><em>leaving us a rating and review on iTunes</em></a><em>. Have a comment, question or suggestion for “good polling vs. bad polling”? Get in touch by email, </em><a href="https://twitter.com/FiveThirtyEight" target="_blank" rel="noopener"><em>on Twitter</em></a><em> or in the comments.</em></p>]]></description>
+			<pubDate>Tue, 13 Jun 2023 23:58:00 +0100</pubDate>
+			<guid isPermaLink="false">1686699000879454</guid>
+		</item>
 		<item>
 			<title>Will Voters Blame Biden For Trump’s Indictment?</title>
 			<link>https://fivethirtyeight.com/features/biden-trump-indictment/</link>
@@ -2879,172 +2943,6 @@
 <p data-paragraph="main"><em>The FiveThirtyEight Politics podcast is recorded Mondays and Thursdays. Help new listeners discover the show by </em><a href="https://itunes.apple.com/us/podcast/fivethirtyeight-elections/id1077418457?mt=2" target="_blank" rel="noopener"><em>leaving us a rating and review on iTunes</em></a><em>. Have a comment, question or suggestion for “good polling vs. bad polling”? Get in touch by email, </em><a href="https://twitter.com/FiveThirtyEight" target="_blank" rel="noopener"><em>on Twitter</em></a><em> or in the comments.</em></p>]]></description>
 			<pubDate>Tue, 30 May 2023 22:42:00 +0100</pubDate>
 			<guid isPermaLink="false">1686271500953851</guid>
-		</item>
-		<item>
-			<title>Why Debt Ceiling Polls Keep Giving Us Conflicting Results</title>
-			<link>https://fivethirtyeight.com/features/debt-ceiling-spending-cuts-confusing-polls/</link>
-						<dc:creator>Kaleigh Rogers</dc:creator>
-			<dc:creator>Kaleigh Rogers</dc:creator>
-			<category>Congress</category>
-			<category>Debt Ceiling</category>
-			<category>Donald Trump</category>
-			<category>Drugs</category>
-			<category>Economy</category>
-			<category>Government Spending</category>
-			<category>Inflation</category>
-			<category>Pollapalooza</category>
-			<category>Polls</category>
-			<category>Supreme Court</category>
-			<description><![CDATA[<div>
-
-			<div>
-
-				<header>
-					<div>
-													<p><a href="https://fivethirtyeight.com/tag/pollapalooza/" name="">Pollapalooza</a></p>
-						
-													<h1>Why Debt Ceiling Polls Keep Giving Us Conflicting Results</h1>
-																	</div>
-
-										<div>
-						<div>
-															<p>By <a href="https://fivethirtyeight.com/contributors/kaleigh-rogers/" title="" rel="author">Kaleigh Rogers</a></p>
-																					<p>
-								<time>
-									May 30, 2023, at 10:21 AM								</time>
-							</p>
-						</div>
-						<div>
-													</div> 
-					</div>
-					
-				</header>
-
-				
-		<figure>
-			<span>
-									<div>
-						<picture>
-															<source media="(min-width: 768px)">
-							
-															<source>
-								<img decoding="async" alt="Pola_DebtCeiling_4x3_v04_ag" src="https://fivethirtyeight.com/wp-content/uploads/2023/05/Pola_DebtCeiling_4x3_v04_ag.png?w=916" data-sizes="(max-width: 768px) 100vw, (max-width: 1080px) 66vw, 684px" data-src="https://fivethirtyeight.com/wp-content/uploads/2023/05/Pola_DebtCeiling_4x3_v04_ag.png?w=916" data-srcset="https://fivethirtyeight.com/wp-content/uploads/2023/05/Pola_DebtCeiling_4x3_v04_ag.png?w=916 1x, https://fivethirtyeight.com/wp-content/uploads/2023/05/Pola_DebtCeiling_4x3_v04_ag.png?w=1832 2x">
-													</source></source></picture>
-					</div>
-
-				
-			</span>
-
-			
-								<figcaption>
-																			<p>ABC News photo illustration</p>
-											</figcaption>
-							
-		</figure>
-
-		
-			</div>
-
-			
-		</div>
-
-
-
-
-
-<p data-paragraph="main">Welcome to <a href="https://fivethirtyeight.com/tag/pollapalooza/" target="_blank" rel="noopener">Pollapalooza</a>, our weekly-ish polling roundup.</p>
-
-
-<div><hr><span></span></div>
-
-
-
-<p data-paragraph="main">The White House and Speaker of the House <a href="https://www.nytimes.com/2023/05/29/business/debt-ceiling-agreement.html" target="_blank" rel="noopener">have come to a tentative</a> — though as yet <a href="https://www.msnbc.com/rachel-maddow-show/maddowblog/striking-debt-ceiling-deal-one-thing-passing-another-rcna86762" target="_blank" rel="noopener">unpassed</a> — agreement for raising the debt ceiling. But does this agreement match what Americans have been hoping for in this crisis? Yes, it does. Also, no, it does not. </p>
-
-
-
-<p data-paragraph="main">If you think <a href="https://fivethirtyeight.com/features/debt-ceiling-chat-political-consequences/" target="_blank" rel="noopener">Congress and the White House have been divided</a> on how to resolve the <a href="https://fivethirtyeight.com/videos/whats-the-deal-with-the-fight-over-the-debt-ceiling/" target="_blank" rel="noopener">debt ceiling crisis</a>, wait until you see what the American people think about it. Over the past few weeks, pollsters have attempted to capture where Americans stand on this contentious economic battle, and the results are as clear as mud. </p>
-
-
-
-<p data-paragraph="main">This was illustrated quite dramatically last Tuesday, when two polls on the debt ceiling were released with wildly different results. In one, from <a href="https://www.cnn.com/2023/05/23/politics/cnn-poll-debt-ceiling-increase-spending-cuts/index.html" target="_blank" rel="noopener">SSRS/CNN</a>, 60 percent of Americans said Congress shouldn’t raise the debt ceiling unless it cuts spending at the same time. In the other, from <a href="https://maristpoll.marist.edu/polls/raising-the-u-s-debt-ceiling/" target="_blank" rel="noopener">Marist/NPR/PBS NewsHour</a>, 52 percent of Americans said Congress should raise the debt ceiling first and worry about spending cuts separately. The headline takeaways were in direct opposition: A majority of Americans say the debt ceiling should be raised with spending cuts … and also a majority of Americans say the debt ceiling should be raised without spending cuts. </p>
-
-
-
-<p data-paragraph="main">These two polls are just the tip of the iceberg. For every recent poll finding on Americans’ views of the debt ceiling debate, there seemed to be a poll showing just the opposite. In a <a href="https://www.dataforprogress.org/blog/2023/5/5/voters-want-congress-to-act-quickly-on-the-debt-limit-and-believe-we-should-raise-taxes-on-the-wealthy-rather-than-sacrifice-essential-government-programs" target="_blank" rel="noopener">Data For Progress poll</a> from May 3-4, a majority of likely voters (58 percent) said Congress should act as soon as possible to raise the debt ceiling and not “waste time” negotiating on spending. But in a <a href="https://tippinsights.com/voters-even-dems-want-budget-cuts-not-tax-hikes-i-i-tipp-poll/" target="_blank" rel="noopener">TIPP/Issues &amp; Insights poll</a> from May 3-5, a plurality of Americans (46 percent) said Congress should raise the debt ceiling in exchange for spending cuts. Meanwhile, 58 percent of U.S. adults said debt payments and federal spending should be handled as separate issues, according to an <a href="https://www.washingtonpost.com/politics/2023/05/05/debt-ceiling-poll/" target="_blank" rel="noopener">ABC News/Washington Post poll</a> conducted April 28-May 3. But then, 60 percent of registered voters said Congress should only raise the debt ceiling with spending restraints, according to a May 17-18 <a href="https://harvardharrispoll.com/wp-content/uploads/2023/05/HHP_May2023_KeyResults.pdf" target="_blank" rel="noopener">poll from Harris/Harvard CAPS.</a></p>
-
-
-
-<p data-paragraph="main">OK, so Americans’ views on whether raising the debt ceiling should be tied to spending caps vary a lot by poll. But the one thing they can all agree on is that, one way or the other, the debt ceiling needs to be raised, right? Er … about that … </p>
-
-
-
-<p data-paragraph="main">In a <a href="https://docs.cdn.yougov.com/ved8z2hzyt/20230508_yahoo_tabs.pdf" target="_blank" rel="noopener">YouGov/Yahoo News survey</a> from early May, 40 percent of Americans said they were in favor of raising the debt limit, while 35 percent were opposed and 25 percent were unsure. An <a href="https://www.ipsos.com/sites/default/files/ct/news/documents/2023-05/2023%20Reuters%20Ipsos%20Tracking%20-%20Core%20Political%20Presidential%20Approval%20Tracker%20May%202023.pdf" target="_blank" rel="noopener">Ipsos/Reuters poll conducted May 5-7</a> Uno-reverso’d those results — 43 percent of Americans supported raising the ceiling, while 54 percent opposed it. And when YouGov, in early May, tried <a href="https://docs.cdn.yougov.com/riblsd67kk/crosstabs_Debt%20Ceiling.pdf" target="_blank" rel="noopener">presenting respondents with a more detailed explanation</a> of what raising the debt ceiling entails before asking them if they supported or opposed it, Americans were evenly divided: 39 percent for raising the debt ceiling, 40 percent against it. </p>
-
-
-
-<p data-paragraph="main">Whew! OK, so — what the heck is going on?</p>
-
-
-
-<p data-paragraph="main">First of all, this isn’t anything new: Congress has had debt limit fights in the past, and <a href="https://fivethirtyeight.com/features/what-americans-think-about-the-fight-over-the-debt-ceiling/" target="_blank" rel="noopener">public opinion polling was just as conflicted then</a> as it is now. Second, many of the discrepancies can be explained by simple differences in question wording. </p>
-
-
-
-<p data-paragraph="main">The wording of questions on the debt ceiling, even when ostensibly measuring the same sentiments, varied widely from poll to poll. In the ABC News/Washington Post poll, for example, the question about whether to raise the debt ceiling with or without spending cuts <a href="https://www.washingtonpost.com/tablet/2023/05/05/april-28-may-3-2023-washington-post-abc-news-poll/" target="_blank" rel="noopener">opened with a brief synopsis of the situation</a>: “Congress typically passes legislation on a regular basis to allow the government to pay its debts. Without this step, the government could default on its debts.” That might have primed most respondents to say that the issues of debt payment and federal spending should be handled separately. Meanwhile, in the Harris/Harvard CAPS poll, the question led with, “The current size of the national debt is $31 trillion.” That might have steered respondents toward saying that Congress should raise the debt ceiling only with restraints on future spending.</p>
-
-
-
-<p data-paragraph="main">The polls’ different samples may also have contributed to the different results. Some populations may be more engaged on the topic than others. For example, likely voters (like the ones queried by Data for Progress) might be likelier than all adults (like the ones queried by TIPP) to be aware of the consequences of a default. </p>
-
-
-
-<p data-paragraph="main">But perhaps the biggest factor is how complex of an issue the debt limit fight is — and how poorly many Americans understand it. Let’s go back to that YouGov poll from early May. The pollster quizzed respondents on the correct definition of the debt ceiling: Is it a limit on government spending or a limit on the government’s borrowing to finance spending that already has been approved? While about half of Americans (52 percent) correctly chose the latter definition, a quarter chose the incorrect one, and another 18 percent said they weren’t sure. </p>
-
-
-
-<p data-paragraph="main">Furthermore, in a <a href="https://www.monmouth.edu/polling-institute/reports/monmouthpoll_us_052423/" target="_blank" rel="noopener">Monmouth University poll</a> conducted May 18-23 — just last week! — fewer than half of Americans (45 percent) said they had heard “a lot” about the debt ceiling debate, while 40 percent had heard “a little” and 15 percent had heard “nothing at all.” And in an <a href="https://apnorc.org/projects/few-are-following-the-debate-closely-but-most-want-congress-to-increase-the-debt-limit-with-deficit-reduction-conditions/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=few-are-following-the-debate-closely-but-most-want-congress-to-increase-the-debt-limit-with-deficit-reduction-conditions" target="_blank" rel="noopener">Associated Press/NORC Center for Public Affairs Research poll</a> conducted May 11-15, just 21 percent of U.S. adults said they were following the negotiations over the debt ceiling “extremely closely” or “very closely,” and 20 percent said they understood the situation “extremely well” or “very well.” </p>
-
-
-
-<p data-paragraph="main">Instead, partisan breakdowns of the polling results show many Americans’ views line up with their party’s perspective. Given how volatile the results are, and the fact that few Americans say they are following the topic closely or understand it well, this suggests Americans <a href="https://twitter.com/aedwardslevy/status/1661122764214771715" target="_blank" rel="noopener">don’t have strong, fixed opinions on this issue</a>, making them even more susceptible to partisan messaging. </p>
-
-
-
-<h2><strong>Other polling bites</strong></h2>
-
-
-
-<ul>
-<li>Amid <a href="https://www.propublica.org/article/clarence-thomas-harlan-crow-real-estate-scotus">recent reporting that has raised questions</a> (and prompted <a href="https://www.nytimes.com/2023/05/23/us/politics/harlan-crow-clarence-thomas-judiciary-committee.html">a Senate inquiry</a>) about ethical standards on the Supreme Court, just-released polling results from last year show public confidence in the high court reached an all-time low in 2022. Just 18 percent of U.S. adults said they had a “great deal” of confidence in the Supreme Court, while 46 percent said they had “some” and 36 percent said “hardly any,” according to the <a href="https://apnorc.org/projects/public-confidence-in-the-u-s-supreme-court-is-at-its-lowest-since-1973/">General Social Survey by the Associated Press/NORC</a>. This is the lowest confidence level since the GSS began tracking confidence in the court in 1973. Justice Clarence Thomas (who is at the center of the ethics scandals), in particular, is unpopular. A recent <a href="https://law.marquette.edu/poll/category/poll-release/">Marquette Law School poll</a> found Thomas had a net favorability of -11 percentage points, making him the <a href="https://www.washingtonpost.com/politics/2023/05/24/clarence-thomas-unfavorable-ratings/">least popular justice on the court</a>.</li>
-
-
-
-<li>Despite inflation <a href="https://www.nytimes.com/live/2023/05/10/business/cpi-inflation-fed">slowing for the 10th month in a row</a> in April, more Americans say they’re feeling the pinch of rising prices. Sixty-one percent of Americans said recent price increases have caused a financial hardship for their household, according to a <a href="https://news.gallup.com/poll/505928/say-inflation-causing-financial-hardship.aspx">Gallup poll conducted April 3-17</a>. This is up 6 points since the last time Gallup surveyed on this question in November 2022 and is the highest since the pollster started asking in November 2021. Lower-income Americans were more likely than middle- and upper-income Americans to report that price increases have caused a hardship, and they were also more likely to report that the hardship is severe enough to affect their ability to maintain their standard of living. </li>
-
-
-
-<li>Former President Donald Trump’s supporters have an image problem, according to a <a href="https://tippinsights.com/can-trump-escape-the-maga-extremist-label-i-i-tipp-poll/">TIPP/Issues &amp; Insights poll from May 3-5</a>. When asked whether they “agree or disagree with describing Trump supporters as MAGA extremists,” 50 percent of U.S. adults agreed, including 24 percent of Republicans. </li>
-
-
-
-<li>The majority of Americans say they’ve never taken any psychedelics … but those who have tried magic mushrooms say they had a pretty good time. A <a href="https://docs.cdn.yougov.com/w0tzky5izb/crosstabs_Psychedelics.pdf">YouGov survey conducted May 16-19</a> asked U.S. adults if they had ever tried LSD (acid), psilocybin (magic mushrooms), MDMA, DMT, mescaline (peyote), Ketamine, or Salvia. Sixty-eight percent said they hadn’t tried any of the psychedelics, while 12 percent had tried acid, 12 percent had tried ’shrooms and 10 percent had taken MDMA. But among those who had tried psilocybin, 83 percent said they had a somewhat or very positive experience. As more states <a href="https://www.foxnews.com/politics/us-states-considering-legalization-psychedelic-mushrooms-therapeutic-use">consider legalizing or decriminalizing</a> certain psychedelics such as psilocybin, perhaps these numbers will shift. (Or if you’re currently on a psychedelic, they might be shifting all over the room right now.) </li>
-</ul>
-
-
-
-<h2><strong>Biden approval</strong></h2>
-
-
-
-<figure><img decoding="async" loading="lazy" width="1150" height="920" src="https://fivethirtyeight.com/wp-content/uploads/2023/05/biden-approval-rating-2.png" alt="" data-src="https://fivethirtyeight.com/wp-content/uploads/2023/05/biden-approval-rating-2.png" data-srcset="https://fivethirtyeight.com/wp-content/uploads/2023/05/biden-approval-rating-2.png?w=712 1x, https://fivethirtyeight.com/wp-content/uploads/2023/05/biden-approval-rating-2.png?w=1424 2x"></figure>
-
-
-
-<p data-paragraph="main"><br>According to FiveThirtyEight’s <a href="https://projects.fivethirtyeight.com/biden-approval-rating/" target="_blank" rel="noopener">presidential approval tracker</a>,<a data-footnote-id="16" href="https://fivethirtyeight.com/wp-json/wp/v2/espn_verticals/398#fn-16" data-footnote-content="&lt;p&gt;&lt;p&gt;As of 9 a.m. Eastern on Tuesday.&lt;/p&gt;
-&lt;/p&gt;"><sup>16</sup></a> 41.5 percent of Americans approve of the job Biden is doing as president, while 54.8 percent disapprove (a net approval rating of -13.3 points). At this time last week, 42.1 percent approved and 53.5 percent disapproved (a net approval rating of -11.3 points). One month ago, Biden had an approval rating of 43.0 percent and a disapproval rating of 52.5 percent, for a net approval rating of -9.5 points.</p>]]></description>
-			<pubDate>Tue, 30 May 2023 15:21:00 +0100</pubDate>
-			<guid isPermaLink="false">1686271500953850</guid>
 		</item>
 
 	</channel>
