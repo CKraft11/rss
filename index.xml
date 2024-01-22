@@ -3,8 +3,8 @@
 		<title>Main stream | FreshRSS</title>
 		<link>http://radon</link>
 		<description>RSS feed of Main stream | FreshRSS</description>
-		<pubDate>Tue, 14 Nov 2023 05:29:06 +0000</pubDate>
-		<lastBuildDate>Tue, 14 Nov 2023 05:29:06 GMT</lastBuildDate>
+		<pubDate>Mon, 22 Jan 2024 15:29:06 +0000</pubDate>
+		<lastBuildDate>Mon, 22 Jan 2024 15:29:06 GMT</lastBuildDate>
 		<atom:link href="http://radon/i/?a=rss" rel="self" type="application/rss+xml" />
 		<item>
 			<title>What Americans Think Of The Biden Impeachment Inquiry</title>
@@ -51,8 +51,7 @@
 															<source media="(min-width: 768px)">
 							
 															<source>
-								<img decoding="async" alt="538_Hunter_Joe_Biden_091423_POLLA_v01_ks-4×3" src="https://fivethirtyeight.com/wp-content/uploads/2023/09/538_Hunter_Joe_Biden_091423_POLLA_v01_ks-4x3-1.jpg?w=916" data-sizes="(max-width: 768px) 100vw, (max-width: 1080px) 66vw, 684px" data-src="https://fivethirtyeight.com/wp-content/uploads/2023/09/538_Hunter_Joe_Biden_091423_POLLA_v01_ks-4x3-1.jpg?w=916" data-srcset="https://fivethirtyeight.com/wp-content/uploads/2023/09/538_Hunter_Joe_Biden_091423_POLLA_v01_ks-4x3-1.jpg?w=916 1x, https://fivethirtyeight.com/wp-content/uploads/2023/09/538_Hunter_Joe_Biden_091423_POLLA_v01_ks-4x3-1.jpg?w=1832 2x">
-													</source></source></picture>
+								<img fetchpriority="high" decoding="async" width="916" height="687" src="https://fivethirtyeight.com/wp-content/uploads/2023/09/538_Hunter_Joe_Biden_091423_POLLA_v01_ks-4x3-1.jpg?w=916" alt="" data-sizes="(max-width: 916px) 100vw, 916px" data-src="https://fivethirtyeight.com/wp-content/uploads/2023/09/538_Hunter_Joe_Biden_091423_POLLA_v01_ks-4x3-1.jpg?w=916" data-srcset="https://fivethirtyeight.com/wp-content/uploads/2023/09/538_Hunter_Joe_Biden_091423_POLLA_v01_ks-4x3-1.jpg 1200w, https://fivethirtyeight.com/wp-content/uploads/2023/09/538_Hunter_Joe_Biden_091423_POLLA_v01_ks-4x3-1.jpg?resize=100,75 100w, https://fivethirtyeight.com/wp-content/uploads/2023/09/538_Hunter_Joe_Biden_091423_POLLA_v01_ks-4x3-1.jpg?resize=300,225 300w, https://fivethirtyeight.com/wp-content/uploads/2023/09/538_Hunter_Joe_Biden_091423_POLLA_v01_ks-4x3-1.jpg?resize=768,576 768w, https://fivethirtyeight.com/wp-content/uploads/2023/09/538_Hunter_Joe_Biden_091423_POLLA_v01_ks-4x3-1.jpg?resize=1024,768 1024w, https://fivethirtyeight.com/wp-content/uploads/2023/09/538_Hunter_Joe_Biden_091423_POLLA_v01_ks-4x3-1.jpg?resize=683,512 683w, https://fivethirtyeight.com/wp-content/uploads/2023/09/538_Hunter_Joe_Biden_091423_POLLA_v01_ks-4x3-1.jpg?resize=575,432 575w, https://fivethirtyeight.com/wp-content/uploads/2023/09/538_Hunter_Joe_Biden_091423_POLLA_v01_ks-4x3-1.jpg?resize=470,352 470w, https://fivethirtyeight.com/wp-content/uploads/2023/09/538_Hunter_Joe_Biden_091423_POLLA_v01_ks-4x3-1.jpg?resize=600,450 600w, https://fivethirtyeight.com/wp-content/uploads/2023/09/538_Hunter_Joe_Biden_091423_POLLA_v01_ks-4x3-1.jpg?resize=347,260 347w, https://fivethirtyeight.com/wp-content/uploads/2023/09/538_Hunter_Joe_Biden_091423_POLLA_v01_ks-4x3-1.jpg?resize=213,160 213w, https://fivethirtyeight.com/wp-content/uploads/2023/09/538_Hunter_Joe_Biden_091423_POLLA_v01_ks-4x3-1.jpg?resize=207,155 207w, https://fivethirtyeight.com/wp-content/uploads/2023/09/538_Hunter_Joe_Biden_091423_POLLA_v01_ks-4x3-1.jpg?resize=60,45 60w, https://fivethirtyeight.com/wp-content/uploads/2023/09/538_Hunter_Joe_Biden_091423_POLLA_v01_ks-4x3-1.jpg?resize=916,687 916w">													</source></source></picture>
 					</div>
 
 				
@@ -176,7 +175,7 @@
 
 
 
-<figure><img fetchpriority="high" decoding="async" width="1150" height="920" src="https://fivethirtyeight.com/wp-content/uploads/2023/09/image.png" alt="" data-src="https://fivethirtyeight.com/wp-content/uploads/2023/09/image.png" data-srcset="https://fivethirtyeight.com/wp-content/uploads/2023/09/image.png?w=712 1x, https://fivethirtyeight.com/wp-content/uploads/2023/09/image.png?w=1424 2x"></figure>
+<figure><img decoding="async" width="1150" height="920" src="https://fivethirtyeight.com/wp-content/uploads/2023/09/image.png" alt="" data-sizes="(max-width: 1150px) 100vw, 1150px" data-src="https://fivethirtyeight.com/wp-content/uploads/2023/09/image.png" data-srcset="https://fivethirtyeight.com/wp-content/uploads/2023/09/image.png 1150w, https://fivethirtyeight.com/wp-content/uploads/2023/09/image.png?resize=94,75 94w, https://fivethirtyeight.com/wp-content/uploads/2023/09/image.png?resize=300,240 300w, https://fivethirtyeight.com/wp-content/uploads/2023/09/image.png?resize=768,614 768w, https://fivethirtyeight.com/wp-content/uploads/2023/09/image.png?resize=1024,819 1024w, https://fivethirtyeight.com/wp-content/uploads/2023/09/image.png?resize=640,512 640w, https://fivethirtyeight.com/wp-content/uploads/2023/09/image.png?resize=540,432 540w, https://fivethirtyeight.com/wp-content/uploads/2023/09/image.png?resize=440,352 440w, https://fivethirtyeight.com/wp-content/uploads/2023/09/image.png?resize=281,225 281w, https://fivethirtyeight.com/wp-content/uploads/2023/09/image.png?resize=563,450 563w, https://fivethirtyeight.com/wp-content/uploads/2023/09/image.png?resize=325,260 325w, https://fivethirtyeight.com/wp-content/uploads/2023/09/image.png?resize=200,160 200w, https://fivethirtyeight.com/wp-content/uploads/2023/09/image.png?resize=720,576 720w, https://fivethirtyeight.com/wp-content/uploads/2023/09/image.png?resize=194,155 194w, https://fivethirtyeight.com/wp-content/uploads/2023/09/image.png?resize=100,80 100w, https://fivethirtyeight.com/wp-content/uploads/2023/09/image.png?resize=60,48 60w, https://fivethirtyeight.com/wp-content/uploads/2023/09/image.png?resize=859,687 859w"></figure>
 
 
 
@@ -241,8 +240,7 @@
 															<source media="(min-width: 768px)">
 							
 															<source>
-								<img decoding="async" alt="MILWAUKEE, WI – AUGUST 23:  Former Arkansas governor Asa Hutchi" src="https://fivethirtyeight.com/wp-content/uploads/2023/09/second-debate-check-in_4x3.jpeg?w=995" data-sizes="(max-width: 768px) 100vw, (max-width: 1080px) 66vw, 684px" data-src="https://fivethirtyeight.com/wp-content/uploads/2023/09/second-debate-check-in_4x3.jpeg?w=995" data-srcset="https://fivethirtyeight.com/wp-content/uploads/2023/09/second-debate-check-in_4x3.jpeg?w=995 1x, https://fivethirtyeight.com/wp-content/uploads/2023/09/second-debate-check-in_4x3.jpeg?w=1990 2x">
-													</source></source></picture>
+								<img decoding="async" width="995" height="687" src="https://fivethirtyeight.com/wp-content/uploads/2023/09/second-debate-check-in_4x3.jpeg?w=995" alt="" data-sizes="(max-width: 995px) 100vw, 995px" data-src="https://fivethirtyeight.com/wp-content/uploads/2023/09/second-debate-check-in_4x3.jpeg?w=995" data-srcset="https://fivethirtyeight.com/wp-content/uploads/2023/09/second-debate-check-in_4x3.jpeg 2893w, https://fivethirtyeight.com/wp-content/uploads/2023/09/second-debate-check-in_4x3.jpeg?resize=100,69 100w, https://fivethirtyeight.com/wp-content/uploads/2023/09/second-debate-check-in_4x3.jpeg?resize=300,207 300w, https://fivethirtyeight.com/wp-content/uploads/2023/09/second-debate-check-in_4x3.jpeg?resize=768,530 768w, https://fivethirtyeight.com/wp-content/uploads/2023/09/second-debate-check-in_4x3.jpeg?resize=1024,707 1024w, https://fivethirtyeight.com/wp-content/uploads/2023/09/second-debate-check-in_4x3.jpeg?resize=1536,1060 1536w, https://fivethirtyeight.com/wp-content/uploads/2023/09/second-debate-check-in_4x3.jpeg?resize=2048,1414 2048w, https://fivethirtyeight.com/wp-content/uploads/2023/09/second-debate-check-in_4x3.jpeg?resize=683,471 683w, https://fivethirtyeight.com/wp-content/uploads/2023/09/second-debate-check-in_4x3.jpeg?resize=575,397 575w, https://fivethirtyeight.com/wp-content/uploads/2023/09/second-debate-check-in_4x3.jpeg?resize=470,324 470w, https://fivethirtyeight.com/wp-content/uploads/2023/09/second-debate-check-in_4x3.jpeg?resize=600,414 600w, https://fivethirtyeight.com/wp-content/uploads/2023/09/second-debate-check-in_4x3.jpeg?resize=377,260 377w, https://fivethirtyeight.com/wp-content/uploads/2023/09/second-debate-check-in_4x3.jpeg?resize=232,160 232w, https://fivethirtyeight.com/wp-content/uploads/2023/09/second-debate-check-in_4x3.jpeg?resize=834,576 834w, https://fivethirtyeight.com/wp-content/uploads/2023/09/second-debate-check-in_4x3.jpeg?resize=207,143 207w, https://fivethirtyeight.com/wp-content/uploads/2023/09/second-debate-check-in_4x3.jpeg?resize=60,41 60w, https://fivethirtyeight.com/wp-content/uploads/2023/09/second-debate-check-in_4x3.jpeg?resize=995,687 995w">													</source></source></picture>
 					</div>
 
 				
@@ -355,8 +353,7 @@
 															<source media="(min-width: 768px)">
 							
 															<source>
-								<img decoding="async" alt="Sen. Mitt Romney Announces He Will Not Be Seeking Re-Election" src="https://fivethirtyeight.com/wp-content/uploads/2023/09/romney-retirement_4x3.jpeg?w=914" data-sizes="(max-width: 768px) 100vw, (max-width: 1080px) 66vw, 684px" data-src="https://fivethirtyeight.com/wp-content/uploads/2023/09/romney-retirement_4x3.jpeg?w=914" data-srcset="https://fivethirtyeight.com/wp-content/uploads/2023/09/romney-retirement_4x3.jpeg?w=914 1x, https://fivethirtyeight.com/wp-content/uploads/2023/09/romney-retirement_4x3.jpeg?w=1828 2x">
-													</source></source></picture>
+								<img loading="lazy" decoding="async" width="914" height="687" src="https://fivethirtyeight.com/wp-content/uploads/2023/09/romney-retirement_4x3.jpeg?w=914" alt="" data-sizes="(max-width: 914px) 100vw, 914px" data-src="https://fivethirtyeight.com/wp-content/uploads/2023/09/romney-retirement_4x3.jpeg?w=914" data-srcset="https://fivethirtyeight.com/wp-content/uploads/2023/09/romney-retirement_4x3.jpeg 7076w, https://fivethirtyeight.com/wp-content/uploads/2023/09/romney-retirement_4x3.jpeg?resize=100,75 100w, https://fivethirtyeight.com/wp-content/uploads/2023/09/romney-retirement_4x3.jpeg?resize=300,225 300w, https://fivethirtyeight.com/wp-content/uploads/2023/09/romney-retirement_4x3.jpeg?resize=768,577 768w, https://fivethirtyeight.com/wp-content/uploads/2023/09/romney-retirement_4x3.jpeg?resize=1024,770 1024w, https://fivethirtyeight.com/wp-content/uploads/2023/09/romney-retirement_4x3.jpeg?resize=1536,1154 1536w, https://fivethirtyeight.com/wp-content/uploads/2023/09/romney-retirement_4x3.jpeg?resize=2048,1539 2048w, https://fivethirtyeight.com/wp-content/uploads/2023/09/romney-retirement_4x3.jpeg?resize=681,512 681w, https://fivethirtyeight.com/wp-content/uploads/2023/09/romney-retirement_4x3.jpeg?resize=575,432 575w, https://fivethirtyeight.com/wp-content/uploads/2023/09/romney-retirement_4x3.jpeg?resize=468,352 468w, https://fivethirtyeight.com/wp-content/uploads/2023/09/romney-retirement_4x3.jpeg?resize=600,450 600w, https://fivethirtyeight.com/wp-content/uploads/2023/09/romney-retirement_4x3.jpeg?resize=346,260 346w, https://fivethirtyeight.com/wp-content/uploads/2023/09/romney-retirement_4x3.jpeg?resize=213,160 213w, https://fivethirtyeight.com/wp-content/uploads/2023/09/romney-retirement_4x3.jpeg?resize=766,576 766w, https://fivethirtyeight.com/wp-content/uploads/2023/09/romney-retirement_4x3.jpeg?resize=207,155 207w, https://fivethirtyeight.com/wp-content/uploads/2023/09/romney-retirement_4x3.jpeg?resize=60,45 60w, https://fivethirtyeight.com/wp-content/uploads/2023/09/romney-retirement_4x3.jpeg?resize=914,687 914w">													</source></source></picture>
 					</div>
 
 				
@@ -476,8 +473,7 @@
 															<source media="(min-width: 768px)">
 							
 															<source>
-								<img decoding="async" alt="slackchat_SQ_091223" src="https://fivethirtyeight.com/wp-content/uploads/2023/09/slackchat_SQ_091223.jpg?w=916" data-sizes="(max-width: 768px) 100vw, (max-width: 1080px) 66vw, 684px" data-src="https://fivethirtyeight.com/wp-content/uploads/2023/09/slackchat_SQ_091223.jpg?w=916" data-srcset="https://fivethirtyeight.com/wp-content/uploads/2023/09/slackchat_SQ_091223.jpg?w=916 1x, https://fivethirtyeight.com/wp-content/uploads/2023/09/slackchat_SQ_091223.jpg?w=1832 2x">
-													</source></source></picture>
+								<img loading="lazy" decoding="async" width="916" height="687" src="https://fivethirtyeight.com/wp-content/uploads/2023/09/slackchat_SQ_091223.jpg?w=916" alt="" data-sizes="(max-width: 916px) 100vw, 916px" data-src="https://fivethirtyeight.com/wp-content/uploads/2023/09/slackchat_SQ_091223.jpg?w=916" data-srcset="https://fivethirtyeight.com/wp-content/uploads/2023/09/slackchat_SQ_091223.jpg 1200w, https://fivethirtyeight.com/wp-content/uploads/2023/09/slackchat_SQ_091223.jpg?resize=100,75 100w, https://fivethirtyeight.com/wp-content/uploads/2023/09/slackchat_SQ_091223.jpg?resize=300,225 300w, https://fivethirtyeight.com/wp-content/uploads/2023/09/slackchat_SQ_091223.jpg?resize=768,576 768w, https://fivethirtyeight.com/wp-content/uploads/2023/09/slackchat_SQ_091223.jpg?resize=1024,768 1024w, https://fivethirtyeight.com/wp-content/uploads/2023/09/slackchat_SQ_091223.jpg?resize=683,512 683w, https://fivethirtyeight.com/wp-content/uploads/2023/09/slackchat_SQ_091223.jpg?resize=575,432 575w, https://fivethirtyeight.com/wp-content/uploads/2023/09/slackchat_SQ_091223.jpg?resize=470,352 470w, https://fivethirtyeight.com/wp-content/uploads/2023/09/slackchat_SQ_091223.jpg?resize=600,450 600w, https://fivethirtyeight.com/wp-content/uploads/2023/09/slackchat_SQ_091223.jpg?resize=347,260 347w, https://fivethirtyeight.com/wp-content/uploads/2023/09/slackchat_SQ_091223.jpg?resize=213,160 213w, https://fivethirtyeight.com/wp-content/uploads/2023/09/slackchat_SQ_091223.jpg?resize=207,155 207w, https://fivethirtyeight.com/wp-content/uploads/2023/09/slackchat_SQ_091223.jpg?resize=60,45 60w, https://fivethirtyeight.com/wp-content/uploads/2023/09/slackchat_SQ_091223.jpg?resize=916,687 916w">													</source></source></picture>
 					</div>
 
 				
@@ -741,8 +737,7 @@
 															<source media="(min-width: 768px)">
 							
 															<source>
-								<img decoding="async" alt="RonDeSantisFloridaMainImage_4x3_v01_DG4x3_v01_DG" src="https://fivethirtyeight.com/wp-content/uploads/2023/09/RonDeSantisFloridaMainImage_4x3_v01_DG4x3_v01_DG.png?w=916" data-sizes="(max-width: 768px) 100vw, (max-width: 1080px) 66vw, 684px" data-src="https://fivethirtyeight.com/wp-content/uploads/2023/09/RonDeSantisFloridaMainImage_4x3_v01_DG4x3_v01_DG.png?w=916" data-srcset="https://fivethirtyeight.com/wp-content/uploads/2023/09/RonDeSantisFloridaMainImage_4x3_v01_DG4x3_v01_DG.png?w=916 1x, https://fivethirtyeight.com/wp-content/uploads/2023/09/RonDeSantisFloridaMainImage_4x3_v01_DG4x3_v01_DG.png?w=1832 2x">
-													</source></source></picture>
+								<img loading="lazy" decoding="async" width="916" height="687" src="https://fivethirtyeight.com/wp-content/uploads/2023/09/RonDeSantisFloridaMainImage_4x3_v01_DG4x3_v01_DG.png?w=916" alt="" data-sizes="(max-width: 916px) 100vw, 916px" data-src="https://fivethirtyeight.com/wp-content/uploads/2023/09/RonDeSantisFloridaMainImage_4x3_v01_DG4x3_v01_DG.png?w=916" data-srcset="https://fivethirtyeight.com/wp-content/uploads/2023/09/RonDeSantisFloridaMainImage_4x3_v01_DG4x3_v01_DG.png 1200w, https://fivethirtyeight.com/wp-content/uploads/2023/09/RonDeSantisFloridaMainImage_4x3_v01_DG4x3_v01_DG.png?resize=100,75 100w, https://fivethirtyeight.com/wp-content/uploads/2023/09/RonDeSantisFloridaMainImage_4x3_v01_DG4x3_v01_DG.png?resize=300,225 300w, https://fivethirtyeight.com/wp-content/uploads/2023/09/RonDeSantisFloridaMainImage_4x3_v01_DG4x3_v01_DG.png?resize=768,576 768w, https://fivethirtyeight.com/wp-content/uploads/2023/09/RonDeSantisFloridaMainImage_4x3_v01_DG4x3_v01_DG.png?resize=1024,768 1024w, https://fivethirtyeight.com/wp-content/uploads/2023/09/RonDeSantisFloridaMainImage_4x3_v01_DG4x3_v01_DG.png?resize=683,512 683w, https://fivethirtyeight.com/wp-content/uploads/2023/09/RonDeSantisFloridaMainImage_4x3_v01_DG4x3_v01_DG.png?resize=575,432 575w, https://fivethirtyeight.com/wp-content/uploads/2023/09/RonDeSantisFloridaMainImage_4x3_v01_DG4x3_v01_DG.png?resize=470,352 470w, https://fivethirtyeight.com/wp-content/uploads/2023/09/RonDeSantisFloridaMainImage_4x3_v01_DG4x3_v01_DG.png?resize=600,450 600w, https://fivethirtyeight.com/wp-content/uploads/2023/09/RonDeSantisFloridaMainImage_4x3_v01_DG4x3_v01_DG.png?resize=347,260 347w, https://fivethirtyeight.com/wp-content/uploads/2023/09/RonDeSantisFloridaMainImage_4x3_v01_DG4x3_v01_DG.png?resize=213,160 213w, https://fivethirtyeight.com/wp-content/uploads/2023/09/RonDeSantisFloridaMainImage_4x3_v01_DG4x3_v01_DG.png?resize=207,155 207w, https://fivethirtyeight.com/wp-content/uploads/2023/09/RonDeSantisFloridaMainImage_4x3_v01_DG4x3_v01_DG.png?resize=60,45 60w, https://fivethirtyeight.com/wp-content/uploads/2023/09/RonDeSantisFloridaMainImage_4x3_v01_DG4x3_v01_DG.png?resize=916,687 916w">													</source></source></picture>
 					</div>
 
 				
@@ -1079,8 +1074,7 @@
 															<source media="(min-width: 768px)">
 							
 															<source>
-								<img decoding="async" alt="Senators Meet For Their Weekly Policy Luncheons On Capitol Hill" src="https://fivethirtyeight.com/wp-content/uploads/2023/09/aging-pols_4x3.jpeg?w=916" data-sizes="(max-width: 768px) 100vw, (max-width: 1080px) 66vw, 684px" data-src="https://fivethirtyeight.com/wp-content/uploads/2023/09/aging-pols_4x3.jpeg?w=916" data-srcset="https://fivethirtyeight.com/wp-content/uploads/2023/09/aging-pols_4x3.jpeg?w=916 1x, https://fivethirtyeight.com/wp-content/uploads/2023/09/aging-pols_4x3.jpeg?w=1832 2x">
-													</source></source></picture>
+								<img loading="lazy" decoding="async" width="916" height="687" src="https://fivethirtyeight.com/wp-content/uploads/2023/09/aging-pols_4x3.jpeg?w=916" alt="" data-sizes="(max-width: 916px) 100vw, 916px" data-src="https://fivethirtyeight.com/wp-content/uploads/2023/09/aging-pols_4x3.jpeg?w=916" data-srcset="https://fivethirtyeight.com/wp-content/uploads/2023/09/aging-pols_4x3.jpeg 6578w, https://fivethirtyeight.com/wp-content/uploads/2023/09/aging-pols_4x3.jpeg?resize=100,75 100w, https://fivethirtyeight.com/wp-content/uploads/2023/09/aging-pols_4x3.jpeg?resize=300,225 300w, https://fivethirtyeight.com/wp-content/uploads/2023/09/aging-pols_4x3.jpeg?resize=768,576 768w, https://fivethirtyeight.com/wp-content/uploads/2023/09/aging-pols_4x3.jpeg?resize=1024,768 1024w, https://fivethirtyeight.com/wp-content/uploads/2023/09/aging-pols_4x3.jpeg?resize=1536,1152 1536w, https://fivethirtyeight.com/wp-content/uploads/2023/09/aging-pols_4x3.jpeg?resize=2048,1536 2048w, https://fivethirtyeight.com/wp-content/uploads/2023/09/aging-pols_4x3.jpeg?resize=683,512 683w, https://fivethirtyeight.com/wp-content/uploads/2023/09/aging-pols_4x3.jpeg?resize=575,432 575w, https://fivethirtyeight.com/wp-content/uploads/2023/09/aging-pols_4x3.jpeg?resize=470,352 470w, https://fivethirtyeight.com/wp-content/uploads/2023/09/aging-pols_4x3.jpeg?resize=600,450 600w, https://fivethirtyeight.com/wp-content/uploads/2023/09/aging-pols_4x3.jpeg?resize=347,260 347w, https://fivethirtyeight.com/wp-content/uploads/2023/09/aging-pols_4x3.jpeg?resize=213,160 213w, https://fivethirtyeight.com/wp-content/uploads/2023/09/aging-pols_4x3.jpeg?resize=207,155 207w, https://fivethirtyeight.com/wp-content/uploads/2023/09/aging-pols_4x3.jpeg?resize=60,45 60w, https://fivethirtyeight.com/wp-content/uploads/2023/09/aging-pols_4x3.jpeg?resize=916,687 916w">													</source></source></picture>
 					</div>
 
 				
@@ -1307,8 +1301,7 @@
 															<source media="(min-width: 768px)">
 							
 															<source>
-								<img decoding="async" alt="SlackChat_9_5_23_v01_DG" src="https://fivethirtyeight.com/wp-content/uploads/2023/09/SlackChat_9_5_23_v01_DG.png?w=916" data-sizes="(max-width: 768px) 100vw, (max-width: 1080px) 66vw, 684px" data-src="https://fivethirtyeight.com/wp-content/uploads/2023/09/SlackChat_9_5_23_v01_DG.png?w=916" data-srcset="https://fivethirtyeight.com/wp-content/uploads/2023/09/SlackChat_9_5_23_v01_DG.png?w=916 1x, https://fivethirtyeight.com/wp-content/uploads/2023/09/SlackChat_9_5_23_v01_DG.png?w=1832 2x">
-													</source></source></picture>
+								<img loading="lazy" decoding="async" width="916" height="687" src="https://fivethirtyeight.com/wp-content/uploads/2023/09/SlackChat_9_5_23_v01_DG.png?w=916" alt="" data-sizes="(max-width: 916px) 100vw, 916px" data-src="https://fivethirtyeight.com/wp-content/uploads/2023/09/SlackChat_9_5_23_v01_DG.png?w=916" data-srcset="https://fivethirtyeight.com/wp-content/uploads/2023/09/SlackChat_9_5_23_v01_DG.png 1200w, https://fivethirtyeight.com/wp-content/uploads/2023/09/SlackChat_9_5_23_v01_DG.png?resize=100,75 100w, https://fivethirtyeight.com/wp-content/uploads/2023/09/SlackChat_9_5_23_v01_DG.png?resize=300,225 300w, https://fivethirtyeight.com/wp-content/uploads/2023/09/SlackChat_9_5_23_v01_DG.png?resize=768,576 768w, https://fivethirtyeight.com/wp-content/uploads/2023/09/SlackChat_9_5_23_v01_DG.png?resize=1024,768 1024w, https://fivethirtyeight.com/wp-content/uploads/2023/09/SlackChat_9_5_23_v01_DG.png?resize=683,512 683w, https://fivethirtyeight.com/wp-content/uploads/2023/09/SlackChat_9_5_23_v01_DG.png?resize=575,432 575w, https://fivethirtyeight.com/wp-content/uploads/2023/09/SlackChat_9_5_23_v01_DG.png?resize=470,352 470w, https://fivethirtyeight.com/wp-content/uploads/2023/09/SlackChat_9_5_23_v01_DG.png?resize=600,450 600w, https://fivethirtyeight.com/wp-content/uploads/2023/09/SlackChat_9_5_23_v01_DG.png?resize=347,260 347w, https://fivethirtyeight.com/wp-content/uploads/2023/09/SlackChat_9_5_23_v01_DG.png?resize=213,160 213w, https://fivethirtyeight.com/wp-content/uploads/2023/09/SlackChat_9_5_23_v01_DG.png?resize=207,155 207w, https://fivethirtyeight.com/wp-content/uploads/2023/09/SlackChat_9_5_23_v01_DG.png?resize=60,45 60w, https://fivethirtyeight.com/wp-content/uploads/2023/09/SlackChat_9_5_23_v01_DG.png?resize=916,687 916w">													</source></source></picture>
 					</div>
 
 				
@@ -1728,8 +1721,7 @@
 															<source media="(min-width: 768px)">
 							
 															<source>
-								<img decoding="async" alt="ElectionUpdate_RhodeIsland+Utah_v03Artboard-2" src="https://fivethirtyeight.com/wp-content/uploads/2023/08/ElectionUpdate_RhodeIslandUtah_v03Artboard-2.png?w=859" data-sizes="(max-width: 768px) 100vw, (max-width: 1080px) 66vw, 684px" data-src="https://fivethirtyeight.com/wp-content/uploads/2023/08/ElectionUpdate_RhodeIslandUtah_v03Artboard-2.png?w=859" data-srcset="https://fivethirtyeight.com/wp-content/uploads/2023/08/ElectionUpdate_RhodeIslandUtah_v03Artboard-2.png?w=859 1x, https://fivethirtyeight.com/wp-content/uploads/2023/08/ElectionUpdate_RhodeIslandUtah_v03Artboard-2.png?w=1718 2x">
-													</source></source></picture>
+								<img loading="lazy" decoding="async" width="859" height="687" src="https://fivethirtyeight.com/wp-content/uploads/2023/08/ElectionUpdate_RhodeIslandUtah_v03Artboard-2.png?w=859" alt="" data-sizes="(max-width: 859px) 100vw, 859px" data-src="https://fivethirtyeight.com/wp-content/uploads/2023/08/ElectionUpdate_RhodeIslandUtah_v03Artboard-2.png?w=859" data-srcset="https://fivethirtyeight.com/wp-content/uploads/2023/08/ElectionUpdate_RhodeIslandUtah_v03Artboard-2.png 1350w, https://fivethirtyeight.com/wp-content/uploads/2023/08/ElectionUpdate_RhodeIslandUtah_v03Artboard-2.png?resize=94,75 94w, https://fivethirtyeight.com/wp-content/uploads/2023/08/ElectionUpdate_RhodeIslandUtah_v03Artboard-2.png?resize=300,240 300w, https://fivethirtyeight.com/wp-content/uploads/2023/08/ElectionUpdate_RhodeIslandUtah_v03Artboard-2.png?resize=768,614 768w, https://fivethirtyeight.com/wp-content/uploads/2023/08/ElectionUpdate_RhodeIslandUtah_v03Artboard-2.png?resize=1024,819 1024w, https://fivethirtyeight.com/wp-content/uploads/2023/08/ElectionUpdate_RhodeIslandUtah_v03Artboard-2.png?resize=640,512 640w, https://fivethirtyeight.com/wp-content/uploads/2023/08/ElectionUpdate_RhodeIslandUtah_v03Artboard-2.png?resize=540,432 540w, https://fivethirtyeight.com/wp-content/uploads/2023/08/ElectionUpdate_RhodeIslandUtah_v03Artboard-2.png?resize=440,352 440w, https://fivethirtyeight.com/wp-content/uploads/2023/08/ElectionUpdate_RhodeIslandUtah_v03Artboard-2.png?resize=281,225 281w, https://fivethirtyeight.com/wp-content/uploads/2023/08/ElectionUpdate_RhodeIslandUtah_v03Artboard-2.png?resize=563,450 563w, https://fivethirtyeight.com/wp-content/uploads/2023/08/ElectionUpdate_RhodeIslandUtah_v03Artboard-2.png?resize=325,260 325w, https://fivethirtyeight.com/wp-content/uploads/2023/08/ElectionUpdate_RhodeIslandUtah_v03Artboard-2.png?resize=200,160 200w, https://fivethirtyeight.com/wp-content/uploads/2023/08/ElectionUpdate_RhodeIslandUtah_v03Artboard-2.png?resize=720,576 720w, https://fivethirtyeight.com/wp-content/uploads/2023/08/ElectionUpdate_RhodeIslandUtah_v03Artboard-2.png?resize=194,155 194w, https://fivethirtyeight.com/wp-content/uploads/2023/08/ElectionUpdate_RhodeIslandUtah_v03Artboard-2.png?resize=100,80 100w, https://fivethirtyeight.com/wp-content/uploads/2023/08/ElectionUpdate_RhodeIslandUtah_v03Artboard-2.png?resize=60,48 60w, https://fivethirtyeight.com/wp-content/uploads/2023/08/ElectionUpdate_RhodeIslandUtah_v03Artboard-2.png?resize=859,687 859w">													</source></source></picture>
 					</div>
 
 				
@@ -1880,8 +1872,7 @@
 															<source media="(min-width: 768px)">
 							
 															<source>
-								<img decoding="async" alt="2024 Presidential Candidates Participate In Republican Primary Debate" src="https://fivethirtyeight.com/wp-content/uploads/2023/08/ramaswamy-ceiling_4x3.jpeg?w=916" data-sizes="(max-width: 768px) 100vw, (max-width: 1080px) 66vw, 684px" data-src="https://fivethirtyeight.com/wp-content/uploads/2023/08/ramaswamy-ceiling_4x3.jpeg?w=916" data-srcset="https://fivethirtyeight.com/wp-content/uploads/2023/08/ramaswamy-ceiling_4x3.jpeg?w=916 1x, https://fivethirtyeight.com/wp-content/uploads/2023/08/ramaswamy-ceiling_4x3.jpeg?w=1832 2x">
-													</source></source></picture>
+								<img loading="lazy" decoding="async" width="916" height="687" src="https://fivethirtyeight.com/wp-content/uploads/2023/08/ramaswamy-ceiling_4x3.jpeg?w=916" alt="" data-sizes="(max-width: 916px) 100vw, 916px" data-src="https://fivethirtyeight.com/wp-content/uploads/2023/08/ramaswamy-ceiling_4x3.jpeg?w=916" data-srcset="https://fivethirtyeight.com/wp-content/uploads/2023/08/ramaswamy-ceiling_4x3.jpeg 2201w, https://fivethirtyeight.com/wp-content/uploads/2023/08/ramaswamy-ceiling_4x3.jpeg?resize=100,75 100w, https://fivethirtyeight.com/wp-content/uploads/2023/08/ramaswamy-ceiling_4x3.jpeg?resize=300,225 300w, https://fivethirtyeight.com/wp-content/uploads/2023/08/ramaswamy-ceiling_4x3.jpeg?resize=768,576 768w, https://fivethirtyeight.com/wp-content/uploads/2023/08/ramaswamy-ceiling_4x3.jpeg?resize=1024,768 1024w, https://fivethirtyeight.com/wp-content/uploads/2023/08/ramaswamy-ceiling_4x3.jpeg?resize=1536,1151 1536w, https://fivethirtyeight.com/wp-content/uploads/2023/08/ramaswamy-ceiling_4x3.jpeg?resize=2048,1535 2048w, https://fivethirtyeight.com/wp-content/uploads/2023/08/ramaswamy-ceiling_4x3.jpeg?resize=683,512 683w, https://fivethirtyeight.com/wp-content/uploads/2023/08/ramaswamy-ceiling_4x3.jpeg?resize=575,432 575w, https://fivethirtyeight.com/wp-content/uploads/2023/08/ramaswamy-ceiling_4x3.jpeg?resize=470,352 470w, https://fivethirtyeight.com/wp-content/uploads/2023/08/ramaswamy-ceiling_4x3.jpeg?resize=600,450 600w, https://fivethirtyeight.com/wp-content/uploads/2023/08/ramaswamy-ceiling_4x3.jpeg?resize=347,260 347w, https://fivethirtyeight.com/wp-content/uploads/2023/08/ramaswamy-ceiling_4x3.jpeg?resize=213,160 213w, https://fivethirtyeight.com/wp-content/uploads/2023/08/ramaswamy-ceiling_4x3.jpeg?resize=207,155 207w, https://fivethirtyeight.com/wp-content/uploads/2023/08/ramaswamy-ceiling_4x3.jpeg?resize=60,45 60w, https://fivethirtyeight.com/wp-content/uploads/2023/08/ramaswamy-ceiling_4x3.jpeg?resize=916,687 916w">													</source></source></picture>
 					</div>
 
 				
@@ -2204,8 +2195,7 @@
 															<source media="(min-width: 768px)">
 							
 															<source>
-								<img decoding="async" alt="Trump_4x3" src="https://fivethirtyeight.com/wp-content/uploads/2023/08/Trump_4x3.png?w=916" data-sizes="(max-width: 768px) 100vw, (max-width: 1080px) 66vw, 684px" data-src="https://fivethirtyeight.com/wp-content/uploads/2023/08/Trump_4x3.png?w=916" data-srcset="https://fivethirtyeight.com/wp-content/uploads/2023/08/Trump_4x3.png?w=916 1x, https://fivethirtyeight.com/wp-content/uploads/2023/08/Trump_4x3.png?w=1832 2x">
-													</source></source></picture>
+								<img loading="lazy" decoding="async" width="916" height="687" src="https://fivethirtyeight.com/wp-content/uploads/2023/08/Trump_4x3.png?w=916" alt="" data-sizes="(max-width: 916px) 100vw, 916px" data-src="https://fivethirtyeight.com/wp-content/uploads/2023/08/Trump_4x3.png?w=916" data-srcset="https://fivethirtyeight.com/wp-content/uploads/2023/08/Trump_4x3.png 1600w, https://fivethirtyeight.com/wp-content/uploads/2023/08/Trump_4x3.png?resize=100,75 100w, https://fivethirtyeight.com/wp-content/uploads/2023/08/Trump_4x3.png?resize=300,225 300w, https://fivethirtyeight.com/wp-content/uploads/2023/08/Trump_4x3.png?resize=768,576 768w, https://fivethirtyeight.com/wp-content/uploads/2023/08/Trump_4x3.png?resize=1024,768 1024w, https://fivethirtyeight.com/wp-content/uploads/2023/08/Trump_4x3.png?resize=1536,1152 1536w, https://fivethirtyeight.com/wp-content/uploads/2023/08/Trump_4x3.png?resize=683,512 683w, https://fivethirtyeight.com/wp-content/uploads/2023/08/Trump_4x3.png?resize=575,432 575w, https://fivethirtyeight.com/wp-content/uploads/2023/08/Trump_4x3.png?resize=470,352 470w, https://fivethirtyeight.com/wp-content/uploads/2023/08/Trump_4x3.png?resize=600,450 600w, https://fivethirtyeight.com/wp-content/uploads/2023/08/Trump_4x3.png?resize=347,260 347w, https://fivethirtyeight.com/wp-content/uploads/2023/08/Trump_4x3.png?resize=213,160 213w, https://fivethirtyeight.com/wp-content/uploads/2023/08/Trump_4x3.png?resize=207,155 207w, https://fivethirtyeight.com/wp-content/uploads/2023/08/Trump_4x3.png?resize=60,45 60w, https://fivethirtyeight.com/wp-content/uploads/2023/08/Trump_4x3.png?resize=916,687 916w">													</source></source></picture>
 					</div>
 
 				
@@ -2317,8 +2307,7 @@
 															<source media="(min-width: 768px)">
 							
 															<source>
-								<img decoding="async" alt="SlackChat_4x5_08.29.23_Nathanial_v01_ag" src="https://fivethirtyeight.com/wp-content/uploads/2023/08/SlackChat_4x5_08.29.23_Nathanial_v01_ag.png?w=916" data-sizes="(max-width: 768px) 100vw, (max-width: 1080px) 66vw, 684px" data-src="https://fivethirtyeight.com/wp-content/uploads/2023/08/SlackChat_4x5_08.29.23_Nathanial_v01_ag.png?w=916" data-srcset="https://fivethirtyeight.com/wp-content/uploads/2023/08/SlackChat_4x5_08.29.23_Nathanial_v01_ag.png?w=916 1x, https://fivethirtyeight.com/wp-content/uploads/2023/08/SlackChat_4x5_08.29.23_Nathanial_v01_ag.png?w=1832 2x">
-													</source></source></picture>
+								<img loading="lazy" decoding="async" width="916" height="687" src="https://fivethirtyeight.com/wp-content/uploads/2023/08/SlackChat_4x5_08.29.23_Nathanial_v01_ag.png?w=916" alt="" data-sizes="(max-width: 916px) 100vw, 916px" data-src="https://fivethirtyeight.com/wp-content/uploads/2023/08/SlackChat_4x5_08.29.23_Nathanial_v01_ag.png?w=916" data-srcset="https://fivethirtyeight.com/wp-content/uploads/2023/08/SlackChat_4x5_08.29.23_Nathanial_v01_ag.png 1200w, https://fivethirtyeight.com/wp-content/uploads/2023/08/SlackChat_4x5_08.29.23_Nathanial_v01_ag.png?resize=100,75 100w, https://fivethirtyeight.com/wp-content/uploads/2023/08/SlackChat_4x5_08.29.23_Nathanial_v01_ag.png?resize=300,225 300w, https://fivethirtyeight.com/wp-content/uploads/2023/08/SlackChat_4x5_08.29.23_Nathanial_v01_ag.png?resize=768,576 768w, https://fivethirtyeight.com/wp-content/uploads/2023/08/SlackChat_4x5_08.29.23_Nathanial_v01_ag.png?resize=1024,768 1024w, https://fivethirtyeight.com/wp-content/uploads/2023/08/SlackChat_4x5_08.29.23_Nathanial_v01_ag.png?resize=683,512 683w, https://fivethirtyeight.com/wp-content/uploads/2023/08/SlackChat_4x5_08.29.23_Nathanial_v01_ag.png?resize=575,432 575w, https://fivethirtyeight.com/wp-content/uploads/2023/08/SlackChat_4x5_08.29.23_Nathanial_v01_ag.png?resize=470,352 470w, https://fivethirtyeight.com/wp-content/uploads/2023/08/SlackChat_4x5_08.29.23_Nathanial_v01_ag.png?resize=600,450 600w, https://fivethirtyeight.com/wp-content/uploads/2023/08/SlackChat_4x5_08.29.23_Nathanial_v01_ag.png?resize=347,260 347w, https://fivethirtyeight.com/wp-content/uploads/2023/08/SlackChat_4x5_08.29.23_Nathanial_v01_ag.png?resize=213,160 213w, https://fivethirtyeight.com/wp-content/uploads/2023/08/SlackChat_4x5_08.29.23_Nathanial_v01_ag.png?resize=207,155 207w, https://fivethirtyeight.com/wp-content/uploads/2023/08/SlackChat_4x5_08.29.23_Nathanial_v01_ag.png?resize=60,45 60w, https://fivethirtyeight.com/wp-content/uploads/2023/08/SlackChat_4x5_08.29.23_Nathanial_v01_ag.png?resize=916,687 916w">													</source></source></picture>
 					</div>
 
 				
@@ -2585,8 +2574,7 @@
 															<source media="(min-width: 768px)">
 							
 															<source>
-								<img decoding="async" alt="538_TrumpChances_Primary_4x5_v01_ag" src="https://fivethirtyeight.com/wp-content/uploads/2023/08/538_TrumpChances_Primary_4x5_v01_ag.png?w=859" data-sizes="(max-width: 768px) 100vw, (max-width: 1080px) 66vw, 684px" data-src="https://fivethirtyeight.com/wp-content/uploads/2023/08/538_TrumpChances_Primary_4x5_v01_ag.png?w=859" data-srcset="https://fivethirtyeight.com/wp-content/uploads/2023/08/538_TrumpChances_Primary_4x5_v01_ag.png?w=859 1x, https://fivethirtyeight.com/wp-content/uploads/2023/08/538_TrumpChances_Primary_4x5_v01_ag.png?w=1718 2x">
-													</source></source></picture>
+								<img loading="lazy" decoding="async" width="859" height="687" src="https://fivethirtyeight.com/wp-content/uploads/2023/08/538_TrumpChances_Primary_4x5_v01_ag.png?w=859" alt="" data-sizes="(max-width: 859px) 100vw, 859px" data-src="https://fivethirtyeight.com/wp-content/uploads/2023/08/538_TrumpChances_Primary_4x5_v01_ag.png?w=859" data-srcset="https://fivethirtyeight.com/wp-content/uploads/2023/08/538_TrumpChances_Primary_4x5_v01_ag.png 1350w, https://fivethirtyeight.com/wp-content/uploads/2023/08/538_TrumpChances_Primary_4x5_v01_ag.png?resize=94,75 94w, https://fivethirtyeight.com/wp-content/uploads/2023/08/538_TrumpChances_Primary_4x5_v01_ag.png?resize=300,240 300w, https://fivethirtyeight.com/wp-content/uploads/2023/08/538_TrumpChances_Primary_4x5_v01_ag.png?resize=768,614 768w, https://fivethirtyeight.com/wp-content/uploads/2023/08/538_TrumpChances_Primary_4x5_v01_ag.png?resize=1024,819 1024w, https://fivethirtyeight.com/wp-content/uploads/2023/08/538_TrumpChances_Primary_4x5_v01_ag.png?resize=640,512 640w, https://fivethirtyeight.com/wp-content/uploads/2023/08/538_TrumpChances_Primary_4x5_v01_ag.png?resize=540,432 540w, https://fivethirtyeight.com/wp-content/uploads/2023/08/538_TrumpChances_Primary_4x5_v01_ag.png?resize=440,352 440w, https://fivethirtyeight.com/wp-content/uploads/2023/08/538_TrumpChances_Primary_4x5_v01_ag.png?resize=281,225 281w, https://fivethirtyeight.com/wp-content/uploads/2023/08/538_TrumpChances_Primary_4x5_v01_ag.png?resize=563,450 563w, https://fivethirtyeight.com/wp-content/uploads/2023/08/538_TrumpChances_Primary_4x5_v01_ag.png?resize=325,260 325w, https://fivethirtyeight.com/wp-content/uploads/2023/08/538_TrumpChances_Primary_4x5_v01_ag.png?resize=200,160 200w, https://fivethirtyeight.com/wp-content/uploads/2023/08/538_TrumpChances_Primary_4x5_v01_ag.png?resize=720,576 720w, https://fivethirtyeight.com/wp-content/uploads/2023/08/538_TrumpChances_Primary_4x5_v01_ag.png?resize=194,155 194w, https://fivethirtyeight.com/wp-content/uploads/2023/08/538_TrumpChances_Primary_4x5_v01_ag.png?resize=100,80 100w, https://fivethirtyeight.com/wp-content/uploads/2023/08/538_TrumpChances_Primary_4x5_v01_ag.png?resize=60,48 60w, https://fivethirtyeight.com/wp-content/uploads/2023/08/538_TrumpChances_Primary_4x5_v01_ag.png?resize=859,687 859w">													</source></source></picture>
 					</div>
 
 				
@@ -2627,7 +2615,7 @@
 
 
 
-<figure><img decoding="async" width="1019" height="571" src="https://fivethirtyeight.com/wp-content/uploads/2023/08/Screen-Shot-2023-08-29-at-2.40.51-PM.png" alt="" data-src="https://fivethirtyeight.com/wp-content/uploads/2023/08/Screen-Shot-2023-08-29-at-2.40.51-PM.png" data-srcset="https://fivethirtyeight.com/wp-content/uploads/2023/08/Screen-Shot-2023-08-29-at-2.40.51-PM.png?w=712 1x, https://fivethirtyeight.com/wp-content/uploads/2023/08/Screen-Shot-2023-08-29-at-2.40.51-PM.png?w=1424 2x"></figure>
+<figure><img loading="lazy" decoding="async" width="1019" height="571" src="https://fivethirtyeight.com/wp-content/uploads/2023/08/Screen-Shot-2023-08-29-at-2.40.51-PM.png" alt="" data-sizes="(max-width: 1019px) 100vw, 1019px" data-src="https://fivethirtyeight.com/wp-content/uploads/2023/08/Screen-Shot-2023-08-29-at-2.40.51-PM.png" data-srcset="https://fivethirtyeight.com/wp-content/uploads/2023/08/Screen-Shot-2023-08-29-at-2.40.51-PM.png 1019w, https://fivethirtyeight.com/wp-content/uploads/2023/08/Screen-Shot-2023-08-29-at-2.40.51-PM.png?resize=100,56 100w, https://fivethirtyeight.com/wp-content/uploads/2023/08/Screen-Shot-2023-08-29-at-2.40.51-PM.png?resize=300,168 300w, https://fivethirtyeight.com/wp-content/uploads/2023/08/Screen-Shot-2023-08-29-at-2.40.51-PM.png?resize=768,430 768w, https://fivethirtyeight.com/wp-content/uploads/2023/08/Screen-Shot-2023-08-29-at-2.40.51-PM.png?resize=683,383 683w, https://fivethirtyeight.com/wp-content/uploads/2023/08/Screen-Shot-2023-08-29-at-2.40.51-PM.png?resize=575,322 575w, https://fivethirtyeight.com/wp-content/uploads/2023/08/Screen-Shot-2023-08-29-at-2.40.51-PM.png?resize=470,263 470w, https://fivethirtyeight.com/wp-content/uploads/2023/08/Screen-Shot-2023-08-29-at-2.40.51-PM.png?resize=600,336 600w, https://fivethirtyeight.com/wp-content/uploads/2023/08/Screen-Shot-2023-08-29-at-2.40.51-PM.png?resize=464,260 464w, https://fivethirtyeight.com/wp-content/uploads/2023/08/Screen-Shot-2023-08-29-at-2.40.51-PM.png?resize=286,160 286w, https://fivethirtyeight.com/wp-content/uploads/2023/08/Screen-Shot-2023-08-29-at-2.40.51-PM.png?resize=207,116 207w, https://fivethirtyeight.com/wp-content/uploads/2023/08/Screen-Shot-2023-08-29-at-2.40.51-PM.png?resize=60,34 60w"></figure>
 
 
 
@@ -2639,1052 +2627,7 @@
 
 
 <div>
-
-<section>
- <header>
- <h2>Early national polls loosely predict primary results</h2>
- <p>FiveThirtyEight’s retroactive average of national polls for non-incumbents running in presidential primaries from 1972 to 2020, as of the end of August before the election year, compared with their eventual share of the national popular vote</p>
- </header>
- <table data-carpenter-slug="morris.state-of-the-polls-0825.1" data-expandable-rows="10">
- <thead>
- <tr>
- <th colspan="1" scope="col" data-sort-index="0" aria-sort="descending" data-sort-default="true"><span>Cycle<span><span>Ð²âÐ</span><span>Ð²âÑ</span></span>
- </span>
- </th>
- <th colspan="1" scope="col" data-sort-index="1"><span>Party<span><span>Ð²âÐ</span><span>Ð²âÑ</span></span>
- </span>
- </th>
- <th colspan="1" scope="col" data-sort-index="2"><span>Candidate<span><span>Ð²âÐ</span><span>Ð²âÑ</span></span>
- </span>
- </th>
- <th colspan="1" scope="col" data-sort-index="3"><span>Winner?<span><span>Ð²âÐ</span><span>Ð²âÑ</span></span>
- </span>
- </th>
- <th colspan="1" scope="col" data-sort-index="4" data-sort-method="number">Polling average in <br>August before<br>election <span>year<span><span>Ð²âÐ</span><span>Ð²âÑ</span></span>
- </span>
- </th>
- <th colspan="1" scope="col" data-sort-index="5" data-sort-method="number">Popular <span>vote<span><span>Ð²âÐ</span><span>Ð²âÑ</span></span>
- </span>
- </th>
- </tr>
- </thead>
- <tbody>
- <tr>
- <td aria-sort="descending" data-sort-default="true">1980</td>
- <td><span>D</span></td>
- <td>Ted Kennedy</td>
- <td></td>
- <td data-sort-method="number" data-suffix="%" data-suffixpadding="1.1em">66%</td>
- <td data-sort-method="number">37</td>
- </tr>
- <tr>
- <td aria-sort="descending" data-sort-default="true">2000</td>
- <td><span>D</span></td>
- <td>Al Gore</td>
- <td>Ð²Ñâ</td>
- <td data-sort-method="number">62</td>
- <td data-sort-method="number">75</td>
- </tr>
- <tr>
- <td aria-sort="descending" data-sort-default="true">2016</td>
- <td><span>D</span></td>
- <td>Hillary Clinton</td>
- <td>Ð²Ñâ</td>
- <td data-sort-method="number">55</td>
- <td data-sort-method="number">56</td>
- </tr>
- <tr>
- <td aria-sort="descending" data-sort-default="true">1996</td>
- <td><span>R</span></td>
- <td>Bob Dole</td>
- <td>Ð²Ñâ</td>
- <td data-sort-method="number">52</td>
- <td data-sort-method="number">59</td>
- </tr>
- <tr>
- <td aria-sort="descending" data-sort-default="true">2024 </td>
- <td><span>R</span></td>
- <td>Donald Trump </td>
- <td></td>
- <td data-sort-method="number">50</td>
- <td data-sort-method="number">TBD</td>
- </tr>
- <tr>
- <td aria-sort="descending" data-sort-default="true">2000</td>
- <td><span>R</span></td>
- <td>George W. Bush</td>
- <td>Ð²Ñâ</td>
- <td data-sort-method="number">48</td>
- <td data-sort-method="number">60</td>
- </tr>
- <tr>
- <td aria-sort="descending" data-sort-default="true">2008</td>
- <td><span>D</span></td>
- <td>Hillary Clinton</td>
- <td></td>
- <td data-sort-method="number">41</td>
- <td data-sort-method="number">48</td>
- </tr>
- <tr>
- <td aria-sort="descending" data-sort-default="true">1984</td>
- <td><span>D</span></td>
- <td>Walter F. Mondale</td>
- <td>Ð²Ñâ</td>
- <td data-sort-method="number">41</td>
- <td data-sort-method="number">38</td>
- </tr>
- <tr>
- <td aria-sort="descending" data-sort-default="true">1980</td>
- <td><span>D</span></td>
- <td>Jimmy Carter</td>
- <td>Ð²Ñâ</td>
- <td data-sort-method="number">34</td>
- <td data-sort-method="number">51</td>
- </tr>
- <tr>
- <td aria-sort="descending" data-sort-default="true">1988</td>
- <td><span>D</span></td>
- <td>Gary Hart</td>
- <td></td>
- <td data-sort-method="number">33</td>
- <td data-sort-method="number">2</td>
- </tr>
- <tr>
- <td aria-sort="descending" data-sort-default="true">1988</td>
- <td><span>R</span></td>
- <td>George Bush</td>
- <td>Ð²Ñâ</td>
- <td data-sort-method="number">31</td>
- <td data-sort-method="number">68</td>
- </tr>
- <tr>
- <td aria-sort="descending" data-sort-default="true">1976</td>
- <td><span>R</span></td>
- <td>Gerald R. Ford</td>
- <td>Ð²Ñâ</td>
- <td data-sort-method="number">31</td>
- <td data-sort-method="number">53</td>
- </tr>
- <tr>
- <td aria-sort="descending" data-sort-default="true">2000</td>
- <td><span>D</span></td>
- <td>Bill Bradley</td>
- <td></td>
- <td data-sort-method="number">30</td>
- <td data-sort-method="number">21</td>
- </tr>
- <tr>
- <td aria-sort="descending" data-sort-default="true">2020</td>
- <td><span>D</span></td>
- <td>Joe Biden</td>
- <td>Ð²Ñâ</td>
- <td data-sort-method="number">29</td>
- <td data-sort-method="number">52</td>
- </tr>
- <tr>
- <td aria-sort="descending" data-sort-default="true">1972</td>
- <td><span>D</span></td>
- <td>Edmund Muskie</td>
- <td></td>
- <td data-sort-method="number">28</td>
- <td data-sort-method="number">12</td>
- </tr>
- <tr>
- <td aria-sort="descending" data-sort-default="true">1980</td>
- <td><span>R</span></td>
- <td>Ronald Reagan</td>
- <td>Ð²Ñâ</td>
- <td data-sort-method="number">28</td>
- <td data-sort-method="number">61</td>
- </tr>
- <tr>
- <td aria-sort="descending" data-sort-default="true">2008</td>
- <td><span>R</span></td>
- <td>Rudolph W. Giuliani</td>
- <td></td>
- <td data-sort-method="number">26</td>
- <td data-sort-method="number">3</td>
- </tr>
- <tr>
- <td aria-sort="descending" data-sort-default="true">2016</td>
- <td><span>R</span></td>
- <td>Donald Trump</td>
- <td>Ð²Ñâ</td>
- <td data-sort-method="number">25</td>
- <td data-sort-method="number">45</td>
- </tr>
- <tr>
- <td aria-sort="descending" data-sort-default="true">1988</td>
- <td><span>R</span></td>
- <td>Bob Dole</td>
- <td></td>
- <td data-sort-method="number">25</td>
- <td data-sort-method="number">19</td>
- </tr>
- <tr>
- <td aria-sort="descending" data-sort-default="true">2004</td>
- <td><span>D</span></td>
- <td>Joseph I. Lieberman</td>
- <td></td>
- <td data-sort-method="number">25</td>
- <td data-sort-method="number">2</td>
- </tr>
- <tr>
- <td aria-sort="descending" data-sort-default="true">2008</td>
- <td><span>D</span></td>
- <td>Barack Obama</td>
- <td>Ð²Ñâ</td>
- <td data-sort-method="number">24</td>
- <td data-sort-method="number">47</td>
- </tr>
- <tr>
- <td aria-sort="descending" data-sort-default="true">1984</td>
- <td><span>D</span></td>
- <td>John Glenn</td>
- <td></td>
- <td data-sort-method="number">24</td>
- <td data-sort-method="number">3</td>
- </tr>
- <tr>
- <td aria-sort="descending" data-sort-default="true">1976</td>
- <td><span>R</span></td>
- <td>Ronald Reagan</td>
- <td></td>
- <td data-sort-method="number">23</td>
- <td data-sort-method="number">46</td>
- </tr>
- <tr>
- <td aria-sort="descending" data-sort-default="true">2016</td>
- <td><span>D</span></td>
- <td>Bernie Sanders</td>
- <td></td>
- <td data-sort-method="number">22</td>
- <td data-sort-method="number">43</td>
- </tr>
- <tr>
- <td aria-sort="descending" data-sort-default="true">1972</td>
- <td><span>D</span></td>
- <td>Ted Kennedy</td>
- <td></td>
- <td data-sort-method="number">21</td>
- <td data-sort-method="number">0</td>
- </tr>
- <tr>
- <td aria-sort="descending" data-sort-default="true">1980</td>
- <td><span>D</span></td>
- <td>Jerry Brown</td>
- <td></td>
- <td data-sort-method="number">20</td>
- <td data-sort-method="number">3</td>
- </tr>
- <tr>
- <td aria-sort="descending" data-sort-default="true">2012</td>
- <td><span>R</span></td>
- <td>Mitt Romney</td>
- <td>Ð²Ñâ</td>
- <td data-sort-method="number">19</td>
- <td data-sort-method="number">53</td>
- </tr>
- <tr>
- <td aria-sort="descending" data-sort-default="true">2008</td>
- <td><span>R</span></td>
- <td>Fred Thompson</td>
- <td></td>
- <td data-sort-method="number">19</td>
- <td data-sort-method="number">1</td>
- </tr>
- <tr>
- <td aria-sort="descending" data-sort-default="true">2008</td>
- <td><span>R</span></td>
- <td>Tommy Thompson</td>
- <td></td>
- <td data-sort-method="number">19</td>
- <td data-sort-method="number">1</td>
- </tr>
- <tr>
- <td aria-sort="descending" data-sort-default="true">2020</td>
- <td><span>D</span></td>
- <td>Bernie Sanders</td>
- <td></td>
- <td data-sort-method="number">17</td>
- <td data-sort-method="number">26</td>
- </tr>
- <tr>
- <td aria-sort="descending" data-sort-default="true">1972</td>
- <td><span>D</span></td>
- <td>Hubert Humphrey, Jr.</td>
- <td></td>
- <td data-sort-method="number">17</td>
- <td data-sort-method="number">26</td>
- </tr>
- <tr>
- <td aria-sort="descending" data-sort-default="true">2012</td>
- <td><span>R</span></td>
- <td>Rick Perry</td>
- <td></td>
- <td data-sort-method="number">17</td>
- <td data-sort-method="number">0</td>
- </tr>
- <tr>
- <td aria-sort="descending" data-sort-default="true">2020</td>
- <td><span>D</span></td>
- <td>Elizabeth Warren</td>
- <td></td>
- <td data-sort-method="number">16</td>
- <td data-sort-method="number">8</td>
- </tr>
- <tr>
- <td aria-sort="descending" data-sort-default="true">1988</td>
- <td><span>D</span></td>
- <td>Jesse Jackson</td>
- <td></td>
- <td data-sort-method="number">14</td>
- <td data-sort-method="number">29</td>
- </tr>
- <tr>
- <td aria-sort="descending" data-sort-default="true">2004</td>
- <td><span>D</span></td>
- <td>Howard Dean</td>
- <td></td>
- <td data-sort-method="number">14</td>
- <td data-sort-method="number">6</td>
- </tr>
- <tr>
- <td aria-sort="descending" data-sort-default="true">2008</td>
- <td><span>R</span></td>
- <td>John McCain</td>
- <td>Ð²Ñâ</td>
- <td data-sort-method="number">13</td>
- <td data-sort-method="number">47</td>
- </tr>
- <tr>
- <td aria-sort="descending" data-sort-default="true">1996</td>
- <td><span>R</span></td>
- <td>Phil Gramm</td>
- <td></td>
- <td data-sort-method="number">13</td>
- <td data-sort-method="number">0</td>
- </tr>
- <tr>
- <td aria-sort="descending" data-sort-default="true">2008</td>
- <td><span>D</span></td>
- <td>John Edwards</td>
- <td></td>
- <td data-sort-method="number">13</td>
- <td data-sort-method="number">3</td>
- </tr>
- <tr>
- <td aria-sort="descending" data-sort-default="true">2008</td>
- <td><span>R</span></td>
- <td>Mitt Romney</td>
- <td></td>
- <td data-sort-method="number">12</td>
- <td data-sort-method="number">22</td>
- </tr>
- <tr>
- <td aria-sort="descending" data-sort-default="true">1980</td>
- <td><span>R</span></td>
- <td>Howard Baker</td>
- <td></td>
- <td data-sort-method="number">12</td>
- <td data-sort-method="number">1</td>
- </tr>
- <tr>
- <td aria-sort="descending" data-sort-default="true">2004</td>
- <td><span>D</span></td>
- <td>John Kerry</td>
- <td>Ð²Ñâ</td>
- <td data-sort-method="number">12</td>
- <td data-sort-method="number">61</td>
- </tr>
- <tr>
- <td aria-sort="descending" data-sort-default="true">2016</td>
- <td><span>R</span></td>
- <td>Jeb Bush</td>
- <td></td>
- <td data-sort-method="number">12</td>
- <td data-sort-method="number">1</td>
- </tr>
- <tr>
- <td aria-sort="descending" data-sort-default="true">2004</td>
- <td><span>D</span></td>
- <td>Richard A. Gephardt</td>
- <td></td>
- <td data-sort-method="number">11</td>
- <td data-sort-method="number">0</td>
- </tr>
- <tr>
- <td aria-sort="descending" data-sort-default="true">1980</td>
- <td><span>R</span></td>
- <td>John Connally</td>
- <td></td>
- <td data-sort-method="number">10</td>
- <td data-sort-method="number">1</td>
- </tr>
- <tr>
- <td aria-sort="descending" data-sort-default="true">2012</td>
- <td><span>R</span></td>
- <td>Michele Bachmann</td>
- <td></td>
- <td data-sort-method="number">10</td>
- <td data-sort-method="number">0</td>
- </tr>
- <tr>
- <td aria-sort="descending" data-sort-default="true">1988</td>
- <td><span>R</span></td>
- <td>Jack F. Kemp</td>
- <td></td>
- <td data-sort-method="number">10</td>
- <td data-sort-method="number">3</td>
- </tr>
- <tr>
- <td aria-sort="descending" data-sort-default="true">2016</td>
- <td><span>R</span></td>
- <td>Benjamin S. Carson</td>
- <td></td>
- <td data-sort-method="number">9</td>
- <td data-sort-method="number">3</td>
- </tr>
- <tr>
- <td aria-sort="descending" data-sort-default="true">1988</td>
- <td><span>D</span></td>
- <td>Michael S. Dukakis</td>
- <td>Ð²Ñâ</td>
- <td data-sort-method="number">8</td>
- <td data-sort-method="number">43</td>
- </tr>
- <tr>
- <td aria-sort="descending" data-sort-default="true">1972</td>
- <td><span>D</span></td>
- <td>John V. Lindsay</td>
- <td></td>
- <td data-sort-method="number">8</td>
- <td data-sort-method="number">1</td>
- </tr>
- <tr>
- <td aria-sort="descending" data-sort-default="true">2012</td>
- <td><span>R</span></td>
- <td>Ron Paul</td>
- <td></td>
- <td data-sort-method="number">7</td>
- <td data-sort-method="number">11</td>
- </tr>
- <tr>
- <td aria-sort="descending" data-sort-default="true">1988</td>
- <td><span>D</span></td>
- <td>Paul M. Simon</td>
- <td></td>
- <td data-sort-method="number">7</td>
- <td data-sort-method="number">4</td>
- </tr>
- <tr>
- <td aria-sort="descending" data-sort-default="true">2016</td>
- <td><span>R</span></td>
- <td>Ted Cruz</td>
- <td></td>
- <td data-sort-method="number">7</td>
- <td data-sort-method="number">25</td>
- </tr>
- <tr>
- <td aria-sort="descending" data-sort-default="true">1984</td>
- <td><span>D</span></td>
- <td>Alan Cranston</td>
- <td></td>
- <td data-sort-method="number">7</td>
- <td data-sort-method="number">0</td>
- </tr>
- <tr>
- <td aria-sort="descending" data-sort-default="true">2016</td>
- <td><span>R</span></td>
- <td>Marco Rubio</td>
- <td></td>
- <td data-sort-method="number">6</td>
- <td data-sort-method="number">11</td>
- </tr>
- <tr>
- <td aria-sort="descending" data-sort-default="true">2004</td>
- <td><span>D</span></td>
- <td>John Edwards</td>
- <td></td>
- <td data-sort-method="number">6</td>
- <td data-sort-method="number">19</td>
- </tr>
- <tr>
- <td aria-sort="descending" data-sort-default="true">1988</td>
- <td><span>D</span></td>
- <td>Richard A. Gephardt</td>
- <td></td>
- <td data-sort-method="number">6</td>
- <td data-sort-method="number">6</td>
- </tr>
- <tr>
- <td aria-sort="descending" data-sort-default="true">2000</td>
- <td><span>R</span></td>
- <td>Steve Forbes</td>
- <td></td>
- <td data-sort-method="number">6</td>
- <td data-sort-method="number">1</td>
- </tr>
- <tr>
- <td aria-sort="descending" data-sort-default="true">2012</td>
- <td><span>R</span></td>
- <td>Herman Cain</td>
- <td></td>
- <td data-sort-method="number">6</td>
- <td data-sort-method="number">0</td>
- </tr>
- <tr>
- <td aria-sort="descending" data-sort-default="true">1984</td>
- <td><span>D</span></td>
- <td>Jesse Jackson</td>
- <td></td>
- <td data-sort-method="number">6</td>
- <td data-sort-method="number">18</td>
- </tr>
- <tr>
- <td aria-sort="descending" data-sort-default="true">1980</td>
- <td><span>R</span></td>
- <td>Bob Dole</td>
- <td></td>
- <td data-sort-method="number">6</td>
- <td data-sort-method="number">0</td>
- </tr>
- <tr>
- <td aria-sort="descending" data-sort-default="true">1996</td>
- <td><span>R</span></td>
- <td>Patrick J. Buchanan</td>
- <td></td>
- <td data-sort-method="number">5</td>
- <td data-sort-method="number">21</td>
- </tr>
- <tr>
- <td aria-sort="descending" data-sort-default="true">2020</td>
- <td><span>D</span></td>
- <td>Pete Buttigieg</td>
- <td></td>
- <td data-sort-method="number">5</td>
- <td data-sort-method="number">2</td>
- </tr>
- <tr>
- <td aria-sort="descending" data-sort-default="true">2016</td>
- <td><span>R</span></td>
- <td>Mike Huckabee</td>
- <td></td>
- <td data-sort-method="number">5</td>
- <td data-sort-method="number">0</td>
- </tr>
- <tr>
- <td aria-sort="descending" data-sort-default="true">2012</td>
- <td><span>R</span></td>
- <td>Newt Gingrich</td>
- <td></td>
- <td data-sort-method="number">5</td>
- <td data-sort-method="number">14</td>
- </tr>
- <tr>
- <td aria-sort="descending" data-sort-default="true">2000</td>
- <td><span>R</span></td>
- <td>John McCain</td>
- <td></td>
- <td data-sort-method="number">5</td>
- <td data-sort-method="number">33</td>
- </tr>
- <tr>
- <td aria-sort="descending" data-sort-default="true">1972</td>
- <td><span>D</span></td>
- <td>Eugene J. McCarthy</td>
- <td></td>
- <td data-sort-method="number">5</td>
- <td data-sort-method="number">3</td>
- </tr>
- <tr>
- <td aria-sort="descending" data-sort-default="true">2004</td>
- <td><span>D</span></td>
- <td>Carol Moseley-Braun</td>
- <td></td>
- <td data-sort-method="number">5</td>
- <td data-sort-method="number">1</td>
- </tr>
- <tr>
- <td aria-sort="descending" data-sort-default="true">2016</td>
- <td><span>R</span></td>
- <td>Rand Paul</td>
- <td></td>
- <td data-sort-method="number">4</td>
- <td data-sort-method="number">0</td>
- </tr>
- <tr>
- <td aria-sort="descending" data-sort-default="true">2016</td>
- <td><span>R</span></td>
- <td>Carly Fiorina</td>
- <td></td>
- <td data-sort-method="number">4</td>
- <td data-sort-method="number">0</td>
- </tr>
- <tr>
- <td aria-sort="descending" data-sort-default="true">2016</td>
- <td><span>R</span></td>
- <td>John Richard Kasich</td>
- <td></td>
- <td data-sort-method="number">4</td>
- <td data-sort-method="number">14</td>
- </tr>
- <tr>
- <td aria-sort="descending" data-sort-default="true">1972</td>
- <td><span>D</span></td>
- <td>George S. McGovern</td>
- <td>Ð²Ñâ</td>
- <td data-sort-method="number">4</td>
- <td data-sort-method="number">25</td>
- </tr>
- <tr>
- <td aria-sort="descending" data-sort-default="true">1988</td>
- <td><span>R</span></td>
- <td>Pat Robertson</td>
- <td></td>
- <td data-sort-method="number">4</td>
- <td data-sort-method="number">9</td>
- </tr>
- <tr>
- <td aria-sort="descending" data-sort-default="true">1992</td>
- <td><span>D</span></td>
- <td>Bill Clinton</td>
- <td>Ð²Ñâ</td>
- <td data-sort-method="number">4</td>
- <td data-sort-method="number">52</td>
- </tr>
- <tr>
- <td aria-sort="descending" data-sort-default="true">1980</td>
- <td><span>R</span></td>
- <td>John Anderson</td>
- <td></td>
- <td data-sort-method="number">4</td>
- <td data-sort-method="number">12</td>
- </tr>
- <tr>
- <td aria-sort="descending" data-sort-default="true">2008</td>
- <td><span>D</span></td>
- <td>Bill Richardson</td>
- <td></td>
- <td data-sort-method="number">3</td>
- <td data-sort-method="number">0</td>
- </tr>
- <tr>
- <td aria-sort="descending" data-sort-default="true">1988</td>
- <td><span>D</span></td>
- <td>Al Gore</td>
- <td></td>
- <td data-sort-method="number">3</td>
- <td data-sort-method="number">14</td>
- </tr>
- <tr>
- <td aria-sort="descending" data-sort-default="true">1992</td>
- <td><span>D</span></td>
- <td>Paul E. Tsongas</td>
- <td></td>
- <td data-sort-method="number">3</td>
- <td data-sort-method="number">18</td>
- </tr>
- <tr>
- <td aria-sort="descending" data-sort-default="true">2004</td>
- <td><span>D</span></td>
- <td>Al Sharpton Jr.</td>
- <td></td>
- <td data-sort-method="number">3</td>
- <td data-sort-method="number">2</td>
- </tr>
- <tr>
- <td aria-sort="descending" data-sort-default="true">1972</td>
- <td><span>D</span></td>
- <td>Henry M. Jackson</td>
- <td></td>
- <td data-sort-method="number">3</td>
- <td data-sort-method="number">3</td>
- </tr>
- <tr>
- <td aria-sort="descending" data-sort-default="true">1984</td>
- <td><span>D</span></td>
- <td>Gary Hart</td>
- <td></td>
- <td data-sort-method="number">3</td>
- <td data-sort-method="number">36</td>
- </tr>
- <tr>
- <td aria-sort="descending" data-sort-default="true">1984</td>
- <td><span>D</span></td>
- <td>Reubin Askew</td>
- <td></td>
- <td data-sort-method="number">3</td>
- <td data-sort-method="number">0</td>
- </tr>
- <tr>
- <td aria-sort="descending" data-sort-default="true">2008</td>
- <td><span>R</span></td>
- <td>Mike Huckabee</td>
- <td></td>
- <td data-sort-method="number">3</td>
- <td data-sort-method="number">20</td>
- </tr>
- <tr>
- <td aria-sort="descending" data-sort-default="true">2016</td>
- <td><span>R</span></td>
- <td>Chris Christie</td>
- <td></td>
- <td data-sort-method="number">3</td>
- <td data-sort-method="number">0</td>
- </tr>
- <tr>
- <td aria-sort="descending" data-sort-default="true">1988</td>
- <td><span>D</span></td>
- <td>Bruce Babbitt</td>
- <td></td>
- <td data-sort-method="number">2</td>
- <td data-sort-method="number">0</td>
- </tr>
- <tr>
- <td aria-sort="descending" data-sort-default="true">2020</td>
- <td><span>D</span></td>
- <td>Cory A. Booker</td>
- <td></td>
- <td data-sort-method="number">2</td>
- <td data-sort-method="number">0</td>
- </tr>
- <tr>
- <td aria-sort="descending" data-sort-default="true">1980</td>
- <td><span>R</span></td>
- <td>George Bush</td>
- <td></td>
- <td data-sort-method="number">2</td>
- <td data-sort-method="number">23</td>
- </tr>
- <tr>
- <td aria-sort="descending" data-sort-default="true">2004</td>
- <td><span>D</span></td>
- <td>Dennis J. Kucinich</td>
- <td></td>
- <td data-sort-method="number">2</td>
- <td data-sort-method="number">4</td>
- </tr>
- <tr>
- <td aria-sort="descending" data-sort-default="true">2012</td>
- <td><span>R</span></td>
- <td>Jon M. Huntsman, Jr.</td>
- <td></td>
- <td data-sort-method="number">2</td>
- <td data-sort-method="number">0</td>
- </tr>
- <tr>
- <td aria-sort="descending" data-sort-default="true">2008</td>
- <td><span>R</span></td>
- <td>Ron Paul</td>
- <td></td>
- <td data-sort-method="number">2</td>
- <td data-sort-method="number">6</td>
- </tr>
- <tr>
- <td aria-sort="descending" data-sort-default="true">1980</td>
- <td><span>R</span></td>
- <td>Philip Crane</td>
- <td></td>
- <td data-sort-method="number">2</td>
- <td data-sort-method="number">1</td>
- </tr>
- <tr>
- <td aria-sort="descending" data-sort-default="true">2000</td>
- <td><span>R</span></td>
- <td>Orrin G. Hatch</td>
- <td></td>
- <td data-sort-method="number">2</td>
- <td data-sort-method="number">0</td>
- </tr>
- <tr>
- <td aria-sort="descending" data-sort-default="true">2012</td>
- <td><span>R</span></td>
- <td>Rick Santorum</td>
- <td></td>
- <td data-sort-method="number">2</td>
- <td data-sort-method="number">20</td>
- </tr>
- <tr>
- <td aria-sort="descending" data-sort-default="true">1988</td>
- <td><span>R</span></td>
- <td>Pete du Pont</td>
- <td></td>
- <td data-sort-method="number">2</td>
- <td data-sort-method="number">0</td>
- </tr>
- <tr>
- <td aria-sort="descending" data-sort-default="true">1992</td>
- <td><span>D</span></td>
- <td>Tom Harkin</td>
- <td></td>
- <td data-sort-method="number">2</td>
- <td data-sort-method="number">1</td>
- </tr>
- <tr>
- <td aria-sort="descending" data-sort-default="true">1972</td>
- <td><span>D</span></td>
- <td>Wilbur Daigh Mills</td>
- <td></td>
- <td data-sort-method="number">2</td>
- <td data-sort-method="number">0</td>
- </tr>
- <tr>
- <td aria-sort="descending" data-sort-default="true">2020</td>
- <td><span>D</span></td>
- <td>Andrew Yang</td>
- <td></td>
- <td data-sort-method="number">2</td>
- <td data-sort-method="number">0</td>
- </tr>
- <tr>
- <td aria-sort="descending" data-sort-default="true">2000</td>
- <td><span>R</span></td>
- <td>Gary L. Bauer</td>
- <td></td>
- <td data-sort-method="number">2</td>
- <td data-sort-method="number">0</td>
- </tr>
- <tr>
- <td aria-sort="descending" data-sort-default="true">2016</td>
- <td><span>D</span></td>
- <td>Martin O’Malley</td>
- <td></td>
- <td data-sort-method="number">2</td>
- <td data-sort-method="number">0</td>
- </tr>
- <tr>
- <td aria-sort="descending" data-sort-default="true">1996</td>
- <td><span>R</span></td>
- <td>Lamar Alexander</td>
- <td></td>
- <td data-sort-method="number">2</td>
- <td data-sort-method="number">3</td>
- </tr>
- <tr>
- <td aria-sort="descending" data-sort-default="true">2008</td>
- <td><span>R</span></td>
- <td>Tom Tancredo</td>
- <td></td>
- <td data-sort-method="number">2</td>
- <td data-sort-method="number">0</td>
- </tr>
- <tr>
- <td aria-sort="descending" data-sort-default="true">2000</td>
- <td><span>R</span></td>
- <td>Alan Keyes</td>
- <td></td>
- <td data-sort-method="number">2</td>
- <td data-sort-method="number">5</td>
- </tr>
- <tr>
- <td aria-sort="descending" data-sort-default="true">2008</td>
- <td><span>R</span></td>
- <td>Sam Brownback</td>
- <td></td>
- <td data-sort-method="number">2</td>
- <td data-sort-method="number">0</td>
- </tr>
- <tr>
- <td aria-sort="descending" data-sort-default="true">2008</td>
- <td><span>D</span></td>
- <td>Dennis J. Kucinich</td>
- <td></td>
- <td data-sort-method="number">1</td>
- <td data-sort-method="number">0</td>
- </tr>
- <tr>
- <td aria-sort="descending" data-sort-default="true">2020</td>
- <td><span>D</span></td>
- <td>Tulsi Gabbard</td>
- <td></td>
- <td data-sort-method="number">1</td>
- <td data-sort-method="number">1</td>
- </tr>
- <tr>
- <td aria-sort="descending" data-sort-default="true">2008</td>
- <td><span>D</span></td>
- <td>Joe Biden</td>
- <td></td>
- <td data-sort-method="number">1</td>
- <td data-sort-method="number">0</td>
- </tr>
- <tr>
- <td aria-sort="descending" data-sort-default="true">2016</td>
- <td><span>R</span></td>
- <td>Rick Santorum</td>
- <td></td>
- <td data-sort-method="number">1</td>
- <td data-sort-method="number">0</td>
- </tr>
- <tr>
- <td aria-sort="descending" data-sort-default="true">2020</td>
- <td><span>D</span></td>
- <td>Amy Klobuchar</td>
- <td></td>
- <td data-sort-method="number">1</td>
- <td data-sort-method="number">1</td>
- </tr>
- <tr>
- <td aria-sort="descending" data-sort-default="true">1984</td>
- <td><span>D</span></td>
- <td>Ernest F. Hollings</td>
- <td></td>
- <td data-sort-method="number">1</td>
- <td data-sort-method="number">0</td>
- </tr>
- <tr>
- <td aria-sort="descending" data-sort-default="true">2020</td>
- <td><span>D</span></td>
- <td>Deval Patrick</td>
- <td></td>
- <td data-sort-method="number">1</td>
- <td data-sort-method="number">0</td>
- </tr>
- <tr>
- <td aria-sort="descending" data-sort-default="true">1992</td>
- <td><span>D</span></td>
- <td>Bob Kerrey</td>
- <td></td>
- <td data-sort-method="number">1</td>
- <td data-sort-method="number">2</td>
- </tr>
- <tr>
- <td aria-sort="descending" data-sort-default="true">1996</td>
- <td><span>R</span></td>
- <td>Richard G. Lugar</td>
- <td></td>
- <td data-sort-method="number">1</td>
- <td data-sort-method="number">1</td>
- </tr>
- <tr>
- <td aria-sort="descending" data-sort-default="true">2020</td>
- <td><span>D</span></td>
- <td>Julián Castro</td>
- <td></td>
- <td data-sort-method="number">1</td>
- <td data-sort-method="number">0</td>
- </tr>
- <tr>
- <td aria-sort="descending" data-sort-default="true">2012</td>
- <td><span>R</span></td>
- <td>Gary Johnson</td>
- <td></td>
- <td data-sort-method="number">1</td>
- <td data-sort-method="number">0</td>
- </tr>
- <tr>
- <td aria-sort="descending" data-sort-default="true">2012</td>
- <td><span>R</span></td>
- <td>Buddy Roemer</td>
- <td></td>
- <td data-sort-method="number">1</td>
- <td data-sort-method="number">0</td>
- </tr>
- <tr>
- <td aria-sort="descending" data-sort-default="true">2008</td>
- <td><span>D</span></td>
- <td>Mike Gravel</td>
- <td></td>
- <td data-sort-method="number">1</td>
- <td data-sort-method="number">0</td>
- </tr>
- <tr>
- <td aria-sort="descending" data-sort-default="true">2008</td>
- <td><span>R</span></td>
- <td>Duncan Hunter</td>
- <td></td>
- <td data-sort-method="number">1</td>
- <td data-sort-method="number">0</td>
- </tr>
- <tr>
- <td aria-sort="descending" data-sort-default="true">2020</td>
- <td><span>D</span></td>
- <td>Marianne Williamson</td>
- <td></td>
- <td data-sort-method="number">1</td>
- <td data-sort-method="number">0</td>
- </tr>
- <tr>
- <td aria-sort="descending" data-sort-default="true">2020</td>
- <td><span>D</span></td>
- <td>Tom Steyer</td>
- <td></td>
- <td data-sort-method="number">1</td>
- <td data-sort-method="number">1</td>
- </tr>
- <tr>
- <td aria-sort="descending" data-sort-default="true">2016</td>
- <td><span>R</span></td>
- <td>Lindsey Graham</td>
- <td></td>
- <td data-sort-method="number">1</td>
- <td data-sort-method="number">0</td>
- </tr>
- <tr>
- <td aria-sort="descending" data-sort-default="true">2020</td>
- <td><span>D</span></td>
- <td>John K. Delaney</td>
- <td></td>
- <td data-sort-method="number">0</td>
- <td data-sort-method="number">0</td>
- </tr>
- <tr>
- <td aria-sort="descending" data-sort-default="true">2020</td>
- <td><span>D</span></td>
- <td>Michael Bennet</td>
- <td></td>
- <td data-sort-method="number">0</td>
- <td data-sort-method="number">0</td>
- </tr>
- <tr>
- <td aria-sort="descending" data-sort-default="true">2016</td>
- <td><span>R</span></td>
- <td>George Pataki</td>
- <td></td>
- <td data-sort-method="number">0</td>
- <td data-sort-method="number">0</td>
- </tr>
- <tr>
- <td aria-sort="descending" data-sort-default="true">2016</td>
- <td><span>R</span></td>
- <td>James S. Gilmore III</td>
- <td></td>
- <td data-sort-method="number">0</td>
- <td data-sort-method="number">0</td>
- </tr>
- <tr>
- <td aria-sort="descending" data-sort-default="true">2020</td>
- <td><span>D</span></td>
- <td>Joe Sestak</td>
- <td></td>
- <td data-sort-method="number">0</td>
- <td data-sort-method="number">0</td>
- </tr>
- <tr>
- <td aria-sort="descending" data-sort-default="true">2008</td>
- <td><span>D</span></td>
- <td>Christopher J. Dodd</td>
- <td></td>
- <td data-sort-method="number">0</td>
- <td data-sort-method="number">0</td>
- </tr>
- <tr>
- <td aria-sort="descending" data-sort-default="true">2020</td>
- <td><span>D</span></td>
- <td>Michael Bloomberg</td>
- <td></td>
- <td data-sort-method="number">0</td>
- <td data-sort-method="number">7</td>
- </tr>
- </tbody>
- </table>
- <div><a>Show more rows</a></div>
- <footer>
- <p>Candidates who were not mentioned in any polls by the end of August before the election year are not included.</p>
- <p>Sources: Polls, Congressional Quarterly, Dave Leip’s Atlas of U.S. Presidential elections, Federal Election Commission</p>
- </footer>
-</section>
+<section> <header> <h2>Early national polls loosely predict primary results</h2> <p>FiveThirtyEight’s retroactive average of national polls for non-incumbents running in presidential primaries from 1980 to 2020, as of the end of December before the election year</p> </header> <table data-carpenter-slug="morris.state-of-the-polls-0825.1" data-expandable-rows="10"> <thead> <tr> <th colspan="1" scope="col">Cycle</th> <th colspan="1" scope="col">Party</th> <th colspan="1" scope="col">Candidate</th> <th colspan="1" scope="col">Winner?</th> <th colspan="1" scope="col">Polling average in <br>December before<br>election year</th> </tr> </thead> <tbody> <tr> <td>1992</td> <td><span>R</span></td> <td>Bush</td> <td>Yes</td> <td data-suffix="%" data-suffixpadding="1.1em">75.5%</td> </tr> <tr> <td>2024</td> <td><span>R</span></td> <td>Trump</td> <td>?</td> <td>61.5</td> </tr> <tr> <td>2000</td> <td><span>R</span></td> <td>Bush</td> <td>Yes</td> <td>60.1</td> </tr> <tr> <td>2016</td> <td><span>D</span></td> <td>Clinton</td> <td>Yes</td> <td>55.7</td> </tr> <tr> <td>2000</td> <td><span>D</span></td> <td>Gore</td> <td>Yes</td> <td>52.3</td> </tr> <tr> <td>1980</td> <td><span>D</span></td> <td>Carter</td> <td>Yes</td> <td>47.1</td> </tr> <tr> <td>1988</td> <td><span>R</span></td> <td>Bush</td> <td>Yes</td> <td>40.1</td> </tr> <tr> <td>2008</td> <td><span>D</span></td> <td>Clinton</td> <td>No</td> <td>39.8</td> </tr> <tr> <td>1984</td> <td><span>D</span></td> <td>Mondale</td> <td>Yes</td> <td>38.5</td> </tr> <tr> <td>1980</td> <td><span>R</span></td> <td>Reagan</td> <td>Yes</td> <td>38.2</td> </tr> <tr> <td>1996</td> <td><span>R</span></td> <td>Dole</td> <td>Yes</td> <td>35.7</td> </tr> <tr> <td>2016</td> <td><span>R</span></td> <td>Trump</td> <td>Yes</td> <td>35.1</td> </tr> <tr> <td>2000</td> <td><span>D</span></td> <td>Bradley</td> <td>No</td> <td>33.8</td> </tr> <tr> <td>2016</td> <td><span>D</span></td> <td>Sanders</td> <td>No</td> <td>29.2</td> </tr> <tr> <td>1980</td> <td><span>D</span></td> <td>Kennedy</td> <td>No</td> <td>28.6</td> </tr> <tr> <td>2020</td> <td><span>D</span></td> <td>Biden</td> <td>Yes</td> <td>27.2</td> </tr> <tr> <td>2008</td> <td><span>D</span></td> <td>Obama</td> <td>Yes</td> <td>26.5</td> </tr> <tr> <td>1988</td> <td><span>D</span></td> <td>Hart</td> <td>No</td> <td>24.8</td> </tr> <tr> <td>2008</td> <td><span>R</span></td> <td>Giuliani</td> <td>No</td> <td>24</td> </tr> <tr> <td>1988</td> <td><span>R</span></td> <td>Dole</td> <td>No</td> <td>22.4</td> </tr> <tr> <td>2012</td> <td><span>R</span></td> <td>Romney</td> <td>Yes</td> <td>22.4</td> </tr> <tr> <td>1984</td> <td><span>D</span></td> <td>Glenn</td> <td>No</td> <td>20.8</td> </tr> <tr> <td>2008</td> <td><span>R</span></td> <td>Huckabee</td> <td>No</td> <td>20.7</td> </tr> <tr> <td>2020</td> <td><span>D</span></td> <td>Sanders</td> <td>No</td> <td>17.9</td> </tr> <tr> <td>1988</td> <td><span>D</span></td> <td>Jackson</td> <td>No</td> <td>17.4</td> </tr> <tr> <td>2020</td> <td><span>D</span></td> <td>Warren</td> <td>No</td> <td>15.5</td> </tr> <tr> <td>2012</td> <td><span>R</span></td> <td>Gingrich</td> <td>No</td> <td>14.9</td> </tr> <tr> <td>2008</td> <td><span>R</span></td> <td>Romney</td> <td>No</td> <td>13.8</td> </tr> <tr> <td>2008</td> <td><span>D</span></td> <td>Edwards</td> <td>No</td> <td>13.7</td> </tr> <tr> <td>2016</td> <td><span>R</span></td> <td>Cruz</td> <td>No</td> <td>13.3</td> </tr> <tr> <td>2000</td> <td><span>R</span></td> <td>McCain</td> <td>No</td> <td>12.2</td> </tr> <tr> <td>1992</td> <td><span>R</span></td> <td>Buchanan</td> <td>No</td> <td>11.7</td> </tr> <tr> <td>1992</td> <td><span>D</span></td> <td>Brown</td> <td>No</td> <td>11.7</td> </tr> <tr> <td>2016</td> <td><span>R</span></td> <td>Rubio</td> <td>No</td> <td>11.6</td> </tr> <tr> <td>2016</td> <td><span>R</span></td> <td>Carson</td> <td>No</td> <td>11.3</td> </tr> <tr> <td>1988</td> <td><span>D</span></td> <td>Dukakis</td> <td>Yes</td> <td>11.2</td> </tr> <tr> <td>2008</td> <td><span>R</span></td> <td>McCain</td> <td>Yes</td> <td>11</td> </tr> <tr> <td>2008</td> <td><span>R</span></td> <td>Thompson</td> <td>No</td> <td>10.4</td> </tr> <tr> <td>1988</td> <td><span>D</span></td> <td>Simon</td> <td>No</td> <td>10.3</td> </tr> <tr> <td>2020</td> <td><span>D</span></td> <td>Buttigieg</td> <td>No</td> <td>8.3</td> </tr> <tr> <td>1980</td> <td><span>D</span></td> <td>Brown</td> <td>No</td> <td>8.2</td> </tr> <tr> <td>1984</td> <td><span>D</span></td> <td>Jackson</td> <td>No</td> <td>7.8</td> </tr> <tr> <td>1992</td> <td><span>D</span></td> <td>Clinton</td> <td>Yes</td> <td>7.7</td> </tr> <tr> <td>2012</td> <td><span>R</span></td> <td>Paul</td> <td>No</td> <td>7.1</td> </tr> <tr> <td>1988</td> <td><span>R</span></td> <td>Kemp</td> <td>No</td> <td>6.7</td> </tr> <tr> <td>1980</td> <td><span>R</span></td> <td>Bush</td> <td>No</td> <td>6.6</td> </tr> <tr> <td>1988</td> <td><span>D</span></td> <td>Gore</td> <td>No</td> <td>6.5</td> </tr> <tr> <td>2020</td> <td><span>D</span></td> <td>Bloomberg</td> <td>No</td> <td>5.9</td> </tr> <tr> <td>1988</td> <td><span>R</span></td> <td>Robertson</td> <td>No</td> <td>5.6</td> </tr> <tr> <td>1992</td> <td><span>D</span></td> <td>Kerrey</td> <td>No</td> <td>5</td> </tr> <tr> <td>1992</td> <td><span>D</span></td> <td>Harkin</td> <td>No</td> <td>4.5</td> </tr> <tr> <td>1996</td> <td><span>R</span></td> <td>Buchanan</td> <td>No</td> <td>4.4</td> </tr> <tr> <td>2008</td> <td><span>R</span></td> <td>Paul</td> <td>No</td> <td>3.9</td> </tr> <tr> <td>1992</td> <td><span>D</span></td> <td>Tsongas</td> <td>No</td> <td>3</td> </tr> <tr> <td>2016</td> <td><span>R</span></td> <td>Kasich</td> <td>No</td> <td>2.4</td> </tr> <tr> <td>2020</td> <td><span>D</span></td> <td>Klobuchar</td> <td>No</td> <td>2.4</td> </tr> <tr> <td>1988</td> <td><span>D</span></td> <td>Gephardt</td> <td>No</td> <td>2.2</td> </tr> <tr> <td>1984</td> <td><span>D</span></td> <td>Hart</td> <td>No</td> <td>1.9</td> </tr> <tr> <td>1980</td> <td><span>R</span></td> <td>Anderson</td> <td>No</td> <td>1.9</td> </tr> <tr> <td>2012</td> <td><span>R</span></td> <td>Santorum</td> <td>No</td> <td>1.8</td> </tr> <tr> <td>1996</td> <td><span>R</span></td> <td>Alexander</td> <td>No</td> <td>1.4</td> </tr> </tbody> </table> <div><a>Show more rows</a></div> <footer> <p>Sources: Polls, Congressional Quarterly, Dave Leip’s Atlas of U.S. Presidential elections, Federal Election Commission</p> </footer></section>
 </div>
 
 
@@ -3708,10 +2651,10 @@
 
 
 
-<p data-paragraph="main">Of course, in part due to small sample size, primaries are notoriously hard to predict. The method I used to run the model, Stan gives you a distribution of the possible values of your parameter of interest (in our case, the probability a candidate polling at 50 percent would win the nomination) given the uncertainty of the data in our model.</p>
-"&gt;<sup>15</sup> itself produces a wide range of possible outcomes — the probability of Trump winning could reasonably range
-"&gt;<sup>16</sup> from 54 percent to 93 percent — just based on the uncertainty in past polling! Moreover, forecasting the primary is likely to be especially difficult this year, since the events of this nomination are far removed from the events of history, meaning <a href="https://xkcd.com/605/" target="_blank" rel="noopener">our models are less reliable</a>.<a data-footnote-id="17" href="https://fivethirtyeight.com/wp-json/wp/v2/espn_verticals/398#fn-17" data-footnote-content="&lt;p&gt;&lt;p&gt;As a general rule, uncertainty grows as you exceed the range of observed values in your dependent variable.&lt;/p&gt;
-&lt;/p&gt;"><sup>17</sup></a> For instance, Trump is effectively running in the primary as an incumbent president, a rare event in general, but especially considering the circumstances under which he left office. Not to mention, no other leading presidential candidate has been under four criminal indictments while running for office. Betting markets — which have the advantage of looking at data other than polling — <a href="https://electionbettingodds.com/" target="_blank" rel="noopener">put Trump’s chances</a> closer to 66 percent.
+<p data-paragraph="main">Of course, in part due to small sample size, primaries are notoriously hard to predict. The method I used to run the model<a data-footnote-id="15" href="https://fivethirtyeight.com/wp-json/wp/v2/espn_verticals/398#fn-15" data-footnote-content="&lt;p&gt;&lt;p&gt;A program for Bayesian statistics called Stan. Similar to frequentist statistical techniques such as bootstrapping, Stan gives you a distribution of the possible values of your parameter of interest (in our case, the probability a candidate polling at 50 percent would win the nomination) given the uncertainty of the data in our model.&lt;/p&gt;
+&lt;/p&gt;"><sup>15</sup></a> itself produces a wide range of possible outcomes — the probability of Trump winning could reasonably range<a data-footnote-id="16" href="https://fivethirtyeight.com/wp-json/wp/v2/espn_verticals/398#fn-16" data-footnote-content="&lt;p&gt;&lt;p&gt;Within the 90-percent Bayesian predictive interval.&lt;/p&gt;
+&lt;/p&gt;"><sup>16</sup></a> from 54 percent to 93 percent — just based on the uncertainty in past polling! Moreover, forecasting the primary is likely to be especially difficult this year, since the events of this nomination are far removed from the events of history, meaning <a href="https://xkcd.com/605/" target="_blank" rel="noopener">our models are less reliable</a>.<a data-footnote-id="17" href="https://fivethirtyeight.com/wp-json/wp/v2/espn_verticals/398#fn-17" data-footnote-content="&lt;p&gt;&lt;p&gt;As a general rule, uncertainty grows as you exceed the range of observed values in your dependent variable.&lt;/p&gt;
+&lt;/p&gt;"><sup>17</sup></a> For instance, Trump is effectively running in the primary as an incumbent president, a rare event in general, but especially considering the circumstances under which he left office. Not to mention, no other leading presidential candidate has been under four criminal indictments while running for office. Betting markets — which have the advantage of looking at data other than polling — <a href="https://electionbettingodds.com/" target="_blank" rel="noopener">put Trump’s chances</a> closer to 66 percent.</p>
 
 
 
@@ -3847,8 +2790,7 @@
 															<source media="(min-width: 768px)">
 							
 															<source>
-								<img decoding="async" alt="538_4x3_StudentLoanRepayment_v01_ks" src="https://fivethirtyeight.com/wp-content/uploads/2023/08/538_4x3_StudentLoanRepayment_v01_ks.jpg?w=916" data-sizes="(max-width: 768px) 100vw, (max-width: 1080px) 66vw, 684px" data-src="https://fivethirtyeight.com/wp-content/uploads/2023/08/538_4x3_StudentLoanRepayment_v01_ks.jpg?w=916" data-srcset="https://fivethirtyeight.com/wp-content/uploads/2023/08/538_4x3_StudentLoanRepayment_v01_ks.jpg?w=916 1x, https://fivethirtyeight.com/wp-content/uploads/2023/08/538_4x3_StudentLoanRepayment_v01_ks.jpg?w=1832 2x">
-													</source></source></picture>
+								<img loading="lazy" decoding="async" width="916" height="687" src="https://fivethirtyeight.com/wp-content/uploads/2023/08/538_4x3_StudentLoanRepayment_v01_ks.jpg?w=916" alt="" data-sizes="(max-width: 916px) 100vw, 916px" data-src="https://fivethirtyeight.com/wp-content/uploads/2023/08/538_4x3_StudentLoanRepayment_v01_ks.jpg?w=916" data-srcset="https://fivethirtyeight.com/wp-content/uploads/2023/08/538_4x3_StudentLoanRepayment_v01_ks.jpg 1422w, https://fivethirtyeight.com/wp-content/uploads/2023/08/538_4x3_StudentLoanRepayment_v01_ks.jpg?resize=100,75 100w, https://fivethirtyeight.com/wp-content/uploads/2023/08/538_4x3_StudentLoanRepayment_v01_ks.jpg?resize=300,225 300w, https://fivethirtyeight.com/wp-content/uploads/2023/08/538_4x3_StudentLoanRepayment_v01_ks.jpg?resize=768,576 768w, https://fivethirtyeight.com/wp-content/uploads/2023/08/538_4x3_StudentLoanRepayment_v01_ks.jpg?resize=1024,768 1024w, https://fivethirtyeight.com/wp-content/uploads/2023/08/538_4x3_StudentLoanRepayment_v01_ks.jpg?resize=683,512 683w, https://fivethirtyeight.com/wp-content/uploads/2023/08/538_4x3_StudentLoanRepayment_v01_ks.jpg?resize=575,432 575w, https://fivethirtyeight.com/wp-content/uploads/2023/08/538_4x3_StudentLoanRepayment_v01_ks.jpg?resize=470,352 470w, https://fivethirtyeight.com/wp-content/uploads/2023/08/538_4x3_StudentLoanRepayment_v01_ks.jpg?resize=600,450 600w, https://fivethirtyeight.com/wp-content/uploads/2023/08/538_4x3_StudentLoanRepayment_v01_ks.jpg?resize=347,260 347w, https://fivethirtyeight.com/wp-content/uploads/2023/08/538_4x3_StudentLoanRepayment_v01_ks.jpg?resize=213,160 213w, https://fivethirtyeight.com/wp-content/uploads/2023/08/538_4x3_StudentLoanRepayment_v01_ks.jpg?resize=207,155 207w, https://fivethirtyeight.com/wp-content/uploads/2023/08/538_4x3_StudentLoanRepayment_v01_ks.jpg?resize=60,45 60w, https://fivethirtyeight.com/wp-content/uploads/2023/08/538_4x3_StudentLoanRepayment_v01_ks.jpg?resize=916,687 916w">													</source></source></picture>
 					</div>
 
 				
